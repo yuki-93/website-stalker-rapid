@@ -149,7 +149,8 @@ sites:
       - css_select: .c-constructions
       - html_markdownify
       
- - url: https://www.bvg.de/de/verbindungen/stoerungsmeldungen?type=TRAFFIC
+ - url: 
+      - https://www.bvg.de/de/verbindungen/stoerungsmeldungen?type=TRAFFIC
     editors:
       - css_select: article section
       - html_markdownify
