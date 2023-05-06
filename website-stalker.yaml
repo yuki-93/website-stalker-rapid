@@ -153,3 +153,11 @@ sites:
     editors:
       - css_select: article
       - html_markdownify
+      
+  - url: https://tw.dkjjk.de/BVG_Ubahn
+    editors:
+      - html_markdownify
+      
+  - url: https://tw.dkjjk.de/Berliner_Fw
+    editors:
+      - html_markdownify
