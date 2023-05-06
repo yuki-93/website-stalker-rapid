@@ -144,7 +144,7 @@ Der 11. BerlinFireFighterStairrun ist beendet! Gesamtsieger wurde ein Team aus P
 
 [Berliner Feuerwehr](/Berliner_Fw) [@Berliner\_Fw](/Berliner_Fw)
 
-[7h](/Berliner_Fw/status/1654806331692335106#m)
+[8h](/Berliner_Fw/status/1654806331692335106#m)
 
 Noch bis 17 Uhr sind unsere Kolleginnen und Kollegen beim [#Lichtenberger\_Blaulichttag](/search?q=%23Lichtenberger_Blaulichttag) präsent.
 Näheres: [berlin.de/ba-lichtenberg/pol…](https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/beauftragte/katastrophenschutz/artikel.1311342.php)
