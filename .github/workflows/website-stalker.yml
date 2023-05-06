@@ -12,7 +12,7 @@ permissions:
 jobs:
   website-stalker:
     runs-on: ubuntu-latest
-    env:
+    #env:
       #WEBSITE_STALKER_FROM: ${{ secrets.WEBSITE_STALKER_FROM }}
       #TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       #TELEGRAM_TARGET_CHAT: "-1001569012086"
