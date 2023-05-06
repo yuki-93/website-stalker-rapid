@@ -143,3 +143,8 @@ sites:
       - css_select: .product-box__info
       - css_remove: .product-box__excl-tax
       - html_markdownify
+      
+  - url: https://sbahn.berlin/fahren/bauen-stoerung/
+    editors:
+      - css_select: .c-constructions
+      - html_markdownify
