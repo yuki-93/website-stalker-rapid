@@ -32,7 +32,7 @@ Berlin
 
 * Tweets 10,119
 * Following 211
-* Followers 186,300
+* Followers 186,302
 * Likes 4,418
 
 [2,909 Photos and videos](/Berliner_Fw/media)
@@ -52,7 +52,7 @@ Berlin
 
 [Berliner Feuerwehr](/Berliner_Fw) [@Berliner\_Fw](/Berliner_Fw)
 
-[12h](/Berliner_Fw/status/1654739553423446016#m)
+[13h](/Berliner_Fw/status/1654739553423446016#m)
 
 Seit 8 Uhr melden sich etwa 800 Kollegen zum [#BerlinFirefighterStairrun](/search?q=%23BerlinFirefighterStairrun) an. Um 10.15 Uhr wird der Wettstreit durch den Landesbranddirektor eröffnet. Wir freuen uns auf dieses Event. Weitere Infos folgen.[#Berliner\_FW](/search?q=%23Berliner_FW)[#TFATeamBerlin](/search?q=%23TFATeamBerlin)[#BSGBerlinerFeuerwehr](/search?q=%23BSGBerlinerFeuerwehr)[Berlin-firefighter-stairrun.…](http://Berlin-firefighter-stairrun.de)
 
@@ -60,9 +60,9 @@ Seit 8 Uhr melden sich etwa 800 Kollegen zum [#BerlinFirefighterStairrun](/searc
 
  3
 
- 14
+ 15
 
- 178
+ 183
 
 [](/Berliner_Fw/status/1654760745320456195#m)
 
@@ -70,7 +70,7 @@ Seit 8 Uhr melden sich etwa 800 Kollegen zum [#BerlinFirefighterStairrun](/searc
 
 [Berliner Feuerwehr](/Berliner_Fw) [@Berliner\_Fw](/Berliner_Fw)
 
-[11h](/Berliner_Fw/status/1654760745320456195#m)
+[12h](/Berliner_Fw/status/1654760745320456195#m)
 
 Wir sind mit verschiedenen Einsatzmitteln vor Ort. Unter anderem mit 6 Kollegen der Speziellen Rettung aus Höhen und Tiefen. Diese seilen einzelne Teilnehmer nach dem erreichen des Daches von diesem ab.[#Berliner\_FW](/search?q=%23Berliner_FW)[#TFATeamBerlin](/search?q=%23TFATeamBerlin)[#BSGBerlinerFeuerwehr](/search?q=%23BSGBerlinerFeuerwehr)[Berlin-firefighter-stairrun.…](http://Berlin-firefighter-stairrun.de)
 
@@ -80,7 +80,7 @@ Wir sind mit verschiedenen Einsatzmitteln vor Ort. Unter anderem mit 6 Kollegen 
 
  1
 
- 56
+ 57
 
 [](/Berliner_Fw/status/1654768556184043524#m)
 
@@ -88,7 +88,7 @@ Wir sind mit verschiedenen Einsatzmitteln vor Ort. Unter anderem mit 6 Kollegen 
 
 [Berliner Feuerwehr](/Berliner_Fw) [@Berliner\_Fw](/Berliner_Fw)
 
-[10h](/Berliner_Fw/status/1654768556184043524#m)
+[11h](/Berliner_Fw/status/1654768556184043524#m)
 
 Um 10:15 Uhr wurde die Veranstaltung eröffnet. Dr. Homrighausen richtete Grußworte an alle Teilnehmenden. 340 deutsche und 60 internationale Teams nehmen Teil. [#Berliner\_FW](/search?q=%23Berliner_FW) stellt mit 44 Teams die meisten Teilnehmenden.[#TFATeamBerlin](/search?q=%23TFATeamBerlin)[#BSGBerlinerFeuerwehr](/search?q=%23BSGBerlinerFeuerwehr)[Berlin-firefighter-stairrun.…](http://Berlin-firefighter-stairrun.de)
 
@@ -98,7 +98,7 @@ Um 10:15 Uhr wurde die Veranstaltung eröffnet. Dr. Homrighausen richtete Grußw
 
  2
 
- 54
+ 55
 
 [](/Berliner_Fw/status/1654773262583226370#m)
 
@@ -106,7 +106,7 @@ Um 10:15 Uhr wurde die Veranstaltung eröffnet. Dr. Homrighausen richtete Grußw
 
 [Berliner Feuerwehr](/Berliner_Fw) [@Berliner\_Fw](/Berliner_Fw)
 
-[10h](/Berliner_Fw/status/1654773262583226370#m)
+[11h](/Berliner_Fw/status/1654773262583226370#m)
 
 Um 11 Uhr starteten die ersten 63 Teams im erste Teilnehmer-Block mit kompletter Schutzausrüstung und Pressluftatmer. Diese Ausrüstung wiegt ca 25 Kg. Wir wünschen allen viel Erfolg und vor allem Spaß.[#Berliner\_FW](/search?q=%23Berliner_FW)[#TFATeamBerlin](/search?q=%23TFATeamBerlin)[#BSGBerlinerFeuerwehr](/search?q=%23BSGBerlinerFeuerwehr)[Berlin-firefighter-stairrun.…](http://Berlin-firefighter-stairrun.de)
 
@@ -118,7 +118,7 @@ Um 11 Uhr starteten die ersten 63 Teams im erste Teilnehmer-Block mit kompletter
 
  1
 
- 64
+ 68
 
 [](/Berliner_Fw/status/1654880886066741249#m)
 
@@ -126,7 +126,7 @@ Um 11 Uhr starteten die ersten 63 Teams im erste Teilnehmer-Block mit kompletter
 
 [Berliner Feuerwehr](/Berliner_Fw) [@Berliner\_Fw](/Berliner_Fw)
 
-[3h](/Berliner_Fw/status/1654880886066741249#m)
+[4h](/Berliner_Fw/status/1654880886066741249#m)
 
 Der 11. BerlinFireFighterStairrun ist beendet! Gesamtsieger wurde ein Team aus Polen. Über 800 Sportler waren bei diesem teilnehmerstärksten Stairrun in Europa dabei. Dank den über 100 freiwilligen Helfern, die dieses sportliche Großevent erst möglich gemacht haben!
 
@@ -136,7 +136,7 @@ Der 11. BerlinFireFighterStairrun ist beendet! Gesamtsieger wurde ein Team aus P
 
 [![](/pic/media%2FFvdRZBaWcAAmreq.jpg%3Fname%3Dsmall%26format%3Dwebp)](/pic/orig/media%2FFvdRZBaWcAAmreq.jpg)
 
- 48
+ 54
 
 [](/Berliner_Fw/status/1654806331692335106#m)
 
@@ -144,7 +144,7 @@ Der 11. BerlinFireFighterStairrun ist beendet! Gesamtsieger wurde ein Team aus P
 
 [Berliner Feuerwehr](/Berliner_Fw) [@Berliner\_Fw](/Berliner_Fw)
 
-[8h](/Berliner_Fw/status/1654806331692335106#m)
+[9h](/Berliner_Fw/status/1654806331692335106#m)
 
 Noch bis 17 Uhr sind unsere Kolleginnen und Kollegen beim [#Lichtenberger\_Blaulichttag](/search?q=%23Lichtenberger_Blaulichttag) präsent.
 Näheres: [berlin.de/ba-lichtenberg/pol…](https://www.berlin.de/ba-lichtenberg/politik-und-verwaltung/beauftragte/katastrophenschutz/artikel.1311342.php)
@@ -153,7 +153,7 @@ Näheres: [berlin.de/ba-lichtenberg/pol…](https://www.berlin.de/ba-lichtenberg
 
  4
 
- 115
+ 117
 
 [](/Berliner_Fw/status/1654398382406787072#m)
 

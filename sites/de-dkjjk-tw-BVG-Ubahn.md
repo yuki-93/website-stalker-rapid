@@ -32,7 +32,7 @@ Berlin, Berlin, Deutschland
 
 * Tweets 52,180
 * Following 271
-* Followers 207,319
+* Followers 207,318
 * Likes 2,490
 
 [1,391 Photos and videos](/BVG_Ubahn/media)
@@ -74,7 +74,7 @@ Für alle, die ihre FahrCard zum Deutschlandticket noch nicht erhalten haben: Wi
 
 [BVG U-Bahn](/BVG_Ubahn) [@BVG\_Ubahn](/BVG_Ubahn)
 
-[2h](/BVG_Ubahn/status/1654886255388139521#m)
+[3h](/BVG_Ubahn/status/1654886255388139521#m)
 
 Das war doch wieder ein spannender Tag. Macht euch noch einen schönen Abend und vielleicht lesen wir uns bereits morgen hier wieder. LG Nico 😎
 
@@ -86,7 +86,7 @@ Das war doch wieder ein spannender Tag. Macht euch noch einen schönen Abend und
 
 [BVG U-Bahn](/BVG_Ubahn) [@BVG\_Ubahn](/BVG_Ubahn)
 
-[7h](/BVG_Ubahn/status/1654818749894066177#m)
+[8h](/BVG_Ubahn/status/1654818749894066177#m)
 
 Fußballspiel: Die Züge der [#U2\_BVG](/search?q=%23U2_BVG) , die sonst am U Theodor-Heuss-Platz enden, fahren bis 17 Uhr bis zum U Olympia-Stadion durch. [#BVG](/search?q=%23BVG)
 
@@ -98,7 +98,7 @@ Fußballspiel: Die Züge der [#U2\_BVG](/search?q=%23U2_BVG) , die sonst am U Th
 
 [BVG U-Bahn](/BVG_Ubahn) [@BVG\_Ubahn](/BVG_Ubahn)
 
-[11h](/BVG_Ubahn/status/1654757908117168128#m)
+[12h](/BVG_Ubahn/status/1654757908117168128#m)
 
 Guten Tag ihr lieben Liebenden. Ich darf heute den Tag mit euch verbringen. Genießt die hoffentlich freie Zeit und kommt gut durch die Stadt. LG Nico 😎
 
