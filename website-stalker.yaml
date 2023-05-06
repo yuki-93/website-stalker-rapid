@@ -11,7 +11,7 @@ notification_template: |
   {{/sites}}
 
   {{#commit}}
-  https://github.com/EdJoPaTo/website-stalker-example/commit/{{.}}
+  https://github.com/yuki-93/website-stalker/commit/{{.}}
   {{/commit}}
 
 sites:
