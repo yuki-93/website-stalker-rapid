@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](/fahren/s42/)[S8](/fahren/s8/)
-
-### Polizeieinsatz in Frankfurter Allee beendet ###
-
- Letztes Update: 14:10 / 07.05.2023
-
-Information
-
-Nach einem Polizeieinsatz im Zug in Frankfurter Allee kommt es auf den Linien S42 und S8 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S45](/fahren/s45/)
 
 ### kurzfristiger Personalausfall Linie S45 zwischen Flughafen BER Terminal 1-2 und Flughafen BER Terminal 5 ###
