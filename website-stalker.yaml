@@ -156,4 +156,5 @@ sites:
     editors:
       - css_select: .DisruptionsOverview_DisruptionGroupSection__GTXXL
       - html_markdownify
+      - ignore_error: true
       
