@@ -151,7 +151,6 @@ sites:
       - css_remove: .o-close-details-mobile
       - css_remove: .c-button.c-button--link
       - html_markdownify
-      - html_url_canonicalize
       
   - url: https://www.bvg.de/de/verbindungen/stoerungsmeldungen?type=TRAFFIC
     ignore_error: true
