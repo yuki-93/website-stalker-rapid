@@ -97,153 +97,6 @@ Information
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/513/#con-27059)
 
-[S45](/fahren/s45/)[S46](/fahren/s46/)[S47](/fahren/s47/)[S8](/fahren/s8/)[S85](/fahren/s85/)[S9](/fahren/s9/)
-
-### Flughafen BER – Terminal 1-2/Grünau \<\> Baumschulenweg \<\> Warschauer Straße ###
-
-05.05. (Fr), ca. 22 Uhr durchgehend bis 08.05. (Mo), ca. 1.30 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27022&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16847&type=5679&cHash=1e224ec7781d0cd2629f93ff4e61cb1b)
-
-12.05. (Fr), ca. 22 Uhr durchgehend bis 15.05. (Mo), ca. 1.30 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27022&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16848&type=5679&cHash=2d7364564e86bbe72f004db3c560ff46)
-
-[Alle Termine im Kalender speichern](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27022&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&type=5679&cHash=1545fd2bbb416c3811f47f4dd56d1e37)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr:
-  * Grünau \<\> Adlershof \<\> Schöneweide \<\> Baumschulenweg
-  * Treptower Park \<\> Warschauer Straße (S9-Kurve),
-     Bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen, im Abschnitt Ostkreuz \<\> Spandau fährt die S3 im 10-Minutentakt
-
-* **alternative Reisemöglichkeiten:**
-  * mit dem FEX Flughafen BER – Terminal 1-2 \<\> Schöneweide (Zusatzhalt) \<\> Ostkreuz \<\> Gesundbrunnen \<\> Berlin Hbf (tief),
-  * mit der RB32 Flughafen BER – Terminal 5 \<\> Schöneweide \<\> Ostkreuz \<\> Lichtenberg
-
-* Ersatzverkehr mit Bussen:
-  * Bus S46: Grünau \<\> Baumschulenweg
-  * Bus S9A: Adlershof \<\> Baumschulenweg
-  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Baumschulenweg
-
-* S-Bahn-Pendelverkehr:
-  * Altglienicke \<\> Adlershof im 20-Minutentakt
-  * Baumschulenweg \<\> Treptower Park im 10-Minutentakt (mit Umsteigen in Plänterwald)
-
-* Taktänderung
-  * Flughafen BER – Terminal 5 \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt mit S9
-  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 10-Minutentakt mit S45 und S46
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27022)[Bauvideo](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
-
-### Fahrplanänderungen ###
-
-[S3](/fahren/s3/)
-
- Nur Nachts
-
-### Friedrichstraße \> Grunewald ###
-
-08.05. (Mo) bis 12.05. (Fr), jeweils 1:35 Uhr bis 1:55 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26998&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20109&tx_sbbconstructions_list%5Bperiod%5D=16841&type=5679&cHash=defda1198cd22199964b217e16af5e5a)
-
- fährt nicht
-
-Information
-
-* Der Zug Karlshorst ab 1:16 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:36 Uhr in Friedrichstraße.
-* Der Zug fällt von Friedrichstraße bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
-[S5](/fahren/s5/)
-
-### Charlottenburg \<\> Westkreuz ###
-
-02.05. (Di), ca. 4 Uhr durchgehend bis 19.05. (Fr), ca. 1.30 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27058&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20169&tx_sbbconstructions_list%5Bperiod%5D=16858&type=5679&cHash=a5fb43e5dadac84b89b8a17734019017)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Die S5 endet/beginnt in Charlottenburg, bitte benutzen Sie zwischen Charlottenburg \<\> Westkreuz die S3, S7 oder S9.
-
-* Bahnsteigänderung:
-  * In Charlottenburg fährt die S5 nach Mahlsdorf/Hoppegarten/Strausberg/Strausberg Nord von Gleis 7, Bahnsteig stadtauswärts.
-  * In der Nacht 10./11.05. (Mi/Do) endet/beginnt die S5 aus/nach Strausberg/Strausberg Nord auf Gleis 6 Bahnsteig stadteinwärts.
-
-* Linienführung:
-  * S5 fährt Strausberg Nord \<\> Charlottenburg (10-Minutentakt: Hoppegarten/Mahlsdorf \<\> Charlottenburg)
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
-
-[S2](/fahren/s2/)[S8](/fahren/s8/)[S85](/fahren/s85/)
-
-Nur Wochenende
-
-### Pankow \<\> Buch/Mühlenbeck-Mönchmühle ###
-
-05.05. (Fr), ca. 22 Uhr durchgehend bis 08.05. (Mo), ca. 1.30 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27052&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20163&tx_sbbconstructions_list%5Bperiod%5D=16853&type=5679&cHash=99372b7e09b2c73dacf718ac851cf55d)
-
-12.05. (Fr), ca. 22 Uhr durchgehend bis 15.05. (Mo), ca. 1.30 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27052&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20163&tx_sbbconstructions_list%5Bperiod%5D=16854&type=5679&cHash=3d512466624cf6400a19f96571caebe3)
-
-[Alle Termine im Kalender speichern](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27052&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20163&type=5679&cHash=c9d8c1a8d184896a70692a44260d5e15)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S2: Pankow \<\> Buch
-  * Bus S8: Pankow \<\> Mühlenbeck-Mönchmühle
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-kabeltiefbau-schienenauswechslungen/#con-27052)
-
-[S5](/fahren/s5/)[S7](/fahren/s7/)[S75](/fahren/s75/)
-
-### Wuhletal/Wartenberg \<\> Warschauer Straße ###
-
-07.05. (So), ca. 1 Uhr bis 08.05. (Mo), ca. 1.30 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27059&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20170&tx_sbbconstructions_list%5Bperiod%5D=16859&type=5679&cHash=7f059564f81f175622f07f242d2f94b1)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Wuhletal \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
-* Taktänderung: Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-* Taktänderung: Friedrichsfelde Ost \<\> Ostkreuz S-Bahnverkehr nur im 3-/17-Minutentakt mit S5 und S7
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](/fahren/bauen-stoerung/detail/513/#con-27059)
-
 [S2](/fahren/s2/)[S25](/fahren/s25/)
 
  Nur Nachts
@@ -311,6 +164,163 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27022)[Bauvideo](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
+
+[S45](/fahren/s45/)[S46](/fahren/s46/)[S47](/fahren/s47/)[S8](/fahren/s8/)[S85](/fahren/s85/)[S9](/fahren/s9/)
+
+### Flughafen BER – Terminal 1-2/Grünau \<\> Baumschulenweg \<\> Warschauer Straße ###
+
+08.05. (Mo), ca. 4 Uhr durchgehend bis 12.05. (Fr), ca. 22 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16849&type=5679&cHash=d5cb05c2f6c0c9b38e786661dd35da5b)
+
+15.05. (Mo), ca. 4 Uhr durchgehend bis 19.05. (Fr), ca. 22 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16850&type=5679&cHash=d28e24f6093eab931e0fcc5b7c20cc73)
+
+22.05. (Mo), ca. 4 Uhr durchgehend bis 26.05. (Fr), ca. 22 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16851&type=5679&cHash=364e7432701aa2e6d0c54159482fa465)
+
+[Alle Termine im Kalender speichern](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&type=5679&cHash=742e5b3e5c8e203f5d4f6c964c25614b)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr:
+  * Schöneweide \<\> Baumschulenweg
+  * Treptower Park \<\> Warschauer Straße (S9-Kurve),
+     Bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen, im Abschnitt Ostkreuz \<\> Spandau fährt die S3 im 10-Minutentakt
+
+* **alternative Reisemöglichkeiten:**
+  * mit dem FEX Flughafen BER – Terminal 1-2 \<\> Schöneweide (Zusatzhalt) \<\> Ostkreuz \<\> Gesundbrunnen \<\> Berlin Hbf (tief),
+  * mit der RB32 Flughafen BER – Terminal 5 \<\> Schöneweide \<\> Ostkreuz \<\> Lichtenberg
+
+* Ersatzverkehr mit Bussen:
+  * Bus S46: Baumschulenweg \> Schöneweide \> Baumschulenweg
+  * Bus S9A: Baumschulenweg \> Schöneweide \> Baumschulenweg
+  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Baumschulenweg
+
+* S-Bahn-Pendelverkehr: Baumschulenweg \<\> Treptower Park (im 10-Minutentakt mit Umsteigen in Plänterwald)
+* Taktänderung:
+  * Altglienicke \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
+  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
+  * Adlershof \<\> Schöneweide S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S46 und S9
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 10-Minutentakt mit S45 und S46
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27023)[Bauvideo](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
+
+### Fahrplanänderungen ###
+
+[S3](/fahren/s3/)
+
+ Nur Nachts
+
+### Friedrichstraße \> Grunewald ###
+
+08.05. (Mo) bis 12.05. (Fr), jeweils 1:35 Uhr bis 1:55 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26998&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20109&tx_sbbconstructions_list%5Bperiod%5D=16841&type=5679&cHash=defda1198cd22199964b217e16af5e5a)
+
+ fährt nicht
+
+Information
+
+* Der Zug Karlshorst ab 1:16 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:36 Uhr in Friedrichstraße.
+* Der Zug fällt von Friedrichstraße bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
+
+[S3](/fahren/s3/)
+
+ Nur Nachts
+
+### Westkreuz \> Friedrichstraße ###
+
+08.05. (Mo) bis 12.05. (Fr) 3:12 Uhr bis 3:28 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26999&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20110&tx_sbbconstructions_list%5Bperiod%5D=16842&type=5679&cHash=ccb739b20b7e8ec9f98cdd1d5ecb1205)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Karlshorst (an 3:49 Uhr) beginnt erst um 3:28 Uhr in Friedrichstraße
+* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
+
+[S3](/fahren/s3/)
+
+ Nur Nachts
+
+### Westkreuz \> Friedrichstraße ###
+
+08.05. (Mo) bis 12.05. (Fr) 3:32 Uhr bis 3:48 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27000&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20111&tx_sbbconstructions_list%5Bperiod%5D=16843&type=5679&cHash=7629e3bbd44f68fa50bec9c9ad448da8)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:32 Uhr nach Karlshorst (an 4:09 Uhr) beginnt erst um 3:48 Uhr in Friedrichstraße.
+* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S5](/fahren/s5/)
+
+### Charlottenburg \<\> Westkreuz ###
+
+02.05. (Di), ca. 4 Uhr durchgehend bis 19.05. (Fr), ca. 1.30 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27058&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20169&tx_sbbconstructions_list%5Bperiod%5D=16858&type=5679&cHash=a5fb43e5dadac84b89b8a17734019017)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Die S5 endet/beginnt in Charlottenburg, bitte benutzen Sie zwischen Charlottenburg \<\> Westkreuz die S3, S7 oder S9.
+
+* Bahnsteigänderung:
+  * In Charlottenburg fährt die S5 nach Mahlsdorf/Hoppegarten/Strausberg/Strausberg Nord von Gleis 7, Bahnsteig stadtauswärts.
+  * In der Nacht 10./11.05. (Mi/Do) endet/beginnt die S5 aus/nach Strausberg/Strausberg Nord auf Gleis 6 Bahnsteig stadteinwärts.
+
+* Linienführung:
+  * S5 fährt Strausberg Nord \<\> Charlottenburg (10-Minutentakt: Hoppegarten/Mahlsdorf \<\> Charlottenburg)
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
+
+[S2](/fahren/s2/)[S25](/fahren/s25/)
+
+ Nur Nachts
+
+### Schichauweg \<\> Yorckstraße ###
+
+Nächte 08./09.05. (Mo/Di) und 09./10.05. (Di/Mi), jeweils ca.22 Uhr - ca. 1.30 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27051&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20162&tx_sbbconstructions_list%5Bperiod%5D=16852&type=5679&cHash=b3a11ac65becc0bfea265d3e7908b546)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S2 nach Bernau fährt von Schichauweg bis Yorckstraße 1 Minute früher.
+
+* Gleisänderung:
+  * In Südkreuz fahren die S2 nach Blankenfelde und die S25 nach Teltow Stadt von Gleis 2 (Gleis stadteinwärts).
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
 [S45](/fahren/s45/)[S46](/fahren/s46/)[S47](/fahren/s47/)[S8](/fahren/s8/)[S85](/fahren/s85/)[S9](/fahren/s9/)
 
