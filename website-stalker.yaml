@@ -148,6 +148,8 @@ sites:
     editors:
       - css_select: .c-constructions
       - css_remove: .c-close-btn
+      - css_remove: .o-close-details-mobile
+      - css_remove: .c-button.c-button--link
       - html_markdownify
       
   - url: https://www.bvg.de/de/verbindungen/stoerungsmeldungen?type=TRAFFIC
