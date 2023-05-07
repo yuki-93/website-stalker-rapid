@@ -1,4 +1,4 @@
-<html><head></head><body>Hinweis
+Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
@@ -1143,4 +1143,4 @@ Information
 
 * Der Zug Westkreuz ab 3:12 Uhr nach Karlshorst (an 3:49 Uhr) beginnt erst um 3:37 Uhr in Ostbahnhof.
 * Der Zug fällt von Westkreuz bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)</body></html>
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
