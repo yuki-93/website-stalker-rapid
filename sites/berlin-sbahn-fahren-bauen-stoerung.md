@@ -50,10 +50,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S2](/fahren/s2/)[S8](/fahren/s8/)[S85](/fahren/s85/)
@@ -88,10 +84,6 @@ Information
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-kabeltiefbau-schienenauswechslungen/#con-27052)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S5](/fahren/s5/)[S7](/fahren/s7/)[S75](/fahren/s75/)
@@ -116,10 +108,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/513/#con-27059)
-
-schließen
-
-schließen
 
 **Zurück zur Fahrplanänderung**
 
@@ -171,10 +159,6 @@ Information
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27022)[Bauvideo](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
 
-schließen
-
-schließen
-
 ### Fahrplanänderungen ###
 
 **Zurück zur Fahrplanänderung**
@@ -198,10 +182,6 @@ Information
 * Der Zug Karlshorst ab 1:16 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:36 Uhr in Friedrichstraße.
 * Der Zug fällt von Friedrichstraße bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
-
-schließen
-
-schließen
 
 Hinweis
 
@@ -237,10 +217,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S2](/fahren/s2/)[S8](/fahren/s8/)[S85](/fahren/s85/)
@@ -275,10 +251,6 @@ Information
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-kabeltiefbau-schienenauswechslungen/#con-27052)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S5](/fahren/s5/)[S7](/fahren/s7/)[S75](/fahren/s75/)
@@ -303,10 +275,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/513/#con-27059)
-
-schließen
-
-schließen
 
 **Zurück zur Fahrplanänderung**
 
@@ -333,10 +301,6 @@ Information
   * In Südkreuz fahren die S2 nach Blankenfelde und die S25 nach Teltow Stadt von Gleis 2 (Gleis stadteinwärts).
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
-
-schließen
-
-schließen
 
 **Zurück zur Fahrplanänderung**
 
@@ -387,10 +351,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27022)[Bauvideo](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
-
-schließen
-
-schließen
 
 **Zurück zur Fahrplanänderung**
 
@@ -445,10 +405,6 @@ Information
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27023)[Bauvideo](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
 
-schließen
-
-schließen
-
 ### Fahrplanänderungen ###
 
 **Zurück zur Fahrplanänderung**
@@ -473,10 +429,6 @@ Information
 * Der Zug fällt von Friedrichstraße bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S3](/fahren/s3/)
@@ -499,10 +451,6 @@ Information
 * Der Zug fällt von Westkreuz bis Friedrichstraße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S3](/fahren/s3/)
@@ -524,10 +472,6 @@ Information
 * Der Zug Westkreuz ab 3:32 Uhr nach Karlshorst (an 4:09 Uhr) beginnt erst um 3:48 Uhr in Friedrichstraße.
 * Der Zug fällt von Westkreuz bis Friedrichstraße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/)
-
-schließen
-
-schließen
 
 Hinweis
 
@@ -563,10 +507,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S2](/fahren/s2/)[S8](/fahren/s8/)[S85](/fahren/s85/)
@@ -601,10 +541,6 @@ Information
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-kabeltiefbau-schienenauswechslungen/#con-27052)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S2](/fahren/s2/)[S25](/fahren/s25/)
@@ -631,10 +567,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S3](/fahren/s3/)[S5](/fahren/s5/)[S7](/fahren/s7/)
@@ -660,10 +592,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/weichenarbeiten-in-westkreuz-8/#con-27054)
-
-schließen
-
-schließen
 
 **Zurück zur Fahrplanänderung**
 
@@ -693,10 +621,6 @@ Information
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/umbau-weichenheizung-in-springpfuhl-kabeltiefbauarbeiten/#con-27056)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S45](/fahren/s45/)[S9](/fahren/s9/)
@@ -719,10 +643,6 @@ Information
 * Bahnsteigänderung: In Waßmannsdorf fahren die S45 und die S9 nach Flughafen BER – Terminal 1-2 von Gleis 2, Bahnsteig stadteinwärts.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S9](/fahren/s9/)
@@ -742,10 +662,6 @@ Information
 * Fahrplanänderung: Die S9 fährt von Altglienicke bis Flughafen BER – Terminal 5, 6 Minuten früher.
 * Bahnsteigänderung: In Waßmannsdorf fährt die S9 nach Flughafen BER – Terminal 5 (Altglienicke) von Gleis 1, Bahnsteig stadtauswärts
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
-
-schließen
-
-schließen
 
 **Zurück zur Fahrplanänderung**
 
@@ -773,10 +689,6 @@ Information
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/neubau-der-moltkebruecke-am-s-bf-botanischer-gart/#con-27085)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S5](/fahren/s5/)
@@ -800,10 +712,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-nach-weichenerneuerung-in-mahlsdorf/#con-27089)
-
-schließen
-
-schließen
 
 **Zurück zur Fahrplanänderung**
 
@@ -854,10 +762,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27022)[Bauvideo](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
-
-schließen
-
-schließen
 
 **Zurück zur Fahrplanänderung**
 
@@ -911,10 +815,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27023)[Bauvideo](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
-
-schließen
-
-schließen
 
 **Zurück zur Fahrplanänderung**
 
@@ -963,10 +863,6 @@ Information
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27079)[Bauvideo](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
 
-schließen
-
-schließen
-
 ### Fahrplanänderungen ###
 
 **Zurück zur Fahrplanänderung**
@@ -991,10 +887,6 @@ Information
 * Der Zug fällt von Friedrichstraße bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S3](/fahren/s3/)
@@ -1016,10 +908,6 @@ Information
 * Der Zug Westkreuz ab 3:12 Uhr nach Karlshorst (an 3:49 Uhr) beginnt erst um 3:28 Uhr in Friedrichstraße
 * Der Zug fällt von Westkreuz bis Friedrichstraße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
-
-schließen
-
-schließen
 
 **Zurück zur Fahrplanänderung**
 
@@ -1043,10 +931,6 @@ Information
 * Der Zug fällt von Westkreuz bis Friedrichstraße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S3](/fahren/s3/)
@@ -1069,10 +953,6 @@ Information
 * Der Zug fällt zwischen Alexanderplatz und Friedrichstraße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S3](/fahren/s3/)
@@ -1094,10 +974,6 @@ Information
 * Der Zug Westkreuz ab 3:12 Uhr nach Karlshorst (an 3:49 Uhr) beginnt erst um 3:32 Uhr in Alexanderplatz.
 * Der Zug fällt von Westkreuz bis Alexanderplatz aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
-
-schließen
-
-schließen
 
 Hinweis
 
@@ -1129,10 +1005,6 @@ Information
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-nach-weichenerneuerung-in-mahlsdorf/#con-27089)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S2](/fahren/s2/)[S25](/fahren/s25/)
@@ -1161,10 +1033,6 @@ Information
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/kabelarbeiten-sowie-arbeiten-an-der-leit-und-sicherungstechnik/#con-27086)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S7](/fahren/s7/)
@@ -1189,10 +1057,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-in-ahrensfeloede/#con-27091)
-
-schließen
-
-schließen
 
 **Zurück zur Fahrplanänderung**
 
@@ -1227,10 +1091,6 @@ Information
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/weichenschleifen-in-bornholmer-strasse/#con-27095)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S2](/fahren/s2/)[S8](/fahren/s8/)[S85](/fahren/s85/)
@@ -1259,10 +1119,6 @@ Information
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8/#con-27087)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S3](/fahren/s3/)[S5](/fahren/s5/)[S7](/fahren/s7/)[S9](/fahren/s9/)
@@ -1290,10 +1146,6 @@ Information
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/bauvorhaben-autobahndreieck-funkturm/#con-27124)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S42](/fahren/s42/)
@@ -1312,10 +1164,6 @@ Information
 
 * Fahrplanänderung: Die den 5-/5-/10-Minutentakt bildenden Züge fahren auf dem gesamten Ring um 10 Minuten versetzt.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
-
-schließen
-
-schließen
 
 **Zurück zur Fahrplanänderung**
 
@@ -1361,10 +1209,6 @@ Information
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27081)[Bauvideo](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
 
-schließen
-
-schließen
-
 ### Fahrplanänderungen ###
 
 **Zurück zur Fahrplanänderung**
@@ -1389,10 +1233,6 @@ Information
 * Der Zug fällt zwischen Alexanderplatz und Friedrichstraße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S3](/fahren/s3/)
@@ -1414,10 +1254,6 @@ Information
 * Der Zug Westkreuz ab 3:12 Uhr nach Karlshorst (an 3:49 Uhr) beginnt erst um 3:32 Uhr in Alexanderplatz.
 * Der Zug fällt von Westkreuz bis Alexanderplatz aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
-
-schließen
-
-schließen
 
 **Zurück zur Fahrplanänderung**
 
@@ -1441,10 +1277,6 @@ Information
 * Der Zug fällt zwischen Ostbahnhof und Friedrichstraße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S3](/fahren/s3/)
@@ -1467,10 +1299,6 @@ Information
 * Der Zug fällt von Alexanderplatz bis Ostbahnhof aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
 
-schließen
-
-schließen
-
 **Zurück zur Fahrplanänderung**
 
 [S3](/fahren/s3/)
@@ -1492,7 +1320,3 @@ Information
 * Der Zug Westkreuz ab 3:12 Uhr nach Karlshorst (an 3:49 Uhr) beginnt erst um 3:37 Uhr in Ostbahnhof.
 * Der Zug fällt von Westkreuz bis Ostbahnhof aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
-
-schließen
-
-schließen
