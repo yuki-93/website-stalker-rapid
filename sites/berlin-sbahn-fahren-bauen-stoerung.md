@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](/fahren/s46/)
+
+### Reparatur an einem Signal in Königs Wusterhausen ###
+
+ Letztes Update: 07:26 / 08.05.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Königs Wusterhausen ist der Zugverkehr der Linie S46 zwischen Königs Wusterhausen und Wildau unregelmäßig.
+
+Zur weiträumigen Umfahrung nutzen Sie bitte die Bus-Linien 736,737 sowie die Regionalbahnlinien RE 2, RE7 und RB22.
+
+Wir bitten um Entschuldigung
+
+ fährt nicht  keine Verbindung
+
 ### Baumaßnahmen ###
 
 [S5](/fahren/s5/)
