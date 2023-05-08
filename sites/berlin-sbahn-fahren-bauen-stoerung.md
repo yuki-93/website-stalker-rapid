@@ -119,6 +119,42 @@ Information
 * Der Zug fällt von Friedrichstraße bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
 
+[S3](/fahren/s3/)
+
+ Nur Nachts
+
+### Westkreuz \> Friedrichstraße ###
+
+08.05. (Mo) bis 12.05. (Fr) 3:12 Uhr bis 3:28 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26999&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20110&tx_sbbconstructions_list%5Bperiod%5D=16842&type=5679&cHash=ccb739b20b7e8ec9f98cdd1d5ecb1205)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Karlshorst (an 3:49 Uhr) beginnt erst um 3:28 Uhr in Friedrichstraße
+* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
+
+[S3](/fahren/s3/)
+
+ Nur Nachts
+
+### Westkreuz \> Friedrichstraße ###
+
+08.05. (Mo) bis 12.05. (Fr) 3:32 Uhr bis 3:48 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27000&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20111&tx_sbbconstructions_list%5Bperiod%5D=16843&type=5679&cHash=7629e3bbd44f68fa50bec9c9ad448da8)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:32 Uhr nach Karlshorst (an 4:09 Uhr) beginnt erst um 3:48 Uhr in Friedrichstraße.
+* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -170,6 +206,28 @@ Information
   * In Südkreuz fahren die S2 nach Blankenfelde und die S25 nach Teltow Stadt von Gleis 2 (Gleis stadteinwärts).
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
+
+[S3](/fahren/s3/)[S5](/fahren/s5/)[S7](/fahren/s7/)
+
+ Nur Nachts
+
+### Charlottenburg \<\> Spandau ###
+
+Nacht 10./11.05. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27054&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20165&tx_sbbconstructions_list%5Bperiod%5D=16855&type=5679&cHash=28aa7edf756069ef3818dc08f48fee90)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S3 und S7
+* Taktänderung: Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S3
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](/fahren/bauen-stoerung/detail/weichenarbeiten-in-westkreuz-8/#con-27054)
 
 [S45](/fahren/s45/)[S46](/fahren/s46/)[S47](/fahren/s47/)[S8](/fahren/s8/)[S85](/fahren/s85/)[S9](/fahren/s9/)
 
@@ -303,28 +361,6 @@ Information
 
 * Linienführung:
   * S5 fährt Strausberg Nord \<\> Charlottenburg (10-Minutentakt: Hoppegarten/Mahlsdorf \<\> Charlottenburg)
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
-
-[S2](/fahren/s2/)[S25](/fahren/s25/)
-
- Nur Nachts
-
-### Schichauweg \<\> Yorckstraße ###
-
-Nächte 08./09.05. (Mo/Di) und 09./10.05. (Di/Mi), jeweils ca.22 Uhr - ca. 1.30 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27051&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20162&tx_sbbconstructions_list%5Bperiod%5D=16852&type=5679&cHash=b3a11ac65becc0bfea265d3e7908b546)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S2 nach Bernau fährt von Schichauweg bis Yorckstraße 1 Minute früher.
-
-* Gleisänderung:
-  * In Südkreuz fahren die S2 nach Blankenfelde und die S25 nach Teltow Stadt von Gleis 2 (Gleis stadteinwärts).
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
@@ -473,6 +509,51 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-nach-weichenerneuerung-in-mahlsdorf/#con-27089)
+
+[S2](/fahren/s2/)[S25](/fahren/s25/)
+
+ Nur Nachts
+
+### Tetow Stadt / Schichauweg \<\>Yorckstraße ###
+
+Nacht 24./25.05. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27086&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20199&tx_sbbconstructions_list%5Bperiod%5D=16881&type=5679&cHash=b06de7b045d7465be25f9bbc16920cde)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen: Attilastraße \<\> Priesterweg
+* Zugverkehr verändert:
+  * Zwischen Priesterweg \<\> Südkreuz fährt die S25 nicht. Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Priesterweg in die S2 um, die Weiterfahrt erfolgt nach 4 bis 5 Minuten vom selben Bahnsteig gegenüber.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](/fahren/bauen-stoerung/detail/kabelarbeiten-sowie-arbeiten-an-der-leit-und-sicherungstechnik/#con-27086)
+
+[S7](/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Springpfuhl ###
+
+Nacht 24./25.05. (Mi/Do), ca. 22.25 Uhr - ca. 1.30 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27091&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20203&tx_sbbconstructions_list%5Bperiod%5D=16886&type=5679&cHash=6b05a6aaeee7c32ec4070ea7c36a5300)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-in-ahrensfeloede/#con-27091)
 
 [S45](/fahren/s45/)[S46](/fahren/s46/)[S47](/fahren/s47/)[S8](/fahren/s8/)[S85](/fahren/s85/)[S9](/fahren/s9/)
 
@@ -703,71 +784,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S5](/fahren/s5/)
-
- Nur Nachts
-
-### Hoppegarten \<\> Mahlsdorf ###
-
-Nächte 22./23.05. (Mo/Di) und 23./24.05. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27089&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20201&tx_sbbconstructions_list%5Bperiod%5D=16884&type=5679&cHash=f5b6388b1798c36766ab02771474858c)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-nach-weichenerneuerung-in-mahlsdorf/#con-27089)
-
-[S2](/fahren/s2/)[S25](/fahren/s25/)
-
- Nur Nachts
-
-### Tetow Stadt / Schichauweg \<\>Yorckstraße ###
-
-Nacht 24./25.05. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27086&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20199&tx_sbbconstructions_list%5Bperiod%5D=16881&type=5679&cHash=b06de7b045d7465be25f9bbc16920cde)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen: Attilastraße \<\> Priesterweg
-* Zugverkehr verändert:
-  * Zwischen Priesterweg \<\> Südkreuz fährt die S25 nicht. Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Priesterweg in die S2 um, die Weiterfahrt erfolgt nach 4 bis 5 Minuten vom selben Bahnsteig gegenüber.
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](/fahren/bauen-stoerung/detail/kabelarbeiten-sowie-arbeiten-an-der-leit-und-sicherungstechnik/#con-27086)
-
-[S7](/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Springpfuhl ###
-
-Nacht 24./25.05. (Mi/Do), ca. 22.25 Uhr - ca. 1.30 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27091&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20203&tx_sbbconstructions_list%5Bperiod%5D=16886&type=5679&cHash=6b05a6aaeee7c32ec4070ea7c36a5300)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Ahrensfelde \<\> Marzahn S-Bahnverkehr nur im 20-Minutentakt
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-in-ahrensfeloede/#con-27091)
 
 [S1](/fahren/s1/)[S25](/fahren/s25/)[S8](/fahren/s8/)
 
