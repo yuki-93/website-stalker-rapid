@@ -865,6 +865,25 @@ Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskun
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1-nord-5/#con-27146)
 
+[S2](/fahren/s2/)
+
+Nur Wochenende
+
+### Karow \<\> Bernau ###
+
+am 18.06. (So), ca. 10 Uhr durchgehend bis 19.06. (Mo), ca. 1.30 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27149&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20259&tx_sbbconstructions_list%5Bperiod%5D=16905&type=5679&cHash=9576ba535ee18136fbfb767e882d4774)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](/fahren/bauen-stoerung/detail/bruecke-wiltbergstrasse-herstellen-des-bauzustand/#con-27149)
+
 [S42](/fahren/s42/)
 
 ### gesamter Ring ###
