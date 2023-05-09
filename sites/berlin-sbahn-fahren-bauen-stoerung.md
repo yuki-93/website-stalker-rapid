@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](/fahren/s46/)[S47](/fahren/s47/)[S9](/fahren/s9/)
-
-### Reparatur an einem Signal und Polizeieinsatz in Schöneweide ###
-
- Letztes Update: 00:04 / 10.05.2023
-
-Information
-
-Wegen der Reparatur an einem Signal und einem Polizeieinsatz in Schöneweide kommt es auf den Linien S46, S47 und S9 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S2](/fahren/s2/)[S25](/fahren/s25/)
