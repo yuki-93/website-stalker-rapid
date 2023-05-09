@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](/fahren/s3/)[S5](/fahren/s5/)[S7](/fahren/s7/)[S75](/fahren/s75/)
+
+### Polizeieinsatz in Friedrichstraße beendet ###
+
+ Letztes Update: 20:34 / 09.05.2023
+
+Information
+
+Nach einem Polizeieinsatz in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S2](/fahren/s2/)[S25](/fahren/s25/)[S26](/fahren/s26/)
 
 ### Gegenstände auf der Strecke in Attilastraße ###
 
- Letztes Update: 20:20 / 09.05.2023
+ Letztes Update: 20:24 / 09.05.2023
 
 Information
 
-Wegen Gegenständen auf der Strecke in Attilastraße ist die Linie S2 derzeit zwischen Marienfelde \<\> Priesterweg unterbrochen.
+Wegen Gegenständen auf der Strecke in Attilastraße ist die Linie S2 derzeit unregelmäßig.
 
 Die Linie S2 verkehrt zwischen Potsdamer Platz \<\> Buch im 10-Minuten-Takt.
 
@@ -25,20 +39,6 @@ Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
 Wir bitten um Verständnis.
 
  Zugverkehr verändert  keine Verbindung
-
-[S41](/fahren/s41/)[S42](/fahren/s42/)[S8](/fahren/s8/)[S85](/fahren/s85/)
-
-### Polizeieinsatz im Bereich Schönhauser Allee ###
-
- Letztes Update: 18:55 / 09.05.2023
-
-Information
-
-Wegen einem Polizeieinsatz im Bereich Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 derzeit zu Verspätungen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
