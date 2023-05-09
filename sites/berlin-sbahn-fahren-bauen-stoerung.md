@@ -4,39 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](/fahren/s3/)[S5](/fahren/s5/)[S7](/fahren/s7/)[S75](/fahren/s75/)
-
-### Polizeieinsatz in Friedrichstraße beendet ###
-
- Letztes Update: 20:34 / 09.05.2023
-
-Information
-
-Nach einem Polizeieinsatz in Friedrichstraße kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S2](/fahren/s2/)[S25](/fahren/s25/)[S26](/fahren/s26/)
+[S2](/fahren/s2/)
 
 ### Gegenstände auf der Strecke in Attilastraße ###
 
- Letztes Update: 20:24 / 09.05.2023
+ Letztes Update: 21:26 / 09.05.2023
 
 Information
 
-Wegen Gegenständen auf der Strecke in Attilastraße ist die Linie S2 derzeit unregelmäßig.
+Wegen Gegenständen auf der Strecke in Attilastraße kommt es auf der Linie S2 zu Verspätungen und Zugausfällen.
 
-Die Linie S2 verkehrt zwischen Potsdamer Platz \<\> Buch im 10-Minuten-Takt.
+*Der 10-Minuten-Takt besteht aktuell zwischen Potsdamer Platz und Buch.*
 
-Es kommt auf den Linien S2 und S25 zu Verspätungen und Ausfällen.
-
-Die Linie S26 verkehrt nicht.
-
-Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
-
-Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  keine Verbindung
 
