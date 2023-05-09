@@ -1012,13 +1012,49 @@ Information
 * Der Zug fällt von Westkreuz bis Ostbahnhof aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
 
+[S7](/fahren/s7/)
+
+ Nur Nachts
+
+### Zoologischer Garten \> Westkreuz ###
+
+07.06. (Mi) 1:23 Uhr bis 1:42 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21909&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=16191&tx_sbbconstructions_list%5Bperiod%5D=16919&type=5679&cHash=6a127895845f2da3ffa3f66c32842c74)
+
+ fährt nicht
+
+Information
+
+* Der Zug Ahrensfelde ab 0:51 Uhr nach Grunewald (an 1:42 Uhr) endet bereits um 1:23 Uhr in Zoologischer Garten.
+* Der Zug fällt von Zoologischer Garten bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
+
+[S9](/fahren/s9/)
+
+ Nur Nachts
+
+### Zoologischer Garten \> Grunewald ###
+
+07.06. (Mi) 1:24 Uhr bis 1:35 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27156&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20266&tx_sbbconstructions_list%5Bperiod%5D=16920&type=5679&cHash=292a4f6600e4627bfe488be1981115a7)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER – Terminal 1-2 ab 0:31 Uhr nach Grunewald (an 1:35 Uhr) endet bereits um 1:24 Uhr in Zoologischer Garten.
+* Der Zug fällt von Zoologischer Garten bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
+
 [S9](/fahren/s9/)
 
  Nur Nachts
 
 ### Friedrichstraße \> Grunewald ###
 
-08.06. (Do) 1:35 Uhr bis 1:55 Uhr
+07.06. (Mi) 1:35 Uhr bis 1:55 Uhr
 
 [](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19235&tx_sbbconstructions_list%5Bperiod%5D=16906&type=5679&cHash=590c383b052b6aa10c532bfb99d34494)
 
@@ -1036,9 +1072,15 @@ Information
 
 ### Charlottenburg \> Alexanderplatz ###
 
+07.06. (Mi) 3:02 Uhr bis 3:20 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27151&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20261&tx_sbbconstructions_list%5Bperiod%5D=16921&type=5679&cHash=f6e3ab983a46a34f1240545210f8d51f)
+
 08.06. (Do) 3:02 Uhr bis 3:20 Uhr
 
 [](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27151&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20261&tx_sbbconstructions_list%5Bperiod%5D=16907&type=5679&cHash=98c8baa9abeadafb3e17d573e6e94786)
+
+[Alle Termine im Kalender speichern](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27151&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20261&type=5679&cHash=301514df10c9760dd135dac3e574fb5e)
 
  fährt nicht
 
@@ -1054,9 +1096,15 @@ Information
 
 ### Westkreuz \> Friedrichstraße ###
 
+07.06. (Mi) 3:12 Uhr bis 3:28 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&tx_sbbconstructions_list%5Bperiod%5D=16922&type=5679&cHash=c40c4814a229bb30f5f554f9b5e88cf1)
+
 08.06. (Do) 3:12 Uhr bis 3:28 Uhr
 
 [](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&tx_sbbconstructions_list%5Bperiod%5D=16908&type=5679&cHash=5407237911505870564498bb81d57c0b)
+
+[Alle Termine im Kalender speichern](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&type=5679&cHash=1f6010ee0c1d07c62bee48495e23adf1)
 
  fährt nicht
 
@@ -1064,6 +1112,24 @@ Information
 
 * Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:28 Uhr in Friedrichstraße.
 * Der Zug fällt von Westkreuz bis Friedrichstraße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
+
+[S9](/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Zoologischer Garten ###
+
+07.06. (Mi) 3:32 Uhr bis 3:38 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23052&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=16961&tx_sbbconstructions_list%5Bperiod%5D=16923&type=5679&cHash=66949e2e3e145bcbd047864f648682c5)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:38 Uhr in Zoologischer Garten
+* Der Zug fällt von Westkreuz bis Zoologischer Garten aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
 
 [S9](/fahren/s9/)
