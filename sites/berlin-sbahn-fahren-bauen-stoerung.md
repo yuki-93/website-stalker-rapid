@@ -4,15 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](/fahren/s41/)[S42](/fahren/s42/)[S45](/fahren/s45/)[S46](/fahren/s46/)
+[S2](/fahren/s2/)[S25](/fahren/s25/)[S26](/fahren/s26/)
 
-### Polizeieinsatz im Bereich Hermannstraße beendet ###
+### Gegenstände auf der Strecke in Attilastraße ###
 
- Letztes Update: 16:50 / 09.05.2023
+ Letztes Update: 19:17 / 09.05.2023
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Hermannstraße kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Ausfällen..
+Wegen Gegenständen auf der Strecke in Attilastraße kommt es auf der Linie S2 zu Verspätungen und Ausfällen.
+
+Die Linie S2 verkehrt zwischen Potsdamer Platz \<\> Buch im 10-Minuten-Takt.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](/fahren/s41/)[S42](/fahren/s42/)[S8](/fahren/s8/)[S85](/fahren/s85/)
+
+### Polizeieinsatz im Bereich Schönhauser Allee ###
+
+ Letztes Update: 18:55 / 09.05.2023
+
+Information
+
+Wegen einem Polizeieinsatz im Bereich Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 derzeit zu Verspätungen.
 
 Wir bitten um Verständnis.
 
