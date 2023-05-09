@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](/fahren/s2/)
-
-### Gegenstände auf der Strecke in Attilastraße ###
-
- Letztes Update: 21:26 / 09.05.2023
-
-Information
-
-Wegen Gegenständen auf der Strecke in Attilastraße kommt es auf der Linie S2 zu Verspätungen und Zugausfällen.
-
-*Der 10-Minuten-Takt besteht aktuell zwischen Potsdamer Platz und Buch.*
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S2](/fahren/s2/)[S25](/fahren/s25/)
