@@ -4,6 +4,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S2](/fahren/s2/)[S25](/fahren/s25/)
+
+ Nur Nachts
+
+### Schichauweg \<\> Yorckstraße ###
+
+Nächte 08./09.05. (Mo/Di) und 09./10.05. (Di/Mi), jeweils ca.22 Uhr - ca. 1.30 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27051&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20162&tx_sbbconstructions_list%5Bperiod%5D=16852&type=5679&cHash=b3a11ac65becc0bfea265d3e7908b546)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S2 nach Bernau fährt von Schichauweg bis Yorckstraße 1 Minute früher.
+
+* Gleisänderung:
+  * In Südkreuz fahren die S2 nach Blankenfelde und die S25 nach Teltow Stadt von Gleis 2 (Gleis stadteinwärts).
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
+
 [S5](/fahren/s5/)
 
 ### Charlottenburg \<\> Westkreuz ###
@@ -25,28 +47,6 @@ Information
 
 * Linienführung:
   * S5 fährt Strausberg Nord \<\> Charlottenburg (10-Minutentakt: Hoppegarten/Mahlsdorf \<\> Charlottenburg)
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
-
-[S2](/fahren/s2/)[S25](/fahren/s25/)
-
- Nur Nachts
-
-### Schichauweg \<\> Yorckstraße ###
-
-Nächte 08./09.05. (Mo/Di) und 09./10.05. (Di/Mi), jeweils ca.22 Uhr - ca. 1.30 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27051&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20162&tx_sbbconstructions_list%5Bperiod%5D=16852&type=5679&cHash=b3a11ac65becc0bfea265d3e7908b546)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S2 nach Bernau fährt von Schichauweg bis Yorckstraße 1 Minute früher.
-
-* Gleisänderung:
-  * In Südkreuz fahren die S2 nach Blankenfelde und die S25 nach Teltow Stadt von Gleis 2 (Gleis stadteinwärts).
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
@@ -119,47 +119,33 @@ Information
 * Der Zug fällt von Friedrichstraße bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
 
-[S3](/fahren/s3/)
-
- Nur Nachts
-
-### Westkreuz \> Friedrichstraße ###
-
-08.05. (Mo) bis 12.05. (Fr) 3:12 Uhr bis 3:28 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26999&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20110&tx_sbbconstructions_list%5Bperiod%5D=16842&type=5679&cHash=ccb739b20b7e8ec9f98cdd1d5ecb1205)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Karlshorst (an 3:49 Uhr) beginnt erst um 3:28 Uhr in Friedrichstraße
-* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
-
-[S3](/fahren/s3/)
-
- Nur Nachts
-
-### Westkreuz \> Friedrichstraße ###
-
-08.05. (Mo) bis 12.05. (Fr) 3:32 Uhr bis 3:48 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27000&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20111&tx_sbbconstructions_list%5Bperiod%5D=16843&type=5679&cHash=7629e3bbd44f68fa50bec9c9ad448da8)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:32 Uhr nach Karlshorst (an 4:09 Uhr) beginnt erst um 3:48 Uhr in Friedrichstraße.
-* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/)
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
+
+[S2](/fahren/s2/)[S25](/fahren/s25/)
+
+ Nur Nachts
+
+### Schichauweg \<\> Yorckstraße ###
+
+Nächte 08./09.05. (Mo/Di) und 09./10.05. (Di/Mi), jeweils ca.22 Uhr - ca. 1.30 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27051&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20162&tx_sbbconstructions_list%5Bperiod%5D=16852&type=5679&cHash=b3a11ac65becc0bfea265d3e7908b546)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S2 nach Bernau fährt von Schichauweg bis Yorckstraße 1 Minute früher.
+
+* Gleisänderung:
+  * In Südkreuz fahren die S2 nach Blankenfelde und die S25 nach Teltow Stadt von Gleis 2 (Gleis stadteinwärts).
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
 [S5](/fahren/s5/)
 
@@ -182,28 +168,6 @@ Information
 
 * Linienführung:
   * S5 fährt Strausberg Nord \<\> Charlottenburg (10-Minutentakt: Hoppegarten/Mahlsdorf \<\> Charlottenburg)
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
-
-[S2](/fahren/s2/)[S25](/fahren/s25/)
-
- Nur Nachts
-
-### Schichauweg \<\> Yorckstraße ###
-
-Nächte 08./09.05. (Mo/Di) und 09./10.05. (Di/Mi), jeweils ca.22 Uhr - ca. 1.30 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27051&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20162&tx_sbbconstructions_list%5Bperiod%5D=16852&type=5679&cHash=b3a11ac65becc0bfea265d3e7908b546)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S2 nach Bernau fährt von Schichauweg bis Yorckstraße 1 Minute früher.
-
-* Gleisänderung:
-  * In Südkreuz fahren die S2 nach Blankenfelde und die S25 nach Teltow Stadt von Gleis 2 (Gleis stadteinwärts).
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
