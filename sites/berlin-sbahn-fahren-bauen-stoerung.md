@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](/fahren/s41/)[S42](/fahren/s42/)[S45](/fahren/s45/)[S46](/fahren/s46/)
+
+### Polizeieinsatz im Bereich Hermannstraße beendet ###
+
+ Letztes Update: 16:50 / 09.05.2023
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Hermannstraße kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Ausfällen..
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S2](/fahren/s2/)[S25](/fahren/s25/)
