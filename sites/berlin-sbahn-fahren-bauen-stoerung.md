@@ -8,17 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Gegenstände auf der Strecke in Attilastraße ###
 
- Letztes Update: 19:17 / 09.05.2023
+ Letztes Update: 20:20 / 09.05.2023
 
 Information
 
-Wegen Gegenständen auf der Strecke in Attilastraße kommt es auf der Linie S2 zu Verspätungen und Ausfällen.
+Wegen Gegenständen auf der Strecke in Attilastraße ist die Linie S2 derzeit zwischen Marienfelde \<\> Priesterweg unterbrochen.
 
 Die Linie S2 verkehrt zwischen Potsdamer Platz \<\> Buch im 10-Minuten-Takt.
 
+Es kommt auf den Linien S2 und S25 zu Verspätungen und Ausfällen.
+
+Die Linie S26 verkehrt nicht.
+
+Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
+
 Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  keine Verbindung
 
 [S41](/fahren/s41/)[S42](/fahren/s42/)[S8](/fahren/s8/)[S85](/fahren/s85/)
 
