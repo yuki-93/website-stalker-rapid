@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](/fahren/s45/)
+
+### kurzfristiger Personalausfall Linie S45 zwischen Flughafen BER Terminal 1-2 Altglienicke ###
+
+ Letztes Update: 17:34 / 10.05.2023
+
+Information
+
+Wegen kurzfristigem Personalausfall wird **ab 20:50 Uhr** zwischen Flughafen BER Terminal 1-2 und Altglienicke ein 20-Minuten-Takt mit der Linie S9 angeboten.
+
+Die Linie **S45** zwischen Flughafen BER Terminal 1-2 und Altglienicke **verkehrt dann nicht**.
+
+Wir bitten um Entschuldigung
+
+ Takt geändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S5](/fahren/s5/)
