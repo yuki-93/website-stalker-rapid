@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](/fahren/s5/)[S7](/fahren/s7/)[S75](/fahren/s75/)
+
+### ärztliche Versorgung eines Fahrgastes in Friedrichsfelde Ost ###
+
+ Letztes Update: 07:14 / 10.05.2023
+
+Information
+
+Wegen der ärztlichen Versorgung eines Fahrgastes in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen uns Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S5](/fahren/s5/)
