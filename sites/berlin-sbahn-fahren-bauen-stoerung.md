@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](/fahren/s46/)[S8](/fahren/s8/)
-
-### technischer Defekt an einem Bahnübergang in Zeuthen ###
-
- Letztes Update: 07:40 / 10.05.2023
-
-Information
-
-Wegen einem technischen Defekt an einem Bahnübergang in Zeuthen kommt es auf den Linien S46 und S8 zu Verspätungen und Ausfällen.
-
-Die Linie S8 verkehrt nur zwischen Grünau und Zeuthen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S5](/fahren/s5/)[S7](/fahren/s7/)[S75](/fahren/s75/)
-
-### ärztliche Versorgung eines Fahrgastes in Friedrichsfelde Ost beendet ###
-
- Letztes Update: 07:24 / 10.05.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S5](/fahren/s5/)
