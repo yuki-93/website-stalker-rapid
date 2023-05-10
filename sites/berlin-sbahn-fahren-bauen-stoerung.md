@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](/fahren/s45/)
-
-### Reparatur an einem Signal zwischen Wildau und Königs Wusterhausen ###
-
- Letztes Update: 10:33 / 10.05.2023
-
-Information
-
-Wegen der Reparatur an einem Signal zwischen Wildau und Königs Wusterhausen kommt es auf der Linie S46 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S5](/fahren/s5/)
@@ -833,6 +817,53 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/bauvorhaben-autobahndreieck-funkturm/#con-27124)
+
+[S1](/fahren/s1/)[S7](/fahren/s7/)
+
+ Nur Nachts
+
+### Grunewald \<\> Wannsee \<\> Potsdam Hbf ###
+
+Nächte 07./08.06. (Mi/Do) und 08./09.06. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27169&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20285&tx_sbbconstructions_list%5Bperiod%5D=16931&type=5679&cHash=4d181757ae993d69630755b01519b84d)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](/fahren/bauen-stoerung/detail/belastungsstopfgang-nach-weichenerneuerung-1/#con-27169)
+
+[S2](/fahren/s2/)[S25](/fahren/s25/)[S26](/fahren/s26/)
+
+Nur Wochenende
+
+### Tetow Stadt / Schichauweg \<\> Yorckstraße ###
+
+09.06. (Fr), ca. 22 Uhr durchgehend bis 12.06. (Mo), ca. 1.30 Uhr
+
+[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27152&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20262&tx_sbbconstructions_list%5Bperiod%5D=16910&type=5679&cHash=c6be5bed58f40153cf378852d3dfc385)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen: Attilastraße \<\> Priesterweg
+* Zugverkehr verändert:
+  * Zwischen Priesterweg \<\> Südkreuz fährt die S25 nicht.
+     Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Priesterweg in die S2 um, die Weiterfahrt erfolgt nach 4 bis 5 Minuten vom selben Bahnsteig gegenüber.
+
+* Taktänderung: Lichtenrade \<\> Attilastraße und Priesterweg \<\> Südkreuz S-Bahnverkehr nur im 20-Minutentakt mit S2
+* Taktänderung: Lichterfelde Ost \<\> Priesterweg S-Bahnverkehr nur im 20-Minutentakt mit S25
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-12/#con-27152)
 
 [S1](/fahren/s1/)
 
