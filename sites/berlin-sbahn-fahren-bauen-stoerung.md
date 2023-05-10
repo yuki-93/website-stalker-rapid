@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](/fahren/s45/)
+
+### Reparatur an einem Signal zwischen Wildau und Königs Wusterhausen ###
+
+ Letztes Update: 10:33 / 10.05.2023
+
+Information
+
+Wegen der Reparatur an einem Signal zwischen Wildau und Königs Wusterhausen kommt es auf der Linie S46 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S5](/fahren/s5/)
