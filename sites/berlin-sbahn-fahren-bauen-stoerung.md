@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](/fahren/s3/)[S5](/fahren/s5/)[S7](/fahren/s7/)[S75](/fahren/s75/)
-
-### technischer Defekt an einem anderen Zug im Bereich Ostkreuz (Stadtbahn) - Nöldnerplatz behoben ###
-
- Letztes Update: 14:11 / 10.05.2023
-
-Information
-
-Nach einem technischen Defekt an einem anderen Zug im Bereich Ostkreuz (Stadtbahn) - Nöldnerplatz kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S5](/fahren/s5/)
