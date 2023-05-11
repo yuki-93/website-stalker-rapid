@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](/fahren/s3/)[S5](/fahren/s5/)[S7](/fahren/s7/)
 
-### unbefugte Personen auf der Strecke Hauptbahnhof \<\> Savignyplatz ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke Hauptbahnhof\<\>Savignyplatz) ###
 
- Letztes Update: 12:20 / 11.05.2023
+ Letztes Update: 12:25 / 11.05.2023
 
 Information
 
-Wegen unbefugter Personen auf der Strecke Hauptbahnhof \<\> Savignyplatz kommt es auf den Linien S3, S5 und S7 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke Hauptbahnhof \<\> Savignyplatz) kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
