@@ -6,31 +6,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](/fahren/s41/)[S42](/fahren/s42/)
 
-### unbefugte Personen auf der Strecke Wedding \<\> Beusselstrasse ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke) Wedding\<\>Westhafen beendet. ###
 
- Letztes Update: 05:18 / 11.05.2023
+ Letztes Update: 06:01 / 11.05.2023
 
 Information
 
-Wegen unbefugter Personen auf der Strecke ist der Zugverkehr der Linien S41 und S42 zwischen Wedding \<\> Beusselstraße unterbrochen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) Wedding \<\> Westhafen kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
 
-\* Linie S41 verkehrt Wedding \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Beusselstraße im 10-Minuten-Takt.
-
-\* Linie S42 verkehrt Beusselstraße \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Wedding im 10 Minuten-Takt.
+Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S5](/fahren/s5/)
 
 ### technischer Defekt am Bahnübergang Fredersdorf ###
 
- Letztes Update: 05:13 / 11.05.2023
+ Letztes Update: 05:36 / 11.05.2023
 
 Information
 
 Wegen einem technischen Defekt am Bahnübergang in Fredersdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+
+Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Charlottenburg \<\> Mahlsdorf angeboten werden.
 
 Wir bitten um Entschuldigung.
 
