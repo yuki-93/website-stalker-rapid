@@ -4,35 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](/fahren/s41/)[S42](/fahren/s42/)[S8](/fahren/s8/)[S85](/fahren/s85/)
-
-### Reparatur an einem andern Zug ###
-
- Letztes Update: 20:21 / 11.05.2023
-
-Information
-
-Wegen der Reparatur an einem anderem Zug in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung,
-
- sonstige Einschränkungen
-
 [S2](/fahren/s2/)
 
 ### Entschärfung einer Fliegerbombe im Bereich Buckower Chaussee ###
 
- Letztes Update: 18:33 / 11.05.2023
+ Letztes Update: 20:43 / 11.05.2023
 
 Information
 
-Wegen der Entschärfung einer Fliegerbombe im Bereich **Buckower Chaussee** enfällt für die Züge der Linie S2 ab **ca. 20:00 Uhr** der Halt in Buckower Chaussee.
+Wegen der Entschärfung einer Fliegerbombe im Bereich **Buckower Chaussee** entfällt für die Züge der Linie S2 der Halt in Buckower Chaussee.
 
 Ein Ersatzverkehr mit Bussen kann auf Grund der Größe und Lage des Sperrkreises leider nicht angeboten werden.
 
 Wir bitten um Verständnis.
 
- sonstige Einschränkungen  Verbindung unterbrochen
+ sonstige Einschränkungen  sonstige Einschränkungen
+
+[S41](/fahren/s41/)[S42](/fahren/s42/)[S8](/fahren/s8/)[S85](/fahren/s85/)
+
+### Reparatur an einem anderen Zug ###
+
+ Letztes Update: 20:35 / 11.05.2023
+
+Information
+
+Wegen der Reparatur an einem anderen Zug in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung,
+
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
