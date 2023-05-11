@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz (unbefugte Personen auf der Strecke) Wedding\<\>Westhafen beendet. ###
 
- Letztes Update: 06:01 / 11.05.2023
+ Letztes Update: 06:24 / 11.05.2023
 
 Information
 
 Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) Wedding \<\> Westhafen kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
-
-Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Verständnis.
 
