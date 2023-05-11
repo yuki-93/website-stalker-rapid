@@ -2,6 +2,40 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](/fahren/s41/)[S42](/fahren/s42/)
+
+### unbefugte Personen auf der Strecke Wedding \<\> Beusselstrasse ###
+
+ Letztes Update: 05:18 / 11.05.2023
+
+Information
+
+Wegen unbefugter Personen auf der Strecke ist der Zugverkehr der Linien S41 und S42 zwischen Wedding \<\> Beusselstraße unterbrochen.
+
+\* Linie S41 verkehrt Wedding \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Beusselstraße im 10-Minuten-Takt.
+
+\* Linie S42 verkehrt Beusselstraße \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Wedding im 10 Minuten-Takt.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S5](/fahren/s5/)
+
+### technischer Defekt am Bahnübergang Fredersdorf ###
+
+ Letztes Update: 05:13 / 11.05.2023
+
+Information
+
+Wegen einem technischen Defekt am Bahnübergang in Fredersdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S5](/fahren/s5/)
