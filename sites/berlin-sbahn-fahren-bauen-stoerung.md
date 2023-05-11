@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](/fahren/s3/)[S5](/fahren/s5/)[S7](/fahren/s7/)
 
-### Polizeieinsatz (unbefugte Personen auf der Strecke Hauptbahnhof\<\>Savignyplatz) ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke Hauptbahnhof\<\>Savignyplatz) beendet ###
 
- Letztes Update: 12:25 / 11.05.2023
+ Letztes Update: 14:05 / 11.05.2023
 
 Information
 
