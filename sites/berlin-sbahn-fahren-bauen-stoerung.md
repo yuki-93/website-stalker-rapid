@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](/fahren/s25/)
+[S41](/fahren/s41/)[S42](/fahren/s42/)[S8](/fahren/s8/)[S85](/fahren/s85/)
 
-### Feuerwehreinsatz auf der Strecke im Bereich Heiligensee ###
+### Reparatur an einem andern Zug ###
 
- Letztes Update: 19:10 / 11.05.2023
+ Letztes Update: 20:21 / 11.05.2023
 
 Information
 
-Wegen eines Feuerwehreinsatzes auf der Strecke im Bereich Heiligensee ist der Zugverkehr der Linie S25 zwischen Tegel \<\> Heiligensee unterbrochen.
+Wegen der Reparatur an einem anderem Zug in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
 
-Wir bitten um Verständnis.
+Wir bitten um Entschuldigung,
 
  sonstige Einschränkungen
 
