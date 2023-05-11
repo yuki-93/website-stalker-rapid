@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](/fahren/s3/)[S5](/fahren/s5/)[S7](/fahren/s7/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke Hauptbahnhof\<\>Savignyplatz) beendet ###
-
- Letztes Update: 14:05 / 11.05.2023
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke Hauptbahnhof \<\> Savignyplatz) kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S5](/fahren/s5/)
