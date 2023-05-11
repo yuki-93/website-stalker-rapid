@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](/fahren/s41/)[S42](/fahren/s42/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke) Wedding\<\>Westhafen beendet. ###
-
- Letztes Update: 06:24 / 11.05.2023
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) Wedding \<\> Westhafen kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S5](/fahren/s5/)
-
-### technischer Defekt am Bahnübergang Fredersdorf ###
-
- Letztes Update: 05:36 / 11.05.2023
-
-Information
-
-Wegen einem technischen Defekt am Bahnübergang in Fredersdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Charlottenburg \<\> Mahlsdorf angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S5](/fahren/s5/)
