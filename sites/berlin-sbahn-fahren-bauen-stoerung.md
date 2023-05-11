@@ -28,28 +28,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
-[S3](/fahren/s3/)[S5](/fahren/s5/)[S7](/fahren/s7/)
-
- Nur Nachts
-
-### Charlottenburg \<\> Spandau ###
-
-Nacht 10./11.05. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27054&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20165&tx_sbbconstructions_list%5Bperiod%5D=16855&type=5679&cHash=28aa7edf756069ef3818dc08f48fee90)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S3 und S7
-* Taktänderung: Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S3
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](/fahren/bauen-stoerung/detail/weichenarbeiten-in-westkreuz-8/#con-27054)
-
 [S45](/fahren/s45/)[S46](/fahren/s46/)[S47](/fahren/s47/)[S8](/fahren/s8/)[S85](/fahren/s85/)[S9](/fahren/s9/)
 
 ### Flughafen BER – Terminal 1-2/Grünau \<\> Baumschulenweg \<\> Warschauer Straße ###
@@ -118,42 +96,6 @@ Information
 * Der Zug Karlshorst ab 1:16 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:36 Uhr in Friedrichstraße.
 * Der Zug fällt von Friedrichstraße bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
-
-[S3](/fahren/s3/)
-
- Nur Nachts
-
-### Westkreuz \> Friedrichstraße ###
-
-08.05. (Mo) bis 12.05. (Fr) 3:12 Uhr bis 3:28 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26999&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20110&tx_sbbconstructions_list%5Bperiod%5D=16842&type=5679&cHash=ccb739b20b7e8ec9f98cdd1d5ecb1205)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Karlshorst (an 3:49 Uhr) beginnt erst um 3:28 Uhr in Friedrichstraße
-* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
-
-[S3](/fahren/s3/)
-
- Nur Nachts
-
-### Westkreuz \> Friedrichstraße ###
-
-08.05. (Mo) bis 12.05. (Fr) 3:32 Uhr bis 3:48 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27000&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20111&tx_sbbconstructions_list%5Bperiod%5D=16843&type=5679&cHash=7629e3bbd44f68fa50bec9c9ad448da8)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:32 Uhr nach Karlshorst (an 4:09 Uhr) beginnt erst um 3:48 Uhr in Friedrichstraße.
-* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/)
 
 Hinweis
 
