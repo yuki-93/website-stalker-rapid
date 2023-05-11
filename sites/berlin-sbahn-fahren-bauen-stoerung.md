@@ -2,6 +2,38 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](/fahren/s25/)
+
+### Feuerwehreinsatz auf der Strecke im Bereich Heiligensee ###
+
+ Letztes Update: 19:10 / 11.05.2023
+
+Information
+
+Wegen eines Feuerwehreinsatzes auf der Strecke im Bereich Heiligensee ist der Zugverkehr der Linie S25 zwischen Tegel \<\> Heiligensee unterbrochen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen
+
+[S2](/fahren/s2/)
+
+### Entschärfung einer Fliegerbombe im Bereich Buckower Chaussee ###
+
+ Letztes Update: 18:33 / 11.05.2023
+
+Information
+
+Wegen der Entschärfung einer Fliegerbombe im Bereich **Buckower Chaussee** enfällt für die Züge der Linie S2 ab **ca. 20:00 Uhr** der Halt in Buckower Chaussee.
+
+Ein Ersatzverkehr mit Bussen kann auf Grund der Größe und Lage des Sperrkreises leider nicht angeboten werden.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S5](/fahren/s5/)
