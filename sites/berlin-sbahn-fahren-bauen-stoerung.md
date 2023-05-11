@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](/fahren/s3/)[S5](/fahren/s5/)[S7](/fahren/s7/)
+
+### unbefugte Personen auf der Strecke Hauptbahnhof \<\> Savignyplatz ###
+
+ Letztes Update: 12:20 / 11.05.2023
+
+Information
+
+Wegen unbefugter Personen auf der Strecke Hauptbahnhof \<\> Savignyplatz kommt es auf den Linien S3, S5 und S7 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S5](/fahren/s5/)
