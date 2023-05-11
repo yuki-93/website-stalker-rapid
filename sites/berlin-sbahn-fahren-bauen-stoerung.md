@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](/fahren/s1/)[S2](/fahren/s2/)[S25](/fahren/s25/)
+
+### Feuerwehreinsatz auf der Strecke im Bereich Bornholmer Straße - Gesundbrunnen ###
+
+ Letztes Update: 22:15 / 11.05.2023
+
+Information
+
+Wegen eines Feuerwehreinsatzes auf der Strecke im Bereich Bornholmer Straße - Gesundbrunnen sind die Linien S1, S2 und S25 in diesem Bereich unterbrochen. Es kommt zu Verspätungen und Ausfällen.
+
+S1 verkehrt: Wannsee \<\> Potsdamer Platz, sowie Bornholmer Straße \<\> Oranienburg.
+
+S2 verkehrt Blankenfelde \<\> Gesundbrunnen, sowie Bornholmer Straße \<\> Bernau.
+
+S25 verkehrt Teltow Stadt \<\> Nordbahnhof, sowie Schönholz \<\> Hennigsdorf.
+
+Umfahrungsmöglichkeiten:
+
+S8: Bornholmer Straße \> Schönhauser Allee \> S42 \> Gesundbrunnen.
+
+S41: Gesundbrunnen \> Schönhauser Allee \> S8 \> Bornholmer Straße.
+
+Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
+
+U2: Pankow \<\> Schönhauser Allee.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  keine Verbindung
+
 [S2](/fahren/s2/)
 
 ### Entschärfung einer Fliegerbombe im Bereich Buckower Chaussee ###
