@@ -4,35 +4,47 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](/fahren/s1/)[S2](/fahren/s2/)[S25](/fahren/s25/)
+[S41](/fahren/s41/)[S42](/fahren/s42/)[S8](/fahren/s8/)
 
-### Feuerwehreinsatz auf der Strecke im Bereich Bornholmer Straße - Gesundbrunnen ###
+### Reparatur an einem anderen Zug ###
 
- Letztes Update: 22:15 / 11.05.2023
+ Letztes Update: 23:07 / 11.05.2023
 
 Information
 
-Wegen eines Feuerwehreinsatzes auf der Strecke im Bereich Bornholmer Straße - Gesundbrunnen sind die Linien S1, S2 und S25 in diesem Bereich unterbrochen. Es kommt zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem anderen Zug in Greifswalder Straße kommt es auf den Linien S41, S42 und S8 zu Verspätungen und Ausfällen.
 
-S1 verkehrt: Wannsee \<\> Potsdamer Platz, sowie Bornholmer Straße \<\> Oranienburg.
+Wir bitten um Entschuldigung,
 
-S2 verkehrt Blankenfelde \<\> Gesundbrunnen, sowie Bornholmer Straße \<\> Bernau.
+ sonstige Einschränkungen
 
-S25 verkehrt Teltow Stadt \<\> Nordbahnhof, sowie Schönholz \<\> Hennigsdorf.
+[S3](/fahren/s3/)[S5](/fahren/s5/)[S7](/fahren/s7/)
 
-Umfahrungsmöglichkeiten:
+### Polizeieinsatz im Bereich Hackescher Markt beendet ###
 
-S8: Bornholmer Straße \> Schönhauser Allee \> S42 \> Gesundbrunnen.
+ Letztes Update: 22:50 / 11.05.2023
 
-S41: Gesundbrunnen \> Schönhauser Allee \> S8 \> Bornholmer Straße.
+Information
 
-Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
-
-U2: Pankow \<\> Schönhauser Allee.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke im Bereich Hackescher Markt) kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  keine Verbindung
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S1](/fahren/s1/)[S2](/fahren/s2/)[S25](/fahren/s25/)
+
+### Feuerwehreinsatz auf der Strecke im Bereich Bornholmer Straße beendet ###
+
+ Letztes Update: 22:40 / 11.05.2023
+
+Information
+
+Nach einem Feuerwehreinsatz auf der Strecke im Bereich Bornholmer Straße kommt auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S2](/fahren/s2/)
 
@@ -49,20 +61,6 @@ Ein Ersatzverkehr mit Bussen kann auf Grund der Größe und Lage des Sperrkreise
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  sonstige Einschränkungen
-
-[S41](/fahren/s41/)[S42](/fahren/s42/)[S8](/fahren/s8/)[S85](/fahren/s85/)
-
-### Reparatur an einem anderen Zug ###
-
- Letztes Update: 20:35 / 11.05.2023
-
-Information
-
-Wegen der Reparatur an einem anderen Zug in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung,
-
- sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
