@@ -29,7 +29,7 @@ jobs:
         run: website-stalker run --all --commit
 
       - name: Push to Prowl
-        run: curl --data "apikey:todo" --data "description:todo" https://api.prowlapp.com/publicapi/add
+        run: curl --data '{"apikey": "todo", "description":"todo"}' "https://api.prowlapp.com/publicapi/add"
 
       - if: always()
         run: git push
