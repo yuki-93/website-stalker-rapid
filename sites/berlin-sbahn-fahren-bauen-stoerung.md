@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](/fahren/s1/)[S2](/fahren/s2/)[S25](/fahren/s25/)
-
-### Feuerwehreinsatz auf der Strecke im Bereich Bornholmer Straße beendet ###
-
- Letztes Update: 22:40 / 11.05.2023
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke im Bereich Bornholmer Straße kommt auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S2](/fahren/s2/)
 
 ### Entschärfung einer Fliegerbombe im Bereich Buckower Chaussee ###
@@ -196,44 +182,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27022)[Bauvideo](/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
-
-### Fahrplanänderungen ###
-
-[S3](/fahren/s3/)
-
- Nur Nachts
-
-### Westkreuz \> Friedrichstraße ###
-
-08.05. (Mo) bis 12.05. (Fr) 3:12 Uhr bis 3:28 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26999&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20110&tx_sbbconstructions_list%5Bperiod%5D=16842&type=5679&cHash=ccb739b20b7e8ec9f98cdd1d5ecb1205)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Karlshorst (an 3:49 Uhr) beginnt erst um 3:28 Uhr in Friedrichstraße
-* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/fahrplanauskunft/)
-
-[S3](/fahren/s3/)
-
- Nur Nachts
-
-### Westkreuz \> Friedrichstraße ###
-
-08.05. (Mo) bis 12.05. (Fr) 3:32 Uhr bis 3:48 Uhr
-
-[](/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27000&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20111&tx_sbbconstructions_list%5Bperiod%5D=16843&type=5679&cHash=7629e3bbd44f68fa50bec9c9ad448da8)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:32 Uhr nach Karlshorst (an 4:09 Uhr) beginnt erst um 3:48 Uhr in Friedrichstraße.
-* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](/fahren/)
 
 Hinweis
 
