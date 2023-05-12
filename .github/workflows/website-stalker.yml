@@ -22,11 +22,15 @@ jobs:
 
       - uses: actions/checkout@v3
 
-      #- name: Check website-stalker config
-      #  run: website-stalker check
+      - name: Check website-stalker config
+        run: website-stalker check
 
       - name: Run website-stalker
         run: website-stalker run --all --commit
 
+      - name: Push to Prowl
+        run: curl --data "apikey:todo" --data "description:todo" https://api.prowlapp.com/publicapi/add
+
       - if: always()
         run: git push
+
