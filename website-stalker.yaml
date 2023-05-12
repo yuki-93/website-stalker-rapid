@@ -142,4 +142,9 @@ sites:
     editors:
       - css_select: .DisruptionsOverview_DisruptionGroupSection__GTXXL
       - html_markdownify
+
+  - url: https://www.anker.com/eu-de
+    editors:
+      - html_markdownify
+      - css_remove: media, img
       
