@@ -8,17 +8,47 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Entschärfung einer Fliegerbombe im Bereich Buckower Chaussee ###
 
- Letztes Update: 04:11 / 12.05.2023
+ Letztes Update: 04:52 / 12.05.2023
 
 Information
 
-Wegen der Entschärfung einer Fliegerbombe im Bereich **Buckower Chaussee** ist die Linie S2 zwischen Schichauweg \<\> Marienfelde unterbrochen..
+Wegen der Entschärfung einer Fliegerbombe im Bereich **Buckower Chaussee** ist die Linie S2 zwischen Schichauweg \<\> Marienfelde unterbrochen.
 
 Ein Ersatzverkehr mit Bussen kann auf Grund der Größe und Lage des Sperrkreises leider nicht angeboten werden.
 
 Wir bitten um Verständnis.
 
  fährt nicht  keine Verbindung
+
+[S46](/fahren/s46/)[S8](/fahren/s8/)
+
+### Technischer Defekt an einem Bahnübergang in Zeuthen ###
+
+ Letztes Update: 04:43 / 12.05.2023
+
+Information
+
+Wegen einem technischen Defekt an einem Bahnübergang in Zeuthen verkehrt die Linie S8 zwischen Zeuthen \<\> Grünau, sowie Treptower Park \<\> Birkenwerder. Es kann auf den Linien S46 und S8 zu Verspätungen kommen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
+[S45](/fahren/s45/)
+
+### kurzfristiger Personalausfall Linie S45 zwischen Flughafen BER Terminal 1-2 Altglienicke ###
+
+ Letztes Update: 21:18 / 10.05.2023
+
+Information
+
+Wegen kurzfristigem Personalausfall wird zwischen Flughafen BER Terminal 1-2 und Altglienicke ein 20-Minuten-Takt mit der Linie S9 angeboten.
+
+*Die Linie S45 zwischen Flughafen BER Terminal 1-2 und Altglienicke verkehrt nicht.*
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
