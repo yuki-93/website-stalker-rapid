@@ -58,6 +58,7 @@ sites:
       - css_select: "#content"
       - html_url_canonicalize
       - html_prettify
+      - html_markdownify
 
   - url: https://blinry.org/
     editors:
@@ -146,7 +147,8 @@ sites:
 
   - url: https://www.anker.com/eu-de
     editors:
-      - html_markdownify
-      - html_url_canonicalize
       - css_remove: media, img, script
+      - html_url_canocialize
+      - html_markdownify
+      
       
