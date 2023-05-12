@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](/fahren/s2/)
 
-### Entschärfung einer Fliegerbombe im Bereich Buckower Chaussee ###
+### Entschärfung einer Fliegerbombe im Bereich Buckower Chaussee beendet ###
 
- Letztes Update: 04:52 / 12.05.2023
+ Letztes Update: 09:10 / 12.05.2023
 
 Information
 
-Wegen der Entschärfung einer Fliegerbombe im Bereich **Buckower Chaussee** ist die Linie S2 zwischen Schichauweg \<\> Marienfelde unterbrochen.
-
-Ein Ersatzverkehr mit Bussen kann auf Grund der Größe und Lage des Sperrkreises leider nicht angeboten werden.
+Nach der Entschärfung einer Fliegerbombe im Bereich **Buckower Chaussee** kommt es auf der Linie S2 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
