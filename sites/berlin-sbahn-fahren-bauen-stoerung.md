@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz Friedrichsfelde Ost\<\>Springpfuhl beendet ###
-
- Letztes Update: 09:43 / 12.05.2023
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) Friedrichsfelde Ost \<\> Springpfuhl kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Entschärfung einer Fliegerbombe im Bereich Buckower Chaussee beendet ###
-
- Letztes Update: 09:10 / 12.05.2023
-
-Information
-
-Nach der Entschärfung einer Fliegerbombe im Bereich **Buckower Chaussee** kommt es auf der Linie S2 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
