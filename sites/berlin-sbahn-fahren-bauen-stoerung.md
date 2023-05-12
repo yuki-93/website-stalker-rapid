@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](/fahren/s46/)[S8](/fahren/s8/)
+
+### Technischer Defekt an einem Bahnübergang in Zeuthen ###
+
+ Letztes Update: 06:11 / 12.05.2023
+
+Information
+
+Wegen einem technischen Defekt an einem Bahnübergang in Zeuthen kommt es auf den Linien S46 und S8 zu Verspätungen und Ausfällen.
+
+Die Linie S8 verkehrt nur zwischen Grünau und Zeuthen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S2](/fahren/s2/)
 
 ### Entschärfung einer Fliegerbombe im Bereich Buckower Chaussee ###
@@ -19,20 +35,6 @@ Ein Ersatzverkehr mit Bussen kann auf Grund der Größe und Lage des Sperrkreise
 Wir bitten um Verständnis.
 
  fährt nicht  keine Verbindung
-
-[S46](/fahren/s46/)[S8](/fahren/s8/)
-
-### Technischer Defekt an einem Bahnübergang in Zeuthen ###
-
- Letztes Update: 04:43 / 12.05.2023
-
-Information
-
-Wegen einem technischen Defekt an einem Bahnübergang in Zeuthen verkehrt die Linie S8 zwischen Zeuthen \<\> Grünau, sowie Treptower Park \<\> Birkenwerder. Es kann auf den Linien S46 und S8 zu Verspätungen kommen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
 
 [S45](/fahren/s45/)
 
