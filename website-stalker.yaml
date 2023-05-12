@@ -146,5 +146,6 @@ sites:
   - url: https://www.anker.com/eu-de
     editors:
       - html_markdownify
-      - css_remove: media, img
+      - html_url_canonicalize
+      - css_remove: media, img, script
       
