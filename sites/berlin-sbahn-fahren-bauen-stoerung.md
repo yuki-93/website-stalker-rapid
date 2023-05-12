@@ -20,34 +20,6 @@ Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz (Personen auf der Strecke) im Bereich Friedrichsfelde Ost beendet ###
-
- Letztes Update: 20:07 / 12.05.2023
-
-Information
-
-Nach einem Polizeieinsatz (Personen auf der Strecke) im Bereich Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz (Personen auf der Strecke) im Bereich Gesundbrunnen (Ring) beendet ###
-
- Letztes Update: 18:41 / 12.05.2023
-
-Information
-
-Nach einem Polizeieinsatz (Personen auf der Strecke) im Bereich Gesundbrunnen (Ring) kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
