@@ -32,6 +32,22 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
 
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### kurzfristiger Personalausfall Linie S45 zwischen Flughafen BER Terminal 1-2 Altglienicke ###
+
+ Letztes Update: 21:18 / 10.05.2023
+
+Information
+
+Wegen kurzfristigem Personalausfall wird zwischen Flughafen BER Terminal 1-2 und Altglienicke ein 20-Minuten-Takt mit der Linie S9 angeboten.
+
+*Die Linie S45 zwischen Flughafen BER Terminal 1-2 und Altglienicke verkehrt nicht.*
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
