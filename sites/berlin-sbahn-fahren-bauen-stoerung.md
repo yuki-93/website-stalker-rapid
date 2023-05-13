@@ -94,24 +94,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-weichenheizung-in-springpfuhl-kabeltiefbauarbeiten/#con-27056)
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Waßmannsdorf ###
-
-Nacht 12./13.05. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27060&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20171&tx_sbbconstructions_list%5Bperiod%5D=16860&type=5679&cHash=a1bf548acb7306f91807673523961f02)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung: Die S9 fährt von Altglienicke bis Flughafen BER – Terminal 5 6 Minuten früher.
-* Bahnsteigänderung: In Waßmannsdorf fahren die S45 und die S9 nach Flughafen BER – Terminal 1-2 von Gleis 2, Bahnsteig stadteinwärts.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Flughafen BER – Terminal 1-2/Grünau \<\> Baumschulenweg \<\> Warschauer Straße ###
