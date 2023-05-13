@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Umgestürzter Baum auf der Strecke im Bereich Hegermühle wurde beseitigt ###
+
+ Letztes Update: 18:16 / 13.05.2023
+
+Information
+
+Nach einem umgestürzten Baum auf der Strecke im Bereich Hegermühle kommt es auf der Linie S5 noch zu einzelnen Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
