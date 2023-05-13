@@ -4,33 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Ärztliche Versorgung eines Fahrgastes in Hackescher Markt beendet ###
 
- Letztes Update: 20:03 / 13.05.2023
+ Letztes Update: 20:50 / 13.05.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Hackescher Markt kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Hackescher Markt kommt es auf den Linien S5 und S7 noch zu Verspätungen.
 
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung verspätet
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz in Frankfurter Allee beendet ###
 
- Letztes Update: 19:27 / 13.05.2023
+ Letztes Update: 20:48 / 13.05.2023
 
 Information
 
-Nach einem Polizeieinsatz in Frankfurter Allee und unbefugten Personen auf der Strecke im Bereich Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 derzeit zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Frankfurter Allee und unbefugten Personen auf der Strecke im Bereich Greifswalder Straße kommt es auf den Linien S41 und S42 derzeit zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
