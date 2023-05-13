@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Südkreuz beendet ###
 
- Letztes Update: 00:16 / 14.05.2023
+ Letztes Update: 00:41 / 14.05.2023
 
 Information
 
