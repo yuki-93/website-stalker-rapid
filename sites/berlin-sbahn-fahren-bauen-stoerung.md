@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur am Zug in Greifswalder Straße beendet ###
+
+ Letztes Update: 22:57 / 13.05.2023
+
+Information
+
+Nach der Reparatur am Zug in Greifswalder Straße kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und Ausfällen..
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz in Hermsdorf beendet ###
+
+ Letztes Update: 22:28 / 13.05.2023
+
+Information
+
+Nach einem Polizeieinsatz (Tiere auf der Strecke) in Hermsdorf kommt es auf der Linie S1 noch zu Verspätungen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
