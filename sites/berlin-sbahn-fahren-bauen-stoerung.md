@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Frankfurter Allee ###
+
+ Letztes Update: 19:13 / 13.05.2023
+
+Information
+
+Wegen eines Polizeieinsatzes in Frankfurter Allee und unbefugten Personen auf der Strecke im Bereich Greifswalder Straße sind die Linien S41, S42, S8 und S85 derzeit unterbrochen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Umgestürzter Baum auf der Strecke im Bereich Hegermühle wurde beseitigt ###
