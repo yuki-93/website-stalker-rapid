@@ -6,33 +6,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz im Raum Berlin wegen Staatsbesuch ###
+### Polizeieinsatz im Raum Berlin wegen Staatsbesuch beendet ###
 
- Letztes Update: 12:23 / 14.05.2023
+ Letztes Update: 13:56 / 14.05.2023
 
 Information
 
-Wegen einem **Polizeieinsatz im Raum Berlin (Staatsbesuch)** kommt es auf allen Linien zu Verspätungen sowie Zugausfällen und nachfolgenden Einschränkungen.
+Nach einem **Polizeieinsatz im Raum Berlin (Staatsbesuch)** kommt es auf allen Linien noch zu Verspätungen sowie Zugausfällen und nachfolgenden Einschränkungen.
 
 *Die Linien S26 und S45 verkehren nicht.
  Die Linien S41 und S42 verkehren im 10-Minuten-Takt.*
 
 Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### kurzfristiger Personalausfall S75 ###
-
- Letztes Update: 10:53 / 14.05.2023
-
-Information
-
-Wegen kurzfristigem Personalausfall verkehrt die Linie S75 zwischen Springpfuhl und Wartenberg bis ca. 14:00 Uhr im 40-Minuten-Takt.
-*Bitte nutzen Sie die Fahrplanauskunft.*
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
