@@ -4,6 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz Stadtbahn wegen Staatsbesuch beendet ###
+
+ Letztes Update: 10:57 / 14.05.2023
+
+Information
+
+Nach einem Polizeieinsatz auf der Stadtbahn (Staatsbesuch) kann es auf den Linien S3, S5 und S7 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### kurzfristiger Personalausfall S75 ###
+
+ Letztes Update: 10:53 / 14.05.2023
+
+Information
+
+Wegen kurzfristigem Personalausfall verkehrt die Linie S75 zwischen Springpfuhl und Wartenberg bis ca. 14:00 Uhr im 40-Minuten-Takt.
+*Bitte nutzen Sie die Fahrplanauskunft.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### kurzfristiger Personalausfall zwischen Flughafen BER T1-2 und Flughafen BER T5 ###
@@ -19,35 +48,6 @@ Wegen kurzfristigem Personalausfall wird zwischen Flughafen BER T1-2 und Altgli
 Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### kurzfristiger Personalausfall S75 ###
-
- Letztes Update: 07:00 / 14.05.2023
-
-Information
-
-Wegen kurzfristigem Personalausfall verkehrt die Linie S75 zwischen Springpfuhl und Wartenberg im 40-Minuten-Takt.
-*Bitte nutzen Sie die Fahrplanauskunft.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz Stadtbahn wegen Staatsbesuch ###
-
- Letztes Update: 06:47 / 14.05.2023
-
-Information
-
-Wegen eines Polizeieinsatzes (Staatsbesuch) ist der Zugverkehr der Linien S3, S5 und S7 zwischen Alexanderplatz und Zoologischer Garten unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
