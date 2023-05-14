@@ -4,20 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
 
 ### Polizeieinsatz im Raum Berlin wegen Staatsbesuch beendet ###
 
- Letztes Update: 15:09 / 14.05.2023
+ Letztes Update: 16:01 / 14.05.2023
 
 Information
 
-Nach einem **Polizeieinsatz im Raum Berlin (Staatsbesuch)** kommt es noch zu Verspätungen sowie Zugausfällen und nachfolgenden Einschränkungen.
+Nach einem Polizeieinsatz (Staatsbesuch) kann es auf vereinzelten Linien noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
-*Die Linien S26 und S45 verkehren nicht.
+Wir bitten bei nachfolgenden Einschränkungen um Ihr Verständnis.
+*Die Linie S45 verkehrt nicht zwischen Baumschulenweg und Südkreuz.
  Die Linien S41 und S42 verkehren im 10-Minuten-Takt.*
-
-Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
