@@ -2,6 +2,53 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### kurzfristiger Personalausfall zwischen Flughafen BER T1-2 und Flughafen BER T5 ###
+
+ Letztes Update: 07:12 / 14.05.2023
+
+Information
+
+Wegen kurzfristigem Personalausfall wird zwischen Flughafen BER T1-2 und Altglienicke ein 20-Minuten-Takt mit der Linie S9 angeboten.
+
+*Die Linie S45 zwischen Flughafen BER T1-2 und Flughafen BER T5 verkehrt nicht.*
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### kurzfristiger Personalausfall S75 ###
+
+ Letztes Update: 07:00 / 14.05.2023
+
+Information
+
+Wegen kurzfristigem Personalausfall verkehrt die Linie S75 zwischen Springpfuhl und Wartenberg im 40-Minuten-Takt.
+*Bitte nutzen Sie die Fahrplanauskunft.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz Stadtbahn wegen Staatsbesuch ###
+
+ Letztes Update: 06:47 / 14.05.2023
+
+Information
+
+Wegen eines Polizeieinsatzes (Staatsbesuch) ist der Zugverkehr der Linien S3, S5 und S7 zwischen Alexanderplatz und Zoologischer Garten unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
@@ -75,22 +122,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-weichenheizung-in-springpfuhl-kabeltiefbauarbeiten/#con-27056)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
-### Waßmannsdorf \<\> Flughafen BER - Terminal 5 ###
-
-Nacht 13./14.05. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27061&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20171&tx_sbbconstructions_list%5Bperiod%5D=16861&type=5679&cHash=b91f311e576485bdf402a410a117a498)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung: Die S9 fährt von Altglienicke bis Flughafen BER – Terminal 5, 6 Minuten früher.
-* Bahnsteigänderung: In Waßmannsdorf fährt die S9 nach Flughafen BER – Terminal 5 (Altglienicke) von Gleis 1, Bahnsteig stadtauswärts
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
