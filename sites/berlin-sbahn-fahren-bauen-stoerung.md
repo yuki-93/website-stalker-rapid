@@ -35,20 +35,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz Stadtbahn wegen Staatsbesuch ###
-
- Letztes Update: 06:47 / 14.05.2023
-
-Information
-
-Wegen eines Polizeieinsatzes (Staatsbesuch) ist der Zugverkehr der Linien S3, S5 und S7 zwischen Alexanderplatz und Zoologischer Garten unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
