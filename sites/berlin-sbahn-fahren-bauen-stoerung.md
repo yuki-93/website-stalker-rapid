@@ -4,19 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz Stadtbahn wegen Staatsbesuch beendet ###
+### Polizeieinsatz im Raum Berlin wegen Staatsbesuch ###
 
- Letztes Update: 10:57 / 14.05.2023
+ Letztes Update: 11:59 / 14.05.2023
 
 Information
 
-Nach einem Polizeieinsatz auf der Stadtbahn (Staatsbesuch) kann es auf den Linien S3, S5 und S7 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einem **Polizeieinsatz im Raum Berlin (Staatsbesuch)** kommt es auf allen Linien zu Verspätungen sowie Zugausfällen und bis vsl. 13 Uhr zu nachfolgenden Einschränkungen im Zugverkehr:
+
+* Linie S1 zwischen Anhalter Bahnhof und Friedenau unterbrochen
+* Linien S2 und S25 zwischen Anhalter Bahnhof und Priesterweg unterbrochen
+* Linie S26 verkehrt nicht
+* Linien S3, S5 und S7 zwischen Friedrichstraße und Zoologischer Garten unterbrochen
+* Linien S41/S42 zwischen Bundesplatz und Tempelhof unterbrochen
+* Linie S45 verkehrt nicht
+* Linie S9 zwischen Flughafen BER T1-2 und Flughafen BER T5 unterbrochen
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unterbrochen
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -32,22 +40,6 @@ Wegen kurzfristigem Personalausfall verkehrt die Linie S75 zwischen Springpfuhl 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### kurzfristiger Personalausfall zwischen Flughafen BER T1-2 und Flughafen BER T5 ###
-
- Letztes Update: 07:12 / 14.05.2023
-
-Information
-
-Wegen kurzfristigem Personalausfall wird zwischen Flughafen BER T1-2 und Altglienicke ein 20-Minuten-Takt mit der Linie S9 angeboten.
-
-*Die Linie S45 zwischen Flughafen BER T1-2 und Flughafen BER T5 verkehrt nicht.*
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
