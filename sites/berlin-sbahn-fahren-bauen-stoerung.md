@@ -4,33 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
-### Polizeieinsatz in Südkreuz beendet ###
+### kurzfristiger Personalausfall Linie S45 zwischen Flughafen BER Terminal 1-2 Altglienicke ###
 
- Letztes Update: 00:41 / 14.05.2023
-
-Information
-
-Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur am Zug in Greifswalder Straße beendet ###
-
- Letztes Update: 23:32 / 13.05.2023
+ Letztes Update: 03:19 / 14.05.2023
 
 Information
 
-Nach der Reparatur am Zug in Greifswalder Straße kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen..
+Wegen kurzfristigem Personalausfall wird zwischen Flughafen BER Terminal 1-2 und Altglienicke ein 20-Minuten-Takt mit der Linie S9 angeboten.
+
+*Die Linie S45 zwischen Flughafen BER Terminal 1-2 und Altglienicke verkehrt nicht.*
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung verspätet
+ Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
