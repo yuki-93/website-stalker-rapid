@@ -8,23 +8,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin wegen Staatsbesuch ###
 
- Letztes Update: 11:59 / 14.05.2023
+ Letztes Update: 12:23 / 14.05.2023
 
 Information
 
-Wegen einem **Polizeieinsatz im Raum Berlin (Staatsbesuch)** kommt es auf allen Linien zu Verspätungen sowie Zugausfällen und bis vsl. 13 Uhr zu nachfolgenden Einschränkungen im Zugverkehr:
+Wegen einem **Polizeieinsatz im Raum Berlin (Staatsbesuch)** kommt es auf allen Linien zu Verspätungen sowie Zugausfällen und nachfolgenden Einschränkungen.
 
-* Linie S1 zwischen Anhalter Bahnhof und Friedenau unterbrochen
-* Linien S2 und S25 zwischen Anhalter Bahnhof und Priesterweg unterbrochen
-* Linie S26 verkehrt nicht
-* Linien S3, S5 und S7 zwischen Friedrichstraße und Zoologischer Garten unterbrochen
-* Linien S41/S42 zwischen Bundesplatz und Tempelhof unterbrochen
-* Linie S45 verkehrt nicht
-* Linie S9 zwischen Flughafen BER T1-2 und Flughafen BER T5 unterbrochen
+*Die Linien S26 und S45 verkehren nicht.
+ Die Linien S41 und S42 verkehren im 10-Minuten-Takt.*
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
