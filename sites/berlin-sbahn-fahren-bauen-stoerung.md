@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### defektes Stellwerk in Königs Wusterhausen ###
+
+ Letztes Update: 10:35 / 15.05.2023
+
+Information
+
+Wegen eines defekten Stellwerks in Königs Wusterhausen kommt es auf der Linie S46 zu Verspätungen und Ausfällen.
+
+wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur am Zug in Yorckstraße behoben ###
