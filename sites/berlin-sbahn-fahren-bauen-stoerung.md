@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur am Zug in Yorckstraße ###
+
+ Letztes Update: 08:19 / 15.05.2023
+
+Information
+
+Wegen Reparatur am Zug in Yorckstraße ist der Zugverkehr der Linien S2, S25 und S26 zwischen Südkreuz und Anhalter Bahnhof unterbrochen.
+
+* die Linie S2 verkehrt Blankenfelde\<\>Südkreuz sowie Potsdamer Platz\<\>Bernau
+* die Linie S25 verkehrt Teltow Stadt\<\>Südkreuz sowie Potsdamer Platz\<\>Hennigsdorf
+* die Linie S26 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S1](https://sbahn.berlin/fahren/s1/)[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
 
 ### kurzfristiger Personalausfall Linie S1, S3 und S5 ###
@@ -621,6 +639,28 @@ Information
 
 Nur Wochenende
 
+### Hermannstraße \> Schöneweide ###
+
+27.05 (Sa) 18:15 bis 18:22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20914&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15589&tx_sbbconstructions_list%5Bperiod%5D=13233&type=5679&cHash=18903a5baaccd1d098ed9e8a8644f5ce)
+
+ fährt nicht
+
+Information
+
+* Der Zug Hermannstraße ab 18:04, Schöneweide ab 18:16 Uhr nach Spindlersfeld (an 18:22 Uhr) endet bereist um 18:15 Uhr in Schöneweide.
+* Der Zug fällt von Schöneweide bis Spindlersfeld aus.
+* Bitte benutzen Sie zwischen:
+  * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
+  * Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+Nur Wochenende
+
 ### Spindlersfeld \> Schöneweide ###
 
 27.05 (Sa) 18:29 Uhr bis 18:35 Uhr
@@ -637,6 +677,42 @@ Information
   * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
      Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
 
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Warschauer Straße \> Wartenberg ###
+
+27.05. (Sa) 18:37 Uhr bis 18:59 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20167&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15278&tx_sbbconstructions_list%5Bperiod%5D=16947&type=5679&cHash=1195a8f71f990a08c27c24895e31449b)
+
+ fährt nicht
+
+Information
+
+* Der Zug Warschauer Straße ab 18:37 Uhr nach Wartenberg (an 18:59 Uhr) fällt aus.
+* Bitte benutzen Sie den Zug 10 Minuten früher oder 10 Minuten später.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Wartenberg \> Warschauer Straße ###
+
+27.05 (Sa) 19:06 Uhr bis 19:28 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21508&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15999&tx_sbbconstructions_list%5Bperiod%5D=16946&type=5679&cHash=ff6dd4bb828369245f49af88f61fef40)
+
+ fährt nicht
+
+Information
+
+* Der Zug Wartenberg ab 19:06 Uhr nach Warschauer Straße (an 19:28 Uhr) fällt aus.
+* Bitte benutzen Sie den Zug 10 Minuten früher oder 10 Minuten später.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
