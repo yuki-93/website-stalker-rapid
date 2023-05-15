@@ -4,50 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### defektes Stellwerk in Königs Wusterhausen ###
-
- Letztes Update: 10:35 / 15.05.2023
-
-Information
-
-Wegen eines defekten Stellwerks in Königs Wusterhausen kommt es auf der Linie S46 zu Verspätungen und Ausfällen.
-
-wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur am Zug in Yorckstraße behoben ###
-
- Letztes Update: 09:16 / 15.05.2023
-
-Information
-
-Nach Reparatur am Zug in Yorckstraße kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-* die Linie S26 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### ärztliche Versorgung eines Fahrgastes im Jannowitzbrücke beendet ###
-
- Letztes Update: 09:13 / 15.05.2023
-
-Information
-
-nach einer ärztliche Versorgung eines Fahrgastes im Zug in Jannowitzbrücke kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und Ausfällen.
-
-wir bitten um entschuldigung.
-
- Takt geändert
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Kurzfristiger Personalausfall - Linie S45 ###
