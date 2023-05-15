@@ -6,17 +6,43 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur am Zug in Yorckstraße ###
+### Reparatur am Zug in Yorckstraße behoben ###
 
- Letztes Update: 08:19 / 15.05.2023
+ Letztes Update: 09:16 / 15.05.2023
 
 Information
 
-Wegen Reparatur am Zug in Yorckstraße ist der Zugverkehr der Linien S2, S25 und S26 zwischen Südkreuz und Anhalter Bahnhof unterbrochen.
+Nach Reparatur am Zug in Yorckstraße kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
-* die Linie S2 verkehrt Blankenfelde\<\>Südkreuz sowie Potsdamer Platz\<\>Bernau
-* die Linie S25 verkehrt Teltow Stadt\<\>Südkreuz sowie Potsdamer Platz\<\>Hennigsdorf
 * die Linie S26 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### ärztliche Versorgung eines Fahrgastes im Jannowitzbrücke beendet ###
+
+ Letztes Update: 09:13 / 15.05.2023
+
+Information
+
+nach einer ärztliche Versorgung eines Fahrgastes im Zug in Jannowitzbrücke kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und Ausfällen.
+
+wir bitten um entschuldigung.
+
+ Takt geändert
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### unbefugte Person auf der Strecke ###
+
+ Letztes Update: 08:49 / 15.05.2023
+
+Information
+
+Wegen unbefugter Person auf der Strecke ist der Zugverkehr zwischen Karow und Buch unterbrochen.
 
 Wir bitten um Entschuldigung.
 
@@ -784,6 +810,37 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/belastungsstopfgang-nach-weichenerneuerung-1/#con-27169)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Flughafen BER – Terminal 1-2/Grünau/Spindlersfeld \<\> Baumschulenweg/Treptower Park ###
+
+Nacht 08./09.06. (Do/Fr), ca. 22.20 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27212&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20327&tx_sbbconstructions_list%5Bperiod%5D=16945&type=5679&cHash=8437f8ad76de8a010a9bfcdee7b8acd1)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr: Schöneweide \<\> Baumschulenweg \<\> Treptower Park
+* alternative Reisemöglichkeiten:
+  * mit der RB24 und RB32 Flughafen BER – Terminal 5 \<\> Schöneweide \<\> Ostkreuz \<\> Lichtenberg
+
+* Ersatzverkehr mit Bussen:
+  * Bus S9A Schöneweide \<\> Treptower Park
+
+* Taktänderung:
+  * Altglienicke \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
+  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
+  * Adlershof \<\> Schöneweide S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S46 und S9
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 10-Minutentakt mit S45 und S46
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-baumschulenweg-und-in-treptower-park/#con-27212)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 

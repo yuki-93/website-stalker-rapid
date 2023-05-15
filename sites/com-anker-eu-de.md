@@ -14,9 +14,9 @@ Search
 
 [](https://passport.anker.com/?app=ankerde)
 
-Geschenke zum Muttertag
+Geschenke zum Vatertag
 
-Bis zu 33% Rabatt
+Bis zu 45% Rabatt
 
 [Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/angebote-muttertag?ref=masterBanner1)
 
