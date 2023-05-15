@@ -417,4 +417,4 @@ Wir verwenden Cookies für eine noch bessere Erfahrung beim Browsen. Das Fortfah
 
 Cookies akzeptieren
 
-[](https://www.anker.com/eu-de/angebote-muttertag?formPop=true?formPop=true)
+[](https://www.anker.com/eu-de/angebote-muttertag?formPop=true)
