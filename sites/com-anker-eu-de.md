@@ -20,14 +20,13 @@ Bis zu 45% Rabatt
 
 [Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/angebote-muttertag?ref=masterBanner1)
 
-Versandkostenfrei bis zur Bordsteinkante
+Bis zu 50% Rabatt
 
-SOLIX Balkonkraftwerk
- Bis zu 10% Rabatt
+Mit der Kraft der Sonne.
 
-Einfacher. Schlauer. Plug&Play.
+Die Aktion läuft vom 15. Mai bis 4. Juni 2023
 
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk_produkteinfuehrung?ref=balconypower_details?ref=masterBanner2)
+[Los geht's!masterBanner2](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=masterBanner2)
 
 Das Anker-Erlebnis entdecken
 ----------
@@ -38,19 +37,19 @@ Das Anker-Erlebnis entdecken
 
   [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner2_1)
 
-* ###  Anker 757 PowerHouse ###
-
-  ### 1299Wh | 1500W ###
-
-  Langlebige Stromquelle für zuhause & unterwegs
-
-  [Jetzt kaufen Anker 757 PowerHouse,1299Wh | 1500W](https://www.anker.com/eu-de/products/a1770?ref=productBanner2_2)
-
 * ### Anker Ace Ladegerät ###
 
   Das Lade-Ass für dein Galaxy
 
-  [Mehr erfahren Anker Ace Ladegerät](https://www.anker.com/eu-de/ace-charger?ref=productBanner2_3)
+  [Mehr erfahren Anker Ace Ladegerät](https://www.anker.com/eu-de/ace-charger?ref=productBanner2_2)
+
+* ### Bis zu 50% Rabatt ###
+
+  ### Mit der Kraft der Sonne. ###
+
+  Die Aktion läuft vom 15. Mai bis 4. Juni 2023
+
+  [Mehr erfahrenBis zu 50% Rabatt,Mit der Kraft der Sonne.](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk_erster_eindruck?ref=productBanner2_3)
 
 * ### Anker Nano 3 ###
 
@@ -58,15 +57,13 @@ Das Anker-Erlebnis entdecken
 
   [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner2_4)
 
-* ### SOLIX Balkonkraftwerk ###
+* ###  Anker 757 PowerHouse ###
 
-  ### Bis zu 10% Rabatt ###
+  ### 1299Wh | 1500W ###
 
-  Versandkostenfrei bis zur Bordsteinkante
-  0% MwSt.
-  Einfacher. Schlauer. Plug&Play.
+  Langlebige Stromquelle für zuhause & unterwegs
 
-  [Mehr erfahrenSOLIX Balkonkraftwerk,Bis zu 10% Rabatt](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk_erster_eindruck?ref=productBanner2_5)
+  [Jetzt kaufen Anker 757 PowerHouse,1299Wh | 1500W](https://www.anker.com/eu-de/products/a1770?ref=productBanner2_5)
 
 * ### Wir stellen vor: Unser 2.500.000$
    Kickstarter-Projekt ###
