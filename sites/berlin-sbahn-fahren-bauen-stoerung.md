@@ -584,6 +584,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-blindenleit-und-wegeleitsystem-abbrucharbeiten-kreuzungsbauwerk/#con-27184)
 
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### gesamter Ring und Treptower Park \<\> Birkenwerder ###
+
+Nächte 05./06.06. (Mo/Di) bis 08./09.06. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27209&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20325&tx_sbbconstructions_list%5Bperiod%5D=16938&type=5679&cHash=15fc2546ce2a806590ae1fb53d33dda5)
+
+ Zugverkehr verändert
+
+Information
+
+* kein S-Bahnverkehr: Schönhauser Allee \<\> Bornholmer Straße
+  * Bitte Umfahrung über Gesundbrunnen mit Umstieg und Bahnsteigwechsel oder zwischen Schönhauser Allee \<\> Pankow die U2 nutzen.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/montage-der-bedruckten-paneele-nach-bauwerkspruefung/#con-27209)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
 
  Nur Nachts
@@ -692,6 +715,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bruecke-wiltbergstrasse-herstellen-des-bauzustand/#con-27149)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### gesamter Ring S41 und S42 ###
+
+Nacht 31.05./01.06. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27207&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20323&tx_sbbconstructions_list%5Bperiod%5D=16937&type=5679&cHash=78be2e76ae9a494abf053ebf72960ba5)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Gesundbrunnen um, die Weiterfahrt erfolgt nach 7 Minuten vom selben Gleis.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-34/#con-27207)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
