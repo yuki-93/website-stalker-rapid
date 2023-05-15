@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
+
+### kurzfristiger Personalausfall Linie S1, S3 und S5 ###
+
+ Letztes Update: 06:42 / 15.05.2023
+
+Information
+
+Wegen kurzfristigem Personalausfall muss das Fahrangebot auf den Linien S1, S3 und S5 leicht verringert werden.
+
+\- die Linie S1 verkehrt im 10-Minuten-Takt
+
+\- die Linie S3 verkehrt im 10-Minuten-Takt
+
+\- die Linie S5 verkehrt im 10-Minuten-Takt
+
+ Takt geändert
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Kurzfristiger Personalausfall - Linie S45 ###
@@ -555,6 +573,70 @@ Information
 
 * Der Zug Westkreuz ab 3:12 Uhr nach Karlshorst (an 3:49 Uhr) beginnt erst um 3:37 Uhr in Ostbahnhof.
 * Der Zug fällt von Westkreuz bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+Nur Wochenende
+
+### Hermannstraße \> Schöneweide ###
+
+27.05 (Sa) 11:44 Uhr bis 12:02 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20154&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15263&tx_sbbconstructions_list%5Bperiod%5D=16944&type=5679&cHash=01e2be3b0c05e56ae73235f1fa7deaf1)
+
+ fährt nicht
+
+Information
+
+* Der Zug Hermannstraße ab 11:44 Uhr, Schöneweide ab 11:56 Uhr nach Spindlersfeld (an 12:02 Uhr) fällt aus.
+* Bitte benutzen Sie zwischen:
+  * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
+  * Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+Nur Wochenende
+
+### Spindlersfeld \> Hermanstraße ###
+
+27.05 (Sa) 18:09 Uhr bis 18:26 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20165&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15276&tx_sbbconstructions_list%5Bperiod%5D=16940&type=5679&cHash=aa860f99a49c62299880129f05c0fcfe)
+
+ fährt nicht
+
+Information
+
+* Der Zug Spindlersfeld ab 18:09 Uhr nach Hermannstraße (an 18:26 Uhr) fällt aus.
+* Bitte benutzen Sie zwischen:
+  * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
+  * Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+Nur Wochenende
+
+### Spindlersfeld \> Schöneweide ###
+
+27.05 (Sa) 18:29 Uhr bis 18:35 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20915&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15590&tx_sbbconstructions_list%5Bperiod%5D=16943&type=5679&cHash=9043ee92b02fc0ec6718765436c520e8)
+
+ fährt nicht
+
+Information
+
+* Der Zug Spindlersfeld ab 18:29 Uhr nach Hermannstraße (an 18:46 Uhr) beginnt erst um 18:35 Uhr in Schöneweide.
+* Der Zug fällt von Spindlersfeld bis Schöneweide aus.
+* Bitte benutzen Sie zwischen:
+  * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
+     Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
+
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
