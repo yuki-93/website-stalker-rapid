@@ -32,25 +32,25 @@ Einfacher. Schlauer. Plug&Play.
 Das Anker-Erlebnis entdecken
 ----------
 
+* ### Anker GaNPrime  ###
+
+  Unsere beste Multi-Geräte-Ladeserie
+
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner2_1)
+
 * ###  Anker 757 PowerHouse ###
 
   ### 1299Wh | 1500W ###
 
   Langlebige Stromquelle für zuhause & unterwegs
 
-  [Jetzt kaufen Anker 757 PowerHouse,1299Wh | 1500W](https://www.anker.com/eu-de/products/a1770?ref=productBanner2_1)
+  [Jetzt kaufen Anker 757 PowerHouse,1299Wh | 1500W](https://www.anker.com/eu-de/products/a1770?ref=productBanner2_2)
 
 * ### Anker Ace Ladegerät ###
 
   Das Lade-Ass für dein Galaxy
 
-  [Mehr erfahren Anker Ace Ladegerät](https://www.anker.com/eu-de/ace-charger?ref=productBanner2_2)
-
-* ### Anker GaNPrime  ###
-
-  Unsere beste Multi-Geräte-Ladeserie
-
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner2_3)
+  [Mehr erfahren Anker Ace Ladegerät](https://www.anker.com/eu-de/ace-charger?ref=productBanner2_3)
 
 * ### Anker Nano 3 ###
 

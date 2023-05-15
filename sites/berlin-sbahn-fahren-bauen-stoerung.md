@@ -34,38 +34,6 @@ wir bitten um entschuldigung.
 
  Takt geändert
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### unbefugte Person auf der Strecke ###
-
- Letztes Update: 08:49 / 15.05.2023
-
-Information
-
-Wegen unbefugter Person auf der Strecke ist der Zugverkehr zwischen Karow und Buch unterbrochen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
-
-### kurzfristiger Personalausfall Linie S1, S3 und S5 ###
-
- Letztes Update: 06:42 / 15.05.2023
-
-Information
-
-Wegen kurzfristigem Personalausfall muss das Fahrangebot auf den Linien S1, S3 und S5 leicht verringert werden.
-
-\- die Linie S1 verkehrt im 10-Minuten-Takt
-
-\- die Linie S3 verkehrt im 10-Minuten-Takt
-
-\- die Linie S5 verkehrt im 10-Minuten-Takt
-
- Takt geändert
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Kurzfristiger Personalausfall - Linie S45 ###
@@ -993,6 +961,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27081)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Wartenberg \<\> Warschauer Straße ###
+
+19.06. (Mo), ca. 4 Uhr durchgehend bis 24.07. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=39e72f1282b337e640a6077fc82217fe)
+
+ Takt geändert
+
+Information
+
+* ***kein Halt*** in Gehrenseestraße
+* Taktänderung: Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)
 
 ### Fahrplanänderungen ###
 
