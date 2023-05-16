@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### verspätete Bereitstellung des Zuges - Linie S45 ###
-
- Letztes Update: 06:41 / 16.05.2023
-
-Information
-
-Wegen verspäteter Bereitstellung des Zuges verkehrt die Linie S45 nicht.
-
-* zwischen Flughafen BER Terminal 1-2 und Schöneweide besteht ein 20-Minuten-Takt mit der Linie S9
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
