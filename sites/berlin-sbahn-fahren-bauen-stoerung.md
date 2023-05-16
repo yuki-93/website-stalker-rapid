@@ -48,7 +48,7 @@ Information
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Flughafen BER – Terminal 1-2/Grünau \<\> Baumschulenweg \<\> Warschauer Straße ###
+### Flughafen BER – Terminal 1-2 \<\> Baumschulenweg \<\> Warschauer Straße ###
 
 15.05. (Mo), ca. 4 Uhr durchgehend bis 19.05. (Fr), ca. 22 Uhr
 
@@ -123,7 +123,7 @@ Information
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Flughafen BER – Terminal 1-2/Grünau \<\> Baumschulenweg \<\> Warschauer Straße ###
+### Flughafen BER – Terminal 1-2 \<\> Baumschulenweg \<\> Warschauer Straße ###
 
 15.05. (Mo), ca. 4 Uhr durchgehend bis 19.05. (Fr), ca. 22 Uhr
 
@@ -362,7 +362,7 @@ Information
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Flughafen BER – Terminal 1-2/Grünau \<\> Baumschulenweg \<\> Warschauer Straße ###
+### Flughafen BER – Terminal 1-2 \<\> Baumschulenweg \<\> Warschauer Straße ###
 
 15.05. (Mo), ca. 4 Uhr durchgehend bis 19.05. (Fr), ca. 22 Uhr
 
