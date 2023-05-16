@@ -8,14 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### verspätete Bereitstellung des Zuges - Linie S45 ###
 
- Letztes Update: 03:48 / 16.05.2023
+ Letztes Update: 06:41 / 16.05.2023
 
 Information
 
 Wegen verspäteter Bereitstellung des Zuges verkehrt die Linie S45 nicht.
 
 * zwischen Flughafen BER Terminal 1-2 und Schöneweide besteht ein 20-Minuten-Takt mit der Linie S9
-* zwischen Baumschulenweg und Südkreuz besteht ein 20-Minuten-Takt mit der Linie S46
 
 Wir bitten um Entschuldigung.
 
