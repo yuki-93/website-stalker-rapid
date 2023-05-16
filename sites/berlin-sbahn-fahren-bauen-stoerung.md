@@ -6,17 +6,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
-### Kurzfristiger Personalausfall - Linie S45 ###
+### kurzfristiger Personalausfall - Linie S45 ###
 
- Letztes Update: 01:57 / 15.05.2023
+ Letztes Update: 01:40 / 16.05.2023
 
 Information
 
-Wegen kurzfristigem Personalausfall verkehrt die Linie S45 derzeit nicht.
+Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S45 nicht.
 
-Zwischen Flughafen BER T1-2 und Schöneweide wird ein 20-Minuten-Takt mit der Linie S9 angeboten.
-
-Zwischen Baumschulenweg und Südkreuz wird ein 20-Minuten-Takt mit der Linie S46 angeboten.
+* zwischen Flughafen BER Terminal 1-2 und Schöneweide besteht ein 20-Minuten-Takt mit der Linie S9
+* zwischen Baumschulenweg und Südkreuz besteht ein 20-Minuten-Takt mit der Linie S46
 
 Wir bitten um Entschuldigung.
 
