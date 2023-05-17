@@ -18,20 +18,6 @@ Wir bitten um Entschuldigung.
 
  Takt geändert
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Beschädigung einer Brücke zwischen Botanischer Garten und Friedenau behoben ###
-
- Letztes Update: 14:50 / 17.05.2023
-
-Information
-
-Nach Beschädigung einer Brücke kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###
