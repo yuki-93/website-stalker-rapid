@@ -412,7 +412,7 @@ Deutschland / Deutsch
 
 © Fantasia Trading LLC 2022 200923810277
 
-[Über uns](https://de.anker.com/pages/about?ref=footer)[Lieferbedingungen](https://www.anker.com/eu-de/policies/shipping-policy?ref=footer)[Erstattungen](https://www.anker.com/eu-de/policies/refund-policy?ref=footer)[Datenschutzrichtlinie](https://www.anker.com/eu-de/policies/privacy-policy?ref=footer)[Nutzungsbedingungen](https://www.anker.com/eu-de/policies/terms-of-service?ref=footer)
+[Über uns](https://de.anker.com/pages/about?ref=footer)[Lieferbedingungen](https://www.anker.com/eu-de/policies/shipping-policy?ref=footer)[Erstattungen](https://www.anker.com/eu-de/policies/refund-policy?ref=footer)[Datenschutzrichtlinie](https://www.anker.com/eu-de/policies/privacy-policy?ref=footer)[Cookie-Einstellungen](https://www.anker.com/eu-de#?ref=footer)[Nutzungsbedingungen](https://www.anker.com/eu-de/policies/terms-of-service?ref=footer)
 
 []()
 
@@ -422,7 +422,3 @@ Ihr Warenkorb ist leer
 ----------
 
 [Kaufen Sie weiter ein](https://www.anker.com/eu-de)
-
-Wir verwenden Cookies für eine noch bessere Erfahrung beim Browsen. Das Fortfahren gleicht dem Akzeptieren unserer Datenschutzrichtlinien.
-
-Cookies akzeptieren
