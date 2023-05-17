@@ -4,17 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur am Zug in Messe Nord beendet ###
+
+ Letztes Update: 08:28 / 17.05.2023
+
+Information
+
+Nach einer Reparatur am Zug in Messe Nord kommt es auf den Linien S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###
 
- Letztes Update: 06:45 / 17.05.2023
+ Letztes Update: 08:26 / 17.05.2023
 
 Information
 
 Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S45 zwischen Flughafen BER Terminal 1-2 und Altglienicke nicht.
 
-* zwischen Flughafen BER Terminal 1-2 und Altglienicke/ Schöneweide besteht nur ein 20-Minuten-Takt mit der Linie S9.
+* Zwischen Flughafen BER Terminal 1-2 und Altglienicke/ Schöneweide besteht nur ein 20-Minuten-Takt mit der Linie S9.
 
 **Weitere Fahrtalternativen von und zum Flughafen BER Terminal 1-2:**
 
