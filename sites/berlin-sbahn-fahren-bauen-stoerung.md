@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### technischer Defekt an einem anderen Zug ###
+
+ Letztes Update: 18:17 / 17.05.2023
+
+Information
+
+Wegen einem technischen Defekt an einem anderen Zug kommt es auf den Linien S41, S42,S45, S46, S8 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Beschädigung einer Brücke zwischen Botanischer Garten und Friedenau behoben ###
