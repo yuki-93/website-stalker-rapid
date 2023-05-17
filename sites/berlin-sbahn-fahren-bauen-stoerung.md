@@ -8,52 +8,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung in Yorckstraße beendet ###
 
- Letztes Update: 12:13 / 17.05.2023
+ Letztes Update: 13:10 / 17.05.2023
 
 Information
 
 Nach der ärztlichen Versorgung in Yorckstraße kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
-* Die Linie **S2** fährt zwischen Lichtenrade und Buch nur im 20-Minuten-Takt.
 * Die Linie **S26** fährt nicht.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Beschädigung einer Brücke zwischen Botanischer Garten und Friedenau ###
 
- Letztes Update: 11:59 / 17.05.2023
+ Letztes Update: 12:43 / 17.05.2023
 
 Information
 
 Wegen der Beschädigung einer Brücke ist der Zugverkehr der Linie S1 zwischen Botanischer Garten und Friedenau unterbrochen.
 
 * Die Linie **S1** fährt: Wannsee \<\> Botanischer Garten ***sowie*** Friedenau \<\> Oranienburg nur im **20-Minuten-Takt**.
-* Die Linie **S2** fährt zwischen Lichtenrade und Buch nur im **20-Minuten-Takt**.
-* Die Linie **S26** fährt nicht.
 
 Zur weiträumigen Umfahrung nutzen Sie bitte die Buslinien der BVG.
 
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz zwischen Warschauer Straße und Alexanderplatz beendet ###
-
- Letztes Update: 10:59 / 17.05.2023
-
-Information
-
-Nach einem Polizeieinsatz zwischen Warschauer Straße und Alexanderplatz kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
