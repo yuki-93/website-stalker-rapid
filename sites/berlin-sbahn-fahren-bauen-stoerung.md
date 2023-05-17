@@ -2,29 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Linie S45: kurzfristiger Personalausfall ###
-
- Letztes Update: 08:26 / 17.05.2023
-
-Information
-
-Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S45 zwischen Flughafen BER Terminal 1-2 und Altglienicke nicht.
-
-* Zwischen Flughafen BER Terminal 1-2 und Altglienicke/ Schöneweide besteht nur ein 20-Minuten-Takt mit der Linie S9.
-
-**Weitere Fahrtalternativen von und zum Flughafen BER Terminal 1-2:**
-
-* zwischen Flughafen BER Terminal 1-2 und Baumschulenweg (über Adlershof, Schöneweide) mit den Bussen des Ersatzverkehrs für die Linie S9 (Linie Bus S9X),
-* zwischen Flughafen BER Terminal 1-2 und Schöneweide mit den Zügen des Regionalverkehrs (FEX).
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
