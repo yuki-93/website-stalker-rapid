@@ -328,6 +328,16 @@ Land/Region wählen
 
 Produkte
 
+[Neuerscheinungen](https://www.anker.com/eu-de/collections/new-releases?ref=footer)
+
+[Ladegeräte](https://www.anker.com/eu-de/collections/wandladegerate?ref=footer)
+
+[Powerbanks](https://www.anker.com/eu-en/collections/powerbanks?ref=footer)
+
+[Kabel](https://www.anker.com/eu-en/collections/kabel?ref=footer)
+
+[Adapter & Hubs](https://www.anker.com/eu-en/collections/adapter-hubs?ref=footer)
+
 [Balkonkraftwerk](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=footer)
 
 [Angebote](https://www.anker.com/eu-de/earth-day-powerstationen?ref=footer)
