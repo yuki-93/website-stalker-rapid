@@ -1019,6 +1019,171 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-in-schoenholz-weichenerneuerung-in-alt-reinickendorf-und-vegetationsarbeiten/#con-27211)
 
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Blankenburg \<\> Karow/Birkenwerder ###
+
+12.07. (Mi), ca. 22 Uhr durchgehend bis 14.07. (Fr), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27232&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16957&type=5679&cHash=c9360f0f4eaad81fed181b5976c91b31)
+
+ Ersatzverkehr
+
+Information
+
+* kein Zugverkehr zwischen Blankenburg und Birkenwerder
+* Ersatzverkehr mit Bussen:
+  * Bus S2: Pankow-Heinersdorf \<\> Karow
+  * Bus S8: Pankow-Heinersdorf \<\> Birkenwerder
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Frohnau \<\> Oranienburg ###
+
+12.07. (Mi), ca. 22 Uhr durchgehend bis 14.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27237&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16967&type=5679&cHash=88044e44f3a5c0c0b64cb66ad2ee569c)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S1: Frohnau \<\> Oranienburg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Blankenburg \<\> Birkenwerder ###
+
+14.07. (Fr), ca. 4.00 Uhr durchgehend bis 14.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16958&type=5679&cHash=bb8971ee14e8eb09d8200d5bdbaf9fec)
+
+Nächte 06./07.09. (Mi/Do) und 07./08.09. (Do/Fr), jeweils ca. 22 Uhr – ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16965&type=5679&cHash=4657592837ba0aa4fc7cf94707bfe438)
+
+09.09. (Sa), ca. 5 Uhr durchgehend bis 10.09. (So), ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16966&type=5679&cHash=8bc0b369acbeaecee7b2021d3069b3da)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&type=5679&cHash=f5fe4a9dd96b76653cc7986f0c12effe)
+
+ Ersatzverkehr
+
+Information
+
+* kein Zugverkehr zwischen Blankenburg und Birkenwerder
+* Ersatzverkehr mit Bussen:
+  * Bus S8: Pankow-Heinersdorf \<\> Birkenwerder
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Strausberg Nord \<\> Strausberg ###
+
+17.07. (Mo), ca. 4 Uhr durchgehend bis 07.08. (Mo) ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27239&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20349&tx_sbbconstructions_list%5Bperiod%5D=16969&type=5679&cHash=107a3b1a9fbbd9d7bf01fd2d2bd4749a)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Strausberg Stadt \<\> Hegermühle \<\> Strausberg ###
+
+07.08. (Mo), ca. 4 Uhr durchgehend bis 14.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27240&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20349&tx_sbbconstructions_list%5Bperiod%5D=16970&type=5679&cHash=b94e51a8f491262d7421b2b1c274fcd4)
+
+ Zugverkehr verändert
+
+Information
+
+* **kein Verkehrshalt** am S-Bahnhof Hegermühle
+  * Fahrgäste von bzw. mit dem Fahrtziel S Hegermühle benutzen bitte den Ersatzverkehr mit Bussen:
+     Bus S5: Strausberg Stadt \<\> Hegermühle \<\> Strausberg.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Blankenburg \<\> Schönfließ ###
+
+14.08. (Mo), ca. 4 Uhr durchgehend bis 06.09. (Mi), ca, 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16961&type=5679&cHash=bed545f9e340843b52adf1057a57f36f)
+
+07.09. (Do), ca. 4 Uhr bis 07.09. (Do), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16962&type=5679&cHash=3f6fcfe789a8679934b13cde4479fd44)
+
+08.09 (Fr), ca. 4 Uhr bis 09.09.(Sa), ca. 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16963&type=5679&cHash=81a7bbae273a264efd25f713a7e04fc2)
+
+10.09. (So), ca. 7 Uhr durchgehend 15.09., ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16964&type=5679&cHash=98eb74a079fd35223eb88872acfdada7)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&type=5679&cHash=17bdb239a816bd2db79bb22b01fd88df)
+
+ Ersatzverkehr
+
+Information
+
+* kein Zugverkehr: Blankenburg \<\> Schönfließ
+* Ersatzverkehr mit Bussen:
+  * Bus S8: Pankow-Heinersdorf \<\> Bergfelde
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Blankenburg \<\> Karow ###
+
+25.08. (Fr), 22 Uhr durchgehend bis 28.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27236&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16960&type=5679&cHash=fc57581c023c55a842a19c14f2a94ca9)
+
+ Ersatzverkehr
+
+Information
+
+* kein Zugverkehr: Blankenburg \<\> Karow
+* Ersatzverkehr mit Bussen:
+  * Bus S2: Pankow-Heinersdorf \<\> Karow
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Pankow \<\> Karow/Schönfließ ###
+
+15.09. (Fr), ca. 22 Uhr durchgehend bis 18.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27234&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16959&type=5679&cHash=85bcd01843425bab947b68e40968c3a2)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S2: Pankow \<\> Karow
+  * Bus S8: Pankow \<\> Bergfelde
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Flughafen BER – Terminal 1-2/Grünau/Spindlersfeld \<\> Baumschulenweg \<\> Warschauer Straße ###
