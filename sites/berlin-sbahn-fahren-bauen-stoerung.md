@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### kurzfristiger Personalaufall Linie S45 ###
+
+ Letztes Update: 20:20 / 18.05.2023
+
+Information
+
+Wegen kurzfristigem Personalausfall verkehrt die Linie S45 derzeit nicht.
+
+Zwischen Flughafen BER T1-2 und Schöneweide wird ein 20-Minuten-Takt mit der Linie S9 angeboten.
+
+Zwischen Baumschulenweg und Südkreuz wird ein 20-Minuten-Takt mit der Linie S46 angeboten.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
