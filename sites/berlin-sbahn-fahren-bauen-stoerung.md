@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur am Zug in Savignyplatz beendet ###
+### Reparatur an einem Signal in Karlshorst ###
 
- Letztes Update: 18:47 / 19.05.2023
+ Letztes Update: 20:08 / 19.05.2023
 
 Information
 
-Nach einer Reparatur am Zug in Savignyplatz kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Karlshorst kommt es auf der Linien S3 derzeit zu Verspätungen.
 
 Wir bitten um Entschuldigung.
 
