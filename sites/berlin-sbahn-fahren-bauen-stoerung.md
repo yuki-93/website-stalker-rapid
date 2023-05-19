@@ -6,19 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur am Zug in Anhalter Bahnhof ###
+### Reparatur am Zug in Anhalter Bahnhof beendet ###
 
- Letztes Update: 10:22 / 19.05.2023
+ Letztes Update: 11:02 / 19.05.2023
 
 Information
 
-Wegen einer Reparatur am Zug in Anhalter Bahnhof ist der Zugverkehr der Linie S1 zwischen Großgörschenstraße und Potsdamer Platz ***sowie*** der Linien S2, S25 und S26 zwischen Yorckstraße und Potsdamer Platz unterbochen.
+Nach einer Reparatur am Zug in Anhalter Bahnhof kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
 
-Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+* Die Linie S26 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -1006,6 +1006,8 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27232)
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Frohnau \<\> Oranienburg ###
@@ -1022,6 +1024,8 @@ Information
   * Bus S1: Frohnau \<\> Oranienburg
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27237)
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
@@ -1051,6 +1055,8 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27233)
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Strausberg Nord \<\> Strausberg ###
@@ -1065,6 +1071,8 @@ Information
 
 * Ersatzverkehr mit Bussen
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnhof-hegermuehle/#con-27239)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
@@ -1083,6 +1091,8 @@ Information
      Bus S5: Strausberg Stadt \<\> Hegermühle \<\> Strausberg.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnhof-hegermuehle/#con-27240)
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
@@ -1116,6 +1126,8 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27235)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Blankenburg \<\> Karow ###
@@ -1134,6 +1146,8 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27236)
+
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Pankow \<\> Karow/Schönfließ ###
@@ -1151,6 +1165,8 @@ Information
   * Bus S8: Pankow \<\> Bergfelde
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27234)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
