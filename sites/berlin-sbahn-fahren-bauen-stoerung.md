@@ -98,7 +98,7 @@ Information
   * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Baumschulenweg
 
 * S-Bahn-Pendelverkehr:
-  * Altglienicke \<\> Adkershof im 20-Minutentakt
+  * Altglienicke \<\> Adlershof im 20-Minutentakt
   * Baumschulenweg \<\> Treptower Park im 10-Minutentakt (mit Umsteigen in Plänterwald)
 
 * Taktänderung:
@@ -147,7 +147,7 @@ Information
   * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Baumschulenweg
 
 * S-Bahn-Pendelverkehr:
-  * Altglienicke \<\> Adkershof im 20-Minutentakt
+  * Altglienicke \<\> Adlershof im 20-Minutentakt
   * Baumschulenweg \<\> Treptower Park im 10-Minutentakt (mit Umsteigen in Plänterwald)
 
 * Taktänderung:
@@ -405,7 +405,7 @@ Information
   * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Baumschulenweg
 
 * S-Bahn-Pendelverkehr:
-  * Altglienicke \<\> Adkershof im 20-Minutentakt
+  * Altglienicke \<\> Adlershof im 20-Minutentakt
   * Baumschulenweg \<\> Treptower Park im 10-Minutentakt (mit Umsteigen in Plänterwald)
 
 * Taktänderung:
