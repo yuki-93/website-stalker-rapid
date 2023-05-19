@@ -8,45 +8,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalaufall Linie S45 ###
 
- Letztes Update: 20:20 / 18.05.2023
+ Letztes Update: 03:36 / 19.05.2023
 
 Information
 
-Wegen kurzfristigem Personalausfall verkehrt die Linie S45 derzeit nicht.
+Wegen kurzfristigem Personalausfall verkehrt die Linie S45 derzeit nicht zwischen Altglienicke und Flughafen BER T1-2.
 
 Zwischen Flughafen BER T1-2 und Schöneweide wird ein 20-Minuten-Takt mit der Linie S9 angeboten.
-
-Zwischen Baumschulenweg und Südkreuz wird ein 20-Minuten-Takt mit der Linie S46 angeboten.
 
 Wir bitten um Entschuldigung.
 
  Takt geändert
 
 ### Baumaßnahmen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Charlottenburg \<\> Westkreuz ###
-
-02.05. (Di), ca. 4 Uhr durchgehend bis 19.05. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27058&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20169&tx_sbbconstructions_list%5Bperiod%5D=16858&type=5679&cHash=a5fb43e5dadac84b89b8a17734019017)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Die S5 endet/beginnt in Charlottenburg, bitte benutzen Sie zwischen Charlottenburg \<\> Westkreuz die S3, S7 oder S9.
-
-* Bahnsteigänderung:
-  * In Charlottenburg fährt die S5 nach Mahlsdorf/Hoppegarten/Strausberg/Strausberg Nord von Gleis 7, Bahnsteig stadtauswärts.
-  * In der Nacht 10./11.05. (Mi/Do) endet/beginnt die S5 aus/nach Strausberg/Strausberg Nord auf Gleis 6 Bahnsteig stadteinwärts.
-
-* Linienführung:
-  * S5 fährt Strausberg Nord \<\> Charlottenburg (10-Minutentakt: Hoppegarten/Mahlsdorf \<\> Charlottenburg)
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
