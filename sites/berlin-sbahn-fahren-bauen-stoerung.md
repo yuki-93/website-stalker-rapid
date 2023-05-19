@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
-### kurzfristiger Personalaufall Linie S45 ###
+### kurzfristiger Personalausfall Linie S45 ###
 
- Letztes Update: 21:40 / 19.05.2023
+ Letztes Update: 23:57 / 19.05.2023
 
 Information
 
@@ -70,6 +70,28 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+Nur Wochenende
+
+### Zehlendorf \<\> Friedenau ###
+
+21.05. (So), ca. 1 Uhr durchgehend bis 22.05. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27085&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20198&tx_sbbconstructions_list%5Bperiod%5D=16880&type=5679&cHash=0564c36113630210bdecdc27735e0f33)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr: Zehlendorf \<\> Friedenau
+* Ersatzverkehr mit Bussen: Zehlendorf \<\> Schöneberg
+  * Bitte steigen Sie zwischen dem Ersatzverkehr mit Bussen und der S1 (Friedenau \<\> Oranienburg) in beiden Fahrtrichtungen in Schöneberg um. In Friedenau beträgt der Fußweg zwischen dem S-Bahnhof und der Bushaltestelle „Breslauer Platz“ ca. 600 Meter.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-moltkebruecke-am-s-bf-botanischer-gart/#con-27085)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -283,6 +305,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-autobahndreieck-funkturm/#con-27124)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Karlshorst/Mahlsdorf \<\> Spandau/Grunewald ###
+
+04.06. (So), ca. 2 Uhr durchgehend bis 06.06. (Di), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27184&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20300&tx_sbbconstructions_list%5Bperiod%5D=16932&type=5679&cHash=90d63727b1cf6ee1cf8a5766102ef08a)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S7 und S9
+* Taktänderung: Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt S9
+* Taktänderung: Westkreuz \<\> Grunewald S-Bahnverkehr nur im 20-Minutentakt S7
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-blindenleit-und-wegeleitsystem-abbrucharbeiten-kreuzungsbauwerk/#con-27184)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -623,27 +666,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Karlshorst/Mahlsdorf \<\> Spandau/Grunewald ###
-
-04.06. (So), ca. 2 Uhr durchgehend bis 06.06. (Di), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27184&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20300&tx_sbbconstructions_list%5Bperiod%5D=16932&type=5679&cHash=90d63727b1cf6ee1cf8a5766102ef08a)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S7 und S9
-* Taktänderung: Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt S9
-* Taktänderung: Westkreuz \<\> Grunewald S-Bahnverkehr nur im 20-Minutentakt S7
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-blindenleit-und-wegeleitsystem-abbrucharbeiten-kreuzungsbauwerk/#con-27184)
 
 [S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
