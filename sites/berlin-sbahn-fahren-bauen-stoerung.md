@@ -2,52 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Baumaßnahmen ###
+### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
-### Flughafen BER – Terminal 1-2 \<\> Baumschulenweg \<\> Warschauer Straße ###
+### kurzfristiger Personalaufall Linie S45 ###
 
-15.05. (Mo), ca. 4 Uhr durchgehend bis 19.05. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16850&type=5679&cHash=d28e24f6093eab931e0fcc5b7c20cc73)
-
-22.05. (Mo), ca. 4 Uhr durchgehend bis 26.05. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16851&type=5679&cHash=364e7432701aa2e6d0c54159482fa465)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&type=5679&cHash=742e5b3e5c8e203f5d4f6c964c25614b)
-
- Ersatzverkehr
+ Letztes Update: 21:40 / 19.05.2023
 
 Information
 
-* kein S-Bahnverkehr:
-  * Schöneweide \<\> Baumschulenweg
-  * Treptower Park \<\> Warschauer Straße (S9-Kurve),
-     Bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen, im Abschnitt Ostkreuz \<\> Spandau fährt die S3 im 10-Minutentakt
+Wegen kurzfristigem Personalausfall verkehrt die Linie S45 nicht zwischen Baumschulenweg und Südkreuz.
 
-* **alternative Reisemöglichkeiten:**
-  * mit dem FEX Flughafen BER – Terminal 1-2 \<\> Schöneweide (Zusatzhalt) \<\> Ostkreuz \<\> Gesundbrunnen \<\> Berlin Hbf (tief),
-  * mit der RB32 Flughafen BER – Terminal 5 \<\> Schöneweide \<\> Ostkreuz \<\> Lichtenberg
+Zwischen Baumschulenweg und Südkreuz wird ein 20-Minutentakt mir der Linie S46 angeboten.
 
-* Ersatzverkehr mit Bussen:
-  * Bus S46: Baumschulenweg \> Schöneweide \> Baumschulenweg
-  * Bus S9A: Baumschulenweg \> Schöneweide \> Baumschulenweg
-  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Baumschulenweg
+Wir bitten um Entschuldigung.
 
-* S-Bahn-Pendelverkehr: Baumschulenweg \<\> Treptower Park (im 10-Minutentakt mit Umsteigen in Plänterwald)
-* Taktänderung:
-  * Altglienicke \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
-  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
-  * Adlershof \<\> Schöneweide S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S46 und S9
-  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 10-Minutentakt mit S45 und S46
+ Takt geändert
 
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27023)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
+### Baumaßnahmen ###
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -313,51 +286,6 @@ Information
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Flughafen BER – Terminal 1-2 \<\> Baumschulenweg \<\> Warschauer Straße ###
-
-15.05. (Mo), ca. 4 Uhr durchgehend bis 19.05. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16850&type=5679&cHash=d28e24f6093eab931e0fcc5b7c20cc73)
-
-22.05. (Mo), ca. 4 Uhr durchgehend bis 26.05. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16851&type=5679&cHash=364e7432701aa2e6d0c54159482fa465)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&type=5679&cHash=742e5b3e5c8e203f5d4f6c964c25614b)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr:
-  * Schöneweide \<\> Baumschulenweg
-  * Treptower Park \<\> Warschauer Straße (S9-Kurve),
-     Bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen, im Abschnitt Ostkreuz \<\> Spandau fährt die S3 im 10-Minutentakt
-
-* **alternative Reisemöglichkeiten:**
-  * mit dem FEX Flughafen BER – Terminal 1-2 \<\> Schöneweide (Zusatzhalt) \<\> Ostkreuz \<\> Gesundbrunnen \<\> Berlin Hbf (tief),
-  * mit der RB32 Flughafen BER – Terminal 5 \<\> Schöneweide \<\> Ostkreuz \<\> Lichtenberg
-
-* Ersatzverkehr mit Bussen:
-  * Bus S46: Baumschulenweg \> Schöneweide \> Baumschulenweg
-  * Bus S9A: Baumschulenweg \> Schöneweide \> Baumschulenweg
-  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Baumschulenweg
-
-* S-Bahn-Pendelverkehr: Baumschulenweg \<\> Treptower Park (im 10-Minutentakt mit Umsteigen in Plänterwald)
-* Taktänderung:
-  * Altglienicke \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
-  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
-  * Adlershof \<\> Schöneweide S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S46 und S9
-  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 10-Minutentakt mit S45 und S46
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27023)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
 Nur Wochenende
 
 ### Flughafen BER – Terminal 1-2/Grünau/Spindlersfeld \<\> Baumschulenweg \<\> Warschauer Straße ###
@@ -398,6 +326,45 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27079)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Flughafen BER – Terminal 1-2 \<\> Baumschulenweg \<\> Warschauer Straße ###
+
+22.05. (Mo), ca. 4 Uhr durchgehend bis 26.05. (Fr), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16851&type=5679&cHash=364e7432701aa2e6d0c54159482fa465)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr:
+  * Schöneweide \<\> Baumschulenweg
+  * Treptower Park \<\> Warschauer Straße (S9-Kurve),
+     Bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen, im Abschnitt Ostkreuz \<\> Spandau fährt die S3 im 10-Minutentakt
+
+* **alternative Reisemöglichkeiten:**
+  * mit dem FEX Flughafen BER – Terminal 1-2 \<\> Schöneweide (Zusatzhalt) \<\> Ostkreuz \<\> Gesundbrunnen \<\> Berlin Hbf (tief),
+  * mit der RB32 Flughafen BER – Terminal 5 \<\> Schöneweide \<\> Ostkreuz \<\> Lichtenberg
+
+* Ersatzverkehr mit Bussen:
+  * Bus S46: Baumschulenweg \> Schöneweide \> Baumschulenweg
+  * Bus S9A: Baumschulenweg \> Schöneweide \> Baumschulenweg
+  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Baumschulenweg
+
+* S-Bahn-Pendelverkehr: Baumschulenweg \<\> Treptower Park (im 10-Minutentakt mit Umsteigen in Plänterwald)
+* Taktänderung:
+  * Altglienicke \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
+  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
+  * Adlershof \<\> Schöneweide S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S46 und S9
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 10-Minutentakt mit S45 und S46
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27023)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
 
 [S42](https://sbahn.berlin/fahren/s42/)
 
