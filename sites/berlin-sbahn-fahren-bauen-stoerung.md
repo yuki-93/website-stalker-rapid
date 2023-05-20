@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Linie S45: kurzfristiger Personalausfall ###
 
- Letztes Update: 08:20 / 20.05.2023
+ Letztes Update: 09:50 / 20.05.2023
 
 Information
 
@@ -20,7 +20,7 @@ Zwischen Flughafen BER Terminal 5 und Flughafen BER T1-2 verkehrt die Linie S9 i
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
+ fährt nicht
 
 ### Baumaßnahmen ###
 
