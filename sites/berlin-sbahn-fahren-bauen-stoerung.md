@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
-### kurzfristiger Personalausfall Linie S45 ###
+### Linie S45: kurzfristiger Personalausfall ###
 
- Letztes Update: 04:45 / 20.05.2023
+ Letztes Update: 05:41 / 20.05.2023
 
 Information
 
-Wegen kurzfristigem Personalausfall verkehrt die Linie S45 nicht zwischen Baumschulenweg und Südkreuz sowie Flughafen BER T5 und Flughafen BER T1-2.
+Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S45 nicht zwischen Baumschulenweg und Südkreuz sowie Flughafen BER Terminal 5 und Flughafen BER Terminal 1-2.
 
-Zwischen Baumschulenweg und Südkreuz verkehrt nur die Linie S46.
+Zwischen Baumschulenweg und Südkreuz verkehrt die Linie S4 im 20-Minuten-Takt.
 
-Zwischen Altglienicke und Flughafen BER T1-2 verkehrt nur die Linie S9.
+Zwischen Flughafen BER Terminal 5 und Flughafen BER T1-2 verkehrt die Linie S9 im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
