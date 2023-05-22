@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Linie S45: kurzfristiger Personalausfall ###
 
- Letztes Update: 01:45 / 22.05.2023
+ Letztes Update: 18:09 / 22.05.2023
 
 Information
 
