@@ -4,7 +4,7 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_2a374e
 
 [](https://www.anker.com/eu-de/ankerpower?ref=naviBar)[| Power für alles.](https://www.anker.com/eu-de/ankerpower?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/ankerpower?ref=naviBar)
 
-Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/ankerpower?ref=naviMenu)NeuerscheinungenAngebote
+Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/ankerpower?ref=naviMenu)NeuerscheinungenAngebote[Ladesets](https://www.anker.com/eu-dehttps://www.anker.com/eu-de/baue-dir-dein-eigenes-anker-ladesystem?ref=naviMenu)
 
 Schwestermarken & Hilfe
 
@@ -14,11 +14,11 @@ Search
 
 [](https://passport.anker.com/?app=ankerde)
 
-Geschenke zum Vatertag
+Baue dir dein eigenes Anker Ladesystem
 
-Bis zu 45% Rabatt
+Stelle dein Set zusammen und spare bis zu 20%!
 
-[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/angebote-muttertag?ref=masterBanner1)
+[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/baue-dir-dein-eigenes-anker-ladesystem?ref=masterBanner1)
 
 Bis zu 50% Rabatt
 
@@ -31,24 +31,17 @@ Die Aktion läuft vom 15. Mai bis 4. Juni 2023
 Das Anker-Erlebnis entdecken
 ----------
 
-* ### Baue dir dein eigenes
-  Anker Ladesystem ###
-
-  Stelle dein Set zusammen und spare bis zu 20%!
-
-  [Mehr erfahrenBaue dir dein eigenes Anker Ladesystem](https://www.anker.com/eu-de/baue-dir-dein-eigenes-anker-ladesystem?ref=productBanner2_1)
-
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner2_2)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner2_1)
 
 * ### Anker Ace Ladegerät ###
 
   Das Lade-Ass für dein Galaxy
 
-  [Mehr erfahren Anker Ace Ladegerät](https://www.anker.com/eu-de/ace-charger?ref=productBanner2_3)
+  [Mehr erfahren Anker Ace Ladegerät](https://www.anker.com/eu-de/ace-charger?ref=productBanner2_2)
 
 * ### Bis zu 50% Rabatt ###
 
@@ -56,13 +49,13 @@ Das Anker-Erlebnis entdecken
 
   Die Aktion läuft vom 15. Mai bis 4. Juni 2023
 
-  [Mehr erfahrenBis zu 50% Rabatt,Mit der Kraft der Sonne.](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk_erster_eindruck?ref=productBanner2_4)
+  [Mehr erfahrenBis zu 50% Rabatt,Mit der Kraft der Sonne.](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk_erster_eindruck?ref=productBanner2_3)
 
 * ### Anker Nano 3 ###
 
   Das Tech für jedes iPhone
 
-  [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner2_5)
+  [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner2_4)
 
 * ###  Anker 757 PowerHouse ###
 
@@ -70,26 +63,26 @@ Das Anker-Erlebnis entdecken
 
   Langlebige Stromquelle für zuhause & unterwegs
 
-  [Jetzt kaufen Anker 757 PowerHouse,1299Wh | 1500W](https://www.anker.com/eu-de/products/a1770?ref=productBanner2_6)
+  [Jetzt kaufen Anker 757 PowerHouse,1299Wh | 1500W](https://www.anker.com/eu-de/products/a1770?ref=productBanner2_5)
 
 * ### Wir stellen vor: Unser 2.500.000$
    Kickstarter-Projekt ###
 
   Anker EverFrost Akku-Kühlbox
 
-  [Mehr erfahrenWir stellen vor: Unser 2.500.000$ Kickstarter-Projekt](https://anker.com/eu-de/everfrost-akku-kuehlbox?ref=productBanner2_7)
+  [Mehr erfahrenWir stellen vor: Unser 2.500.000$ Kickstarter-Projekt](https://anker.com/eu-de/everfrost-akku-kuehlbox?ref=productBanner2_6)
 
 * ### Anker Solar Generator ###
 
   Power für endlose Abenteuer
 
-  [Jetzt kaufenAnker Solar Generator](https://anker.com/eu-de/ankerpower/solargenerator?ref=productBanner2_8)
+  [Jetzt kaufenAnker Solar Generator](https://anker.com/eu-de/ankerpower/solargenerator?ref=productBanner2_7)
 
 * ### Ankers Ladeverantwortung  ###
 
   Sei dabei und erschaffe mit Anker einen nachhaltigeren, grüneren Planeten.
 
-  [Mehr erfahren Ankers Ladeverantwortung](https://www.anker.com/eu-de/anker-fuer-nachhaltigkeit-zukunft?ref=productBanner2_9)
+  [Mehr erfahren Ankers Ladeverantwortung](https://www.anker.com/eu-de/anker-fuer-nachhaltigkeit-zukunft?ref=productBanner2_8)
 
 Unentschlossen?
 
