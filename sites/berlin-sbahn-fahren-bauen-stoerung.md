@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur am Bahnübergang in Hoppegarten ###
+
+ Letztes Update: 09:52 / 22.05.2023
+
+Information
+
+Wegen der Reparatur am Bahnübergang in Hoppegarten kommt es auf der Linie S5 zu Verspätungen und einzelnen Ausfällen.
+
+ Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###
