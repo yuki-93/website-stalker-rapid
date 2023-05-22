@@ -4,36 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz in Brandenburger Tor ###
-
- Letztes Update: 19:03 / 22.05.2023
-
-Information
-
-Wegen eines Polizeieinsatzes entfällt der planmäßige Verkehrshalt für die Linien S1, S2, S25 und S26 in Brandenburger Tor **in beiden Fahrtrichtungen**.
-
-Beachten Sie bitte: die U-Bahnlinie U5 ist ebenfalls vom Polizeieinsatz betroffen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gegenstände auf der Strecke in Lichtenberg ###
-
- Letztes Update: 18:56 / 22.05.2023
-
-Information
-
-Wegen Gegenständen auf der Strecke in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###
