@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Tiere auf der Strecke Friedrichstraße \<\> Tiergarten ###
+
+ Letztes Update: 20:58 / 22.05.2023
+
+Information
+
+Wegen Tiere auf der Strecke ist der Zugverkehr der Linien S3, S5 und S7 zwischen Friedrichstraße \<\> Tiergarten unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###
