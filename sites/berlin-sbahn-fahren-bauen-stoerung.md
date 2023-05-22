@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### Tiere auf der Strecke Friedrichstraße \<\> Tiergarten ###
+### Streckensperrung Friedrichstraße \<\> Tiergarten aufgehoben ###
 
- Letztes Update: 20:58 / 22.05.2023
+ Letztes Update: 21:15 / 22.05.2023
 
 Information
 
-Wegen Tiere auf der Strecke ist der Zugverkehr der Linien S3, S5 und S7 zwischen Friedrichstraße \<\> Tiergarten unterbrochen.
+Die Streckensperrung (Tiere auf der Strecke) zwischen Friedrichstraße \<\> Tiergarten ist aufgehoben. Es kommt auf den Linien S3, S5 und S7 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
