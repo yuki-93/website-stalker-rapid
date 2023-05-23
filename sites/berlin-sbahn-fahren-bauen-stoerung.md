@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Gegenstände auf der Strecke Tegel\<\>Heiligensee ###
+
+ Letztes Update: 00:17 / 24.05.2023
+
+Information
+
+Wegen Gegenstände auf der Strecke ist der Zugverkehr der Linie S25 zwischen Tegel \<\> Heiligensee unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###
@@ -19,91 +33,6 @@ Zwischen Schöneweide und Flughafen BER Terminal 1-2 verkehrt die Linie S9 im 20
 Wir bitten um Entschuldigung.
 
  fährt nicht
-
-### Baumaßnahmen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Hoppegarten \<\> Mahlsdorf ###
-
-Nächte 22./23.05. (Mo/Di) und 23./24.05. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27089&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20201&tx_sbbconstructions_list%5Bperiod%5D=16884&type=5679&cHash=f5b6388b1798c36766ab02771474858c)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nach-weichenerneuerung-in-mahlsdorf/#con-27089)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Flughafen BER – Terminal 1-2 \<\> Baumschulenweg \<\> Warschauer Straße ###
-
-22.05. (Mo), ca. 4 Uhr durchgehend bis 26.05. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16851&type=5679&cHash=364e7432701aa2e6d0c54159482fa465)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr:
-  * Schöneweide \<\> Baumschulenweg
-  * Treptower Park \<\> Warschauer Straße (S9-Kurve),
-     Bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen, im Abschnitt Ostkreuz \<\> Spandau fährt die S3 im 10-Minutentakt
-
-* **alternative Reisemöglichkeiten:**
-  * mit dem FEX Flughafen BER – Terminal 1-2 \<\> Schöneweide (Zusatzhalt) \<\> Ostkreuz \<\> Gesundbrunnen \<\> Berlin Hbf (tief),
-  * mit der RB32 Flughafen BER – Terminal 5 \<\> Schöneweide \<\> Ostkreuz \<\> Lichtenberg
-
-* Ersatzverkehr mit Bussen:
-  * Bus S46: Baumschulenweg \> Schöneweide \> Baumschulenweg
-  * Bus S9A: Baumschulenweg \> Schöneweide \> Baumschulenweg
-  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Baumschulenweg
-
-* S-Bahn-Pendelverkehr: Baumschulenweg \<\> Treptower Park (im 10-Minutentakt mit Umsteigen in Plänterwald)
-* Taktänderung:
-  * Altglienicke \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
-  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
-  * Adlershof \<\> Schöneweide S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S46 und S9
-  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 10-Minutentakt mit S45 und S46
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27023)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
-
-### Fahrplanänderungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Westkreuz \> Alexanderplatz ###
-
-22.05. (Mo) bis 24.05. (Do) jeweils 3:12 Uhr bis 3:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27115&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20226&tx_sbbconstructions_list%5Bperiod%5D=16892&type=5679&cHash=90db985f4ffe589b71e36c3d2074fc88)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Karlshorst (an 3:49 Uhr) beginnt erst um 3:32 Uhr in Alexanderplatz.
-* Der Zug fällt von Westkreuz bis Alexanderplatz aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
 
@@ -331,6 +260,136 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-bornholmer-strasse/#con-27095)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Flughafen BER – Terminal 1-2 \<\> Baumschulenweg \<\> Warschauer Straße ###
+
+22.05. (Mo), ca. 4 Uhr durchgehend bis 26.05. (Fr), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16851&type=5679&cHash=364e7432701aa2e6d0c54159482fa465)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr:
+  * Schöneweide \<\> Baumschulenweg
+  * Treptower Park \<\> Warschauer Straße (S9-Kurve),
+     Bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen, im Abschnitt Ostkreuz \<\> Spandau fährt die S3 im 10-Minutentakt
+
+* **alternative Reisemöglichkeiten:**
+  * mit dem FEX Flughafen BER – Terminal 1-2 \<\> Schöneweide (Zusatzhalt) \<\> Ostkreuz \<\> Gesundbrunnen \<\> Berlin Hbf (tief),
+  * mit der RB32 Flughafen BER – Terminal 5 \<\> Schöneweide \<\> Ostkreuz \<\> Lichtenberg
+
+* Ersatzverkehr mit Bussen:
+  * Bus S46: Baumschulenweg \> Schöneweide \> Baumschulenweg
+  * Bus S9A: Baumschulenweg \> Schöneweide \> Baumschulenweg
+  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Baumschulenweg
+
+* S-Bahn-Pendelverkehr: Baumschulenweg \<\> Treptower Park (im 10-Minutentakt mit Umsteigen in Plänterwald)
+* Taktänderung:
+  * Altglienicke \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
+  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
+  * Adlershof \<\> Schöneweide S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S46 und S9
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 10-Minutentakt mit S45 und S46
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27023)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
+
+### Fahrplanänderungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Ostbahnhof \> Friedrichstraße ###
+
+25.05. (Do) 1:47 Uhr bis 1:56 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27120&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20231&tx_sbbconstructions_list%5Bperiod%5D=16896&type=5679&cHash=66943898016a7ad3ac22aab0ff4b7e05)
+
+ fährt nicht
+
+Information
+
+* Der Zug Karlshorst ab 1:36 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:47 Uhr in Ostbahnhof.
+* Der Zug fällt zwischen Ostbahnhof und Friedrichstraße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Ostbahnhof ###
+
+25.05. (Do) 3:12 Uhr bis 3:16 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20232&tx_sbbconstructions_list%5Bperiod%5D=16897&type=5679&cHash=59832a73636c4870fef982a7d6bd18c5)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:12 Uhr nach Karlshorst (an 3:29 Uhr) beginnt erst um 3:16 Uhr in Ostbahnhof.
+* Der Zug fällt von Alexanderplatz bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Westkreuz \> Ostbahnhof ###
+
+25.05. (Do) 3:12 Uhr bis 3:37 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27122&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20233&tx_sbbconstructions_list%5Bperiod%5D=16898&type=5679&cHash=4b234e96bfcbff150bda868452318c5f)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Karlshorst (an 3:49 Uhr) beginnt erst um 3:37 Uhr in Ostbahnhof.
+* Der Zug fällt von Westkreuz bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Gesundbrunnen/Schönhauser Allee \<\> Frohnau/Blankenburg ###
+
+Nacht 25./26.05. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27095&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20206&tx_sbbconstructions_list%5Bperiod%5D=16890&type=5679&cHash=c879917ff2478ea6d7c6e3a8cc70ef26)
+
+ Takt geändert
+
+Information
+
+* kein S-Bahnverkehr: Schönhauser Allee \<\> Bornholmer Straße
+  * Bitte Umfahrung über Gesundbrunnen (mit Umstieg und Bahnsteigwechsel) oder zwischen Schönhauser Allee \<\> Pankow die U2 nutzen
+
+* Zugverkehr verändert:
+  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Bornholmer Straße um, in Fahrtrichtung Oranienburg erfolgt die Weiterfahrt nach 15 Minuten vom anderen Bahnsteig und in Fahrtrichtung Wannsee erfolgt die Weiterfahrt nach 1 Minute vom selben Bahnsteig gegenüber (der Bahnhof ist barrierefrei ausgestattet).
+
+* Zugverkehr verändert: Fahrgäste der S25 nutzen bitte zwischen Bornholmer Straße \<\> Wollankstraße die S1 (in Fahrtrichtung Hennigsdorf mit Bahnsteigwechsel in Bornholmer Straße)
+* Taktänderung: Bornholmer Straße \<\> Wollankstraße S-Bahnverkehr nur im 20-Minutentakt mit S1
+* Taktänderung: Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-bornholmer-strasse/#con-27095)
+
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 Nur Wochenende
@@ -442,6 +501,37 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/belastungsstopfgang-nach-weichenerneuerung-1/#con-27169)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Flughafen BER – Terminal 1-2/Grünau/Spindlersfeld \<\> Baumschulenweg/Treptower Park ###
+
+Nacht 08./09.06. (Do/Fr), ca. 22.20 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27212&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20327&tx_sbbconstructions_list%5Bperiod%5D=16945&type=5679&cHash=8437f8ad76de8a010a9bfcdee7b8acd1)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr: Schöneweide \<\> Baumschulenweg \<\> Treptower Park
+* alternative Reisemöglichkeiten:
+  * mit der RB24 und RB32 Flughafen BER – Terminal 5 \<\> Schöneweide \<\> Ostkreuz \<\> Lichtenberg
+
+* Ersatzverkehr mit Bussen:
+  * Bus S9 Schöneweide \<\> Treptower Park
+
+* Taktänderung:
+  * Altglienicke \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
+  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
+  * Adlershof \<\> Schöneweide S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S46 und S9
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 10-Minutentakt mit S45 und S46
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-baumschulenweg-und-in-treptower-park/#con-27212)
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Flughafen BER – Terminal 1-2 \<\> Baumschulenweg \<\> Warschauer Straße ###
@@ -520,60 +610,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-34/#con-27207)
 
 ### Fahrplanänderungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Ostbahnhof \> Friedrichstraße ###
-
-25.05. (Do) 1:47 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27120&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20231&tx_sbbconstructions_list%5Bperiod%5D=16896&type=5679&cHash=66943898016a7ad3ac22aab0ff4b7e05)
-
- fährt nicht
-
-Information
-
-* Der Zug Karlshorst ab 1:36 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:47 Uhr in Ostbahnhof.
-* Der Zug fällt zwischen Ostbahnhof und Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Alexanderplatz \> Ostbahnhof ###
-
-25.05. (Do) 3:12 Uhr bis 3:16 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27121&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20232&tx_sbbconstructions_list%5Bperiod%5D=16897&type=5679&cHash=59832a73636c4870fef982a7d6bd18c5)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:12 Uhr nach Karlshorst (an 3:29 Uhr) beginnt erst um 3:16 Uhr in Ostbahnhof.
-* Der Zug fällt von Alexanderplatz bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Westkreuz \> Ostbahnhof ###
-
-25.05. (Do) 3:12 Uhr bis 3:37 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27122&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20233&tx_sbbconstructions_list%5Bperiod%5D=16898&type=5679&cHash=4b234e96bfcbff150bda868452318c5f)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Karlshorst (an 3:49 Uhr) beginnt erst um 3:37 Uhr in Ostbahnhof.
-* Der Zug fällt von Westkreuz bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
@@ -694,6 +730,24 @@ Information
 * Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:38 Uhr in Zoologischer Garten
 * Der Zug fällt von Westkreuz bis Zoologischer Garten aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Friedrichstraße ###
+
+08.06. (Do) 3:32 Uhr bis 3:48 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17822&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=14045&tx_sbbconstructions_list%5Bperiod%5D=16909&type=5679&cHash=1f7f5867ed90f2ea0317a1655e956328)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:48 Uhr in Friedrichstraße.
+* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
@@ -865,37 +919,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/belastungsstopfgang-nach-weichenerneuerung-1/#con-27169)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Flughafen BER – Terminal 1-2/Grünau/Spindlersfeld \<\> Baumschulenweg/Treptower Park ###
-
-Nacht 08./09.06. (Do/Fr), ca. 22.20 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27212&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20327&tx_sbbconstructions_list%5Bperiod%5D=16945&type=5679&cHash=8437f8ad76de8a010a9bfcdee7b8acd1)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr: Schöneweide \<\> Baumschulenweg \<\> Treptower Park
-* alternative Reisemöglichkeiten:
-  * mit der RB24 und RB32 Flughafen BER – Terminal 5 \<\> Schöneweide \<\> Ostkreuz \<\> Lichtenberg
-
-* Ersatzverkehr mit Bussen:
-  * Bus S9 Schöneweide \<\> Treptower Park
-
-* Taktänderung:
-  * Altglienicke \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
-  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
-  * Adlershof \<\> Schöneweide S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S46 und S9
-  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 10-Minutentakt mit S45 und S46
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-baumschulenweg-und-in-treptower-park/#con-27212)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
@@ -1399,72 +1422,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)
 
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Alexanderplatz ###
-
-07.06. (Mi) 3:02 Uhr bis 3:20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27151&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20261&tx_sbbconstructions_list%5Bperiod%5D=16921&type=5679&cHash=f6e3ab983a46a34f1240545210f8d51f)
-
-08.06. (Do) 3:02 Uhr bis 3:20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27151&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20261&tx_sbbconstructions_list%5Bperiod%5D=16907&type=5679&cHash=98c8baa9abeadafb3e17d573e6e94786)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27151&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20261&type=5679&cHash=301514df10c9760dd135dac3e574fb5e)
-
- fährt nicht
-
-Information
-
-* Der Zug Charlottenburg an 3:02 Uhr nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) beginnt erst um 3:20 Uhr in Alexanderplatz.
-* Der Zug fällt von Charlottenburg bis Alexanderplatz aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Friedrichstraße ###
-
-07.06. (Mi) 3:12 Uhr bis 3:28 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&tx_sbbconstructions_list%5Bperiod%5D=16922&type=5679&cHash=c40c4814a229bb30f5f554f9b5e88cf1)
-
-08.06. (Do) 3:12 Uhr bis 3:28 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&tx_sbbconstructions_list%5Bperiod%5D=16908&type=5679&cHash=5407237911505870564498bb81d57c0b)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&type=5679&cHash=1f6010ee0c1d07c62bee48495e23adf1)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:28 Uhr in Friedrichstraße.
-* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Friedrichstraße ###
-
-08.06. (Do) 3:32 Uhr bis 3:48 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17822&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=14045&tx_sbbconstructions_list%5Bperiod%5D=16909&type=5679&cHash=1f7f5867ed90f2ea0317a1655e956328)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:48 Uhr in Friedrichstraße.
-* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
