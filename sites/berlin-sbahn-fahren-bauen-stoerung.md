@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur am Zug in Königs Wusterhausen ###
-
- Letztes Update: 08:13 / 23.05.2023
-
-Information
-
-Wegen der Reparatur am Zug in Königs Wusterhausen ist der Zugverkehr der Linie S46 zwischen Zeuhten und Königs Wusterhausen unterbrochen.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###
@@ -1127,6 +1113,31 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-in-schoenholz-weichenerneuerung-in-alt-reinickendorf-und-vegetationsarbeiten/#con-27211)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Wuhletal/Wartenberg \<\> Warschauer Straße ###
+
+24.06. (Sa), ca. 13.45 Uhr durchgehend bis 26.06. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27246&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20355&tx_sbbconstructions_list%5Bperiod%5D=16971&type=5679&cHash=7a8a6783485049aa5281cd20d24c106e)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen: Wuhletal \<\> Friedrichsfelde Ost
+* alternative Umfahrungsmöglichkeit:
+  * Bitte zwischen Wuhletal, Lichtenberg, Frankfurter Allee, Alexanderplatz und Berlin Hbf auch die U5 nutzen
+
+* Zugverkehr verändert: Zwischen Wartenberg \<\> Lichtenberg fährt die S5 anstatt der S75.
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-suedlichen-blumberger-damm-bruecke-1-1/#con-27246)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
