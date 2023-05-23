@@ -4,34 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### witterungsbedingte Einschränkungen im Bereich Petershagen Nord behoben ###
-
- Letztes Update: 21:01 / 23.05.2023
-
-Information
-
-Nach witterungsbedingten Einschränkungen (Zugkollision mit Baum) kommt es auf der Linie S5 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in einem Zug in Landsberger Allee beendet ###
-
- Letztes Update: 18:10 / 23.05.2023
-
-Information
-
-Nach einem Polizeieinsatz in einem Zug in Landsberger Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###
