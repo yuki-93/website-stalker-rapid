@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur am Zug in Königs Wusterhausen ###
+
+ Letztes Update: 08:13 / 23.05.2023
+
+Information
+
+Wegen der Reparatur am Zug in Königs Wusterhausen ist der Zugverkehr der Linie S46 zwischen Zeuhten und Königs Wusterhausen unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###

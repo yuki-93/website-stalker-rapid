@@ -118,6 +118,12 @@
 
 78,42 €mit MwSt.
 
+[Shelly Plus Plug S Black](https://www.shelly.cloud/de/products/shop/shelly-plus-plug-s-bl)
+
+19,90 €
+
+23,68 €mit MwSt.
+
 [Shelly Plug](https://www.shelly.cloud/de/products/shop/1xplug)
 
 31,90 €
