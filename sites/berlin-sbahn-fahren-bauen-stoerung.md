@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Linie S45: kurzfristiger Personalausfall ###
 
- Letztes Update: 18:09 / 22.05.2023
+ Letztes Update: 02:05 / 23.05.2023
 
 Information
 
@@ -82,24 +82,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27023)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
 
 ### Fahrplanänderungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Alexanderplatz \> Friedrichstraße ###
-
-22.05. (Mo) bis 24.05. (Do) jeweils 1:52 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27114&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20225&tx_sbbconstructions_list%5Bperiod%5D=16891&type=5679&cHash=751eb7d5ccd0fb3fb78452731548971d)
-
- fährt nicht
-
-Information
-
-* Der Zug Karlshorst ab 1:36 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:52 Uhr in Alexanderplatz.
-* Der Zug fällt zwischen Alexanderplatz und Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
