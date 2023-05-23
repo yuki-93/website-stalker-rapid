@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### witterungsbedingte Einschränkungen im Bereich Petershagen Nord ###
+
+ Letztes Update: 19:47 / 23.05.2023
+
+Information
+
+Wegen witterungsbedingter Einschränkungen (Zugkollision mit Baum) ist der Zugverkehr der Linie S5 zwischen Strausberg und Fredersdorf unterbrochen.
+
+Zwischen Strausberg Nord und Strausberg besteht ein 40-Minuten Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Polizeieinsatz in einem Zug in Landsberger Allee beendet ###
