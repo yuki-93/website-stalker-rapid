@@ -883,7 +883,7 @@ Information
   * mit der RB24 und RB32 Flughafen BER – Terminal 5 \<\> Schöneweide \<\> Ostkreuz \<\> Lichtenberg
 
 * Ersatzverkehr mit Bussen:
-  * Bus S9A Schöneweide \<\> Treptower Park
+  * Bus S9 Schöneweide \<\> Treptower Park
 
 * Taktänderung:
   * Altglienicke \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
