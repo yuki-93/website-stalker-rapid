@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Gegenstände auf der Strecke Tegel\<\>Heiligensee ###
-
- Letztes Update: 00:17 / 24.05.2023
-
-Information
-
-Wegen Gegenstände auf der Strecke ist der Zugverkehr der Linie S25 zwischen Tegel \<\> Heiligensee unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Linie S45: kurzfristiger Personalausfall ###
-
- Letztes Update: 02:05 / 23.05.2023
-
-Information
-
-Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S45 nicht zwischen Altglienicke und Flughafen BER Terminal 1-2.
-
-Zwischen Schöneweide und Flughafen BER Terminal 1-2 verkehrt die Linie S9 im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht
-
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)
