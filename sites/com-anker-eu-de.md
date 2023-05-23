@@ -20,11 +20,11 @@ Stelle dein Set zusammen und spare bis zu 20%!
 
 [Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/baue-dir-dein-eigenes-anker-ladesystem?ref=masterBanner1)
 
-Bis zu 50% Rabatt
+Versandkostenfrei bis zur Bordsteinkante
+
+Bis zu 150€ Rabatt
 
 Mit der Kraft der Sonne.
-
-Die Aktion läuft vom 15. Mai bis 4. Juni 2023
 
 [Los geht's!masterBanner2](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=masterBanner2)
 
@@ -43,13 +43,12 @@ Das Anker-Erlebnis entdecken
 
   [Mehr erfahren Anker Ace Ladegerät](https://www.anker.com/eu-de/ace-charger?ref=productBanner2_2)
 
-* ### Bis zu 50% Rabatt ###
+* ### SOLIX RS40P | RS40 Balkonkraftwerk ###
 
-  ### Mit der Kraft der Sonne. ###
+  Bis zu 150€ Rabatt
+  Mit der Kraft der Sonne.
 
-  Die Aktion läuft vom 15. Mai bis 4. Juni 2023
-
-  [Mehr erfahrenBis zu 50% Rabatt,Mit der Kraft der Sonne.](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk_erster_eindruck?ref=productBanner2_3)
+  [Mehr erfahrenSOLIX RS40P | RS40 Balkonkraftwerk](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk_erster_eindruck?ref=productBanner2_3)
 
 * ### Anker Nano 3 ###
 
