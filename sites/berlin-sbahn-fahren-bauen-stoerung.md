@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an einem Signal in Friedrichshagen ###
+### ärztliche Versorgung eines Fahrgastes im Zug in Hohenzollerndamm beendet ###
 
- Letztes Update: 13:11 / 23.05.2023
+ Letztes Update: 13:20 / 23.05.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Friedrichshagen kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+Nach der ärtzlichen Versorgung eines Fahrgastes in Hohenzollerndamm kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert  Verbindung verspätet
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
