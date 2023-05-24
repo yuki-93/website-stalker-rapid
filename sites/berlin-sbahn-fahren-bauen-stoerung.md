@@ -18,36 +18,6 @@ Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technischer Defekt am Bahnübergang Hoppegarten ###
-
- Letztes Update: 23:00 / 24.05.2023
-
-Information
-
-Wegen einem technischen Defekt am Bahnübergang Hoppegarten kommt es auf der Linie S5 zu Verspätungen uns Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Linie S45: kurzfristiger Personalausfall ###
-
- Letztes Update: 01:13 / 24.05.2023
-
-Information
-
-Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S45 nicht zwischen Altglienicke und Flughafen BER Terminal 1-2.
-
-Zwischen Schöneweide und Flughafen BER Terminal 1-2 verkehrt die Linie S9 im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
