@@ -20,20 +20,6 @@ Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Zug in Schöneweide beendet ###
-
- Letztes Update: 15:54 / 24.05.2023
-
-Information
-
-Nach der Reparatur an einem Zug in Schöneweide kommt es auf den Linien S46, S47 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###
