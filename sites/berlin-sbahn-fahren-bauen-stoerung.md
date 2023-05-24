@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### ärztliche Versorgung eines Fahrgastes im Zug in Prenzlauer Allee beendet ###
+
+ Letztes Update: 19:55 / 24.05.2023
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Prenzlauer Allee kommt es auf den Linien S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###
