@@ -4,19 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Polizeieinsatz in Tiergarten beendet ###
+### ärztliche Versorgung eines Fahrgastes in Sundgauer Straße beendet ###
 
- Letztes Update: 15:03 / 24.05.2023
+ Letztes Update: 16:03 / 24.05.2023
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Tiergarten kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und einzelnen Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Sundgauer Straße kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
+
+* Die zusätzlichen Züge zwischen Zehlendorf und Potsdamer Platz fahren nicht.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung verspätet
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur am Zug in Schöneweide beendet ###
+
+ Letztes Update: 15:54 / 24.05.2023
+
+Information
+
+Nach der Reparatur an einem Zug in Schöneweide kommt es auf den Linien S46, S47 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
