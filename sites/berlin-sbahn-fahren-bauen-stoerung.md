@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### kurzfristiger Personalausfall, S3 ###
-
- Letztes Update: 18:20 / 24.05.2023
-
-Information
-
-Wegen eines kurzfristigen Personalausfalls verkehren die zusätzlichen Züge der Linie S3 **nicht** zwischen Ostbahnhof und Karlshorst.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###
