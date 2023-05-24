@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### ärztliche Versorgung eines Fahrgastes in Sundgauer Straße beendet ###
+### kurzfristiger Personalausfall, S3 ###
 
- Letztes Update: 16:03 / 24.05.2023
+ Letztes Update: 18:20 / 24.05.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Sundgauer Straße kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines kurzfristigen Personalausfalls verkehren die zusätzlichen Züge der Linie S3 **nicht** zwischen Ostbahnhof und Karlshorst.
 
-* Die zusätzlichen Züge zwischen Zehlendorf und Potsdamer Platz fahren nicht.
+Wir bitten um Entschuldigung.
 
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
+ Takt geändert  sonstige Einschränkungen
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
