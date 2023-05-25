@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
-### Polizeieinsatz Hermannstraße beendet ###
+### Linie S45: kurzfristiger Personalausfall ###
 
- Letztes Update: 00:11 / 25.05.2023
+ Letztes Update: 00:47 / 25.05.2023
 
 Information
 
-Nach einem Polizeieinsatz (unbefugte Person auf der Strecke in Hermannstraße) kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Ausfälle.
+Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S45 nicht zwischen Altglienicke und Flughafen BER Terminal 1-2.
 
-Wir bitten um Verständnis.
+Zwischen Schöneweide und Flughafen BER Terminal 1-2 verkehrt die Linie S9 im 20-Minuten-Takt.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+Wir bitten um Entschuldigung.
+
+ fährt nicht
 
 ### Baumaßnahmen ###
 
