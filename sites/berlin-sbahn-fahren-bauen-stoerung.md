@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung eines Fahrgastes in Bornholmer Straße beendet ###
 
- Letztes Update: 14:25 / 25.05.2023
+ Letztes Update: 14:43 / 25.05.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Bornholmer Straße kommt es auf den Linien S2, S8 und S85 noch zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Bornholmer Straße kommt es auf den Linien S2, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
