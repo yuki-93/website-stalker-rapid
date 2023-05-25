@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### ärztliche Versorgung eines Fahrgastes im Zug Alexanderplatz ###
+
+ Letztes Update: 09:09 / 25.05.2023
+
+Information
+
+Wegen der ärztliche Versorgung eines Fahrgastes im Zug in Alexanderplatz kommt es auf den Linien S3, S5 und S7 zu Verspätungen und Ausfällen.
+
+ Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###
