@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### ärztliche Versorgung eines Fahrgastes in Bornholmer Straße beendet ###
-
- Letztes Update: 14:43 / 25.05.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Bornholmer Straße kommt es auf den Linien S2, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###
