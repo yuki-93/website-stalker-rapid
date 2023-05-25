@@ -14,19 +14,19 @@ Search
 
 [](https://passport.anker.com/?app=ankerde)
 
+Power und
+ Geschenke für deine
+ Sommerträume
+
+Spare jetzt bis zu 750€
+
+[Geschenk sichernmasterBanner1](https://www.anker.com/eu-de/powerhouse-angebote?ref=masterBanner1)
+
 Baue dir dein eigenes Anker Ladesystem
 
 Stelle dein Set zusammen und spare bis zu 20%!
 
-[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/baue-dir-dein-eigenes-anker-ladesystem?ref=masterBanner1)
-
-Versandkostenfrei bis zur Bordsteinkante
-
-Bis zu 150€ Rabatt
-
-Mit der Kraft der Sonne.
-
-[Los geht's!masterBanner2](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=masterBanner2)
+[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/baue-dir-dein-eigenes-anker-ladesystem?ref=masterBanner2)
 
 Das Anker-Erlebnis entdecken
 ----------
