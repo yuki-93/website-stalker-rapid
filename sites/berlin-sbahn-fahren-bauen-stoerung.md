@@ -51,80 +51,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-bornholmer-strasse/#con-27095)
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Flughafen BER – Terminal 1-2 \<\> Baumschulenweg \<\> Warschauer Straße ###
-
-22.05. (Mo), ca. 4 Uhr durchgehend bis 26.05. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27023&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16851&type=5679&cHash=364e7432701aa2e6d0c54159482fa465)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr:
-  * Schöneweide \<\> Baumschulenweg
-  * Treptower Park \<\> Warschauer Straße (S9-Kurve),
-     Bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen, im Abschnitt Ostkreuz \<\> Spandau fährt die S3 im 10-Minutentakt
-
-* **alternative Reisemöglichkeiten:**
-  * mit dem FEX Flughafen BER – Terminal 1-2 \<\> Schöneweide (Zusatzhalt) \<\> Ostkreuz \<\> Gesundbrunnen \<\> Berlin Hbf (tief),
-  * mit der RB32 Flughafen BER – Terminal 5 \<\> Schöneweide \<\> Ostkreuz \<\> Lichtenberg
-
-* Ersatzverkehr mit Bussen:
-  * Bus S46: Baumschulenweg \> Schöneweide \> Baumschulenweg
-  * Bus S9A: Baumschulenweg \> Schöneweide \> Baumschulenweg
-  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Baumschulenweg
-
-* S-Bahn-Pendelverkehr: Baumschulenweg \<\> Treptower Park (im 10-Minutentakt mit Umsteigen in Plänterwald)
-* Taktänderung:
-  * Altglienicke \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
-  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
-  * Adlershof \<\> Schöneweide S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S46 und S9
-  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 10-Minutentakt mit S45 und S46
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27023)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Gesundbrunnen/Schönhauser Allee \<\> Frohnau/Blankenburg ###
-
-Nacht 25./26.05. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27095&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20206&tx_sbbconstructions_list%5Bperiod%5D=16890&type=5679&cHash=c879917ff2478ea6d7c6e3a8cc70ef26)
-
- Takt geändert
-
-Information
-
-* kein S-Bahnverkehr: Schönhauser Allee \<\> Bornholmer Straße
-  * Bitte Umfahrung über Gesundbrunnen (mit Umstieg und Bahnsteigwechsel) oder zwischen Schönhauser Allee \<\> Pankow die U2 nutzen
-
-* Zugverkehr verändert:
-  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Bornholmer Straße um, in Fahrtrichtung Oranienburg erfolgt die Weiterfahrt nach 15 Minuten vom anderen Bahnsteig und in Fahrtrichtung Wannsee erfolgt die Weiterfahrt nach 1 Minute vom selben Bahnsteig gegenüber (der Bahnhof ist barrierefrei ausgestattet).
-
-* Zugverkehr verändert: Fahrgäste der S25 nutzen bitte zwischen Bornholmer Straße \<\> Wollankstraße die S1 (in Fahrtrichtung Hennigsdorf mit Bahnsteigwechsel in Bornholmer Straße)
-* Taktänderung: Bornholmer Straße \<\> Wollankstraße S-Bahnverkehr nur im 20-Minutentakt mit S1
-* Taktänderung: Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-bornholmer-strasse/#con-27095)
-
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 Nur Wochenende
@@ -187,6 +113,198 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27023)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### gesamter Ring ###
+
+27.05. (Sa), 28.05. (So) und 29.05. (Mo), jeweils 12 Uhr - 20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20200&tx_sbbconstructions_list%5Bperiod%5D=16883&type=5679&cHash=846cf7260006b5821efaf439c9f6f823)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung: Die den 5-/5-/10-Minutentakt bildenden Züge fahren auf dem gesamten Ring um 10 Minuten versetzt.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\> Buch/Mühlenbeck-Mönchmühle ###
+
+26.05. (Fr), ca. 22 Uhr durchgehend bis 30.05. (Di), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27087&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20200&tx_sbbconstructions_list%5Bperiod%5D=16882&type=5679&cHash=fdfa0fdf2b4c3c0a5c15e8745792c8c0)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S2: Bornholmer Straße \<\> Buch
+  * Bus S8: Bornholmer Straße \<\> Mühlenbeck-Mönchmühle
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8/#con-27087)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### (Ostbahnhof) Charlottenburg \<\> Wannsee (Potsdam Hbf) / Olympiastadion ###
+
+27.05. (Sa), ca. 1 Uhr durchgehend bis 30.05. (Di), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27124&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20235&tx_sbbconstructions_list%5Bperiod%5D=16899&type=5679&cHash=8cb2a84a3f78ac4bd5d7f476715bde92)
+
+ Ersatzverkehr
+
+Information
+
+* Zugverkehr verändert: im Abschnitt Wannsee \<\> Potsdam Hbf fährt die S1 anstatt der S7
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Charlottenburg \<\> Wannsee
+  * Bus S9: Charlottenburg \<\> Olympiastadion
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-autobahndreieck-funkturm/#con-27124)
+
+### Fahrplanänderungen ###
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+Nur Wochenende
+
+### Hermannstraße \> Schöneweide ###
+
+27.05 (Sa) 11:44 Uhr bis 12:02 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20154&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15263&tx_sbbconstructions_list%5Bperiod%5D=16944&type=5679&cHash=01e2be3b0c05e56ae73235f1fa7deaf1)
+
+ fährt nicht
+
+Information
+
+* Der Zug Hermannstraße ab 11:44 Uhr, Schöneweide ab 11:56 Uhr nach Spindlersfeld (an 12:02 Uhr) fällt aus.
+* Bitte benutzen Sie zwischen:
+  * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
+  * Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+Nur Wochenende
+
+### Spindlersfeld \> Hermanstraße ###
+
+27.05 (Sa) 18:09 Uhr bis 18:26 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20165&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15276&tx_sbbconstructions_list%5Bperiod%5D=16940&type=5679&cHash=aa860f99a49c62299880129f05c0fcfe)
+
+ fährt nicht
+
+Information
+
+* Der Zug Spindlersfeld ab 18:09 Uhr nach Hermannstraße (an 18:26 Uhr) fällt aus.
+* Bitte benutzen Sie zwischen:
+  * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
+  * Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+Nur Wochenende
+
+### Hermannstraße \> Schöneweide ###
+
+27.05 (Sa) 18:15 bis 18:22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20914&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15589&tx_sbbconstructions_list%5Bperiod%5D=13233&type=5679&cHash=18903a5baaccd1d098ed9e8a8644f5ce)
+
+ fährt nicht
+
+Information
+
+* Der Zug Hermannstraße ab 18:04, Schöneweide ab 18:16 Uhr nach Spindlersfeld (an 18:22 Uhr) endet bereist um 18:15 Uhr in Schöneweide.
+* Der Zug fällt von Schöneweide bis Spindlersfeld aus.
+* Bitte benutzen Sie zwischen:
+  * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
+  * Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+Nur Wochenende
+
+### Spindlersfeld \> Schöneweide ###
+
+27.05 (Sa) 18:29 Uhr bis 18:35 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20915&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15590&tx_sbbconstructions_list%5Bperiod%5D=16943&type=5679&cHash=9043ee92b02fc0ec6718765436c520e8)
+
+ fährt nicht
+
+Information
+
+* Der Zug Spindlersfeld ab 18:29 Uhr nach Hermannstraße (an 18:46 Uhr) beginnt erst um 18:35 Uhr in Schöneweide.
+* Der Zug fällt von Spindlersfeld bis Schöneweide aus.
+* Bitte benutzen Sie zwischen:
+  * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
+     Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Warschauer Straße \> Wartenberg ###
+
+27.05. (Sa) 18:37 Uhr bis 18:59 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20167&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15278&tx_sbbconstructions_list%5Bperiod%5D=16947&type=5679&cHash=1195a8f71f990a08c27c24895e31449b)
+
+ fährt nicht
+
+Information
+
+* Der Zug Warschauer Straße ab 18:37 Uhr nach Wartenberg (an 18:59 Uhr) fällt aus.
+* Bitte benutzen Sie den Zug 10 Minuten früher oder 10 Minuten später.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Wartenberg \> Warschauer Straße ###
+
+27.05 (Sa) 19:06 Uhr bis 19:28 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21508&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15999&tx_sbbconstructions_list%5Bperiod%5D=16946&type=5679&cHash=ff6dd4bb828369245f49af88f61fef40)
+
+ fährt nicht
+
+Information
+
+* Der Zug Wartenberg ab 19:06 Uhr nach Warschauer Straße (an 19:28 Uhr) fällt aus.
+* Bitte benutzen Sie den Zug 10 Minuten früher oder 10 Minuten später.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -603,128 +721,6 @@ Information
 * Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:48 Uhr in Friedrichstraße.
 * Der Zug fällt von Westkreuz bis Friedrichstraße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-Nur Wochenende
-
-### Hermannstraße \> Schöneweide ###
-
-27.05 (Sa) 11:44 Uhr bis 12:02 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20154&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15263&tx_sbbconstructions_list%5Bperiod%5D=16944&type=5679&cHash=01e2be3b0c05e56ae73235f1fa7deaf1)
-
- fährt nicht
-
-Information
-
-* Der Zug Hermannstraße ab 11:44 Uhr, Schöneweide ab 11:56 Uhr nach Spindlersfeld (an 12:02 Uhr) fällt aus.
-* Bitte benutzen Sie zwischen:
-  * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
-  * Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-Nur Wochenende
-
-### Spindlersfeld \> Hermanstraße ###
-
-27.05 (Sa) 18:09 Uhr bis 18:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20165&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15276&tx_sbbconstructions_list%5Bperiod%5D=16940&type=5679&cHash=aa860f99a49c62299880129f05c0fcfe)
-
- fährt nicht
-
-Information
-
-* Der Zug Spindlersfeld ab 18:09 Uhr nach Hermannstraße (an 18:26 Uhr) fällt aus.
-* Bitte benutzen Sie zwischen:
-  * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
-  * Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-Nur Wochenende
-
-### Hermannstraße \> Schöneweide ###
-
-27.05 (Sa) 18:15 bis 18:22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20914&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15589&tx_sbbconstructions_list%5Bperiod%5D=13233&type=5679&cHash=18903a5baaccd1d098ed9e8a8644f5ce)
-
- fährt nicht
-
-Information
-
-* Der Zug Hermannstraße ab 18:04, Schöneweide ab 18:16 Uhr nach Spindlersfeld (an 18:22 Uhr) endet bereist um 18:15 Uhr in Schöneweide.
-* Der Zug fällt von Schöneweide bis Spindlersfeld aus.
-* Bitte benutzen Sie zwischen:
-  * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
-  * Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-Nur Wochenende
-
-### Spindlersfeld \> Schöneweide ###
-
-27.05 (Sa) 18:29 Uhr bis 18:35 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20915&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15590&tx_sbbconstructions_list%5Bperiod%5D=16943&type=5679&cHash=9043ee92b02fc0ec6718765436c520e8)
-
- fährt nicht
-
-Information
-
-* Der Zug Spindlersfeld ab 18:29 Uhr nach Hermannstraße (an 18:46 Uhr) beginnt erst um 18:35 Uhr in Schöneweide.
-* Der Zug fällt von Spindlersfeld bis Schöneweide aus.
-* Bitte benutzen Sie zwischen:
-  * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
-     Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Warschauer Straße \> Wartenberg ###
-
-27.05. (Sa) 18:37 Uhr bis 18:59 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20167&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15278&tx_sbbconstructions_list%5Bperiod%5D=16947&type=5679&cHash=1195a8f71f990a08c27c24895e31449b)
-
- fährt nicht
-
-Information
-
-* Der Zug Warschauer Straße ab 18:37 Uhr nach Wartenberg (an 18:59 Uhr) fällt aus.
-* Bitte benutzen Sie den Zug 10 Minuten früher oder 10 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wartenberg \> Warschauer Straße ###
-
-27.05 (Sa) 19:06 Uhr bis 19:28 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21508&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15999&tx_sbbconstructions_list%5Bperiod%5D=16946&type=5679&cHash=ff6dd4bb828369245f49af88f61fef40)
-
- fährt nicht
-
-Information
-
-* Der Zug Wartenberg ab 19:06 Uhr nach Warschauer Straße (an 19:28 Uhr) fällt aus.
-* Bitte benutzen Sie den Zug 10 Minuten früher oder 10 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
