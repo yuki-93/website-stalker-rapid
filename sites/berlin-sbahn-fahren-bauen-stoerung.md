@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Zug in Treptower Park ###
-
- Letztes Update: 16:49 / 25.05.2023
-
-Information
-
-Wegen einer Reparatur am Zug in Treptower Park kommt es auf den Linien S8 und S85 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###
