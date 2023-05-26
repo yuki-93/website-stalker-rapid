@@ -22,35 +22,6 @@ Wir bitten um Entschuldigung.
 
 ### Baumaßnahmen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Gesundbrunnen/Schönhauser Allee \<\> Frohnau/Blankenburg ###
-
-Nacht 25./26.05. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27095&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20206&tx_sbbconstructions_list%5Bperiod%5D=16890&type=5679&cHash=c879917ff2478ea6d7c6e3a8cc70ef26)
-
- Takt geändert
-
-Information
-
-* kein S-Bahnverkehr: Schönhauser Allee \<\> Bornholmer Straße
-  * Bitte Umfahrung über Gesundbrunnen (mit Umstieg und Bahnsteigwechsel) oder zwischen Schönhauser Allee \<\> Pankow die U2 nutzen
-
-* Zugverkehr verändert:
-  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Bornholmer Straße um, in Fahrtrichtung Oranienburg erfolgt die Weiterfahrt nach 15 Minuten vom anderen Bahnsteig und in Fahrtrichtung Wannsee erfolgt die Weiterfahrt nach 1 Minute vom selben Bahnsteig gegenüber (der Bahnhof ist barrierefrei ausgestattet).
-
-* Zugverkehr verändert: Fahrgäste der S25 nutzen bitte zwischen Bornholmer Straße \<\> Wollankstraße die S1 (in Fahrtrichtung Hennigsdorf mit Bahnsteigwechsel in Bornholmer Straße)
-* Taktänderung: Bornholmer Straße \<\> Wollankstraße S-Bahnverkehr nur im 20-Minutentakt mit S1
-* Taktänderung: Schönholz \<\> Waidmannslust/Frohnau S-Bahnverkehr nur im 20-Minutentakt
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-bornholmer-strasse/#con-27095)
-
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 Nur Wochenende
