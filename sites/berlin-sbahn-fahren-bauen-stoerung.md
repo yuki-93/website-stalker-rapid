@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten zwischen Adlershof und Grünau bzw. Altglienicke ###
 
- Letztes Update: 14:43 / 26.05.2023
+ Letztes Update: 15:36 / 26.05.2023
 
 Information
 
@@ -21,16 +21,28 @@ Wegen kurzfristiger Bauarbeiten zwischen Adlershof und Grünau bzw. Altglienick
 
 ---
 
+**letzte durchfahrenden Züge Linie S46:**
+
+* ab Königs Wusterhausen um 16:41 Uhr nach Schöneweide (an: 17:05 Uhr)
+* ab Schöneweide um 17:22 Uhr nach Königs Wusterhausen (an: 17:56 Uhr)
+
+**letzte durchfahrenden Züge Linie S9:**
+
+* ab Flughafen BER Terminal 1-2 um 16:29 Uhr nach Schöneweide (an: 16:56 Uhr)
+* ab Schöneweide um 17:13 Uhr nach Flughafen BER Terminal 1-2 (an: 17:36 Uhr)
+
+---
+
 **Ein Ersatzverkehr mit Bussen wird ab ca. 17:30 Uhr zwischen Schöneweide und Grünau für die Linie S46 bzw. zwischen Schöneweide und Altglienicke für die Linie S9 eingerichtet.**
 
-***Haltestellen des Ersatzverkehrs für die Linie S46:***
+**Haltestellen des Ersatzverkehrs für die Linie S46:**
 
 * S-Bhf. Schöneweide: Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)
 * S-Bhf. Johannisthal: Adlergestell, am S-Bahnhof an der Treppe, **Halt nur in Fahrtrichtung S-Bhf. Schöneweide**
 * S-Bhf. Adlershof: Adlergestell in Höhe Dörpfeldstr. / Platz der Befreiung (keine Haltestelle)
 * S-Bhf. Grünau: Adlergestell/ Wassersportallee (Haltestelle Bus N68)
 
-***Haltestellen des Ersatzverkehrs für die Linie S9:***
+**Haltestellen des Ersatzverkehrs für die Linie S9:**
 
 * S-Bhf. Schöneweide: Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)
 * S-Bhf. Johannisthal: Adlergestell, am S-Bahnhof an der Treppe, **Halt nur in Fahrtrichtung S-Bhf. Schöneweide**
