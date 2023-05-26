@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### kurzfristige Bauarbeiten zwischen Adlershof und Grünau bzw. Altglienicke beendet ###
+
+ Letztes Update: 20:51 / 26.05.2023
+
+Information
+
+Die kurzfristiger Bauarbeiten zwischen Adlershof und Grünau bzw. Altglienicke konnten beendet werden. Die Linien S46 und S9 verkehren wieder nach heute gültigem Fahrplan.
+
+Gute Fahrt!
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Polizeieinsatz zwischen Heidelberger Platz und Hohenzollerndamm beendet ###
@@ -17,55 +31,6 @@ Nach einem Polizeieinsatz zwischen Heidelberger Platz und Hohenzollerndamm (Pers
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Bauarbeiten zwischen Adlershof und Grünau bzw. Altglienicke ###
-
- Letztes Update: 17:27 / 26.05.2023
-
-Information
-
-Wegen kurzfristiger Bauarbeiten zwischen Adlershof und Grünau bzw. Altglienicke ist der Zugverkehr der Linie S46 zwischen Schöneweide und Grünau **sowie** der Linie S9 zwischen Schöneweide und Altglienicke **bis vsl. 21:00 Uhr** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S46**: Königs Wusterhausen \<\> Grünau
-* **S9:** Flughafen BER Terminal 1-2 \<\> Altglienicke
-
----
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Schöneweide und Grünau für die Linie S46 bzw. zwischen Schöneweide und Altglienicke für die Linie S9 eingerichtet.**
-
-**Haltestellen des Ersatzverkehrs für die Linie S46:**
-
-* S-Bhf. Schöneweide: Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)
-* S-Bhf. Johannisthal: Adlergestell, am S-Bahnhof an der Treppe, **Halt nur in Fahrtrichtung S-Bhf. Schöneweide**
-* S-Bhf. Adlershof: Adlergestell in Höhe Dörpfeldstr. / Platz der Befreiung (keine Haltestelle)
-* S-Bhf. Grünau: Adlergestell/ Wassersportallee (Haltestelle Bus N68)
-
-**Haltestellen des Ersatzverkehrs für die Linie S9:**
-
-* S-Bhf. Schöneweide: Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)
-* S-Bhf. Johannisthal: Adlergestell, am S-Bahnhof an der Treppe, **Halt nur in Fahrtrichtung S-Bhf. Schöneweide**
-* S-Bhf. Adlershof: Adlergestell in Höhe Dörpfeldstr. / Platz der Befreiung (keine Haltestelle)
-* S-Bhf. Altglienicke: Ewaldstr. / Germanenstr. (Haltestelle Bus 160)
-
-**Beachten Sie bitte:**
-
-* in Schöneweide muss zwischen dem Ersatzverkehr mit Bussen von bzw. nach Baumschulenweg (S46A, S9A und S9X) umgestiegen werden!
-
----
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Ostkreuz \<\> Schöneweide \<\> Flughafen BER Terminal 1-2 die Regionalbahnlinie FEX
-* zwischen Ostkreuz \<\> Schöneweide \<\> Flughafen BER Terminal 5 die Regionalbahnlinie RB32
-* zwischen Baumschulenweg \<\> Schöneweide \<\> Adlershof \<\> Flughafen BER Terminal 1-2 die Buslinie S9X (ohne Halt in Altglienicke!)
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
