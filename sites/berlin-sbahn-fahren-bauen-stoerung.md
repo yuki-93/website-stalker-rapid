@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz zwischen Heidelberger Platz und Hohenzollerndamm beendet ###
+
+ Letztes Update: 20:00 / 26.05.2023
+
+Information
+
+Nach einem Polizeieinsatz zwischen Heidelberger Platz und Hohenzollerndamm (Personen am Gleis) kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten zwischen Adlershof und Grünau bzw. Altglienicke ###
