@@ -369,7 +369,7 @@ Programme
 
 [Hot Deals](https://www.anker.com/eu-de/hot-deals?ref=footer)
 
-[Weiterempfehlen](https://www.anker.com/eu-de/empfehlung?ref=footer)
+[20€ verdienen](https://www.anker.com/eu-de/empfehlung?ref=footer)
 
 [Studenten- & Lehrerrabatte](https://connect.studentbeans.com/v4/hosted/anker/de?ref=footer)
 
