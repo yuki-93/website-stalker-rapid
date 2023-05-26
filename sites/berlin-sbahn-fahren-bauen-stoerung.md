@@ -4,6 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### kurzfristige Bauarbeiten zwischen Adlershof und Grünau bzw. Altglienicke ###
+
+ Letztes Update: 14:15 / 26.05.2023
+
+Information
+
+Wegen kurzfristiger Bauarbeiten zwischen Adlershof und Grünau bzw. Altglienicke wird der Zugverkehr der Linie S46 zwischen Schöneweide und Grünau **sowie** der Linie S9 zwischen Schöneweide und Altglienicke **ab ca. 17:30 Uhr bis vsl. 21:00 Uhr** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+
+**Die betroffenen Linien fahren dann wie folgt:**
+
+* S46: Königs Wusterhausen \<\> Grünau
+* S9 Flughafen BER Terminal 1-2 \<\> Altglienicke
+
+Weitere Informationen folgen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Linie S45: kurzfristiger Personalausfall ###
