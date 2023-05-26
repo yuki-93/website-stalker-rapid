@@ -1,4 +1,4 @@
-Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_2a374e', '\_\_DINNextLT\_Fallback\_2a374e',-apple-system,system-ui,BlinkMacSystemFont,"Helvetica Neue","Helvetica",sans-serif}@media(max-width:767px){.Advantage\_advantage\_box\_\_VOPT9:last-child{display:none}}
+Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_4e559c', '\_\_DINNextLT\_Fallback\_4e559c',-apple-system,system-ui,BlinkMacSystemFont,"Helvetica Neue","Helvetica",sans-serif}@media(max-width:767px){.Advantage\_advantage\_box\_\_VOPT9:last-child{display:none}}
 
 []()
 

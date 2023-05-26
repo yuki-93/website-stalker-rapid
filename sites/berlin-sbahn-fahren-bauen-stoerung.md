@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Lichtenberg ###
 
- Letztes Update: 06:06 / 26.05.2023
+ Letztes Update: 06:38 / 26.05.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Lichtenberg verkehrt die Linie S3 im 10-Minuten-Takt. (ohne Expresszüge Friedrichshagen \<\> Ostbahnhof)
+Wegen der Reparatur an einer Weiche in Lichtenberg verkehrt die Linie S3 im 10-Minuten-Takt. (ohne Expresszüge Karlshorst \<\> Ostbahnhof)
 
 Wir bitten um Entschuldigung.
 
