@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten zwischen Adlershof und Grünau bzw. Altglienicke ###
 
- Letztes Update: 14:15 / 26.05.2023
+ Letztes Update: 14:43 / 26.05.2023
 
 Information
 
@@ -16,10 +16,38 @@ Wegen kurzfristiger Bauarbeiten zwischen Adlershof und Grünau bzw. Altglienick
 
 **Die betroffenen Linien fahren dann wie folgt:**
 
-* S46: Königs Wusterhausen \<\> Grünau
-* S9 Flughafen BER Terminal 1-2 \<\> Altglienicke
+* **S46**: Königs Wusterhausen \<\> Grünau
+* **S9:** Flughafen BER Terminal 1-2 \<\> Altglienicke
 
-Weitere Informationen folgen.
+---
+
+**Ein Ersatzverkehr mit Bussen wird ab ca. 17:30 Uhr zwischen Schöneweide und Grünau für die Linie S46 bzw. zwischen Schöneweide und Altglienicke für die Linie S9 eingerichtet.**
+
+***Haltestellen des Ersatzverkehrs für die Linie S46:***
+
+* S-Bhf. Schöneweide: Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)
+* S-Bhf. Johannisthal: Adlergestell, am S-Bahnhof an der Treppe, **Halt nur in Fahrtrichtung S-Bhf. Schöneweide**
+* S-Bhf. Adlershof: Adlergestell in Höhe Dörpfeldstr. / Platz der Befreiung (keine Haltestelle)
+* S-Bhf. Grünau: Adlergestell/ Wassersportallee (Haltestelle Bus N68)
+
+***Haltestellen des Ersatzverkehrs für die Linie S9:***
+
+* S-Bhf. Schöneweide: Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)
+* S-Bhf. Johannisthal: Adlergestell, am S-Bahnhof an der Treppe, **Halt nur in Fahrtrichtung S-Bhf. Schöneweide**
+* S-Bhf. Adlershof: Adlergestell in Höhe Dörpfeldstr. / Platz der Befreiung (keine Haltestelle)
+* S-Bhf. Altglienicke: Ewaldstr. / Germanenstr. (Haltestelle Bus 160)
+
+**Beachten Sie bitte:**
+
+* in Schöneweide muss zwischen dem Ersatzverkehr mit Bussen von bzw. nach Baumschulenweg (S46A, S9A und S9X) umgestiegen werden!
+
+---
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Ostkreuz \<\> Schöneweide \<\> Flughafen BER Terminal 1-2 die Regionalbahnlinie FEX
+* zwischen Ostkreuz \<\> Schöneweide \<\> Flughafen BER Terminal 5 die Regionalbahnlinie RB32
+* zwischen Baumschulenweg \<\> Schöneweide \<\> Adlershof \<\> Flughafen BER Terminal 1-2 die Buslinie S9X (ohne Halt in Altglienicke!)
 
 Wir bitten um Entschuldigung.
 
