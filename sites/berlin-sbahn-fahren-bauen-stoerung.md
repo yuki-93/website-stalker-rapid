@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur am Signal Köllnische Heide \> Baumschulenweg ###
-
- Letztes Update: 10:21 / 27.05.2023
-
-Information
-
-Wegen der Reparatur an einem Signal zwischen Köllnische Heide und Baumschulenweg kommt es auf den Linien s46, S46 und S47 zu Verspätungen und eventuellen Ausfällen.
-
-Die Linie S47 verkehrt zwischen Spindlersfeld und Treptower Park. Fahrgäste benutzen bitte ab Schöneweide die Linien S45 und S46 in Richtung Hermannstraße.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S42](https://sbahn.berlin/fahren/s42/)
@@ -85,27 +67,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-autobahndreieck-funkturm/#con-27124)
 
 ### Fahrplanänderungen ###
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-Nur Wochenende
-
-### Hermannstraße \> Schöneweide ###
-
-27.05 (Sa) 11:44 Uhr bis 12:02 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20154&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15263&tx_sbbconstructions_list%5Bperiod%5D=16944&type=5679&cHash=01e2be3b0c05e56ae73235f1fa7deaf1)
-
- fährt nicht
-
-Information
-
-* Der Zug Hermannstraße ab 11:44 Uhr, Schöneweide ab 11:56 Uhr nach Spindlersfeld (an 12:02 Uhr) fällt aus.
-* Bitte benutzen Sie zwischen:
-  * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
-  * Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
