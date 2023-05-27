@@ -4,6 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### gesamter Ring ###
+
+27.05. (Sa), 28.05. (So) und 29.05. (Mo), jeweils 12 Uhr - 20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20200&tx_sbbconstructions_list%5Bperiod%5D=16883&type=5679&cHash=846cf7260006b5821efaf439c9f6f823)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung: Die den 5-/5-/10-Minutentakt bildenden Züge fahren auf dem gesamten Ring um 10 Minuten versetzt.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 Nur Wochenende
@@ -341,21 +356,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-suedlichen-blumberger-damm-bruecke/#con-27154)
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### gesamter Ring ###
-
-27.05. (Sa), 28.05. (So) und 29.05. (Mo), jeweils 12 Uhr - 20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20200&tx_sbbconstructions_list%5Bperiod%5D=16883&type=5679&cHash=846cf7260006b5821efaf439c9f6f823)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung: Die den 5-/5-/10-Minutentakt bildenden Züge fahren auf dem gesamten Ring um 10 Minuten versetzt.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
