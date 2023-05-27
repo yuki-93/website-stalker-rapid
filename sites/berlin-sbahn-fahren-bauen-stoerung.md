@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur am Signal Köllnische Heide \> Baumschulenweg ###
+
+ Letztes Update: 10:21 / 27.05.2023
+
+Information
+
+Wegen der Reparatur an einem Signal zwischen Köllnische Heide und Baumschulenweg kommt es auf den Linien s46, S46 und S47 zu Verspätungen und eventuellen Ausfällen.
+
+Die Linie S47 verkehrt zwischen Spindlersfeld und Treptower Park. Fahrgäste benutzen bitte ab Schöneweide die Linien S45 und S46 in Richtung Hermannstraße.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S42](https://sbahn.berlin/fahren/s42/)
