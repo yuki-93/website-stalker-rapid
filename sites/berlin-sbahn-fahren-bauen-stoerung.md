@@ -68,67 +68,6 @@ Information
 
 ### Fahrplanänderungen ###
 
-[S47](https://sbahn.berlin/fahren/s47/)
-
-Nur Wochenende
-
-### Spindlersfeld \> Hermanstraße ###
-
-27.05 (Sa) 18:09 Uhr bis 18:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20165&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15276&tx_sbbconstructions_list%5Bperiod%5D=16940&type=5679&cHash=aa860f99a49c62299880129f05c0fcfe)
-
- fährt nicht
-
-Information
-
-* Der Zug Spindlersfeld ab 18:09 Uhr nach Hermannstraße (an 18:26 Uhr) fällt aus.
-* Bitte benutzen Sie zwischen:
-  * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
-  * Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-Nur Wochenende
-
-### Spindlersfeld \> Schöneweide ###
-
-27.05 (Sa) 18:29 Uhr bis 18:35 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20915&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15590&tx_sbbconstructions_list%5Bperiod%5D=16943&type=5679&cHash=9043ee92b02fc0ec6718765436c520e8)
-
- fährt nicht
-
-Information
-
-* Der Zug Spindlersfeld ab 18:29 Uhr nach Hermannstraße (an 18:46 Uhr) beginnt erst um 18:35 Uhr in Schöneweide.
-* Der Zug fällt von Spindlersfeld bis Schöneweide aus.
-* Bitte benutzen Sie zwischen:
-  * Spindlersfeld \<\> Bushaltestelle „Bärenlauchstraße“ \<\> Bushaltestelle „Bruno-Bürgel-Weg“ \<\> Schöneweide auch die Buslinie 165 sowie zwischen
-     Schöneweide \<\> Hermannstraße die S-Bahn-Linien S45 oder S46.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Warschauer Straße \> Wartenberg ###
-
-27.05. (Sa) 18:37 Uhr bis 18:59 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20167&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15278&tx_sbbconstructions_list%5Bperiod%5D=16947&type=5679&cHash=1195a8f71f990a08c27c24895e31449b)
-
- fährt nicht
-
-Information
-
-* Der Zug Warschauer Straße ab 18:37 Uhr nach Wartenberg (an 18:59 Uhr) fällt aus.
-* Bitte benutzen Sie den Zug 10 Minuten früher oder 10 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 Nur Wochenende
