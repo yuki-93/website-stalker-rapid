@@ -4,59 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### Bornholmer Straße \<\> Buch/Mühlenbeck-Mönchmühle ###
-
-26.05. (Fr), ca. 22 Uhr durchgehend bis 30.05. (Di), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27087&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20200&tx_sbbconstructions_list%5Bperiod%5D=16882&type=5679&cHash=fdfa0fdf2b4c3c0a5c15e8745792c8c0)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S2: Bornholmer Straße \<\> Buch
-  * Bus S8: Bornholmer Straße \<\> Mühlenbeck-Mönchmühle
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8/#con-27087)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### (Ostbahnhof) Charlottenburg \<\> Wannsee (Potsdam Hbf) / Olympiastadion ###
-
-27.05. (Sa), ca. 1 Uhr durchgehend bis 30.05. (Di), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27124&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20235&tx_sbbconstructions_list%5Bperiod%5D=16899&type=5679&cHash=8cb2a84a3f78ac4bd5d7f476715bde92)
-
- Ersatzverkehr
-
-Information
-
-* Zugverkehr verändert: im Abschnitt Wannsee \<\> Potsdam Hbf fährt die S1 anstatt der S7
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Charlottenburg \<\> Wannsee
-  * Bus S9: Charlottenburg \<\> Olympiastadion
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-autobahndreieck-funkturm/#con-27124)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### gesamter Ring ###
@@ -171,6 +118,12 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-autobahndreieck-funkturm/#con-27124)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
