@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke Südkreuz - Tempelhof)beendet ###
-
- Letztes Update: 13:55 / 28.05.2023
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke Südkreuz - Tempelhof) kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S42](https://sbahn.berlin/fahren/s42/)
