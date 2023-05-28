@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Ausfall Verkehrshalt in Mexikoplatz ###
-
- Letztes Update: 06:27 / 28.05.2023
-
-Information
-
-Wegen eines Polizeieinsatzes in Mexikoplatz entfällt der Verkehrshalt.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S42](https://sbahn.berlin/fahren/s42/)
