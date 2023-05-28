@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### unbefugte Personen auf der Strecke Bereich Hermannstraße ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke Südkreuz - Tempelhof)beendet ###
 
- Letztes Update: 13:05 / 28.05.2023
+ Letztes Update: 13:55 / 28.05.2023
 
 Information
 
-Wegen unbefugter Personen auf der Strecke im Bereich Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke Südkreuz - Tempelhof) kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
