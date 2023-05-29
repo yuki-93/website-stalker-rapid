@@ -73,52 +73,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-Nur Wochenende
+ Nur Nachts
 
-### Bornholmer Straße \<\> Buch/Mühlenbeck-Mönchmühle ###
+### gesamter Ring S41 und S42 ###
 
-26.05. (Fr), ca. 22 Uhr durchgehend bis 30.05. (Di), ca. 1.30 Uhr
+Nacht 31.05./01.06. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27087&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20200&tx_sbbconstructions_list%5Bperiod%5D=16882&type=5679&cHash=fdfa0fdf2b4c3c0a5c15e8745792c8c0)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27207&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20323&tx_sbbconstructions_list%5Bperiod%5D=16937&type=5679&cHash=78be2e76ae9a494abf053ebf72960ba5)
 
- Ersatzverkehr
+ Zugverkehr verändert
 
 Information
 
-* Ersatzverkehr mit Bussen:
-  * Bus S2: Bornholmer Straße \<\> Buch
-  * Bus S8: Bornholmer Straße \<\> Mühlenbeck-Mönchmühle
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Gesundbrunnen um, die Weiterfahrt erfolgt nach 7 Minuten vom selben Gleis.
 
 * Fahrplanänderung
 * Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8/#con-27087)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### (Ostbahnhof) Charlottenburg \<\> Wannsee (Potsdam Hbf) / Olympiastadion ###
-
-27.05. (Sa), ca. 1 Uhr durchgehend bis 30.05. (Di), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27124&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20235&tx_sbbconstructions_list%5Bperiod%5D=16899&type=5679&cHash=8cb2a84a3f78ac4bd5d7f476715bde92)
-
- Ersatzverkehr
-
-Information
-
-* Zugverkehr verändert: im Abschnitt Wannsee \<\> Potsdam Hbf fährt die S1 anstatt der S7
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Charlottenburg \<\> Wannsee
-  * Bus S9: Charlottenburg \<\> Olympiastadion
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-autobahndreieck-funkturm/#con-27124)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-34/#con-27207)
 
 Hinweis
 
