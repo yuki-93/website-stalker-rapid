@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### ärztliche Versorgung eines Fahrgastes in Landsberger Allee beendet ###
+### ärztliche Versorgung eines Fahrgastes in Landsberger Allee und Polizeieinsatz in Frankfurter Allee beendet ###
 
- Letztes Update: 19:54 / 30.05.2023
+ Letztes Update: 21:39 / 30.05.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Landsberger Allee kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Landsberger Allee und eines Polizeieinsatzes in Frankfurter Allee kommt es auf den Linien S41, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 Hinweis
 
