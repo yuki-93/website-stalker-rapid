@@ -2,7 +2,30 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Baumaßnahmen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### gesamter Ring S41 und S42 ###
+
+Nacht 31.05./01.06. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27207&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20323&tx_sbbconstructions_list%5Bperiod%5D=16937&type=5679&cHash=78be2e76ae9a494abf053ebf72960ba5)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Gesundbrunnen um, die Weiterfahrt erfolgt nach 7 Minuten vom selben Gleis.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-34/#con-27207)
 
 Hinweis
 
@@ -209,28 +232,24 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-suedlichen-blumberger-damm-bruecke/#con-27154)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
  Nur Nachts
 
-### gesamter Ring S41 und S42 ###
+### Birkenwerder \<\> Oranienburg ###
 
-Nacht 31.05./01.06. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 15./16.06. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27207&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20323&tx_sbbconstructions_list%5Bperiod%5D=16937&type=5679&cHash=78be2e76ae9a494abf053ebf72960ba5)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27146&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20256&tx_sbbconstructions_list%5Bperiod%5D=16991&type=5679&cHash=24bd5fdb80385ccbbe1149636127b747)
 
- Zugverkehr verändert
+ Ersatzverkehr
 
 Information
 
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Gesundbrunnen um, die Weiterfahrt erfolgt nach 7 Minuten vom selben Gleis.
-
-* Fahrplanänderung
-* Bahnsteigänderung
+* Ersatzverkehr mit Bussen
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-34/#con-27207)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1-nord-5/#con-27146)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -412,30 +431,119 @@ Information
 * Der Zug fällt von Westkreuz bis Friedrichstraße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
 
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof \> Grunewald ###
+
+15.06. (Do) und 16.06. (Fr), jeweils 1:28 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27153&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20263&tx_sbbconstructions_list%5Bperiod%5D=16911&type=5679&cHash=e5988760e275c010c2ac12d8a8f00f05)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER – Terminal 1-2 ab 0:51 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:28 Uhr in Ostbahnhof.
+* Der Zug fällt von Ostbahnhof bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \> Friedrichstraße ###
+
+15.06. (Do) und 16.06. (Fr), jeweils 1:46 Uhr bis 1:56 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23484&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17255&tx_sbbconstructions_list%5Bperiod%5D=16912&type=5679&cHash=8dcd6ff6195f8033db49a18a04850439)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER – Terminal 1-2 ab 1:11 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:46 Uhr in Warschauer Straße.
+* Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Warschauer Straße \> Ostbahnhof ###
+
+15.06. (Do) und 16.06. (Fr), jeweils 2:06 Uhr bis 2:08 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&tx_sbbconstructions_list%5Bperiod%5D=16914&type=5679&cHash=4c990498b606d4ae7743fe77bc631f4f)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER – Terminal 1-2 ab 1:31 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:06 Uhr in Warschauer Straße.
+* Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Baumschulenweg \> Flughafen BER T1-2 ###
+
+15.06. (Do) und 16.06. (Fr), jeweils 3:02 Uhr bis 4 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23521&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17278&tx_sbbconstructions_list%5Bperiod%5D=16916&type=5679&cHash=10d3cd6a552036cdf0f496648c33f269)
+
+ Zugverkehr verändert
+
+Information
+
+* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) wird von Charlottenburg bis Baumschulenweg über Schöneberg, Südkreuz und Neukölln umgeleitet.
+* Die Halte auf der Stadtbahn, von Charlottenburg bis Baumschulenweg entfallen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Treptower Park ###
+
+15.06. (Do) und 16.06. (Fr), jeweils 3:05 Uhr bis 3:14 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19432&tx_sbbconstructions_list%5Bperiod%5D=16915&type=5679&cHash=b8546b41e99a08b2f514b52c456ed65a)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
+* Der Zug fällt von Alexanderplatz bis Treptower Park aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Treptower Park ###
+
+15.06. (Do) und 16.06. (Fr), jeweils 3:12 Uhr bis 3:43 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26641&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19728&tx_sbbconstructions_list%5Bperiod%5D=16918&type=5679&cHash=0c98249752b6d2b0f725f59b52741289)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:43 Uhr in Treptower Park.
+* Der Zug fällt von Westkreuz bis Treptower Park aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 Hinweis
 
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Birkenwerder \<\> Oranienburg ###
-
-Nacht 15./16.06. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27146&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20256&tx_sbbconstructions_list%5Bperiod%5D=16991&type=5679&cHash=24bd5fdb80385ccbbe1149636127b747)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1-nord-5/#con-27146)
 
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
