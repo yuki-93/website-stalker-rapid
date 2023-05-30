@@ -680,6 +680,7 @@ Nur Wochenende
 Information
 
 * Ersatzverkehr mit Bussen
+* Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-weichenerneuerung/#con-27263)

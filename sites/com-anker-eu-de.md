@@ -379,7 +379,7 @@ Programme
 
 [Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase?ref=footer)
 
-[Blog](https://de.anker.com/blogs/content?ref=footer)
+[Blog](https://www.anker.com/eu-de/blogs?ref=footer)
 
 Support
 
@@ -399,7 +399,7 @@ Support
 
 [Impressum](https://de.anker.com/pages/imprint?ref=footer)
 
-[PowerHouse-Händler werden](https://www.anker.com/eu-de/portable-power-stations?ref=footer)
+[PowerHouse-Händler werden](https://www.anker.com/eu-de/ankerpower?ref=footer)
 
 [](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.instagram.com/anker_official/?ref=footer)[](https://www.tiktok.com/@ankerofficial?ref=footer)
 
