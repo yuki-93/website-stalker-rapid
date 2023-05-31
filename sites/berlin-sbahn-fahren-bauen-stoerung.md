@@ -1194,3 +1194,22 @@ Information
 * Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:43 Uhr in Treptower Park.
 * Der Zug fällt von Westkreuz bis Treptower Park aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Grunewald ###
+
+Nacht 20./21.06. (Di/Mi) 23 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15592&tx_sbbconstructions_list%5Bperiod%5D=13236&type=5679&cHash=b7e1ec5db05f2c725eff7e4f547cd9bf)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung in Grunewald \> Westkreuz
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/treptower-park-schoeneweide-s9021/#con-20917)
