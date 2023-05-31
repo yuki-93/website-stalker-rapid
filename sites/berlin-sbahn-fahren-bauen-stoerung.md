@@ -545,7 +545,7 @@ Information
 
 ### Westkreuz \> Treptower Park ###
 
-15.06. (Do) und 16.06. (Fr), jeweils 3:12 Uhr bis 3:43 Uhr
+15.06. (Do),3:12 Uhr bis 3:43 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26641&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19728&tx_sbbconstructions_list%5Bperiod%5D=16918&type=5679&cHash=0c98249752b6d2b0f725f59b52741289)
 
@@ -1199,18 +1199,52 @@ Information
 
  Nur Nachts
 
-### Westkreuz \> Treptower Park ###
+### Waßmannsdorf \> Flughafen BER – Terminal 1-2 ###
 
-15.06. (Do) und 16.06. (Fr), jeweils 3:12 Uhr bis 3:43 Uhr
+16.06. (Fr) 1:32 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26641&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19728&tx_sbbconstructions_list%5Bperiod%5D=16918&type=5679&cHash=0c98249752b6d2b0f725f59b52741289)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27319&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20427&tx_sbbconstructions_list%5Bperiod%5D=16999&type=5679&cHash=f62bde292e97844ea23950180311974a)
+
+ Takt geändert
+
+Information
+
+* Der Zug Waßmannsdorf ab 1:32 Uhr nach Flughafen BER – Terminal 1-2 (an 1:36 Uhr) fährt in Waßmannsdorf von Gleis 2 (Bahnsteig stadteinwärts).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Flughafen BER Terminal 5 \> Flughafen BER – Terminal 1-2 ###
+
+16.06. (Fr) 1:36 Uhr bis 1:46 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20426&tx_sbbconstructions_list%5Bperiod%5D=16998&type=5679&cHash=200b2d5e9a80cff81a2851bb0fbb3856)
+
+ Takt geändert
+
+Information
+
+* Der Zug Spandau ab 0:18 Uhr nach Flughafen BER – Terminal 1-2 (an 1:36 Uhr) fährt von Flughafen BER – Terminal 5 bis Flughafen BER – Terminal 1-2 ca. 10 Minuten später.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Warschauer Straße ###
+
+16.06. (Fr) 3:12 Uhr bis 3:39 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&tx_sbbconstructions_list%5Bperiod%5D=17000&type=5679&cHash=88cc77b021ddc67f8ba1e6530e2715a0)
 
  fährt nicht
 
 Information
 
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:43 Uhr in Treptower Park.
-* Der Zug fällt von Westkreuz bis Treptower Park aus.
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:39 Uhr in Warschauer Straße.
+* Der Zug fällt von Westkreuz bis Warschauer Straße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S7](https://sbahn.berlin/fahren/s7/)
