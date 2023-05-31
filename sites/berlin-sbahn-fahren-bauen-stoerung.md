@@ -1270,6 +1270,25 @@ Information
 * Der Zug Waßmannsdorf ab 1:33 Uhr nach Ostbahnhof (an 2:08 Uhr) fährt in Waßmannsdorf von Gleis 1 (Bahnsteig stadtauswärts).
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Geänderte Linienführung ###
+
+20.06. (Di) 1:58 Uhr bis 2:20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26643&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19731&tx_sbbconstructions_list%5Bperiod%5D=17003&type=5679&cHash=03093f2ad683848be3957c9572eb59eb)
+
+ Zugverkehr verändert
+
+Information
+
+* Der Zug Flughafen BER - Terminal 1-2 ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) wird von Baumschulenweg bis Treptower Park über Neukölln, Hermannstraße (mit Fahrtrichtungswechsel) umgeleitet.
+* Der Halt in Plänterwald entfällt.
+* Der Zug fährt von Treptower Park bis Ostbahnhof 12 Minuten später.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
  Nur Nachts
