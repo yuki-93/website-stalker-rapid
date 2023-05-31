@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur am Zug in Gesundbrunnen beendet ###
+
+ Letztes Update: 23:54 / 31.05.2023
+
+Information
+
+Nach einer Reparatur am Zug in Gesundbrunnen kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
@@ -31,30 +47,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Baumaßnahmen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### gesamter Ring S41 und S42 ###
-
-Nacht 31.05./01.06. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27207&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20323&tx_sbbconstructions_list%5Bperiod%5D=16937&type=5679&cHash=78be2e76ae9a494abf053ebf72960ba5)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Gesundbrunnen um, die Weiterfahrt erfolgt nach 7 Minuten vom selben Gleis.
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-34/#con-27207)
+#####  Derzeit keine Meldungen  #####
 
 Hinweis
 
@@ -250,6 +243,31 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1-nord-5/#con-27146)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Wuhletal/Wartenberg \<\> Warschauer Straße ###
+
+vom 16.06. (Fr), ca. 22 Uhr durchgehend bis 19.06. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27155&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20265&tx_sbbconstructions_list%5Bperiod%5D=16917&type=5679&cHash=9ad8c4262e9e45b1345e549ecbeecc13)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen: Wuhletal \<\> Friedrichsfelde Ost
+* alternative Umfahrungsmöglichkeit:
+  * Bitte zwischen Wuhletal, Lichtenberg, Frankfurter Allee, Alexanderplatz und Berlin Hbf auch die U5 nutzen
+
+* Zugverkehr verändert: Zwischen Wartenberg \<\> Lichtenberg fährt die S5 anstatt der S75.
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-suedlichen-blumberger-damm-bruecke-1/#con-27155)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -539,36 +557,69 @@ Information
 * Der Zug fällt von Westkreuz bis Treptower Park aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Waßmannsdorf \> Flughafen BER – Terminal 1-2 ###
+
+16.06. (Fr) 1:32 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27319&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20427&tx_sbbconstructions_list%5Bperiod%5D=16999&type=5679&cHash=f62bde292e97844ea23950180311974a)
+
+ Takt geändert
+
+Information
+
+* Der Zug Waßmannsdorf ab 1:32 Uhr nach Flughafen BER – Terminal 1-2 (an 1:36 Uhr) fährt in Waßmannsdorf von Gleis 2 (Bahnsteig stadteinwärts).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Flughafen BER Terminal 5 \> Flughafen BER – Terminal 1-2 ###
+
+16.06. (Fr) 1:36 Uhr bis 1:46 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20426&tx_sbbconstructions_list%5Bperiod%5D=16998&type=5679&cHash=200b2d5e9a80cff81a2851bb0fbb3856)
+
+19.06. (Mo) 1:36 Uhr bis 1:46 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20426&tx_sbbconstructions_list%5Bperiod%5D=17002&type=5679&cHash=295ff748abf50b3a6d2f13b1f7e76cb7)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20426&type=5679&cHash=75f8fa6b1d738a1a1ac16163392f6634)
+
+ Takt geändert
+
+Information
+
+* Der Zug Spandau ab 0:18 Uhr nach Flughafen BER – Terminal 1-2 (an 1:36 Uhr) fährt von Flughafen BER – Terminal 5 bis Flughafen BER – Terminal 1-2 ca. 10 Minuten später.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Warschauer Straße ###
+
+16.06. (Fr) 3:12 Uhr bis 3:39 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&tx_sbbconstructions_list%5Bperiod%5D=17000&type=5679&cHash=88cc77b021ddc67f8ba1e6530e2715a0)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:39 Uhr in Warschauer Straße.
+* Der Zug fällt von Westkreuz bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 Hinweis
 
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wuhletal/Wartenberg \<\> Warschauer Straße ###
-
-vom 16.06. (Fr), ca. 22 Uhr durchgehend bis 19.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27155&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20265&tx_sbbconstructions_list%5Bperiod%5D=16917&type=5679&cHash=9ad8c4262e9e45b1345e549ecbeecc13)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen: Wuhletal \<\> Friedrichsfelde Ost
-* alternative Umfahrungsmöglichkeit:
-  * Bitte zwischen Wuhletal, Lichtenberg, Frankfurter Allee, Alexanderplatz und Berlin Hbf auch die U5 nutzen
-
-* Zugverkehr verändert: Zwischen Wartenberg \<\> Lichtenberg fährt die S5 anstatt der S75.
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-suedlichen-blumberger-damm-bruecke-1/#con-27155)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -1181,23 +1232,6 @@ Information
 
  Nur Nachts
 
-### Waßmannsdorf \> Flughafen BER – Terminal 1-2 ###
-
-16.06. (Fr) 1:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27319&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20427&tx_sbbconstructions_list%5Bperiod%5D=16999&type=5679&cHash=f62bde292e97844ea23950180311974a)
-
- Takt geändert
-
-Information
-
-* Der Zug Waßmannsdorf ab 1:32 Uhr nach Flughafen BER – Terminal 1-2 (an 1:36 Uhr) fährt in Waßmannsdorf von Gleis 2 (Bahnsteig stadteinwärts).
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Flughafen BER Terminal 5 \> Flughafen BER – Terminal 1-2 ###
 
 16.06. (Fr) 1:36 Uhr bis 1:46 Uhr
@@ -1215,24 +1249,6 @@ Information
 Information
 
 * Der Zug Spandau ab 0:18 Uhr nach Flughafen BER – Terminal 1-2 (an 1:36 Uhr) fährt von Flughafen BER – Terminal 5 bis Flughafen BER – Terminal 1-2 ca. 10 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Warschauer Straße ###
-
-16.06. (Fr) 3:12 Uhr bis 3:39 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&tx_sbbconstructions_list%5Bperiod%5D=17000&type=5679&cHash=88cc77b021ddc67f8ba1e6530e2715a0)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:39 Uhr in Warschauer Straße.
-* Der Zug fällt von Westkreuz bis Warschauer Straße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
