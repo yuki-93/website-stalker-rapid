@@ -1268,6 +1268,27 @@ Information
 
  Nur Nachts
 
+### Gleisänderung in Westkreuz \> Flughafen BER – Terminal 1-2 ###
+
+20.06. (Di) 3:12 Uhr - 3:32 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20912&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15587&tx_sbbconstructions_list%5Bperiod%5D=17006&type=5679&cHash=dbfcea5fe201fc4379cb53333282e997)
+
+ Zugverkehr verändert
+
+Information
+
+* Die Züge
+  * Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2, an 4:16 Uhr und
+  * Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2, an 4.36 Uhr
+  * verkehren in Westkreuz von Gleise 2 (Bahnsteig stadtauswärts)
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
 ### Geänderte Linienführung Treptower Park \> Neukölln \> Baumschulenweg ###
 
 20.06. (Di) 3:19 Uhr bis 3:55 Uhr
@@ -1318,3 +1339,81 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/treptower-park-schoeneweide-s9021/#con-20917)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof \> Friedrichstraße ###
+
+21.06. (Mi) und 22.06. (Do), jeweils 1:48 Uhr bis 1:56 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&tx_sbbconstructions_list%5Bperiod%5D=17008&type=5679&cHash=7e737060d0bde750d42c5c0b50f31e70)
+
+ fährt nicht
+
+Information
+
+* Der Zug:
+  * Flughafen BER – Terminal 1-2 ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:48 Uhr in Ostbahnhof.
+  * Der Zug fällt zwischen Ostbahnhof und Friedrichstraße aus.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Gleisänderung in Westkreuz \> Grunewald ###
+
+21.06. (Mi) und 22.06. (Do), jeweils 1:53 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27327&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20437&tx_sbbconstructions_list%5Bperiod%5D=17007&type=5679&cHash=893962a15fed7f04450995264d428488)
+
+ Zugverkehr verändert
+
+Information
+
+* Der Zug:
+  * Westkreuz ab 1:53 Uhr nach Grunewald (an 1:55 Uhr) fährt in Westkreuz von Gleis 3 (Bahnsteig stadteinwärts).
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Gleisänderung in Warschauer Straße \> Ostbahnhof ###
+
+21.06. (Mi) und 22.06. (Do), jeweils 2:06 Uhr bis 2:08 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25513&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=18653&tx_sbbconstructions_list%5Bperiod%5D=17009&type=5679&cHash=b4afc0d67c4e13f97051b36ba994019c)
+
+ Zugverkehr verändert
+
+Information
+
+* Der Zug:
+  * Warschauer Straße ab 2:06 Uhr nach Ostbahnhof (an 2:08 Uhr) fährt in Warschauer Straße von Gleis 2 (Bahnsteig stadtauswärts).
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Ostbahnhof ###
+
+21.06. (Mi) und 22.06. (Do), jeweils 3:05 Uhr bis 3:09 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26783&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19878&tx_sbbconstructions_list%5Bperiod%5D=17010&type=5679&cHash=2b0007beafb60121dacafd65694ae8d1)
+
+ fährt nicht
+
+Information
+
+* Der Zug:
+  * Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:09 Uhr in Ostbahnhof.
+
+* Der Zug fällt von Alexanderplatz bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
