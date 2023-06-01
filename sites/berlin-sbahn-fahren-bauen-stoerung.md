@@ -856,7 +856,9 @@ Information
 
 Information
 
-* Ersatzverkehr mit Bussen
+* Ersatzverkehr mit Bussen Friedrichstraße - Zoologischer Garten
+* Taktänderung
+* Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-und-arbeiten-am-hallendach-in-zoologischer-garten/#con-27270)
@@ -876,6 +878,8 @@ Information
 Information
 
 * Ersatzverkehr mit Bussen
+* Taktänderung
+* Bahnsteigänderung in Ostbahnhof und Grunewald
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-und-arbeiten-am-hallendach-in-zoologischer-garten/#con-27271)
