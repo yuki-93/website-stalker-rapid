@@ -1417,3 +1417,43 @@ Information
 
 * Der Zug fällt von Alexanderplatz bis Ostbahnhof aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Ostbahnhof ###
+
+21.06. (Mi) und 22.06. (Do), jeweils 3:12 Uhr bis 3:37 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26785&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19880&tx_sbbconstructions_list%5Bperiod%5D=17012&type=5679&cHash=4107436a0dedd6f5f9c652bdc1f1eaaf)
+
+ fährt nicht
+
+Information
+
+* Der Zug:
+  * Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:37 Uhr in Ostbahnhof.
+
+* Der Zug fällt von Westkreuz bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Warschauer Straße ###
+
+21.06. (Mi) und 22.06. (Do), jeweils 3:12 Uhr bis 3:26 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=17011&type=5679&cHash=89c8bfcb4f5a8b4406add553500c55ba)
+
+ fährt nicht
+
+Information
+
+* Der Zug:
+  * Charlottenburg ab 3:02 nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) beginnt erst um 3:26 Uhr in Warschauer Straße.
+  * Der Zug fällt von Charlottenburg bis Ostbahnhof aus.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
