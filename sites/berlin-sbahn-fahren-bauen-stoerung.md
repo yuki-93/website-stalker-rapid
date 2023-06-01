@@ -2,23 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal Hauptbahnhof ###
-
- Letztes Update: 05:52 / 01.06.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-Linie S5 verkehrt im 10-Minuten-Takt zwischen Hoppegarten und Ostbahnhof.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
+#####  Derzeit keine Meldungen  #####
 
 Hinweis
 
