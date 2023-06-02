@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Notarzteinsatz auf der Strecke in Südkreuz ###
+### Notarzteinsatz auf der Strecke in Südkreuz beendet ###
 
- Letztes Update: 17:03 / 02.06.2023
+ Letztes Update: 18:08 / 02.06.2023
 
 Information
 
-Wegen einem Notarzteinsatz auf der Strecke in Südkreuz ist der Zugverkehr der Linien S2, S25 und S26 zwischen Priesterweg und Anhalter Bahnhof unterbrochen.
+Nach einem Notarzteinsatz auf der Strecke in Südkreuz kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Ausfällen.
 
 * die Linie S26 verkehrt nicht
 
