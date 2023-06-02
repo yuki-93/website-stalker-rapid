@@ -2,7 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal Pankow Heinersdorf ###
+
+ Letztes Update: 09:40 / 02.06.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Pankow Heinersdorf kommt es auf den Linien S2 und S8 zu Verspätungen und Ausfällen.
+
+Linie S2 verkehrt zwischen Lichtenrade und Nordbahnhof im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung
+
+ Takt geändert  Verbindung verspätet
 
 Hinweis
 
