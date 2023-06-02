@@ -2,23 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Notarzteinsatz auf der Strecke in Südkreuz beendet ###
-
- Letztes Update: 18:08 / 02.06.2023
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Südkreuz kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Ausfällen.
-
-* die Linie S26 verkehrt nicht
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
+#####  Derzeit keine Meldungen  #####
 
 Hinweis
 
