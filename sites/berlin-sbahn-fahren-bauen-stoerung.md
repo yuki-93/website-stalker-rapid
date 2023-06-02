@@ -1039,6 +1039,24 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27233)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Warschauer Straße – Ostbahnhof ###
+
+14.07. (Fr) 4 Uhr bis 20.07. (Do) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27346&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20455&tx_sbbconstructions_list%5Bperiod%5D=17025&type=5679&cHash=8c2fe40867272c30b82e426533a6bb8b)
+
+ Zugverkehr verändert
+
+Information
+
+* Linienführung verändert (S3)
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/hallendachsanierung-in-ostbahnhof-das-gleis-11-ist-gesperrt/#con-27346)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 Nur Wochenende
@@ -1057,6 +1075,8 @@ Information
 * Fahrplanänderung
 * Bahnsteigänderung in Treptower Park
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleis-kabeltiefbau-instandsetzung-der-entwaesserungsleitungen-instandhaltung-der-weichen-in-suedkreuz-1/#con-27281)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
