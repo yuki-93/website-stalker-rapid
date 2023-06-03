@@ -2,7 +2,37 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz zwischen Schönhauser Allee und Bornholmer Straße bzw. Gesundbrunnen ###
+
+ Letztes Update: 08:50 / 03.06.2023
+
+Information
+
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S41 und S42 zwischen Schönhauser Allee und Gesundbrunnen **sowie** der Linien S8 und S85 zwischen Schönhauser Allee und Bornholmer Straße unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S41**: Schönhauser Allee \> Ostkreuz \> Südkreuz \> Westkreuz \> Gesundbrunnen
+* **S42**: Gesundbrunnen \> Westkreuz \> Südkreuz \> Ostkreuz \> Schönhauser Allee
+* **S8**: Grünau \<\> Landsberger Allee ***sowie*** Blankenburg \<\> Birkenwerder
+* **S85**: fährt nicht
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Gesundbrunnen und Alexanderplatz die U-Bahnlinie U8 ***sowie*** zwischen Alexanderplatz und Schönhauser Allee die U-Bahnlinie U2
+* zwischen Gesundbrunnen und Bornholmer Straße die Linien S1, S2 und S25
+* zwischen Gesundbrunnen und Pankow die Linie S2
+* zwischen Schönhauser Allee und Pankow die U-Bahnlinie U2
+
+**Beachten Sie bitte:** die Züge des Fern- und Regionalverkehrs sind ebenfalls von der Sperrung betroffen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 Hinweis
 
