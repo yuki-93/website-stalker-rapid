@@ -2,7 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-#####  Derzeit keine Meldungen  #####
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### technischer Defekt am Bahnübergang Biesdorf ###
+
+ Letztes Update: 23:04 / 03.06.2023
+
+Information
+
+Wegen einem technischen Defekt am Bahnübergang Biesdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+
+Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Olympiastadion und Ostbahnhof angeboten werden.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 Hinweis
 
