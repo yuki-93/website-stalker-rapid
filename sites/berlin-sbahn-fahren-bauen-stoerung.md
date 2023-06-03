@@ -6,33 +6,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz zwischen Schönhauser Allee und Bornholmer Straße bzw. Gesundbrunnen ###
+### Polizeieinsatz zwischen Schönhauser Allee und Gesundbrunnen bzw. Bornholmer Straße beendet ###
 
- Letztes Update: 08:50 / 03.06.2023
+ Letztes Update: 09:57 / 03.06.2023
 
 Information
 
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S41 und S42 zwischen Schönhauser Allee und Gesundbrunnen **sowie** der Linien S8 und S85 zwischen Schönhauser Allee und Bornholmer Straße unterbrochen.
+Nach einem Polizeieinsatz zwischen Schönhauser Allee und Gesundbrunnen bzw**.** Bornholmer Straße kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und einzelnen Ausfällen.
 
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S41**: Schönhauser Allee \> Ostkreuz \> Südkreuz \> Westkreuz \> Gesundbrunnen
-* **S42**: Gesundbrunnen \> Westkreuz \> Südkreuz \> Ostkreuz \> Schönhauser Allee
-* **S8**: Grünau \<\> Landsberger Allee ***sowie*** Blankenburg \<\> Birkenwerder
-* **S85**: fährt nicht
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Gesundbrunnen und Alexanderplatz die U-Bahnlinie U8 ***sowie*** zwischen Alexanderplatz und Schönhauser Allee die U-Bahnlinie U2
-* zwischen Gesundbrunnen und Bornholmer Straße die Linien S1, S2 und S25
-* zwischen Gesundbrunnen und Pankow die Linie S2
-* zwischen Schönhauser Allee und Pankow die U-Bahnlinie U2
-
-**Beachten Sie bitte:** die Züge des Fern- und Regionalverkehrs sind ebenfalls von der Sperrung betroffen.
+* Die Linie S85 fährt nicht.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz in Wollankstraße beendet ###
+
+ Letztes Update: 09:34 / 03.06.2023
+
+Information
+
+Nach einem Polizeieinsatz in Wollankstraße kommt es auf den Linien S1 und S25 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 Hinweis
 
