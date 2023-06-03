@@ -903,6 +903,27 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kabelarbeiten-am-unterwerk-in-priesterweg/#con-27343)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Schöneweide – Südkreuz ###
+
+Nacht 03./04.07. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27355&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20464&tx_sbbconstructions_list%5Bperiod%5D=17031&type=5679&cHash=24a52c5c902c3eadb79d165207422fbe)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung
+* Fahrplanänderung
+* Bahnsteigänderung in Schöneweide
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenschleifarbeiten-9/#con-27355)
+
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
@@ -964,6 +985,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-und-arbeiten-am-hallendach-in-zoologischer-garten/#con-27271)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Schöneweide – Südkreuz ###
+
+Nacht 09./10.07. (So/Mo) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27356&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20465&tx_sbbconstructions_list%5Bperiod%5D=17032&type=5679&cHash=95d11fee691d2dbf0c5880fdaf356807)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Fahrplanänderung
+* Bahnsteigänderung in Schöneweide und Treptower Park
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenschleifarbeiten-10/#con-27356)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
