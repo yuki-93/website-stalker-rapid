@@ -4,37 +4,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Notarzteinsatz auf der Strecke in Grünau ###
+### Polizeieinsatz Friedrichstraße \<\> Hauptbahnhof ###
 
- Letztes Update: 19:06 / 04.06.2023
+ Letztes Update: 20:55 / 04.06.2023
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Grünau ist der Zugverkehr der Linien S46 und S8 zwischen Adlershof \<\> Zeuthen unterbrochen.
-
-\* Linie S46 verkehrt Tempelhof \<\> Baumschulenweg sowie Zeuthen \<\> Königs Wusterhausen
-
-\* Linie S8 verkehrt Birkenwerder \<\> Flughafen BER Terminal 5
-
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+Wegen eines Polizeieinsatzes zwischen Friedrichstraße \<\> Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einer Weiche in Schönhauser Allee beendet ###
 
- Letztes Update: 18:13 / 04.06.2023
+ Letztes Update: 20:24 / 04.06.2023
 
 Information
 
-Nach der Reparatur an einer Weiche in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur an einer Weiche in Schönhauser Allee kann es auf den Linien S41, S42 und S8 noch zu Verspätungen und Ausfällen kommen.
 
-* die Linien **S41 und S42** fahren im 10-Minuten-Takt
 * Linie **S85** fährt nicht
 
 Wir bitten um Entschuldigung.
