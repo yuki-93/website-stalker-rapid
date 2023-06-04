@@ -25,6 +25,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-blindenleit-und-wegeleitsystem-abbrucharbeiten-kreuzungsbauwerk/#con-27184)
 
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### gesamter Ring und Treptower Park \<\> Birkenwerder ###
+
+Nächte 05./06.06. (Mo/Di) bis 08./09.06. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27209&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20325&tx_sbbconstructions_list%5Bperiod%5D=16938&type=5679&cHash=15fc2546ce2a806590ae1fb53d33dda5)
+
+ Zugverkehr verändert
+
+Information
+
+* kein S-Bahnverkehr: Schönhauser Allee \<\> Bornholmer Straße
+  * Bitte Umfahrung über Gesundbrunnen mit Umstieg und Bahnsteigwechsel oder zwischen Schönhauser Allee \<\> Pankow die U2 nutzen.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/montage-der-bedruckten-paneele-nach-bauwerkspruefung/#con-27209)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -80,27 +103,6 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Karlshorst/Mahlsdorf \<\> Spandau/Grunewald ###
-
-04.06. (So), ca. 2 Uhr durchgehend bis 06.06. (Di), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27184&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20300&tx_sbbconstructions_list%5Bperiod%5D=16932&type=5679&cHash=90d63727b1cf6ee1cf8a5766102ef08a)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S7 und S9
-* Taktänderung: Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt S9
-* Taktänderung: Westkreuz \<\> Grunewald S-Bahnverkehr nur im 20-Minutentakt S7
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-blindenleit-und-wegeleitsystem-abbrucharbeiten-kreuzungsbauwerk/#con-27184)
 
 [S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -801,6 +803,101 @@ Information
 
 * Der Zug Waßmannsdorf ab 1:33 Uhr nach Ostbahnhof (an 2:08 Uhr) fährt in Waßmannsdorf von Gleis 1 (Bahnsteig stadtauswärts).
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Geänderte Linienführung Baumschulenweg \> Neukölln \> Treptower Park ###
+
+20.06. (Di) 1:58 Uhr bis 2:20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26643&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19731&tx_sbbconstructions_list%5Bperiod%5D=17003&type=5679&cHash=03093f2ad683848be3957c9572eb59eb)
+
+ Zugverkehr verändert
+
+Information
+
+* Der Zug Flughafen BER - Terminal 1-2 ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) wird von Baumschulenweg bis Treptower Park über Neukölln, Hermannstraße (mit Fahrtrichtungswechsel) umgeleitet.
+* Der Halt in Plänterwald entfällt.
+* Der Zug fährt von Treptower Park bis Ostbahnhof 12 Minuten später.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Gleisänderung in Westkreuz \> Flughafen BER – Terminal 1-2 ###
+
+20.06. (Di) 3:12 Uhr - 3:32 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20912&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15587&tx_sbbconstructions_list%5Bperiod%5D=17006&type=5679&cHash=dbfcea5fe201fc4379cb53333282e997)
+
+ Zugverkehr verändert
+
+Information
+
+* Die Züge
+  * Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2, an 4:16 Uhr und
+  * Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2, an 4.36 Uhr
+  * verkehren in Westkreuz von Gleise 2 (Bahnsteig stadtauswärts)
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Geänderte Linienführung Treptower Park \> Neukölln \> Baumschulenweg ###
+
+20.06. (Di) 3:19 Uhr bis 3:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21923&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=16211&tx_sbbconstructions_list%5Bperiod%5D=17004&type=5679&cHash=bbf7fcf3845f6c07e2e41cbe278c7672)
+
+ Takt geändert
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) wird über Neukölln (mit Fahrtrichtungswechsel) umgeleitet.
+* Der Halt in Pläterwald entfällt.
+* Durch die Umleitung entsteht ab Baumschulenweg bis Flughafen BER – Terminal 1-2 eine Fahrtzeitverlängerung von bis zu 10 Minuten.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Treptower Park bis Flughafen BER – Terminal 1-2 ###
+
+20.06. (Di) 3:34 Uhr bis 4:10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20431&tx_sbbconstructions_list%5Bperiod%5D=17005&type=5679&cHash=8d8f86aa7047c23ad35b863f589910ff)
+
+ Takt geändert
+
+Information
+
+* Der Zug Charlottenburg ab 3:02 Uhr bis Flughafen BER – Terminal 1-2 (an 4:00 Uhr) fährt von Treptower Park bis Flughafen BER – Terminal 1-2 6 Minuten später.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Grunewald ###
+
+Nacht 20./21.06. (Di/Mi) 23 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15592&tx_sbbconstructions_list%5Bperiod%5D=13236&type=5679&cHash=b7e1ec5db05f2c725eff7e4f547cd9bf)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung in Grunewald \> Westkreuz
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/treptower-park-schoeneweide-s9021/#con-20917)
 
 Hinweis
 
@@ -1580,101 +1677,6 @@ Information
 * Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:48 Uhr in Friedrichstraße.
 * Der Zug fällt von Westkreuz bis Friedrichstraße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Geänderte Linienführung Baumschulenweg \> Neukölln \> Treptower Park ###
-
-20.06. (Di) 1:58 Uhr bis 2:20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26643&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19731&tx_sbbconstructions_list%5Bperiod%5D=17003&type=5679&cHash=03093f2ad683848be3957c9572eb59eb)
-
- Zugverkehr verändert
-
-Information
-
-* Der Zug Flughafen BER - Terminal 1-2 ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) wird von Baumschulenweg bis Treptower Park über Neukölln, Hermannstraße (mit Fahrtrichtungswechsel) umgeleitet.
-* Der Halt in Plänterwald entfällt.
-* Der Zug fährt von Treptower Park bis Ostbahnhof 12 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Gleisänderung in Westkreuz \> Flughafen BER – Terminal 1-2 ###
-
-20.06. (Di) 3:12 Uhr - 3:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20912&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15587&tx_sbbconstructions_list%5Bperiod%5D=17006&type=5679&cHash=dbfcea5fe201fc4379cb53333282e997)
-
- Zugverkehr verändert
-
-Information
-
-* Die Züge
-  * Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2, an 4:16 Uhr und
-  * Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2, an 4.36 Uhr
-  * verkehren in Westkreuz von Gleise 2 (Bahnsteig stadtauswärts)
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Geänderte Linienführung Treptower Park \> Neukölln \> Baumschulenweg ###
-
-20.06. (Di) 3:19 Uhr bis 3:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21923&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=16211&tx_sbbconstructions_list%5Bperiod%5D=17004&type=5679&cHash=bbf7fcf3845f6c07e2e41cbe278c7672)
-
- Takt geändert
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) wird über Neukölln (mit Fahrtrichtungswechsel) umgeleitet.
-* Der Halt in Pläterwald entfällt.
-* Durch die Umleitung entsteht ab Baumschulenweg bis Flughafen BER – Terminal 1-2 eine Fahrtzeitverlängerung von bis zu 10 Minuten.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Treptower Park bis Flughafen BER – Terminal 1-2 ###
-
-20.06. (Di) 3:34 Uhr bis 4:10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20431&tx_sbbconstructions_list%5Bperiod%5D=17005&type=5679&cHash=8d8f86aa7047c23ad35b863f589910ff)
-
- Takt geändert
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr bis Flughafen BER – Terminal 1-2 (an 4:00 Uhr) fährt von Treptower Park bis Flughafen BER – Terminal 1-2 6 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Grunewald ###
-
-Nacht 20./21.06. (Di/Mi) 23 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15592&tx_sbbconstructions_list%5Bperiod%5D=13236&type=5679&cHash=b7e1ec5db05f2c725eff7e4f547cd9bf)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung in Grunewald \> Westkreuz
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/treptower-park-schoeneweide-s9021/#con-20917)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
