@@ -4,6 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Notarzteinsatz auf der Strecke in Grünau ###
+
+ Letztes Update: 19:06 / 04.06.2023
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Grünau ist der Zugverkehr der Linien S46 und S8 zwischen Adlershof \<\> Zeuthen unterbrochen.
+
+\* Linie S46 verkehrt Tempelhof \<\> Baumschulenweg sowie Zeuthen \<\> Königs Wusterhausen
+
+\* Linie S8 verkehrt Birkenwerder \<\> Flughafen BER Terminal 5
+
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einer Weiche in Schönhauser Allee beendet ###
