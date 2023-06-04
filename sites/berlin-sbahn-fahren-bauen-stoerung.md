@@ -4,19 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an der Weiche in Charlottenburg ###
+### Reparatur an einem Signal in Wedding ###
 
- Letztes Update: 08:08 / 04.06.2023
+ Letztes Update: 09:00 / 04.06.2023
 
 Information
 
-Wegen einer Reparatur an der Weiche in Charlottenburg verkehrt die Linie S3 nur zwischen Erkner und Warschauer Straße.
-
-Bitte nutzen Sie zwischen Warschauer Straße und Charlottenburg die Linien S5, S7 und S9.
+Wegen einer Reparatur an einem Signal in Wedding kommt es auf der Linie S42 zu Verspätungen.
 
 Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Weiche in Charlottenburg beendet ###
+
+ Letztes Update: 08:50 / 04.06.2023
+
+Information
+
+Die Reparatur an der Weiche in Charlottenburg ist beendet. Die Linie S3 verkehrt wieder nach heute gültigem Fahrplan.
+
+Gute Fahrt!
 
  Zugverkehr verändert  sonstige Einschränkungen
 
