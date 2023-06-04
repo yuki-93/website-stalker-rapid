@@ -2,6 +2,38 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### defektes Stellwerk in Schönfließ ###
+
+ Letztes Update: 15:15 / 04.06.2023
+
+Information
+
+Wegen einem defekten Stellwerk in Schönfließ kommt es auf der Linie S8 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* die Züge von Birkenwerder nach Grünau werden ab Hohen Neuendorf über Frohnau, Schönholz und Bornholmer Straße (wie Linie S1 in Richtung Wannsee) umgeleitet.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### technischer Defekt an einem Bahnübergang in Neuenhagen ###
+
+ Letztes Update: 15:01 / 04.06.2023
+
+Information
+
+Wegen einem technischen Defekt an einem Bahnübergang in Neuenhagen kommt es auf der Linie S5 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
