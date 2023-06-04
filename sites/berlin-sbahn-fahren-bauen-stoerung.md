@@ -6,16 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einer Weiche in Schönhauser Allee ###
+### Reparatur an einer Weiche in Schönhauser Allee beendet ###
 
- Letztes Update: 16:43 / 04.06.2023
+ Letztes Update: 18:13 / 04.06.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur an einer Weiche in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* die Linien **S41 und S42** fahren zwischen Gesundbrunnen und Schönhauser Allee im 20-Minuten-Takt, die zusätzlichen Züge fahren nicht,
-* Linie **S8** fährt Grünau \<\> Landsberger Allee **sowie** Blankenburg \<\> Birkenwerder,
+* die Linien **S41 und S42** fahren im 10-Minuten-Takt
 * Linie **S85** fährt nicht
 
 Wir bitten um Entschuldigung.
