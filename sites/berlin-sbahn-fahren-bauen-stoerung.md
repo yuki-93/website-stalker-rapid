@@ -2,52 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz Friedrichstraße \<\> Hauptbahnhof ###
-
- Letztes Update: 20:55 / 04.06.2023
-
-Information
-
-Wegen eines Polizeieinsatzes zwischen Friedrichstraße \<\> Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einer Weiche in Schönhauser Allee beendet ###
-
- Letztes Update: 20:24 / 04.06.2023
-
-Information
-
-Nach der Reparatur an einer Weiche in Schönhauser Allee kann es auf den Linien S41, S42 und S8 noch zu Verspätungen und Ausfällen kommen.
-
-* Linie **S85** fährt nicht
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### defektes Stellwerk in Schönfließ ###
-
- Letztes Update: 15:36 / 04.06.2023
-
-Information
-
-Wegen einem defekten Stellwerk in Schönfließ kommt es auf der Linie S8 zu Verspätungen und eventuellen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
