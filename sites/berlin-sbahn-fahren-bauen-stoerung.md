@@ -4,21 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur am Zug in Wuhlheide ###
+
+ Letztes Update: 16:12 / 04.06.2023
+
+Information
+
+Wegen einer Reparatur am Zug in Wuhlheide kommt es auf der Linie S3 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### defektes Stellwerk in Schönfließ ###
 
- Letztes Update: 15:15 / 04.06.2023
+ Letztes Update: 15:36 / 04.06.2023
 
 Information
 
-Wegen einem defekten Stellwerk in Schönfließ kommt es auf der Linie S8 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* die Züge von Birkenwerder nach Grünau werden ab Hohen Neuendorf über Frohnau, Schönholz und Bornholmer Straße (wie Linie S1 in Richtung Wannsee) umgeleitet.
+Wegen einem defekten Stellwerk in Schönfließ kommt es auf der Linie S8 zu Verspätungen und eventuellen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung verspätet
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
