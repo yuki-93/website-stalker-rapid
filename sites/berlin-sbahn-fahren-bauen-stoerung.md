@@ -4,19 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur am Zug in Wuhlheide ###
+### Reparatur an einer Weiche in Schönhauser Allee ###
 
- Letztes Update: 16:12 / 04.06.2023
+ Letztes Update: 16:43 / 04.06.2023
 
 Information
 
-Wegen einer Reparatur am Zug in Wuhlheide kommt es auf der Linie S3 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einer Weiche in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* die Linien **S41 und S42** fahren zwischen Gesundbrunnen und Schönhauser Allee im 20-Minuten-Takt, die zusätzlichen Züge fahren nicht,
+* Linie **S8** fährt Grünau \<\> Landsberger Allee **sowie** Blankenburg \<\> Birkenwerder,
+* Linie **S85** fährt nicht
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
@@ -27,20 +31,6 @@ Wir bitten um Entschuldigung.
 Information
 
 Wegen einem defekten Stellwerk in Schönfließ kommt es auf der Linie S8 zu Verspätungen und eventuellen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technischer Defekt an einem Bahnübergang in Neuenhagen ###
-
- Letztes Update: 15:01 / 04.06.2023
-
-Information
-
-Wegen einem technischen Defekt an einem Bahnübergang in Neuenhagen kommt es auf der Linie S5 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
