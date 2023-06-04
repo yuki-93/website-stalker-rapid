@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Weiche in Charlottenburg ###
+
+ Letztes Update: 08:08 / 04.06.2023
+
+Information
+
+Wegen einer Reparatur an der Weiche in Charlottenburg verkehrt die Linie S3 nur zwischen Erkner und Warschauer Straße.
+
+Bitte nutzen Sie zwischen Warschauer Straße und Charlottenburg die Linien S5, S7 und S9.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -1369,6 +1387,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnhof-hegermuehle/#con-27239)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Waßmannsdorf \<\> Airport FBB Terminal 1-2 ###
+
+Nacht 18.07./19.07. (Di/Mi) und 19/20.07. (Mi/Do) ca. 20:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27363&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20472&tx_sbbconstructions_list%5Bperiod%5D=17053&type=5679&cHash=6b27cfe398d4753523e6416d9da4cd79)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-stuetze-alte-signalbruecke/#con-27363)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
