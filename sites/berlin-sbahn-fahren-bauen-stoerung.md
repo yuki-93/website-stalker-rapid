@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur am Signal im Bereich Grünau ###
+
+ Letztes Update: 15:55 / 05.06.2023
+
+Information
+
+Wegen der Reparatur am Signal im Bereich Grünau kommt es auf den Linien S46 und S8 zu Verspätungen.
+
+* Die Linie S85 verkehrt nicht, *bitte nutzen Sie zwischen Grünau und Pankow die Linie S8*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur am Zug in Teltow Stadt ###
@@ -15,20 +31,6 @@ Information
 Wegen einer Reparatur am Zug in Teltow Stadt verkehrt die Linie S26 nur zwischen Waidmannslust und Lichterfelde Süd.
 
 Bitte nutzen Sie zwischen Lichterfelde Süd und Teltow Stadt die Linie S25.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Schöneweide beendet ###
-
- Letztes Update: 15:17 / 05.06.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Schöneweide kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
