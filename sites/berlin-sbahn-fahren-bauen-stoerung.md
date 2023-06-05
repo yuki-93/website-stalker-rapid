@@ -6,13 +6,43 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an einer Weiche in Grunewald ###
+### Reparatur an einer Weiche in Grunewald beendet ###
 
- Letztes Update: 13:12 / 05.06.2023
+ Letztes Update: 14:30 / 05.06.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Grunewald kann der 10-Minuten-Takt der Linie S7 im westlichen Abschnitt nur zwischen Potsdam Hbf und Wannsee angeboten werden.
+Die Reparatur an einer Weiche in Grunewald ist beendet.
+
+Der 10-Minuten-Takt der Linie S7 verkehrt wieder planmäßig zwischen Wannsee und Grunewald *sowie* Ostbahnhof und Ahrensfelde.
+
+Gute Fahrt!
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Schöneweide beendet ###
+
+ Letztes Update: 13:58 / 05.06.2023
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Pankow beendet ###
+
+ Letztes Update: 13:49 / 05.06.2023
+
+Information
+
+Nach einem Polizeieinsatz im Zug in Pankow kommt es auf den Linien S2, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
