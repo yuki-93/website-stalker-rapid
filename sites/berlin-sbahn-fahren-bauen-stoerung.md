@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einem Zug ###
+
+ Letztes Update: 12:12 / 05.06.2023
+
+Information
+
+Wegen einer Reparatur an einem Zug in Teltow Stadt kommt es auf der Linie S25 zu Ausfällen.
+
+* Linie S25 verkehrt Lichterfelde Süd \<\> Hennigsdorf.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Weichenstörung Grunewald ###
@@ -423,7 +439,9 @@ Information
      Bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen, im Abschnitt Ostkreuz \<\> Spandau fährt die S3 im 10-Minutentakt
 
 * **alternative Reisemöglichkeiten:**
-  * mit der RB24 und der RB32 Flughafen BER – Terminal 5 \<\> Schöneweide \<\> Ostkreuz \<\> Lichtenberg
+  * mit FEX und RE8 Flughafen BER – Terminal 1-2 \<\> Ostkreuz \<\> Berlin Hbf
+  * mit FEX, RB24 und RB32 Schöneweide \<\> Ostkreuz
+  * mit RB24 und RB32 (Flughafen BER – Terminal 5 \<\>) Schöneweide \<\> Ostkreuz \<\> Lichtenberg
 
 * Ersatzverkehr mit Bussen:
   * Bus S46: Grünau \<\> Baumschulenweg
