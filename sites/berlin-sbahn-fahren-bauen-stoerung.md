@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur am Zug in Teltow Stadt ###
-
- Letztes Update: 15:22 / 05.06.2023
-
-Information
-
-Wegen einer Reparatur am Zug in Teltow Stadt verkehrt die Linie S26 nur zwischen Waidmannslust und Lichterfelde Süd.
-
-Bitte nutzen Sie zwischen Lichterfelde Süd und Teltow Stadt die Linie S25.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
