@@ -4,36 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Signal im Bereich Grünau beendet ###
-
- Letztes Update: 18:06 / 05.06.2023
-
-Information
-
-Nach der Reparatur am Signal im Bereich Grünau verkehrt die Linie S85 nicht
-
-* Bitte nutzen Sie zwischen Grünau und Pankow die Linie S8.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur am Zug im Bereich Alt-Reinickendorf beendet ###
-
- Letztes Update: 17:59 / 05.06.2023
-
-Information
-
-Nach einer Reparatur am Zug im Bereich Alt-Reinickendorf kommt es auf der Linie S25 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur am Zug in Westhafen beendet ###
