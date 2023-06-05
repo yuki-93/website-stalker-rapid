@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Weichenstörung Grunewald ###
+
+ Letztes Update: 11:05 / 05.06.2023
+
+Information
+
+Wegen einer Weichenstörung in Grunewald kommt es auf der Linie S7 zu Ausfällen.
+
+* Linie S7 verkehrt zwischen Station Wannsee und Station Grunewald nur alle 20 Minuten (statt 10-Minuten-Takt).
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
