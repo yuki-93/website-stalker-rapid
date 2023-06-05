@@ -4,61 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an einer Weiche in Grunewald beendet ###
+### Reparatur am Zug in Teltow Stadt ###
 
- Letztes Update: 14:30 / 05.06.2023
+ Letztes Update: 15:22 / 05.06.2023
 
 Information
 
-Die Reparatur an einer Weiche in Grunewald ist beendet.
+Wegen einer Reparatur am Zug in Teltow Stadt verkehrt die Linie S26 nur zwischen Waidmannslust und Lichterfelde Süd.
 
-Der 10-Minuten-Takt der Linie S7 verkehrt wieder planmäßig zwischen Wannsee und Grunewald *sowie* Ostbahnhof und Ahrensfelde.
+Bitte nutzen Sie zwischen Lichterfelde Süd und Teltow Stadt die Linie S25.
 
-Gute Fahrt!
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### ärztliche Versorgung eines Fahrgastes in Schöneweide beendet ###
 
- Letztes Update: 13:58 / 05.06.2023
+ Letztes Update: 15:17 / 05.06.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Pankow beendet ###
-
- Letztes Update: 13:49 / 05.06.2023
-
-Information
-
-Nach einem Polizeieinsatz im Zug in Pankow kommt es auf den Linien S2, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Zug in Teltow Stadt ###
-
- Letztes Update: 13:03 / 05.06.2023
-
-Information
-
-Wegen der Reparatur an einem Zug in Teltow Stadt verkehrt die Linie S25 nur zwischen Hennigsdorf und Lichterfelde Süd.
-
-Bitte nutzen Sie zwischen Lichterfelde Süd und Teltow Stadt die Linie S26.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Schöneweide kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
@@ -1579,6 +1549,23 @@ Nur Wochenende
 11.08.23 (Fr), ca 21:45 Uhr - 14.08.23 (Mo), ca. 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27381&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20490&tx_sbbconstructions_list%5Bperiod%5D=17061&type=5679&cHash=19b2385dcbd2213a127577dffdf899a7)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### S Potsdam Hbf \<\> S Wannsee ###
+
+13.08.23 (So), 1.00 Uhr - 14.08.23 (Mo), 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27384&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20493&tx_sbbconstructions_list%5Bperiod%5D=17062&type=5679&cHash=bfee9fb9d025c3fcf1fa95821fbb85c5)
 
  Ersatzverkehr
 
