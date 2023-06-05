@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur am Zug in Westhafen beendet ###
-
- Letztes Update: 17:16 / 05.06.2023
-
-Information
-
-Nach der Reparatur am Zug in Westhafen kommt es auf der Linie S42 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur am Zug in Teltow Stadt ###
