@@ -4,18 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S47](https://sbahn.berlin/fahren/s47/)
+[S41](https://sbahn.berlin/fahren/s41/)
 
 ### Reparatur an einem Signal in Südkreuz ###
 
- Letztes Update: 17:17 / 06.06.2023
+ Letztes Update: 18:01 / 06.06.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Südkreuz kommt es auf den Linien S41 und S47 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Südkreuz kommt es auf der Linie S41 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* die Linie **S41** fährt nur im 10-Minuten-Takt
-* die Linie **S47** fährt nur zwischen Spindlersfeld und Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Tempelhof die Linien S45 und S46*
+* die Linie **S41** fährt nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
