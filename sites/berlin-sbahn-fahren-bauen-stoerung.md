@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einem Signal in Wedding und in Tempelhof ###
+
+ Letztes Update: 05:18 / 06.06.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Wedding sowie in Tempelhof kommt es auf den Linien S41, S42 und 47 zu Ausfällen und Verspätungen.
+
+* Die Linie S41 verkehrt nur im 10-Minutentakt.
+* Die Linie S42 verkehrt nur im 10-Minutentakt.
+* Die Linie S47 verkehrt Spindlersfeld \<\> Schöneweide.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Gegenstände auf der Strecke in Buch ###
@@ -13,22 +31,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 Wegen Gegenstände auf der Strecke in Buch kommt es auf der Linie S2 zu Ausfällen und Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einem Signal in Wedding ###
-
- Letztes Update: 04:30 / 06.06.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Wedding kommt es auf der Linie S 42 zu Ausfällen und Verspätungen.
-
-Die Linie S 42 verkehrt nur im 10-Minutentakt.
 
 Wir bitten um Entschuldigung.
 
