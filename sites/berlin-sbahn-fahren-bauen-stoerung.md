@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an einem Signal in Wedding und in Tempelhof ###
+### Reparatur an einem Signal in Wedding ###
 
- Letztes Update: 06:30 / 06.06.2023
+ Letztes Update: 07:55 / 06.06.2023
 
 Information
 
