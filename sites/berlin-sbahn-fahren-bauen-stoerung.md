@@ -4,31 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz Lichtenberg beendet ###
+
+ Letztes Update: 20:21 / 06.06.2023
+
+Information
+
+Nach einem Polizeieinsatz in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)
 
 ### Reparatur an einem Signal in Südkreuz ###
 
- Letztes Update: 18:01 / 06.06.2023
+ Letztes Update: 19:29 / 06.06.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Südkreuz kommt es auf der Linie S41 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* die Linie **S41** fährt nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an Zügen in Greifswalder Straße und Gesundbrunnen beendet ###
-
- Letztes Update: 16:24 / 06.06.2023
-
-Information
-
-Nach der Reparatur an Zügen in Greifswalder Straße und Gesundbrunnen kommt es auf der Linie S42 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Südkreuz verkehrt die Linie S41 nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
