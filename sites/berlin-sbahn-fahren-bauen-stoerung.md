@@ -1646,6 +1646,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-stuetze-alte-signalbruecke/#con-27363)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+Nur Wochenende
+
+### Treptower Park \<\> Tempelhof ###
+
+21.07. (Fr), ca. 21.45 Uhr bis 24.07. (Mo), ca. 01.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27391&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20500&tx_sbbconstructions_list%5Bperiod%5D=17063&type=5679&cHash=0801188e3e788452b62857e876d80172)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-48610c5382/#con-27391)
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Strausberg Stadt \<\> Hegermühle \<\> Strausberg ###
