@@ -2,6 +2,38 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Gegenstände auf der Strecke in Buch ###
+
+ Letztes Update: 04:40 / 06.06.2023
+
+Information
+
+Wegen Gegenstände auf der Strecke in Buch kommt es auf der Linie S2 zu Ausfällen und Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an einem Signal in Wedding ###
+
+ Letztes Update: 04:30 / 06.06.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Wedding kommt es auf der Linie S 42 zu Ausfällen und Verspätungen.
+
+Die Linie S 42 verkehrt nur im 10-Minutentakt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
