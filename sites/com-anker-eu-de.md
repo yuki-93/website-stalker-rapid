@@ -16,7 +16,7 @@ Search
 
 Versandkostenfrei bis zur Bordsteinkante
 
-Bis zu 150€ Rabatt
+Bis zu 200€ Rabatt
 
 Mit der Kraft der Sonne.
 
@@ -43,24 +43,24 @@ Das Anker-Erlebnis entdecken
 
   [Entdecke EverFrostAnker EverFrost Akku-Kühlbox](https://anker.com/eu-de/everfrost-akku-kuehlbox?ref=productBanner2_2)
 
+* ### SOLIX RS40P | RS40 Balkonkraftwerk ###
+
+  Bis zu 200€ Rabatt
+  Mit der Kraft der Sonne.
+
+  [Mehr erfahrenSOLIX RS40P | RS40 Balkonkraftwerk](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk_erster_eindruck?ref=productBanner2_3)
+
 * ### Die Extraportion Power mit Ankers meistgekauften Ladegeräten  ###
 
   Entdecke die besten Ladelösungen für den Alltag und deine Arbeit
 
-  [Mehr erfahren Die Extraportion Power mit Ankers meistgekauften Ladegeräten](https://www.anker.com/eu-de/bestseller?ref=productBanner2_3)
+  [Mehr erfahren Die Extraportion Power mit Ankers meistgekauften Ladegeräten](https://www.anker.com/eu-de/bestseller?ref=productBanner2_4)
 
 * ### Anker Ace Ladegerät ###
 
   Das Lade-Ass für dein Galaxy
 
-  [Mehr erfahren Anker Ace Ladegerät](https://www.anker.com/eu-de/ace-charger?ref=productBanner2_4)
-
-* ### SOLIX RS40P | RS40 Balkonkraftwerk ###
-
-  Bis zu 150€ Rabatt
-  Mit der Kraft der Sonne.
-
-  [Mehr erfahrenSOLIX RS40P | RS40 Balkonkraftwerk](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk_erster_eindruck?ref=productBanner2_5)
+  [Mehr erfahren Anker Ace Ladegerät](https://www.anker.com/eu-de/ace-charger?ref=productBanner2_5)
 
 * ### Anker Nano 3 ###
 
