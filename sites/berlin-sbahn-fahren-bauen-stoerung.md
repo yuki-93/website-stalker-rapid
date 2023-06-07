@@ -1360,9 +1360,9 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27232)
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Frohnau \<\> Oranienburg ###
+### Frohnau/Blankenburg – Birkenwerder – Oranienburg ###
 
 12.07. (Mi), ca. 22 Uhr durchgehend bis 14.08. (Mo), ca. 1.30 Uhr
 
@@ -1372,9 +1372,8 @@ Information
 
 Information
 
-* Ersatzverkehr mit Bussen:
-  * Bus S1: Frohnau \<\> Oranienburg
-
+* Ersatzverkehr mit Bussen
+* Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27237)
