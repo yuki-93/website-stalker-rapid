@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Reparatur am Zug in Sundgauer Straße ###
+### ärztliche Versorgung eines Fahrgastes in einem Zug in Hermannstraße beendet ###
 
- Letztes Update: 13:51 / 07.06.2023
+ Letztes Update: 16:06 / 07.06.2023
 
 Information
 
-Wegen einer Reparatur am Zug in Sundgauer Straße kommt es auf der Linie S1 zu Verspätungen und vereinzelten Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und vereinzelten Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
 
