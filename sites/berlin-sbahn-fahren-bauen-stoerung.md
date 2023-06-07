@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in einem Zug in Hermannstraße beendet ###
+### ärztliche Versorgung eines Fahrgastes in einem Zug in Hermannstraße und Polizeieinsatz in Treptower Park beendet ###
 
- Letztes Update: 16:59 / 07.06.2023
+ Letztes Update: 19:01 / 07.06.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Hermannstraße kommt es auf den Linien S41 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Hermannstraße und einem Polizeieinsatz in Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
