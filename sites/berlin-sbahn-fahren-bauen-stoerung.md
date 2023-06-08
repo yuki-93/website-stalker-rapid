@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### ärztliche Versorgung eines Fahrgastes im Zug in Schönhauser Allee beendet, technische Untersuchung am Zug in Tempelhof beendet ###
-
- Letztes Update: 21:24 / 08.06.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Schönhauser Allee und einer technischen Untersuchung am Zug in Tempelhof kommt es auf den Linien S41 und S42 noch zu Verspätungen und folgenden Einschränkungen:
-
-Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
