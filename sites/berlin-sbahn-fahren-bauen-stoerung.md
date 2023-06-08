@@ -4,15 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### ärztliche Versorgung eines Fahrgastes im Zug in Schönhauser Allee beendet ###
+### ärztliche Versorgung eines Fahrgastes im Zug in Schönhauser Allee beendet, technische Untersuchung am Zug in Tempelhof, Reparatur an einer Weiche in Pankow ###
 
- Letztes Update: 14:53 / 08.06.2023
+ Letztes Update: 16:15 / 08.06.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Schönhauser Allee und wegen einer technischen Untersuchung am Zug in Tempelhof und der Reparatur an einer Weiche in Pankow kommt es auf den Linien S41, S42, S45, S46, S47 und S8 Verspätungen und Ausfällen.
+
+Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
+
+Die Linie S85 verkehrt nicht.
 
 Wir bitten um Ihr Verständnis.
 
