@@ -1546,6 +1546,27 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-48610c5382/#con-27391)
 
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Baumschulenweg/Neukölln – Treptower Park – Warschauer Straße ###
+
+28.07. (Fr), ca. 22 Uhr bis 04.08. (Fr), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27398&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20507&tx_sbbconstructions_list%5Bperiod%5D=17064&type=5679&cHash=2ef308dcedc9def87358094cf927025a)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr
+  * Baumschulenweg - Treptower Park
+
+* Fahrplanänderung
+* Bahnsteigänderung in Baumschulenweg und Treptower Park
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Strausberg Stadt \<\> Hegermühle \<\> Strausberg ###
