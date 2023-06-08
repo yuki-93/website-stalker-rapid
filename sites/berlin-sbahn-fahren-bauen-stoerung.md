@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### ärztliche Versorgung eines Fahrgastes im Zug in Schönhauser Allee beendet ###
+
+ Letztes Update: 14:53 / 08.06.2023
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
