@@ -8,31 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung eines Fahrgastes im Zug in Schönhauser Allee beendet, technische Untersuchung am Zug in Tempelhof beendet ###
 
- Letztes Update: 20:18 / 08.06.2023
+ Letztes Update: 21:24 / 08.06.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Schönhauser Allee und einer technischen Untersuchung am Zug in Tempelhof kommt es auf den Linien S41 und S42 noch zu Verspätungen und folgenden Einschränkungen.
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Schönhauser Allee und einer technischen Untersuchung am Zug in Tempelhof kommt es auf den Linien S41 und S42 noch zu Verspätungen und folgenden Einschränkungen:
 
 Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
  Takt geändert
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur einer Weiche in Pankow ###
-
- Letztes Update: 18:37 / 08.06.2023
-
-Information
-
-Wegen der Reparatur an einer Weiche in Pankow verkehrt die Linie S85 nicht.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht
 
 ### Baumaßnahmen ###
 
