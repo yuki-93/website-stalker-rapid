@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz beendet (Personen auf der Strecke im Bereich Biesdorfer Kreuz) ###
+
+ Letztes Update: 06:07 / 08.06.2023
+
+Information
+
+Der Polizeieinsatz ist beendet (Personen auf der Strecke im Bereich Biesdorfer Kreuz). Es kann es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen kommen.
+
+Linie S5 verkehrt zwischen Station Mahlsdorf und Station Ostbahnhof nur alle 10 Minuten.
+
+Wir bitten um Entschuldigung
+
+ Takt geändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
