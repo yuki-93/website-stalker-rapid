@@ -28,20 +28,6 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Streckensperrung im Bereich Jungfernheide aufgehoben ###
-
- Letztes Update: 22:02 / 09.06.2023
-
-Information
-
-Nach einer Streckensperrung im Bereich Jungfernheide kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
@@ -141,154 +127,6 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-Nur Wochenende
-
-### Teltow Stadt / Schichauweg \<\> Yorckstraße ###
-
-09.06. (Fr), ca. 22 Uhr durchgehend bis 12.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27152&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20262&tx_sbbconstructions_list%5Bperiod%5D=16910&type=5679&cHash=c6be5bed58f40153cf378852d3dfc385)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen: Attilastraße \<\> Priesterweg
-* Zugverkehr verändert:
-  * Zwischen Priesterweg \<\> Südkreuz fährt die S25 nicht.
-     Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Priesterweg in die S2 um, die Weiterfahrt erfolgt nach 4 bis 5 Minuten vom selben Bahnsteig gegenüber.
-
-* Taktänderung: Lichtenrade \<\> Attilastraße und Priesterweg \<\> Südkreuz S-Bahnverkehr nur im 20-Minutentakt mit S2
-* Taktänderung: Lichterfelde Ost \<\> Priesterweg S-Bahnverkehr nur im 20-Minutentakt mit S25
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-12/#con-27152)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Ostbahnhof \<\> Spandau/Grunewald ###
-
-09.06. (Fr), ca. 22 Uhr durchgehend bis 12.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20302&tx_sbbconstructions_list%5Bperiod%5D=16933&type=5679&cHash=7417ca007e7455face102121a6c0d5c6)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S3 und S7
-* Taktänderung: Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt S3
-* Taktänderung: Westkreuz \<\> Grunewald S-Bahnverkehr nur im 20-Minutentakt S7
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-blindenleit-und-wegeleitsystem-1/#con-27186)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Flughafen BER – Terminal 1-2/Grünau/Spindlersfeld \<\> Baumschulenweg \<\> Warschauer Straße ###
-
-09.06. (Fr), 22 Uhr durchgehend bis 14.06. (Mi), 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27081&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16879&type=5679&cHash=5a43150f775b208cefcee328b593c0b5)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr:
-  * Grünau / Adlershof \<\> Baumschulenweg
-  * Spindlersfeld \<\> Baumschulenweg
-  * Treptower Park \<\> Warschauer Straße (S9-Kurve)
-     Bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen, im Abschnitt Ostkreuz \<\> Spandau fährt die S3 im 10-Minutentakt
-
-* **alternative Reisemöglichkeiten:**
-  * mit FEX und RE8 Flughafen BER – Terminal 1-2 \<\> Ostkreuz \<\> Berlin Hbf
-  * mit FEX, RB24 und RB32 Schöneweide \<\> Ostkreuz
-  * mit RB24 und RB32 (Flughafen BER – Terminal 5 \<\>) Schöneweide \<\> Ostkreuz \<\> Lichtenberg
-
-* Ersatzverkehr mit Bussen:
-  * Bus S46: Grünau \<\> Baumschulenweg
-  * Bus S47: Spindlersfeld \<\> Baumschulenweg
-  * Bus S9A: Adlershof \<\> Baumschulenweg
-  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Baumschulenweg
-
-* S-Bahn-Pendelverkehr:
-  * Altglienicke \<\> Adlershof im 20-Minutentakt
-  * Baumschulenweg \<\> Treptower Park im 10-Minutentakt (mit Umsteigen in Plänterwald)
-
-* Taktänderung:
-  * Flughafen BER – Terminal 5 \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27081)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-Nur Wochenende
-
-### Teltow Stadt / Schichauweg \<\> Yorckstraße ###
-
-09.06. (Fr), ca. 22 Uhr durchgehend bis 12.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27152&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20262&tx_sbbconstructions_list%5Bperiod%5D=16910&type=5679&cHash=c6be5bed58f40153cf378852d3dfc385)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen: Attilastraße \<\> Priesterweg
-* Zugverkehr verändert:
-  * Zwischen Priesterweg \<\> Südkreuz fährt die S25 nicht.
-     Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Priesterweg in die S2 um, die Weiterfahrt erfolgt nach 4 bis 5 Minuten vom selben Bahnsteig gegenüber.
-
-* Taktänderung: Lichtenrade \<\> Attilastraße und Priesterweg \<\> Südkreuz S-Bahnverkehr nur im 20-Minutentakt mit S2
-* Taktänderung: Lichterfelde Ost \<\> Priesterweg S-Bahnverkehr nur im 20-Minutentakt mit S25
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-12/#con-27152)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Ostbahnhof \<\> Spandau/Grunewald ###
-
-09.06. (Fr), ca. 22 Uhr durchgehend bis 12.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20302&tx_sbbconstructions_list%5Bperiod%5D=16933&type=5679&cHash=7417ca007e7455face102121a6c0d5c6)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S3 und S7
-* Taktänderung: Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt S3
-* Taktänderung: Westkreuz \<\> Grunewald S-Bahnverkehr nur im 20-Minutentakt S7
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-blindenleit-und-wegeleitsystem-1/#con-27186)
 
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
@@ -314,6 +152,154 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-suedlichen-blumberger-damm-bruecke/#con-27154)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+Nur Wochenende
+
+### Teltow Stadt / Schichauweg \<\> Yorckstraße ###
+
+09.06. (Fr), ca. 22 Uhr durchgehend bis 12.06. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27152&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20262&tx_sbbconstructions_list%5Bperiod%5D=16910&type=5679&cHash=c6be5bed58f40153cf378852d3dfc385)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen: Attilastraße \<\> Priesterweg
+* Zugverkehr verändert:
+  * Zwischen Priesterweg \<\> Südkreuz fährt die S25 nicht.
+     Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Priesterweg in die S2 um, die Weiterfahrt erfolgt nach 4 bis 5 Minuten vom selben Bahnsteig gegenüber.
+
+* Taktänderung: Lichtenrade \<\> Attilastraße und Priesterweg \<\> Südkreuz S-Bahnverkehr nur im 20-Minutentakt mit S2
+* Taktänderung: Lichterfelde Ost \<\> Priesterweg S-Bahnverkehr nur im 20-Minutentakt mit S25
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-12/#con-27152)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+Nur Wochenende
+
+### Ostbahnhof \<\> Spandau/Grunewald ###
+
+09.06. (Fr), ca. 22 Uhr durchgehend bis 12.06. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20302&tx_sbbconstructions_list%5Bperiod%5D=16933&type=5679&cHash=7417ca007e7455face102121a6c0d5c6)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S3 und S7
+* Taktänderung: Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt S3
+* Taktänderung: Westkreuz \<\> Grunewald S-Bahnverkehr nur im 20-Minutentakt S7
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-blindenleit-und-wegeleitsystem-1/#con-27186)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Flughafen BER – Terminal 1-2/Grünau/Spindlersfeld \<\> Baumschulenweg \<\> Warschauer Straße ###
+
+09.06. (Fr), 22 Uhr durchgehend bis 14.06. (Mi), 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27081&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16879&type=5679&cHash=5a43150f775b208cefcee328b593c0b5)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr:
+  * Grünau / Adlershof \<\> Baumschulenweg
+  * Spindlersfeld \<\> Baumschulenweg
+  * Treptower Park \<\> Warschauer Straße (S9-Kurve)
+     Bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen, im Abschnitt Ostkreuz \<\> Spandau fährt die S3 im 10-Minutentakt
+
+* **alternative Reisemöglichkeiten:**
+  * mit FEX und RE8 Flughafen BER – Terminal 1-2 \<\> Ostkreuz \<\> Berlin Hbf
+  * mit FEX, RB24 und RB32 Schöneweide \<\> Ostkreuz
+  * mit RB24 und RB32 (Flughafen BER – Terminal 5 \<\>) Schöneweide \<\> Ostkreuz \<\> Lichtenberg
+
+* Ersatzverkehr mit Bussen:
+  * Bus S46: Grünau \<\> Baumschulenweg
+  * Bus S47: Spindlersfeld \<\> Baumschulenweg
+  * Bus S9A: Adlershof \<\> Baumschulenweg
+  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Baumschulenweg
+
+* S-Bahn-Pendelverkehr:
+  * Altglienicke \<\> Adlershof im 20-Minutentakt
+  * Baumschulenweg \<\> Treptower Park im 10-Minutentakt (mit Umsteigen in Plänterwald)
+
+* Taktänderung:
+  * Flughafen BER – Terminal 5 \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27081)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+Nur Wochenende
+
+### Teltow Stadt / Schichauweg \<\> Yorckstraße ###
+
+09.06. (Fr), ca. 22 Uhr durchgehend bis 12.06. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27152&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20262&tx_sbbconstructions_list%5Bperiod%5D=16910&type=5679&cHash=c6be5bed58f40153cf378852d3dfc385)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen: Attilastraße \<\> Priesterweg
+* Zugverkehr verändert:
+  * Zwischen Priesterweg \<\> Südkreuz fährt die S25 nicht.
+     Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Priesterweg in die S2 um, die Weiterfahrt erfolgt nach 4 bis 5 Minuten vom selben Bahnsteig gegenüber.
+
+* Taktänderung: Lichtenrade \<\> Attilastraße und Priesterweg \<\> Südkreuz S-Bahnverkehr nur im 20-Minutentakt mit S2
+* Taktänderung: Lichterfelde Ost \<\> Priesterweg S-Bahnverkehr nur im 20-Minutentakt mit S25
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-12/#con-27152)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+Nur Wochenende
+
+### Ostbahnhof \<\> Spandau/Grunewald ###
+
+09.06. (Fr), ca. 22 Uhr durchgehend bis 12.06. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20302&tx_sbbconstructions_list%5Bperiod%5D=16933&type=5679&cHash=7417ca007e7455face102121a6c0d5c6)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S3 und S7
+* Taktänderung: Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt S3
+* Taktänderung: Westkreuz \<\> Grunewald S-Bahnverkehr nur im 20-Minutentakt S7
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-blindenleit-und-wegeleitsystem-1/#con-27186)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
