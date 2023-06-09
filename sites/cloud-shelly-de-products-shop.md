@@ -298,6 +298,12 @@
 
 27,25 €mit MwSt.
 
+[Sensor Pack](https://www.shelly.cloud/de/products/shop/sensor-pack)
+
+119,00 €~~139,60 €~~
+
+141,61 €mit MwSt.
+
 [Shelly Plus Smoke](https://www.shelly.cloud/de/products/shop/shelly-plus-smoke)
 
 44,90 €
@@ -387,3 +393,45 @@
 5,90 €
 
 7,02 €mit MwSt.
+
+[Ambients Pack](https://www.shelly.cloud/de/products/shop/ambients-pack)
+
+79,00 €~~97,60 €~~
+
+94,01 €mit MwSt.
+
+[Plus Pack](https://www.shelly.cloud/de/products/shop/plus-pack)
+
+59,99 €~~69,60 €~~
+
+71,39 €mit MwSt.
+
+[Duo Pack](https://www.shelly.cloud/de/products/shop/duo-pack)
+
+79,00 €~~95,20 €~~
+
+94,01 €mit MwSt.
+
+[Measurement Pack](https://www.shelly.cloud/de/products/shop/measurement-pack)
+
+59,00 €~~68,40 €~~
+
+70,21 €mit MwSt.
+
+[Shelly Remote Pack - White](https://www.shelly.cloud/de/products/shop/sp-remo-w)
+
+69,00 €~~81,60 €~~
+
+82,11 €mit MwSt.
+
+[Din Rail Pack](https://www.shelly.cloud/de/products/shop/din-rail-pack)
+
+209,00 €~~258,40 €~~
+
+248,71 €mit MwSt.
+
+[EM Pack](https://www.shelly.cloud/de/products/shop/em-pack)
+
+259,99 €~~327,00 €~~
+
+309,39 €mit MwSt.

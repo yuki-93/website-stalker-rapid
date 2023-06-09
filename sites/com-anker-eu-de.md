@@ -14,7 +14,9 @@ Search
 
 [](https://passport.anker.com/?app=ankerde)
 
-Versandkostenfrei bis zur Bordsteinkante
+NEUVersandkostenfrei bis zur Bordsteinkante
+
+SOLIX RS40P | RS40 600W/800W Balkonkraftwerk
 
 Bis zu 200€ Rabatt
 
@@ -46,14 +48,18 @@ Das Anker-Erlebnis entdecken
 
   [Entdecke EverFrostAnker EverFrost Akku-Kühlbox](https://www.anker.com/eu-de/everfrost-akku-kuehlbox?ref=productBanner2_2)
 
-* ### SOLIX RS40P | RS40 ###
+* ###
+
+   ###
+
+  ### SOLIX RS40P | RS40 ###
 
   ### 600W/800W Balkonkraftwerk ###
 
   800W Mikro-Wechselrichter, begrenzt auf 600W.
   Bis zu 10% Rabatt
 
-  [Jetzt vorbestellen!SOLIX RS40P | RS40,600W/800W Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-800-watt-erlaubt?ref=productBanner2_3)
+  [Jetzt vorbestellen! ,SOLIX RS40P | RS40,600W/800W Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-800-watt-erlaubt?ref=productBanner2_3)
 
 * ### Die Extraportion Power mit Ankers meistgekauften Ladegeräten  ###
 
