@@ -6,18 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Streckensperrung im Bereich Jungfernheide ###
+### Streckensperrung im Bereich Jungfernheide aufgehoben ###
 
- Letztes Update: 19:12 / 09.06.2023
+ Letztes Update: 20:22 / 09.06.2023
 
 Information
 
-Wegen einer Streckensperrung im Bereich Jungfernhiede ist der Zugverkehr der Linien S41 und S42 zwischen Westend und Beusselstraße unterbrochen.
+Nach einer Streckensperrung im Bereich Jungfernhiede kommt es auf den Linien S41 und S42 noch zu Verspätungen.
+
+Für die Linien S41 und S42 entfällt der Halt am S-Bahnhof Jungfernheide.
 
 Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
-
-Die Linie S47 verkehrt nur zwischen Schöneweide und Spindlersfeld.
-*Bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linien S45 und S46.*
 
 Wir bitten um Ihr verständnis.
 
@@ -32,20 +31,6 @@ Wir bitten um Ihr verständnis.
 Information
 
 Wegen Gegenständen auf der Strecke in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technischer Defekt an einem Bahnübergang in Neuenhagen ###
-
- Letztes Update: 16:35 / 09.06.2023
-
-Information
-
-Wegen eines technischen Defektes an einem Bahnübergang in Neuenhagen kommt es auf der Linie S5 zu Verspätungen.
 
 Wir bitten um Entschuldigung.
 
