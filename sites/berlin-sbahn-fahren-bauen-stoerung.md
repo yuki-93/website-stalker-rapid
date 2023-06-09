@@ -4,54 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Streckensperrung im Bereich Jungfernheide aufgehoben ###
-
- Letztes Update: 20:22 / 09.06.2023
-
-Information
-
-Nach einer Streckensperrung im Bereich Jungfernhiede kommt es auf den Linien S41 und S42 noch zu Verspätungen.
-
-Für die Linien S41 und S42 entfällt der Halt am S-Bahnhof Jungfernheide.
-
-Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
-
-Wir bitten um Ihr verständnis.
-
- fährt nicht
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gegenstände auf der Strecke in Lichtenberg ###
-
- Letztes Update: 18:38 / 09.06.2023
-
-Information
-
-Wegen Gegenständen auf der Strecke in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an der Strecke im Bereich Johannisthal ###
+### Reparatur an der Strecke im Bereich Johannisthal behoben ###
 
- Letztes Update: 16:18 / 09.06.2023
+ Letztes Update: 21:11 / 09.06.2023
 
 Information
 
-Wegen einer Reparatur an der Strecke im Bereich Johannisthal kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen.
-
-Die Linie S85 verkehrt nur zwischen Pankow und Schöneweide.
-*Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
+Nach einer Reparatur an der Strecke im Bereich Johannisthal kommt es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Streckensperrung im Bereich Jungfernheide aufgehoben ###
+
+ Letztes Update: 21:02 / 09.06.2023
+
+Information
+
+Nach einer Streckensperrung im Bereich Jungfernheide kommt es auf den Linien S41 und S42 noch zu Verspätungen.
+
+Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
