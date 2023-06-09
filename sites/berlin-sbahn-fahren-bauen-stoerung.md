@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### technischer Defekt an einem Bahnübergang zwischen Lichtenrade und Mahlow behoben ###
+
+ Letztes Update: 18:16 / 09.06.2023
+
+Information
+
+Nach einem technischen Defekt an einem Bahnübergang kommt es auf der Linie S2 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### technischer Defekt an einem Bahnübergang in Neuenhagen ###
@@ -34,22 +48,6 @@ Die Linie S85 verkehrt nur zwischen Pankow und Schöneweide.
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### technischer Defekt an einem Bahnübergang zwischen Lichtenrade und Mahlow ###
-
- Letztes Update: 15:44 / 09.06.2023
-
-Information
-
-Wegen eines technischen Defektes an einem Bahnübergang kommt es auf der Linie S2 zu Verspätungen.
-
-Der 10-Minuten-Takt kann nur zwischen Buch und Marienfelde angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
