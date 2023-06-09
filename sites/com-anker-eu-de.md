@@ -22,11 +22,14 @@ Mit der Kraft der Sonne.
 
 [Los geht's!masterBanner1](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=masterBanner1)
 
-Baue dir dein eigenes Anker Ladesystem
+14. Juni, 01:00 Uhr
 
-Stelle dein Set zusammen und spare bis zu 20%!
+Anker wächst.
 
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/baue-dir-dein-eigenes-anker-ladesystem?ref=masterBanner2)
+Jetzt den exklusiven Anker REChargeLivestream
+ mitverfolgen und unsere neue Produktserie erleben!
+
+Zum Apple Kalender hinzufügen
 
 Das Anker-Erlebnis entdecken
 ----------
