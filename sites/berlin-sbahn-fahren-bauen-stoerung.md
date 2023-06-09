@@ -4,15 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an der Strecke im Bereich Johannisthal ###
+
+ Letztes Update: 16:18 / 09.06.2023
+
+Information
+
+Wegen einer Reparatur an der Strecke im Bereich Johannisthal kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen.
+
+Die Linie S85 verkehrt nur zwischen Pankow und Schöneweide.
+*Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### technischer Defekt an einem Bahnübergang zwischen Lichtenrade und Mahlow ###
 
- Letztes Update: 15:20 / 09.06.2023
+ Letztes Update: 15:44 / 09.06.2023
 
 Information
 
-Wegen eines technischen Defktes an einem bahnübergang kommt es auf der Linie S2 zu Verspätungen.
+Wegen eines technischen Defektes an einem Bahnübergang kommt es auf der Linie S2 zu Verspätungen.
 
 Der 10-Minuten-Takt kann nur zwischen Buch und Marienfelde angeboten werden.
 
@@ -24,7 +41,7 @@ Wir bitten um Entschuldigung.
 
 ### Vorankündigung: kurzfristige Bauarbeiten zwischen Baumschulenweg und Treptower Park am Sonntag, den 11.06.2023 von ca. 1:00 Uhr bis 7:00 Uhr ###
 
- Letztes Update: 15:08 / 09.06.2023
+ Letztes Update: 15:43 / 09.06.2023
 
 Information
 
