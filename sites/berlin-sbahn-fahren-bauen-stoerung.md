@@ -4,45 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an der Strecke im Bereich Johannisthal behoben ###
-
- Letztes Update: 21:11 / 09.06.2023
-
-Information
-
-Nach einer Reparatur an der Strecke im Bereich Johannisthal kommt es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Streckensperrung im Bereich Jungfernheide aufgehoben ###
-
- Letztes Update: 21:02 / 09.06.2023
-
-Information
-
-Nach einer Streckensperrung im Bereich Jungfernheide kommt es auf den Linien S41 und S42 noch zu Verspätungen.
-
-Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Vorankündigung: kurzfristige Bauarbeiten zwischen Baumschulenweg und Treptower Park am Sonntag, den 11.06.2023 von ca. 1:00 Uhr bis 7:00 Uhr ###
 
- Letztes Update: 15:43 / 09.06.2023
+ Letztes Update: 22:04 / 09.06.2023
 
 Information
 
-Wegen kurzfrsitiger Bauarbeiten muss **am Sonntag, den 11.06.2023 in der Zeit von ca. 1:00 Uhr bis 7:00 Uhr** der S-Bahn-Pendelverkehr zwischen Baumschulenweg und Treptower Park eingestellt werden.
+Wegen kurzfristiger Bauarbeiten wird **am Sonntag, den 11.06.2023 in der Zeit von ca. 01:00 Uhr bis 07:00 Uhr** der S-Bahn-Pendelverkehr zwischen Baumschulenweg und Treptower Park eingestellt.
 
 **In diesem Zeitraum wird ein Ersatzverkehr mit Bussen zwischen Baumschulenweg und Treptower Park eingerichtet.**
 
@@ -55,6 +25,20 @@ Haltestellen des Ersatzverkehrs:
 Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft berücksichtigt ist.
 
 Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Streckensperrung im Bereich Jungfernheide aufgehoben ###
+
+ Letztes Update: 22:02 / 09.06.2023
+
+Information
+
+Nach einer Streckensperrung im Bereich Jungfernheide kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
 
  sonstige Einschränkungen
 
