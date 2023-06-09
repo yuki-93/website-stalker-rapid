@@ -4,19 +4,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### ärztliche Versorgung eines Fahrgastes in Humboldthain beendet ###
+### technischer Defekt an einem Bahnübergang zwischen Lichtenrade und Mahlow ###
 
- Letztes Update: 11:07 / 09.06.2023
+ Letztes Update: 15:20 / 09.06.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Humboldthain kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+Wegen eines technischen Defktes an einem bahnübergang kommt es auf der Linie S2 zu Verspätungen.
+
+Der 10-Minuten-Takt kann nur zwischen Buch und Marienfelde angeboten werden.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert  Verbindung verspätet
+ sonstige Einschränkungen
+
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Vorankündigung: kurzfristige Bauarbeiten zwischen Baumschulenweg und Treptower Park am Sonntag, den 11.06.2023 von ca. 1:00 Uhr bis 7:00 Uhr ###
+
+ Letztes Update: 15:08 / 09.06.2023
+
+Information
+
+Wegen kurzfrsitiger Bauarbeiten muss **am Sonntag, den 11.06.2023 in der Zeit von ca. 1:00 Uhr bis 7:00 Uhr** der S-Bahn-Pendelverkehr zwischen Baumschulenweg und Treptower Park eingestellt werden.
+
+**In diesem Zeitraum wird ein Ersatzverkehr mit Bussen zwischen Baumschulenweg und Treptower Park eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S-Bhf. Baumschulenweg: Baumschulenstraße, unter der Brücke vor Glanzstraße (wie Bus 170, 265, N70)
+* S-Bhf. Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
+* S-Bhf. Treptower Park: Puschkinallee, vor der Brücke (wie Bus 165, 166, 265, N60, N65)
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft berücksichtigt ist.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 

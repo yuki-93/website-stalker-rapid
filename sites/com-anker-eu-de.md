@@ -16,11 +16,9 @@ Search
 
 NEUVersandkostenfrei bis zur Bordsteinkante
 
-SOLIX RS40P | RS40 600W/800W Balkonkraftwerk
-
 Bis zu 200€ Rabatt
 
-Mit der Kraft der Sonne.
+SOLIX RS40P | RS40 600W/800W Balkonkraftwerk
 
 [Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=masterBanner1)
 
