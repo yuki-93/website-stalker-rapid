@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Notarzteinsatz auf der Strecke in Bereich Birkenwerder (Fernbahn) beendetet ###
+### Reparatur am Zug in Bornholmer Straße ###
 
- Letztes Update: 06:05 / 09.06.2023
+ Letztes Update: 07:07 / 09.06.2023
 
 Information
 
-Nach einem Notarzteinsatz auf der Strecke im Bereich Birkenwerder (Fernbahn) kann es auf der Linie S1 noch zu Verspätungen und Ausfällen kommen.
+Wegen der Reparatur am Zug in Bornholmer Straße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Entschuldigung
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
