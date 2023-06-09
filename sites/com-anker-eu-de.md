@@ -20,7 +20,7 @@ Bis zu 200€ Rabatt
 
 Mit der Kraft der Sonne.
 
-[Los geht's!masterBanner1](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=masterBanner1)
+[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=masterBanner1)
 
 14. Juni, 01:00 Uhr
 
@@ -46,12 +46,14 @@ Das Anker-Erlebnis entdecken
 
   [Entdecke EverFrostAnker EverFrost Akku-Kühlbox](https://www.anker.com/eu-de/everfrost-akku-kuehlbox?ref=productBanner2_2)
 
-* ### SOLIX RS40P | RS40 Balkonkraftwerk ###
+* ### SOLIX RS40P | RS40 ###
 
-  Bis zu 200€ Rabatt
-  Mit der Kraft der Sonne.
+  ### 600W/800W Balkonkraftwerk ###
 
-  [Mehr erfahrenSOLIX RS40P | RS40 Balkonkraftwerk](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk_erster_eindruck?ref=productBanner2_3)
+  800W Mikro-Wechselrichter, begrenzt auf 600W.
+  Bis zu 10% Rabatt
+
+  [Jetzt vorbestellen!SOLIX RS40P | RS40,600W/800W Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-800-watt-erlaubt?ref=productBanner2_3)
 
 * ### Die Extraportion Power mit Ankers meistgekauften Ladegeräten  ###
 

@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Notarzteinsatz auf der Strecke in Bereich Birkenwerder (Fernbahn) ###
+### Notarzteinsatz auf der Strecke in Bereich Birkenwerder (Fernbahn) beendetet ###
 
- Letztes Update: 05:17 / 09.06.2023
+ Letztes Update: 06:05 / 09.06.2023
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke im Bereich Birkenwerder (Fernbahn) ist der Zugverkehr der Linie S1 zwischen Birkenwerder und Oranienburg unterbrochen.
+Nach einem Notarzteinsatz auf der Strecke im Bereich Birkenwerder (Fernbahn) kann es auf der Linie S1 noch zu Verspätungen und Ausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
