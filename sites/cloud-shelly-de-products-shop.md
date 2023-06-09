@@ -1,16 +1,22 @@
-[Ambients Pack](https://www.shelly.cloud/de/products/shop/ambients-pack)
-
-79,00 €
-
-94,01 €mit MwSt.
-
 [Plus Pack](https://www.shelly.cloud/de/products/shop/plus-pack)
 
 59,99 €
 
 71,39 €mit MwSt.
 
+[Sensor Pack](https://www.shelly.cloud/de/products/shop/sensor-pack)
+
+119,00 €
+
+141,61 €mit MwSt.
+
 [Duo Pack](https://www.shelly.cloud/de/products/shop/duo-pack)
+
+79,00 €
+
+94,01 €mit MwSt.
+
+[Ambients Pack](https://www.shelly.cloud/de/products/shop/ambients-pack)
 
 79,00 €
 
@@ -339,12 +345,6 @@
 22,90 €
 
 27,25 €mit MwSt.
-
-[Sensor Pack](https://www.shelly.cloud/de/products/shop/sensor-pack)
-
-119,00 €
-
-141,61 €mit MwSt.
 
 [Shelly Plus Smoke](https://www.shelly.cloud/de/products/shop/shelly-plus-smoke)
 
