@@ -6,20 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an einem Signal in Tiergarten ###
+### Reparatur an einem Signal in Tiergarten beendet ###
 
- Letztes Update: 11:02 / 10.06.2023
+ Letztes Update: 11:51 / 10.06.2023
 
 Information
 
-Wegen einer Reparatur am Signal in Tiergarten kommt es auf den Linien S3, S5 und S7 zu Verspätungen und Ausfällen.
-
-Die Linien verkehren wie folgt
-
-* S3 verkehrt Erkner/Friedrichshagen \<\> Friedrichstraße, sowie Westkreuz \<\> Spandau
-* S5 verkehrt Strausberg/Nord \<\> Ostbahnhof, sowie Mahlsdorf \<\> Warschauer Straße
-* S7 verkehrt Ahrensfelde \<\> Potsdam Hbf
-* S75 verkehrt Wartenberg \<\> Lichtenberg alle 20 min
+Nach einer Reparatur am Signal in Tiergarten kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung
 
