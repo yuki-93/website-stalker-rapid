@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
-### Reparatur an einem Signal in Tiergarten beendet ###
+### S45: kurzfristiger Personalausfall ###
 
- Letztes Update: 11:51 / 10.06.2023
+ Letztes Update: 17:05 / 10.06.2023
 
 Information
 
-Nach einer Reparatur am Signal in Tiergarten kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und Ausfällen.
+Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S45 nicht zwischen Flughafen BER Terminal 1-2 und Flughafen BER Terminal 5.
 
-Wir bitten um Entschuldigung
+* Bitte nutzen Sie zwischen Flughafen BER Terminal 1-2 und Flughafen BER Terminal 5 die Linie S9.
 
- Zugverkehr verändert  sonstige Einschränkungen
+Wir bitten um Entschuldigung.
+
+ fährt nicht  keine Verbindung
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -41,6 +43,20 @@ Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht i
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technischer Defekt an einem Bahnübergang ###
+
+ Letztes Update: 19:21 / 27.05.2023
+
+Information
+
+Wegen einer Störung am Bahnübergang im Bereich Grünbergallee kommt es auf den Linien S45 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
