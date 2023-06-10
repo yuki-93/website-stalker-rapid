@@ -4,19 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### Feuerwehreinsatz in Oranienburger Straße ###
+### Reparatur an einem Signal in Tiergarten ###
 
- Letztes Update: 10:18 / 10.06.2023
+ Letztes Update: 11:02 / 10.06.2023
 
 Information
 
-Wegen eines Feuerwehreinsatzes (Dachstuhlbrand)in Oranienburger Straße entfällt für alle Züge der Linien S1, S2, S25 und S26 derzeit der Verkehrshalt in Oranienburger Straße.
+Wegen einer Reparatur am Signal in Tiergarten kommt es auf den Linien S3, S5 und S7 zu Verspätungen und Ausfällen.
 
-Wir bitten um Verständnis.
+Die Linien verkehren wie folgt
 
- Zugverkehr verändert
+* S3 verkehrt Erkner/Friedrichshagen \<\> Friedrichstraße, sowie Westkreuz \<\> Spandau
+* S5 verkehrt Strausberg/Nord \<\> Ostbahnhof, sowie Mahlsdorf \<\> Warschauer Straße
+* S7 verkehrt Ahrensfelde \<\> Potsdam Hbf
+* S75 verkehrt Wartenberg \<\> Lichtenberg alle 20 min
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
