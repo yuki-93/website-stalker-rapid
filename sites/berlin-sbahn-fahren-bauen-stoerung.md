@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Feuerwehreinsatz in Oranienburger Straße ###
+
+ Letztes Update: 10:18 / 10.06.2023
+
+Information
+
+Wegen eines Feuerwehreinsatzes (Dachstuhlbrand)in Oranienburger Straße entfällt für alle Züge der Linien S1, S2, S25 und S26 derzeit der Verkehrshalt in Oranienburger Straße.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert
+
 [S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Vorankündigung: kurzfristige Bauarbeiten zwischen Baumschulenweg und Treptower Park am Sonntag, den 11.06.2023 von ca. 1:00 Uhr bis 7:00 Uhr ###
