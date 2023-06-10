@@ -25,8 +25,8 @@ three releases in active maintenance:
  The current
 >  stable
 
- distribution of Debian is version 11, codenamed  *bullseye*  .
-It was initially released as version 11.0 on August 14th, 2021 and its latest update, version 11.7, was released on April 29th, 2023.
+ distribution of Debian is version 12, codenamed  *bookworm*  .
+It was released on June 10th, 2023.
 
 [testing](https://www.debian.org/releases/testing/)
 
@@ -43,7 +43,7 @@ It was initially released as version 11.0 on August 14th, 2021 and its latest up
  The current
 >  testing
 
- distribution is  *bookworm*  .
+ distribution is  *trixie*  .
 
 [unstable](https://www.debian.org/releases/unstable/)
 
@@ -67,7 +67,7 @@ It was initially released as version 11.0 on August 14th, 2021 and its latest up
  Index of releases
 ----------
 
-* [The next release of Debian is codenamed > bookworm](https://www.debian.org/releases/bookworm/) —
+* [The next release of Debian is codenamed > trixie](https://www.debian.org/releases/trixie/) —
   >  testing
 
    — release planned for 2023-06-10
