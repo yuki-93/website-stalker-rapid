@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### ärztliche Versorgung eines Fahrgastes in Schönhauser Allee ###
+### ärztliche Versorgung eines Fahrgastes in Schönhauser Allee beendet ###
 
- Letztes Update: 18:20 / 10.06.2023
+ Letztes Update: 19:32 / 10.06.2023
 
 Information
 
