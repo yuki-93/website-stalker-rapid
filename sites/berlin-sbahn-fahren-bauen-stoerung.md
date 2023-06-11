@@ -2,44 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Bauarbeiten zwischen Baumschulenweg und Treptower Park ###
-
- Letztes Update: 03:38 / 11.06.2023
-
-Information
-
-Wegen kurzfristiger Bauarbeiten zwischen Baumschulenweg und Treptower Park ist der S-Bahn-Pendelverkehr **bis vsl. 07:00 Uhr** eingestellt und ein Ersatzverkehr mit Bussen eingerichtet.
-
-**Haltestellen des Ersatzverkehrs:**
-
-* **S-Bhf. Baumschulenweg**: Baumschulenstraße, unter der Brücke vor Glanzstraße (wie Bus 170, 265, N70)
-* **S-Bhf. Plänterwald**: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
-* **S-Bhf. Treptower Park**: Puschkinallee, vor der Brücke (wie Bus 165, 166, 265, N60, N65)
-
----
-
-**Beachten Sie bitte, dass im genannten Zeitraum in Baumschulenweg ein Umstieg zwischen dem Ersatzverkehr mit Bussen für die Linien S46, S47, S9A und S9X erforderlich ist.**
-
----
-
-**Alternativ nutzen Sie bitte auch:**
-
-* zwischen Baumschulenweg \<\> Plänterwald \<\> Treptower Park die BVG-Nachtbuslinien N60 und N65
-* zwischen Baumschulenweg und Neukölln die Linie S46 ***sowie*** zwischen Neukölln und Treptower Park die Linien S41/ S42
-* zwischen Plänterwald \<\> Sonnenallee \<\> Neukölln die BVG-Nachtbuslinie N77
-
----
-
-Wegen der Kurzfristigkeit ist die Baumaßnahme nicht in der Fahrplanauskunft enthalten.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
