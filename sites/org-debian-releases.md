@@ -71,7 +71,7 @@ It was released on June 10th, 2023.
   >  testing
 
    — no release date has been set
-* [Debian 12 ( > bookworm )](https://www.debian.org/releases/bullseye/) — current
+* [Debian 12 ( > bookworm )](https://www.debian.org/releases/bookworm/) — current
   >  stable
 
    release

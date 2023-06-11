@@ -8,13 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Grunewald ###
 
- Letztes Update: 17:09 / 11.06.2023
+ Letztes Update: 18:17 / 11.06.2023
 
 Information
 
 Wegen einer Reparatur an der Strecke in Grunewald kommt es auf der Linie S7 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* zwischen Grunewald und Potsdam Hbf besteht nur ein 20-Minuten-Takt.
+* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Ostbahnhof angeboten werden.
+
+**Beachten Sie bitte**: in Grunewald erfolgt die Weiterfahrt nach Ahrensfelde bzw. Potsdam Hbf jeweils vom gegenüberliegenden Gleis.
 
 Wir bitten um Entschuldigung.
 
