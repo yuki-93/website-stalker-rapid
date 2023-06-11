@@ -6,46 +6,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur am Gleis in Grunewald ###
+### Reparatur an der Strecke in Grunewald ###
 
- Letztes Update: 14:26 / 11.06.2023
+ Letztes Update: 17:09 / 11.06.2023
 
 Information
 
-Wegen einer Reparatur am Gleis in Grunewald kommt es auf der Linie S7 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an der Strecke in Grunewald kommt es auf der Linie S7 zu Verspätungen und nachfolgenden Einschränkungen:
 
-Die Linie S7 verkehrt nur alle 20 min zwischen Grunewald und Potsdam Hbf.
+* zwischen Grunewald und Potsdam Hbf besteht nur ein 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wuhletal/Wartenberg \<\> Warschauer Straße ###
-
-am 11.06. (So), von ca. 7 - ca. 17 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27154&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20264&tx_sbbconstructions_list%5Bperiod%5D=16913&type=5679&cHash=6672c7ecd4e75b5daca3041d6476a11b)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen: Wuhletal \<\> Friedrichsfelde Ost
-* alternative Umfahrungsmöglichkeit:
-  * Bitte zwischen Wuhletal, Lichtenberg, Frankfurter Allee, Alexanderplatz und Berlin Hbf auch die U5 nutzen
-
-* Zugverkehr verändert: Zwischen Wartenberg \<\> Lichtenberg fährt die S5 anstatt der S75.
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-suedlichen-blumberger-damm-bruecke/#con-27154)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
