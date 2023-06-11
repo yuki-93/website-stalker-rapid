@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur am Gleis in Grunewald ###
+
+ Letztes Update: 14:26 / 11.06.2023
+
+Information
+
+Wegen einer Reparatur am Gleis in Grunewald kommt es auf der Linie S7 zu Verspätungen und Ausfällen.
+
+Die Linie S7 verkehrt nur alle 20 min zwischen Grunewald und Potsdam Hbf.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
