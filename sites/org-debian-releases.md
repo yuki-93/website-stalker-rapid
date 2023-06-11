@@ -70,13 +70,17 @@ It was released on June 10th, 2023.
 * [The next release of Debian is codenamed > trixie](https://www.debian.org/releases/trixie/) —
   >  testing
 
-   — release planned for 2023-06-10
-* [Debian 11 ( > bullseye )](https://www.debian.org/releases/bullseye/) — current
+   — no release date has been set
+* [Debian 12 ( > bookworm )](https://www.debian.org/releases/bullseye/) — current
   >  stable
 
    release
+* [Debian 11 ( > bullseye )](https://www.debian.org/releases/bullseye/) — current
+  >  olstable
+
+   release
 * [Debian 10 ( > buster )](https://www.debian.org/releases/buster/) — current
-  >  oldstable
+  >  oldoldstable
 
    release, under [LTS support](https://wiki.debian.org/LTS)
 * [Debian 9 ( > stretch )](https://www.debian.org/releases/stretch/) — archived release, under [extended LTS support](https://wiki.debian.org/LTS/Extended)
