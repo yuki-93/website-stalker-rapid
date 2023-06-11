@@ -6,21 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an der Strecke in Grunewald ###
+### Reparatur an der Strecke in Grunewald beendet ###
 
- Letztes Update: 18:17 / 11.06.2023
+ Letztes Update: 22:54 / 11.06.2023
 
 Information
 
-Wegen einer Reparatur an der Strecke in Grunewald kommt es auf der Linie S7 zu Verspätungen und nachfolgenden Einschränkungen:
+Die Reparatur an der Strecke in Grunewald ist beendet. Die Linie S7 verkehrt wieder lt. heute gültigem Fahrplan.
 
-* Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Ostbahnhof angeboten werden.
+Ein Umstieg zwischen den Zügen in Grunewald ist nicht mehr erforderlich.
 
-**Beachten Sie bitte**: in Grunewald erfolgt die Weiterfahrt nach Ahrensfelde bzw. Potsdam Hbf jeweils vom gegenüberliegenden Gleis.
+Gute Fahrt!
 
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
