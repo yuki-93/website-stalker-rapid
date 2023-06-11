@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten zwischen Baumschulenweg und Treptower Park ###
 
- Letztes Update: 00:09 / 11.06.2023
+ Letztes Update: 03:38 / 11.06.2023
 
 Information
 
-Wegen kurzfristiger Bauarbeiten wird **in der Zeit von ca. 01:00 Uhr bis 07:00 Uhr** der S-Bahn-Pendelverkehr zwischen Baumschulenweg und Treptower Park eingestellt und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen kurzfristiger Bauarbeiten zwischen Baumschulenweg und Treptower Park ist der S-Bahn-Pendelverkehr **bis vsl. 07:00 Uhr** eingestellt und ein Ersatzverkehr mit Bussen eingerichtet.
 
 **Haltestellen des Ersatzverkehrs:**
 
@@ -30,7 +30,7 @@ Wegen kurzfristiger Bauarbeiten wird **in der Zeit von ca. 01:00 Uhr bis 07:00 
 
 * zwischen Baumschulenweg \<\> Plänterwald \<\> Treptower Park die BVG-Nachtbuslinien N60 und N65
 * zwischen Baumschulenweg und Neukölln die Linie S46 ***sowie*** zwischen Neukölln und Treptower Park die Linien S41/ S42
-* zwischen Plänterwald \<\> Sonnenallee \<\> Neukölln die BVG-Nachtlinie N77
+* zwischen Plänterwald \<\> Sonnenallee \<\> Neukölln die BVG-Nachtbuslinie N77
 
 ---
 
@@ -39,22 +39,6 @@ Wegen der Kurzfristigkeit ist die Baumaßnahme nicht in der Fahrplanauskunft ent
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### S45: kurzfristiger Personalausfall ###
-
- Letztes Update: 17:05 / 10.06.2023
-
-Information
-
-Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S45 nicht zwischen Flughafen BER Terminal 1-2 und Flughafen BER Terminal 5.
-
-* Bitte nutzen Sie zwischen Flughafen BER Terminal 1-2 und Flughafen BER Terminal 5 die Linie S9.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
