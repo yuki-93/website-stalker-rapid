@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz zwischen Bornholmer Straße und Wollankstraße beendet ###
-
- Letztes Update: 19:03 / 11.06.2023
-
-Information
-
-Nach einem Polizeieinsatz zwischen Bornholmer Straße und Wollankstraße kommt es auf den Linien S1 und S25 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an der Strecke in Grunewald ###
