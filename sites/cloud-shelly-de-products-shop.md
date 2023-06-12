@@ -346,12 +346,6 @@
 
 27,25 €mit MwSt.
 
-[Shelly Plus Smoke](https://www.shelly.cloud/de/products/shop/shelly-plus-smoke)
-
-44,90 €
-
-53,43 €mit MwSt.
-
 [Bypass](https://www.shelly.cloud/de/products/shop/bypass-1)
 
 2,90 €
