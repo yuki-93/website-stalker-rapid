@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Zug in Messe Nord/ICC beendet ###
-
- Letztes Update: 14:31 / 12.06.2023
-
-Information
-
-Nach der Reparatur an einem Zug in Messe Nord/ICC kann es auf den Linien S41, S42 und S46 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an der Strecke zwischen Yorckstraße/ Großgörschenstraße und Anhalter Bahnhof ###
 
- Letztes Update: 13:39 / 12.06.2023
+ Letztes Update: 15:13 / 12.06.2023
 
 Information
 
-Wegen einer Reparatur an der Strecke zwischen Yorckstraße/ Großgörschenstraße und Anhalter Bahnhof kommt es auf der Linie S1 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen einer Reparatur an der Strecke zwischen Yorckstraße/ Großgörschenstraße und Anhalter Bahnhof kommt es auf der Linie S1 **bis voraussichtlich 15.06.2023 ca. 01:30 Uhr** zu Verspätungen und nachfolgenden Einschränkungen:
 
 * **S1 fährt**: Wannsee \<\> Anhalter Bahnhof ***sowie*** Potsdamer Platz \<\> Oranienburg, *der 10-Minuten-Takt besteht zwischen Potsdamer Platz \<\> Frohnau*
 
