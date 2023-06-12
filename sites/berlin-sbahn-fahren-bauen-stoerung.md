@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Gegenstände auf der Strecke in Sonnenallee behoben ###
+
+ Letztes Update: 15:48 / 12.06.2023
+
+Information
+
+Nach Gegenständen auf der Strecke in Sonnenallee kann es auf der Linie S41 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an der Strecke zwischen Yorckstraße/ Großgörschenstraße und Anhalter Bahnhof ###
