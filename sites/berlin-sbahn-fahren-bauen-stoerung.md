@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Zug in Grünau ###
+### Polizeieinsatz zwischen Treptower Park und Ostkreuz beendet ###
 
- Letztes Update: 20:40 / 12.06.2023
+ Letztes Update: 21:59 / 12.06.2023
 
 Information
 
-Wegen der Reparatur an einem Zug in Grünau kommt es auf der Linie S46 zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ fährt nicht
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
