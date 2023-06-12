@@ -2,57 +2,30 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an der Strecke zwischen Yorckstraße/ Großgörschenstraße und Anhalter Bahnhof ###
+
+ Letztes Update: 03:54 / 12.06.2023
+
+Information
+
+Wegen einer Reparatur an der Strecke zwischen Yorckstraße/ Großgörschenstraße und Anhalter Bahnhof kommt es auf der Linie S1 zu folgenden Einschränkungen:
+
+* **S1 fährt**: Wannsee \<\> Anhalter Bahnhof ***sowie*** Potsdamer Platz \<\> Oranienburg, *der 10-Minuten-Takt besteht zwischen Wannsee \<\> Yorckstraße/ Großgörschenstraße **sowie** Potsdamer Platz \<\> Frohnau*
+* Die zusätzlichen Züge der Linie S1 zwischen Zehlendorf und Potsdamer Platz fahren nicht.
+
+**Beachten Sie bitte: die Züge nach Wannsee fahren in Anhalter Bahnhof von Gleis 3 (Bahnsteig stadteinwärts, Richtung Potsdamer Platz).**
+
+Zwischen Anhalter Bahnhof und Potsdamer Platz nutzen Sie bitte die Linien S2, S25 und S26.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-Nur Wochenende
-
-### Teltow Stadt / Schichauweg \<\> Yorckstraße ###
-
-09.06. (Fr), ca. 22 Uhr durchgehend bis 12.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27152&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20262&tx_sbbconstructions_list%5Bperiod%5D=16910&type=5679&cHash=c6be5bed58f40153cf378852d3dfc385)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen: Attilastraße \<\> Priesterweg
-* Zugverkehr verändert:
-  * Zwischen Priesterweg \<\> Südkreuz fährt die S25 nicht.
-     Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Priesterweg in die S2 um, die Weiterfahrt erfolgt nach 4 bis 5 Minuten vom selben Bahnsteig gegenüber.
-
-* Taktänderung: Lichtenrade \<\> Attilastraße und Priesterweg \<\> Südkreuz S-Bahnverkehr nur im 20-Minutentakt mit S2
-* Taktänderung: Lichterfelde Ost \<\> Priesterweg S-Bahnverkehr nur im 20-Minutentakt mit S25
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-12/#con-27152)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Ostbahnhof \<\> Spandau/Grunewald ###
-
-09.06. (Fr), ca. 22 Uhr durchgehend bis 12.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20302&tx_sbbconstructions_list%5Bperiod%5D=16933&type=5679&cHash=7417ca007e7455face102121a6c0d5c6)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S3 und S7
-* Taktänderung: Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt S3
-* Taktänderung: Westkreuz \<\> Grunewald S-Bahnverkehr nur im 20-Minutentakt S7
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-blindenleit-und-wegeleitsystem-1/#con-27186)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
