@@ -22,14 +22,11 @@ SOLIX RS40P | RS40 600W/800W Balkonkraftwerk
 
 [Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=masterBanner1)
 
-14. Juni, 01:00 Uhr
+Baue dir dein eigenes Anker Ladesystem
 
-Anker wächst.
+Stelle dein Set zusammen und spare bis zu 20%!
 
-Jetzt den exklusiven Anker REChargeLivestream
- mitverfolgen und unsere neue Produktserie erleben!
-
-Zum Apple Kalender hinzufügen
+[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/baue-dir-dein-eigenes-anker-ladesystem?ref=masterBanner2)
 
 Das Anker-Erlebnis entdecken
 ----------
