@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Zug in Grünau ###
+
+ Letztes Update: 20:40 / 12.06.2023
+
+Information
+
+Wegen der Reparatur an einem Zug in Grünau kommt es auf der Linie S46 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an der Strecke zwischen Yorckstraße/ Großgörschenstraße und Anhalter Bahnhof ###
