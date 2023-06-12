@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke zwischen Yorckstraße/ Großgörschenstraße und Anhalter Bahnhof ###
 
- Letztes Update: 03:54 / 12.06.2023
+ Letztes Update: 04:49 / 12.06.2023
 
 Information
 
-Wegen einer Reparatur an der Strecke zwischen Yorckstraße/ Großgörschenstraße und Anhalter Bahnhof kommt es auf der Linie S1 zu folgenden Einschränkungen:
+Wegen einer Reparatur an der Strecke zwischen Yorckstraße/ Großgörschenstraße und Anhalter Bahnhof kommt es auf der Linie S1 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * **S1 fährt**: Wannsee \<\> Anhalter Bahnhof ***sowie*** Potsdamer Platz \<\> Oranienburg, *der 10-Minuten-Takt besteht zwischen Wannsee \<\> Yorckstraße/ Großgörschenstraße **sowie** Potsdamer Platz \<\> Frohnau*
 * Die zusätzlichen Züge der Linie S1 zwischen Zehlendorf und Potsdamer Platz fahren nicht.
