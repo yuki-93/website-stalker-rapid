@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einem Zug in Westkreuz beendet ###
-
- Letztes Update: 20:46 / 13.06.2023
-
-Information
-
-Nach der Reparatur an einem Zug in Westkreuz kann es auf der Linie S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an der Strecke zwischen Yorckstraße (Großgörschenstraße) und Anhalter Bahnhof ###
 
- Letztes Update: 19:16 / 13.06.2023
+ Letztes Update: 23:05 / 13.06.2023
 
 Information
 
@@ -31,7 +17,7 @@ Wegen einer Reparatur an der Strecke zwischen Yorckstraße (Großgörschenstra�
 **Zugverkehr:**
 
 * **S1 fährt**: Wannsee \<\> Anhalter Bahnhof ***sowie*** Potsdamer Platz \<\> Oranienburg
-  * *der 10-Minuten-Takt besteht zwischen Potsdamer Platz \<\> Frohnau*
+  * *der 10-Minuten-Takt tagsüber besteht zwischen Wannsee \<\> Yorckstraße (Großgörschenstraße) sowie Potsdamer Platz \<\> Frohnau*
   * *die zusätzlichen Züge in der Hauptverkehrszeit (von ca. 7:00 Uhr bis 9:30 Uhr und ca. 15:00 Uhr bis 18:30 Uhr) zwischen Zehlendorf und Potsdamer Platz verkehren nicht*
 
 ---
