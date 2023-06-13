@@ -6,17 +6,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an der Strecke zwischen Yorckstraße/ Großgörschenstraße und Anhalter Bahnhof ###
+### Reparatur an der Strecke zwischen Yorckstraße (Großgörschenstraße) und Anhalter Bahnhof ###
 
- Letztes Update: 15:13 / 12.06.2023
+ Letztes Update: 02:40 / 13.06.2023
 
 Information
 
-Wegen einer Reparatur an der Strecke zwischen Yorckstraße/ Großgörschenstraße und Anhalter Bahnhof kommt es auf der Linie S1 **bis voraussichtlich 15.06.2023 ca. 01:30 Uhr** zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen einer Reparatur an der Strecke zwischen Yorckstraße (Großgörschenstraße) und Anhalter Bahnhof kommt es auf der Linie S1 **bis voraussichtlich 15.06.2023, ca. 01:30 Uhr** zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **S1 fährt**: Wannsee \<\> Anhalter Bahnhof ***sowie*** Potsdamer Platz \<\> Oranienburg, *der 10-Minuten-Takt besteht zwischen Potsdamer Platz \<\> Frohnau*
+**Zugverkehr:**
 
-**Beachten Sie bitte: die Züge nach Wannsee fahren in Anhalter Bahnhof von Gleis 3 (Bahnsteig stadteinwärts, Richtung Potsdamer Platz).**
+* **S1 fährt**: Wannsee \<\> Anhalter Bahnhof ***sowie*** Potsdamer Platz \<\> Oranienburg
+  * *der 10-Minuten-Takt tagsüber besteht zwischen Wannsee \<\> Yorckstraße (Großgörschenstraße) sowie Potsdamer Platz \<\> Frohnau*
+  * *die zusätzlichen Züge in der Hauptverkehrszeit (von ca. 7:00 Uhr bis 9:30 Uhr und ca. 15:00 Uhr bis 18:30 Uhr) zwischen Zehlendorf und Potsdamer Platz verkehren nicht*
+
+---
+
+**Gleisänderung in Anhalter Bahnhof:**
+
+* die Züge nach Wannsee fahren in Anhalter Bahnhof von Gleis 3 (Bahnsteig stadteinwärts, Richtung Potsdamer Platz).
 
 Zwischen Anhalter Bahnhof und Potsdamer Platz nutzen Sie bitte die Linien S2, S25 und S26.
 
