@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Zug in Westkreuz beendet ###
+
+ Letztes Update: 19:58 / 13.06.2023
+
+Information
+
+Nach der Reparatur an einem Zug in Westkreuz kann es auf den Linien S42 und S46 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an der Strecke zwischen Yorckstraße (Großgörschenstraße) und Anhalter Bahnhof ###
