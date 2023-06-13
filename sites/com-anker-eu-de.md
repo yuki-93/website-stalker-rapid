@@ -14,19 +14,19 @@ Search
 
 [](https://passport.anker.com/?app=ankerde)
 
-Baue dir dein eigenes Anker Ladesystem
-
-Stelle dein Set zusammen und spare bis zu 20%!
-
-[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/baue-dir-dein-eigenes-anker-ladesystem?ref=masterBanner1)
-
 NEUVersandkostenfrei bis zur Bordsteinkante
 
 Bis zu 200€ Rabatt
 
 SOLIX RS40P | RS40 600W/800W Balkonkraftwerk
 
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=masterBanner2)
+[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=masterBanner1)
+
+Baue dir dein eigenes Anker Ladesystem
+
+Stelle dein Set zusammen und spare bis zu 20%!
+
+[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/baue-dir-dein-eigenes-anker-ladesystem?ref=masterBanner2)
 
 Das Anker-Erlebnis entdecken
 ----------
