@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an einem Zug in Westkreuz beendet ###
 
- Letztes Update: 19:58 / 13.06.2023
+ Letztes Update: 20:46 / 13.06.2023
 
 Information
 
-Nach der Reparatur an einem Zug in Westkreuz kann es auf den Linien S42 und S46 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach der Reparatur an einem Zug in Westkreuz kann es auf der Linie S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
