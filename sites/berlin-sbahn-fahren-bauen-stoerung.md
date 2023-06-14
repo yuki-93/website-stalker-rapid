@@ -4,15 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Feuerwehreinsatz im Bereich Wedding ###
 
- Letztes Update: 16:03 / 14.06.2023
+ Letztes Update: 17:18 / 14.06.2023
 
 Information
 
-Wegen eines Feuerwehreinsatzes auf der Strecke ist der Zugbetrieb der Linien S 41 und S42 zwischen Westend und Gesundbrunnen unterbrochen.
+Wegen eines Feuerwehreinsatzes auf der Strecke ist der Zugbetrieb der Linien S 41 und S42 zwischen Beusselstraße und Gesundbrunnen unterbrochen.
+
+Die Linie S46 verkehrt Königs Wusterhausen\<\>Charlottenburg.
 
 Die Linie S85 verkehrt nicht.
 
@@ -20,7 +22,7 @@ Zur Umfahrung bitte die Linien der BVG und die S Bahnlinien S 1, S 2,S 25 und S 
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unterbrochen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
