@@ -6,21 +6,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Kabelbrand im Bereich Wedding ###
+### Streckensperrung nach Kabelbrand im Bereich Wedding ###
 
- Letztes Update: 20:16 / 14.06.2023
+ Letztes Update: 20:52 / 14.06.2023
 
 Information
 
-Nach einem Kabelbrand ist der Zugverkehr der Linien S 41 und S42 zwischen Beusselstraße und Gesundbrunnen noch unterbrochen.
+Wegen einer Streckensperrung (nach einem Kabelbrand) ist der Zugverkehr der Linien S41 und S42 zwischen Beusselstraße und Gesundbrunnen unterbrochen.
 
 Die Linie S85 verkehrt nicht.
 
-Zur Umfahrung bitte die Linien der BVG und die S Bahnlinien S 1, S 2,S 25 und S 26 nutzen.
+Bitte nutzen Sie zur Umfahrung die U-Bahnlinien U6, U8 und U9 sowie die S-Bahnlinien S1, S2, S25 und S26.
 
-Wir bitten um Entschuldigung.
+Wir bitten Ihr Verständnis
 
- Zugverkehr verändert  Verbindung unterbrochen
+ fährt nicht  Verbindung unterbrochen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
