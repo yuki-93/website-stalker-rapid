@@ -14,13 +14,13 @@ Search
 
 [](https://passport.anker.com/?app=ankerde)
 
-NEUVersandkostenfrei bis zur Bordsteinkante
+Einfach. Energieunabhängig.
 
-Bis zu 200€ Rabatt
+Energie für Abenteuer.
+ Energie für Entspannung.
+ Energie für dein umweltfreundliches Zuhause.
 
-SOLIX RS40P | RS40 600W/800W Balkonkraftwerk
-
-[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=masterBanner1)
+[Entdecke Anker SOLIXmasterBanner1](https://www.anker.com/eu-de/anker-solix/energieloesungen?ref=masterBanner1)
 
 Licht im Dunkeln und Power für den Tag
 
