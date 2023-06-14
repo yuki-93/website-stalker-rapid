@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### unbefugtes Ziehen einer Notbremse in Buckower Chaussee ###
-
- Letztes Update: 11:55 / 14.06.2023
-
-Information
-
-Wegen des unbefugten Ziehens einer Notbremse in Buckower Chaussee kommt es auf der Linie S2 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an der Strecke zwischen Yorckstraße (Großgörschenstraße) und Anhalter Bahnhof ###
