@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Feuerwehreinsatz im Bereich Wedding ###
+
+ Letztes Update: 15:21 / 14.06.2023
+
+Information
+
+Wegen eines Feuerwehreinsatzes auf der Strecke ist der Zugbetrieb der Linien S 41 und S42 zwischen Westend und Gesundbrunnen unterbrochen.
+
+Die Linie S85 verkehrt nicht.
+
+wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an der Strecke zwischen Yorckstraße (Großgörschenstraße) und Anhalter Bahnhof ###
