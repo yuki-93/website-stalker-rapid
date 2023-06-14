@@ -14,13 +14,11 @@ Search
 
 [](https://passport.anker.com/?app=ankerde)
 
-Einfach. Energieunabhängig.
+Jetzt Anker SOLIX Solarbank
 
-Energie für Abenteuer.
- Energie für Entspannung.
- Energie für dein umweltfreundliches Zuhause.
+vorbestellen und 200€ sparen!
 
-[Entdecke Anker SOLIXmasterBanner1](https://www.anker.com/eu-de/anker-solix/energieloesungen?ref=masterBanner1)
+[Limitiertes AngebotmasterBanner1](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-solarbank-a17c0?ref=masterBanner1)
 
 Licht im Dunkeln und Power für den Tag
 
