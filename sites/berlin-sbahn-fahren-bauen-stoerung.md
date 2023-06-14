@@ -32,50 +32,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unterbrochen
 
-### Baumaßnahmen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Flughafen BER – Terminal 1-2/Grünau/Spindlersfeld \<\> Baumschulenweg \<\> Warschauer Straße ###
-
-09.06. (Fr), 22 Uhr durchgehend bis 14.06. (Mi), 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27081&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20052&tx_sbbconstructions_list%5Bperiod%5D=16879&type=5679&cHash=5a43150f775b208cefcee328b593c0b5)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr:
-  * Grünau / Adlershof \<\> Baumschulenweg
-  * Spindlersfeld \<\> Baumschulenweg
-  * Treptower Park \<\> Warschauer Straße (S9-Kurve)
-     Bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen, im Abschnitt Ostkreuz \<\> Spandau fährt die S3 im 10-Minutentakt
-
-* **alternative Reisemöglichkeiten:**
-  * mit FEX und RE8 Flughafen BER – Terminal 1-2 \<\> Ostkreuz \<\> Berlin Hbf
-  * mit FEX, RB24 und RB32 Schöneweide \<\> Ostkreuz
-  * mit RB24 und RB32 (Flughafen BER – Terminal 5 \<\>) Schöneweide \<\> Ostkreuz \<\> Lichtenberg
-
-* Ersatzverkehr mit Bussen:
-  * Bus S46: Grünau \<\> Baumschulenweg
-  * Bus S47: Spindlersfeld \<\> Baumschulenweg
-  * Bus S9A: Adlershof \<\> Baumschulenweg
-  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Baumschulenweg
-
-* S-Bahn-Pendelverkehr:
-  * Altglienicke \<\> Adlershof im 20-Minutentakt
-  * Baumschulenweg \<\> Treptower Park im 10-Minutentakt (mit Umsteigen in Plänterwald)
-
-* Taktänderung:
-  * Flughafen BER – Terminal 5 \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#con-27081)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-britzer-zweigkanal-tramtunnel-und-bahnsteigarbeiten-in-schoeneweide/#c28232)
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
