@@ -4,11 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Feuerwehreinsatz im Bereich Wedding ###
 
- Letztes Update: 15:21 / 14.06.2023
+ Letztes Update: 16:03 / 14.06.2023
 
 Information
 
@@ -16,7 +16,9 @@ Wegen eines Feuerwehreinsatzes auf der Strecke ist der Zugbetrieb der Linien S 4
 
 Die Linie S85 verkehrt nicht.
 
-wir bitten um Entschuldigung.
+Zur Umfahrung bitte die Linien der BVG und die S Bahnlinien S 1, S 2,S 25 und S 26 nutzen.
+
+Wir bitten um Entschuldigung.
 
  fährt nicht  Verbindung unterbrochen
 
