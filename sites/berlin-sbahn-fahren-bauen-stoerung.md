@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Feuerwehreinsatz im Bereich Wedding beendet ###
+### Kabelbrand im Bereich Wedding ###
 
- Letztes Update: 17:46 / 14.06.2023
+ Letztes Update: 19:09 / 14.06.2023
 
 Information
 
-Nach einem Feuerwehreinsatz auf der Strecke ist der Zugbetrieb der Linien S 41 und S42 zwischen Beusselstraße und Gesundbrunnen noch unterbrochen.
+Nach einem Kabelbrand ist der Zugbetrieb der Linien S 41 und S42 zwischen Beusselstraße und Gesundbrunnen noch unterbrochen.
 
 Die Linie S46 verkehrt Königs Wusterhausen\<\>Charlottenburg.
 
