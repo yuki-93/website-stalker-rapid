@@ -8,15 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus (Kabelbrand) im Bereich Wedding ###
 
- Letztes Update: 07:35 / 15.06.2023
+ Letztes Update: 10:12 / 15.06.2023
 
 Information
 
-Wegen Beeinträchtigungen durch Vandalismus (Kabelbrand) ist der Zugverkehr der Linien S41 und S42 zwischen Beusselstraße und Wedding unterbrochen.
+Wegen Beeinträchtigungen durch Vandalismus (Kabelbrand) ist der Zugverkehr der Linien S41 und S42 zwischen Beusselstraße \<\> Wedding unterbrochen.
 
 Die Linien S41 und S42 fahren nur im 10-Minuten Takt.
 
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+Ein Ersatzverkehr mit Bussen zwischen Beusselstraße \<\> Wedding wurde eingerichtet.
+
+Haltestellen des Ersatzverkehrs:
+
+* S Beusselstraße - Beusselstraße (auf der Brücke, BVG Linie 106, 123)
+* S Westhafen - Puttlitzbrücke (BVG Linie 142)
+* S Wedding - Müllerstr. (BVG Linie 120)
+
+Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
 
 * zwischen Wedding und Westhafen die U-Bahnlinien U6 und U9 mit Umsteigen am U-Bhf. Leopoldplatz
 * zwischen Wedding und Beusselstraße die U-Bahnlinie U6 und die Buslinie 106 mit Umsteigen am U-Bhf. Seestraße
