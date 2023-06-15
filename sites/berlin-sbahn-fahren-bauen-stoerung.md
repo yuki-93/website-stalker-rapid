@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an der Strecke im Bereich Hackescher Markt ###
+
+ Letztes Update: 12:49 / 15.06.2023
+
+Information
+
+Wegen einer Reparatur an der Strecke im Bereich Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus (Kabelbrand) im Bereich Wedding ###
 
- Letztes Update: 11:36 / 15.06.2023
+ Letztes Update: 12:48 / 15.06.2023
 
 Information
 
@@ -29,6 +43,8 @@ Haltestellen des Ersatzverkehrs:
 * S Beusselstraße - Beusselstraße (auf der Brücke, BVG Linie 106, 123)
 * S Westhafen - Puttlitzbrücke (BVG Linie 142)
 * S Wedding - Müllerstr. (BVG Linie 120)
+
+In der Zeit zwischen 14 - 20 Uhr werden zusätzliche Züge zwischen Tempelhof \<\> Blankenburg (über Ostkreuz) angeboten.
 
 Über die Dauer der Einschränkungen kann aktuell noch keine Aussage getroffen werden.
 
