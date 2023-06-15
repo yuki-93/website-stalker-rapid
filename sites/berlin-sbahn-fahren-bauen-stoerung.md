@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus (Kabelbrand) im Bereich Wedding ###
 
- Letztes Update: 14:19 / 15.06.2023
+ Letztes Update: 20:09 / 15.06.2023
 
 Information
 
@@ -29,8 +29,6 @@ Haltestellen des Ersatzverkehrs:
 * S Beusselstraße - Beusselstraße (auf der Brücke, BVG Linie 106, 123)
 * S Westhafen - Puttlitzbrücke (BVG Linie 142)
 * S Wedding - Müllerstr. (BVG Linie 120)
-
-In der Zeit zwischen 14 - 20 Uhr werden zusätzliche Züge zwischen Tempelhof \<\> Blankenburg (über Ostkreuz) angeboten.
 
 Über die Dauer der Einschränkungen kann aktuell noch keine Aussage getroffen werden.
 
