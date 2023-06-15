@@ -35,12 +35,6 @@ Das Anker-Erlebnis entdecken
 
   [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner2_1)
 
-* ### Anker EverFrost Akku-Kühlbox ###
-
-  Bis zu 15% Frühbucherrabatt
-
-  [Entdecke EverFrostAnker EverFrost Akku-Kühlbox](https://www.anker.com/eu-de/everfrost-akku-kuehlbox?ref=productBanner2_2)
-
 * ###
 
    ###
@@ -52,7 +46,13 @@ Das Anker-Erlebnis entdecken
   800W Mikro-Wechselrichter, begrenzt auf 600W.
   Bis zu 10% Rabatt
 
-  [Jetzt vorbestellen! ,SOLIX RS40P | RS40,600W/800W Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-800-watt-erlaubt?ref=productBanner2_3)
+  [Jetzt vorbestellen! ,SOLIX RS40P | RS40,600W/800W Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-800-watt-erlaubt?ref=productBanner2_2)
+
+* ### Anker EverFrost Akku-Kühlbox ###
+
+  Bis zu 15% Frühbucherrabatt
+
+  [Entdecke EverFrostAnker EverFrost Akku-Kühlbox](https://www.anker.com/eu-de/everfrost-akku-kuehlbox?ref=productBanner2_3)
 
 * ### Die Extraportion Power mit Ankers meistgekauften Ladegeräten  ###
 

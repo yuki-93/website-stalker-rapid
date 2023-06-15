@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus (Kabelbrand) im Bereich Wedding ###
 
- Letztes Update: 10:12 / 15.06.2023
+ Letztes Update: 11:13 / 15.06.2023
 
 Information
 
@@ -16,19 +16,19 @@ Wegen Beeinträchtigungen durch Vandalismus (Kabelbrand) ist der Zugverkehr der 
 
 Die Linien S41 und S42 fahren nur im 10-Minuten Takt.
 
-Ein Ersatzverkehr mit Bussen zwischen Beusselstraße \<\> Wedding wurde eingerichtet.
+Bitte nutzen Sie ***vorrangig*** folgende Umfahrungsmöglichkeiten:
+
+* zwischen Wedding und Westhafen die U-Bahnlinien U6 und U9 mit Umsteigen am U-Bhf. Leopoldplatz
+* zwischen Wedding und Beusselstraße die U-Bahnlinie U6 und die Buslinie 106 mit Umsteigen am U-Bhf. Seestraße
+* zur weiträumigen Umfahrung zwischen Gesundbrunnen und Westkreuz die S-Bahnlinien S1, S2, S25, S26 sowie S3, S5, S7, S9 mit Umsteigen am S+U-Bhf. Friedrichstraße
+
+Ein Ersatzverkehr mit Bussen verkehrt zwischen Beusselstraße \<\> Wedding.
 
 Haltestellen des Ersatzverkehrs:
 
 * S Beusselstraße - Beusselstraße (auf der Brücke, BVG Linie 106, 123)
 * S Westhafen - Puttlitzbrücke (BVG Linie 142)
 * S Wedding - Müllerstr. (BVG Linie 120)
-
-Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
-
-* zwischen Wedding und Westhafen die U-Bahnlinien U6 und U9 mit Umsteigen am U-Bhf. Leopoldplatz
-* zwischen Wedding und Beusselstraße die U-Bahnlinie U6 und die Buslinie 106 mit Umsteigen am U-Bhf. Seestraße
-* zur weiträumigen Umfahrung zwischen Gesundbrunnen und Westkreuz die S-Bahnlinien S1, S2, S25, S26 sowie S3, S5, S7, S9 mit Umsteigen am S+U-Bhf. Friedrichstraße
 
 **Über die Dauer der Einschränkungen kann aktuell noch keine Aussage getroffen werden.**
 
