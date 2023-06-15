@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus (Kabelbrand) im Bereich Wedding ###
 
- Letztes Update: 11:13 / 15.06.2023
+ Letztes Update: 11:36 / 15.06.2023
 
 Information
 
@@ -30,7 +30,7 @@ Haltestellen des Ersatzverkehrs:
 * S Westhafen - Puttlitzbrücke (BVG Linie 142)
 * S Wedding - Müllerstr. (BVG Linie 120)
 
-**Über die Dauer der Einschränkungen kann aktuell noch keine Aussage getroffen werden.**
+Über die Dauer der Einschränkungen kann aktuell noch keine Aussage getroffen werden.
 
 Wir bitten um Ihr Verständnis.
 
