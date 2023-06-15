@@ -49,26 +49,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1-nord-5/#con-27146)
 
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Baumschulenweg \> Flughafen BER T1-2 ###
-
-15.06. (Do) und 16.06. (Fr), jeweils 3:02 Uhr bis 4 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23521&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17278&tx_sbbconstructions_list%5Bperiod%5D=16916&type=5679&cHash=10d3cd6a552036cdf0f496648c33f269)
-
- Zugverkehr verändert
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) wird von Charlottenburg bis Baumschulenweg über Schöneberg, Südkreuz und Neukölln umgeleitet.
-* Die Halte auf der Stadtbahn, von Charlottenburg bis Baumschulenweg entfallen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -125,24 +105,6 @@ Information
 
  Nur Nachts
 
-### Ostbahnhof \> Grunewald ###
-
-15.06. (Do) und 16.06. (Fr), jeweils 1:28 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27153&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20263&tx_sbbconstructions_list%5Bperiod%5D=16911&type=5679&cHash=e5988760e275c010c2ac12d8a8f00f05)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 0:51 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:28 Uhr in Ostbahnhof.
-* Der Zug fällt von Ostbahnhof bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Warschauer Straße \> Friedrichstraße ###
 
 15.06. (Do) und 16.06. (Fr), jeweils 1:46 Uhr bis 1:56 Uhr
@@ -173,6 +135,24 @@ Information
 
 * Der Zug Flughafen BER – Terminal 1-2 ab 1:31 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:06 Uhr in Warschauer Straße.
 * Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof \> Grunewald ###
+
+15.06. (Do) und 16.06. (Fr), jeweils 1:28 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27153&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20263&tx_sbbconstructions_list%5Bperiod%5D=16911&type=5679&cHash=e5988760e275c010c2ac12d8a8f00f05)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER – Terminal 1-2 ab 0:51 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:28 Uhr in Ostbahnhof.
+* Der Zug fällt von Ostbahnhof bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
