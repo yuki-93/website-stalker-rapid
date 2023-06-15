@@ -141,6 +141,24 @@ Information
 
  Nur Nachts
 
+### Alexanderplatz \> Treptower Park ###
+
+15.06. (Do) und 16.06. (Fr), jeweils 3:05 Uhr bis 3:14 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19432&tx_sbbconstructions_list%5Bperiod%5D=16915&type=5679&cHash=b8546b41e99a08b2f514b52c456ed65a)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
+* Der Zug fällt von Alexanderplatz bis Treptower Park aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
 ### Ostbahnhof \> Grunewald ###
 
 15.06. (Do) und 16.06. (Fr), jeweils 1:28 Uhr bis 1:55 Uhr
@@ -171,24 +189,6 @@ Information
 
 * Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) wird von Charlottenburg bis Baumschulenweg über Schöneberg, Südkreuz und Neukölln umgeleitet.
 * Die Halte auf der Stadtbahn, von Charlottenburg bis Baumschulenweg entfallen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Treptower Park ###
-
-15.06. (Do) und 16.06. (Fr), jeweils 3:05 Uhr bis 3:14 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19432&tx_sbbconstructions_list%5Bperiod%5D=16915&type=5679&cHash=b8546b41e99a08b2f514b52c456ed65a)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
-* Der Zug fällt von Alexanderplatz bis Treptower Park aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
