@@ -4,49 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus (Kabelbrand) im Bereich Wedding ###
 
- Letztes Update: 22:23 / 14.06.2023
+ Letztes Update: 03:22 / 15.06.2023
 
 Information
 
-Wegen Beeinträchtigungen durch Vandalismus (Kabelbrand) ist der Zugverkehr der Linien S41 und S42 zwischen Beusselstraße und Gesundbrunnen unterbrochen.
+Wegen Beeinträchtigungen durch Vandalismus (Kabelbrand) ist der Zugverkehr der Linien S41 und S42 zwischen Beusselstraße und Wedding unterbrochen.
 
-Bitte nutzen Sie zur Umfahrung die U-Bahnlinien U6, U8 und U9 sowie die S-Bahnlinien S1, S2 und S25.
+Die Linien S41 und S42 fahren nur im 10-Minuten Takt.
 
-Wir bitten Ihr Verständnis.
+Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+
+* zwischen Wedding und Westhafen die U-Bahnlinien U6 und U9 mit Umsteigen am U-Bhf. Leopoldplatz
+* zwischen Wedding und Beusselstraße die U-Bahnlinie U6 und die Buslinie 106 mit Umsteigen am U-Bhf. Seestraße
+* zur weiträumigen Umfahrung zwischen Gesundbrunnen und Westkreuz die S-Bahnlinien S1, S2, S25, S26 sowie S3, S5, S7, S9 mit Umsteigen am S+U-Bhf. Friedrichstraße
+
+**Über die Dauer der Einschränkungen kann aktuell noch keine Aussage getroffen werden.**
+
+Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an der Strecke zwischen Yorckstraße (Großgörschenstraße) und Anhalter Bahnhof ###
-
- Letztes Update: 23:05 / 13.06.2023
-
-Information
-
-Wegen einer Reparatur an der Strecke zwischen Yorckstraße (Großgörschenstraße) und Anhalter Bahnhof kommt es auf der Linie S1 **bis voraussichtlich 15.06.2023, ca. 01:30 Uhr** zu Verspätungen und nachfolgenden Einschränkungen:
-
-**Zugverkehr:**
-
-* **S1 fährt**: Wannsee \<\> Anhalter Bahnhof ***sowie*** Potsdamer Platz \<\> Oranienburg
-  * *der 10-Minuten-Takt tagsüber besteht zwischen Wannsee \<\> Yorckstraße (Großgörschenstraße) sowie Potsdamer Platz \<\> Frohnau*
-  * *die zusätzlichen Züge in der Hauptverkehrszeit (von ca. 7:00 Uhr bis 9:30 Uhr und ca. 15:00 Uhr bis 18:30 Uhr) zwischen Zehlendorf und Potsdamer Platz verkehren nicht*
-
----
-
-**Gleisänderung in Anhalter Bahnhof:**
-
-* die Züge nach Wannsee fahren in Anhalter Bahnhof von Gleis 3 (Bahnsteig stadteinwärts, Richtung Potsdamer Platz).
-
-Zwischen Anhalter Bahnhof und Potsdamer Platz nutzen Sie bitte die Linien S2, S25 und S26.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
@@ -75,60 +55,6 @@ Information
 
  Nur Nachts
 
-### Ostbahnhof \> Grunewald ###
-
-15.06. (Do) und 16.06. (Fr), jeweils 1:28 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27153&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20263&tx_sbbconstructions_list%5Bperiod%5D=16911&type=5679&cHash=e5988760e275c010c2ac12d8a8f00f05)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 0:51 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:28 Uhr in Ostbahnhof.
-* Der Zug fällt von Ostbahnhof bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Friedrichstraße ###
-
-15.06. (Do) und 16.06. (Fr), jeweils 1:46 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23484&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17255&tx_sbbconstructions_list%5Bperiod%5D=16912&type=5679&cHash=8dcd6ff6195f8033db49a18a04850439)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 1:11 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:46 Uhr in Warschauer Straße.
-* Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Ostbahnhof ###
-
-15.06. (Do) und 16.06. (Fr), jeweils 2:06 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&tx_sbbconstructions_list%5Bperiod%5D=16914&type=5679&cHash=4c990498b606d4ae7743fe77bc631f4f)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 1:31 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:06 Uhr in Warschauer Straße.
-* Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Charlottenburg \> Baumschulenweg \> Flughafen BER T1-2 ###
 
 15.06. (Do) und 16.06. (Fr), jeweils 3:02 Uhr bis 4 Uhr
@@ -142,42 +68,6 @@ Information
 * Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) wird von Charlottenburg bis Baumschulenweg über Schöneberg, Südkreuz und Neukölln umgeleitet.
 * Die Halte auf der Stadtbahn, von Charlottenburg bis Baumschulenweg entfallen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Treptower Park ###
-
-15.06. (Do) und 16.06. (Fr), jeweils 3:05 Uhr bis 3:14 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19432&tx_sbbconstructions_list%5Bperiod%5D=16915&type=5679&cHash=b8546b41e99a08b2f514b52c456ed65a)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
-* Der Zug fällt von Alexanderplatz bis Treptower Park aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Treptower Park ###
-
-15.06. (Do),3:12 Uhr bis 3:43 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26641&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19728&tx_sbbconstructions_list%5Bperiod%5D=16918&type=5679&cHash=0c98249752b6d2b0f725f59b52741289)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:43 Uhr in Treptower Park.
-* Der Zug fällt von Westkreuz bis Treptower Park aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
