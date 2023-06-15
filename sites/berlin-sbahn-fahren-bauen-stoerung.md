@@ -8,11 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Hackescher Markt ###
 
- Letztes Update: 12:49 / 15.06.2023
+ Letztes Update: 14:21 / 15.06.2023
 
 Information
 
 Wegen einer Reparatur an der Strecke im Bereich Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+Die Linie S3 verkehrt Erkner\<\>Spandau/Ostbahnhof,
+
+Die Linie S5 verkehrt Strausberg Nord\<\>Warschauer Straße im 10. Minuten Takt.
+
+Die Linie S7 Ahrensfelde\<\>Ostbahnhof und Potsdam\<\>Charlottenburg im 10 Minuten Takt.
+
+Die Linie S75 Wartenberg\<\>Lichtenberg im 10 Minuten Takt.
+
+Die Linie S9 Flughafen T1/2\<\>Spandau.
+
+Die zusätzlichen Züge in der Hauptverkehrszeit der Linie S3 und S5 kommen nicht zum Einsatz.
 
 Wir bitten um Entschuldigung.
 
@@ -22,7 +34,7 @@ Wir bitten um Entschuldigung.
 
 ### Beeinträchtigung durch Vandalismus (Kabelbrand) im Bereich Wedding ###
 
- Letztes Update: 12:48 / 15.06.2023
+ Letztes Update: 14:19 / 15.06.2023
 
 Information
 
