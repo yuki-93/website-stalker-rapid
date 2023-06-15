@@ -8,15 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Hackescher Markt beendet ###
 
- Letztes Update: 14:44 / 15.06.2023
+ Letztes Update: 15:45 / 15.06.2023
 
 Information
 
 Nach einer Reparatur an der Strecke im Bereich Hackescher Markt kommt es auf den Linien S3, S5, S7,S75 und S9 noch zu Verspätungen und Ausfällen.
-
-Die Linie S5 verkehrt Strausberg Nord\<\>Warschauer Straße im 10. Minuten Takt.
-
-Die Linie S75 Wartenberg\<\>Lichtenberg im 10 Minuten Takt.
 
 Die zusätzlichen Züge in der Hauptverkehrszeit der Linie S3 und S5 kommen nicht zum Einsatz.
 
