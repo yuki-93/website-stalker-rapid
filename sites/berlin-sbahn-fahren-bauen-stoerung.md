@@ -6,23 +6,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Jannowitzbrücke beendet ###
+### Signalstörung in Hauptbahnhof ###
 
- Letztes Update: 08:25 / 16.06.2023
+ Letztes Update: 10:23 / 16.06.2023
 
 Information
 
-Nach einem Polizeieinsatz in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen einer Signalstörung in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung verspätet
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus (Kabelbrand) im Bereich Wedding ###
 
- Letztes Update: 08:03 / 16.06.2023
+ Letztes Update: 09:50 / 16.06.2023
 
 Information
 
