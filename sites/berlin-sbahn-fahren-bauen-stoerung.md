@@ -38,25 +38,6 @@ Wir bitten um Ihr Verständnis.
 
 ### Baumaßnahmen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
- Nur Nachts
-
-### Birkenwerder \<\> Oranienburg ###
-
-Nacht 15./16.06. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27146&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20256&tx_sbbconstructions_list%5Bperiod%5D=16991&type=5679&cHash=24bd5fdb80385ccbbe1149636127b747)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1-nord-5/#con-27146)
-
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
 Nur Wochenende
@@ -88,42 +69,6 @@ Information
 
  Nur Nachts
 
-### Warschauer Straße \> Friedrichstraße ###
-
-15.06. (Do) und 16.06. (Fr), jeweils 1:46 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23484&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17255&tx_sbbconstructions_list%5Bperiod%5D=16912&type=5679&cHash=8dcd6ff6195f8033db49a18a04850439)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 1:11 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:46 Uhr in Warschauer Straße.
-* Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Ostbahnhof ###
-
-15.06. (Do) und 16.06. (Fr), jeweils 2:06 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23519&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17276&tx_sbbconstructions_list%5Bperiod%5D=16914&type=5679&cHash=4c990498b606d4ae7743fe77bc631f4f)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 1:31 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 2:06 Uhr in Warschauer Straße.
-* Der Zug fällt von Warschauer Straße bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Charlottenburg \> Baumschulenweg \> Flughafen BER T1-2 ###
 
 15.06. (Do) und 16.06. (Fr), jeweils 3:02 Uhr bis 4 Uhr
@@ -137,100 +82,6 @@ Information
 * Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) wird von Charlottenburg bis Baumschulenweg über Schöneberg, Südkreuz und Neukölln umgeleitet.
 * Die Halte auf der Stadtbahn, von Charlottenburg bis Baumschulenweg entfallen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Treptower Park ###
-
-15.06. (Do) und 16.06. (Fr), jeweils 3:05 Uhr bis 3:14 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19432&tx_sbbconstructions_list%5Bperiod%5D=16915&type=5679&cHash=b8546b41e99a08b2f514b52c456ed65a)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
-* Der Zug fällt von Alexanderplatz bis Treptower Park aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof \> Grunewald ###
-
-15.06. (Do) und 16.06. (Fr), jeweils 1:28 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27153&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20263&tx_sbbconstructions_list%5Bperiod%5D=16911&type=5679&cHash=e5988760e275c010c2ac12d8a8f00f05)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 0:51 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:28 Uhr in Ostbahnhof.
-* Der Zug fällt von Ostbahnhof bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Waßmannsdorf \> Flughafen BER – Terminal 1-2 ###
-
-16.06. (Fr) 1:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27319&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20427&tx_sbbconstructions_list%5Bperiod%5D=16999&type=5679&cHash=f62bde292e97844ea23950180311974a)
-
- Takt geändert
-
-Information
-
-* Der Zug Waßmannsdorf ab 1:32 Uhr nach Flughafen BER – Terminal 1-2 (an 1:36 Uhr) fährt in Waßmannsdorf von Gleis 2 (Bahnsteig stadteinwärts).
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Flughafen BER Terminal 5 \> Flughafen BER – Terminal 1-2 ###
-
-16.06. (Fr) 1:36 Uhr bis 1:46 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20426&tx_sbbconstructions_list%5Bperiod%5D=16998&type=5679&cHash=200b2d5e9a80cff81a2851bb0fbb3856)
-
-19.06. (Mo) 1:36 Uhr bis 1:46 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20426&tx_sbbconstructions_list%5Bperiod%5D=17002&type=5679&cHash=295ff748abf50b3a6d2f13b1f7e76cb7)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20426&type=5679&cHash=75f8fa6b1d738a1a1ac16163392f6634)
-
- Takt geändert
-
-Information
-
-* Der Zug Spandau ab 0:18 Uhr nach Flughafen BER – Terminal 1-2 (an 1:36 Uhr) fährt von Flughafen BER – Terminal 5 bis Flughafen BER – Terminal 1-2 ca. 10 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Warschauer Straße ###
-
-16.06. (Fr) 3:12 Uhr bis 3:39 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&tx_sbbconstructions_list%5Bperiod%5D=17000&type=5679&cHash=88cc77b021ddc67f8ba1e6530e2715a0)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:39 Uhr in Warschauer Straße.
-* Der Zug fällt von Westkreuz bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -604,29 +455,6 @@ Information
 
  Nur Nachts
 
-### Flughafen BER Terminal 5 \> Flughafen BER – Terminal 1-2 ###
-
-16.06. (Fr) 1:36 Uhr bis 1:46 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20426&tx_sbbconstructions_list%5Bperiod%5D=16998&type=5679&cHash=200b2d5e9a80cff81a2851bb0fbb3856)
-
-19.06. (Mo) 1:36 Uhr bis 1:46 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20426&tx_sbbconstructions_list%5Bperiod%5D=17002&type=5679&cHash=295ff748abf50b3a6d2f13b1f7e76cb7)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20426&type=5679&cHash=75f8fa6b1d738a1a1ac16163392f6634)
-
- Takt geändert
-
-Information
-
-* Der Zug Spandau ab 0:18 Uhr nach Flughafen BER – Terminal 1-2 (an 1:36 Uhr) fährt von Flughafen BER – Terminal 5 bis Flughafen BER – Terminal 1-2 ca. 10 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Waßmannsdorf \> Flughafen BER – Terminal 5 ###
 
 19.06. Mo) 1:33 Uhr
@@ -638,6 +466,23 @@ Information
 Information
 
 * Der Zug Waßmannsdorf ab 1:33 Uhr nach Ostbahnhof (an 2:08 Uhr) fährt in Waßmannsdorf von Gleis 1 (Bahnsteig stadtauswärts).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Flughafen BER Terminal 5 \> Flughafen BER – Terminal 1-2 ###
+
+19.06. (Mo) 1:36 Uhr bis 1:46 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20426&tx_sbbconstructions_list%5Bperiod%5D=17002&type=5679&cHash=295ff748abf50b3a6d2f13b1f7e76cb7)
+
+ Takt geändert
+
+Information
+
+* Der Zug Spandau ab 0:18 Uhr nach Flughafen BER – Terminal 1-2 (an 1:36 Uhr) fährt von Flughafen BER – Terminal 5 bis Flughafen BER – Terminal 1-2 ca. 10 Minuten später.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
