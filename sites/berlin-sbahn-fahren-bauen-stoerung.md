@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz zwischen Lichtenberg und Friedrichsfelde Ost beendet ###
-
- Letztes Update: 16:25 / 16.06.2023
-
-Information
-
-Nach einem Polizeieinsatz zwischen Lichtenberg und Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Ausfällen und Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus (Kabelbrand) im Bereich Wedding ###
