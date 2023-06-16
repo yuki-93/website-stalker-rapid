@@ -8,27 +8,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus (Kabelbrand) im Bereich Wedding ###
 
- Letztes Update: 20:09 / 15.06.2023
+ Letztes Update: 05:53 / 16.06.2023
 
 Information
 
-Wegen Beeinträchtigungen durch Vandalismus (Kabelbrand) ist der Zugverkehr der Linien S41 und S42 zwischen Beusselstraße \<\> Wedding unterbrochen.
+Wegen Beeinträchtigungen durch Vandalismus (Kabelbrand) ist der Zugverkehr der Linien S41 und S42 zwischen Beusselstraße und Wedding unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
-Die Linien S41 und S42 fahren nur im 10-Minuten Takt.
+**Die betroffenen Linien fahren wie folgt:**
 
-Bitte nutzen Sie ***vorrangig*** folgende Umfahrungsmöglichkeiten:
+* **S41**: Wedding \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Beusselstraße **im 10-Minuten-Takt,** *die zusätzlichen Züge fahren zwischen Blankenburg \> Bornholmer Straße \> Schönhauser Allee \> Ostkreuz \> Tempelhof*
+* **S42**: Beusselstraße \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Wedding **im 10-Minuten-Takt,** *die zusätzlichen Züge fahren zwischen Tempelhof \> Ostkreuz \> Schönhauser Allee \> Bornholmer Straße \> Blankenburg*
+
+---
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte vorrangig:**
 
 * zwischen Wedding und Westhafen die U-Bahnlinien U6 und U9 mit Umsteigen am U-Bhf. Leopoldplatz
 * zwischen Wedding und Beusselstraße die U-Bahnlinie U6 und die Buslinie 106 mit Umsteigen am U-Bhf. Seestraße
-* zur weiträumigen Umfahrung zwischen Gesundbrunnen und Westkreuz die S-Bahnlinien S1, S2, S25, S26 sowie S3, S5, S7, S9 mit Umsteigen am S+U-Bhf. Friedrichstraße
+* zwischen Gesundbrunnen und Westkreuz die S-Bahnlinien S1, S2, S25, S26 sowie S3, S5, S7, S9 mit Umsteigen am S+U-Bhf. Friedrichstraße
 
-Ein Ersatzverkehr mit Bussen verkehrt zwischen Beusselstraße \<\> Wedding.
+---
 
-Haltestellen des Ersatzverkehrs:
+**Ein Ersatzverkehr mit Bussen ist zwischen Beusselstraße und Wedding eingerichtet.**
 
-* S Beusselstraße - Beusselstraße (auf der Brücke, BVG Linie 106, 123)
-* S Westhafen - Puttlitzbrücke (BVG Linie 142)
-* S Wedding - Müllerstr. (BVG Linie 120)
+*Haltestellen des Ersatzverkehrs:*
+
+* S-Bhf. Beusselstraße: Beusselstraße (auf der Brücke, wie BVG-Buslinie 106 und 123)
+* S-Bhf. Westhafen: Puttlitzbrücke (wie BVG-Buslinie 142)
+* S-Bhf. Wedding: Müllerstr. (wie BVG-Buslinie 120)
+
+---
 
 Über die Dauer der Einschränkungen kann aktuell noch keine Aussage getroffen werden.
 
@@ -37,6 +46,21 @@ Wir bitten um Ihr Verständnis.
  fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Buch ###
+
+02.06. (Fr), ca. 22 Uhr durchgehend bis 18.06. (So), ca. 10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27442&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20259&tx_sbbconstructions_list%5Bperiod%5D=17079&type=5679&cHash=32a627958cbfe1626207d75845acf7e0)
+
+ Zugverkehr verändert
+
+Information
+
+* Bitte beachten Sie die ggf. veränderten Abfahrtzeiten bei den einsetzeden Zügen in Buch.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
@@ -95,6 +119,21 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1-nord-6/#con-27147)
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Buch ###
+
+02.06. (Fr), ca. 22 Uhr durchgehend bis 18.06. (So), ca. 10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27442&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20259&tx_sbbconstructions_list%5Bperiod%5D=17079&type=5679&cHash=32a627958cbfe1626207d75845acf7e0)
+
+ Zugverkehr verändert
+
+Information
+
+* Bitte beachten Sie die ggf. veränderten Abfahrtzeiten bei den einsetzeden Zügen in Buch.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
 Nur Wochenende
@@ -125,6 +164,21 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Buch ###
+
+02.06. (Fr), ca. 22 Uhr durchgehend bis 18.06. (So), ca. 10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27442&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20259&tx_sbbconstructions_list%5Bperiod%5D=17079&type=5679&cHash=32a627958cbfe1626207d75845acf7e0)
+
+ Zugverkehr verändert
+
+Information
+
+* Bitte beachten Sie die ggf. veränderten Abfahrtzeiten bei den einsetzeden Zügen in Buch.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
