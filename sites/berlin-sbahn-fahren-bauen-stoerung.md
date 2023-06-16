@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Streckensperrung Springpfuhl ###
+### Streckensperrung Springpfuhl aufgehoben ###
 
- Letztes Update: 21:50 / 16.06.2023
+ Letztes Update: 23:08 / 16.06.2023
 
 Information
 
-Wegen einer Streckensperrung in Springpfuhl (Oberleitungsstörung bei der Fernbahn) kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Zugausfällen.
+Nach einer Streckensperrung in Springpfuhl (Oberleitungsstörung bei der Fernbahn) kann es auf den Linien S5, S7 und S75 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
