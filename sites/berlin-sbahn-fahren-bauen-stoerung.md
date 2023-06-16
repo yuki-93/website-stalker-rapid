@@ -6,27 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz zwischen Lichtenberg und Friedrichsfelde Ost ###
+### Polizeieinsatz zwischen Lichtenberg und Friedrichsfelde Ost beendet ###
 
- Letztes Update: 16:16 / 16.06.2023
-
-Information
-
-Wegen eines Polizeieinsatzes zwischen Lichtenberg und Friedichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Ausffällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz zwischen Hermannstraße und Tempelhof beendet ###
-
- Letztes Update: 16:03 / 16.06.2023
+ Letztes Update: 16:25 / 16.06.2023
 
 Information
 
-Nach einem Polizeieinsatz zwischen Hermannstraße und Tempelhof kommt es auf den Linien S 41, S42, S 45, S46, und S47 noch zu Ausfällen und Verspätungen.
+Nach einem Polizeieinsatz zwischen Lichtenberg und Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Ausfällen und Verspätungen.
 
 Wir bitten um Entschuldigung.
 
