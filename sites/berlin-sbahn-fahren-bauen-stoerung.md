@@ -4,43 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Beeinträchtigung durch Vandalismus (Kabelbrand) im Bereich Wedding ###
+### Streckensperrung Springpfuhl ###
 
- Letztes Update: 21:06 / 16.06.2023
+ Letztes Update: 21:50 / 16.06.2023
 
 Information
 
-Wegen Beeinträchtigungen durch Vandalismus (Kabelbrand) ist der Zugverkehr der Linien S41 und S42 zwischen Beusselstraße und Wedding bis 17.06.2023 ca. 04:00 Uhr unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen einer Streckensperrung in Springpfuhl (Oberleitungsstörung bei der Fernbahn) kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Zugausfällen.
 
-**Die betroffenen Linien fahren wie folgt:**
+Wir bitten um Entschuldigung.
 
-* **S41**: Wedding \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Beusselstraße **im 10-Minuten-Takt,** *die zusätzlichen Züge fahren zwischen Blankenburg \> Bornholmer Straße \> Schönhauser Allee \> Ostkreuz \> Tempelhof*
-* **S42**: Beusselstraße \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Wedding **im 10-Minuten-Takt,** *die zusätzlichen Züge fahren zwischen Tempelhof \> Ostkreuz \> Schönhauser Allee \> Bornholmer Straße \> Blankenburg*
-
----
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte vorrangig:**
-
-* zwischen Wedding und Westhafen die U-Bahnlinien U6 und U9 mit Umsteigen am U-Bhf. Leopoldplatz
-* zwischen Wedding und Beusselstraße die U-Bahnlinie U6 und die Buslinie 106 mit Umsteigen am U-Bhf. Seestraße
-* zwischen Wedding, Nettelbeckplatz und Jungfernheide die BVG-Buslinie M27
-* zwischen Gesundbrunnen und Westkreuz die S-Bahnlinien S1, S2, S25, S26 sowie S3, S5, S7, S9 mit Umsteigen am S+U-Bhf. Friedrichstraße
-
----
-
-**Ein Ersatzverkehr mit Bussen verkehrt unregelmäßig zwischen Beusselstraße und Wedding.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Beusselstraße: Beusselstraße (auf der Brücke, wie BVG-Buslinie 106 und 123)
-* S-Bhf. Westhafen: Puttlitzbrücke (wie BVG-Buslinie 142)
-* S-Bhf. Wedding: Müllerstr. (wie BVG-Buslinie 120)
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
