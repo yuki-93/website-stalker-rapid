@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus (Kabelbrand) im Bereich Wedding ###
 
- Letztes Update: 05:53 / 16.06.2023
+ Letztes Update: 06:46 / 16.06.2023
 
 Information
 
@@ -26,16 +26,6 @@ Wegen Beeinträchtigungen durch Vandalismus (Kabelbrand) ist der Zugverkehr der 
 * zwischen Wedding und Westhafen die U-Bahnlinien U6 und U9 mit Umsteigen am U-Bhf. Leopoldplatz
 * zwischen Wedding und Beusselstraße die U-Bahnlinie U6 und die Buslinie 106 mit Umsteigen am U-Bhf. Seestraße
 * zwischen Gesundbrunnen und Westkreuz die S-Bahnlinien S1, S2, S25, S26 sowie S3, S5, S7, S9 mit Umsteigen am S+U-Bhf. Friedrichstraße
-
----
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Beusselstraße und Wedding eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Beusselstraße: Beusselstraße (auf der Brücke, wie BVG-Buslinie 106 und 123)
-* S-Bhf. Westhafen: Puttlitzbrücke (wie BVG-Buslinie 142)
-* S-Bhf. Wedding: Müllerstr. (wie BVG-Buslinie 120)
 
 ---
 
