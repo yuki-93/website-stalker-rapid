@@ -352,6 +352,12 @@
 
 27,25 €mit MwSt.
 
+[Shelly Pro Dual Cover PM](https://www.shelly.cloud/de/products/shop/shelly-pro-dual-cover-pm)
+
+97,90 €
+
+116,50 €mit MwSt.
+
 [Shelly Pro 3EM Switch Add-On](https://www.shelly.cloud/de/products/shop/shelly-pro-3-em-switch-add-on)
 
 19,90 €
