@@ -8,14 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung eines Fahrgastes in Schönhauser Allee beendet ###
 
- Letztes Update: 11:07 / 16.06.2023
+ Letztes Update: 11:43 / 16.06.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-* Die zusätzlichen Züge zwischen Blankenburg und Tempelhof fahren nicht.
-* Die Linie S85 verkehrt nicht.
+Nach der ärztlichen Versorgung eines Fahrgastes in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
