@@ -4,25 +4,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Signalstörung in Hauptbahnhof ###
+### ärztliche Versorgung eines Fahrgastes in Schönhauser Allee beendet ###
 
- Letztes Update: 10:23 / 16.06.2023
+ Letztes Update: 11:07 / 16.06.2023
 
 Information
 
-Wegen einer Signalstörung in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
 
-Wir bitten um Entschuldigung.
+* Die zusätzlichen Züge zwischen Blankenburg und Tempelhof fahren nicht.
+* Die Linie S85 verkehrt nicht.
 
- Zugverkehr verändert  Verbindung verspätet
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Beeinträchtigung durch Vandalismus (Kabelbrand) im Bereich Wedding ###
 
- Letztes Update: 09:50 / 16.06.2023
+ Letztes Update: 10:37 / 16.06.2023
 
 Information
 
