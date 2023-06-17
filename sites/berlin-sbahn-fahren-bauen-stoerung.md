@@ -2,33 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Baumaßnahmen ###
+### Störungen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-Nur Wochenende
+### Stellwerkstörung Birkenwerder ###
 
-### Hohen Neuendorf \<\> Oranienburg ###
-
-am 17.06. (Sa), ca. 5 Uhr - ca. 19 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27147&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20257&tx_sbbconstructions_list%5Bperiod%5D=16903&type=5679&cHash=c294753f7a7db3707f3610977f64f36c)
-
-am 18.06. (So), ca. 7 Uhr - ca. 19 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27147&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20257&tx_sbbconstructions_list%5Bperiod%5D=16904&type=5679&cHash=15788cf7552878df585b8af9088eabd0)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27147&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20257&type=5679&cHash=2daf47738c410d629cf7c2cb480a88b0)
-
- Ersatzverkehr
+ Letztes Update: 18:17 / 17.06.2023
 
 Information
 
-* Ersatzverkehr mit Bussen
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+Wegen einer Reparatur am Stellwerk in Birkenwerder verkehrt die Linie S8 zwischen Grünau und Hohen Neuendorf.
+*Bitte nutzen Sie zwischen Hohen Neuendorf und Birkenwerder die Linie S1.*
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1-nord-6/#con-27147)
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -82,15 +73,9 @@ Nur Wochenende
 
 ### Hohen Neuendorf \<\> Oranienburg ###
 
-am 17.06. (Sa), ca. 5 Uhr - ca. 19 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27147&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20257&tx_sbbconstructions_list%5Bperiod%5D=16903&type=5679&cHash=c294753f7a7db3707f3610977f64f36c)
-
 am 18.06. (So), ca. 7 Uhr - ca. 19 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27147&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20257&tx_sbbconstructions_list%5Bperiod%5D=16904&type=5679&cHash=15788cf7552878df585b8af9088eabd0)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27147&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20257&type=5679&cHash=2daf47738c410d629cf7c2cb480a88b0)
 
  Ersatzverkehr
 
