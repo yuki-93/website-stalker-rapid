@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz Grunewald ###
-
- Letztes Update: 21:03 / 17.06.2023
-
-Information
-
-Wegen eines Polizeieinsatzes in Grunewald (unbefugte Personen auf der Strecke) ist der Zugverkehr der Linie S7 zwischen Charlottenburg und Grunewald unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Stellwerkstörung Birkenwerder ###
