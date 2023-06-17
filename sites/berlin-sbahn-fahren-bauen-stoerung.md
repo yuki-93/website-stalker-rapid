@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Hauptbahnhof ###
-
- Letztes Update: 06:20 / 17.06.2023
-
-Information
-
-Wegen eines Polizeieinsatzes entfällt für die Züge der Linien S3 (Richtung Erkner), S5 (Richtung Wartenberg), S7 (Richtung Ahrensfelde), S9 (Richtung Flughafen BER Terminal 1-2) der Halt in Hauptbahnhof.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
