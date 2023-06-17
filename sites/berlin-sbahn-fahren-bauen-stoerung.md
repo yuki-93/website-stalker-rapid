@@ -42,7 +42,7 @@ Information
 
 Information
 
-* Bitte beachten Sie die ggf. veränderten Abfahrtzeiten bei den einsetzeden Zügen in Buch.
+* Bitte beachten Sie die ggf. veränderten Abfahrtzeiten bei den einsetzenden Zügen in Buch.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
@@ -133,7 +133,7 @@ Information
 
 Information
 
-* Bitte beachten Sie die ggf. veränderten Abfahrtzeiten bei den einsetzeden Zügen in Buch.
+* Bitte beachten Sie die ggf. veränderten Abfahrtzeiten bei den einsetzenden Zügen in Buch.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
