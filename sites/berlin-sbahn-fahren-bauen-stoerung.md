@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz Köpenick ###
+
+ Letztes Update: 23:13 / 18.06.2023
+
+Information
+
+Wegen einen Polizeieinsatz in Köpenick ist der Zugverkehr der Linie S3 zwischen Friedrichshagen und Wuhlheide unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Stellwerkstörung Birkenwerder ###
