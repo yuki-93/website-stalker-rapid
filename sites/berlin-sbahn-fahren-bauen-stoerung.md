@@ -43,21 +43,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bruecke-wiltbergstrasse-herstellen-des-bauzustand/#con-27149)
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Buch ###
-
-02.06. (Fr), ca. 22 Uhr durchgehend bis 18.06. (So), ca. 10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27442&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20259&tx_sbbconstructions_list%5Bperiod%5D=17079&type=5679&cHash=32a627958cbfe1626207d75845acf7e0)
-
- Zugverkehr verändert
-
-Information
-
-* Bitte beachten Sie die ggf. veränderten Abfahrtzeiten bei den einsetzenden Zügen in Buch.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
 Nur Wochenende
