@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz Lichterfelde Ost ###
-
- Letztes Update: 19:55 / 18.06.2023
-
-Information
-
-Wegen eines Polizeieinsatzes in Lichterfelde Ost ist der Zugverkehr der Linien S25 und S26 zwischen Südende und Lichterfelde Süd unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Stellwerkstörung Birkenwerder ###
