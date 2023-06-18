@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz zwischen Ostkreuz und Treptower Park beendet ###
+
+ Letztes Update: 15:02 / 18.06.2023
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen im Gleis) kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Yorckstraße (Großgörschenstraße) ###
@@ -17,20 +31,6 @@ Wegen der Reparatur an einem Signal kommt es auf der Linie S1 in Fahrtrichtung F
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in einem Zug in Hackescher Markt beendet ###
-
- Letztes Update: 13:47 / 18.06.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
