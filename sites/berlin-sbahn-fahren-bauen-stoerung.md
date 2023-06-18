@@ -2,23 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Stellwerkstörung Birkenwerder ###
-
- Letztes Update: 18:17 / 17.06.2023
-
-Information
-
-Wegen einer Reparatur am Stellwerk in Birkenwerder verkehrt die Linie S8 zwischen Grünau und Hohen Neuendorf.
-*Bitte nutzen Sie zwischen Hohen Neuendorf und Birkenwerder die Linie S1.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
