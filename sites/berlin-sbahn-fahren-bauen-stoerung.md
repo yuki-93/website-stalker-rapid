@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Polizeieinsatz Köpenick ###
-
- Letztes Update: 23:13 / 18.06.2023
-
-Information
-
-Wegen einen Polizeieinsatz in Köpenick ist der Zugverkehr der Linie S3 zwischen Friedrichshagen und Wuhlheide unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Stellwerkstörung Birkenwerder ###
@@ -32,56 +18,6 @@ Wegen einer Reparatur am Stellwerk in Birkenwerder verkehrt die Linie S8 zwische
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-### Baumaßnahmen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Karow \<\> Bernau ###
-
-am 18.06. (So), ca. 10 Uhr durchgehend bis 19.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27149&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20259&tx_sbbconstructions_list%5Bperiod%5D=16905&type=5679&cHash=9576ba535ee18136fbfb767e882d4774)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bruecke-wiltbergstrasse-herstellen-des-bauzustand/#con-27149)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wuhletal/Wartenberg \<\> Warschauer Straße ###
-
-vom 16.06. (Fr), ca. 22 Uhr durchgehend bis 19.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27155&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20265&tx_sbbconstructions_list%5Bperiod%5D=16917&type=5679&cHash=9ad8c4262e9e45b1345e549ecbeecc13)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen: Wuhletal \<\> Friedrichsfelde Ost
-* alternative Umfahrungsmöglichkeit:
-  * Bitte zwischen Wuhletal, Lichtenberg, Frankfurter Allee, Alexanderplatz und Berlin Hbf auch die U5 nutzen
-
-* Zugverkehr verändert: Zwischen Wartenberg \<\> Lichtenberg fährt die S5 anstatt der S75.
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-suedlichen-blumberger-damm-bruecke-1/#con-27155)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
 
@@ -227,6 +163,172 @@ Information
 
 * Der Zug Spandau ab 0:18 Uhr nach Flughafen BER – Terminal 1-2 (an 1:36 Uhr) fährt von Flughafen BER – Terminal 5 bis Flughafen BER – Terminal 1-2 ca. 10 Minuten später.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### (Teltow Stadt) Nordbahnhof \<\> Frohnau/Hennigsdorf ###
+
+19.06. (Mo), ca. 4 Uhr durchgehend bis 23.06. (Fr), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27210&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20326&tx_sbbconstructions_list%5Bperiod%5D=16941&type=5679&cHash=92f72be024828d2066dc6785114c975f)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Schönholz um. Die Weiterfahrt erfolgt nach 12 Minuten vom selben Gleis.
+     Die Wartezeit in Schönholz lässt sich durch die Nutzung der S25 (Teltow Stadt \<\> Alt-Reinickendorf) in beiden Fahrtrichtungen auf 6 Minuten reduzieren.
+
+* Zugverkehr verändert:
+  * Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Alt-Reinickendorf um. Die Weiterfahrt erfolgt in Fahrtrichtung Hennigsdorf nach 12 Minuten und in Fahrtrichtung Teltow Stadt nach 18 Minuten vom selben Gleis.
+
+* Taktänderung: Bornholmer Straße \<\> Schönholz S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S1 und S25
+* Taktänderung: Schönholz \<\> Frohnau S-Bahnverkehr nur im 20-Minutentakt S1
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-in-schoenholz-weichenerneuerung-in-alt-reinickendorf-und-vegetationsarbeiten/#con-27210)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Gehrenseestraße ###
+
+19.06. (Mo) 4 Uhr bis 08.12. (Fr) 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16986&type=5679&cHash=c20df51cc9cacfaba516395f041fa5cb)
+
+ Zugverkehr verändert
+
+Information
+
+* keine Halt in Gehrenseesrtraße
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Wartenberg \<\> Warschauer Straße ###
+
+19.06. (Mo), ca. 4 Uhr durchgehend bis 28.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16985&type=5679&cHash=86ab8834f5cf0591b21c4c15159327f2)
+
+ Takt geändert
+
+Information
+
+* ***kein Halt*** in Gehrenseestraße
+* Taktänderung: Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)
+
+### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Geänderte Linienführung Baumschulenweg \> Neukölln \> Treptower Park ###
+
+20.06. (Di) 1:58 Uhr bis 2:20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26643&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19731&tx_sbbconstructions_list%5Bperiod%5D=17003&type=5679&cHash=03093f2ad683848be3957c9572eb59eb)
+
+ Zugverkehr verändert
+
+Information
+
+* Der Zug Flughafen BER - Terminal 1-2 ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) wird von Baumschulenweg bis Treptower Park über Neukölln, Hermannstraße (mit Fahrtrichtungswechsel) umgeleitet.
+* Der Halt in Plänterwald entfällt.
+* Der Zug fährt von Treptower Park bis Ostbahnhof 12 Minuten später.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Gleisänderung in Westkreuz \> Flughafen BER – Terminal 1-2 ###
+
+20.06. (Di) 3:12 Uhr - 3:32 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20912&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15587&tx_sbbconstructions_list%5Bperiod%5D=17006&type=5679&cHash=dbfcea5fe201fc4379cb53333282e997)
+
+ Zugverkehr verändert
+
+Information
+
+* Die Züge
+  * Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2, an 4:16 Uhr und
+  * Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2, an 4.36 Uhr
+  * verkehren in Westkreuz von Gleise 2 (Bahnsteig stadtauswärts)
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Geänderte Linienführung Treptower Park \> Neukölln \> Baumschulenweg ###
+
+20.06. (Di) 3:19 Uhr bis 3:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21923&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=16211&tx_sbbconstructions_list%5Bperiod%5D=17004&type=5679&cHash=bbf7fcf3845f6c07e2e41cbe278c7672)
+
+ Takt geändert
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) wird über Neukölln (mit Fahrtrichtungswechsel) umgeleitet.
+* Der Halt in Pläterwald entfällt.
+* Durch die Umleitung entsteht ab Baumschulenweg bis Flughafen BER – Terminal 1-2 eine Fahrtzeitverlängerung von bis zu 10 Minuten.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Treptower Park bis Flughafen BER – Terminal 1-2 ###
+
+20.06. (Di) 3:34 Uhr bis 4:10 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20431&tx_sbbconstructions_list%5Bperiod%5D=17005&type=5679&cHash=8d8f86aa7047c23ad35b863f589910ff)
+
+ Takt geändert
+
+Information
+
+* Der Zug Charlottenburg ab 3:02 Uhr bis Flughafen BER – Terminal 1-2 (an 4:00 Uhr) fährt von Treptower Park bis Flughafen BER – Terminal 1-2 6 Minuten später.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Grunewald ###
+
+Nacht 20./21.06. (Di/Mi) 23 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20917&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15592&tx_sbbconstructions_list%5Bperiod%5D=13236&type=5679&cHash=b7e1ec5db05f2c725eff7e4f547cd9bf)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung in Grunewald \> Westkreuz
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/treptower-park-schoeneweide-s9021/#con-20917)
 
 Hinweis
 
@@ -510,6 +612,47 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenschleifarbeiten-9/#con-27355)
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### (Schichauweg/Teltow Stadt –) Priesterweg (– Südkreuz) ###
+
+Nacht 04./05.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27344&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20453&tx_sbbconstructions_list%5Bperiod%5D=17023&type=5679&cHash=16360a1a033b80aa7195df8d855122bd)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung in Priesterweg
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kabelarbeiten-am-unterwerk-in-priesterweg-1/#con-27344)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Bundesplatz – Halensee – Westend ###
+
+Nacht 04./05.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27350&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20459&tx_sbbconstructions_list%5Bperiod%5D=17028&type=5679&cHash=13d94aa17f6d050b4aab543c1a0bbe4c)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Taktänderung
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-7/#con-27350)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -530,82 +673,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)
 
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Geänderte Linienführung Baumschulenweg \> Neukölln \> Treptower Park ###
-
-20.06. (Di) 1:58 Uhr bis 2:20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26643&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19731&tx_sbbconstructions_list%5Bperiod%5D=17003&type=5679&cHash=03093f2ad683848be3957c9572eb59eb)
-
- Zugverkehr verändert
-
-Information
-
-* Der Zug Flughafen BER - Terminal 1-2 ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) wird von Baumschulenweg bis Treptower Park über Neukölln, Hermannstraße (mit Fahrtrichtungswechsel) umgeleitet.
-* Der Halt in Plänterwald entfällt.
-* Der Zug fährt von Treptower Park bis Ostbahnhof 12 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Gleisänderung in Westkreuz \> Flughafen BER – Terminal 1-2 ###
-
-20.06. (Di) 3:12 Uhr - 3:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20912&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15587&tx_sbbconstructions_list%5Bperiod%5D=17006&type=5679&cHash=dbfcea5fe201fc4379cb53333282e997)
-
- Zugverkehr verändert
-
-Information
-
-* Die Züge
-  * Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2, an 4:16 Uhr und
-  * Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2, an 4.36 Uhr
-  * verkehren in Westkreuz von Gleise 2 (Bahnsteig stadtauswärts)
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Geänderte Linienführung Treptower Park \> Neukölln \> Baumschulenweg ###
-
-20.06. (Di) 3:19 Uhr bis 3:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21923&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=16211&tx_sbbconstructions_list%5Bperiod%5D=17004&type=5679&cHash=bbf7fcf3845f6c07e2e41cbe278c7672)
-
- Takt geändert
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) wird über Neukölln (mit Fahrtrichtungswechsel) umgeleitet.
-* Der Halt in Pläterwald entfällt.
-* Durch die Umleitung entsteht ab Baumschulenweg bis Flughafen BER – Terminal 1-2 eine Fahrtzeitverlängerung von bis zu 10 Minuten.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Treptower Park bis Flughafen BER – Terminal 1-2 ###
-
-20.06. (Di) 3:34 Uhr bis 4:10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20431&tx_sbbconstructions_list%5Bperiod%5D=17005&type=5679&cHash=8d8f86aa7047c23ad35b863f589910ff)
-
- Takt geändert
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr bis Flughafen BER – Terminal 1-2 (an 4:00 Uhr) fährt von Treptower Park bis Flughafen BER – Terminal 1-2 6 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
@@ -744,6 +811,98 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Friedrichstraße ###
+
+04.07. (Di) und 05.07. (Mi) jeweils 3:02 Uhr bis 3:16 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13957&tx_sbbconstructions_list%5Bperiod%5D=17034&type=5679&cHash=21973ab76928860400b41c27e542c00a)
+
+10.07. (Mo) bis 12.07. (Mi) jeweils 3:02 Uhr bis 3:16 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13957&tx_sbbconstructions_list%5Bperiod%5D=17047&type=5679&cHash=663b4458bcec1bcf9644e720ecea817f)
+
+13.07. (Do) 3:02 Uhr bis 3:16 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13957&tx_sbbconstructions_list%5Bperiod%5D=17039&type=5679&cHash=6cffa4edeefcc9043536d84307e34853)
+
+14.07. (Fr) 3:02 Uhr bis 3:16 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13957&tx_sbbconstructions_list%5Bperiod%5D=17048&type=5679&cHash=d18c679d837347c50a73bdb8d1ef5247)
+
+20.07. (Do) und 21.07. (Fr) jeweils 3:02 Uhr bis 3:16 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13957&tx_sbbconstructions_list%5Bperiod%5D=17040&type=5679&cHash=6c1b261a1bb886710a4b590a8b66fb3b)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13957&type=5679&cHash=411c45259179252bcf932b2b7fb9f7cf)
+
+ fährt nicht
+
+Information
+
+* Der Zug Charlottenburg ab 3:02 nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) beginnt erst um 3:16 Uhr in Friedrichstraße.
+* Der Zug fällt von Charlottenburg bis Friedrichstraße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Friedrichstraße ###
+
+04.07. (Di) und 05.07. (Mi) jeweils 3:12 Uhr bis 3:28 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&tx_sbbconstructions_list%5Bperiod%5D=17035&type=5679&cHash=62dea535ea07dffcd7eaa0d8f348c131)
+
+13.07. (Do) 3:12 Uhr bis 3:28 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&tx_sbbconstructions_list%5Bperiod%5D=17041&type=5679&cHash=13d58bdb8311d864d27c1241fc8917be)
+
+20.07. (Do) und 21.07. (Fr) jeweils 3:12 Uhr bis 3:28 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&tx_sbbconstructions_list%5Bperiod%5D=17042&type=5679&cHash=7c5b734ebf7276a90c4a41d9ca12a1bf)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&type=5679&cHash=1f6010ee0c1d07c62bee48495e23adf1)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:28 Uhr in Friedrichstraße.
+* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Friedrichstraße ###
+
+04.07. (Di) und 05.07. (Mi) jeweils 3:32 Uhr bis 3:48 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17822&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=14045&tx_sbbconstructions_list%5Bperiod%5D=17036&type=5679&cHash=bdc5a7ed89ea1955843b5205b16822a4)
+
+13.07. (Do) 3:32 Uhr bis 3:48 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17822&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=14045&tx_sbbconstructions_list%5Bperiod%5D=17043&type=5679&cHash=c1929e98c6e951c5d86a066ed063d6ae)
+
+20.07. (Do) und 21.07. (Fr) jeweils 3:32 Uhr bis 3:48 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17822&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=14045&tx_sbbconstructions_list%5Bperiod%5D=17044&type=5679&cHash=0e7313d15b7c6ea8eadf85dcd874bf01)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17822&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=14045&type=5679&cHash=efeb5f1637d7aea00640c8c427da16f3)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:48 Uhr in Friedrichstraße.
+* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
+
 Hinweis
 
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
@@ -770,47 +929,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-und-arbeiten-am-hallendach-in-zoologischer-garten/#con-27270)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### (Schichauweg/Teltow Stadt –) Priesterweg (– Südkreuz) ###
-
-Nacht 04./05.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27344&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20453&tx_sbbconstructions_list%5Bperiod%5D=17023&type=5679&cHash=16360a1a033b80aa7195df8d855122bd)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung in Priesterweg
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kabelarbeiten-am-unterwerk-in-priesterweg-1/#con-27344)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Bundesplatz – Halensee – Westend ###
-
-Nacht 04./05.07. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27350&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20459&tx_sbbconstructions_list%5Bperiod%5D=17028&type=5679&cHash=13d94aa17f6d050b4aab543c1a0bbe4c)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Taktänderung
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-7/#con-27350)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
