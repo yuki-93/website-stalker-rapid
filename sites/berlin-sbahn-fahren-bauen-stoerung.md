@@ -4,6 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Anhalter Bahnhof ###
+
+ Letztes Update: 04:30 / 19.06.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Anhalter Bahnhof verkehrt die Linie S26 zwischen Teltow Stadt und Südkreuz.
+*Bitte nutzen Sie zwischen Südkreuz und Nordbahnhof die Linien S2 und S25.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Stellwerkstörung Birkenwerder ###
