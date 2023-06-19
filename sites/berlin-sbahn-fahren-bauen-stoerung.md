@@ -20,20 +20,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Zug im Bereich Hauptbahnhof beendet ###
-
- Letztes Update: 20:38 / 19.06.2023
-
-Information
-
-Nach einer Reparatur am Zug im Bereich Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Bauarbeiten in Schönholz ###
