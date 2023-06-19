@@ -37,35 +37,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz in Hermannstraße beendet ###
-
- Letztes Update: 08:25 / 19.06.2023
-
-Information
-
-Nach einem Polizeieinsatz in Hermannstraße kommt es auf den Linien S41; S42; S45; S46 und S47 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Anhalter Bahnhof ###
-
- Letztes Update: 04:30 / 19.06.2023
-
-Information
-
-Wegen einer Reparatur an einem Signal in Anhalter Bahnhof verkehrt die Linie S26 zwischen Teltow Stadt und Südkreuz.
-*Bitte nutzen Sie zwischen Südkreuz und Nordbahnhof die Linien S2 und S25.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Stellwerkstörung Birkenwerder ###
