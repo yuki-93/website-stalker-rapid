@@ -8,62 +8,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Stellwerkstörung Birkenwerder ###
 
- Letztes Update: 18:59 / 18.06.2023
+ Letztes Update: 03:33 / 19.06.2023
 
 Information
 
-Wegen einer Reparatur am Stellwerk in Birkenwerder verkehrt die Linie S8 zwischen Grünau und Hohen Neuendorf.
+Wegen einer Reparatur am Stellwerk in Birkenwerder verkehrt die Linie S8 zwischen Wildau/ Grünau und Hohen Neuendorf.
 *Bitte nutzen Sie zwischen Hohen Neuendorf und Birkenwerder die Linie S1.*
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Schönholz ###
+
+ Letztes Update: 22:11 / 18.06.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Schönholz verkehrt die Linie S1 nicht zwischen Gesundbrunnen und Schönholz.
+*Bitte nutzen Sie zwischen Gesundbrunnen und Schönholz die Linie S25.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Karow \<\> Bernau ###
-
-am 18.06. (So), ca. 10 Uhr durchgehend bis 19.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27149&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20259&tx_sbbconstructions_list%5Bperiod%5D=16905&type=5679&cHash=9576ba535ee18136fbfb767e882d4774)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bruecke-wiltbergstrasse-herstellen-des-bauzustand/#con-27149)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wuhletal/Wartenberg \<\> Warschauer Straße ###
-
-vom 16.06. (Fr), ca. 22 Uhr durchgehend bis 19.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27155&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20265&tx_sbbconstructions_list%5Bperiod%5D=16917&type=5679&cHash=9ad8c4262e9e45b1345e549ecbeecc13)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen: Wuhletal \<\> Friedrichsfelde Ost
-* alternative Umfahrungsmöglichkeit:
-  * Bitte zwischen Wuhletal, Lichtenberg, Frankfurter Allee, Alexanderplatz und Berlin Hbf auch die U5 nutzen
-
-* Zugverkehr verändert: Zwischen Wartenberg \<\> Lichtenberg fährt die S5 anstatt der S75.
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-suedlichen-blumberger-damm-bruecke-1/#con-27155)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
@@ -127,42 +98,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Waßmannsdorf \> Flughafen BER – Terminal 5 ###
-
-19.06. Mo) 1:33 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27322&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20430&tx_sbbconstructions_list%5Bperiod%5D=17001&type=5679&cHash=932b153ce7fc15082eff126b60a15345)
-
- Takt geändert
-
-Information
-
-* Der Zug Waßmannsdorf ab 1:33 Uhr nach Ostbahnhof (an 2:08 Uhr) fährt in Waßmannsdorf von Gleis 1 (Bahnsteig stadtauswärts).
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Flughafen BER Terminal 5 \> Flughafen BER – Terminal 1-2 ###
-
-19.06. (Mo) 1:36 Uhr bis 1:46 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27318&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20426&tx_sbbconstructions_list%5Bperiod%5D=17002&type=5679&cHash=295ff748abf50b3a6d2f13b1f7e76cb7)
-
- Takt geändert
-
-Information
-
-* Der Zug Spandau ab 0:18 Uhr nach Flughafen BER – Terminal 1-2 (an 1:36 Uhr) fährt von Flughafen BER – Terminal 5 bis Flughafen BER – Terminal 1-2 ca. 10 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
