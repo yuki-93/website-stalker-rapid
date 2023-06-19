@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
-### Stellwerkstörung Birkenwerder ###
+### defektes Stellwerk in Birkenwerder ###
 
- Letztes Update: 03:33 / 19.06.2023
+ Letztes Update: 14:25 / 19.06.2023
 
 Information
 
-Wegen einer Reparatur am Stellwerk in Birkenwerder verkehrt die Linie S8 zwischen Wildau/ Grünau und Hohen Neuendorf.
+Wegen einem defektem Stellwerk in Birkenwerder verkehrt die Linie S8 zwischen Wildau/ Grünau und Hohen Neuendorf.
 *Bitte nutzen Sie zwischen Hohen Neuendorf und Birkenwerder die Linie S1.*
 
 Wir bitten um Entschuldigung.
