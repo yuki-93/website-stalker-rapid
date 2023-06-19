@@ -4,6 +4,39 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Schönholz ###
+
+ Letztes Update: 07:15 / 19.06.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Schönholz verkehrt die Linie S1 nicht zwischen Gesundbrunnen und Schönholz.
+*Bitte nutzen Sie zwischen Gesundbrunnen und Schönholz die Linie S25.*
+
+*Zwischen Zehlendorf und Potsdamer Platz besteht ein 10-Minuten-Takt.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg ###
+
+ Letztes Update: 06:56 / 19.06.2023
+
+Information
+
+Wegen der vorübergehend verminderten Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg kommt es auf den Linien S42 und S46 zu Verspätungen und Ausfällen.
+
+Auf der Linie S42 besteht ein 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
+
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einem Signal in Anhalter Bahnhof ###
@@ -29,21 +62,6 @@ Information
 
 Wegen einer Reparatur am Stellwerk in Birkenwerder verkehrt die Linie S8 zwischen Wildau/ Grünau und Hohen Neuendorf.
 *Bitte nutzen Sie zwischen Hohen Neuendorf und Birkenwerder die Linie S1.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Schönholz ###
-
- Letztes Update: 22:11 / 18.06.2023
-
-Information
-
-Wegen einer Reparatur an einem Signal in Schönholz verkehrt die Linie S1 nicht zwischen Gesundbrunnen und Schönholz.
-*Bitte nutzen Sie zwischen Gesundbrunnen und Schönholz die Linie S25.*
 
 Wir bitten um Entschuldigung.
 
