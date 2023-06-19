@@ -4,34 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal in Schönholz ###
-
- Letztes Update: 10:07 / 19.06.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönholz kommt es auf der Linie S25 zwischen Nordbahnhof \<\> Alt Reinickendorf zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Schönholz ###
 
- Letztes Update: 09:58 / 19.06.2023
+ Letztes Update: 11:19 / 19.06.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Schönholz verkehrt die Linie S1 nicht zwischen Gesundbrunnen \<\> Schönholz.
-*Bitte nutzen Sie zwischen Gesundbrunnen und Schönholz die Linie S25.*
-
-Des Weiteren kommt es zwischen Schönholz \<\> Oranienburg zu Verspätungen und Ausfällen.
-
-*Zwischen Zehlendorf und Potsdamer Platz besteht ein 10-Minuten-Takt.*
+Nach der Reparatur an einem Signal in Schönholz kommt es auf der Linie S1 zwischen Schönholz \<\> Oranienburg noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 

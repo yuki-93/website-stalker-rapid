@@ -370,6 +370,8 @@ Produkte
 
 Programme
 
+[Blog](https://www.anker.com/eu-de/blogs?ref=footer)
+
 [Community](https://community.anker.com/?ref=footer)
 
 [Hot Deals](https://www.anker.com/eu-de/hot-deals?ref=footer)
@@ -383,8 +385,6 @@ Programme
 [Affiliate Partnerprogramm](https://de.anker.com/pages/jetzt-affiliate-partner-werden?ref=footer)
 
 [Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase?ref=footer)
-
-[Blog](https://www.anker.com/eu-de/blogs?ref=footer)
 
 Support
 
