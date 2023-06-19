@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### defektes Stellwerk in Birkenwerder ###
+
+ Letztes Update: 21:48 / 19.06.2023
+
+Information
+
+Wegen einee defekten Stellwerkes in Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linie S8 verkehrt zwischen Wildau/ Grünau und Hohen Neuendorf, *bitte nutzen Sie zwischen Hohen Neuendorf und Birkenwerder die Linie S1.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur am Zug im Bereich Hauptbahnhof beendet ###
@@ -36,22 +52,6 @@ Wegen der bestehenden Bauarbeiten in Schönholz verkehrt die Linie S25 nur zwisc
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### defektes Stellwerk in Birkenwerder ###
-
- Letztes Update: 15:23 / 19.06.2023
-
-Information
-
-Wegen einem defekten Stellwerk in Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie S8 verkehrt zwischen Wildau/ Grünau und Hohen Neuendorf, *bitte nutzen Sie zwischen Hohen Neuendorf und Birkenwerder die Linie S1.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
