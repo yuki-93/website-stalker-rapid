@@ -4,6 +4,39 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einem Signal in Schönholz ###
+
+ Letztes Update: 10:07 / 19.06.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönholz kommt es auf der Linie S25 zwischen Nordbahnhof \<\> Alt Reinickendorf zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Schönholz ###
+
+ Letztes Update: 09:58 / 19.06.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönholz verkehrt die Linie S1 nicht zwischen Gesundbrunnen \<\> Schönholz.
+*Bitte nutzen Sie zwischen Gesundbrunnen und Schönholz die Linie S25.*
+
+Des Weiteren kommt es zwischen Schönholz \<\> Oranienburg zu Verspätungen und Ausfällen.
+
+*Zwischen Zehlendorf und Potsdamer Platz besteht ein 10-Minuten-Takt.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Polizeieinsatz in Hermannstraße beendet ###
@@ -17,37 +50,6 @@ Nach einem Polizeieinsatz in Hermannstraße kommt es auf den Linien S41; S42; S4
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung verspätet
-
-[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg ###
-
- Letztes Update: 07:46 / 19.06.2023
-
-Information
-
-Wegen der vorübergehend verminderten Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg kommt es auf den Linien S42 und S46 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Schönholz ###
-
- Letztes Update: 07:15 / 19.06.2023
-
-Information
-
-Wegen einer Reparatur an einem Signal in Schönholz verkehrt die Linie S1 nicht zwischen Gesundbrunnen und Schönholz.
-*Bitte nutzen Sie zwischen Gesundbrunnen und Schönholz die Linie S25.*
-
-*Zwischen Zehlendorf und Potsdamer Platz besteht ein 10-Minuten-Takt.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 [S26](https://sbahn.berlin/fahren/s26/)
 
