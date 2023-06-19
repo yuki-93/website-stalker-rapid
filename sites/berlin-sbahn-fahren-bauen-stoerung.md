@@ -4,16 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Bauarbeiten in Schönholz ###
+
+ Letztes Update: 15:50 / 19.06.2023
+
+Information
+
+Wegen der bestehenden Bauarbeiten in Schönholz verkehrt die Linie S25 nur zwischen Teltow Stadt \<\> Nordbahnhof ***sowie*** Alt-Reinickendorf \<\> Hennigsdorf.
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Nordbahnhof und Wittenau die Linie S1 ***sowie*** zwischen Wittenau und Karl-Bonhoeffer-Nervenklinik die U-Bahnlinie U8
+* zwischen Nordbahnhof und Gesundbrunnen die Linien S1 und S2 ***sowie*** zwischen Gesundbrunnen und Karl-Bonhoeffer-Nervenklinik die U-Bahnlinie U8
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### defektes Stellwerk in Birkenwerder ###
 
- Letztes Update: 14:25 / 19.06.2023
+ Letztes Update: 15:23 / 19.06.2023
 
 Information
 
-Wegen einem defektem Stellwerk in Birkenwerder verkehrt die Linie S8 zwischen Wildau/ Grünau und Hohen Neuendorf.
-*Bitte nutzen Sie zwischen Hohen Neuendorf und Birkenwerder die Linie S1.*
+Wegen einem defekten Stellwerk in Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linie S8 verkehrt zwischen Wildau/ Grünau und Hohen Neuendorf, *bitte nutzen Sie zwischen Hohen Neuendorf und Birkenwerder die Linie S1.*
 
 Wir bitten um Entschuldigung.
 
