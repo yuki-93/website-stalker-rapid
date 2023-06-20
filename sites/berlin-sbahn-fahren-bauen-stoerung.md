@@ -4,19 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur am Zug im Bereich Südkreuz beendet ###
+### Reparatur am Zug im Bereich Südkreuz und ärztliche Versorgung eines Fahrgastes in Storkower Straße beendet ###
 
- Letztes Update: 15:03 / 20.06.2023
+ Letztes Update: 16:11 / 20.06.2023
 
 Information
 
-Nach einer Reparatur am Zug im Bereich Südkreuz kommt es auf den Linien S41, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einer Reparatur am Zug im Bereich Südkreuz und der ärztlichen Versorgung eines Fahrgastes im Zug in Storkower Straße kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz zwischen Potsdamer Platz und Nordbahnhof beendet ###
+
+ Letztes Update: 15:53 / 20.06.2023
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) verkehrt die Linie S26 nicht.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
 
 [S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
@@ -46,22 +60,6 @@ Wegen einer Reparatur an der Weiche in Alexanderplatz kommt es auf den Linien S3
 
 * Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Hoppegarten und Warschauer Straße angeboten werden.
 * Die zusätzlichen Züge der Linie S5 zwischen Mahlsdorf und Ostbahnhof fahren nicht.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz zwischen Potsdamer Platz und Nordbahnhof beendet ###
-
- Letztes Update: 12:59 / 20.06.2023
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-* Die Linie S26 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
