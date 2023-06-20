@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an der Weiche in Alexanderplatz ###
+
+ Letztes Update: 12:16 / 20.06.2023
+
+Information
+
+Wegen einer Reparatur an der Weiche in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz zwischen Potsdamer Platz und Nordbahnhof beendet ###
+
+ Letztes Update: 11:28 / 20.06.2023
+
+Information
+
+Nach unbefugten Personen auf der Strecke kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg ###
@@ -19,20 +47,6 @@ Wegen der vorübergehend verminderten Geschwindigkeit auf der Strecke zwischen I
 Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung verspätet
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### unbefugte Personen auf der Strecke zwischen Potsdamer Platz und Nordbahnhof ###
-
- Letztes Update: 11:08 / 20.06.2023
-
-Information
-
-Wegen unbefugten Personen auf der Strecke ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Potsdamer Platz und Nordbahnhof unterbrochen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
 
 [S8](https://sbahn.berlin/fahren/s8/)
 

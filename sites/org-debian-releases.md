@@ -76,7 +76,7 @@ It was released on June 10th, 2023.
 
    release
 * [Debian 11 ( > bullseye )](https://www.debian.org/releases/bullseye/) — current
-  >  olstable
+  >  oldstable
 
    release
 * [Debian 10 ( > buster )](https://www.debian.org/releases/buster/) — current
