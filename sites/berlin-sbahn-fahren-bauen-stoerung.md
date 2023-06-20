@@ -34,25 +34,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Bauarbeiten in Schönholz ###
-
- Letztes Update: 15:50 / 19.06.2023
-
-Information
-
-Wegen der bestehenden Bauarbeiten in Schönholz verkehrt die Linie S25 nur zwischen Teltow Stadt \<\> Nordbahnhof ***sowie*** Alt-Reinickendorf \<\> Hennigsdorf.
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Nordbahnhof und Wittenau die Linie S1 ***sowie*** zwischen Wittenau und Karl-Bonhoeffer-Nervenklinik die U-Bahnlinie U8
-* zwischen Nordbahnhof und Gesundbrunnen die Linien S1 und S2 ***sowie*** zwischen Gesundbrunnen und Karl-Bonhoeffer-Nervenklinik die U-Bahnlinie U8
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
