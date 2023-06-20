@@ -301,15 +301,9 @@ Montag bis Freitag
 
 Bei Anker bestellen
 
-[](https://www.anker.com/eu-de)
-
 Schnelle, kostenfreie Lieferung
 
-[](https://www.anker.com/eu-de)
-
 Problemlose Herstellergarantie
-
-[](https://www.anker.com/eu-de)
 
 Lebenslanger technischer Support
 
