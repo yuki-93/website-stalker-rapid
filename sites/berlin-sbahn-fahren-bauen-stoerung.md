@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### kurzfristige Bauarbeiten zwischen Innsbrucker Platz und Schöneberg ###
+
+ Letztes Update: 20:29 / 20.06.2023
+
+Information
+
+Wegen kurzfristiger Bauarbeiten zwischen Innsbrucker Platz und Schöneberg kommt es **ab ca. 22:00 Uhr** auf den Linien S41, S42 und S46 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linie S46 verkehrt nur zwischen Königs Wusterhausen und Südkreuz, *bitte nutzen Sie zwischen Südkreuz und Westend die Linien S41 und S42*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur am Zug zwischen Hauptbahnhof und Friedrichstraße behoben ###
@@ -13,36 +29,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 Nach der Reparatur am Zug zwischen Hauptbahnhof und Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg ###
-
- Letztes Update: 19:05 / 20.06.2023
-
-Information
-
-Wegen der vorübergehend verminderten Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz und Schöneberg kommt es auf den Linien S42 und S46 zu Verspätungen und Ausfällen.
-
-* Die Linie S42 verkehrt nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
-
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Reparatur am Zug im Bereich Südkreuz und ärztliche Versorgung eines Fahrgastes in Storkower Straße beendet ###
-
- Letztes Update: 18:35 / 20.06.2023
-
-Information
-
-Nach einer Reparatur am Zug im Bereich Südkreuz und der ärztlichen Versorgung eines Fahrgastes im Zug in Storkower Straße verkehrt die Linie S41 nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
