@@ -8,15 +8,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg ###
 
- Letztes Update: 05:45 / 20.06.2023
+ Letztes Update: 11:15 / 20.06.2023
 
 Information
 
 Wegen der vorübergehend verminderten Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg kommt es auf den Linien S42 und S46 zu Verspätungen und Ausfällen.
 
+* die Linie S42 verkehrt nur im 10-Minuten-Takt
+
 Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung verspätet
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### unbefugte Personen auf der Strecke zwischen Potsdamer Platz und Nordbahnhof ###
+
+ Letztes Update: 11:08 / 20.06.2023
+
+Information
+
+Wegen unbefugten Personen auf der Strecke ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Potsdamer Platz und Nordbahnhof unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
