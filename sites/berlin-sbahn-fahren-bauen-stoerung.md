@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur am Zug im Bereich Südkreuz beendet ###
+
+ Letztes Update: 15:03 / 20.06.2023
+
+Information
+
+Nach einer Reparatur am Zug im Bereich Südkreuz kommt es auf den Linien S41, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg ###
