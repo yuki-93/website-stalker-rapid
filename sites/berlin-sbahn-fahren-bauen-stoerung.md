@@ -4,6 +4,39 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg ###
+
+ Letztes Update: 14:34 / 20.06.2023
+
+Information
+
+Wegen der vorübergehend verminderten Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg kommt es auf den Linien S42 und S46 zu Verspätungen und Ausfällen.
+
+* Die Linie S42 verkehrt nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an der Weiche in Alexanderplatz ###
+
+ Letztes Update: 14:19 / 20.06.2023
+
+Information
+
+Wegen einer Reparatur an der Weiche in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
+
+* Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Hoppegarten und Warschauer Straße angeboten werden.
+* Die zusätzlichen Züge der Linie S5 zwischen Mahlsdorf und Ostbahnhof fahren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz zwischen Potsdamer Platz und Nordbahnhof beendet ###
@@ -20,22 +53,6 @@ Wir bitten um Entschuldigung.
 
  Takt geändert
 
-[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg ###
-
- Letztes Update: 11:15 / 20.06.2023
-
-Information
-
-Wegen der vorübergehend verminderten Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg kommt es auf den Linien S42 und S46 zu Verspätungen und Ausfällen.
-
-* die Linie S42 verkehrt nur im 10-Minuten-Takt
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### defektes Stellwerk in Birkenwerder ###
@@ -51,6 +68,25 @@ Wegen eines defekten Stellwerkes in Birkenwerder kommt es auf den Linien S1 und 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Bauarbeiten in Schönholz ###
+
+ Letztes Update: 15:50 / 19.06.2023
+
+Information
+
+Wegen der bestehenden Bauarbeiten in Schönholz verkehrt die Linie S25 nur zwischen Teltow Stadt \<\> Nordbahnhof ***sowie*** Alt-Reinickendorf \<\> Hennigsdorf.
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Nordbahnhof und Wittenau die Linie S1 ***sowie*** zwischen Wittenau und Karl-Bonhoeffer-Nervenklinik die U-Bahnlinie U8
+* zwischen Nordbahnhof und Gesundbrunnen die Linien S1 und S2 ***sowie*** zwischen Gesundbrunnen und Karl-Bonhoeffer-Nervenklinik die U-Bahnlinie U8
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
