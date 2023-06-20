@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur am Zug zwischen Hauptbahnhof und Friedrichstraße behoben ###
+
+ Letztes Update: 20:13 / 20.06.2023
+
+Information
+
+Nach der Reparatur am Zug zwischen Hauptbahnhof und Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg ###
@@ -20,19 +34,19 @@ Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung verspätet
 
-[S26](https://sbahn.berlin/fahren/s26/)
+[S41](https://sbahn.berlin/fahren/s41/)
 
-### Polizeieinsatz zwischen Potsdamer Platz und Nordbahnhof beendet ###
+### Reparatur am Zug im Bereich Südkreuz und ärztliche Versorgung eines Fahrgastes in Storkower Straße beendet ###
 
- Letztes Update: 15:53 / 20.06.2023
+ Letztes Update: 18:35 / 20.06.2023
 
 Information
 
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) verkehrt die Linie S26 nicht.
+Nach einer Reparatur am Zug im Bereich Südkreuz und der ärztlichen Versorgung eines Fahrgastes im Zug in Storkower Straße verkehrt die Linie S41 nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
