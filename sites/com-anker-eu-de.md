@@ -388,7 +388,7 @@ Programme
 
 Support
 
-[Smarte Hilfe](https://support.anker.com/s/?ref=footer)
+[Smarte Hilfe](https://support.anker.com/de/s/?ref=footer)
 
 [Kontakt](https://de.anker.com/pages/contact?ref=footer)
 

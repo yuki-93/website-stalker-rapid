@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Birkenwerder ###
 
- Letztes Update: 21:48 / 19.06.2023
+ Letztes Update: 04:32 / 20.06.2023
 
 Information
 
-Wegen einee defekten Stellwerkes in Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen eines defekten Stellwerkes in Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linie S8 verkehrt zwischen Wildau/ Grünau und Hohen Neuendorf, *bitte nutzen Sie zwischen Hohen Neuendorf und Birkenwerder die Linie S1.*
 
@@ -105,42 +105,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)
 
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Geänderte Linienführung Treptower Park \> Neukölln \> Baumschulenweg ###
-
-20.06. (Di) 3:19 Uhr bis 3:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21923&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=16211&tx_sbbconstructions_list%5Bperiod%5D=17004&type=5679&cHash=bbf7fcf3845f6c07e2e41cbe278c7672)
-
- Takt geändert
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) wird über Neukölln (mit Fahrtrichtungswechsel) umgeleitet.
-* Der Halt in Pläterwald entfällt.
-* Durch die Umleitung entsteht ab Baumschulenweg bis Flughafen BER – Terminal 1-2 eine Fahrtzeitverlängerung von bis zu 10 Minuten.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Treptower Park bis Flughafen BER – Terminal 1-2 ###
-
-20.06. (Di) 3:34 Uhr bis 4:10 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27323&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20431&tx_sbbconstructions_list%5Bperiod%5D=17005&type=5679&cHash=8d8f86aa7047c23ad35b863f589910ff)
-
- Takt geändert
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr bis Flughafen BER – Terminal 1-2 (an 4:00 Uhr) fährt von Treptower Park bis Flughafen BER – Terminal 1-2 6 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
