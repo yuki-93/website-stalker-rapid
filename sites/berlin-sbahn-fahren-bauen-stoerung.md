@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg ###
+
+ Letztes Update: 05:45 / 20.06.2023
+
+Information
+
+Wegen der vorübergehend verminderten Geschwindigkeit auf der Strecke zwischen Innsbrucker Platz \> Schöneberg kommt es auf den Linien S42 und S46 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### defektes Stellwerk in Birkenwerder ###
