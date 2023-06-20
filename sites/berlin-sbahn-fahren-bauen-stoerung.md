@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an der Weiche in Alexanderplatz ###
+
+ Letztes Update: 17:11 / 20.06.2023
+
+Information
+
+Wegen einer Reparatur an der Weiche in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen.
+
+* Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Hoppegarten und Warschauer Straße angeboten werden.
+* Die zusätzlichen Züge der Linie S5 zwischen Mahlsdorf und Ostbahnhof fahren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur am Zug im Bereich Südkreuz und ärztliche Versorgung eines Fahrgastes in Storkower Straße beendet ###
@@ -47,23 +64,6 @@ Wegen der vorübergehend verminderten Geschwindigkeit auf der Strecke zwischen I
 Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung verspätet
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an der Weiche in Alexanderplatz ###
-
- Letztes Update: 14:19 / 20.06.2023
-
-Information
-
-Wegen einer Reparatur an der Weiche in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
-
-* Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Hoppegarten und Warschauer Straße angeboten werden.
-* Die zusätzlichen Züge der Linie S5 zwischen Mahlsdorf und Ostbahnhof fahren nicht.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
