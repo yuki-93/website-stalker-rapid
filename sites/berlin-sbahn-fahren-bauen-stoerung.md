@@ -4,17 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### kurzfristige Bauarbeiten zwischen Innsbrucker Platz und Schöneberg ###
 
- Letztes Update: 20:29 / 20.06.2023
+ Letztes Update: 22:12 / 20.06.2023
 
 Information
 
-Wegen kurzfristiger Bauarbeiten zwischen Innsbrucker Platz und Schöneberg kommt es **ab ca. 22:00 Uhr** auf den Linien S41, S42 und S46 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen kurzfristiger Bauarbeiten zwischen Innsbrucker Platz und Schöneberg kommt es **ab ca. 22:00 Uhr** auf den Linien S41, S42 und S46 zu Verspätungen und nachfolgenden Einschränkungen,
 
-* Die Linie S46 verkehrt nur zwischen Königs Wusterhausen und Südkreuz, *bitte nutzen Sie zwischen Südkreuz und Westend die Linien S41 und S42*.
+zwischen Halensee und Tempelhof kann auf den Linien S41 und S42 nur ein 20 Minuten Takt angeboten werden.
+
+* Die Linie S46 verkehrt nur zwischen Königs Wusterhausen und Tempelhof, *bitte nutzen Sie zwischen Tempelhof und Westend die Linien S41 und S42*.
+* Die Linie S45 verkehrt zwischen Flughafen T1/2 und Treptower Park.
 
 Wir bitten um Entschuldigung.
 
