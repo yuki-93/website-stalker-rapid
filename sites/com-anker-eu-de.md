@@ -14,17 +14,17 @@ Search
 
 [](https://passport.anker.com/?app=ankerde)
 
-Licht im Dunkeln und Power für den Tag
-
-Anker Reserve Powerbank
-
-[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/products/a1294?ref=masterBanner1)
-
 Jetzt Anker SOLIX Solarbank
 
 vorbestellen und 200€ sparen!
 
-[Limitiertes AngebotmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-solarbank-a17c0?ref=masterBanner2)
+[Limitiertes AngebotmasterBanner1](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-solarbank-a17c0?ref=masterBanner1)
+
+Licht im Dunkeln und Power für den Tag
+
+Anker Reserve Powerbank
+
+[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/products/a1294?ref=masterBanner2)
 
 Das Anker-Erlebnis entdecken
 ----------
