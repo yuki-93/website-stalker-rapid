@@ -20,39 +20,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Bauarbeiten in Schönholz ###
-
- Letztes Update: 16:09 / 21.06.2023
-
-Information
-
-Wegen der bestehenden Bauarbeiten in Schönholz kommt es auf den Linien S1 und S25 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie **S25** verkehrt zwischen Teltow Stadt \<\> Nordbahnhof ***sowie*** Alt-Reinickendorf \<\> Hennigsdorf, *bitte nutzen Sie zwischen Nordbahnhof und Schönholz die Linie S1 im 20-Minuten-Takt*
-* **Beachten Sie bitte:** **es besteht kein Zugverkehr auf der Linie S25 zwischen Schönholz und Alt-Reinickendorf.**
-
----
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Alt-Reinickendorf eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Schönholz: Provinzstr. (Haltestelle wie Bus 150 und N52)
-* S-Bhf. Alt-Reinickendorf: Roedernallee, U-Bhf. Paracelsus Bad (Haltestelle wie Bus 120, 320 und N20)
-
----
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Nordbahnhof und Wittenau die Linie S1 ***sowie*** zwischen Wittenau und Karl-Bonhoeffer-Nervenklinik die U-Bahnlinie U8
-* zwischen Nordbahnhof und Gesundbrunnen die Linien S1 und S2 ***sowie*** zwischen Gesundbrunnen und Karl-Bonhoeffer-Nervenklinik die U-Bahnlinie U8
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Signalstörung in Friedrichshagen ###
