@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur am Zug Alexanderplatz ###
+### Reparatur am Zug in Alexanderplatz beendet ###
 
- Letztes Update: 07:15 / 21.06.2023
+ Letztes Update: 07:54 / 21.06.2023
 
 Information
 
-Wegen einer Reparatur am Zug in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Zugausfällen.
+Nach einer Reparatur am Zug in Alexanderplatz und einer ärztlichen Versorgung eines Fahrgastes in Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 

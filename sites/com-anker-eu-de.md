@@ -298,7 +298,7 @@ Kontakt
 8:00 Uhr bis 17:00 Uhr
 Montag bis Freitag
 
-Leitung für SOLIX Balkonkraftwerk Anfragen
+Anker Solix
 [\+49 (800) 0002522](tel:+49 (800) 0002522)
 8:00 Uhr bis 17:00 Uhr
 Montag bis Freitag
