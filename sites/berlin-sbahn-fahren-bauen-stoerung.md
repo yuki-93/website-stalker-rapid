@@ -4,19 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur am Zug in Alexanderplatz beendet ###
+### umgestürzter Baum auf der Strecke in Bernau-Friedenstal ###
 
- Letztes Update: 10:04 / 21.06.2023
+ Letztes Update: 12:20 / 21.06.2023
 
 Information
 
-Nach einer Reparatur am Zug in Alexanderplatz und einer ärztlichen Versorgung eines Fahrgastes in Zoologischer Garten kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen eines umgestürzten Baumes auf der Strecke in Bernau-Friedenstal ist der Zugverkehr der Linie S2 zwischen Zepernick und Bernau unterbrochen.
+*Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel sowie den Regionalverkehr.*
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unterbrochen
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
