@@ -8,13 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Birkenwerder und bestehende Bauarbeiten in Schönholz ###
 
- Letztes Update: 13:14 / 21.06.2023
+ Letztes Update: 13:33 / 21.06.2023
 
 Information
 
-Wegen eines defekten Stellwerkes in Birkenwerder und der bestehenden Bauarbeiten in Schönholz kommt es auf den Linien S1, S25 und S8 zu eventuellen Verspätungen und nachfolgenden Einschränkungen:
+Wegen eines defekten Stellwerkes in Birkenwerder und der bestehenden Bauarbeiten in Schönholz kommt es auf den Linien S1, S25 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linie **S25** verkehrt zwischen Teltow Stadt \<\> Nordbahnhof ***sowie*** Alt-Reinickendorf \<\> Hennigsdorf, *bitte nutzen Sie zwischen Nordbahnhof und Schönholz die Linie S1 im 20-Minuten-Takt*
+* **Beachten Sie bitte:** es besteht kein Zugverkehr auf der Linie S25 zwischen Schönholz und Alt-Reinickendorf.
 * Die Linie **S8** verkehrt zwischen Wildau/ Grünau \<\> Hohen Neuendorf, *bitte nutzen Sie zwischen Hohen Neuendorf und Birkenwerder die Linie S1*
 
 **Zur weiträumigen Umfahrung für die Linie S25 nutzen Sie bitte:**
@@ -28,18 +29,17 @@ Wir bitten um Entschuldigung.
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
-### umgestürzter Baum auf der Strecke in Bernau-Friedenstal ###
+### umgestürzter Baum auf der Strecke in Bernau-Friedenstal beseitigt ###
 
- Letztes Update: 12:20 / 21.06.2023
+ Letztes Update: 13:18 / 21.06.2023
 
 Information
 
-Wegen eines umgestürzten Baumes auf der Strecke in Bernau-Friedenstal ist der Zugverkehr der Linie S2 zwischen Zepernick und Bernau unterbrochen.
-*Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel sowie den Regionalverkehr.*
+Nach einem umgestürzten Baum auf der Strecke in Bernau-Friedenstal kommt es auf der Linie S2 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
