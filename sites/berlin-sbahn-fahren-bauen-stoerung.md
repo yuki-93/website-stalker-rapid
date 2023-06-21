@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Gegenstände auf der Strecke zwischen Greifswalder Straße und Landsberger Allee ###
+### Gegenstände auf der Strecke zwischen Greifswalder Straße und Landsberger Allee beseitigt ###
 
- Letztes Update: 19:17 / 21.06.2023
+ Letztes Update: 19:30 / 21.06.2023
 
 Information
 
-Wegen Gegenständen auf der Strecke zwischen Greifswalder Straße und Landsberger Allee kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+Nach Gegenständen auf der Strecke zwischen Greifswalder Straße und Landsberger Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
@@ -22,11 +22,11 @@ Wir bitten um Ihr Verständnis.
 
 ### Reparatur an der Weiche in Alexanderplatz beendet ###
 
- Letztes Update: 18:39 / 21.06.2023
+ Letztes Update: 19:22 / 21.06.2023
 
 Information
 
-Nach einer Reparatur an der Weiche in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einer Reparatur an der Weiche in Alexanderplatz, einer Reparatur am Zug in Alexanderplatz und einem Polizeieinsatz im Zug in Betriebsbahnhof Rummelsburg kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 * Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Hoppegarten und Warschauer Straße angeboten werden.
 
