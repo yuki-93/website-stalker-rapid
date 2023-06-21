@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an der Weiche in Alexanderplatz beendet ###
-
- Letztes Update: 20:49 / 21.06.2023
-
-Information
-
-Nach einer Reparatur an der Weiche in Alexanderplatz, einer Reparatur am Zug in Alexanderplatz und einem Polizeieinsatz im Zug in Betriebsbahnhof Rummelsburg kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und Ausfällen.
-
-* Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Hoppegarten und Warschauer Straße angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
