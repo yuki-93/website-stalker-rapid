@@ -20,20 +20,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Gegenstände auf der Strecke zwischen Greifswalder Straße und Landsberger Allee beseitigt ###
-
- Letztes Update: 20:32 / 21.06.2023
-
-Information
-
-Nach Gegenständen auf der Strecke zwischen Greifswalder Straße und Landsberger Allee kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
