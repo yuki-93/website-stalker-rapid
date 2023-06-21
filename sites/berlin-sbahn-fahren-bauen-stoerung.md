@@ -4,23 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### defektes Stellwerk in Birkenwerder und bestehende Bauarbeiten in Schönholz ###
+### Reparatur an der Weiche in Alexanderplatz ###
 
- Letztes Update: 15:19 / 21.06.2023
+ Letztes Update: 16:12 / 21.06.2023
 
 Information
 
-Wegen eines defekten Stellwerkes in Birkenwerder und der bestehenden Bauarbeiten in Schönholz kommt es auf den Linien S1, S25 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen einer Reparatur an der Weiche in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
+
+* Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Hoppegarten und Warschauer Straße angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Bauarbeiten in Schönholz ###
+
+ Letztes Update: 16:09 / 21.06.2023
+
+Information
+
+Wegen der bestehenden Bauarbeiten in Schönholz kommt es auf den Linien S1 und S25 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linie **S25** verkehrt zwischen Teltow Stadt \<\> Nordbahnhof ***sowie*** Alt-Reinickendorf \<\> Hennigsdorf, *bitte nutzen Sie zwischen Nordbahnhof und Schönholz die Linie S1 im 20-Minuten-Takt*
 * **Beachten Sie bitte:** **es besteht kein Zugverkehr auf der Linie S25 zwischen Schönholz und Alt-Reinickendorf.**
-* Die Linie **S8** verkehrt zwischen Wildau/ Grünau \<\> Hohen Neuendorf, *bitte nutzen Sie zwischen Hohen Neuendorf und Birkenwerder die Linie S1*
 
 ---
 
-**Ein Ersatzverkehr mit Bussen ist für die Linie S25 zwischen Schönholz und Alt-Reinickendorf eingerichtet.**
+**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz und Alt-Reinickendorf eingerichtet.**
 
 *Haltestellen des Ersatzverkehrs:*
 
@@ -29,7 +44,7 @@ Wegen eines defekten Stellwerkes in Birkenwerder und der bestehenden Bauarbeiten
 
 ---
 
-**Zur weiträumigen Umfahrung für die Linie S25 nutzen Sie bitte:**
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
 
 * zwischen Nordbahnhof und Wittenau die Linie S1 ***sowie*** zwischen Wittenau und Karl-Bonhoeffer-Nervenklinik die U-Bahnlinie U8
 * zwischen Nordbahnhof und Gesundbrunnen die Linien S1 und S2 ***sowie*** zwischen Gesundbrunnen und Karl-Bonhoeffer-Nervenklinik die U-Bahnlinie U8
@@ -37,6 +52,20 @@ Wegen eines defekten Stellwerkes in Birkenwerder und der bestehenden Bauarbeiten
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Signalstörung in Friedrichshagen ###
+
+ Letztes Update: 15:35 / 21.06.2023
+
+Information
+
+Wegen einer Signalstörung in Friedrichshagen kommt es auf der Linie S3 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
