@@ -4,27 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### defektes Stellwerk in Birkenwerder ###
-
- Letztes Update: 04:32 / 20.06.2023
-
-Information
-
-Wegen eines defekten Stellwerkes in Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie S8 verkehrt zwischen Wildau/ Grünau und Hohen Neuendorf, *bitte nutzen Sie zwischen Hohen Neuendorf und Birkenwerder die Linie S1.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Bauarbeiten in Schönholz ###
 
- Letztes Update: 15:50 / 19.06.2023
+ Letztes Update: 05:41 / 21.06.2023
 
 Information
 
@@ -38,6 +22,22 @@ Wegen der bestehenden Bauarbeiten in Schönholz verkehrt die Linie S25 nur zwisc
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### defektes Stellwerk in Birkenwerder ###
+
+ Letztes Update: 05:41 / 21.06.2023
+
+Information
+
+Wegen eines defekten Stellwerkes in Birkenwerder kommt es auf den Linien S1 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linie S8 verkehrt zwischen Wildau/ Grünau und Hohen Neuendorf, *bitte nutzen Sie zwischen Hohen Neuendorf und Birkenwerder die Linie S1.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -218,6 +218,26 @@ Information
 
  Nur Nachts
 
+### Westkreuz \> Ostbahnhof ###
+
+21.06. (Mi) und 22.06. (Do), jeweils 3:12 Uhr bis 3:37 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26785&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19880&tx_sbbconstructions_list%5Bperiod%5D=17012&type=5679&cHash=4107436a0dedd6f5f9c652bdc1f1eaaf)
+
+ fährt nicht
+
+Information
+
+* Der Zug:
+  * Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:37 Uhr in Ostbahnhof.
+
+* Der Zug fällt von Westkreuz bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
 ### Gleisänderung in Westkreuz \> Grunewald ###
 
 21.06. (Mi) und 22.06. (Do), jeweils 1:53 Uhr
@@ -251,26 +271,6 @@ Information
   * Flughafen BER – Terminal 1-2 ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:48 Uhr in Ostbahnhof.
   * Der Zug fällt zwischen Ostbahnhof und Friedrichstraße aus.
 
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Ostbahnhof ###
-
-21.06. (Mi) und 22.06. (Do), jeweils 3:12 Uhr bis 3:37 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26785&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19880&tx_sbbconstructions_list%5Bperiod%5D=17012&type=5679&cHash=4107436a0dedd6f5f9c652bdc1f1eaaf)
-
- fährt nicht
-
-Information
-
-* Der Zug:
-  * Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:37 Uhr in Ostbahnhof.
-
-* Der Zug fällt von Westkreuz bis Ostbahnhof aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
