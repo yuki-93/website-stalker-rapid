@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Gegenstände auf der Strecke zwischen Greifswalder Straße und Landsberger Allee beseitigt ###
-
- Letztes Update: 19:30 / 21.06.2023
-
-Information
-
-Nach Gegenständen auf der Strecke zwischen Greifswalder Straße und Landsberger Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an der Weiche in Alexanderplatz beendet ###
 
- Letztes Update: 19:22 / 21.06.2023
+ Letztes Update: 20:49 / 21.06.2023
 
 Information
 
-Nach einer Reparatur an der Weiche in Alexanderplatz, einer Reparatur am Zug in Alexanderplatz und einem Polizeieinsatz im Zug in Betriebsbahnhof Rummelsburg kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+Nach einer Reparatur an der Weiche in Alexanderplatz, einer Reparatur am Zug in Alexanderplatz und einem Polizeieinsatz im Zug in Betriebsbahnhof Rummelsburg kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und Ausfällen.
 
 * Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Hoppegarten und Warschauer Straße angeboten werden.
 
@@ -34,19 +20,19 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Signalstörung in Friedrichshagen ###
+### Gegenstände auf der Strecke zwischen Greifswalder Straße und Landsberger Allee beseitigt ###
 
- Letztes Update: 15:35 / 21.06.2023
+ Letztes Update: 20:32 / 21.06.2023
 
 Information
 
-Wegen einer Signalstörung in Friedrichshagen kommt es auf der Linie S3 zu Verspätungen und einzelnen Ausfällen.
+Nach Gegenständen auf der Strecke zwischen Greifswalder Straße und Landsberger Allee kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
