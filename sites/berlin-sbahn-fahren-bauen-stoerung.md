@@ -179,19 +179,18 @@ Information
 
  Nur Nachts
 
-### Ostbahnhof \> Friedrichstraße ###
+### Gleisänderung in Warschauer Straße \> Ostbahnhof ###
 
-21.06. (Mi) und 22.06. (Do), jeweils 1:48 Uhr bis 1:56 Uhr
+21.06. (Mi) und 22.06. (Do), jeweils 2:06 Uhr bis 2:08 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&tx_sbbconstructions_list%5Bperiod%5D=17008&type=5679&cHash=7e737060d0bde750d42c5c0b50f31e70)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25513&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=18653&tx_sbbconstructions_list%5Bperiod%5D=17009&type=5679&cHash=b4afc0d67c4e13f97051b36ba994019c)
 
- fährt nicht
+ Zugverkehr verändert
 
 Information
 
 * Der Zug:
-  * Flughafen BER – Terminal 1-2 ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:48 Uhr in Ostbahnhof.
-  * Der Zug fällt zwischen Ostbahnhof und Friedrichstraße aus.
+  * Warschauer Straße ab 2:06 Uhr nach Ostbahnhof (an 2:08 Uhr) fährt in Warschauer Straße von Gleis 2 (Bahnsteig stadtauswärts).
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -218,18 +217,19 @@ Information
 
  Nur Nachts
 
-### Gleisänderung in Warschauer Straße \> Ostbahnhof ###
+### Ostbahnhof \> Friedrichstraße ###
 
-21.06. (Mi) und 22.06. (Do), jeweils 2:06 Uhr bis 2:08 Uhr
+21.06. (Mi) und 22.06. (Do), jeweils 1:48 Uhr bis 1:56 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25513&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=18653&tx_sbbconstructions_list%5Bperiod%5D=17009&type=5679&cHash=b4afc0d67c4e13f97051b36ba994019c)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&tx_sbbconstructions_list%5Bperiod%5D=17008&type=5679&cHash=7e737060d0bde750d42c5c0b50f31e70)
 
- Zugverkehr verändert
+ fährt nicht
 
 Information
 
 * Der Zug:
-  * Warschauer Straße ab 2:06 Uhr nach Ostbahnhof (an 2:08 Uhr) fährt in Warschauer Straße von Gleis 2 (Bahnsteig stadtauswärts).
+  * Flughafen BER – Terminal 1-2 ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:48 Uhr in Ostbahnhof.
+  * Der Zug fällt zwischen Ostbahnhof und Friedrichstraße aus.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
