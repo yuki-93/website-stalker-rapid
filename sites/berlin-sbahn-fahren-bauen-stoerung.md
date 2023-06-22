@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### unbefugte Personen im Gleis im Bereich Jungfernheide ###
+### Unwetterauswirkungen im S-Bahn-Netz ###
 
- Letztes Update: 22:16 / 22.06.2023
+ Letztes Update: 23:14 / 22.06.2023
 
 Information
 
-Wegen unbefugter Personen im Gleis ist der Zugverkehr der Linien S41 und S42 zwischen Westend und Beusselstraße unterbrochen.
+Wegen des Unwettertiefs "Lambert" kommt es im S-Bahn-Netz zu folgenden Einschränkungen:
+
+* auf den Linien S5, S7 und S75 kommt es zu Verspätungen und Ausfällen
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
