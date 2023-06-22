@@ -6,15 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Defektes Stellwerk in Schönholz ###
+### defektes Stellwerk in Schönholz ###
 
- Letztes Update: 03:54 / 22.06.2023
+ Letztes Update: 06:14 / 22.06.2023
 
 Information
 
-Wegen einer Reparatur an einem Stellwerk im Bereich Schönholz kommt es auf den Linien S1 und S 25 zu Ausfällen und Verspätungen.
+Wegen einer Reparatur an einem Stellwerk im Bereich Schönholz kommt es auf den Linien S1 und S 25 zu Verspätungen und Zugausfällen.
 
-Die Linie S25 verkehrt Teltow Stadt\<\>Nordbahnhof und Hennigsdorf\<\>Alt Reinickendorf.
+*Die Linie S25 verkehrt zwischen Teltow Stadt und Nordbahnhof sowie Alt Reinickendorf und Hennigsdorf.*
 
 **Zur weiträumigen Umfahrung nutzen Sie bitte:**
 
