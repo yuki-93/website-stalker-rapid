@@ -66,6 +66,32 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)
 
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\> Wittenau/Tegel ###
+
+23.06. (Fr), ca. 22 Uhr durchgehend bis 26.06.2023 (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27211&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20326&tx_sbbconstructions_list%5Bperiod%5D=16942&type=5679&cHash=bca92566a606b0862933d9affdcb504d)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S1: Bornholmer Straße \<\> Wittenau
+  * Bus S25: Bornholmer Straße \<\> Tegel
+
+* Zugverkehr verändert:
+  * Die Züge der S1 werden zwischen Bornholmer Straße und Birkenwerder über Blankenburg, Schönfließ umgeleitet.
+
+* Pendelverkehr: Wittenau \<\> Waidmannslust im 10-Minutentakt
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-in-schoenholz-weichenerneuerung-in-alt-reinickendorf-und-vegetationsarbeiten/#con-27211)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -91,31 +117,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### (Teltow Stadt) Nordbahnhof \<\> Frohnau/Hennigsdorf ###
+Nur Wochenende
 
-19.06. (Mo), ca. 4 Uhr durchgehend bis 23.06. (Fr), ca. 22 Uhr
+### Wuhletal/Wartenberg \<\> Warschauer Straße ###
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27210&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20326&tx_sbbconstructions_list%5Bperiod%5D=16941&type=5679&cHash=92f72be024828d2066dc6785114c975f)
+24.06. (Sa), ca. 13.45 Uhr durchgehend bis 26.06. (Mo), ca. 1.30 Uhr
 
- Takt geändert
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27246&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20355&tx_sbbconstructions_list%5Bperiod%5D=16971&type=5679&cHash=7a8a6783485049aa5281cd20d24c106e)
+
+ Ersatzverkehr
 
 Information
 
-* Zugverkehr verändert:
-  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Schönholz um. Die Weiterfahrt erfolgt nach 12 Minuten vom selben Gleis.
-     Die Wartezeit in Schönholz lässt sich durch die Nutzung der S25 (Teltow Stadt \<\> Alt-Reinickendorf) in beiden Fahrtrichtungen auf 6 Minuten reduzieren.
+* Ersatzverkehr mit Bussen: Wuhletal \<\> Friedrichsfelde Ost
+* alternative Umfahrungsmöglichkeit:
+  * Bitte zwischen Wuhletal, Lichtenberg, Frankfurter Allee, Alexanderplatz und Berlin Hbf auch die U5 nutzen
 
-* Zugverkehr verändert:
-  * Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Alt-Reinickendorf um. Die Weiterfahrt erfolgt in Fahrtrichtung Hennigsdorf nach 12 Minuten und in Fahrtrichtung Teltow Stadt nach 18 Minuten vom selben Gleis.
-
-* Taktänderung: Bornholmer Straße \<\> Schönholz S-Bahnverkehr nur im ungefähren 10-Minutentakt mit S1 und S25
-* Taktänderung: Schönholz \<\> Frohnau S-Bahnverkehr nur im 20-Minutentakt S1
+* Zugverkehr verändert: Zwischen Wartenberg \<\> Lichtenberg fährt die S5 anstatt der S75.
 * Fahrplanänderung
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-in-schoenholz-weichenerneuerung-in-alt-reinickendorf-und-vegetationsarbeiten/#con-27210)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-suedlichen-blumberger-damm-bruecke-1-1/#con-27246)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
