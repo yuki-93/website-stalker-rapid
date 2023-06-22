@@ -8,11 +8,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Defektes Stellwerk in Schönholz ###
 
- Letztes Update: 23:27 / 21.06.2023
+ Letztes Update: 03:54 / 22.06.2023
 
 Information
 
 Wegen einer Reparatur an einem Stellwerk im Bereich Schönholz kommt es auf den Linien S1 und S 25 zu Ausfällen und Verspätungen.
+
+Die Linie S25 verkehrt Teltow Stadt\<\>Nordbahnhof und Hennigsdorf\<\>Alt Reinickendorf.
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+\- zwischen Nordbahnhof und Wittenau die Linie S1 sowie zwischen Wittenau und Karl-Bonhoeffer-Nervenklinik die U-Bahnlinie U8
+
+\- zwischen Nordbahnhof und Gesundbrunnen die Linien S1 und S2 sowie zwischen Gesundbrunnen und Karl-Bonhoeffer-Nervenklinik die U-Bahnlinie U8
+
+Wir bitten um Entschuldigung.
 
 Wir bitten um Entschuldigung
 
