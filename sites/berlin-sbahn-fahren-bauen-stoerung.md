@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Neukölln beendet ###
 
- Letztes Update: 18:50 / 22.06.2023
+ Letztes Update: 19:45 / 22.06.2023
 
 Information
 
 Nach einem Polizeieinsatz im Zug in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
+
+* Die Linie S42 verkehrt nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
