@@ -19,30 +19,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### defektes Stellwerk in Schönholz ###
-
- Letztes Update: 07:18 / 22.06.2023
-
-Information
-
-Wegen eines defekten Stellwerks in Schönholz kommt es auf den Linien S1 und S25 zu Verspätungen und nachfolgenden Einschränkungen:
-
-*Die Linie S25 verkehrt zwischen Teltow Stadt und Nordbahnhof sowie Alt-Reinickendorf und Hennigsdorf, bitte nutzen Sie zwischen Nordbahnhof und Schönholz die Linie S1 im 20-Minuten-Takt.*
-
-**Beachten Sie bitte:** Es besteht kein Zugverkehr auf der Linie S25 zwischen Schönholz und Alt-Reinickendorf.
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-\- zwischen Nordbahnhof und Wittenau die Linie S1 sowie zwischen Wittenau und Karl-Bonhoeffer-Nervenklinik die U-Bahnlinie U8
-
-\- zwischen Nordbahnhof und Gesundbrunnen die Linien S1 und S2 sowie zwischen Gesundbrunnen und Karl-Bonhoeffer-Nervenklinik die U-Bahnlinie U8
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
