@@ -2,23 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur am Stellwerk in Mahlow ###
-
- Letztes Update: 08:51 / 22.06.2023
-
-Information
-
-Wegen einer Reparatur am Stellwerk in Mahlow kommt es auf den Linie S2 zu Verspätungen und Zugausfällen.
-*Der 10-Minuten-Takt kann nur zwischen Marienfelde und Buch angeboten werden.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
