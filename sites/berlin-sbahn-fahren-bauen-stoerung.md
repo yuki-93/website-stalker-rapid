@@ -8,13 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Unwetterauswirkungen im S-Bahn-Netz ###
 
- Letztes Update: 23:14 / 22.06.2023
+ Letztes Update: 00:30 / 23.06.2023
 
 Information
 
 Wegen des Unwettertiefs "Lambert" kommt es im S-Bahn-Netz zu folgenden Einschränkungen:
 
 * auf den Linien S5, S7 und S75 kommt es zu Verspätungen und Ausfällen
+* **S7:** Zugverkehr zwischen Wannsee und Griebnitzsee unterbrochen
 
 Wir bitten um Ihr Verständnis.
 
