@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Polizeieinsatz in Neukölln beendet ###
+### unbefugte Personen im Gleis im Bereich Jungfernheide ###
 
- Letztes Update: 20:44 / 22.06.2023
+ Letztes Update: 22:16 / 22.06.2023
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Neukölln kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-* Die Linie S42 verkehrt nur im 10-Minuten-Takt.
+Wegen unbefugter Personen im Gleis ist der Zugverkehr der Linien S41 und S42 zwischen Westend und Beusselstraße unterbrochen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
