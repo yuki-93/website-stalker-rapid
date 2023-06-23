@@ -2,31 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### umgestürzter Baum auf der Strecke zwischen Plänterwald und Treptower Park ###
-
- Letztes Update: 23:47 / 23.06.2023
-
-Information
-
-Wegen eines umgestürzten Baumes auf der Strecke muss der Zugverkehr der Linien S8 und S9 verändert durchgeführt werden:
-
-* S8 verkehrt:
-  * Grünau \> Baumschulenweg \> Neukölln \> Hermannstraße \> Neukölln \> Treptower Park \> Ostkreuz \> Blankenburg sowie
-  * Blankenburg \> Ostkreuz \> Treptower Park \> Plänterwald \> Baumschulenweg \> Grünau
-
-* S9 verkehrt:
-  * Flughafen BER Terminal 1-2 \<\> Schöneweide sowie Ostbahnhof \<\> Spandau
-
-Bitte nutzen Sie zur Umfahrung zwischen Schönwweide und Ostbahnhof die Linie S8 und S3, S5, S7 mit Umsteigen in Ostkreuz.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
