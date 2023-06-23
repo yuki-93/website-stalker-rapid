@@ -441,3 +441,9 @@
 5,90 €
 
 7,02 €mit MwSt.
+
+[Energy Metering Pack](https://www.shelly.cloud/de/products/shop/energy-metering-pack)
+
+138,46 €~~162,90 €~~
+
+164,77 €mit MwSt.
