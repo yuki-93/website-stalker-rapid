@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### unbefugte Personen auf der Strecke in Babelsberg gestellt ###
-
- Letztes Update: 18:32 / 23.06.2023
-
-Information
-
-Nach einer unbefugten Person auf der Strecke in Babelsberg kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einem Signal in Hauptbahnhof ###
@@ -31,20 +17,6 @@ Wegen einer Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S
 * der 10-Minuten-Takt der Linie S5 kann nur zwischen Hoppegarten und Warschauer Straße angeboten werden, *bitte nutzen Sie zwischen Warschauer Straße und Westkreuz die Linien S3, S7 und S9.*
 
 Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### ärztliche Versorgung eines Fahrgastes in Brandenburger Tor beendet ###
-
- Letztes Update: 15:43 / 23.06.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Brandenburger Tor kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
