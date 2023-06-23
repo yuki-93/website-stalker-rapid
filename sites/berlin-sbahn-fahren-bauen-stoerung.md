@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Hauptbahnhof ###
 
- Letztes Update: 14:42 / 23.06.2023
+ Letztes Update: 14:43 / 23.06.2023
 
 Information
 
