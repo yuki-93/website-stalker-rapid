@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Stellwerkstörung Priesterweg behoben ###
-
- Letztes Update: 10:16 / 23.06.2023
-
-Information
-
-Nach einer Stellwerkstörung in Priesterweg kann es auf den Linien S2 und S25 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-* Die Linie S26 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Unwetterauswirkungen im Bereich Lichtenberg ###
