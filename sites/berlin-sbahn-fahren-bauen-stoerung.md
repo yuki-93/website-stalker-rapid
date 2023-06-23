@@ -8,14 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Unwetterauswirkungen im Bereich Lichtenberg ###
 
- Letztes Update: 09:05 / 23.06.2023
+ Letztes Update: 12:57 / 23.06.2023
 
 Information
 
 Wegen Unwetterauswirkungen im Bereich Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen:
 
 * **S7:** verkehrt zwischen Ahrensfelde und Charlottenburg nur im 20-Minuten-Takt, dabei fahren folgende Züge:
-   (Abfahrt in Ahrensfelde zu den Minuten 11, 31, 51 Richtung Potsdam Hauptbahnhof, Abfahrt in Ostbahnhof zu den Minuten 09, 29, 49 nach Ahrensfelde)
+   (Abfahrt in Ahrensfelde zu den Minuten 11, 31, 51 Richtung Potsdam Hauptbahnhof, Abfahrt in Charlottenburg zu den Minuten 07, 27, 47 nach Ahrensfelde)
 
 Wir bitten um Ihr Verständnis.
 
