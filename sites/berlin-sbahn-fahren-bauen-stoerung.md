@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal in Hauptbahnhof ###
+
+ Letztes Update: 17:21 / 23.06.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S5 und S7 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* der 10-Minuten-Takt der Linie S5 kann nur zwischen Hoppegarten und Warschauer Straße angeboten werden, *bitte nutzen Sie zwischen Warschauer Straße und Westkreuz die Linien S3, S7 und S9.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### ärztliche Versorgung eines Fahrgastes in Brandenburger Tor beendet ###
@@ -15,22 +31,6 @@ Information
 Nach der ärztlichen Versorgung eines Fahrgastes in Brandenburger Tor kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Hauptbahnhof ###
-
- Letztes Update: 14:43 / 23.06.2023
-
-Information
-
-Wegen einer Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* der 10-Minuten-Takt der Linie S5 kann nur zwischen Hoppegarten und Warschauer Straße angeboten werden, *bitte nutzen Sie zwischen Warschauer Straße und Westkreuz die Linien S3, S7 und S9.*
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
