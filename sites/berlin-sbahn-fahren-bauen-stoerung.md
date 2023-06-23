@@ -4,20 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Unwetterauswirkungen im Bereich Lichtenberg ###
+### Reparatur an einem Signal in Hauptbahnhof ###
 
- Letztes Update: 12:57 / 23.06.2023
+ Letztes Update: 14:42 / 23.06.2023
 
 Information
 
-Wegen Unwetterauswirkungen im Bereich Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen:
+Wegen einer Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **S7:** verkehrt zwischen Ahrensfelde und Charlottenburg nur im 20-Minuten-Takt, dabei fahren folgende Züge:
-   (Abfahrt in Ahrensfelde zu den Minuten 11, 31, 51 Richtung Potsdam Hauptbahnhof, Abfahrt in Charlottenburg zu den Minuten 07, 27, 47 nach Ahrensfelde)
+* der 10-Minuten-Takt der Linie S5 kann nur zwischen Hoppegarten und Warschauer Straße angeboten werden, *bitte nutzen Sie zwischen Warschauer Straße und Westkreuz die Linien S3, S7 und S9.*
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
