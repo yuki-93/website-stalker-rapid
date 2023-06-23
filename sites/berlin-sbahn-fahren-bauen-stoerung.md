@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### unbefugte Personen auf der Strecke in Babelsberg ###
+
+ Letztes Update: 18:23 / 23.06.2023
+
+Information
+
+Wegen unbefugter Personen auf der Strecke in Babelsberg ist der Zugverkehr der Linie S7 zwischen Griebnitzsee und Potsdam Hauptbahnhof unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einem Signal in Hauptbahnhof ###
