@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Unwetterauswirkungen im S-Bahn-Netz ###
-
- Letztes Update: 00:30 / 23.06.2023
-
-Information
-
-Wegen des Unwettertiefs "Lambert" kommt es im S-Bahn-Netz zu folgenden Einschränkungen:
-
-* auf den Linien S5, S7 und S75 kommt es zu Verspätungen und Ausfällen
-* **S7:** Zugverkehr zwischen Wannsee und Griebnitzsee unterbrochen
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
