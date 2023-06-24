@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Tiere auf der Strecke im Bereich Zepernick ###
+
+ Letztes Update: 22:28 / 24.06.2023
+
+Information
+
+Wegen Tieren auf der Strecke im Bereich Zepernick ist der Zugverkehr der Linie S2 zwischen Zepernick und Bernau unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
