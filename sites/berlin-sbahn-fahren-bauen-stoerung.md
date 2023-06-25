@@ -4,33 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Notarzteinsatz in Landsberger Allee beendet ###
+### Polizeieinsatz im im Bereich Friedrichstraße beendet ###
 
- Letztes Update: 15:20 / 25.06.2023
+ Letztes Update: 16:16 / 25.06.2023
 
 Information
 
-Nach einer ärtzlichen Versorgung eines Fahrgastes im Zug in Landsberger Allee kommt es auf den Linien S 41, S42, S8 und S85 noch zu Ausfällen und Verspätungen.
+Nach einem Polizeieinsatz im Bereich Friedrichstraße kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Signalstörung im Bereich Karow ###
-
- Letztes Update: 09:41 / 25.06.2023
-
-Information
-
-Wegen einer Reparatur am Signal im Bereich Karow kann der 10-Minuten-Takt der Linie S2 nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
-
-Wir bitten um Entschuldigung
-
- Takt geändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
