@@ -98,8 +98,6 @@ Das Anker-Erlebnis entdecken
 
   [Mehr erfahren Ankers Ladeverantwortung](https://www.anker.com/eu-de/anker-fuer-nachhaltigkeit-zukunft?ref=productBanner2_10)
 
-*
-
 Unentschlossen?
 
 Unsere Empfehlungen
