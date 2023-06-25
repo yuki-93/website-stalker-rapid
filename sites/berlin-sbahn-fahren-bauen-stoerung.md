@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Notarzteinsatz in Landsberger Allee beendet ###
+
+ Letztes Update: 15:20 / 25.06.2023
+
+Information
+
+Nach einer ärtzlichen Versorgung eines Fahrgastes im Zug in Landsberger Allee kommt es auf den Linien S 41, S42, S8 und S85 noch zu Ausfällen und Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Signalstörung im Bereich Karow ###
