@@ -20,11 +20,13 @@ vorbestellen und 200€ sparen!
 
 [Limitiertes AngebotmasterBanner1](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-solarbank-a17c0?ref=masterBanner1)
 
-Licht im Dunkeln und Power für den Tag
+Exklusive Rabatte für Anker-Mitglieder
+Erhalte bis zu 36% Rabatt
 
-Anker Reserve Powerbank
+Profitiere von exklusiven Angeboten als
+Anker-Mitglied und spare dabei Geld!
 
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/products/a1294?ref=masterBanner2)
+[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/members-exclusive-sale?ref=masterBanner2)
 
 Das Anker-Erlebnis entdecken
 ----------
