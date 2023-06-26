@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Feuerwehreinsatz zwischen Heiligensee und Hennigsdorf beendet ###
+### Gegenstände auf der Stecke im Bereich Tiergarten ###
 
- Letztes Update: 14:37 / 26.06.2023
+ Letztes Update: 15:07 / 26.06.2023
 
 Information
 
-Nach einem Feuerwehreinsatz auf der freien Strecke (Böschungsbrand) ist der Zugverkehr der Linie S25 zwischen Tegel und Hennigsdorf noch unregelmäßig.
+Wegen Gegenstände auf der Strecke im Bereich Tiergarten ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Tiergarten unterbrochen
 
-Wir bitten um Entschuldigung.
+Wir bitten um Entschuldigung
 
- Zugverkehr verändert  Verbindung verspätet
+ fährt nicht  Verbindung unterbrochen
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
