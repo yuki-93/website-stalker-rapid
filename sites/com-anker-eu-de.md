@@ -383,7 +383,7 @@ Produkte
 
 Programme
 
-[AnkerCredits Programm](https://anker.com/eu-de/ankercredits%20?ref=footer)
+[AnkerCredits Programm](https://anker.com/eu-de/ankercredits?ref=footer)
 
 [Blog](https://www.anker.com/eu-de/blogs?ref=footer)
 
