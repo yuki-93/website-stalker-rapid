@@ -56,10 +56,10 @@ Das Anker-Erlebnis entdecken
 
   ### 600W/800W Balkonkraftwerk ###
 
-  800W Mikro-Wechselrichter, begrenzt auf 600W.
-  Bis zu 10% Rabatt
+  600W/800W Mikro-Wechselrichter.
+  Anker SOLIX Fanwoche Spare bis zu 397€
 
-  [Jetzt vorbestellen! ,SOLIX RS40P | RS40,600W/800W Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-800-watt-erlaubt?ref=productBanner2_4)
+  [Mehr erfahren ,SOLIX RS40P | RS40,600W/800W Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_4)
 
 * ### Die Extraportion Power mit Ankers meistgekauften Ladegeräten  ###
 

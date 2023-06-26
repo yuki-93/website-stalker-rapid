@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### ärztliche Versorgung eines Fahrgastes in Lichtenberg ###
+### Reparatur an einer Weiche in Karow ###
 
- Letztes Update: 09:18 / 26.06.2023
+ Letztes Update: 10:22 / 26.06.2023
 
 Information
 
-Wegen der ärztliche Versorgung eines Fahrgastes in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einer Weiche in Karow kommt es auf der Linie S2 zu Verspätungen und vereinzelten Ausfällen.
 
-Wir bitten um Entschuldigung.
+* Linie S2: der 10-Minuten-Takt besteht zwischen Lichtenrade und Nordbahnhof.
+
+Wir bitten um Entschuldigug.
 
  Zugverkehr verändert  Verbindung verspätet
 
