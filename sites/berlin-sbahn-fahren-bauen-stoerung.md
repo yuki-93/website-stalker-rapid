@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Unwetter im Gesamten S-Bahnnetz ###
 
- Letztes Update: 16:50 / 26.06.2023
+ Letztes Update: 20:59 / 26.06.2023
 
 Information
 
-Wegen eines Unwetters im Raum Berlin kommt kann es auf allen Linien des Gesamten S- Bahnnetzes zu Ausfällen und Verspätungen.
+Wegen eines Unwetters im Raum Berlin kommt es auf allen Linien des Gesamten S- Bahnnetzes zu Ausfällen und Verspätungen.
 
 Wir bitten um Entschuldigung
 
