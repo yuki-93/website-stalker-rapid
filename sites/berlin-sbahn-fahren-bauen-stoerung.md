@@ -4,37 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Gegenstände auf der Stecke im Bereich Tiergarten wurden entfernt ###
+### Unwetter im Gesamten S-Bahnnetz ###
 
- Letztes Update: 16:23 / 26.06.2023
-
-Information
-
-Nach Gegenstände auf der Strecke im Bereich Tiergarten kommt es auf den Linien S3, S5, S7 und S9 noch zu Ausfällen und Verspätungen.
-
-Die Line S5 verkehrt Stausberg Nord/Hoppegarten\<\>Warschauer Straße.
-
-Bitte zur Umfahrung die BVG nutzen.
-
-Wir bitten um Entschuldigung
-
- fährt nicht  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Notarzteinsatz in Tempelhof ###
-
- Letztes Update: 14:01 / 26.06.2023
+ Letztes Update: 16:50 / 26.06.2023
 
 Information
 
-Nach einer ärtzlichen Versorgung eines Fahrgastes in Tempelhof kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
+Wegen eines Unwetters im Raum Berlin kommt kann es auf allen Linien des Gesamten S- Bahnnetzes zu Ausfällen und Verspätungen.
 
 Wir bitten um Entschuldigung
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
