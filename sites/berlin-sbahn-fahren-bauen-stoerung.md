@@ -6,13 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Gegenstände auf der Stecke im Bereich Tiergarten ###
+### Gegenstände auf der Stecke im Bereich Tiergarten wurden entfernt ###
 
- Letztes Update: 15:07 / 26.06.2023
+ Letztes Update: 16:23 / 26.06.2023
 
 Information
 
-Wegen Gegenstände auf der Strecke im Bereich Tiergarten ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Friedrichstraße und Tiergarten unterbrochen
+Nach Gegenstände auf der Strecke im Bereich Tiergarten kommt es auf den Linien S3, S5, S7 und S9 noch zu Ausfällen und Verspätungen.
+
+Die Line S5 verkehrt Stausberg Nord/Hoppegarten\<\>Warschauer Straße.
+
+Bitte zur Umfahrung die BVG nutzen.
 
 Wir bitten um Entschuldigung
 
