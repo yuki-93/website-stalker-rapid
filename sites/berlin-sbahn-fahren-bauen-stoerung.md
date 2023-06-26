@@ -18,22 +18,6 @@ Wir bitten um Entschuldigung
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Alexanderplatz ###
-
- Letztes Update: 10:55 / 26.06.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-* Linie S5: der 10-Minuten-Takt besteht zwischen Mahlsdorf und Warschauer Straße.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
