@@ -20,36 +20,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Schönholz ###
-
- Letztes Update: 10:42 / 26.06.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S26 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einer Weiche in Karow ###
-
- Letztes Update: 10:22 / 26.06.2023
-
-Information
-
-Wegen der Reparatur an einer Weiche in Karow kommt es auf der Linie S2 zu Verspätungen und vereinzelten Ausfällen.
-
-* Linie S2: der 10-Minuten-Takt besteht zwischen Lichtenrade und Nordbahnhof.
-
-Wir bitten um Entschuldigug.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
