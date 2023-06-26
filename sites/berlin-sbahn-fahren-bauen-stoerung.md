@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Feuerwehreinsatz zwischen Heiligensee und Hennigsdorf beendet ###
+
+ Letztes Update: 14:37 / 26.06.2023
+
+Information
+
+Nach einem Feuerwehreinsatz auf der freien Strecke (Böschungsbrand) ist der Zugverkehr der Linie S25 zwischen Tegel und Hennigsdorf noch unregelmäßig.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Notarzteinsatz in Tempelhof ###
+
+ Letztes Update: 14:01 / 26.06.2023
+
+Information
+
+Nach einer ärtzlichen Versorgung eines Fahrgastes in Tempelhof kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Alexanderplatz ###
