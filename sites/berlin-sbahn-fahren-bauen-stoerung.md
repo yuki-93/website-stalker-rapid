@@ -4,36 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Personen auf der Strecke zwischen Wannsee und Griebnitzsee ###
-
- Letztes Update: 20:19 / 27.06.2023
-
-Information
-
-Wegen Personen auf der Strecke ist der Zugverkehr der Linie S 7 zwischen Wannsee ind Griebnitzsee unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### vorübergehend verminderte Geschwindigkeit auf der Strecke Ostkreuz ###
+### Vorübergehend verminderte Geschwindigkeit auf der Strecke Frankfurter Allee \> Ostkreuz ###
 
- Letztes Update: 11:38 / 27.06.2023
+ Letztes Update: 21:34 / 27.06.2023
 
 Information
 
-Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke zwischen Frankfurter Allee und Ostkreuz kommt es auf den Linien S41 und S8 zu Verspätungen und Zugausfällen.
+Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke zwischen Frankfurter Allee und Ostkreuz kommt es auf den Linien S41, S8 und S85 zu Verspätungen und Zugausfällen.
 
 * Die Linie S41 verkehrt im 10-Minuten-Takt.
-* Die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
