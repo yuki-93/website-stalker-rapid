@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke Ostkreuz ###
+
+ Letztes Update: 11:38 / 27.06.2023
+
+Information
+
+Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke zwischen Frankfurter Allee und Ostkreuz kommt es auf den Linien S41 und S8 zu Verspätungen und Zugausfällen.
+
+* Die Linie S41 verkehrt im 10-Minuten-Takt.
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
