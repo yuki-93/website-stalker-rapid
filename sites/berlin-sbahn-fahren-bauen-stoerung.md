@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Gegenstände auf Strecke zwischen Birkenwerder und Oranienburg ###
+
+ Letztes Update: 14:26 / 27.06.2023
+
+Information
+
+Wegen eines umgestürzten Baumes auf der Strecke ist der Zugverkehr der Linie S1 zwischen Hohen Neuendorf und Oranienburg unterbrochen.
+
+Ab Hohen Neuendorf bitte die Linie S8 bis Birkenwerder nutzen.
+
+Ab Birkenwerder wird ein SEV eingerichtet.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke Ostkreuz ###
