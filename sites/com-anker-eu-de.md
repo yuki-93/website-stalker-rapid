@@ -57,7 +57,7 @@ Das Anker-Erlebnis entdecken
   ### 600W/800W Balkonkraftwerk ###
 
   600W/800W Mikro-Wechselrichter.
-  Anker SOLIX Fanwoche Spare bis zu 397€
+  Anker SOLIX Fanwoche Spare bis zu 30%
 
   [Mehr erfahren ,SOLIX RS40P | RS40,600W/800W Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_4)
 
@@ -431,7 +431,7 @@ Deutschland / Deutsch
 
 © Fantasia Trading LLC 2022 200923810277
 
-[Über uns](https://de.anker.com/pages/about?ref=footer)[Lieferbedingungen](https://www.anker.com/eu-de/policies/shipping-policy?ref=footer)[Erstattungen](https://www.anker.com/eu-de/policies/refund-policy?ref=footer)[Datenschutzrichtlinie](https://www.anker.com/eu-de/policies/privacy-policy?ref=footer)[Cookie-Einstellungen](https://www.anker.com/eu-de#?ref=footer)[Nutzungsbedingungen](https://www.anker.com/eu-de/policies/terms-of-service?ref=footer)
+[Über uns](https://de.anker.com/pages/about?ref=footer)[Lieferbedingungen](https://www.anker.com/eu-de/policies/shipping-policy?ref=footer)[Erstattungen](https://www.anker.com/eu-de/policies/refund-policy?ref=footer)[Datenschutzrichtlinie](https://www.anker.com/eu-de/policies/privacy-policy?ref=footer)[Cookie-Einstellungen](https://www.anker.com/eu-de#?ref=footer)[Nutzungsbedingungen](https://www.anker.com/eu-de/policies/terms-of-service?ref=footer)[Cookies-Mitteilung](https://de.anker.com/pages/cookie-notice?ref=footer)
 
 []()
 
