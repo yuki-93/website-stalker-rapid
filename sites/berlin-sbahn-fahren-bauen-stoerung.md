@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Personen auf der Strecke zwischen Wannsee und Griebnitzsee ###
+
+ Letztes Update: 20:19 / 27.06.2023
+
+Information
+
+Wegen Personen auf der Strecke ist der Zugverkehr der Linie S 7 zwischen Wannsee ind Griebnitzsee unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur am Signal im Bereich Humboldthain ###
