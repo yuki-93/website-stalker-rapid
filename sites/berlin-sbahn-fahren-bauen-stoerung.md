@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz zwischen Warschauer Straße und Ostbahnhof beendet ###
+
+ Letztes Update: 15:14 / 27.06.2023
+
+Information
+
+Nach einem Polizeieinsatz zwischen Warschauer Straße und Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Ausfällen und Verspätungen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Gegenstände auf Strecke zwischen Birkenwerder und Oranienburg ###
 
- Letztes Update: 14:26 / 27.06.2023
+ Letztes Update: 14:53 / 27.06.2023
 
 Information
 
@@ -16,7 +30,7 @@ Wegen eines umgestürzten Baumes auf der Strecke ist der Zugverkehr der Linie S1
 
 Ab Hohen Neuendorf bitte die Linie S8 bis Birkenwerder nutzen.
 
-Ab Birkenwerder wird ein SEV eingerichtet.
+Ab Birkenwerder wird ein Ersatzverkehr mit Bussen eingerichtet.
 
 Wir bitten um Verständnis.
 
