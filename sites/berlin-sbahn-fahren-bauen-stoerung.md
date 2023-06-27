@@ -4,6 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur am Signal im Bereich Humboldthain ###
+
+ Letztes Update: 18:19 / 27.06.2023
+
+Information
+
+Wegen einer Reparatur am Signal kommt es auf den Linien S1, S2, S25 und S26 zu Ausfällen und Verspätungen.
+
+Die Linie S26 verkehrt Teltow Stadt\<\>Nordbahnhof..
+
+Wir bitten um Entschuldigung
+
+ Takt geändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Gegenstände im Gleis zwischen Schöneberg und Großgörschenstraße ###
+
+ Letztes Update: 17:32 / 27.06.2023
+
+Information
+
+Wegen eines umgestürzten Baumes auf der Strecke ist der Zugverkehr der Linie S1 im Bereich Schöneberg unregelmäßig.
+
+Zwischen Schöneberg und Potsdamer Platz kann nur der 20 Minuten Takt angeboten werden.
+
+Wir bitten um Verständnis
+
+ Takt geändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke Ostkreuz ###
