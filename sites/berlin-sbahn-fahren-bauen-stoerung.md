@@ -6,15 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in einem Zug in Tiergarten beendet ###
+### Reparatur am Zug in Hauptbahnhof beendet ###
 
- Letztes Update: 09:55 / 28.06.2023
+ Letztes Update: 11:03 / 28.06.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
+Nach der Reparatur an einem Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
