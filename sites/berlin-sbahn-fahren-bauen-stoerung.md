@@ -4,21 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Frankfurter Allee und Ostkreuz ###
+### Reparatur am Signal im Bereich Humboldthain ###
 
- Letztes Update: 07:46 / 28.06.2023
+ Letztes Update: 14:43 / 28.06.2023
 
 Information
 
-Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke zwischen Frankfurter Allee und Ostkreuz kann es auf den Linien S41, S8 und S85 zu Verspätungen und Zugausfällen kommen.
+Wegen einer Reparatur am Signal in Humboldthain kann es auf den Linien S1, S2, S25 und S26 zu Verspätungen kommen.
 
-* Die Linie S41 verkehrt im 10-Minuten-Takt.
+* Die Linie S26 verkehrt zwischen Teltow Stadt und Nordbahnhof.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung verspätet
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
