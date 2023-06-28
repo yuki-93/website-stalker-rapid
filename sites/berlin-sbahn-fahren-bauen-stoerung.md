@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz in Friedrichshagen ###
+
+ Letztes Update: 23:17 / 28.06.2023
+
+Information
+
+Wegen eines Polizeieinsatzes (Personen auf der Strecke) in Friedrichshagen, ist die Linie S3 zwischen Erkner \<\> Friedrichshagen derzeit unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
