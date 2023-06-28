@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Vorübergehend verminderte Geschwindigkeit auf der Strecke Frankfurter Allee \> Ostkreuz ###
+### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Frankfurter Allee und Ostkreuz ###
 
- Letztes Update: 06:33 / 28.06.2023
+ Letztes Update: 07:46 / 28.06.2023
 
 Information
 
