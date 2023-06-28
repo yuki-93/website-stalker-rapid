@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur am Signal im Bereich Humboldthain ###
-
- Letztes Update: 14:43 / 28.06.2023
-
-Information
-
-Wegen einer Reparatur am Signal in Humboldthain kann es auf den Linien S1, S2, S25 und S26 zu Verspätungen kommen.
-
-* Die Linie S26 verkehrt zwischen Teltow Stadt und Nordbahnhof.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
