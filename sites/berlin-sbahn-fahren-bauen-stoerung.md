@@ -6,60 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz in Friedrichshagen ###
+### Polizeieinsatz in Friedrichshagen beendet ###
 
- Letztes Update: 23:17 / 28.06.2023
+ Letztes Update: 00:04 / 29.06.2023
 
 Information
 
-Wegen eines Polizeieinsatzes (Personen auf der Strecke) in Friedrichshagen, ist die Linie S3 zwischen Erkner \<\> Friedrichshagen derzeit unterbrochen.
+Nach einem Polizeieinsatz (Personen auf der Strecke) in Friedrichshagen kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
-
-### Baumaßnahmen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gehrenseestraße ###
-
-19.06. (Mo) 4 Uhr bis 08.12. (Fr) 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16986&type=5679&cHash=c20df51cc9cacfaba516395f041fa5cb)
-
- Zugverkehr verändert
-
-Information
-
-* keine Halt in Gehrenseesrtraße
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Wartenberg \<\> Warschauer Straße ###
-
-19.06. (Mo), ca. 4 Uhr durchgehend bis 28.08. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16985&type=5679&cHash=86ab8834f5cf0591b21c4c15159327f2)
-
- Takt geändert
-
-Information
-
-* ***kein Halt*** in Gehrenseestraße
-* Taktänderung: Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -163,6 +120,87 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-5/#con-27330)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+Nur Wochenende
+
+### Südkreuz \<\> Halensee ###
+
+30.06.23 (Fr), 21.45 Uhr bis 03.07.23 (Mo), 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27263&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20367&tx_sbbconstructions_list%5Bperiod%5D=16984&type=5679&cHash=14f7bbcb15ee3dbba855bcabca27e450)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-weichenerneuerung/#con-27263)
+
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Ahrensfelde/Wartenberg – Warschauer Straße ###
+
+30.06. (Fr) 22 Uhr bis 04.07. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27317&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20425&tx_sbbconstructions_list%5Bperiod%5D=16997&type=5679&cHash=bd19e7d5abab6b615931efc78f177776)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-der-weichenheizung-in-springpfuhl-1/#con-27317)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Wartenberg \<\> Warschauer Straße ###
+
+19.06. (Mo), ca. 4 Uhr durchgehend bis 28.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16985&type=5679&cHash=86ab8834f5cf0591b21c4c15159327f2)
+
+ Takt geändert
+
+Information
+
+* ***kein Halt*** in Gehrenseestraße
+* Taktänderung: Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Gehrenseestraße ###
+
+19.06. (Mo) 4 Uhr bis 08.12. (Fr) 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16986&type=5679&cHash=c20df51cc9cacfaba516395f041fa5cb)
+
+ Zugverkehr verändert
+
+Information
+
+* keine Halt in Gehrenseesrtraße
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
@@ -526,6 +564,75 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-8/#con-27352)
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Blankenburg \<\> Birkenwerder ###
+
+14.07. (Fr), ca. 4.00 Uhr durchgehend bis 14.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16958&type=5679&cHash=bb8971ee14e8eb09d8200d5bdbaf9fec)
+
+Nächte 06./07.09. (Mi/Do) und 07./08.09. (Do/Fr), jeweils ca. 22 Uhr – ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16965&type=5679&cHash=4657592837ba0aa4fc7cf94707bfe438)
+
+09.09. (Sa), ca. 5 Uhr durchgehend bis 10.09. (So), ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16966&type=5679&cHash=8bc0b369acbeaecee7b2021d3069b3da)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&type=5679&cHash=f5fe4a9dd96b76653cc7986f0c12effe)
+
+ Ersatzverkehr
+
+Information
+
+* kein Zugverkehr zwischen Blankenburg und Birkenwerder
+* Ersatzverkehr mit Bussen:
+  * Bus S8: Pankow-Heinersdorf \<\> Birkenwerder
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27233)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Warschauer Straße – Ostbahnhof ###
+
+14.07. (Fr) 4 Uhr bis 20.07. (Do) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27346&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20455&tx_sbbconstructions_list%5Bperiod%5D=17025&type=5679&cHash=8c2fe40867272c30b82e426533a6bb8b)
+
+ Zugverkehr verändert
+
+Information
+
+* Linienführung verändert (S3)
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/hallendachsanierung-in-ostbahnhof-das-gleis-11-ist-gesperrt/#con-27346)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+Nur Wochenende
+
+### Hermannstraße \<\> Halensee ###
+
+14.07. (Fr), ca. 21:45 Uhr bis 17.07. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27281&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20386&tx_sbbconstructions_list%5Bperiod%5D=16989&type=5679&cHash=ade34117f8f0df60be8c137de8d6dc41)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen Hermannstraße - Halensee
+* Fahrplanänderung
+* Bahnsteigänderung in Treptower Park
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleis-kabeltiefbau-instandsetzung-der-entwaesserungsleitungen-instandhaltung-der-weichen-in-suedkreuz-1/#con-27281)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -770,45 +877,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27233)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Warschauer Straße – Ostbahnhof ###
-
-14.07. (Fr) 4 Uhr bis 20.07. (Do) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27346&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20455&tx_sbbconstructions_list%5Bperiod%5D=17025&type=5679&cHash=8c2fe40867272c30b82e426533a6bb8b)
-
- Zugverkehr verändert
-
-Information
-
-* Linienführung verändert (S3)
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/hallendachsanierung-in-ostbahnhof-das-gleis-11-ist-gesperrt/#con-27346)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-Nur Wochenende
-
-### Hermannstraße \<\> Halensee ###
-
-14.07. (Fr), ca. 21:45 Uhr bis 17.07. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27281&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20386&tx_sbbconstructions_list%5Bperiod%5D=16989&type=5679&cHash=ade34117f8f0df60be8c137de8d6dc41)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen Hermannstraße - Halensee
-* Fahrplanänderung
-* Bahnsteigänderung in Treptower Park
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleis-kabeltiefbau-instandsetzung-der-entwaesserungsleitungen-instandhaltung-der-weichen-in-suedkreuz-1/#con-27281)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
@@ -1108,78 +1176,6 @@ Information
 * Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:48 Uhr in Friedrichstraße.
 * Der Zug fällt von Westkreuz bis Friedrichstraße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Tiergarten \> Grunewald ###
-
-10.07. (Mo) bis 12.07. (Mi) jeweils 1:44 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13959&tx_sbbconstructions_list%5Bperiod%5D=17045&type=5679&cHash=b058fb81b84d997a56db196fd69089e4)
-
-14.07. (Fr) 1:44 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13959&tx_sbbconstructions_list%5Bperiod%5D=17046&type=5679&cHash=0ea2f03cec276a55dc53bdc8c13334af)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17569&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13959&type=5679&cHash=84dd84d99e65cebac6881435764cfd30)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 0:48 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:44 Uhr in Tiergarten.
-* Der Zug fällt von Tiergarten bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Tiergarten ###
-
-10.07. (Mo) bis 12.07. (Mi) jeweils 3:12 Uhr bis 3:20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13960&tx_sbbconstructions_list%5Bperiod%5D=17049&type=5679&cHash=07ec1b8218cb094976a1edeb096df16a)
-
-14.07. (Fr) 3:12 Uhr bis 3:20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13960&tx_sbbconstructions_list%5Bperiod%5D=17050&type=5679&cHash=b76516ce643402e4518697d45d7bb5d7)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13960&type=5679&cHash=965af9875afea9691b5dd948e3e9d21d)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:20 Uhr in Tiergarten.
-* Der Zug fällt von Westkreuz bis Tiergarten aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Tiergarten ###
-
-10.07. (Mo) bis 12.07. (Mi) jeweils 3:32 Uhr bis 3:40 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26782&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19877&tx_sbbconstructions_list%5Bperiod%5D=17051&type=5679&cHash=a55d2949b8785dec01f1fedd67123f53)
-
-14.07. (Fr) 3:32 Uhr bis 3:40 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26782&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19877&tx_sbbconstructions_list%5Bperiod%5D=17052&type=5679&cHash=8d33d9b60fbd225307bf7113e21cda33)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26782&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19877&type=5679&cHash=ea2b950ef9143329fbab27c06e04ca99)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:40 Uhr in Tiergarten.
-* Der Zug fällt von Westkreuz bis Tiergarten aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
