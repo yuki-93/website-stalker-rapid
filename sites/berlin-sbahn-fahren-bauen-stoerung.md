@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Polizeieinsatz in Friedrichshagen beendet ###
-
- Letztes Update: 00:04 / 29.06.2023
-
-Information
-
-Nach einem Polizeieinsatz (Personen auf der Strecke) in Friedrichshagen kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
