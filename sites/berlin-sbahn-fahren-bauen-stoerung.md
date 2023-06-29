@@ -42,6 +42,44 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-5/#con-27330)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+Nur Wochenende
+
+### Südkreuz \<\> Halensee ###
+
+30.06.23 (Fr), 21.45 Uhr bis 03.07.23 (Mo), 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27263&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20367&tx_sbbconstructions_list%5Bperiod%5D=16984&type=5679&cHash=14f7bbcb15ee3dbba855bcabca27e450)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-weichenerneuerung/#con-27263)
+
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Ahrensfelde/Wartenberg – Warschauer Straße ###
+
+30.06. (Fr) 22 Uhr bis 04.07. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27317&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20425&tx_sbbconstructions_list%5Bperiod%5D=16997&type=5679&cHash=bd19e7d5abab6b615931efc78f177776)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-der-weichenheizung-in-springpfuhl-1/#con-27317)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -87,26 +125,6 @@ Information
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
- Nur Nachts
-
-### Südkreuz – Bundesplatz – Westend ###
-
-Nacht 29./30.06. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27330&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20440&tx_sbbconstructions_list%5Bperiod%5D=17013&type=5679&cHash=81609837f736088b19b715d5ea94ea06)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Taktänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-5/#con-27330)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
 Nur Wochenende
 
 ### Südkreuz \<\> Halensee ###
@@ -142,6 +160,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-der-weichenheizung-in-springpfuhl-1/#con-27317)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Birkenwerder \<\> Oranienburg ###
+
+01.07. (Sa), ca. 4:45 Uhr bis 03.07. (Mo), ca. 1.30 Uh
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27290&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20396&tx_sbbconstructions_list%5Bperiod%5D=16992&type=5679&cHash=012376920cc7e0551a07e3d17df43664)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1-nord-5-2/#con-27290)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
