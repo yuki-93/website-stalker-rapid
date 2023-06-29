@@ -26,7 +26,7 @@ Erhalte bis zu 36% Rabatt
 Profitiere von exklusiven Angeboten als
 Anker-Mitglied und spare dabei Geld!
 
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/members-exclusive-sale?ref=masterBanner2)
+[Registriere dich kostenlosmasterBanner2](https://www.anker.com/eu-de/members-exclusive-sale?ref=masterBanner2)
 
 Das Anker-Erlebnis entdecken
 ----------
