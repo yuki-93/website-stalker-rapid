@@ -367,6 +367,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-und-arbeiten-am-hallendach-in-zoologischer-garten/#con-27271)
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg – Springpfuhl ###
+
+7.07. (Fr) 21:45 Uhr bis 10.07. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27518&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20638&tx_sbbconstructions_list%5Bperiod%5D=17081&type=5679&cHash=ca7e7b7260592ad7b8c13c3506db69bc)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-35-1/#con-27518)
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
  Nur Nachts
@@ -387,26 +407,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenschleifarbeiten-10/#con-27356)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wartenberg – Springpfuhl ###
-
-Nacht 09./10.07. (So/Mo) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27357&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20466&tx_sbbconstructions_list%5Bperiod%5D=17033&type=5679&cHash=49d424f3c3e2417deeec7af02d8c1d97)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-35/#con-27357)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
