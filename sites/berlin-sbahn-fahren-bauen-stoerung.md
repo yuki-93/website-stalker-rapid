@@ -1012,6 +1012,8 @@ Information
 * Ersatzverkehr mit Bussen
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-griebnitzsee-und-weichenarbeiten-in-wannsee/#con-27384)
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Blankenburg \<\> Schönfließ ###
