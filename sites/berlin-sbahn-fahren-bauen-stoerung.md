@@ -373,7 +373,7 @@ Information
 
 ### Wartenberg – Springpfuhl ###
 
-7.07. (Fr) 21:45 Uhr bis 10.07. (Mo) 1:30 Uhr
+07.07. (Fr) 21:45 Uhr bis 10.07. (Mo) 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27518&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20638&tx_sbbconstructions_list%5Bperiod%5D=17081&type=5679&cHash=ca7e7b7260592ad7b8c13c3506db69bc)
 
@@ -1047,6 +1047,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27235)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Wartenberg – Springpfuhl ###
+
+25.08. (Fr) 21:45 Uhr bis 28.08. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27524&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20645&tx_sbbconstructions_list%5Bperiod%5D=17084&type=5679&cHash=8c5d12a84988e81e95f1cb845cdd616e)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-35-1-1/#con-27524)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
