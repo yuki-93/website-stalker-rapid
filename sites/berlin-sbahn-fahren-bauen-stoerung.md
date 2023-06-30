@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Westkreuz ###
 
- Letztes Update: 00:20 / 01.07.2023
+ Letztes Update: 01:00 / 01.07.2023
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Westkreuz ist der Zugverkehr der Linien S7 und S9 zwischen Charlottenburg und Westkreuz unterbrochen.
+Wegen eines Notarzteinsatzes auf der Strecke in Westkreuz ist der Zugverkehr der Linien S3, S7 und S9 zwischen Charlottenburg und Westkreuz unterbrochen.
 
 Wir bitten um Verständnis.
 
