@@ -940,7 +940,7 @@ Nur Wochenende
 
 ### Baumschulenweg/Neukölln – Treptower Park – Warschauer Straße ###
 
-28.07. (Fr), ca. 22 Uhr bis 04.08. (Fr), ca. 22 Uhr
+28.07. (Fr), ca. 22 Uhr bis 07.08. (Mo), ca. 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27398&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20507&tx_sbbconstructions_list%5Bperiod%5D=17064&type=5679&cHash=2ef308dcedc9def87358094cf927025a)
 
