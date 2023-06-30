@@ -2,6 +2,37 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### unbefugte Personen auf der Strecke Bornholmer Straße ###
+
+ Letztes Update: 15:16 / 30.06.2023
+
+Information
+
+Wegen unbefugten Personen auf der Strecke im Bereich Bornholmer Straße kommt es auf den Linien S1, S2, S25, S26, S41, S42, S8 und S85 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur am Signal Schönholz ###
+
+ Letztes Update: 14:47 / 30.06.2023
+
+Information
+
+Wegen einer Reparatur am Signal in Schönholz kommt es auf den Linien S1, S25 und S26 zu Verspätungen und Zugausfällen.
+*Die Linie S26 verkehrt zwischen Teltow Stadt und Nordbahnhof.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
