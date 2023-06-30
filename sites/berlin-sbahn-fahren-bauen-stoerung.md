@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur am Signal Schönholz und Reparatur an Weiche Wollankstraße beendet ###
-
- Letztes Update: 19:22 / 30.06.2023
-
-Information
-
-Nach einer Reparatur am Signal in Schönholz und einer Reparatur an einer Weiche in Wollankstraße kommt es auf den Linien S1, S25 und S26 noch zu Verspätungen und Zugausfällen.
-
-* Die Linie S26 verkehrt zwischen Teltow Stadt und Nordbahnhof.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
