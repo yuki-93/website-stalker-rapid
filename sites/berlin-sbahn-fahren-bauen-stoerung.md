@@ -8,11 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### unbefugte Personen auf der Strecke Bornholmer Straße ###
 
- Letztes Update: 15:16 / 30.06.2023
+ Letztes Update: 15:54 / 30.06.2023
 
 Information
 
-Wegen unbefugten Personen auf der Strecke im Bereich Bornholmer Straße kommt es auf den Linien S1, S2, S25, S26, S41, S42, S8 und S85 zu Verspätungen und Zugausfällen.
+Die unbefugten Personen haben die Strecke im Bereich Bornholmer Straße verlassen.
+ Auf den Linien S1, S2, S25, S26, S41, S42, S8 und S85 kann es noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
