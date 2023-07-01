@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Notarzteinsatz auf der Strecke in Westkreuz beendet ###
 
- Letztes Update: 03:16 / 01.07.2023
+ Letztes Update: 05:16 / 01.07.2023
 
 Information
 
-Nach einem Notarzteinsatz auf der Strecke in Westkreuz kann es auf den Linien S7 und S9 noch zu Verspätungen und Ausfällen kommen.
+Nach einem Notarzteinsatz auf der Strecke in Westkreuz kann es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen kommen.
 
 Wir bitten um Verständnis.
 
