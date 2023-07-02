@@ -6,23 +6,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Streckensperrung Ostkreuz - Lichtenberg ###
+### Streckensperrung zwischen Lichtenberg und Ostkreuz ###
 
- Letztes Update: 04:04 / 02.07.2023
+ Letztes Update: 05:12 / 02.07.2023
 
 Information
 
-Wegen einer Streckensperrung ist der Zugverkehr der Linien S5, S7 und S75 zwischen Ostkreuz - Lichtenberg unterbrochen.
+Wegen einer Streckensperrung ist der Zugverkehr der Linien S5, S7 und S75 zwischen Lichtenberg und Ostkreuz unterbrochen.
 
-\* Linie S5 verkehrt Strausberg Nord/Strausberg \<\> Frichsfelde Ost.
+**Die betroffenen Linien fahren wie folgt:**
 
-\* Linie S7 verkehrt Potsdam Hauptbahnhof \<\> Ostkreuz sowie Friedrichsfelde Ost \<\> Ahrensfelde.
+* **S5**: Strausberg Nord \<\> Friedrichsfelde Ost
+* **S7**: Ahrensfelde \<\> Friedrichsfelde Ost ***sowie*** Ostkreuz \<\> Potsdam Hauptbahnhof
+* **S75**: Wartenberg \<\> Friedrichsfelde Ost
 
-\* Linie S75 verkehrt zwischen Wartenberg \<\> Friedrichsfelde Ost.
+**Zwischen Friedrichsfelde Ost und Lichtenberg verkehrt ein besonderer Wagenzug.**
 
-\* Zwischen Friedrichsfelde Ost und Lichtenberg verkehrt ein besonderer Wagenzug.
-
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+Zur weiträumigen Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
 
 Wir bitten um Entschuldigung.
 
