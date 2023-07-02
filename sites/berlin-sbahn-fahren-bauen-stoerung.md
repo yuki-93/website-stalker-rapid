@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### defektes Stellwerk zwischen Lichtenberg und Ostkreuz repariert ###
-
- Letztes Update: 07:53 / 02.07.2023
-
-Information
-
-Nach einem defekten Stellwerk in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Notarzteinsatz auf der Strecke im Bereich Wedding beendet ###
-
- Letztes Update: 07:16 / 02.07.2023
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke im Bereich Wedding kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
