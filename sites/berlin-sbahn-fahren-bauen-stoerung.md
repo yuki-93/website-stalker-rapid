@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Lichtenberg und Ostkreuz ###
 
- Letztes Update: 05:12 / 02.07.2023
+ Letztes Update: 05:43 / 02.07.2023
 
 Information
 
@@ -22,7 +22,11 @@ Wegen einer Streckensperrung ist der Zugverkehr der Linien S5, S7 und S75 zwisch
 
 **Zwischen Friedrichsfelde Ost und Lichtenberg verkehrt ein besonderer Wagenzug.**
 
-Zur weiträumigen Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Lichtenberg und Frankfurter Allee die U-Bahnlinie U5 ***sowie*** zwischen Frankfurter Allee und Ostkreuz die Linien S41, S42 und S8
+* zwischen Lichtenberg und Ostkreuz die Buslinie N94
+* zwischen Lichtenberg \<\> Frankfurter Allee \<\> Alexanderplatz \<\> Hauptbahnhof die U-Bahnlinie U5
 
 Wir bitten um Entschuldigung.
 
