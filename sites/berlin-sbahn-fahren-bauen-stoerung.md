@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### defektes Stellwerk zwischen Lichtenberg und Ostkreuz repariert ###
+
+ Letztes Update: 07:53 / 02.07.2023
+
+Information
+
+Nach einem defekten Stellwerk in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Notarzteinsatz auf der Strecke im Bereich Wedding beendet ###
@@ -17,34 +31,6 @@ Nach einem Notarzteinsatz auf der Strecke im Bereich Wedding kommt es auf den Li
 Wir bitten um Ihr Verständnis
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### defektes Stellwerk zwischen Lichtenberg und Ostkreuz ###
-
- Letztes Update: 07:04 / 02.07.2023
-
-Information
-
-Wegen eines defekten Stellwerkes ist der Zugverkehr der Linien S5, S7 und S75 zwischen Lichtenberg und Ostkreuz unterbrochen. Es kommt auf den genannten Linien zu Verspätungen und Ausfällen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S5**: Strausberg Nord \<\> Friedrichsfelde Ost
-* **S7**: Ahrensfelde \<\> Friedrichsfelde Ost ***sowie*** Ostkreuz \<\> Potsdam Hauptbahnhof
-* **S75**: Wartenberg \<\> Friedrichsfelde Ost
-
-**Zwischen Friedrichsfelde Ost und Ostkreuz verkehren zwei besondere Wagenzüge.**
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Lichtenberg und Frankfurter Allee die U-Bahnlinie U5 ***sowie*** zwischen Frankfurter Allee und Ostkreuz die Linien S41, S42 und S8
-* zwischen Lichtenberg und Ostkreuz die Buslinie N94
-* zwischen Wuhletal \<\> Lichtenberg \<\> Frankfurter Allee \<\> Alexanderplatz \<\> Hauptbahnhof die U-Bahnlinie U5
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
