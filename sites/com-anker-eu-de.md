@@ -51,14 +51,12 @@ Das Anker-Erlebnis entdecken
 
    ###
 
-  ### Anker SOLIX Fanwoche ###
-
-  ### Spare bis zu 30% ###
+  ### SOLIX Balkonkraftwerk stark reduziert | Bis zu 30% Rabatt ###
 
   SOLIX RS40P | RS40
-  600W/800W Mikro-Wechselrichter.
+  600W/800W Mikro-Wechselrichter
 
-  [Mehr erfahren ,Anker SOLIX Fanwoche,Spare bis zu 30%](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_4)
+  [Mehr erfahren ,SOLIX Balkonkraftwerk stark reduziert | Bis zu 30% Rabatt](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_4)
 
 * ### Die Extraportion Power mit Ankers meistgekauften Ladegeräten  ###
 
