@@ -4,19 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an Signalen in Südkreuz ###
+### Reparatur an Signalen in Südkreuz beendet ###
 
- Letztes Update: 03:56 / 03.07.2023
+ Letztes Update: 05:29 / 03.07.2023
 
 Information
 
-Wegen der Reparatur an Signalen in Südkreuz kommt es auf den Linien S41, S45 und S46 zu Verspätungen und Ausfällen.
+Nach der Reparatur an Signalen in Südkreuz kommt es auf den Linie S46 zu Ausfällen.
 
-\* Linie S45 verkehrt Flughafen BER, Terminal 1,2 \<\> Tempelhof.
-
-\* Linie S46 verkehrt Königs Wusterhausen \<\> Tempelhof.
+* Linie S46: verkehrt Königs Wusterhausen \<\> Tempelhof.
 
 Wir bitten um Entschuldigung.
 
