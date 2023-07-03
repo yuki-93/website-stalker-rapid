@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### technische Untersuchung am Zug in Friedrichstraße ###
+### technische Untersuchung am Zug in Friedrichstraße beendet ###
 
- Letztes Update: 10:03 / 03.07.2023
+ Letztes Update: 10:36 / 03.07.2023
 
 Information
 
-Wegen einer technischen Untersuchung am Zug in Friedrichstraße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+Nach einer technischen Untersuchung am Zug in Friedrichstraße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
