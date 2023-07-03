@@ -30,10 +30,10 @@ Von 3. bis 10. Juli
 Das Anker-Erlebnis entdecken
 ----------
 
-* ### Anker SOLIX Fanwoche
-   Spare bis zu 990€ ###
+* ### Prime Week Angebote
+   Bis zu 920€ Rabatt ###
 
-  [Jetzt Fan werdenAnker SOLIX Fanwoche Spare bis zu 990€](https://www.anker.com/eu-de/anker-solix/fan-woche?ref=productBanner2_1)
+  [Jetzt kaufenPrime Week Angebote Bis zu 920€ Rabatt](https://www.anker.com/eu-de/anker-solix/prime-week-angebote?ref=productBanner2_1)
 
 * ### AnkerCredits Belohnungsprogramm ###
 

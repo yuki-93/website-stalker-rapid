@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Streckensperrung zwischen Treptower Park und Neukölln beendet ###
+
+ Letztes Update: 15:17 / 03.07.2023
+
+Information
+
+Nach einer Streckensperrung zwischen Treptower Park und Neukölln kommt es auf der Linie S41 noch zu Verspätungen und einzelnen Ausfällen.
+
+* Die Linie S41 verkehrt nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz zwischen Anhalter Bahnhof und Großgörschenstraße beendet ###
+
+ Letztes Update: 15:10 / 03.07.2023
+
+Information
+
+Nach einem Polizeieinsatz zwischen Anhalter Bahnhof und Großgörschenstraße kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### ärztliche Versorgung eines Fahrgastes in Savignyplatz beendet ###
@@ -17,20 +47,6 @@ Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Savignyplatz kommt e
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### technische Untersuchung am Zug in Friedrichstraße beendet ###
-
- Letztes Update: 10:36 / 03.07.2023
-
-Information
-
-Nach einer technischen Untersuchung am Zug in Friedrichstraße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
