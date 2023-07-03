@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Streckensperrung zwischen Treptower Park und Neukölln, und Reparatur am Zug in Landsberger Allee beendet ###
+### Polizeieinsatz in Hermannstraße beendet ###
 
- Letztes Update: 16:56 / 03.07.2023
+ Letztes Update: 20:32 / 03.07.2023
 
 Information
 
-Nach einer Streckensperrung zwischen Treptower Park und Neukölln und einer Reparatur am Zug in Landsberger Allee kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz in Hermannstraße wegen unbefugter Person auf der Strecke kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
 
-Wir bitten um Entschuldigung.
+Die Linie S42 verkehrt nur im 10-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
