@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Savignyplatz und Reparatur an Zügen in Warschauer Straße und Jannowitzbrücke beendet ###
-
- Letztes Update: 17:12 / 03.07.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Savignyplatz und der Reparatur an Zügen in Warschauer Straße und Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Streckensperrung zwischen Treptower Park und Neukölln, und Reparatur am Zug in Landsberger Allee beendet ###
