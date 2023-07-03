@@ -2,7 +2,7 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_4e559c
 
 []()
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| LIVE IN POWER](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Bis zu 920€ Rabatt | Gratis Geschenke | 30 Tage Bestpreisgarantie](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix/prime-week-angebote?ref=naviBar)
 
 Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Ladesets](https://www.anker.com/eu-de/baue-dir-dein-eigenes-anker-ladesystem?ref=naviMenu)
 

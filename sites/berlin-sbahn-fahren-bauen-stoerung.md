@@ -4,45 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Streckensperrung zwischen Treptower Park und Neukölln beendet ###
-
- Letztes Update: 15:17 / 03.07.2023
-
-Information
-
-Nach einer Streckensperrung zwischen Treptower Park und Neukölln kommt es auf der Linie S41 noch zu Verspätungen und einzelnen Ausfällen.
-
-* Die Linie S41 verkehrt nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Polizeieinsatz zwischen Anhalter Bahnhof und Großgörschenstraße beendet ###
-
- Letztes Update: 15:10 / 03.07.2023
-
-Information
-
-Nach einem Polizeieinsatz zwischen Anhalter Bahnhof und Großgörschenstraße kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Savignyplatz beendet ###
+### ärztliche Versorgung eines Fahrgastes in Savignyplatz und Reparatur an Zügen in Warschauer Straße und Jannowitzbrücke beendet ###
 
- Letztes Update: 14:24 / 03.07.2023
+ Letztes Update: 17:12 / 03.07.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Savignyplatz und der Reparatur an Zügen in Warschauer Straße und Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Streckensperrung zwischen Treptower Park und Neukölln, und Reparatur am Zug in Landsberger Allee beendet ###
+
+ Letztes Update: 16:56 / 03.07.2023
+
+Information
+
+Nach einer Streckensperrung zwischen Treptower Park und Neukölln und einer Reparatur am Zug in Landsberger Allee kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
