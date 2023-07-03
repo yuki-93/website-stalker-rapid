@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an Signalen in Südkreuz beendet ###
-
- Letztes Update: 05:29 / 03.07.2023
-
-Information
-
-Nach der Reparatur an Signalen in Südkreuz kommt es auf den Linie S46 zu Ausfällen.
-
-* Linie S46: verkehrt Königs Wusterhausen \<\> Tempelhof.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
