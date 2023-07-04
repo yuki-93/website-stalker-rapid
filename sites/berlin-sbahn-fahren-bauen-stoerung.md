@@ -6,16 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Gegenstände auf der Strecke in Sonnenallee ###
+### Gegenstände auf der Strecke in Sonnenallee beseitigt ###
 
- Letztes Update: 12:13 / 04.07.2023
+ Letztes Update: 12:45 / 04.07.2023
 
 Information
 
-Wegen Gegenständen auf der Strecke in Sonnenallee kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen. Die Linie S42 ist zwischen Treptower Park und Südkreuz unterbrochen.
-
-* Linie S41 verkehrt im 10-Minuten-Takt.
-* Line S42 verkehrt Treptower Park \> über Ostkreuz, Gesundbrunnen, Westkreuz \> Südkreuz. (im 10-Minuten-Takt).
+Nach Gegenständen auf der Strecke in Sonnenallee kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung
 
