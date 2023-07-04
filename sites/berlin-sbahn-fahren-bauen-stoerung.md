@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Flughafen BER Terminal 1-2 beendet ###
+
+ Letztes Update: 14:42 / 04.07.2023
+
+Information
+
+Nach einem Polizeieinsatz zwischen Flughafen BER Terminal 5 und Flughafen BER Terminal 1-2 kommt es auf den Linien S45 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Gegenstände auf der Strecke in Sonnenallee beseitigt ###
 
- Letztes Update: 12:45 / 04.07.2023
+ Letztes Update: 13:22 / 04.07.2023
 
 Information
 
-Nach Gegenständen auf der Strecke in Sonnenallee kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
+Nach Gegenständen auf der Strecke in Sonnenallee kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung
 
