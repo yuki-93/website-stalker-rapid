@@ -2,26 +2,6 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_4e559c
 
 []()
 
-🎉 Prime Week Super Sale Bis zu 920€ Rabatt
-
-[Hol dir deine Extrapower \>\>](https://www.anker.com/anker-solix/prime-week-angebote)
-
-08
-
-:
-
-Std.
-
-29
-
-:
-
-Min.
-
-53
-
-Sek.
-
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Prime Week Angebote: **Bis zu 920€ Rabatt+ Gratis Geschenke**](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix/prime-week-angebote?ref=naviBar)
 
 Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Ladesets](https://www.anker.com/eu-de/baue-dir-dein-eigenes-anker-ladesystem?ref=naviMenu)
