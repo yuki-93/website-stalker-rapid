@@ -392,7 +392,7 @@ Programme
 
 [Studenten- & Lehrerrabatte](https://connect.studentbeans.com/v4/hosted/anker/de?ref=footer)
 
-[Wo finde ich Anker](https://de.anker.com/pages/wheretobuy?ref=footer)
+[Wo finde ich Anker](https://www.anker.com/eu-de/wheretobuy?ref=footer)
 
 [Affiliate Partnerprogramm](https://de.anker.com/pages/jetzt-affiliate-partner-werden?ref=footer)
 
