@@ -2,6 +2,47 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Zug in Teltow Stadt ###
+
+ Letztes Update: 13:47 / 05.07.2023
+
+Information
+
+Wegen der Reparatur an einem Zug in Teltow Stadt verkehrt die Linie S26 nur zwischen Waidmannslust und Lichterfelde Süd.
+
+*Bitte nutzen Sie zwischen Lichterfelde Süd und Teltow Stadt die Linie S25.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### kurzfristige Bauarbeiten zwischen Frankfurter Allee und Ostkreuz ###
+
+ Letztes Update: 13:43 / 05.07.2023
+
+Information
+
+Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der Linien S41, S42 und S8 **in der heutigen Nacht (05./06.07.2023 (Mi/Do)) von ca. 22:00 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
+
+Zugverkehr:
+
+* S41: verkehrt auf dem gesamten Ring, dabei zwischen Gesundbrunnen und Ostkreuz nur im 20-Minuten-Takt
+* S42: verkehrt auf dem gesamten Ring, dabei zwischen Ostkreuz und Gesundbrunnen nur im 20-Minuten-Takt
+* S8: verkehrt Grünau \<\> Treptower Park sowie Greifswalder Straße \<\> Blankenburg/ Birkenwerder
+  *Bitte nutzen Sie zwischen Treptower Park und Greifswalder Straße die Züge der Linien S41/S42.*
+
+**Bitte beachten Sie**, dass diese Bauarbeiten aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
