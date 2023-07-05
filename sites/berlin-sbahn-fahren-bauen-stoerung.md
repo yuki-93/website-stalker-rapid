@@ -4,17 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Bauarbeiten zwischen Altglienicke und Flughafen BER Terminal 5 ###
+
+ Letztes Update: 16:47 / 05.07.2023
+
+Information
+
+Wegen Bauarbeiten wird der Zugverkehr der Linien S45 und S9 heute Abend (05./06.07.2023 (Mi/Do)) in der Zeit von ca. 22:00 Uhr bis ca. 02:00 Uhr verändert durchgeführt.
+
+**Zugverkehr**
+
+* S45: verkehrt zwischen Südkreuz und Grünau
+* S9: verkehrt Spandau \<\> Westkreuz *sowie* Ostbahnhof \<\> Flughafen BER Terminal 1-2, dabei muss in beiden Fahrtrichtungen jeweils in Altglienicke und Flughafen BER Terminal 5 umgestiegen (Wechsel der Bahnsteigseite) werden.
+   Die Weiterfahrt in Altglienicke und Flughafen BER Terminal 5 erfolgt jeweils nach wenigen Minuten.
+
+Diese Bauarbeiten sind in der Fahrplanauskunft bereits berücksichtigt.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### kurzfristige Bauarbeiten zwischen Frankfurter Allee und Ostkreuz ###
 
- Letztes Update: 13:43 / 05.07.2023
+ Letztes Update: 16:42 / 05.07.2023
 
 Information
 
 Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der Linien S41, S42 und S8 **in der heutigen Nacht (05./06.07.2023 (Mi/Do)) von ca. 22:00 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
 
-Zugverkehr:
+**Zugverkehr:**
 
 * S41: verkehrt auf dem gesamten Ring, dabei zwischen Gesundbrunnen und Ostkreuz nur im 20-Minuten-Takt
 * S42: verkehrt auf dem gesamten Ring, dabei zwischen Ostkreuz und Gesundbrunnen nur im 20-Minuten-Takt
