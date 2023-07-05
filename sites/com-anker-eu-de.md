@@ -30,10 +30,12 @@ Von 3. bis 10. Juli
 Das Anker-Erlebnis entdecken
 ----------
 
-* ### Prime Week Angebote
-   Bis zu 920€ Rabatt ###
+* ### Bis zu 920€ Rabatt+
+   Gratis Geschenke ###
 
-  [Jetzt kaufenPrime Week Angebote Bis zu 920€ Rabatt](https://www.anker.com/eu-de/anker-solix/prime-week-angebote?ref=productBanner2_1)
+  Prime Week Angebote
+
+  [Jetzt kaufenBis zu 920€ Rabatt+ Gratis Geschenke](https://www.anker.com/eu-de/anker-solix/prime-week-angebote?ref=productBanner2_1)
 
 * ### AnkerCredits Belohnungsprogramm ###
 

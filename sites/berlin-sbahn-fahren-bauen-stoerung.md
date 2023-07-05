@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Zug in Landsberger Allee beendet ###
+
+ Letztes Update: 09:07 / 05.07.2023
+
+Information
+
+Nach einer Reparatur an einem Zug in Landsberger Allee kommt es auf den Linien S41, S8 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -1060,3 +1076,57 @@ Information
 * Der Zug Flughafen BER – Terminal 1-2 ab 1:08 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:52 Uhr in Alexanderplatz
 * Der Zug fällt zwischen Alexanderplatz und Friedrichstraße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Alexanderplatz ###
+
+21.07. (Fr) 3:02 Uhr bis 3:20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27151&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20261&tx_sbbconstructions_list%5Bperiod%5D=17094&type=5679&cHash=9cfb94aa1355d3074c857fc7da3948a0)
+
+ fährt nicht
+
+Information
+
+* Der Zug Charlottenburg an 3:02 Uhr nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) beginnt erst um 3:20 Uhr in Alexanderplatz.
+* Der Zug fällt von Charlottenburg bis Alexanderplatz aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Alexanderplatz ###
+
+21.07. (Fr) 3:12 Uhr bis 3:32 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27556&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20677&tx_sbbconstructions_list%5Bperiod%5D=17095&type=5679&cHash=f14e3fbecab9a0167456392473297a0c)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:32 Uhr in Alexanderplatz.
+* Der Zug fällt von Westkreuz bis Alexanderplatz aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Alexanderplatz ###
+
+21.07. (Fr) 3:32 Uhr bis 3:52 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27557&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20678&tx_sbbconstructions_list%5Bperiod%5D=17096&type=5679&cHash=166fceb2b42f14af35ac87680b4dd4df)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:52 Uhr in Alexanderplatz.
+* Der Zug fällt von Westkreuz bis Alexanderplatz aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
