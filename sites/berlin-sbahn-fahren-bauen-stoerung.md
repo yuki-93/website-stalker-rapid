@@ -8,17 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Schönhauser Allee beendet ###
 
- Letztes Update: 19:41 / 06.07.2023
+ Letztes Update: 21:11 / 06.07.2023
 
 Information
 
 Nach einem Notarzteinsatz auf der Strecke in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
 
-Die Linen **S41** und **S42** verkehren nur im 10-Minuten-Takt
+Die Linien **S41** und **S42** verkehren nur im 10-Minuten-Takt
 
-Die **Linie S85** verkehrt nicht.
+Die Linie **S85** verkehrt nicht.
 
-Wir bitten um ihr Verständnis.
+Wir bitten um Verständnis.
 
  Zugverkehr verändert
 
