@@ -8,13 +8,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Flughafen BER Terminal 5 \<\> Flughafen BER Terminal 1 + 2 ###
 
- Letztes Update: 12:16 / 06.07.2023
+ Letztes Update: 13:35 / 06.07.2023
 
 Information
 
-Wegen einer Streckensperrung sind die Linien S45 und S9 zwischen Flughafen BER Terminal 5 \<\> Flughafen BER Terminal 1 + 2 unterbrochen.
+Wegen einer Streckensperrung ist der Zugverkehr der Linien S45 und S9 zwischen Flughafen BER Terminal 5 und Flughafen BER Terminal 1-2 unterbrochen.
 
-Bitte nutzen Sie zur Umfahrung die Buslinien X7 und X71.
+Ein Ersatzverkehr mit Bussen zwischen Flughafen BER Terminal 5 \<\> Waßmannsdorf **sowie** Flughafen BER Terminal 5 \<\> Flughafen BER Terminal 1-2 ist eingerichtet.
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S-Bhf. Flughafen BER Terminal 5: örtliche Bushaltestelle (wie Bus X7, X71, 163, 164, 171, 741, 742, 744)
+* S-Bhf. Waßmannsdorf: Kieckebuschstraße, örtliche Bushaltestelle (wie Bus 600, 720, 742)
+* S-Bhf. Flughafen BER Terminal 1-2: örtliche Bushaltestelle (wie Bus X7, X71, 263, 734, 735, 736, 743)
 
 Wir bitten um Entschuldigung.
 
@@ -22,17 +28,13 @@ Wir bitten um Entschuldigung.
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an Signalen im Bereich Schöneweide \<\> Adlershof ###
+### Reparatur an Signalen im Bereich Schöneweide \<\> Adlershof beendet ###
 
- Letztes Update: 12:12 / 06.07.2023
+ Letztes Update: 13:34 / 06.07.2023
 
 Information
 
-Wegen der Reparatur an Signalen im Bereich Schöneweide \<\> Adlershof kommt es auf den Linien S45, S46, S47, S8 und S9 zu Verspätungen und Ausfällen.
-
-Die Linie S85 verkehrt derzeit zwischen Pankow \<\> Schöneweide.
-
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+Nach der Reparatur an Signalen im Bereich Schöneweide \<\> Adlershof kommt es auf den Linien S45, S46, S47, S8 und S85 noch zu einzelnen Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
@@ -287,7 +289,7 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-mahlsdor/#con-27351)
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
 ### Blankenburg \<\> Karow/Birkenwerder ###
 
@@ -302,7 +304,7 @@ Information
 * kein Zugverkehr zwischen Blankenburg und Birkenwerder
 * Ersatzverkehr mit Bussen:
   * Bus S2: Pankow-Heinersdorf \<\> Karow
-  * Bus S8: Pankow-Heinersdorf \<\> Birkenwerder
+     Bitte steigen Sie zwischen der S-Bahn und den Ersatzverkehr mit Bussen in beiden Richtungen in Pankow-Heinersdorf um, da der S-Bahnhof Blankenburg nicht angefahren wird.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -310,7 +312,7 @@ Information
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Frohnau/Blankenburg – Birkenwerder – Oranienburg ###
+### Frohnau/Blankenburg \<\> Birkenwerder/Oranienburg ###
 
 12.07. (Mi), ca. 22 Uhr durchgehend bis 14.08. (Mo), ca. 1.30 Uhr
 
@@ -320,7 +322,16 @@ Information
 
 Information
 
-* Ersatzverkehr mit Bussen
+* Ersatzverkehr mit Bussen:
+  * Bus S1X: Oranienburg \<\> Birkenwerder
+     Dieser Bus hält nicht an den S-Bahnhöfen Hohen Neuendorf, Birkenwerder und Borgsdorf.
+  * Bus S1A: Oranienburg \<\> Birkenwerder
+    * In den Nächten 06./07.08. (So/Mo) bis 09./10.08. (Mi/Do) wird der Bus S1A zwischen Waidmannslust \<\> Frohnau \<\> Birkenwerder \<\> Oranienburg verlängert.
+
+  * Bus S8: Pankow-Heinersdorf \<\> Birkenwerder
+     Dieser Bus hält nicht direkt am S-Bahnhof Blankenburg.
+
+* Taktänderung: bis 01.08. (Di), ca. 1.30 Uhr Waidmanslust \<\> Frohnau S-Bahnverkehr nur im 20-Minutentakt
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -386,36 +397,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-8/#con-27352)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Blankenburg \<\> Birkenwerder ###
-
-14.07. (Fr), ca. 4.00 Uhr durchgehend bis 14.08. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16958&type=5679&cHash=bb8971ee14e8eb09d8200d5bdbaf9fec)
-
-Nächte 06./07.09. (Mi/Do) und 07./08.09. (Do/Fr), jeweils ca. 22 Uhr – ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16965&type=5679&cHash=4657592837ba0aa4fc7cf94707bfe438)
-
-09.09. (Sa), ca. 5 Uhr durchgehend bis 10.09. (So), ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16966&type=5679&cHash=8bc0b369acbeaecee7b2021d3069b3da)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&type=5679&cHash=f5fe4a9dd96b76653cc7986f0c12effe)
-
- Ersatzverkehr
-
-Information
-
-* kein Zugverkehr zwischen Blankenburg und Birkenwerder
-* Ersatzverkehr mit Bussen:
-  * Bus S8: Pankow-Heinersdorf \<\> Birkenwerder
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27233)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
 
@@ -910,36 +891,6 @@ Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sin
 
 ### Baumaßnahmen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Blankenburg \<\> Birkenwerder ###
-
-14.07. (Fr), ca. 4.00 Uhr durchgehend bis 14.08. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16958&type=5679&cHash=bb8971ee14e8eb09d8200d5bdbaf9fec)
-
-Nächte 06./07.09. (Mi/Do) und 07./08.09. (Do/Fr), jeweils ca. 22 Uhr – ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16965&type=5679&cHash=4657592837ba0aa4fc7cf94707bfe438)
-
-09.09. (Sa), ca. 5 Uhr durchgehend bis 10.09. (So), ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16966&type=5679&cHash=8bc0b369acbeaecee7b2021d3069b3da)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&type=5679&cHash=f5fe4a9dd96b76653cc7986f0c12effe)
-
- Ersatzverkehr
-
-Information
-
-* kein Zugverkehr zwischen Blankenburg und Birkenwerder
-* Ersatzverkehr mit Bussen:
-  * Bus S8: Pankow-Heinersdorf \<\> Birkenwerder
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27233)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 Nur Wochenende
@@ -1153,6 +1104,32 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27236)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Blankenburg \<\> Birkenwerder ###
+
+Nächte 06./07.09. (Mi/Do) und 07./08.09. (Do/Fr), jeweils ca. 22 Uhr – ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16965&type=5679&cHash=4657592837ba0aa4fc7cf94707bfe438)
+
+09.09. (Sa), ca. 5 Uhr durchgehend bis 10.09. (So), ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16966&type=5679&cHash=8bc0b369acbeaecee7b2021d3069b3da)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27233&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&type=5679&cHash=f5fe4a9dd96b76653cc7986f0c12effe)
+
+ Ersatzverkehr
+
+Information
+
+* kein Zugverkehr zwischen Blankenburg und Birkenwerder
+* Ersatzverkehr mit Bussen:
+  * Bus S8: Pankow-Heinersdorf \<\> Birkenwerder
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27233)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
