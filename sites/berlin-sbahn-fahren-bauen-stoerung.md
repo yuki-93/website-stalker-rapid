@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Flughafen BER Terminal 5 \<\> Flughafen BER Terminal 1 + 2 ###
 
- Letztes Update: 13:35 / 06.07.2023
+ Letztes Update: 16:06 / 06.07.2023
 
 Information
 
@@ -18,8 +18,8 @@ Ein Ersatzverkehr mit Bussen zwischen Flughafen BER Terminal 5 \<\> Waßmannsdor
 
 **Haltestellen des Ersatzverkehrs:**
 
-* S-Bhf. Flughafen BER Terminal 5: örtliche Bushaltestelle (wie Bus X7, X71, 163, 164, 171, 741, 742, 744)
-* S-Bhf. Waßmannsdorf: Kieckebuschstraße, örtliche Bushaltestelle (wie Bus 600, 720, 742)
+* S-Bhf. Flughafen BER Terminal 5: örtliche Bushaltestelle (wie Bus X7, X71, 163, 164, 171, 741, 742, 743, 744)
+* S-Bhf. Waßmannsdorf: Kieckebuschstraße, örtliche Bushaltestelle (wie Bus 600, 720, 742, 743)
 * S-Bhf. Flughafen BER Terminal 1-2: örtliche Bushaltestelle (wie Bus X7, X71, 263, 734, 735, 736, 743)
 
 Wir bitten um Entschuldigung.
