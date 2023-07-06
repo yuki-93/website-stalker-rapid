@@ -6,33 +6,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Notarzteinsatz auf der Strecke in Schönhauser Allee ###
+### Notarzteinsatz auf der Strecke in Schönhauser Allee beendet ###
 
- Letztes Update: 19:20 / 06.07.2023
+ Letztes Update: 19:41 / 06.07.2023
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Schönhauser Allee ist der Zugverkehr der **Linien S8 und S85** zwischen Bornholmer Straße und Schönhauser Allee unterbrochen.
+Nach einem Notarzteinsatz auf der Strecke in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+
+Die Linen **S41** und **S42** verkehren nur im 10-Minuten-Takt
 
 Die **Linie S85** verkehrt nicht.
 
 Wir bitten um ihr Verständnis.
 
- fährt nicht
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsatz zwischen Hoppegarten und Fredersdorf ###
-
- Letztes Update: 18:59 / 06.07.2023
-
-Information
-
-Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) ist der Zugverkehr der Linie S5 zwischen Hoppegarten und Fredersdorf unterbrochen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
