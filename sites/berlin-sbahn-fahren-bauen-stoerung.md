@@ -8,31 +8,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Schönhauser Allee ###
 
- Letztes Update: 18:27 / 06.07.2023
+ Letztes Update: 19:20 / 06.07.2023
 
 Information
 
-Wegen einem Notarzteinsatz auf der Strecke in Schönhauser Allee ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Gesundbrunnen/Bornholmer Straße und Greifswalder Straße unterbrochen.
+Wegen eines Notarzteinsatzes auf der Strecke in Schönhauser Allee ist der Zugverkehr der **Linien S8 und S85** zwischen Bornholmer Straße und Schönhauser Allee unterbrochen.
 
-Nahbereich:
+Die **Linie S85** verkehrt nicht.
 
-Fahrtrichtung von Gesundbrunnen nach Schönhauser Allee:
+Wir bitten um ihr Verständnis.
 
-U8 (-\> Herrmannstraße) bis Alexanderplatz – weiter mit U2 (-\> Pankow) bis S+U Schönhauser Allee
+ fährt nicht
 
-Fahrtrichtung von Schönhauser Allee nach Gesundbrunnen:
+[S5](https://sbahn.berlin/fahren/s5/)
 
-U2 (-\> Ruhleben) bis Alexanderplatz – weiter mit U8 (-\> Wittenau) nach Gesundbrunnen
+### Polizeieinsatz zwischen Hoppegarten und Fredersdorf ###
 
-Weiträumig:
+ Letztes Update: 18:59 / 06.07.2023
 
-\- S1, S2, S25, S26 - Gesundbrunnen -\> Friedrichstraße – weiter mit S3, S5, S7, bis Ostkreuz
+Information
 
-\- S3, S5, S7, - Ostkreuz -\> Friedrichstraße – weiter mit S1, S2, S25, S26 bis Gesundbrunnen
-
-\- U2 - Pankow \<\> Schönhauser Allee \<\> Alexanderplatz
-
-\- U2 - Schönhauser Allee -\> Alexanderplatz – weiter mit U5 bis Frankfurter Allee
+Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) ist der Zugverkehr der Linie S5 zwischen Hoppegarten und Fredersdorf unterbrochen.
 
 Wir bitten um Entschuldigung.
 
