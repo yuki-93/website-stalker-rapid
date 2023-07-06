@@ -961,6 +961,30 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenbalkenwechsel-kabelarbeiten-vegetationsarbeiten/#con-27398)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Nordbahnhof \<\> Gesundbrunnen ###
+
+Nächte 28./29.07. (Fr/Sa) bis 06./07.08. (So/Mo), jeweils 22.30 Uhr - 23.50 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27566&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=17097&type=5679&cHash=89fbd37ffc1acf75fd40cea92a81e575)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Der Zug Sonntag bis Donnerstag Gesundbrunnen ab 22.37 Uhr nach Wannsee (an 23.21 Uhr) fährt von Gesundbrunnen bis Nordbahnhof 5 Minuten früher
+     (Gesundbrunnen ab 22.32 Uhr).
+  * Der Zug Freitag und Samstag Gesundbrunnen ab 23.42 Uhr nach Potsdamer Platz (an 23.54 Uhr) fährt von Gesundbrunnen bis Nordbahnhof 10 Minuten früher
+     (Gesundbrunnen ab 23.32 Uhr).
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27566)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
