@@ -4,33 +4,39 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur am Signal in Schöneweide ###
+### Streckensperrung zwischen Flughafen BER Terminal 5 \<\> Flughafen BER Terminal 1 + 2 ###
 
- Letztes Update: 11:18 / 06.07.2023
+ Letztes Update: 12:16 / 06.07.2023
 
 Information
 
-Wegen der Reparatur am Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Wegen einer Streckensperrung sind die Linien S45 und S9 zwischen Flughafen BER Terminal 5 \<\> Flughafen BER Terminal 1 + 2 unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung die Buslinien X7 und X71.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an Signalen im Bereich Schöneweide \<\> Adlershof ###
+
+ Letztes Update: 12:12 / 06.07.2023
+
+Information
+
+Wegen der Reparatur an Signalen im Bereich Schöneweide \<\> Adlershof kommt es auf den Linien S45, S46, S47, S8 und S9 zu Verspätungen und Ausfällen.
+
+Die Linie S85 verkehrt derzeit zwischen Pankow \<\> Schöneweide.
+
+Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Ärztliche Versorgung eines Fahrgastes in Neukölln beendet ###
-
- Letztes Update: 10:53 / 06.07.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Neukölln kommt es auf den Linien S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
