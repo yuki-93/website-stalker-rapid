@@ -4,27 +4,39 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Streckensperrung zwischen Flughafen BER Terminal 5 \<\> Flughafen BER Terminal 1 + 2 ###
+### Notarzteinsatz auf der Strecke in Schönhauser Allee ###
 
- Letztes Update: 16:06 / 06.07.2023
+ Letztes Update: 18:27 / 06.07.2023
 
 Information
 
-Wegen einer Streckensperrung ist der Zugverkehr der Linien S45 und S9 zwischen Flughafen BER Terminal 5 und Flughafen BER Terminal 1-2 unterbrochen.
+Wegen einem Notarzteinsatz auf der Strecke in Schönhauser Allee ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Gesundbrunnen/Bornholmer Straße und Greifswalder Straße unterbrochen.
 
-Ein Ersatzverkehr mit Bussen zwischen Flughafen BER Terminal 5 \<\> Waßmannsdorf **sowie** Flughafen BER Terminal 5 \<\> Flughafen BER Terminal 1-2 ist eingerichtet.
+Nahbereich:
 
-**Haltestellen des Ersatzverkehrs:**
+Fahrtrichtung von Gesundbrunnen nach Schönhauser Allee:
 
-* S-Bhf. Flughafen BER Terminal 5: örtliche Bushaltestelle (wie Bus X7, X71, 163, 164, 171, 741, 742, 743, 744)
-* S-Bhf. Waßmannsdorf: Kieckebuschstraße, örtliche Bushaltestelle (wie Bus 600, 720, 742, 743)
-* S-Bhf. Flughafen BER Terminal 1-2: örtliche Bushaltestelle (wie Bus X7, X71, 263, 734, 735, 736, 743)
+U8 (-\> Herrmannstraße) bis Alexanderplatz – weiter mit U2 (-\> Pankow) bis S+U Schönhauser Allee
+
+Fahrtrichtung von Schönhauser Allee nach Gesundbrunnen:
+
+U2 (-\> Ruhleben) bis Alexanderplatz – weiter mit U8 (-\> Wittenau) nach Gesundbrunnen
+
+Weiträumig:
+
+\- S1, S2, S25, S26 - Gesundbrunnen -\> Friedrichstraße – weiter mit S3, S5, S7, bis Ostkreuz
+
+\- S3, S5, S7, - Ostkreuz -\> Friedrichstraße – weiter mit S1, S2, S25, S26 bis Gesundbrunnen
+
+\- U2 - Pankow \<\> Schönhauser Allee \<\> Alexanderplatz
+
+\- U2 - Schönhauser Allee -\> Alexanderplatz – weiter mit U5 bis Frankfurter Allee
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Takt geändert
 
 ### Baumaßnahmen ###
 
