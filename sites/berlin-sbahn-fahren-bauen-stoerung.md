@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz (unbefugte Personen auf der Strecke) zwischen Westhafen und Gesundbrunnen beendet ###
+### ärztliche Versorgung eines Fahrgastes in Alt-Reinickendorf beendet ###
 
- Letztes Update: 13:47 / 07.07.2023
+ Letztes Update: 15:56 / 07.07.2023
 
 Information
 
-Nach einem Polizeieinsatz (unbefugten Personen auf der Strecke) zwischen Westhafen und Gesundbrunnen kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
+Nach einer ärztlichen Versorgung eines Fahrgastes in Alt-Reinickendorf im Zug kommt es auf der Linie S25 noch zu einzelnen Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Takt geändert
 
 ### Baumaßnahmen ###
 
