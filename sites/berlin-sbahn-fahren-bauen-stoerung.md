@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### technischer Defekt an einem Bahnübergang in Zeuthen ###
+### Reparatur an einem Signal in Tiergarten ###
 
- Letztes Update: 16:40 / 07.07.2023
+ Letztes Update: 18:03 / 07.07.2023
 
 Information
 
-Wegen einem technischen Defekt an einem Bahnübergang in Zeuthen kommt es auf den Linien S46 und S8 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
