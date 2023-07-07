@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz (unbefugte Personen auf der Strecke) zwischen Westhafen und Gesundbrunnen beendet ###
 
- Letztes Update: 13:03 / 07.07.2023
+ Letztes Update: 13:47 / 07.07.2023
 
 Information
 
 Nach einem Polizeieinsatz (unbefugten Personen auf der Strecke) zwischen Westhafen und Gesundbrunnen kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
-
-Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt
 
 Wir bitten um Verständnis.
 
