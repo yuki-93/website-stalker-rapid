@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### unbefugte Personen auf der Strecke im Bereich Grünau ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Grünau beendet ###
 
- Letztes Update: 04:28 / 07.07.2023
+ Letztes Update: 05:40 / 07.07.2023
 
 Information
 
-Wegen unbefugter Personen auf der Strecke im Bereich Grünau ist der Zugverkehr der Linien S46 und S8 zwischen Grünau und Zeuthen unterbrochen.
+Nach einem Polizeieinsatz (unbefugter Personen auf der Strecke) im Bereich Grünau kommt es auf den Linien S46 und S8 zu Verspätungen und Ausfällen,
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
