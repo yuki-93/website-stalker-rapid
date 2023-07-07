@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Grünau beendet ###
-
- Letztes Update: 05:40 / 07.07.2023
-
-Information
-
-Nach einem Polizeieinsatz (unbefugter Personen auf der Strecke) im Bereich Grünau kommt es auf den Linien S46 und S8 zu Verspätungen und Ausfällen,
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
