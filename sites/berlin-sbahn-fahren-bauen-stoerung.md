@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### unbefugte Personen auf der Strecke im Bereich Grünau ###
+
+ Letztes Update: 04:28 / 07.07.2023
+
+Information
+
+Wegen unbefugter Personen auf der Strecke im Bereich Grünau ist der Zugverkehr der Linien S46 und S8 zwischen Grünau und Zeuthen unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
