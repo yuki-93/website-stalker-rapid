@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### unbefugte Personen auf der Strecke zwischen Westhafen und Gesundbrunnen ###
+
+ Letztes Update: 12:25 / 07.07.2023
+
+Information
+
+Nach einem Polizeieinsatz (unbefugten Personen auf der Strecke) zwischen Westhafen und Gesundbrunnen kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
