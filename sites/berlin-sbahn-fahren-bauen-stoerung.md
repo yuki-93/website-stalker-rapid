@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Feuerwehreinsatz auf der Strecke (Böschungsbrand) Bundesplatz beendet ###
+
+ Letztes Update: 09:48 / 07.07.2023
+
+Information
+
+Nach einem Feuerwehreinsatz auf der Strecke (Böschungsbrand) zwischen Bundesplatz und Heidelberger Platz kommt es auf der Linie S41 und S42 zu Verspätungen und Ausfällen.
+
+* Linie S41 und S42 verkehren im 10-Minuten-Takt.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
