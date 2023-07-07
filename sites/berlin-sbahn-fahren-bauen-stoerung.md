@@ -6,13 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### unbefugte Personen auf der Strecke zwischen Westhafen und Gesundbrunnen ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke) zwischen Westhafen und Gesundbrunnen beendet ###
 
- Letztes Update: 12:25 / 07.07.2023
+ Letztes Update: 13:03 / 07.07.2023
 
 Information
 
-Nach einem Polizeieinsatz (unbefugten Personen auf der Strecke) zwischen Westhafen und Gesundbrunnen kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen
+Nach einem Polizeieinsatz (unbefugten Personen auf der Strecke) zwischen Westhafen und Gesundbrunnen kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
+
+Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt
 
 Wir bitten um Verständnis.
 
