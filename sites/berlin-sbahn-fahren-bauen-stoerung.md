@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### ärztliche Versorgung eines Fahrgastes in Alt-Reinickendorf beendet ###
+### technischer Defekt an einem Bahnübergang in Zeuthen ###
 
- Letztes Update: 15:56 / 07.07.2023
+ Letztes Update: 16:40 / 07.07.2023
 
 Information
 
-Nach einer ärztlichen Versorgung eines Fahrgastes in Alt-Reinickendorf im Zug kommt es auf der Linie S25 noch zu einzelnen Verspätungen und Ausfällen.
+Wegen einem technischen Defekt an einem Bahnübergang in Zeuthen kommt es auf den Linien S46 und S8 zu Verspätungen und Ausfällen.
 
-Wir bitten um Verständnis.
+Wir bitten um Entschuldigung.
 
  Takt geändert
 
