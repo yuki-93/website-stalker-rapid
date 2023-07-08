@@ -4,37 +4,42 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz im Bereich Rummelsburg ###
+### Polizeieinsatz im Bereich Potsdamer Platz ###
 
- Letztes Update: 18:23 / 08.07.2023
+ Letztes Update: 19:11 / 08.07.2023
 
 Information
 
-Wegen eines Polizeieinsatzes im Bereich Rummelsburg ist der Zugverkehr der Linie S3 zwischen Rummelsburg und Ostkreuz unterbrochen.
+Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Anhalter Bahnhof und Potsdamer Platz unterbrochen.
 
-**Die Linie S3 fährt**: Erkner \<\> Rummelsburg *sowie* Ostbahnhof \<\> Spandau, *der 10-Minuten-Takt zwischen Erkner und Ostbahnhof verkehrt nicht*.
+**Die betroffenen Linien fahren wie folgt:**
 
-**Beachten Sie bitte**: die Züge des Fern- und Regionalverkehrs sind ebenfalls betroffen.
+* **S1**: Wannsee \<\> Anhalter Bahnhof ***sowie*** Potsdamer Platz \<\> Oranienburg, *der 10-Minuten-Takt verkehrt zwischen Wannsee \<\> Anhalter Bahnhof sowie Potsdamer Platz \<\> Frohnau*
+* **S2**: Blankenfelde \<\> Anhalter Bahnhof ***sowie*** Nordbahnhof \<\> Bernau*, der 10-Minuten-Takt verkehrt zwischen Lichtenrade \<\> Yorckstraße sowie Nordbahnhof \<\> Buch*
+* **S25**: Teltow Stadt \<\> Südkreuz ***sowie*** Potsdamer Platz \<\> Hennigsdorf
+* **S26**: Teltow Stadt \<\> Südkreuz
+
+Zur weiträumigen Umfahrung nutzen Sie bitte die Züge des Regionalverkehrs sowie die Verkehrsmittel der BVG.
 
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur am Zug im Bereich Blankenburg behoben ###
+### Polizeieinsatz im Bereich Rummelsburg beendet ###
 
- Letztes Update: 18:20 / 08.07.2023
+ Letztes Update: 18:59 / 08.07.2023
 
 Information
 
-Nach der Reparatur am Zug im Bereich Blankenburg kommt es auf den Linien S2 und S8 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz im Bereich Rummelsburg kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
