@@ -4,6 +4,52 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz im Bereich Rummelsburg ###
+
+ Letztes Update: 18:23 / 08.07.2023
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Rummelsburg ist der Zugverkehr der Linie S3 zwischen Rummelsburg und Ostkreuz unterbrochen.
+
+**Die Linie S3 fährt**: Erkner \<\> Rummelsburg *sowie* Ostbahnhof \<\> Spandau, *der 10-Minuten-Takt zwischen Erkner und Ostbahnhof verkehrt nicht*.
+
+**Beachten Sie bitte**: die Züge des Fern- und Regionalverkehrs sind ebenfalls betroffen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur am Zug im Bereich Blankenburg behoben ###
+
+ Letztes Update: 18:20 / 08.07.2023
+
+Information
+
+Nach der Reparatur am Zug im Bereich Blankenburg kommt es auf den Linien S2 und S8 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einem Signal in Alt-Reinickendorf ###
+
+ Letztes Update: 17:52 / 08.07.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Alt-Reinickendorf kommt es auf der Linie S25 zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### erhöhtes Fahrgastaufkommen Großveranstaltung ###
