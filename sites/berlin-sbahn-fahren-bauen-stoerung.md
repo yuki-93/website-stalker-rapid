@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### erhöhtes Fahrgastaufkommen Großveranstaltung ###
+
+ Letztes Update: 16:18 / 08.07.2023
+
+Information
+
+Wegen einer Großveranstaltung und dem daraus resultierenden erhöhten Fahrgastaufkommen kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### kein Verkehrshalt Brandenburger Tor ###
