@@ -6,36 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz im Bereich Potsdamer Platz ###
+### Polizeieinsatz im Bereich Potsdamer Platz beendet ###
 
- Letztes Update: 19:11 / 08.07.2023
-
-Information
-
-Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Anhalter Bahnhof und Potsdamer Platz unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S1**: Wannsee \<\> Anhalter Bahnhof ***sowie*** Potsdamer Platz \<\> Oranienburg, *der 10-Minuten-Takt verkehrt zwischen Wannsee \<\> Anhalter Bahnhof sowie Potsdamer Platz \<\> Frohnau*
-* **S2**: Blankenfelde \<\> Anhalter Bahnhof ***sowie*** Nordbahnhof \<\> Bernau*, der 10-Minuten-Takt verkehrt zwischen Lichtenrade \<\> Yorckstraße sowie Nordbahnhof \<\> Buch*
-* **S25**: Teltow Stadt \<\> Südkreuz ***sowie*** Potsdamer Platz \<\> Hennigsdorf
-* **S26**: Teltow Stadt \<\> Südkreuz
-
-Zur weiträumigen Umfahrung nutzen Sie bitte die Züge des Regionalverkehrs sowie die Verkehrsmittel der BVG.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Polizeieinsatz im Bereich Rummelsburg beendet ###
-
- Letztes Update: 18:59 / 08.07.2023
+ Letztes Update: 19:34 / 08.07.2023
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Rummelsburg kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) zwischen Anhalter Bahnhof und Potsdamer Platz kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
