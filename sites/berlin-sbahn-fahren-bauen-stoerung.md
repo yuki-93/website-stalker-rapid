@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### kurzfristiger Personalausfall S85 ###
+
+ Letztes Update: 07:25 / 09.07.2023
+
+Information
+
+Wegen einem kurzfristigen Personalausfall verkehrt die Linie S85 nicht.
+*Bitte nutzen Sie zwischen Schöneweide und Pankow die Linie S8.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
