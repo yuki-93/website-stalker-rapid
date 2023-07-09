@@ -6,23 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Streckensperrung Hohen Neuendorf / Schönfließ \<\> Oranienburg ###
+### Streckensperrung Hohen Neuendorf / Schönfließ \<\> Oranienburg aufgehoben ###
 
- Letztes Update: 19:37 / 09.07.2023
+ Letztes Update: 20:52 / 09.07.2023
 
 Information
 
-Wegen einer Streckensperrung zwischen Hohen Neuendorf / Schönfließ \<\> Oranienburg sind die Linien S1 und S8 unterbrochen.
-
-Die Linie S1 verkehrt zwischen Wannsee \<\> Hohen Neuendorf.
-
-Die Linie S8 verkehrt zwischen Grünau \<\> Schönfließ.
-
-Die Linien der Regionalbahnen und des Fernverkehr sind ebenfalls in diesem Bereich unterbrochen.
+Nach einer Streckensperrung zwischen Hohen Neuendorf / Schönfließ \<\> Oranienburg kommt es auf den Linien S1 und S8 noch zu Verspätungen..
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
