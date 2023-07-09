@@ -4,18 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### kurzfristiger Personalausfall S85 ###
+### Feuerwehreinsatz auf der Strecke (Böschungsbrand) Bornholmer Straße beendet ###
 
- Letztes Update: 07:25 / 09.07.2023
+ Letztes Update: 13:43 / 09.07.2023
 
 Information
 
-Wegen einem kurzfristigen Personalausfall verkehrt die Linie S85 nicht.
-*Bitte nutzen Sie zwischen Schöneweide und Pankow die Linie S8.*
+Nach einem Feuerwehreinsatz auf der Strecke (Böschungsbrand) in Bornholmer Straße kann es auf den Linien S1, S2 und S25 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
