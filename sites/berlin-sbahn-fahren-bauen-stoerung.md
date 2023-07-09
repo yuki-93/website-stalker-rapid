@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Streckensperrung Hohen Neuendorf / Schönfließ \<\> Oranienburg aufgehoben ###
-
- Letztes Update: 20:52 / 09.07.2023
-
-Information
-
-Nach einer Streckensperrung zwischen Hohen Neuendorf / Schönfließ \<\> Oranienburg kommt es auf den Linien S1 und S8 noch zu Verspätungen..
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
