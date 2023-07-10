@@ -317,7 +317,7 @@ Information
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
-### Blankenburg \<\> Karow/Birkenwerder ###
+### Blankenburg \<\> Karow ###
 
 12.07. (Mi), ca. 22 Uhr durchgehend bis 14.07. (Fr), ca. 1.30 Uhr
 
