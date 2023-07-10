@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz Sonnenallee ###
+
+ Letztes Update: 17:19 / 10.07.2023
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Sonnenallee (unbefugte Personen auf der Strecke) ist der Zugverkehr der Linien S41 und S42 zwischen Neukölln und Treptower Park unterbrochen.
+*Bitte nutzen Sie zur Umfahrung zwischen Treptower Park und Baumschulenweg die Linien S8, S85 und S9 sowie zwischen Baumschulenweg und Neukölln die Linien S45, S46 und S47.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
