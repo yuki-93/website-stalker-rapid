@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz zwischen Schönhauser Allee und Greifswalder Straße (unbefugte Personen auf der Strecke) beendet ###
+
+ Letztes Update: 09:06 / 10.07.2023
+
+Information
+
+Nach einem Polizeieinsatz zwischen Schönhauser Allee und Greifswalder Straße (unbefugte Personen auf der Strecke) und einem Polizeieinsatz in Landsberger Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -916,6 +932,26 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Erkner \<\> Friedrichshagen ###
+
+vom 28.07. (Fr), ca. 4 Uhr durchgehend bis 28.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27591&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20712&tx_sbbconstructions_list%5Bperiod%5D=17100&type=5679&cHash=7a3dc6306e7b42349c168ca5bc2be9d5)
+
+ Zugverkehr verändert
+
+Information
+
+* Linienführung:
+  * S3 fährt
+     Erkner \<\> Spandau;
+     10-Minutentakt: Erkner \<\> Ostbahnhof
+     Der 10-Minutentakt im Abschnitt Erkner \<\> Friedrichshagen wird auch Montag bis Freitag außerhalb der Hauptverkehrszeiten sowie Samstag und Sonntag im Früh- und Abendverkehr angeboten.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
