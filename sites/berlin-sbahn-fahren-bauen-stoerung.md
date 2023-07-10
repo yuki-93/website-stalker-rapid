@@ -172,30 +172,6 @@ Information
 
 ### Westkreuz \> Tiergarten ###
 
-10.07. (Mo) bis 12.07. (Mi) jeweils 3:12 Uhr bis 3:20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13960&tx_sbbconstructions_list%5Bperiod%5D=17049&type=5679&cHash=07ec1b8218cb094976a1edeb096df16a)
-
-14.07. (Fr) 3:12 Uhr bis 3:20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13960&tx_sbbconstructions_list%5Bperiod%5D=17050&type=5679&cHash=b76516ce643402e4518697d45d7bb5d7)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13960&type=5679&cHash=965af9875afea9691b5dd948e3e9d21d)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:20 Uhr in Tiergarten.
-* Der Zug fällt von Westkreuz bis Tiergarten aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Tiergarten ###
-
 10.07. (Mo) bis 12.07. (Mi) jeweils 3:32 Uhr bis 3:40 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26782&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19877&tx_sbbconstructions_list%5Bperiod%5D=17051&type=5679&cHash=a55d2949b8785dec01f1fedd67123f53)
@@ -268,6 +244,30 @@ Information
 
 * Der Zug Flughafen BER – Terminal 1-2 ab 0:48 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:44 Uhr in Tiergarten.
 * Der Zug fällt von Tiergarten bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Tiergarten ###
+
+10.07. (Mo) bis 12.07. (Mi) jeweils 3:12 Uhr bis 3:20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13960&tx_sbbconstructions_list%5Bperiod%5D=17049&type=5679&cHash=07ec1b8218cb094976a1edeb096df16a)
+
+14.07. (Fr) 3:12 Uhr bis 3:20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13960&tx_sbbconstructions_list%5Bperiod%5D=17050&type=5679&cHash=b76516ce643402e4518697d45d7bb5d7)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13960&type=5679&cHash=965af9875afea9691b5dd948e3e9d21d)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:20 Uhr in Tiergarten.
+* Der Zug fällt von Westkreuz bis Tiergarten aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
@@ -545,30 +545,6 @@ Information
 
 ### Westkreuz \> Tiergarten ###
 
-10.07. (Mo) bis 12.07. (Mi) jeweils 3:12 Uhr bis 3:20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13960&tx_sbbconstructions_list%5Bperiod%5D=17049&type=5679&cHash=07ec1b8218cb094976a1edeb096df16a)
-
-14.07. (Fr) 3:12 Uhr bis 3:20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13960&tx_sbbconstructions_list%5Bperiod%5D=17050&type=5679&cHash=b76516ce643402e4518697d45d7bb5d7)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13960&type=5679&cHash=965af9875afea9691b5dd948e3e9d21d)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:20 Uhr in Tiergarten.
-* Der Zug fällt von Westkreuz bis Tiergarten aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Tiergarten ###
-
 10.07. (Mo) bis 12.07. (Mi) jeweils 3:32 Uhr bis 3:40 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26782&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19877&tx_sbbconstructions_list%5Bperiod%5D=17051&type=5679&cHash=a55d2949b8785dec01f1fedd67123f53)
@@ -713,6 +689,30 @@ Information
 
 * Der Zug Flughafen BER – Terminal 1-2 ab 0:48 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:44 Uhr in Tiergarten.
 * Der Zug fällt von Tiergarten bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Tiergarten ###
+
+10.07. (Mo) bis 12.07. (Mi) jeweils 3:12 Uhr bis 3:20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13960&tx_sbbconstructions_list%5Bperiod%5D=17049&type=5679&cHash=07ec1b8218cb094976a1edeb096df16a)
+
+14.07. (Fr) 3:12 Uhr bis 3:20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13960&tx_sbbconstructions_list%5Bperiod%5D=17050&type=5679&cHash=b76516ce643402e4518697d45d7bb5d7)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17570&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13960&type=5679&cHash=965af9875afea9691b5dd948e3e9d21d)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:20 Uhr in Tiergarten.
+* Der Zug fällt von Westkreuz bis Tiergarten aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
