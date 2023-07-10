@@ -36,8 +36,7 @@ Nächte 10./11.07. (Mo/Di) und 11./12.07. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
 
 Information
 
-* Zugverkehr verändert
-* Taktänderung: Halensee \<\> Beusselstraße nur im 20-Minutentakt
+* Taktänderung: Halensee \<\> Westkreuz \<\> Beusselstraße nur im 20-Minutentakt
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -119,8 +118,7 @@ Nächte 10./11.07. (Mo/Di) und 11./12.07. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
 
 Information
 
-* Zugverkehr verändert
-* Taktänderung: Halensee \<\> Beusselstraße nur im 20-Minutentakt
+* Taktänderung: Halensee \<\> Westkreuz \<\> Beusselstraße nur im 20-Minutentakt
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -308,8 +306,7 @@ Nächte 10./11.07. (Mo/Di) und 11./12.07. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
 
 Information
 
-* Zugverkehr verändert
-* Taktänderung: Halensee \<\> Beusselstraße nur im 20-Minutentakt
+* Taktänderung: Halensee \<\> Westkreuz \<\> Beusselstraße nur im 20-Minutentakt
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
