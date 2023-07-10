@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz zwischen Schönhauser Allee und Greifswalder Straße (unbefugte Personen auf der Strecke) beendet ###
-
- Letztes Update: 09:06 / 10.07.2023
-
-Information
-
-Nach einem Polizeieinsatz zwischen Schönhauser Allee und Greifswalder Straße (unbefugte Personen auf der Strecke) und einem Polizeieinsatz in Landsberger Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
