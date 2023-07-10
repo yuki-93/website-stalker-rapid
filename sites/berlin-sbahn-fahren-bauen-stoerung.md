@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an einem Zug in Lichtenberg ###
+### Reparatur an einem Zug in Lichtenberg beendet ###
 
- Letztes Update: 18:23 / 10.07.2023
+ Letztes Update: 18:45 / 10.07.2023
 
 Information
 
-Wegen einer Reparatur an einem Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Zugausfällen.
+Nach einer Reparatur an einem Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
