@@ -8,30 +8,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung Fahrgast in Königs Wusterhausen ###
 
- Letztes Update: 14:50 / 11.07.2023
+ Letztes Update: 16:02 / 11.07.2023
 
 Information
 
 Wegen einer ärztlichen Versorgung eines Fahrgastes im Zug in Königs Wusterhausen ist der Zugverkehr der Linie S46 zwischen Wildau und Königs Wusterhausen unterbrochen.
-*Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel.*
+*Ein Ersatzverkehr mit Bussen ist eingerichtet.*
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S Königs Wusterhausen: Am Wasserturm (Haltestelle Bus 724, 727, 728, 729, 730, 739, 790)
+* S Wildau: Karl-Marx-Str. (Haltestelle Bus 736, 737, 738, N36)
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Rahnsdorf ###
-
- Letztes Update: 13:11 / 11.07.2023
-
-Information
-
-Wegen einer Reparatur an einem Signal in Rahnsdorf kommt es auf der Linie S3 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
