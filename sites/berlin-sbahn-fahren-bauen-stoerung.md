@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einem Zug in Baumschulenweg beendet ###
 
- Letztes Update: 21:16 / 11.07.2023
+ Letztes Update: 22:21 / 11.07.2023
 
 Information
 
-Nach einer Reparatur an einem Zug in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
+Nach einer Reparatur an einem Zug in Baumschulenweg kommt es auf den Linien S45 und S46 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
