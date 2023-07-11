@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Zug in Baumschulenweg beendet ###
-
- Letztes Update: 22:21 / 11.07.2023
-
-Information
-
-Nach einer Reparatur an einem Zug in Baumschulenweg kommt es auf den Linien S45 und S46 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
@@ -34,7 +18,7 @@ Nächte 10./11.07. (Mo/Di) und 11./12.07. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
 
 Information
 
-* Taktänderung: Halensee \<\> Westkreuz \<\> Beusselstraße nur im 20-Minutentakt
+* Taktänderung: Westend \<\> Beusselstraße nur im 20-Minutentakt
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -97,7 +81,7 @@ Nächte 10./11.07. (Mo/Di) und 11./12.07. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
 
 Information
 
-* Taktänderung: Halensee \<\> Westkreuz \<\> Beusselstraße nur im 20-Minutentakt
+* Taktänderung: Westend \<\> Beusselstraße nur im 20-Minutentakt
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
