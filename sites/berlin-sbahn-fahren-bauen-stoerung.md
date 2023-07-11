@@ -1336,7 +1336,7 @@ Information
 
 Nur Wochenende
 
-### Beusselstraße \<\> S+U Gesundbrunnen ###
+### Beusselstraße \<\> Gesundbrunnen ###
 
 11.08.23 (Fr), ca 21:45 Uhr - 14.08.23 (Mo), ca. 1:30 Uhr
 
@@ -1346,7 +1346,8 @@ Nur Wochenende
 
 Information
 
-* Ersatzverkehr mit Bussen
+* Ersatzverkehr mit Bussen: Beusselstraße \<\> Gesundbrunnen
+* Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-kabelumschaltungen/#con-27381)
