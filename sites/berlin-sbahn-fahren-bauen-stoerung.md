@@ -506,7 +506,7 @@ Information
 
  Nur Nachts
 
-### Waßmannsdorf \<\> Airport FBB Terminal 1-2 ###
+### Flughafen BER – Terminal 1-2 \<\> Flughafen BER – T5 ###
 
 Nacht 18.07./19.07. (Di/Mi) und 19/20.07. (Mi/Do) ca. 20:45 Uhr bis 1:30 Uhr
 
@@ -545,7 +545,7 @@ Nur Wochenende
 
 ### Treptower Park \<\> Tempelhof ###
 
-21.07. (Fr), ca. 21.45 Uhr bis 24.07. (Mo), ca. 01.30 Uhr
+21.07. (Fr), ca. 21.45 Uhr durchgehend bis 24.07. (Mo), ca. 01.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27391&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20500&tx_sbbconstructions_list%5Bperiod%5D=17063&type=5679&cHash=0801188e3e788452b62857e876d80172)
 
@@ -553,10 +553,51 @@ Nur Wochenende
 
 Information
 
-* Ersatzverkehr mit Bussen
+* kein S-Bahnverkehr: Baumschulenweg/Treptower Park \<\> Tempelhof
+  * Fahrgäste in der Relation Schöneweide \<\> Neukölln steigen bitte zwischen der S45, S46 oder S47 und dem Ersatzverkehr mit Bussen S41/S42 in Plänterwald um.
+
+* Ersatzverkehr mit Bussen: Treptower Park \<\> Tempelhof
+* Fahrplanänderung
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-48610c5382/#con-27391)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Waßmannsdorf ###
+
+Nacht 21./22.07. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27607&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20726&tx_sbbconstructions_list%5Bperiod%5D=17118&type=5679&cHash=745ce7b94807f9a03d1de1575aa85496)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung:
+  * In Waßmannsdorf fahren die S45 und die S9 nach Flughafen BER – Terminal 1-2 von Gleis 2, Bahnsteig stadteinwärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Waßmannsdorf ###
+
+Nacht 22./23.07. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27606&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20726&tx_sbbconstructions_list%5Bperiod%5D=17119&type=5679&cHash=dbb88ae41b6eb2b3ba4b735cbc1aac63)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung:
+  * In Waßmannsdorf fahren die S45 nach Treptower Park und die S9 nach Spandau von Gleis 1, Bahnsteig stadtauswärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -1081,7 +1122,7 @@ Information
 
 Nur Wochenende
 
-### Baumschulenweg/Neukölln – Treptower Park – Warschauer Straße ###
+### Baumschulenweg/Neukölln \<\> Treptower Park \<\> Warschauer Straße ###
 
 28.07. (Fr), ca. 22 Uhr bis 07.08. (Mo), ca. 1:30 Uhr
 
@@ -1091,9 +1132,13 @@ Nur Wochenende
 
 Information
 
-* S-Bahn-Pendelverkehr: Baumschulenweg - Treptower Park
+* S-Bahn-Pendelverkehr: Treptower Park \<\> Neukölln im 20-Minutentakt
+  * Bitte beachten Sie, vom 04.08. (Fr), ca. 22 Uhr durchgehend bis 07.08. (Mo), ca. 1.30 Uhr fährt dieser Pendelzug nicht
+     und wird durch einen Ersatzverkehr mit Bussen ersetzt.
+
+* S-Bahn-Pendelverkehr: Baumschulenweg \<\> Treptower Park im 15-Minutentakt
 * Fahrplanänderung
-* Bahnsteigänderung in Baumschulenweg und Treptower Park
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenbalkenwechsel-kabelarbeiten-vegetationsarbeiten/#con-27398)
