@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur am Zug in Bornholmer Straße ###
+
+ Letztes Update: 07:15 / 11.07.2023
+
+Information
+
+Wegen einer Reparatur am Zug in Bornholmer Straße kommt es auf den Linien S2, S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+Die Linie S85 verkehrt nicht.
+
+Bitte nutzen sie zur Umfahrung die Linien der BVG.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
@@ -421,7 +441,7 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Warschauer Straße – Ostbahnhof ###
+### Warschauer Straße \<\> Ostbahnhof ###
 
 14.07. (Fr) 4 Uhr bis 20.07. (Do) 1:30 Uhr
 
@@ -431,7 +451,7 @@ Information
 
 Information
 
-* Linienführung verändert (S3)
+* veränderte Linienführung
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
