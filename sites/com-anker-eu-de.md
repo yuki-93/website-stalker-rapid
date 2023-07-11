@@ -20,10 +20,25 @@ vorbestellen und 200€ sparen!
 
 [Limitiertes AngebotmasterBanner1](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-solarbank-a17c0?ref=masterBanner1)
 
-Erhalte ein gratis Geschenk bei jedem Kauf.
- Prime Week Angebote
+Jetzt zugreifen und bis zu 42% sparen!
 
-Von 3. bis 10. Juli
+Sommer-Sale Finale
+
+38
+
+:
+
+Std.
+
+40
+
+:
+
+Min.
+
+27
+
+Sek.
 
 [Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/members-exclusive-sale?ref=masterBanner2)
 
