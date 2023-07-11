@@ -2,28 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### ärztliche Versorgung Fahrgast in Königs Wusterhausen ###
-
- Letztes Update: 16:02 / 11.07.2023
-
-Information
-
-Wegen einer ärztlichen Versorgung eines Fahrgastes im Zug in Königs Wusterhausen ist der Zugverkehr der Linie S46 zwischen Wildau und Königs Wusterhausen unterbrochen.
-*Ein Ersatzverkehr mit Bussen ist eingerichtet.*
-
-**Haltestellen des Ersatzverkehrs:**
-
-* S Königs Wusterhausen: Am Wasserturm (Haltestelle Bus 724, 727, 728, 729, 730, 739, 790)
-* S Wildau: Karl-Marx-Str. (Haltestelle Bus 736, 737, 738, N36)
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
