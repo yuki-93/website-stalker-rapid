@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Zug in Ostbahnhof ###
 
- Letztes Update: 22:12 / 12.07.2023
+ Letztes Update: 22:59 / 12.07.2023
 
 Information
 
 Wegen der Reparatur am Zug in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
+
+Zur weiträumigen Umfahrung zwischen Ostkreuz \<\> Ostbahnhof \<\> Alexanderplatz \<\> Friedrichstraße \<\> Hauptbahnhof \<\> Zoologischer Garten nutzen Sie bitte die Züge des Regionalverkehrs.
 
 Wir bitten um Entschuldigung.
 
