@@ -24,19 +24,19 @@ Jetzt zugreifen und bis zu 42% sparen!
 
 Sommer-Sale Finale
 
-02
+01
 
 :
 
 Std.
 
-43
+38
 
 :
 
 Min.
 
-26
+36
 
 Sek.
 
