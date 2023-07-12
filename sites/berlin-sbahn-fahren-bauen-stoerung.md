@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Rahnsdorf ###
+### Reparatur am Zug in Gesundbrunnen ###
 
- Letztes Update: 18:07 / 12.07.2023
+ Letztes Update: 19:21 / 12.07.2023
 
 Information
 
-Wegen einer Reparatur am Signal in Rahnsdorf kommt es auf der Linie S3 in diesem Bereich zu Ausfällen und Verspätungen.
+Wegen einer Reparatur am Zug in Gesundbrunnen kommt es auf den Linien S 42, S8 und S85 zu Verspätungen und Zugausfällen.
 
-Wir bitten um Verständnis.
+Wir bitten um Entschuldigung
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
