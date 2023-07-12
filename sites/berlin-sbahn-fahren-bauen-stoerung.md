@@ -37,7 +37,6 @@ Information
 * kein Zugverkehr zwischen Blankenburg und Birkenwerder
 * Ersatzverkehr mit Bussen:
   * Bus S2: Pankow-Heinersdorf \<\> Karow
-     Bitte steigen Sie zwischen der S-Bahn und den Ersatzverkehr mit Bussen in beiden Richtungen in Pankow-Heinersdorf um, da der S-Bahnhof Blankenburg nicht angefahren wird.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -168,7 +167,6 @@ Information
 * kein Zugverkehr zwischen Blankenburg und Birkenwerder
 * Ersatzverkehr mit Bussen:
   * Bus S2: Pankow-Heinersdorf \<\> Karow
-     Bitte steigen Sie zwischen der S-Bahn und den Ersatzverkehr mit Bussen in beiden Richtungen in Pankow-Heinersdorf um, da der S-Bahnhof Blankenburg nicht angefahren wird.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -446,7 +444,6 @@ Information
 * kein Zugverkehr zwischen Blankenburg und Birkenwerder
 * Ersatzverkehr mit Bussen:
   * Bus S2: Pankow-Heinersdorf \<\> Karow
-     Bitte steigen Sie zwischen der S-Bahn und den Ersatzverkehr mit Bussen in beiden Richtungen in Pankow-Heinersdorf um, da der S-Bahnhof Blankenburg nicht angefahren wird.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
