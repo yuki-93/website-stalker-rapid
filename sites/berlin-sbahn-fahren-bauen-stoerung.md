@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur am Bahnübergang in Schönfließ ###
+### Reparatur an einem Signal in Rahnsdorf ###
 
- Letztes Update: 17:18 / 12.07.2023
+ Letztes Update: 18:07 / 12.07.2023
 
 Information
 
-Wegen einer Reparatur am Bahnübergang in Schönfließ kommt es auf der Linie S8 in diesem Bereich zu Ausfällen und Verspätungen.
-
-Fahrgäste mit dem direkten Fahrziel Hohen Neuendorf und Birkenwerder nutzen ab Bornholmer Straße die Linie S1.
+Wegen einer Reparatur am Signal in Rahnsdorf kommt es auf der Linie S3 in diesem Bereich zu Ausfällen und Verspätungen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  keine Verbindung
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
