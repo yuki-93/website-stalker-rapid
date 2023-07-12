@@ -24,22 +24,6 @@ Jetzt zugreifen und bis zu 42% sparen!
 
 Sommer-Sale Finale
 
-00
-
-:
-
-Std.
-
-42
-
-:
-
-Min.
-
-44
-
-Sek.
-
 [Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/members-exclusive-sale?ref=masterBanner2)
 
 Das Anker-Erlebnis entdecken
