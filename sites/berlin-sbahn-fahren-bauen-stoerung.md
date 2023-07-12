@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### ärztliche Versorgung eines Fahrgastes im Zug in Tempelhof - beendet ###
 
- Letztes Update: 08:27 / 12.07.2023
+ Letztes Update: 09:12 / 12.07.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Tempelhof kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und vereinzelten Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Tempelhof kommt es auf den Linien S41 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
