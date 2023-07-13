@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsatz zwischen Mahlsdorf und Hoppegarten ###
-
- Letztes Update: 00:19 / 14.07.2023
-
-Information
-
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S5 zwischen Mahlsdorf und Hoppegarten unterbrochen.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
