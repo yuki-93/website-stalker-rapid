@@ -85,9 +85,9 @@ Information
 Information
 
 * Ersatzverkehr mit Bussen:
-  * Bus S1X: Oranienburg \<\> Birkenwerder
+  * Bus S1X: Frohnau \<\> Oranienburg
      Dieser Bus hält nicht an den S-Bahnhöfen Hohen Neuendorf, Birkenwerder und Borgsdorf.
-  * Bus S1A: Oranienburg \<\> Birkenwerder
+  * Bus S1A: Frohnau \<\> Birkenwerder
     * In den Nächten 06./07.08. (So/Mo) bis 09./10.08. (Mi/Do) wird der Bus S1A zwischen Waidmannslust \<\> Frohnau \<\> Birkenwerder \<\> Oranienburg verlängert.
 
   * Bus S8: Pankow-Heinersdorf \<\> Birkenwerder
@@ -196,9 +196,9 @@ Information
 Information
 
 * Ersatzverkehr mit Bussen:
-  * Bus S1X: Oranienburg \<\> Birkenwerder
+  * Bus S1X: Frohnau \<\> Oranienburg
      Dieser Bus hält nicht an den S-Bahnhöfen Hohen Neuendorf, Birkenwerder und Borgsdorf.
-  * Bus S1A: Oranienburg \<\> Birkenwerder
+  * Bus S1A: Frohnau \<\> Birkenwerder
     * In den Nächten 06./07.08. (So/Mo) bis 09./10.08. (Mi/Do) wird der Bus S1A zwischen Waidmannslust \<\> Frohnau \<\> Birkenwerder \<\> Oranienburg verlängert.
 
   * Bus S8: Pankow-Heinersdorf \<\> Birkenwerder
@@ -414,9 +414,9 @@ Information
 Information
 
 * Ersatzverkehr mit Bussen:
-  * Bus S1X: Oranienburg \<\> Birkenwerder
+  * Bus S1X: Frohnau \<\> Oranienburg
      Dieser Bus hält nicht an den S-Bahnhöfen Hohen Neuendorf, Birkenwerder und Borgsdorf.
-  * Bus S1A: Oranienburg \<\> Birkenwerder
+  * Bus S1A: Frohnau \<\> Birkenwerder
     * In den Nächten 06./07.08. (So/Mo) bis 09./10.08. (Mi/Do) wird der Bus S1A zwischen Waidmannslust \<\> Frohnau \<\> Birkenwerder \<\> Oranienburg verlängert.
 
   * Bus S8: Pankow-Heinersdorf \<\> Birkenwerder
