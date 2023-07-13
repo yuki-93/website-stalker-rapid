@@ -2,6 +2,43 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Entschärfung einer Fliegerbombe in Ahrensfelde ###
+
+ Letztes Update: 04:27 / 13.07.2023
+
+Information
+
+Wegen der Entschärfung einer Fliegerbombe in Ahrensfelde wird der Zugverkehr der Linie S7 **ab vsl. 09.45 Uhr** zwischen Marzahn und Ahrensfelde unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+
+**Die Linie S7 fährt dann wie folgt**: Potsdam Hauptbahnhof \<\> Marzahn
+
+---
+
+***letzte durchfahrende Züge:***
+
+* ab Potsdam Hauptbahnhof um 08:31 Uhr nach Ahrensfelde
+* ab Ahrensfelde um 09:51 Uhr nach Potsdam Hauptbahnhof
+
+---
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S-Bhf. Marzahn: Marzahner Promenade (Haltestelle Bus 191, 192, 195, 291)
+* S-Bhf. Raoul-Wallenberg-Straße: Märkische Allee (Haltestelle Bus X54)
+* S-Bhf. Mehrower Allee: Märkische Allee, Höhe Mehrower Allee
+
+---
+
+**Beachten Sie bitte**: die Regionalbahnlinie RB25 sowie die dort verkehrenden Buslinien der BVG sind ebenfalls von Sperrung betroffen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)

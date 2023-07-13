@@ -2,7 +2,7 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_4e559c
 
 []()
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Nur noch für 48 Stunden: **Bis zu 1,000€ Rabatt**](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt kaufen \>\>](https://www.anker.com/eu-de/anker-solix/prime-week-angebote?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Verlängerte Prime Day Deals: **mit bis zu 1000€ Rabatt**](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt sparen \>\>](https://www.anker.com/eu-de/anker-solix/prime-week-angebote?ref=naviBar)
 
 Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Ladesets](https://www.anker.com/eu-de/baue-dir-dein-eigenes-anker-ladesystem?ref=naviMenu)
 
@@ -29,12 +29,11 @@ Sommer-Sale Finale
 Das Anker-Erlebnis entdecken
 ----------
 
-* ### Bis zu 1000€ Rabatt
-   Nur noch für 48 Stunden ###
+* ### Letzte Chance auf bis zu 1000€ Rabatt ###
 
-  Prime Week Angebote
+  Verlängerte Prime Day Deals
 
-  [Jetzt kaufenBis zu 1000€ Rabatt Nur noch für 48 Stunden](https://www.anker.com/eu-de/anker-solix/prime-week-angebote?ref=productBanner2_1)
+  [Jetzt sparenLetzte Chance auf bis zu 1000€ Rabatt](https://www.anker.com/eu-de/anker-solix/prime-week-angebote?ref=productBanner2_1)
 
 * ### AnkerCredits Belohnungsprogramm ###
 
