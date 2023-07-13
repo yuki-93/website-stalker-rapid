@@ -348,11 +348,11 @@ Produkte
 
 [Ladegeräte](https://www.anker.com/eu-de/collections/wandladegerate?ref=footer)
 
-[Powerbanks](https://www.anker.com/eu-en/collections/powerbanks?ref=footer)
+[Powerbanks](https://www.anker.com/eu-de/collections/powerbanks?ref=footer)
 
-[Kabel](https://www.anker.com/eu-en/collections/kabel?ref=footer)
+[Kabel](https://www.anker.com/eu-de/collections/kabel?ref=footer)
 
-[Adapter & Hubs](https://www.anker.com/eu-en/collections/adapter-hubs?ref=footer)
+[Adapter & Hubs](https://www.anker.com/eu-de/collections/adapter-hubs?ref=footer)
 
 [Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=footer)
 
