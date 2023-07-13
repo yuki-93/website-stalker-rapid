@@ -4,33 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Entschärfung einer Fliegerbombe in Ahrensfelde ###
+### Polizeieinsatz zwischen Neukölln und Treptower Park beendet ###
 
- Letztes Update: 11:38 / 13.07.2023
+ Letztes Update: 18:59 / 13.07.2023
 
 Information
 
-Wegen der Entschärfung einer Fliegerbombe in Ahrensfelde ist der Zugverkehr der Linie S7 **ab 12:00 Uhr** zwischen Marzahn \<\> Ahrensfelde unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Nach dem Personen auf der Strecke waren, wird der Zugverkehr der Linien S41 und S42 zwischen Neukölln und Treptower Park wieder aufgenommen, es kommt noch zu Ausfällen und Verspätungen.
 
-**Die Linie S7 fährt dann wie folgt**: Potsdam Hauptbahnhof \<\> Marzahn
+Wir bitten um Verständnis.
 
----
+ Zugverkehr verändert  Verbindung unregelmäßig
 
-**Haltestellen des Ersatzverkehrs:**
+[S7](https://sbahn.berlin/fahren/s7/)
 
-* S-Bhf. Marzahn: Marzahner Promenade (Haltestelle Bus 191, 192, 195, 291)
-* S-Bhf. Raoul-Wallenberg-Straße: Märkische Allee (Haltestelle Bus X54)
-* S-Bhf. Mehrower Allee: Märkische Allee, Höhe Mehrower Allee
+### Entschärfung einer Fliegerbombe in Ahrensfelde ist beendet ###
 
----
+ Letztes Update: 18:45 / 13.07.2023
 
-**Beachten Sie bitte**: die Regionalbahnlinie RB25 sowie die dort verkehrenden Buslinien der BVG sind ebenfalls von Sperrung betroffen.
+Information
+
+Nach der der Entschärfung einer Fliegerbombe in Ahrensfelde wird der Zugverkehr der Linie S7 nach Ahrensfelde wieder aufgenommen,es kann noch zu Ausfällen und Verspätungen kommen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
