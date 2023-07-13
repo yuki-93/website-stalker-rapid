@@ -8,20 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Entschärfung einer Fliegerbombe in Ahrensfelde ###
 
- Letztes Update: 04:27 / 13.07.2023
+ Letztes Update: 09:06 / 13.07.2023
 
 Information
 
-Wegen der Entschärfung einer Fliegerbombe in Ahrensfelde wird der Zugverkehr der Linie S7 **ab vsl. 09.45 Uhr** zwischen Marzahn und Ahrensfelde unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen der Entschärfung einer Fliegerbombe in Ahrensfelde wird der Zugverkehr der Linie S7 **ab vsl. 12:00 Uhr** zwischen Marzahn und Ahrensfelde unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
 **Die Linie S7 fährt dann wie folgt**: Potsdam Hauptbahnhof \<\> Marzahn
-
----
-
-***letzte durchfahrende Züge:***
-
-* ab Potsdam Hauptbahnhof um 08:31 Uhr nach Ahrensfelde
-* ab Ahrensfelde um 09:51 Uhr nach Potsdam Hauptbahnhof
 
 ---
 
