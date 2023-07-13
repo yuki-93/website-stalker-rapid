@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz zwischen Neukölln und Treptower Park beendet ###
-
- Letztes Update: 18:59 / 13.07.2023
-
-Information
-
-Nach dem Personen auf der Strecke waren, wird der Zugverkehr der Linien S41 und S42 zwischen Neukölln und Treptower Park wieder aufgenommen, es kommt noch zu Ausfällen und Verspätungen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Entschärfung einer Fliegerbombe in Ahrensfelde ist beendet ###
-
- Letztes Update: 18:45 / 13.07.2023
-
-Information
-
-Nach der der Entschärfung einer Fliegerbombe in Ahrensfelde wird der Zugverkehr der Linie S7 nach Ahrensfelde wieder aufgenommen,es kann noch zu Ausfällen und Verspätungen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
