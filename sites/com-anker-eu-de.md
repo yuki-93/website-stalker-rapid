@@ -355,17 +355,17 @@ Produkte
 
 [Adapter & Hubs](https://www.anker.com/eu-en/collections/adapter-hubs?ref=footer)
 
-[Balkonkraftwerk](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=footer)
+[Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=footer)
 
 [Angebote](https://www.anker.com/eu-de/earth-day-powerstationen?ref=footer)
 
 [Tragbare Powerstation](https://www.anker.com/eu-de/collections/portable-power-stations?ref=footer)
 
-[Solargeneratoren](https://www.anker.com/eu-de/ankerpower/solargenerator?ref=footer)
+[Solargeneratoren](https://www.anker.com/eu-de/anker-solix/solargenerator?ref=footer)
 
-[Mobile Stromreserve](https://www.anker.com/eu-de/ankerpower/stromreserve-zuhause?ref=footer)
+[Mobile Stromreserve](https://www.anker.com/eu-de/anker-solix/stromreserve-zuhause?ref=footer)
 
-[Energie zum Mitnehmen](https://www.anker.com/eu-de/ankerpower/strom-draussen?ref=footer)
+[Energie zum Mitnehmen](https://www.anker.com/eu-de/anker-solix/strom-draussen?ref=footer)
 
 [Nachhaltigkeit](https://www.anker.com/eu-de/anker-fuer-nachhaltigkeit-zukunft?ref=footer)
 
@@ -379,7 +379,7 @@ Produkte
 
 [PowerHouse - Großvertriebspartner werden](https://www.anker.com/eu-de/be-a-powerhouse-dealer?ref=footer)
 
-[PowerHouse - Händler werden](https://www.anker.com/eu-de/ankerpower/journeys-with-ambassadors?ref=footer)
+[PowerHouse - Händler werden](https://www.anker.com/eu-de/anker-solix/journeys-with-ambassadors?ref=footer)
 
 Programme
 
@@ -419,7 +419,7 @@ Support
 
 [Impressum](https://de.anker.com/pages/imprint?ref=footer)
 
-[PowerHouse-Händler werden](https://www.anker.com/eu-de/ankerpower?ref=footer)
+[PowerHouse-Händler werden](https://www.anker.com/eu-de/anker-solix?ref=footer)
 
 [](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.instagram.com/anker_official/?ref=footer)[](https://www.tiktok.com/@ankerofficial?ref=footer)
 
