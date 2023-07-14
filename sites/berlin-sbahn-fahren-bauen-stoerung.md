@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Polizeieinsatz in Bernau ###
-
- Letztes Update: 12:35 / 14.07.2023
-
-Information
-
-Wegen eines Polizeieinsatzes in Bernau ist der Zugverkehr der Linie S2 zwischen Zepernick \<\> Bernau unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung zwischen Zepernick und Bernau die Buslinie 868.
-
-Wir bitten um Entschuldigung
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
