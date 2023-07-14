@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### technische Untersuchung an einem Zug in Baumschulenweg ###
+
+ Letztes Update: 12:15 / 14.07.2023
+
+Information
+
+Wegen der technischen Untersuchung an einem Zug in Baumschulenweg kommt es auf den Linien S45, S46 und S47 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Polizeieinsatz in Bernau ###
+
+ Letztes Update: 11:49 / 14.07.2023
+
+Information
+
+Wegen eines Polizeieinsatzes in Bernau ist der Zugverkehr der Linie S2 zwischen Zepernick \<\> Bernau unterbrochen.
+
+Wir bitten um Entschuldigung
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
