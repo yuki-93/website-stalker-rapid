@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur am Signal Ostbahnhof ###
+### Reparatur am Signal in Bellevue ###
 
- Letztes Update: 21:14 / 15.07.2023
+ Letztes Update: 21:20 / 15.07.2023
 
 Information
 
-Wegen einer Reparatur am Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
+Wegen einer Reparatur am Signal in Bellevue und nach einer Reparatur am Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Zugausfällen sowie folgenden Einschränkungen:
 
 *Die Linie S3 verkehrt zwischen Erkner und Spandau im 20-Minuten-Takt.*
 
