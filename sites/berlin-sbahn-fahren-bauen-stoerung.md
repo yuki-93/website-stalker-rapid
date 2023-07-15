@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur am Signal in Bellevue ###
 
- Letztes Update: 21:20 / 15.07.2023
+ Letztes Update: 23:42 / 15.07.2023
 
 Information
 
-Wegen einer Reparatur am Signal in Bellevue und nach einer Reparatur am Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Zugausfällen sowie folgenden Einschränkungen:
-
-*Die Linie S3 verkehrt zwischen Erkner und Spandau im 20-Minuten-Takt.*
+Wegen einer Reparatur am Signal in Bellevue kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und eventuellen Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
@@ -215,6 +213,50 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleis-kabeltiefbau-instandsetzung-der-entwaesserungsleitungen-instandhaltung-der-weichen-in-suedkreuz-1/#con-27281)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Strausberg Nord \<\> Strausberg ###
+
+17.07. (Mo), ca. 4 Uhr durchgehend bis 07.08. (Mo) ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27239&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20349&tx_sbbconstructions_list%5Bperiod%5D=16969&type=5679&cHash=107a3b1a9fbbd9d7bf01fd2d2bd4749a)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnhof-hegermuehle/#con-27239)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnhof-hegermuehle/#c28871)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Greifswalder Straße (gesamter Ring) ###
+
+Nacht 17./18.07. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27603&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20724&tx_sbbconstructions_list%5Bperiod%5D=17114&type=5679&cHash=666eb0241459fab55480e182c78ed3b1)
+
+Nacht 24./25.07. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27603&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20724&tx_sbbconstructions_list%5Bperiod%5D=17115&type=5679&cHash=35b94caa622283fdc6f23ce3d40ae1c3)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27603&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20724&type=5679&cHash=8fb9b1528cf15b3b3e68e7419bf43b28)
+
+ Takt geändert
+
+Information
+
+* S-Bahn-Pendelverkehr: Ostkreuz \<\> Frankfurter Allee im 10-Minutentakt
+* Fahrplanänderung
+* Bahnsteig- und Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/aufbau-betonschalthaus-maschinelles-weichenschleifen/#con-27603)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -302,27 +344,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/hallendachsanierung-in-ostbahnhof-das-gleis-11-ist-gesperrt/#con-27346)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-Nur Wochenende
-
-### Hermannstraße \<\> Halensee ###
-
-14.07. (Fr), ca. 21:45 Uhr bis 17.07. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27281&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20386&tx_sbbconstructions_list%5Bperiod%5D=16989&type=5679&cHash=ade34117f8f0df60be8c137de8d6dc41)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen: Hermannstraße \<\> Halensee
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-gleis-kabeltiefbau-instandsetzung-der-entwaesserungsleitungen-instandhaltung-der-weichen-in-suedkreuz-1/#con-27281)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
