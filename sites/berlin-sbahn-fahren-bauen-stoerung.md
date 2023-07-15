@@ -8,28 +8,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Signal Ostbahnhof ###
 
- Letztes Update: 19:12 / 15.07.2023
+ Letztes Update: 20:01 / 15.07.2023
 
 Information
 
 Wegen einer Reparatur am Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-*Die Linie S7 verkehrt zwischen Ahrensfelde und Warschauer Straße sowie Charlottenburg und Potsdam Hbf.
+*Die Linie S3 verkehrt zwischen Erkner und Spandau im 20-Minuten-Takt.
+ Die Linie S7 verkehrt zwischen Ahrensfelde und Warschauer Straße sowie Charlottenburg und Potsdam Hbf.
  Die Linie S75 verkehrt zwischen Wartenberg und Lichtenberg im 20-Minuten-Takt.*
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Polizeieinsatz Treptower Park beendet ###
 
- Letztes Update: 17:49 / 15.07.2023
+ Letztes Update: 19:50 / 15.07.2023
 
 Information
 
-Nach einem Polizeieinsatz in Treptower Park wegen unbefugten Personen auf der Strecke kann es auf den Linien S41, S42, S45, S8, S85 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einem Polizeieinsatz in Treptower Park wegen unbefugten Personen auf der Strecke kann es auf den Linien S41, S42 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
