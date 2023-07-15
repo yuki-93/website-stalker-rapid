@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Polizeieinsatz in Blankenfelde ###
-
- Letztes Update: 14:06 / 15.07.2023
-
-Information
-
-Wegen eines Polizeieinsatzes in Blankenfelde ist der Zugverkehr der Linie S2 zwischen Lichtenrade und Blankenfelde unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
