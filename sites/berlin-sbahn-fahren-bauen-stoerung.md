@@ -6,27 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz Warschauer Straße ###
+### Polizeieinsatz Warschauer Straße beendet ###
 
- Letztes Update: 19:10 / 16.07.2023
-
-Information
-
-Wegen eines Polizeieinsatzes in Warschauer Straße (unbefugte Personen auf der Strecke) ist der Zugverkehr der Linien S3, S5, S7, S75 und S9 zwischen Ostkreuz und Ostbahnhof unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz Hohenschönhausen beendet ###
-
- Letztes Update: 18:54 / 16.07.2023
+ Letztes Update: 19:21 / 16.07.2023
 
 Information
 
-Nach einem Polizeieinsatz in Hohenschönhausen (unbefugte Personen auf der Strecke) kann es auf der Linie S75 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einem Polizeieinsatz in Warschauer Straße (unbefugte Personen auf der Strecke) kann es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
