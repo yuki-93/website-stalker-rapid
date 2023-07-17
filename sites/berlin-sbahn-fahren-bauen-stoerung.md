@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Signal in Bellevue beendet ###
-
- Letztes Update: 11:39 / 17.07.2023
-
-Information
-
-Nach einer Reparatur am Signal in Bellevue kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und eventuellen Ausfällen.
-
-* Die Linie S75 verkehrt zwischen Wartenberg und Ostbahnhof im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
