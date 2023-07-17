@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur am Bahnübergang Eichwalde beendet ###
+
+ Letztes Update: 05:53 / 17.07.2023
+
+Information
+
+Nach einer Reparatur am Bahnübergang in Eichwalde kommt es auf der Linie S8 noch zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur am Signal in Bellevue ###
@@ -34,21 +48,6 @@ Nach einem Polizeieinsatz in Humboldthain (unbefugte Person auf der Strecke) kom
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur am Bahnübergang Eichwalde ###
-
- Letztes Update: 04:38 / 17.07.2023
-
-Information
-
-Wegen einer Reparatur am Bahnübergang in Eichwalde kann es auf der Linie S46 zu Verspätungen kommen.
-*Die Linie S8 verkehrt zwischen Blankenburg und Grünau.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
