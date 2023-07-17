@@ -2,6 +2,54 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur am Signal in Bellevue ###
+
+ Letztes Update: 05:20 / 17.07.2023
+
+Information
+
+Wegen einer Reparatur am Signal in Bellevue kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* *Die Linie S7 verkehrt zwischen Ahrensfelde und Ostbahnhof **sowie** zwischen Charlottenburg und Potsdam Hbf.*
+* *Die Linie S75 verkehrt zwischen Wartenberg und Warschauer Straße im 20-Minuten-Takt.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz Humboldthain beendet ###
+
+ Letztes Update: 05:13 / 17.07.2023
+
+Information
+
+Nach einem Polizeieinsatz in Humboldthain (unbefugte Person auf der Strecke) kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur am Bahnübergang Eichwalde ###
+
+ Letztes Update: 04:38 / 17.07.2023
+
+Information
+
+Wegen einer Reparatur am Bahnübergang in Eichwalde kann es auf der Linie S46 zu Verspätungen kommen.
+*Die Linie S8 verkehrt zwischen Blankenburg und Grünau.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)

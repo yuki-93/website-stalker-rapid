@@ -47,14 +47,16 @@ Das Anker-Erlebnis entdecken
 
   [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner2_3)
 
-* ###  ###
+* ###
+
+   ###
 
   ### SOLIX Balkonkraftwerk stark reduziert | Bis zu 338€ Rabatt ###
 
   SOLIX RS40P | RS40
   600W/800W Mikro-Wechselrichter
 
-  [Mehr erfahren](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_4)
+  [Mehr erfahren ,SOLIX Balkonkraftwerk stark reduziert | Bis zu 338€ Rabatt](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_4)
 
 * ### Die Extraportion Power mit Ankers meistgekauften Ladegeräten  ###
 
