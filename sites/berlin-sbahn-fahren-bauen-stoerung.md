@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem Signal in Rahnsdorf ###
+
+ Letztes Update: 05:21 / 18.07.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Rahnsdorf kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+* Linie S3: zwischen Friedrichhagen und Warschauer Straße besteht ein 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
