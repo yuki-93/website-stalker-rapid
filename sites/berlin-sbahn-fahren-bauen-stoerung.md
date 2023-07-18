@@ -4,21 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz wegen unbefugter Person auf der Strecke im Bereich Westkreuz beendet ###
 
- Letztes Update: 19:30 / 18.07.2023
+ Letztes Update: 20:43 / 18.07.2023
 
 Information
 
-Nach einer unbefugten Person auf der Strecke im Bereich Westkreuz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+Nach einer unbefugten Person auf der Strecke im Bereich Westkreuz verkehren die Linien S41 und S42 nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Lichtenberg beendet ###
+
+ Letztes Update: 20:34 / 18.07.2023
+
+Information
+
+Nach einem Polizeieinsatz in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
