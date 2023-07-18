@@ -84,33 +84,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnhof-hegermuehle/#con-27239)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnhof-hegermuehle/#c28871)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Treptower Park \<\> Greifswalder Straße (gesamter Ring) ###
-
-Nacht 17./18.07. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27603&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20724&tx_sbbconstructions_list%5Bperiod%5D=17114&type=5679&cHash=666eb0241459fab55480e182c78ed3b1)
-
-Nacht 24./25.07. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27603&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20724&tx_sbbconstructions_list%5Bperiod%5D=17115&type=5679&cHash=35b94caa622283fdc6f23ce3d40ae1c3)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27603&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20724&type=5679&cHash=8fb9b1528cf15b3b3e68e7419bf43b28)
-
- Takt geändert
-
-Information
-
-* S-Bahn-Pendelverkehr: Ostkreuz \<\> Frankfurter Allee im 10-Minutentakt
-* Fahrplanänderung
-* Bahnsteig- und Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/aufbau-betonschalthaus-maschinelles-weichenschleifen/#con-27603)
-
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
@@ -148,114 +121,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Flughafen BER – Terminal 1-2 \> Schöneweide ###
-
-18.07. (Di) 1:08 Uhr bis 1:40 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27545&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20666&tx_sbbconstructions_list%5Bperiod%5D=17086&type=5679&cHash=7f8096d93216c54aec98bba971a26e73)
-
- Zugverkehr verändert
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 1:08 Uhr nach Friedrichstraße (an 1:56 Uhr) fährt von Flughafen BER – Terminal 1-2 bis Schöneweide ca. 5 Minuten früher.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schöneweide \> Grünau ###
-
-18.07. (Di) 1:33 Uhr bis 1:42 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17089&type=5679&cHash=afe3a57fc0ac435aab9d6cba0f5e1d44)
-
- fährt nicht
-
-Information
-
-* Der Zug Spandau ab 0:38 Uhr nach Grünau (an 1:42 Uhr) endet bereits um 1:33 Uhr in Schöneweide.
-* Der Zug fällt von Schöneweide bis Grünau aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Altglienicke \> Ostbahnhof ###
-
-18.07. (Di) 1:42 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20667&tx_sbbconstructions_list%5Bperiod%5D=17087&type=5679&cHash=edab871f6f213061f7d782d7a7d7a1fa)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 1:28 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 1:42 Uhr in Altglienicke.
-* Der Zug fällt von Altglienicke bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Altglienicke ###
-
-18.07. (Di) 3:05 Uhr bis 3:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17090&type=5679&cHash=e6006b048e8f857b2b3df343e71bdd8e)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt abweichend um 3:32 Uhr in Altglienicke
-* Der Zug fällt von Alexanderplatz bis Altglienicke aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schöneweide \> Flughafen BER – Terminal 1-2 ###
-
-18.07. (Di) 3:23 Uhr bis 3:50 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27548&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20669&tx_sbbconstructions_list%5Bperiod%5D=17091&type=5679&cHash=fb2c945f561f2504d252643ad288b9cd)
-
- Zugverkehr verändert
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) fährt von Schöneweide bis Flughafen BER – Terminal 1-2 ca. 5 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Grünau \> Schöneweide ###
-
-18.07. (Di) 3:41 Uhr bis 3:53 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&tx_sbbconstructions_list%5Bperiod%5D=17088&type=5679&cHash=e28e59b74cb63604546c3abf67005382)
-
- fährt nicht
-
-Information
-
-* Der Zug Grünau ab 3:41 Uhr nach Spandau (an 4:47 Uhr) beginnt erst um 3:53 Uhr in Schöneweide.
-* Der Zug fällt von Grünau bis Schöneweide aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -466,33 +331,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnhof-hegermuehle/#con-27239)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnhof-hegermuehle/#c28871)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Treptower Park \<\> Greifswalder Straße (gesamter Ring) ###
-
-Nacht 17./18.07. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27603&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20724&tx_sbbconstructions_list%5Bperiod%5D=17114&type=5679&cHash=666eb0241459fab55480e182c78ed3b1)
-
-Nacht 24./25.07. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27603&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20724&tx_sbbconstructions_list%5Bperiod%5D=17115&type=5679&cHash=35b94caa622283fdc6f23ce3d40ae1c3)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27603&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20724&type=5679&cHash=8fb9b1528cf15b3b3e68e7419bf43b28)
-
- Takt geändert
-
-Information
-
-* S-Bahn-Pendelverkehr: Ostkreuz \<\> Frankfurter Allee im 10-Minutentakt
-* Fahrplanänderung
-* Bahnsteig- und Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/aufbau-betonschalthaus-maschinelles-weichenschleifen/#con-27603)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -596,6 +434,27 @@ Information
   * In Waßmannsdorf fahren die S45 nach Treptower Park und die S9 nach Spandau von Gleis 1, Bahnsteig stadtauswärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Greifswalder Straße (gesamter Ring) ###
+
+Nacht 24./25.07. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27603&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20724&tx_sbbconstructions_list%5Bperiod%5D=17115&type=5679&cHash=35b94caa622283fdc6f23ce3d40ae1c3)
+
+ Takt geändert
+
+Information
+
+* S-Bahn-Pendelverkehr: Ostkreuz \<\> Frankfurter Allee im 10-Minutentakt
+* Fahrplanänderung
+* Bahnsteig- und Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/aufbau-betonschalthaus-maschinelles-weichenschleifen/#con-27603)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
