@@ -20,22 +20,6 @@ Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Gegenstände auf der Strecke in Schönhauser Allee beseitigt ###
-
- Letztes Update: 18:03 / 18.07.2023
-
-Information
-
-Nach Gegenständen auf der Strecke in Schönhauser Allee verkehrt die Linie S85 nicht.
-
-Bitte nutzen Sie zwischen Grünau und Pankow die Linie S8.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
