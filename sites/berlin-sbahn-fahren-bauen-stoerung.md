@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Schienenersatzverkehr Linie S1 ###
-
- Letztes Update: 10:12 / 18.07.2023
-
-Information
-
-Wegen eines Verkehrsunfalls im Bereich Frohnau und dem daraus resultierendem Stau verkehrt der Ersatzverkehr mit Bussen der Linie S1 mit Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
