@@ -4,15 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Gegenstände auf der Strecke in Schönhauser Allee ###
+### Polizeieinsatz wegen unbefugter Person auf der Strecke im Bereich Westkreuz beendet ###
 
- Letztes Update: 17:01 / 18.07.2023
+ Letztes Update: 18:18 / 18.07.2023
 
 Information
 
-Wegen Gegenständen auf der Strecke in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und einzelnen Ausfällen.
+Nach einer unbefugten Person auf der Strecke im Bereich Westkreuz (Ringbahn) kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+
+Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Gegenstände auf der Strecke in Schönhauser Allee beseitigt ###
+
+ Letztes Update: 18:03 / 18.07.2023
+
+Information
+
+Nach Gegenständen auf der Strecke in Schönhauser Allee verkehrt die Linie S85 nicht.
+
+Bitte nutzen Sie zwischen Grünau und Pankow die Linie S8.
 
 Wir bitten um Ihr Verständnis.
 
