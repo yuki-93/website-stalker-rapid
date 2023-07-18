@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz wegen unbefugter Person auf der Strecke im Bereich Westkreuz beendet ###
 
- Letztes Update: 18:18 / 18.07.2023
+ Letztes Update: 19:30 / 18.07.2023
 
 Information
 
-Nach einer unbefugten Person auf der Strecke im Bereich Westkreuz (Ringbahn) kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einer unbefugten Person auf der Strecke im Bereich Westkreuz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
 
 Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
