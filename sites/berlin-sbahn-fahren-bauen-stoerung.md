@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Schienenersatzverkehr Linie S1 ###
+
+ Letztes Update: 09:13 / 18.07.2023
+
+Information
+
+Wegen eines Verkehrsunfalls im Bereich Frohnau und dem daraus resultierendem Stau verkehrt der Ersatzverkehr mit Bussen der Linie S1 nur zwischen Birkenwerder und Oranienburg. Es kommt zu Verspätungen und Ausfällen.
+
+Zur weiträumigen Umfahrung nutzen Sie bitte auch den Ersatzverkehr mit Bussen der Linie S8 zwischen Birkenwerder und Pankow Heinersdorf und ab Bornholmer Straße die Linie S1 nach Frohnau.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
