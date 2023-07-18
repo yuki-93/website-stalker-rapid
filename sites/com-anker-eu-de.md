@@ -20,11 +20,11 @@ vorbestellen und 200€ sparen!
 
 [Limitiertes AngebotmasterBanner1](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-solarbank-a17c0?ref=masterBanner1)
 
-Jetzt zugreifen und bis zu 42% sparen!
+Anker 3-in-1 Ladewürfel mit MagSafe
 
-Sommer-Sale Finale
+Das perfekte Ladegerät für dein Apple-Ecosystem
 
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/members-exclusive-sale?ref=masterBanner2)
+[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/products/y1811?ref=masterBanner2)
 
 Das Anker-Erlebnis entdecken
 ----------
