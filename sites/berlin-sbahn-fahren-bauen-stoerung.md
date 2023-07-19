@@ -4,29 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz in Lichtenberg beendet ###
-
- Letztes Update: 18:58 / 19.07.2023
-
-Information
-
-Nach einem Polizeieinsatz in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### ärztliche Versorgung eines Fahrgastes in Landsberger Allee beendet ###
 
- Letztes Update: 18:13 / 19.07.2023
+ Letztes Update: 20:19 / 19.07.2023
 
 Information
 
-Nach der ärztliche Versorgung eines Fahrgastes im Zug in Landsberger Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Nach der ärztliche Versorgung eines Fahrgastes im Zug in Landsberger Allee kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
