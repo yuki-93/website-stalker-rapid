@@ -14,9 +14,12 @@ Search
 
 [](https://passport.anker.com/?app=ankerde)
 
+vorbestellen und **200€** sparen!
+
 Jetzt Anker SOLIX Solarbank
 
-vorbestellen und 200€ sparen!
+Akkuzellen mit 6000 Ladezyklen | 1600Wh
+800W Eingang-/Ausgangsleistung
 
 [Limitiertes AngebotmasterBanner1](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-solarbank-a17c0?ref=masterBanner1)
 
