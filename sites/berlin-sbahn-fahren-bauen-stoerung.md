@@ -6,23 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Notarzteinsatz auf der Strecke in Gesundbrunnen ###
+### Notarzteinsatz auf der Strecke in Gesundbrunnen beendet ###
 
- Letztes Update: 05:51 / 20.07.2023
+ Letztes Update: 06:51 / 20.07.2023
 
 Information
 
-Nach einem Notarzteinsatz auf der Strecke in Gesundbrunnen ist der Zugverkehr der Linien S41 und S42 zwischen Wedding \<\> Schönhauser Allee unterbrochen.
-
-\* Linie S41 verkehrt Schönhauser Allee \> Ostkreuz \> Südkreuz \> Wedding im 10-Minuten-Takt.
-
-\* Linie S42 verkehrt Wedding \> Südkreuz \> Ostkreuz \> Schönhauser Allee im 10-Minuten-Takt.
+Nach einem Notarzteinsatz auf der Strecke in Gesundbrunnen kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen..
 
 \* Linie S26 verkehrt nicht
 
 \* Linie S85 verkehrt nicht.
-
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
 
 Wir bitten um Verständnis.
 
