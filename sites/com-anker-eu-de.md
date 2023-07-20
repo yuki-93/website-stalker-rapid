@@ -391,7 +391,7 @@ Programme
 
 [Hot Deals](https://www.anker.com/eu-de/hot-deals?ref=footer)
 
-[Empfehlungsprogramm](https://www.anker.com/eu-de/empfehlungsprogramm?ref=footer)
+[10% Bargeldprämie](https://www.anker.com/eu-de/empfehlungsprogramm?ref=footer)
 
 [Studenten- & Lehrerrabatte](https://connect.studentbeans.com/v4/hosted/anker/de?ref=footer)
 
