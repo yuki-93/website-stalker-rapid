@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Wittenau wegen unbefugter Person auf der Strecke beendet ###
+### Polizeieinsatz zwischen Warschauer Straße und Ostkreuz beendet ###
 
- Letztes Update: 17:48 / 20.07.2023
+ Letztes Update: 18:48 / 20.07.2023
 
 Information
 
-Nach einem Polizeieinsatz in Wittenau wegen unbefugter Person auf der Strecke kommt es auf den Linien S1 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz zwischen Warschauer Straße und Ostkreuz bzw. Treptower Park kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
