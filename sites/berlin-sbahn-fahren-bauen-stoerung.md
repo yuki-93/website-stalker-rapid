@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Gesundbrunnen beendet ###
 
- Letztes Update: 06:51 / 20.07.2023
+ Letztes Update: 07:36 / 20.07.2023
 
 Information
 
@@ -16,11 +16,9 @@ Nach einem Notarzteinsatz auf der Strecke in Gesundbrunnen kommt es auf den Lini
 
 \* Linie S26 verkehrt nicht
 
-\* Linie S85 verkehrt nicht.
-
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Takt geändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
