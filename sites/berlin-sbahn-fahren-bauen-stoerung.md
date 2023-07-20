@@ -2,6 +2,38 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Notarzteinsatz auf der Strecke in Gesundbrunnen ###
+
+ Letztes Update: 05:16 / 20.07.2023
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Gesundbrunnen ist der Zugverkehr der Linien S41 und S42 zwischen Wedding \<\> Schönhauser Allee, sowie der Linien S1, S2, S25 und S26 zwischen Nordbahnhof \<\> Bornholmer Straße unterbrochen.
+
+\* Linie S1 verkehrt Wannsee \<\> Nordbahnhof sowie Bornholmer Straße \<\> Frohnau.
+
+\* Linie S2 verkehrt Blankenfelde/Lichtenrade \<\> Nordbahnhof sowie Bornholmer Straße \<\> Bernau.
+
+\* Linie S25 verkehrt Teltow Stadt \<\> Südkreuz sowie Bornholmer Straße \<\> Hennigsdorf.
+
+\* Linie S41 verkehrt Schönhauser Allee \> Ostkreuz \> Südkreuz \> Wedding im 10-Minuten-Takt.
+
+\* Linie S42 verkehrt Wedding \> Südkreuz \> Ostkreuz \> Schönhauser Allee im 10-Minuten-Takt.
+
+\* Linie S26 verkehrt nicht
+
+\* Linie S85 verkehrt nicht.
+
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)

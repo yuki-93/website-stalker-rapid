@@ -44,12 +44,6 @@ Das Anker-Erlebnis entdecken
 
   [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner2_2)
 
-* ### Je mehr du teilst, desto mehr verdienst du. ###
-
-  Verdiene Geld mit jedem Freund, den du empfiehlst
-
-  [Jetzt loslegenJe mehr du teilst, desto mehr verdienst du.](https://www.anker.com/eu-de/empfehlungsprogramm?ref=productBanner2_3)
-
 * ###
 
    ###
@@ -59,7 +53,13 @@ Das Anker-Erlebnis entdecken
   SOLIX RS40P | RS40
   600W/800W Mikro-Wechselrichter
 
-  [Mehr erfahren ,Das Upgrade auf 800W | Bis zu 490€ Rabatt](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_4)
+  [Mehr erfahren ,Das Upgrade auf 800W | Bis zu 490€ Rabatt](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_3)
+
+* ### 10% Bargeldprämie ###
+
+  Verdiene Geld mit jedem Freund, den du empfiehlst. Je mehr du teilst, desto mehr verdienst du.
+
+  [Jetzt loslegen10% Bargeldprämie](https://www.anker.com/eu-de/empfehlungsprogramm?ref=productBanner2_4)
 
 * ### Die Extraportion Power mit Ankers meistgekauften Ladegeräten  ###
 
