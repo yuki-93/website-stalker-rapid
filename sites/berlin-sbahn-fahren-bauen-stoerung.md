@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Notarzteinsatz auf der Strecke in Gesundbrunnen beendet ###
-
- Letztes Update: 07:36 / 20.07.2023
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Gesundbrunnen kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen..
-
-\* Linie S26 verkehrt nicht
-
-Wir bitten um Verständnis.
-
- Takt geändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
