@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz in Wittenau wegen unbefugter Person auf der Strecke beendet ###
+
+ Letztes Update: 17:48 / 20.07.2023
+
+Information
+
+Nach einem Polizeieinsatz in Wittenau wegen unbefugter Person auf der Strecke kommt es auf den Linien S1 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -74,7 +90,7 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27598&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20719&tx_sbbconstructions_list%5Bperiod%5D=17101&type=5679&cHash=107f77d7203adddcf91b7a65cb15b8bd)
 
- Zugverkehr verändert
+ Takt geändert
 
 Information
 
@@ -180,7 +196,7 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27598&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20719&tx_sbbconstructions_list%5Bperiod%5D=17101&type=5679&cHash=107f77d7203adddcf91b7a65cb15b8bd)
 
- Zugverkehr verändert
+ Takt geändert
 
 Information
 
@@ -402,7 +418,7 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27598&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20719&tx_sbbconstructions_list%5Bperiod%5D=17101&type=5679&cHash=107f77d7203adddcf91b7a65cb15b8bd)
 
- Zugverkehr verändert
+ Takt geändert
 
 Information
 
