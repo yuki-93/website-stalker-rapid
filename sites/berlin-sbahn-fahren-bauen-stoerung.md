@@ -78,6 +78,7 @@ Information
 
 Information
 
+* 20-Minutentakt zwischen Wartenberg und Warschauer Straße
 * veränderte Linienführung
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
@@ -183,6 +184,7 @@ Information
 
 Information
 
+* 20-Minutentakt zwischen Wartenberg und Warschauer Straße
 * veränderte Linienführung
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
@@ -404,6 +406,7 @@ Information
 
 Information
 
+* 20-Minutentakt zwischen Wartenberg und Warschauer Straße
 * veränderte Linienführung
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
