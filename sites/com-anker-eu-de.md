@@ -27,19 +27,19 @@ Akkuzellen mit 6000 Ladezyklen | 1600Wh
 
 Tage
 
-16
+15
 
 :
 
 Std.
 
-40
+34
 
 :
 
 Min.
 
-16
+46
 
 Sek.
 
