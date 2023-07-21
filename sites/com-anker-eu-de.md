@@ -14,12 +14,12 @@ Search
 
 [](https://passport.anker.com/?app=ankerde)
 
-vorbestellen und **200€** sparen!
+Jetzt vorbestellen und **200€** sparen!
 
 Anker SOLIX Solarbank
 
-Akkuzellen mit 6000 Ladezyklen | 1600Wh
-800W Eingang-/Ausgangsleistung
+Akku mit 1600Wh | 6000 Ladezyklen
+800W Eingangs-/Augangsleistung
 
 02
 
@@ -27,23 +27,23 @@ Akkuzellen mit 6000 Ladezyklen | 1600Wh
 
 Tage
 
-08
+07
 
 :
 
 Std.
 
-37
+39
 
 :
 
 Min.
 
-23
+53
 
 Sek.
 
-[Limitiertes AngebotmasterBanner1](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-solarbank-a17c0?ref=masterBanner1)
+[Zum limitierten AngebotmasterBanner1](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-solarbank-a17c0?ref=masterBanner1)
 
 Anker 3-in-1 Ladewürfel mit MagSafe
 
