@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Halensee ###
+
+ Letztes Update: 09:03 / 21.07.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Halensee kann es auf den Linien S42 und S46 zu Verspätungen und Ausfällen
+
+Linie S42 verkehrt im 10-Minuen-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
