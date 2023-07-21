@@ -2,20 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem anderem Zug in Rahnsdorf (Fernbahn) beendet ###
-
- Letztes Update: 10:38 / 21.07.2023
-
-Information
-
- Reparatur an einem anderem Zug in Rahnsdorf (Fernbahn) ist beendet. Der Zugverkehr auf der Linie S3 wurde wieder aufgenommen.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
