@@ -4,17 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem anderem Zug in Rahnsdorf (Fernbahn) ###
+
+ Letztes Update: 09:57 / 21.07.2023
+
+Information
+
+Wegen der Reparatur an einem anderem Zug in Rahnsdorf (Fernbahn) ist der Zugverkehr der Linie S3 zwischen Erkner und Friedrichshagen unterbrochen.
+
+Wir bitten um Entschuldigung
+
+ fährt nicht  Verbindung unterbrochen
+
 [S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einem Signal in Halensee ###
 
- Letztes Update: 09:03 / 21.07.2023
+ Letztes Update: 09:21 / 21.07.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Halensee kann es auf den Linien S42 und S46 zu Verspätungen und Ausfällen
+Wegen der Reparatur an einem Signal in Halensee kann es auf den Linien S42 und S46 zu Verspätungen und Ausfällen kommen.
 
-Linie S42 verkehrt im 10-Minuen-Takt.
+* Linie S42 verkehrt im 10-Minuen-Takt.
 
 Wir bitten um Entschuldigung.
 
