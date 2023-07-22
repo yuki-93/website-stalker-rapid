@@ -6,17 +6,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### defektes Stellwerk im Bereich Frankfurter Allee ###
+### defektes Stellwerk im Bereich Frankfurter Allee behoben ###
 
- Letztes Update: 16:59 / 22.07.2023
+ Letztes Update: 18:11 / 22.07.2023
 
 Information
 
-Wegen eines defekten Stellwerks im Bereich Frankfurter Allee ist der Zugverkehr der Linien S41, S42, S45, S46, S47, S8, S85 und S9 zwischen Schöneweide und Warschauer Straße/ Schönhauser Allee unterbrochen.
+Nach einem defekten Stellwerk im Bereich Frankfurter Allee kommt es auf Linien S41, S42, S45, S46, S47, S8 und S9 noch zu Verspätungen und Ausfällen.
 
-Bitte nutzen Sie zur weiträumigen andere Verkehrsmittel.
+Die Linie S85 fährt nicht.
 
 Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz zwischen Friedrichstraße und Hauptbahnhof beendet ###
+
+ Letztes Update: 18:07 / 22.07.2023
+
+Information
+
+Nach einem kurzzeitigen Polizeieinsatz (unbefugte Personen im Gleis) kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
 
  fährt nicht
 

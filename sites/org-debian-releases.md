@@ -26,7 +26,7 @@ three releases in active maintenance:
 >  stable
 
  distribution of Debian is version 12, codenamed  *bookworm*  .
-It was released on June 10th, 2023.
+It was initially released as version 12.0 on June 10th, 2023 and its latest update, version 12.1, was released on July 22nd, 2023.
 
 [testing](https://www.debian.org/releases/testing/)
 
