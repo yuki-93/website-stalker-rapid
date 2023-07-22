@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk im Bereich Frankfurter Allee ###
+
+ Letztes Update: 16:59 / 22.07.2023
+
+Information
+
+Wegen eines defekten Stellwerks im Bereich Frankfurter Allee ist der Zugverkehr der Linien S41, S42, S45, S46, S47, S8, S85 und S9 zwischen Schöneweide und Warschauer Straße/ Schönhauser Allee unterbrochen.
+
+Bitte nutzen Sie zur weiträumigen andere Verkehrsmittel.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
