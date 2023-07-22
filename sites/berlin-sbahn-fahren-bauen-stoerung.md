@@ -8,31 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk im Bereich Frankfurter Allee behoben ###
 
- Letztes Update: 18:11 / 22.07.2023
+ Letztes Update: 19:05 / 22.07.2023
 
 Information
 
-Nach einem defekten Stellwerk im Bereich Frankfurter Allee kommt es auf Linien S41, S42, S45, S46, S47, S8 und S9 noch zu Verspätungen und Ausfällen.
+Nach einem defekten Stellwerk im Bereich Frankfurter Allee kommt es auf Linien S41, S42, S45, S46, S47, S8 und S9 noch zu vereinzelten Verspätungen und Ausfällen.
 
 Die Linie S85 fährt nicht.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz zwischen Friedrichstraße und Hauptbahnhof beendet ###
-
- Letztes Update: 18:07 / 22.07.2023
-
-Information
-
-Nach einem kurzzeitigen Polizeieinsatz (unbefugte Personen im Gleis) kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
 
 ### Baumaßnahmen ###
 
