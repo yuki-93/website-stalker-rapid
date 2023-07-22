@@ -21,25 +21,25 @@ Anker SOLIX Solarbank
 Akku mit 1600Wh | 6000 Ladezyklen
 800W Eingangs-/Augangsleistung
 
-01
+00
 
 :
 
 Tage
 
-00
+23
 
 :
 
 Std.
 
-45
+40
 
 :
 
 Min.
 
-42
+49
 
 Sek.
 
