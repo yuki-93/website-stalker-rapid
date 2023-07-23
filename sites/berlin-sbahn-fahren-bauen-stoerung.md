@@ -4,6 +4,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur am Zug in Oranienburger Straße ###
+
+ Letztes Update: 13:09 / 23.07.2023
+
+Information
+
+Wegen der Reparatur am Zug in Oranienburger Straße ist der Zugverkehr der Linien S1, S2 und S25 zwischen Potsdamer Platz \<\> Oranienburger Straße unterbrochen.
+
+\* Linie S1 verkehrt Wannsee \<\> Potsdamer Platz sowie Potsdamer Platz \<\> Frohnau.
+
+\* Linie S2 verkehrt Blankenfelde \<\> Potsdamer Platz (Lichtenrade\<\> Südkreuz im 10-Minuten-Takt) sowie Nordbahnhof \<\> Bernau (Gesundbrunnen\<\>Buch 10-Minuten-Takt)
+
+\* Linie S25 verkehrt Teltow Stadt \<\> Südkreuz sowie Nordbahnhof \<\> Hennigsdorf
+
+\* Linie S26 verkehrt nicht.
+
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### defektes Stellwerk im Bereich Frankfurter Allee ###
