@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### defektes Stellwerk im Bereich Frankfurter Allee ###
-
- Letztes Update: 17:14 / 23.07.2023
-
-Information
-
-Wegen eines defekten Stellwerks im Bereich Frankfurter Allee verkehrt die Linie S85 nicht.
-
-Bitte benutzen Sie zwischen Schöneweide und Pankow die Linie S8.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
