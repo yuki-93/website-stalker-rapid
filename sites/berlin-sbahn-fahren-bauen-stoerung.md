@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur am Zug in Oranienburger Straße beendet ###
-
- Letztes Update: 15:33 / 23.07.2023
-
-Information
-
-Nach der Reparatur am Zug in Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### defektes Stellwerk im Bereich Frankfurter Allee ###
 
- Letztes Update: 06:53 / 23.07.2023
+ Letztes Update: 17:14 / 23.07.2023
 
 Information
 
-Wegen einem defekten Stellwerk im Bereich Frankfurter Allee verkehrt die Linie S85 nicht.
+Wegen eines defekten Stellwerks im Bereich Frankfurter Allee verkehrt die Linie S85 nicht.
 
 Bitte benutzen Sie zwischen Schöneweide und Pankow die Linie S8.
 
