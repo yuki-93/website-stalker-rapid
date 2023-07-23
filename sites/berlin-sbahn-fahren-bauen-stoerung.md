@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Zug in Oranienburger Straße beendet ###
 
- Letztes Update: 13:41 / 23.07.2023
+ Letztes Update: 15:33 / 23.07.2023
 
 Information
 
 Nach der Reparatur am Zug in Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-\* Linie S26 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
