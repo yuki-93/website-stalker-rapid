@@ -109,23 +109,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-48610c5382/#con-27391)
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Waßmannsdorf ###
-
-Nacht 22./23.07. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27606&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20726&tx_sbbconstructions_list%5Bperiod%5D=17119&type=5679&cHash=dbb88ae41b6eb2b3ba4b735cbc1aac63)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung:
-  * In Waßmannsdorf fahren die S45 nach Treptower Park und die S9 nach Spandau von Gleis 1, Bahnsteig stadtauswärts.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
