@@ -27,19 +27,19 @@ Akku mit 1600Wh | 6000 Ladezyklen
 
 Tage
 
-13
+12
 
 :
 
 Std.
 
-38
+43
 
 :
 
 Min.
 
-03
+23
 
 Sek.
 
