@@ -2,6 +2,27 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Unfall am Bahnübergang Grünbergallee ###
+
+ Letztes Update: 10:08 / 24.07.2023
+
+Information
+
+Wegen eines Unfalles am Bahnübergang in Grünbergallee ist der Zugverkehr der Linien S45 und S9 zwischen Altglienicke und Flughafen BER T5 unterbrochen.
+
+* Die Linie S45 verkehrt zwischen Südkreuz und Grünau sowie Flughafen BER T5 und Flughafen BER T1-2.
+* Die Linie S9 verkehrt zwischen Spandau und Altglienicke.
+
+*Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG sowie den Regionalverkehr.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
