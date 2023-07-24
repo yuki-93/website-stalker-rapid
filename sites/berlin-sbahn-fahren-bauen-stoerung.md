@@ -8,16 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### witterungsbedingte Beeinträchtigungen im gesamten S-Bahnnetz ###
 
- Letztes Update: 23:44 / 24.07.2023
+ Letztes Update: 00:47 / 25.07.2023
 
 Information
 
 Wegen witterungsbedingter Beeinträchtigungen (umgestürzte Bäume) kommt es im gesamten S-Bahnnetz zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **S1 und S25**: kein Zugverkehr zwischen Gesundbrunnen \<\> Wollankstraße
 * **S41, S42 und S8**: kein Zugverkehr zwischen Gesundbrunnen \<\> Greifswalder Straße
-* **S2 und S8**: kein Zugverkehr zwischen Gesundbrunnen \<\> Blankenburg
-* **S5**: kein Zugverkehr zwischen Hoppegarten \<\> Fredersdorf, *ein Ersatzverkehr mit einem Bus ist zwischen Hoppegarten und Fredersdorf eingerichtet*
+* **S5**: kein Zugverkehr zwischen Hoppegarten \<\> Fredersdorf
 
 **Beachten Sie bitte**, dass es auch bei den Zügen des Regional- und Fernverkehrs sowie den Verkehrsmitteln der BVG zu Verspätungen und Ausfällen kommen kann.
 
