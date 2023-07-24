@@ -85,13 +85,13 @@ Das Anker-Erlebnis entdecken
 
   [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner2_8)
 
-* ###  Anker 757 PowerHouse ###
+* ### Anker SOLIX F1200(PowerHouse 757) ###
 
   ### 1299Wh | 1500W ###
 
   Langlebige Stromquelle für zuhause & unterwegs
 
-  [Jetzt kaufen Anker 757 PowerHouse,1299Wh | 1500W](https://www.anker.com/eu-de/products/a1770?ref=productBanner2_9)
+  [Jetzt kaufenAnker SOLIX F1200(PowerHouse 757),1299Wh | 1500W](https://www.anker.com/eu-de/products/a1770?ref=productBanner2_9)
 
 * ### Anker Solar Generator ###
 
