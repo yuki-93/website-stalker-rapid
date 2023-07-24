@@ -4,6 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S5](https://sbahn.berlin/fahren/s5/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### witterungsbedingte Beeinträchtigungen im gesamten S-Bahnnetz ###
+
+ Letztes Update: 23:15 / 24.07.2023
+
+Information
+
+Wegen witterungsbedingter Beeinträchtigungen (umgestürzte Bäume) kommt es im gesamten S-Bahnnetz zu Verspätungen und nachfolgenden Einschränkungen:
+
+* **S41, S42 und S8**: kein Zugverkehr zwischen Gesundbrunnen \<\> Greifswalder Straße
+* **S1 und S25**: kein Zugverkehr zwischen Gesundbrunnen \<\> Wollankstraße
+* **S2 und S8**: kein Zugverkehr zwischen Gesundbrunnen \<\> Blankenburg
+* **S5**: kein Zugverkehr zwischen Hoppegarten \<\> Fredersdorf, *ein Ersatzverkehr mit einem Bus ist zwischen Hoppegarten und Fredersdorf eingerichtet*
+
+**Beachten Sie bitte**, dass es auch bei den Zügen des Regional- und Fernverkehrs sowie den Verkehrsmitteln der BVG zu Verspätungen und Ausfällen kommen kann.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristige Bauarbeiten in Wannsee ###
@@ -24,29 +45,6 @@ Bitte planen Sie durch die verlängerten Umsteigewege in Wannsee eine Fahrzeitve
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### witterungsbedingte Beeinträchtigungen im gesamten S-Bahnnetz ###
-
- Letztes Update: 21:41 / 24.07.2023
-
-Information
-
-Wegen witterungsbedingter Beeinträchtigungen (umgestürzte Bäume) kommt es im gesamten S-Bahnnetz zu Verspätungen und nachfolgenden Einschränkungen:
-
-* **S41 und S42**: Zugverkehr zwischen Gesundbrunnen \<\> Westend unterbrochen.
-* **S41, S42 und S8**: Zugverkehr Gesundbrunnen \<\> Greifswalder Straße unterbrochen.
-* **S1 und S25**: Zugverkehr zwischen Gesundbrunnen \<\> Wollankstraße unterbrochen.
-* **S2 und S8**: Zugverkehr zwischen Gesundbrunnen \<\> Blankenburg unterbrochen.
-* **S45 und S9**: Zugverkehr zwischen Adlershof \<\> Altglienicke unterbrochen.
-* **S5**: Zugverkehr zwischen Hoppegarten \<\> Fredersdorf unterbrochen.
-
-**Beachten Sie bitte**, dass es auch bei den Zügen des Regional- und Fernverkehrs sowie den Verkehrsmitteln der BVG zu Verspätungen und Ausfällen kommen kann.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
