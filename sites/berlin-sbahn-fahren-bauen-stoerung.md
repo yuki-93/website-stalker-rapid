@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### witterungsbedingte Störungen(Bäume im Gleis) ###
 
- Letztes Update: 20:24 / 24.07.2023
+ Letztes Update: 20:58 / 24.07.2023
 
 Information
 
-Wegen witterungsbedingter Störungen (umgestürzte Bäume) kommt es im gesamten S-Bahnnetz zu folgenden Einschränkungen.
-
- \* Zugverkehr zwischen Friedrichstraße \<\> Zoologischer Garten unterbrochen.
+Wegen witterungsbedingter Störungen (umgestürzte Bäume) kommt es im gesamten S-Bahnnetz zu folgenden Einschränkungen:
 
  \* Zugverkehr zwischen Gesundbrunnen \<\> Westend unterbrochen.
 
