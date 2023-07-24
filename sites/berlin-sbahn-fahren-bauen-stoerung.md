@@ -8,16 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Unfall am Bahnübergang Grünbergallee ###
 
- Letztes Update: 10:08 / 24.07.2023
+ Letztes Update: 11:13 / 24.07.2023
 
 Information
 
 Wegen eines Unfalles am Bahnübergang in Grünbergallee ist der Zugverkehr der Linien S45 und S9 zwischen Altglienicke und Flughafen BER T5 unterbrochen.
 
 * Die Linie S45 verkehrt zwischen Südkreuz und Grünau sowie Flughafen BER T5 und Flughafen BER T1-2.
-* Die Linie S9 verkehrt zwischen Spandau und Altglienicke.
+* Die Linie S9 verkehrt zwischen Spandau und Altglienicke
 
-*Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG sowie den Regionalverkehr.*
+*Ein Ersatzverkehr mit Bussen ist zwischen Grünau \<\> Grünbergallee \<\>* Flughafen BER T5 eingerichtet.
+**Haltestellen des Ersatzverkehrs:**
+
+* S Grünau: Richterstraße (Bahnhofsvorplatz)
+* S Grünbergallee: Grünbergallee Ecke Am Seegraben
+* S Flughafen BER T5: Bushaltestelle am Terminal (Bus X7, X71, 164, 171, 741
+
+*Bitte nutzen Sie zur weiträumigen Umfahrung auch die Verkehrsmittel der BVG (Bus 163 ab/nach Grünau sowie 164 ab/nach Adlershof ) und den Regionalverkehr zwischen Ostkreuz/ Schöneweide und* Flughafen BER T1-2 / 5 (RB24, 32 sowie FEX).
 
 Wir bitten um Ihr Verständnis.
 
@@ -667,127 +674,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)
 
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \> Grunewald ###
-
-01.08. (Di) bis 04.08. (Fr), jeweils 1:17 Uhr bis 1:35
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20721&tx_sbbconstructions_list%5Bperiod%5D=17104&type=5679&cHash=a5643d50235a082cb56a82fdede10892)
-
-10.08. (Do), 1:17 Uhr bis 1:35
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20721&tx_sbbconstructions_list%5Bperiod%5D=17105&type=5679&cHash=7e2bfa89dbc6792d6ea4402bed2c5d04)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20721&type=5679&cHash=c1dd67f804b3db4b342e8857a683579c)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 0:29 Uhr nach Grunewald (an 1:35 Uhr) endet bereits um 1:17 Uhr in Friedrichstraße.
-* Der Zug fällt von Friedrichstraße bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \> Grunewald ###
-
-01.08. (Di) bis 04.08. (Fr), jeweils 1:37 Uhr bis 1:55
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19235&tx_sbbconstructions_list%5Bperiod%5D=17106&type=5679&cHash=1c198b05eb1e7351107b9db0a4dfc049)
-
-10.08. (Do), 1:37 Uhr bis 1:55
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19235&tx_sbbconstructions_list%5Bperiod%5D=17107&type=5679&cHash=8127f05cf9d630b9b4a334358e4bb4ea)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19235&type=5679&cHash=be17200c3c926bf82f313b44975e3e4d)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:37 Uhr in Friedrichstraße.
-* Der Zug fällt von Friedrichstraße bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Friedrichstraße ###
-
-01.08. (Di) bis 04.08. (Fr), jeweils 3:02 Uhr bis 3:16
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13957&tx_sbbconstructions_list%5Bperiod%5D=17108&type=5679&cHash=6b65bdbf8899730a7f2d66d90dd85b54)
-
-10.08. (Do), 3:02 Uhr bis 3:16
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13957&tx_sbbconstructions_list%5Bperiod%5D=17109&type=5679&cHash=28535f5c8b2129c1aee61825f45b667a)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13957&type=5679&cHash=411c45259179252bcf932b2b7fb9f7cf)
-
- fährt nicht
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) beginnt erst um 3:16 Uhr in Friedrichstraße.
-* Der Zug fällt von Charlottenburg bis Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Friedrichstraße ###
-
-01.08. (Di) bis 04.08. (Fr), jeweils 3:12 Uhr bis 3:28
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&tx_sbbconstructions_list%5Bperiod%5D=17110&type=5679&cHash=30c3919dd263f106d9b9f3a6464060f1)
-
-10.08. (Do), 3:12 Uhr bis 3:28
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&tx_sbbconstructions_list%5Bperiod%5D=17111&type=5679&cHash=f3dadd1a333d8eec64fd65fa2fc8717b)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&type=5679&cHash=1f6010ee0c1d07c62bee48495e23adf1)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:28 Uhr in Friedrichstraße.
-* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Flughafen BER – Terminal 1-2 ###
-
-01.08. (Di) bis 04.08. (Fr), jeweils 3:32 Uhr bis 4:36
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27602&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20723&tx_sbbconstructions_list%5Bperiod%5D=17112&type=5679&cHash=cb283f96445e6d19a57216da3d0e48ba)
-
-10.08. (Do), 3:32 Uhr bis 4:36
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27602&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20723&tx_sbbconstructions_list%5Bperiod%5D=17113&type=5679&cHash=85aa52750af04ad7dca0cd970300aa7f)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27602&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20723&type=5679&cHash=caed07f39b70e12b44ed6f6ac58956d4)
-
- Zugverkehr verändert
-
-Information
-
-* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) fährt ca. 10 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 Hinweis
 
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
@@ -1093,15 +979,9 @@ Information
 
 ### Friedrichstraße \> Grunewald ###
 
-01.08. (Di) bis 04.08. (Fr), jeweils 1:17 Uhr bis 1:35
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20721&tx_sbbconstructions_list%5Bperiod%5D=17104&type=5679&cHash=a5643d50235a082cb56a82fdede10892)
-
 10.08. (Do), 1:17 Uhr bis 1:35
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20721&tx_sbbconstructions_list%5Bperiod%5D=17105&type=5679&cHash=7e2bfa89dbc6792d6ea4402bed2c5d04)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20721&type=5679&cHash=c1dd67f804b3db4b342e8857a683579c)
 
  fährt nicht
 
@@ -1117,15 +997,9 @@ Information
 
 ### Friedrichstraße \> Grunewald ###
 
-01.08. (Di) bis 04.08. (Fr), jeweils 1:37 Uhr bis 1:55
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19235&tx_sbbconstructions_list%5Bperiod%5D=17106&type=5679&cHash=1c198b05eb1e7351107b9db0a4dfc049)
-
 10.08. (Do), 1:37 Uhr bis 1:55
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19235&tx_sbbconstructions_list%5Bperiod%5D=17107&type=5679&cHash=8127f05cf9d630b9b4a334358e4bb4ea)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19235&type=5679&cHash=be17200c3c926bf82f313b44975e3e4d)
 
  fährt nicht
 
@@ -1141,15 +1015,9 @@ Information
 
 ### Charlottenburg \> Friedrichstraße ###
 
-01.08. (Di) bis 04.08. (Fr), jeweils 3:02 Uhr bis 3:16
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13957&tx_sbbconstructions_list%5Bperiod%5D=17108&type=5679&cHash=6b65bdbf8899730a7f2d66d90dd85b54)
-
 10.08. (Do), 3:02 Uhr bis 3:16
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13957&tx_sbbconstructions_list%5Bperiod%5D=17109&type=5679&cHash=28535f5c8b2129c1aee61825f45b667a)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13957&type=5679&cHash=411c45259179252bcf932b2b7fb9f7cf)
 
  fährt nicht
 
@@ -1165,15 +1033,9 @@ Information
 
 ### Westkreuz \> Friedrichstraße ###
 
-01.08. (Di) bis 04.08. (Fr), jeweils 3:12 Uhr bis 3:28
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&tx_sbbconstructions_list%5Bperiod%5D=17110&type=5679&cHash=30c3919dd263f106d9b9f3a6464060f1)
-
 10.08. (Do), 3:12 Uhr bis 3:28
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&tx_sbbconstructions_list%5Bperiod%5D=17111&type=5679&cHash=f3dadd1a333d8eec64fd65fa2fc8717b)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&type=5679&cHash=1f6010ee0c1d07c62bee48495e23adf1)
 
  fährt nicht
 
@@ -1189,15 +1051,9 @@ Information
 
 ### Westkreuz \> Flughafen BER – Terminal 1-2 ###
 
-01.08. (Di) bis 04.08. (Fr), jeweils 3:32 Uhr bis 4:36
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27602&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20723&tx_sbbconstructions_list%5Bperiod%5D=17112&type=5679&cHash=cb283f96445e6d19a57216da3d0e48ba)
-
 10.08. (Do), 3:32 Uhr bis 4:36
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27602&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20723&tx_sbbconstructions_list%5Bperiod%5D=17113&type=5679&cHash=85aa52750af04ad7dca0cd970300aa7f)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27602&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20723&type=5679&cHash=caed07f39b70e12b44ed6f6ac58956d4)
 
  Zugverkehr verändert
 
