@@ -2,6 +2,34 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### kurzfristige Bauarbeiten in Wannsee ###
+
+ Letztes Update: 16:17 / 24.07.2023
+
+Information
+
+Wegen kurzfristigen Bauarbeiten in Wannsee kommt es **heute ab ca. 23:00 Uhr bis Betriebsschluss** auf den Linien S1 und S7 zu folgenden Änderungen im Zugverkehr:
+
+• **Linie S1:**
+
+ ­**-** die Züge enden/beginnen in Wannsee auf Gleis 1 und 2
+
+• **Linie S7:**
+
+ **\-** die Züge nach Potsdam Hauptbahnhof fahren abweichend von Gleis 4
+
+**Somit ist beim Umstieg zwischen den Linien S1 und S7 in beiden Fahrtrichtungen ein Bahnsteigwechsel erforderlich. Der Bahnhof Wannsee ist barrierefrei ausgestattet.**
+
+Bitte planen Sie durch die verlängerten Umsteigewege in Wannsee eine Fahrzeitverlängerung ein.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
