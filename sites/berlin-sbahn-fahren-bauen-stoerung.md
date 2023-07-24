@@ -4,47 +4,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### witterungsbedingte Störungen(Bäume im Gleis) ###
-
- Letztes Update: 20:58 / 24.07.2023
-
-Information
-
-Wegen witterungsbedingter Störungen (umgestürzte Bäume) kommt es im gesamten S-Bahnnetz zu folgenden Einschränkungen:
-
- \* Zugverkehr zwischen Gesundbrunnen \<\> Westend unterbrochen.
-
- \* Zugverkehr zwischen Gesundbrunnen \<\> Schönholz unterbrochen.
-
- \* Zugverkehr zwischen Gesundbrunnen \<\> Blankenburg unterbrochen.
-
- \* Zugverkehr zwischen Adlershof \<\> Altglienicke unterbrochen.
-
- \* Zugverkehr zwischen Hoppegarten \<\> Fredersdorf unterbrochen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristige Bauarbeiten in Wannsee ###
 
- Letztes Update: 16:17 / 24.07.2023
+ Letztes Update: 22:02 / 24.07.2023
 
 Information
 
-Wegen kurzfristigen Bauarbeiten in Wannsee kommt es **heute ab ca. 23:00 Uhr bis Betriebsschluss** auf den Linien S1 und S7 zu folgenden Änderungen im Zugverkehr:
+Wegen kurzfristiger Bauarbeiten in Wannsee kommt es **heute ab ca. 23:00 Uhr bis Betriebsschluss** auf den Linien S1 und S7 zu folgenden Änderungen im Zugverkehr:
 
-• **Linie S1:**
-
- ­**-** die Züge enden/beginnen in Wannsee auf Gleis 1 und 2
-
-• **Linie S7:**
-
- **\-** die Züge nach Potsdam Hauptbahnhof fahren abweichend von Gleis 4
+* **Linie S1:** die Züge enden/ beginnen in Wannsee auf Gleis 1 und 2.
+* **Linie S7:** die Züge nach Potsdam Hauptbahnhof fahren abweichend von Gleis 4.
 
 **Somit ist beim Umstieg zwischen den Linien S1 und S7 in beiden Fahrtrichtungen ein Bahnsteigwechsel erforderlich. Der Bahnhof Wannsee ist barrierefrei ausgestattet.**
 
@@ -53,6 +24,29 @@ Bitte planen Sie durch die verlängerten Umsteigewege in Wannsee eine Fahrzeitve
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### witterungsbedingte Beeinträchtigungen im gesamten S-Bahnnetz ###
+
+ Letztes Update: 21:41 / 24.07.2023
+
+Information
+
+Wegen witterungsbedingter Beeinträchtigungen (umgestürzte Bäume) kommt es im gesamten S-Bahnnetz zu Verspätungen und nachfolgenden Einschränkungen:
+
+* **S41 und S42**: Zugverkehr zwischen Gesundbrunnen \<\> Westend unterbrochen.
+* **S41, S42 und S8**: Zugverkehr Gesundbrunnen \<\> Greifswalder Straße unterbrochen.
+* **S1 und S25**: Zugverkehr zwischen Gesundbrunnen \<\> Wollankstraße unterbrochen.
+* **S2 und S8**: Zugverkehr zwischen Gesundbrunnen \<\> Blankenburg unterbrochen.
+* **S45 und S9**: Zugverkehr zwischen Adlershof \<\> Altglienicke unterbrochen.
+* **S5**: Zugverkehr zwischen Hoppegarten \<\> Fredersdorf unterbrochen.
+
+**Beachten Sie bitte**, dass es auch bei den Zügen des Regional- und Fernverkehrs sowie den Verkehrsmitteln der BVG zu Verspätungen und Ausfällen kommen kann.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
