@@ -85,30 +85,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/hallendachsanierung-in-ostbahnhof-die-gleise-9-10-sind-gesperrt/#con-27598)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-Nur Wochenende
-
-### Treptower Park \<\> Tempelhof ###
-
-21.07. (Fr), ca. 21.45 Uhr durchgehend bis 24.07. (Mo), ca. 01.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27391&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20500&tx_sbbconstructions_list%5Bperiod%5D=17063&type=5679&cHash=0801188e3e788452b62857e876d80172)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr: Baumschulenweg/Treptower Park \<\> Tempelhof
-  * Fahrgäste in der Relation Schöneweide \<\> Neukölln steigen bitte zwischen der S45, S46 oder S47 und dem Ersatzverkehr mit Bussen S41/S42 in Plänterwald um.
-
-* Ersatzverkehr mit Bussen: Treptower Park \<\> Tempelhof
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-48610c5382/#con-27391)
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
