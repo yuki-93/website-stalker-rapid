@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Unwetterauswirkungen vom 24.07.2023 in Frohnau ###
 
- Letztes Update: 08:07 / 25.07.2023
+ Letztes Update: 09:15 / 25.07.2023
 
 Information
 
@@ -17,6 +17,13 @@ Nach Unwetterauswirkungen vom 24.07.2023 (umgestürzter Baum) in Frohnau kommt e
 Linie S1 verkehrt Wannsee \<\> Waidmannslust
 
 * der 10-Minuten-Takt auf der Linie S1 wird zwischen Wannsee und Nordbahnhof angeboten.
+
+Ein Ersatzverkehr mit Bussen ist eingerichtet,
+
+Haltestellen des Ersatzverkehrs;
+
+* Frohnau - Frohnauer Brücke (Haltestelle Busse 125, 220, N20)
+* Weidmannlust - Jean-Janus-Straße (Haltestelle Bus 322)
 
 Wir bitten um Verständnis.
 
