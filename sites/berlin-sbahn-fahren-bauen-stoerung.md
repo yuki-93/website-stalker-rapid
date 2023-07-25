@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Frankfurter Allee beendet ###
 
- Letztes Update: 19:05 / 25.07.2023
+ Letztes Update: 19:49 / 25.07.2023
 
 Information
 
 Nach einem Polizeieinsatz in Frankfurter Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+
+\* Die Linie S85 verkehrt nicht.
 
 Wir bitten um Verständnis.
 
@@ -20,13 +22,13 @@ Wir bitten um Verständnis.
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur am Zug in Nöldnerplatz ###
+### Reparatur am Zug in Nöldnerplatz beendet ###
 
- Letztes Update: 18:52 / 25.07.2023
+ Letztes Update: 19:23 / 25.07.2023
 
 Information
 
-Wegen der Reparatur am Zug in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
+Nach der Reparatur am Zug in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
