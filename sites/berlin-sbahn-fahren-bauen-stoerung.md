@@ -4,21 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz in Frankfurter Allee beendet ###
+### unbefugte Personen auf der Strecke im Bereich Biesdorfer Kreuz ###
 
- Letztes Update: 19:49 / 25.07.2023
+ Letztes Update: 22:09 / 25.07.2023
 
 Information
 
-Nach einem Polizeieinsatz in Frankfurter Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+Wegen unbefugter Personen auf der Strecke im Bereich Biesdorfer Kreuz ist der Zugverkehr der Linie S7 zwischen Ahrensfelde und Springpfuhl **sowie** der Linie S75 zwischen Wartenberg und Springpfuhl unterbrochen.
 
-\* Die Linie S85 verkehrt nicht.
+* Die Linie **S7** fährt Friedrichsfelde Ost \<\> Potsdam Hauptbahnhof.
+* Die Linie **S75** verkehrt nicht.
 
-Wir bitten um Verständnis.
+---
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Wartenberg \<\> Hohenschönhausen \<\> Lichtenberg die Buslinie 256
+* zwischen S-Bhf. Hohenschönhausen und S-Bhf. Friedrichsfelde Ost die Tramlinie M17
+* zwischen S-Bhf. Springpfuhl und Allee der Kosmonauten/ Rhinstr. die Tramlinie M8 ***sowie*** zwischen Allee der Kosmonauten/ Rhinstr. und S-Bhf. Friedrichsfelde Ost die Tramlinien M17 und 27
+* zwischen S-Bhf. Marzahn und Landsberger Allee/ Rhinstr. die Tramlinie M6 ***sowie*** zwischen Landsberger Allee/ Rhinstr. und S-Bhf. Friedrichsfelde Ost die Tramlinien M17 und 27
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
