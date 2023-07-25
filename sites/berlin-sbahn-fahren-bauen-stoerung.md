@@ -2,48 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Unwetterauswirkungen vom 24.07.2023 in Frohnau ###
-
- Letztes Update: 11:07 / 25.07.2023
-
-Information
-
-Nach Unwetterauswirkungen vom 24.07.2023 (umgestürzter Baum) in Frohnau ist der Zugverkehr verändert.
-
-Linie S1 verkehrt Wannsee \<\> Waidmannslust
-
-* der 10-Minuten-Takt auf der Linie S1 wird zwischen Wannsee und Nordbahnhof angeboten.
-
-Ein Ersatzverkehr mit Bussen ist eingerichtet,
-
-Haltestellen des Ersatzverkehrs;
-
-* Frohnau - Frohnauer Brücke (Haltestelle Bus 125, 220, N20)
-* Hermsdorf - vor dem Bahnhof (Haltestelle Bus 326, 806, 809)
-* Waidmannslust - Jean-Jaurès-Str. (Haltestelle Bus 322)
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke Hauptbahnhof und Friedrichstraße) ###
-
- Letztes Update: 10:51 / 25.07.2023
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke Hauptbahnhof und Friedrichstraße) kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
