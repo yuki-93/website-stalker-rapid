@@ -2,34 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### unbefugte Personen auf der Strecke im Bereich Biesdorfer Kreuz ###
-
- Letztes Update: 22:09 / 25.07.2023
-
-Information
-
-Wegen unbefugter Personen auf der Strecke im Bereich Biesdorfer Kreuz ist der Zugverkehr der Linie S7 zwischen Ahrensfelde und Springpfuhl **sowie** der Linie S75 zwischen Wartenberg und Springpfuhl unterbrochen.
-
-* Die Linie **S7** fährt Friedrichsfelde Ost \<\> Potsdam Hauptbahnhof.
-* Die Linie **S75** verkehrt nicht.
-
----
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Wartenberg \<\> Hohenschönhausen \<\> Lichtenberg die Buslinie 256
-* zwischen S-Bhf. Hohenschönhausen und S-Bhf. Friedrichsfelde Ost die Tramlinie M17
-* zwischen S-Bhf. Springpfuhl und Allee der Kosmonauten/ Rhinstr. die Tramlinie M8 ***sowie*** zwischen Allee der Kosmonauten/ Rhinstr. und S-Bhf. Friedrichsfelde Ost die Tramlinien M17 und 27
-* zwischen S-Bhf. Marzahn und Landsberger Allee/ Rhinstr. die Tramlinie M6 ***sowie*** zwischen Landsberger Allee/ Rhinstr. und S-Bhf. Friedrichsfelde Ost die Tramlinien M17 und 27
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
