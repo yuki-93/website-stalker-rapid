@@ -2,48 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S5](https://sbahn.berlin/fahren/s5/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### witterungsbedingte Beeinträchtigungen im gesamten S-Bahnnetz ###
-
- Letztes Update: 00:47 / 25.07.2023
-
-Information
-
-Wegen witterungsbedingter Beeinträchtigungen (umgestürzte Bäume) kommt es im gesamten S-Bahnnetz zu Verspätungen und nachfolgenden Einschränkungen:
-
-* **S41, S42 und S8**: kein Zugverkehr zwischen Gesundbrunnen \<\> Greifswalder Straße
-* **S5**: kein Zugverkehr zwischen Hoppegarten \<\> Fredersdorf
-
-**Beachten Sie bitte**, dass es auch bei den Zügen des Regional- und Fernverkehrs sowie den Verkehrsmitteln der BVG zu Verspätungen und Ausfällen kommen kann.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### kurzfristige Bauarbeiten in Wannsee ###
-
- Letztes Update: 22:02 / 24.07.2023
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Wannsee kommt es **heute ab ca. 23:00 Uhr bis Betriebsschluss** auf den Linien S1 und S7 zu folgenden Änderungen im Zugverkehr:
-
-* **Linie S1:** die Züge enden/ beginnen in Wannsee auf Gleis 1 und 2.
-* **Linie S7:** die Züge nach Potsdam Hauptbahnhof fahren abweichend von Gleis 4.
-
-**Somit ist beim Umstieg zwischen den Linien S1 und S7 in beiden Fahrtrichtungen ein Bahnsteigwechsel erforderlich. Der Bahnhof Wannsee ist barrierefrei ausgestattet.**
-
-Bitte planen Sie durch die verlängerten Umsteigewege in Wannsee eine Fahrzeitverlängerung ein.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -126,27 +84,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/hallendachsanierung-in-ostbahnhof-die-gleise-9-10-sind-gesperrt/#con-27598)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Treptower Park \<\> Greifswalder Straße (gesamter Ring) ###
-
-Nacht 24./25.07. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27603&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20724&tx_sbbconstructions_list%5Bperiod%5D=17115&type=5679&cHash=35b94caa622283fdc6f23ce3d40ae1c3)
-
- Takt geändert
-
-Information
-
-* S-Bahn-Pendelverkehr: Ostkreuz \<\> Frankfurter Allee im 10-Minutentakt
-* Fahrplanänderung
-* Bahnsteig- und Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/aufbau-betonschalthaus-maschinelles-weichenschleifen/#con-27603)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
