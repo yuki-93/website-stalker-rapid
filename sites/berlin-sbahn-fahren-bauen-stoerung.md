@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Notarzteinsatz auf der Strecke in Jannowitzbrücke ###
+
+ Letztes Update: 01:02 / 26.07.2023
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Jannowitzbrücke ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Ostbahnhof und Alexanderplatz unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
