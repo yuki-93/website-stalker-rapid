@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Gegenstände auf der Strecke Warschauer Straße ###
+
+ Letztes Update: 16:16 / 26.07.2023
+
+Information
+
+Wegen Gegenständen auf der Strecke in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und eventuellen Zugausfällen.
+*Die Linie S75 verkehrt zwischen Wartenberg und Lichtenberg.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
