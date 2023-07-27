@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Vorabinformation: kurzfristige Bauarbeiten in Potsdam Hbf. heute ab ca. 22:00 Uhr ###
+### kurzfristige Bauarbeiten in Potsdam Hbf. heute ab ca. 22:00 Uhr ###
 
- Letztes Update: 19:38 / 27.07.2023
+ Letztes Update: 21:06 / 27.07.2023
 
 Information
 
@@ -30,6 +30,20 @@ Wegen kurzfristiger Bauarbeiten in Potsdam Hbf. haben folgende Züge der Linie S
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Reparatur am Fahrzeug Schönhauser Allee beendet ###
+
+ Letztes Update: 20:25 / 27.07.2023
+
+Information
+
+Nach einer Reparatur am Fahrzeug in Schönhauser Allee kann es auf der Linie S41 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
