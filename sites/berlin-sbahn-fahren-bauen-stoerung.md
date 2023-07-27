@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Polizeieinsatz zwischen Tempelhof und Hermannstraße beendet, Gegenstände auf der Strecke in Schönhauser Allee beseitigt ###
 
- Letztes Update: 05:08 / 27.07.2023
+ Letztes Update: 06:09 / 27.07.2023
 
 Information
 
-Nach einem Polizeieinsatz zwischen Tempelhof und Hermannstraße und nach der Beseitigung von Gegenständen auf der Strecke in Schönhauser Allee kommt es auf den Linien S41, S42, S45, S46, S47, S8 und S85 noch zu Verspätungen und folgenden Einschränkungen:
+Nach einem Polizeieinsatz zwischen Tempelhof und Hermannstraße und nach der Beseitigung von Gegenständen auf der Strecke in Schönhauser Allee kommt es auf den Linien S41, S42 und S85 noch zu Verspätungen und folgenden Einschränkungen:
 
 * die Linien S41 und S42 fahren im 10-Minuten-Takt
 * die Linie S85 verkehrt nicht
