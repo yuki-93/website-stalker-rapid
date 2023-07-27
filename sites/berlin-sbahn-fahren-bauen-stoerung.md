@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Gegenstände auf der Strecke in Landsberger Allee ###
-
- Letztes Update: 00:49 / 27.07.2023
-
-Information
-
-Wegen Gegenständen auf der Strecke in Landsberger Allee kommt es auf den Linien S41, S42 und S8 zu Verspätungen und einzelnen Ausfällen.
-
-* Die Linie **S8** fährt: Grünau \<\> Treptower Park ***sowie*** Schönhauser Allee \<\> Blankenburg, *bitte nutzen Sie zwischen Treptower Park und Schönhauser Allee die Linien S41 und S42.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
