@@ -2,6 +2,35 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Vorabinformation: kurzfristige Bauarbeiten in Potsdam Hbf. heute ab ca. 22:00 Uhr ###
+
+ Letztes Update: 10:58 / 27.07.2023
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Potsdam Hbf. haben folgende Züge der Linie S7 in Babelsberg 4 Minuten Aufenthalt und fahren von Babelsberg bis Potsdam Hbf. ca. 4 Minuten später:
+
+* Ahrensfelde ab 20:31 Uhr \> Wannsee ab 21:32 Uhr \> Babelsberg an 21:40 Uhr / ab 21:44 Uhr \> Potsdam Hbf. an 21:46 Uhr
+* Ahrensfelde ab 20:51 Uhr \> Wannsee ab 21:52 Uhr \> Babelsberg an 22:00 Uhr / ab 22:04 Uhr \> Potsdam Hbf. an 22:06 Uhr
+* Ahrensfelde ab 21:11 Uhr \> Wannsee ab 22:12 Uhr \> Babelsberg an 22:20 Uhr / ab 22:24 Uhr \> Potsdam Hbf. an 22:26 Uhr
+* Ahrensfelde ab 21:31 Uhr \> Wannsee ab 22:32 Uhr \> Babelsberg an 22:40 Uhr / ab 22:44 Uhr \> Potsdam Hbf. an 22:46 Uhr
+* Ahrensfelde ab 21:51 Uhr \> Wannsee ab 22:52 Uhr \> Babelsberg an 23:00 Uhr / ab 23:04 Uhr \> Potsdam Hbf. an 23:06 Uhr
+* Ahrensfelde ab 22:11 Uhr \> Wannsee ab 23:12 Uhr \> Babelsberg an 23:20 Uhr / ab 23:24 Uhr \> Potsdam Hbf. an 23:26 Uhr
+* Ahrensfelde ab 22:31 Uhr \> Wannsee ab 23:32 Uhr \> Babelsberg an 23:40 Uhr / ab 23:44 Uhr \> Potsdam Hbf. an 23:46 Uhr
+* Ahrensfelde ab 22:51 Uhr \> Wannsee ab 23:52 Uhr \> Babelsberg an 00:00 Uhr / ab 00:04 Uhr \> Potsdam Hbf. an 00:06 Uhr
+* Ahrensfelde ab 23:11 Uhr \> Wannsee ab 00:12 Uhr \> Babelsberg an 00:20 Uhr / ab 00:24 Uhr \> Potsdam Hbf. an 00:26 Uhr
+* Ahrensfelde ab 23:31 Uhr \> Wannsee ab 00:32 Uhr \> Babelsberg an 00:40 Uhr / ab 00:44 Uhr \> Potsdam Hbf. an 00:46 Uhr
+
+**Bitte beachten Sie**, dass es durch die verspätete Ankunft dieser Züge in Potsdam Hbf. zu Anschlußverlusten kommen kann.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
