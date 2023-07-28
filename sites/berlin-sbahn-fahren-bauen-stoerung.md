@@ -2,35 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### kurzfristige Bauarbeiten in Potsdam Hbf. ab 22:00 Uhr ###
-
- Letztes Update: 21:58 / 27.07.2023
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Potsdam Hbf. haben folgende Züge der Linie S7 in Babelsberg 4 Minuten Aufenthalt und fahren von Babelsberg bis Potsdam Hbf. ca. 4 Minuten später:
-
-* Ahrensfelde ab 20:31 Uhr \> Wannsee ab 21:32 Uhr \> Babelsberg an 21:40 Uhr / ab 21:44 Uhr \> Potsdam Hbf. an 21:46 Uhr
-* Ahrensfelde ab 20:51 Uhr \> Wannsee ab 21:52 Uhr \> Babelsberg an 22:00 Uhr / ab 22:04 Uhr \> Potsdam Hbf. an 22:06 Uhr
-* Ahrensfelde ab 21:11 Uhr \> Wannsee ab 22:12 Uhr \> Babelsberg an 22:20 Uhr / ab 22:24 Uhr \> Potsdam Hbf. an 22:26 Uhr
-* Ahrensfelde ab 21:31 Uhr \> Wannsee ab 22:32 Uhr \> Babelsberg an 22:40 Uhr / ab 22:44 Uhr \> Potsdam Hbf. an 22:46 Uhr
-* Ahrensfelde ab 21:51 Uhr \> Wannsee ab 22:52 Uhr \> Babelsberg an 23:00 Uhr / ab 23:04 Uhr \> Potsdam Hbf. an 23:06 Uhr
-* Ahrensfelde ab 22:11 Uhr \> Wannsee ab 23:12 Uhr \> Babelsberg an 23:20 Uhr / ab 23:24 Uhr \> Potsdam Hbf. an 23:26 Uhr
-* Ahrensfelde ab 22:31 Uhr \> Wannsee ab 23:32 Uhr \> Babelsberg an 23:40 Uhr / ab 23:44 Uhr \> Potsdam Hbf. an 23:46 Uhr
-* Ahrensfelde ab 22:51 Uhr \> Wannsee ab 23:52 Uhr \> Babelsberg an 00:00 Uhr / ab 00:04 Uhr \> Potsdam Hbf. an 00:06 Uhr
-* Ahrensfelde ab 23:11 Uhr \> Wannsee ab 00:12 Uhr \> Babelsberg an 00:20 Uhr / ab 00:24 Uhr \> Potsdam Hbf. an 00:26 Uhr
-* Ahrensfelde ab 23:31 Uhr \> Wannsee ab 00:32 Uhr \> Babelsberg an 00:40 Uhr / ab 00:44 Uhr \> Potsdam Hbf. an 00:46 Uhr
-
-**Bitte beachten Sie**, dass es durch die verspätete Ankunft dieser Züge in Potsdam Hbf. zu Anschlußverlusten kommen kann.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -94,65 +65,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnhof-hegermuehle/#con-27239)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnhof-hegermuehle/#c28871)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Warschauer Straße \<\> Ostbahnhof ###
-
-20.07. (Do), ca. 4 Uhr durchgehend bis 28.07. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27598&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20719&tx_sbbconstructions_list%5Bperiod%5D=17101&type=5679&cHash=107f77d7203adddcf91b7a65cb15b8bd)
-
- Takt geändert
-
-Information
-
-* 20-Minutentakt zwischen Wartenberg und Warschauer Straße
-* veränderte Linienführung
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/hallendachsanierung-in-ostbahnhof-die-gleise-9-10-sind-gesperrt/#con-27598)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Charlottenburg \<\> Spandau ###
-
-vom 26.07. (Mi), ca. 20 Uhr durchgehend bis 28.07. (Fr), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27601&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20722&tx_sbbconstructions_list%5Bperiod%5D=17103&type=5679&cHash=af92c0557c840d5553e4a7a0922aee21)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Westkreuz \<\> Olympiastadion S-Bahnverkehr nur im 20-Minutentakt mit S9
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-westkreuz-9/#con-27601)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Bundesplatz \<\> Westend \<\> Wedding (gesamter Ring) ###
-
-Nacht 27./28.07. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27605&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20725&tx_sbbconstructions_list%5Bperiod%5D=17117&type=5679&cHash=222d7398ffb424a648fad9b12fa36a43)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr: Halensee \<\> Westend im 20-Minutentakt
-* Taktänderung: Westend \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-4262988c54/#con-27605)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
