@@ -118,8 +118,7 @@ Information
 Information
 
 * S-Bahn-Pendelverkehr: Treptower Park \<\> Neukölln im 20-Minutentakt
-  * Bitte beachten Sie, vom 04.08. (Fr), ca. 22 Uhr durchgehend bis 07.08. (Mo), ca. 1.30 Uhr fährt dieser Pendelzug nicht
-     und wird durch einen Ersatzverkehr mit Bussen ersetzt.
+  * Bitte beachten Sie, vom 04.08. (Fr), ca. 22 Uhr durchgehend bis 07.08. (Mo), ca. 1.30 Uhr fährt dieser Pendelzug nicht und wird durch einen Ersatzverkehr mit Bussen ersetzt.
 
 * S-Bahn-Pendelverkehr: Baumschulenweg \<\> Treptower Park im 15-Minutentakt
 * Fahrplanänderung
@@ -291,8 +290,7 @@ Information
 Information
 
 * S-Bahn-Pendelverkehr: Treptower Park \<\> Neukölln im 20-Minutentakt
-  * Bitte beachten Sie, vom 04.08. (Fr), ca. 22 Uhr durchgehend bis 07.08. (Mo), ca. 1.30 Uhr fährt dieser Pendelzug nicht
-     und wird durch einen Ersatzverkehr mit Bussen ersetzt.
+  * Bitte beachten Sie, vom 04.08. (Fr), ca. 22 Uhr durchgehend bis 07.08. (Mo), ca. 1.30 Uhr fährt dieser Pendelzug nicht und wird durch einen Ersatzverkehr mit Bussen ersetzt.
 
 * S-Bahn-Pendelverkehr: Baumschulenweg \<\> Treptower Park im 15-Minutentakt
 * Fahrplanänderung
@@ -526,8 +524,7 @@ Information
 Information
 
 * S-Bahn-Pendelverkehr: Treptower Park \<\> Neukölln im 20-Minutentakt
-  * Bitte beachten Sie, vom 04.08. (Fr), ca. 22 Uhr durchgehend bis 07.08. (Mo), ca. 1.30 Uhr fährt dieser Pendelzug nicht
-     und wird durch einen Ersatzverkehr mit Bussen ersetzt.
+  * Bitte beachten Sie, vom 04.08. (Fr), ca. 22 Uhr durchgehend bis 07.08. (Mo), ca. 1.30 Uhr fährt dieser Pendelzug nicht und wird durch einen Ersatzverkehr mit Bussen ersetzt.
 
 * S-Bahn-Pendelverkehr: Baumschulenweg \<\> Treptower Park im 15-Minutentakt
 * Fahrplanänderung
