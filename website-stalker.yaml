@@ -87,16 +87,6 @@ sites:
       - html_url_canonicalize
       - html_markdownify
 
-  - url: https://github.com/actions/runner-images/labels/Announcement
-    editors:
-      - rss:
-          title: GitHub actions/runner-images Announcement
-          item_selector: .js-issue-row
-          title_selector: a
-          content_editors:
-            - css_select: .labels, .opened-by
-            - html_textify
-
   - url:
       - https://eu.ugreen.com/collections/gan-chargers?sort_by=created-descending
       - https://eu.ugreen.com/collections/iphone-cables?sort_by=created-descending
