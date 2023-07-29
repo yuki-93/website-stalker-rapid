@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur am Zug in Treptower Park ###
+### Gegenstände auf der Strecke in Greifswalder Straße ###
 
- Letztes Update: 12:16 / 29.07.2023
+ Letztes Update: 12:40 / 29.07.2023
 
 Information
 
-Wegen einer Reparatur am Zug in Treptower Park kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
+Wegen Gegenständen auf der Strecke in Greifswalder Straße verkehrt die Linie S8 nur zwischen Blankenburg und Schönhauser Allee, *bitte nutzen Sie zwischen Schönhauser Allee und Greifswalder Straße die Linien S41 und S42.*
+
+Die zusätzlichen Züge der Linien S41 und S42 fahren nur zwischen Südkreuz und Gesundbrunnen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
