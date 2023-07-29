@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal im Bereich Hauptbahnhof ###
+
+ Letztes Update: 22:47 / 29.07.2023
+
+Information
+
+Wegen der Reparatur an einem Signal im Bereich Hauptbahnhof kommt es auf den Linien S3, S5 und S7 zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### defektes Stellwerk zwischen Priesterweg und Blankenfelde ###
 
- Letztes Update: 21:29 / 29.07.2023
+ Letztes Update: 22:28 / 29.07.2023
 
 Information
 
@@ -34,7 +48,7 @@ Haltestellen des Ersatzverkehrs:
 
 \* Mahlow - Bahnhofsvorplatz (Haltestelle Bus 600, 794)
 
-\* Blankenfelde - Haltestelle der Regionalbahn
+\* Blankenfelde - Haltestelle SEV der Regionalbahn
 
 Wir bitten um Entschuldigung.
 
