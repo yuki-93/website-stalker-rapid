@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### defektes Stellwerk zwischen Priesterweg und Blankenfelde ###
+
+ Letztes Update: 16:17 / 29.07.2023
+
+Information
+
+Wegen eines defekten Stellwerkes ist der Zugverkehr der Linie S2 zwischen Priesterweg und Blankenfelde unterbrochen.
+
+* Die Linie S2 fährt: Bernau \<\> Priesterweg, *der 10-Minuten-Takt besteht zwischen Buch und Potsdamer Platz.*
+
+Zur weiträumigen Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einem Signal im Bereich Hauptbahnhof ###
