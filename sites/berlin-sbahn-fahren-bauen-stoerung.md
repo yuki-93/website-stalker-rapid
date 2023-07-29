@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Notarzteinsatz auf der Strecke in Grünbergallee beendet ###
-
- Letztes Update: 18:03 / 29.07.2023
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Grünbergallee kommt es auf der Linie S45 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### defektes Stellwerk zwischen Priesterweg und Blankenfelde ###
