@@ -4,21 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Gegenstände auf der Strecke in Greifswalder Straße ###
+### Reparatur am Zug in Yorckstraße beendet ###
 
- Letztes Update: 12:40 / 29.07.2023
+ Letztes Update: 14:25 / 29.07.2023
 
 Information
 
-Wegen Gegenständen auf der Strecke in Greifswalder Straße verkehrt die Linie S8 nur zwischen Blankenburg und Schönhauser Allee, *bitte nutzen Sie zwischen Schönhauser Allee und Greifswalder Straße die Linien S41 und S42.*
-
-Die zusätzlichen Züge der Linien S41 und S42 fahren nur zwischen Südkreuz und Gesundbrunnen.
+Nach einer Reparatur am Zug in Yorckstraße kommt es auf den Linien S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur am Zug in Zoologischer Garten beendet ###
+
+ Letztes Update: 13:31 / 29.07.2023
+
+Information
+
+Nach einer Reparatur am Zug in Zoologischer Garten kommt es auf den Linien S3, S5 und S7 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
