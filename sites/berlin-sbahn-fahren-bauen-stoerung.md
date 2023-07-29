@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur am Zug zwischen Wannsee und Griebnitzsee beendet ###
-
- Letztes Update: 10:17 / 29.07.2023
-
-Information
-
-Nach einer Reparatur am Zug zwischen Wannsee und Griebnitzsee kommt es auf den Linien S1 und S7 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einem Signal im Bereich Hauptbahnhof ###
