@@ -2,58 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal im Bereich Hauptbahnhof ###
-
- Letztes Update: 22:47 / 29.07.2023
-
-Information
-
-Wegen der Reparatur an einem Signal im Bereich Hauptbahnhof kommt es auf den Linien S3, S5 und S7 zu Verspätungen und eventuellen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### defektes Stellwerk zwischen Priesterweg und Blankenfelde ###
-
- Letztes Update: 22:28 / 29.07.2023
-
-Information
-
-Wegen eines defekten Stellwerkes ist der Zugverkehr der Linie S2 zwischen Priesterweg und Blankenfelde unterbrochen.
-
-* Die Linie S2 fährt: Bernau \<\> Priesterweg, *der 10-Minuten-Takt besteht zwischen Buch und Potsdamer Platz.*
-
-Ein Schienenersatzverkehr mit Bussen ist zwischen Priesterweg und Blankenfelde eingerichtet.
-
-Haltestellen des Ersatzverkehrs:
-
-\* Priesterweg - Prellerweg (Haltestelle Bus M76, X76, 170, 246)
-
-\* Attilastr. - Steglitzer Damm (Haltestelle Bus 184)
-
-\* Marienfelde - Bahnhofstr. (Haltestelle Bus 283)
-
-\* Buckower Chaussee - in Höhe S-Bahn (Haltestelle Bus X11, M11, 277)
-
-\* Schichauweg - in Höhe S-Bahn (Haltestelle Bus X83)
-
-\* Lichtenrade - Bahnhofstr. (Haltestelle Bus M76, 172, 175, 275, 743)
-
-\* Mahlow - Bahnhofsvorplatz (Haltestelle Bus 600, 794)
-
-\* Blankenfelde - Haltestelle SEV der Regionalbahn
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
@@ -233,37 +181,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27568)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Warschauer Straße \<\> Ostbahnhof ###
-
-Nächte 28./29.07. (Fr/Sa) und 29./30.07. (Sa/So), jeweils ca. 1 Uhr - ca. 5 bzw. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27612&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20507&tx_sbbconstructions_list%5Bperiod%5D=17122&type=5679&cHash=6124a8f9630bdca52289e260ea03feb8)
-
-Nächte 04./05.08. (Fr/Sa) und 05./06.08. (Sa/So), jeweils ca. 1 Uhr - 5 Uhr bzw. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27612&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20507&tx_sbbconstructions_list%5Bperiod%5D=17123&type=5679&cHash=00d560332f6c4016a1f458d83d6e3c62)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27612&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20507&type=5679&cHash=906bbe90d3f91cfd15eaf718b422f49b)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die Züge der S3 fahren ...
-    * von Warschauer Straße bis Spandau zu den Abfahrtzeiten der S9
-    * im Nachtverkehr von Warschauer Straße bis Ostbahnhof 7 Minuten später (Warschauer Straße ab zu den Minuten 04 und 34).
-    * in der Gegenrichtung von Spandau bis Warschauer Straße zu den Abfahrtzeiten der S9
-    * im Nachtverkehr von Ostbahnhof bis Warschauer Straße 3 Minuten früher (Ostbahnhof ab zu den Minuten 23 und 53).
-
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenbalkenwechsel-kabelarbeiten-vegetationsarbeiten/#con-27612)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -684,15 +601,9 @@ Information
 
 ### Warschauer Straße \<\> Ostbahnhof ###
 
-Nächte 28./29.07. (Fr/Sa) und 29./30.07. (Sa/So), jeweils ca. 1 Uhr - ca. 5 bzw. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27612&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20507&tx_sbbconstructions_list%5Bperiod%5D=17122&type=5679&cHash=6124a8f9630bdca52289e260ea03feb8)
-
 Nächte 04./05.08. (Fr/Sa) und 05./06.08. (Sa/So), jeweils ca. 1 Uhr - 5 Uhr bzw. 7 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27612&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20507&tx_sbbconstructions_list%5Bperiod%5D=17123&type=5679&cHash=00d560332f6c4016a1f458d83d6e3c62)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27612&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20507&type=5679&cHash=906bbe90d3f91cfd15eaf718b422f49b)
 
  Zugverkehr verändert
 
