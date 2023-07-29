@@ -151,37 +151,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenbalkenwechsel-kabelarbeiten-vegetationsarbeiten/#con-27398)
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
- Nur Nachts
-
-### Nordbahnhof \<\> Gesundbrunnen ###
-
-Nächte 28./29.07. (Fr/Sa) und 29./30.07. (Sa/So), jeweils ca. 0.30 Uhr - ca. 7.15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=17098&type=5679&cHash=707cb8a86b31fae9dcaa676ed7542742)
-
-Nächte 04./05.08. (Fr/Sa) und 05./06.08. (Sa/So), jeweils ca. 0.30 Uhr - ca. 7.15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=17099&type=5679&cHash=45f57ad742a18ee8b733a83472d58181)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&type=5679&cHash=484eced75c14a0cc16b29842895ff410)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die Züge Gesundbrunnen ab 0.37 Uhr und 1.37 Uhr nach Blankenfelde (an 1.27 Uhr und 2.27 Uhr) fahren von Gesundbrunnen bis Nordbahnhof 5 bis 6 Minuten früher
-     (Gesundbrunnen ab 0.32 Uhr und 1.32 Uhr).
-  * Der Zug Samstag Gesundbrunnen ab 5.10 Uhr nach Blankenfelde (an 5.55 Uhr) fährt von Gesundbrunnen bis Nordbahnhof 8 Minuten früher
-     (Gesundbrunnen ab 5.02 Uhr).
-  * Der Gesundbrunnen Sonntag ab 7.10 Uhr nach Blankenfelde (an 7.55 Uhr) fährt von Gesundbrunnen bis Nordbahnhof 8 Minuten früher (Gesundbrunnen ab 7.02 Uhr).
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27568)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
