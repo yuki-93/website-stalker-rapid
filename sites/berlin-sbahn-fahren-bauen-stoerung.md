@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk zwischen Priesterweg und Blankenfelde ###
 
- Letztes Update: 16:17 / 29.07.2023
+ Letztes Update: 20:13 / 29.07.2023
 
 Information
 
@@ -16,27 +16,29 @@ Wegen eines defekten Stellwerkes ist der Zugverkehr der Linie S2 zwischen Pries
 
 * Die Linie S2 fährt: Bernau \<\> Priesterweg, *der 10-Minuten-Takt besteht zwischen Buch und Potsdamer Platz.*
 
-Zur weiträumigen Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+Ein Schienenersatzverkehr mit Bussen ist zwischen Priesterweg und Blankenfelde eingerichtet.
+
+Haltestellen des Ersatzverkehrs:
+
+\* Priesterweg - Prellerweg (Haltestelle Bus M76, X76, 170, 246)
+
+\* Attilastr. - Steglitzer Damm (Haltestelle Bus 184)
+
+\* Marienfelde - Bahnhofstr. (Haltestelle Bus 283)
+
+\* Buckower Chaussee - in Höhe S-Bahn (Haltestelle Bus X11, M11, 277)
+
+\* Schichauweg - in Höhe S-Bahn (Haltestelle Bus X83)
+
+\* Lichtenrade - Bahnhofstr. (Haltestelle Bus M76, 172, 175, 275, 743)
+
+\* Mahlow - Bahnhofsvorplatz (Haltestelle Bus 600, 794)
+
+\* Blankenfelde - S-Blankenfelde (Haltestelle VTF Bus)
 
 Wir bitten um Entschuldigung.
 
  fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal im Bereich Hauptbahnhof ###
-
- Letztes Update: 10:09 / 29.07.2023
-
-Information
-
-Wegen der Reparatur an einem Signal im Bereich Hauptbahnhof kommt es auf den Linien S3, S5 und S7 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Mahlsdorf und Warschauer Straße angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
