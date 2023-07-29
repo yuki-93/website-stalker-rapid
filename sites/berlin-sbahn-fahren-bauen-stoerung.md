@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk zwischen Priesterweg und Blankenfelde ###
 
- Letztes Update: 20:13 / 29.07.2023
+ Letztes Update: 21:29 / 29.07.2023
 
 Information
 
@@ -34,7 +34,7 @@ Haltestellen des Ersatzverkehrs:
 
 \* Mahlow - Bahnhofsvorplatz (Haltestelle Bus 600, 794)
 
-\* Blankenfelde - S-Blankenfelde (Haltestelle VTF Bus)
+\* Blankenfelde - Haltestelle der Regionalbahn
 
 Wir bitten um Entschuldigung.
 
