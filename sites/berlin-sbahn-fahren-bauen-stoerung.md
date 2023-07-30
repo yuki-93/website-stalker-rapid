@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### defektes Stellwerk zwischen Priesterweg und Blankenfelde ###
+
+ Letztes Update: 08:55 / 30.07.2023
+
+Information
+
+Wegen einem defekten Stellwerk zwischen Priesterweg und Blankenfelde kann der 10-Minuten-Takt nur zwischen Buch und Marienfelde angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur am Signal im Bereich Hauptbahnhof ###
