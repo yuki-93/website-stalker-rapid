@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Personalausfall ###
-
- Letztes Update: 11:16 / 30.07.2023
-
-Information
-
-Wegen kurzfristigem Personalausfall verkehrt die Linie S75 nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### defektes Stellwerk zwischen Priesterweg und Blankenfelde ###
@@ -31,22 +17,6 @@ Wegen einem defekten Stellwerk zwischen Priesterweg und Blankenfelde kann der 10
 Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur am Signal im Bereich Hauptbahnhof ###
-
- Letztes Update: 06:58 / 30.07.2023
-
-Information
-
-Wegen der Reparatur an einem Signal im Bereich Hauptbahnhof kommt es auf den Linien S3, S5 und S7 zu Verspätungen und eventuellen Ausfällen.
-
-Der 10-Minuten-Takt auf der Linie S5 kann nur zwischen Mahlsdorf und Warschauer Straße angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
