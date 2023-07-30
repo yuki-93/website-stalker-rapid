@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Polizeieinsatz Köllnische Heide ###
-
- Letztes Update: 12:14 / 30.07.2023
-
-Information
-
-Wegen eines Polizeieinsatzes zwischen Neukölln und Baumschulenweg ist der Zugverkehr der Linien S45, S46 und S47 zwischen Neukölln und Schöneweide unterbrochen.
-
-Die Linie S8 zwischen Schöneweide und Grünau verkehrt nicht.
-
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
-
- fährt nicht  Verbindung unterbrochen
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Personalausfall ###
