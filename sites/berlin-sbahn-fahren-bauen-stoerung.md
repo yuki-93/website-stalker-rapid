@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur Stellwerk Schöneweide ###
-
- Letztes Update: 00:27 / 31.07.2023
-
-Information
-
-Wegen der Reparatur am Stellwerk Schöneweide ist der Zugverkehr der Linien S45, S46, S47 und S8 zwischen Schöneweide und Baumschulenweg unterbrochen.
-
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
