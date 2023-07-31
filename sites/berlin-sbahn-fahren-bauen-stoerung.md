@@ -1018,6 +1018,42 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27236)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Zehlendorf \<\> Schöneberg / Friedenau ###
+
+01.09. (Fr) 22 Uhr bis 04.09. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17146&type=5679&cHash=85f995117920fc4230ce6492333a60f3)
+
+08.09. (Fr) 22 Uhr bis 11.09. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17147&type=5679&cHash=847206c5d70eed2cd470065ac727ff3b)
+
+Nächte 11./12.09. (Mo/Di) bis 14./15.09. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17148&type=5679&cHash=29c6a7cb5ca0ae819440af6b7ebfcd51)
+
+15.09. (Fr) 22 Uhr bis 18.09. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17149&type=5679&cHash=17c59cde5bc5a19f7d8dccd5d8222e1f)
+
+Nächte 25./26.09. (Mo/Di) bis 28./29.09. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17150&type=5679&cHash=7c684a99b661e4fc054ab388a12b1eeb)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&type=5679&cHash=f74082cad4155357242ae102615fa988)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr: Zehlendorf \<\> Friedenau
+* Ersatzverkehr mit Bussen: Zehlendorf \<\> Schöneberg
+* Bitte nutzen vor Fahrtantritt die Fahrplanauskunft
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-der-moltkestrassenbruecke/#con-27722)
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Blankenburg \<\> Birkenwerder ###
