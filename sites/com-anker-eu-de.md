@@ -48,12 +48,12 @@ Das Anker-Erlebnis entdecken
 
    ###
 
-  ### Das Upgrade auf 800W | Bis zu 490€ Rabatt ###
+  ### Limitiertes Angebot | Bis zu 490€ Rabatt ###
 
-  SOLIX RS40P | RS40
-  600W/800W Mikro-Wechselrichter
+  SOLIX RS40P | RS40 Balkonkraftwerk
+  Das Upgrade auf 800W
 
-  [Mehr erfahren ,Das Upgrade auf 800W | Bis zu 490€ Rabatt](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_3)
+  [Mehr erfahren ,Limitiertes Angebot | Bis zu 490€ Rabatt](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_3)
 
 * ### 10% Bargeldprämie ###
 
