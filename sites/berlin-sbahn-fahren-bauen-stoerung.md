@@ -67,7 +67,6 @@ Information
   * Bus S8: Pankow-Heinersdorf \<\> Birkenwerder
      Dieser Bus hält nicht direkt am S-Bahnhof Blankenburg.
 
-* Taktänderung: bis 01.08. (Di), ca. 1.30 Uhr Waidmanslust \<\> Frohnau S-Bahnverkehr nur im 20-Minutentakt
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -258,7 +257,6 @@ Information
   * Bus S8: Pankow-Heinersdorf \<\> Birkenwerder
      Dieser Bus hält nicht direkt am S-Bahnhof Blankenburg.
 
-* Taktänderung: bis 01.08. (Di), ca. 1.30 Uhr Waidmanslust \<\> Frohnau S-Bahnverkehr nur im 20-Minutentakt
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -449,7 +447,6 @@ Information
   * Bus S8: Pankow-Heinersdorf \<\> Birkenwerder
      Dieser Bus hält nicht direkt am S-Bahnhof Blankenburg.
 
-* Taktänderung: bis 01.08. (Di), ca. 1.30 Uhr Waidmanslust \<\> Frohnau S-Bahnverkehr nur im 20-Minutentakt
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
