@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Gesundbrunnen beendet ###
-
- Letztes Update: 06:16 / 01.08.2023
-
-Information
-
-Nach einem Polizeieinsatz (unbefugten Personen auf der Strecke) im Bereich Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41, S42 und S8 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
