@@ -14,6 +14,13 @@ Search
 
 [](https://passport.anker.com/?app=ankerde)
 
+Anker Prime
+
+Power für alle Geräte.
+Schneller. Gleichzeitig. Überall.
+
+[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/anker-prime?ref=masterBanner1)
+
 Jetzt vorbestellen und **100€** sparen!
 
 Anker SOLIX Solarbank
@@ -21,13 +28,7 @@ Anker SOLIX Solarbank
 Akku mit 1600Wh | 6000 Ladezyklen
 800W Eingangs-/Augangsleistung
 
-[Zum limitierten AngebotmasterBanner1](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-solarbank-a17c0?ref=masterBanner1)
-
-Anker 3-in-1 Ladewürfel mit MagSafe
-
-Das perfekte Ladegerät für dein Apple-Ecosystem
-
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/products/y1811?ref=masterBanner2)
+[Zum limitierten AngebotmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-solarbank-a17c0?ref=masterBanner2)
 
 Das Anker-Erlebnis entdecken
 ----------
