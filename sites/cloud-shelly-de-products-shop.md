@@ -178,12 +178,6 @@
 
 24,87 €mit MwSt.
 
-[Shelly H&T Black](https://www.shelly.com/de/products/shop/shelly-ht-b)
-
-20,90 €
-
-24,87 €mit MwSt.
-
 [Shelly Motion 2](https://www.shelly.com/de/products/shop/shelly-motion-2)
 
 39,90 €
