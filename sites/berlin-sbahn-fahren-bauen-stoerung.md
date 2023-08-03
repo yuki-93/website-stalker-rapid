@@ -4,21 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Gegenstände auf der Strecke zwischen Sundgauer Straße und Zehlendorf ###
+### Gegenstände auf der Strecke zwischen Wannsee und Griebnitzsee ###
 
- Letztes Update: 15:11 / 03.08.2023
+ Letztes Update: 15:35 / 03.08.2023
 
 Information
 
-Wegen Gegenständen auf der Strecke zwischen Sundgauer Straße und Zehlendorf kommt es auf der Linie S1 zu Verspätungen.
+Wegen Gegenständen auf der Strecke ist der Zugverkehr der Linie S7 zwischen Wannsee und Griebnitzsee unterbrochen.
 
-Der 10-Minuten-Takt kann nur zwischen Frohnau und Botanischer Garten angeboten werden.
+Bitte nutzen Sie zur Umfahrung zwischen Wannsee \<\> Griebnitzsee/ Potsdam Hbf. die Züge des Regionalverkehrs.
 
 Wir bitten um Ihr Verständnis.
 
- sonstige Einschränkungen
+ fährt nicht
 
 ### Baumaßnahmen ###
 
