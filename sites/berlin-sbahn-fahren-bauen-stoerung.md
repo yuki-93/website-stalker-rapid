@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Gegenstände auf der Strecke zwischen Wannsee und Griebnitzsee ###
-
- Letztes Update: 15:35 / 03.08.2023
-
-Information
-
-Wegen Gegenständen auf der Strecke ist der Zugverkehr der Linie S7 zwischen Wannsee und Griebnitzsee unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung zwischen Wannsee \<\> Griebnitzsee/ Potsdam Hbf. die Züge des Regionalverkehrs.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
