@@ -2,29 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Streckensperrung zwischen Waidmannslust und Frohnau ###
-
- Letztes Update: 18:42 / 03.08.2023
-
-Information
-
-Wegen einer Streckensperrung ist der Zugverkehr der Linie S1 zwischen Waidmannslust und Frohnau unterbrochen.
-
-Die Linie S26 verkehrt nur zwischen Teltow Stadt und Nordbahnhof.
-
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
-
-* zwischen Waidmannslust (BVG-Haltestelle "Waidmannsluster Damm/ Oraniendamm") und Frohnau die Buslinie 220
-* zwischen Hermsdorf (BVG-Haltestelle "Heinsestraße") und Frohnau die Buslinie 125
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
