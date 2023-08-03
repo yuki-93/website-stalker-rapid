@@ -1117,6 +1117,33 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weicheninstandhaltung-in-westkreuz-und-maschinelle-stopfarbeiten/#con-27741)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Flughafen BER – Terminal 1-2 \<\> Adlershof ###
+
+Nacht 28./29.08. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27742&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20867&tx_sbbconstructions_list%5Bperiod%5D=17176&type=5679&cHash=927aea13a3bf4f0ebc45f1a63a598010)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * Flughafen BER – Terminal 1-2 \<\> Altglienicke im 30-Minutentakt
+     Flughafen BER – Terminal 1-2 ab zu den Minuten 19, 49
+     Altglienicke ab zu den Minuten 04, 34
+
+* Taktänderung:
+  * Altglienicke \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-flughafen-ber-terminal-5/#con-27742)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
@@ -1270,7 +1297,7 @@ Information
 
 * Ersatzverkehr mit Bussen:
   * Bus S2: Pankow \<\> Karow
-  * Bus S8: Pankow \<\> Bergfelde
+  * Bus S8: Pankow \<\> Hohen Neuendorf
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
