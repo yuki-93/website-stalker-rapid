@@ -33,11 +33,12 @@ Akku mit 1600Wh | 6000 Ladezyklen
 Das Anker-Erlebnis entdecken
 ----------
 
-* ### AnkerCredits Belohnungsprogramm ###
+* ### Anker 3-in-1 Ladewürfel
+  mit MagSafe  ###
 
-  Verdiene mit jedem Kauf AnkerCredits und sicher dir exklusive Vorteile
+  Das perfekte Ladegerät für dein Apple-Ecosystem
 
-  [Jetzt mitmachenAnkerCredits Belohnungsprogramm](https://anker.com/eu-de/ankercredits?ref=productBanner2_1)
+  [Mehr erfahrenAnker 3-in-1 Ladewürfel mit MagSafe](https://www.anker.com/eu-de/products/y1811?ref=productBanner2_1)
 
 * ### Anker GaNPrime  ###
 
@@ -56,23 +57,23 @@ Das Anker-Erlebnis entdecken
 
   [Mehr erfahren ,Limitiertes Angebot | Bis zu 490€ Rabatt](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_3)
 
-* ### 10% Bargeldprämie ###
-
-  Verdiene Geld mit jedem Freund, den du empfiehlst. Je mehr du teilst, desto mehr verdienst du.
-
-  [Jetzt loslegen10% Bargeldprämie](https://www.anker.com/eu-de/empfehlungsprogramm?ref=productBanner2_4)
-
 * ### Die Extraportion Power mit Ankers meistgekauften Ladegeräten  ###
 
   Entdecke die besten Ladelösungen für den Alltag und deine Arbeit
 
-  [Mehr erfahren Die Extraportion Power mit Ankers meistgekauften Ladegeräten](https://www.anker.com/eu-de/bestseller?ref=productBanner2_5)
+  [Mehr erfahren Die Extraportion Power mit Ankers meistgekauften Ladegeräten](https://www.anker.com/eu-de/bestseller?ref=productBanner2_4)
 
 * ### Anker EverFrost Akku-Kühlbox ###
 
    Bis zu 42 Std. | Ohne Eis für mehr Stauraum | Von 25°C auf 0°C in nur 30 Min. | Abnehmbare Powerbank
 
-  [Mehr erfahren Anker EverFrost Akku-Kühlbox](https://anker.com/eu-de/everfrost-akku-kuehlbox?ref=productBanner2_6)
+  [Mehr erfahren Anker EverFrost Akku-Kühlbox](https://anker.com/eu-de/everfrost-akku-kuehlbox?ref=productBanner2_5)
+
+* ### Anker Nano 3 ###
+
+  Das Tech für jedes iPhone
+
+  [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner2_6)
 
 * ### Anker Ace Ladegerät ###
 
@@ -80,31 +81,19 @@ Das Anker-Erlebnis entdecken
 
   [Mehr erfahren Anker Ace Ladegerät](https://www.anker.com/eu-de/ace-charger?ref=productBanner2_7)
 
-* ### Anker Nano 3 ###
-
-  Das Tech für jedes iPhone
-
-  [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner2_8)
-
 * ### Anker SOLIX F1200(PowerHouse 757) ###
 
   ### 1299Wh | 1500W ###
 
   Langlebige Stromquelle für zuhause & unterwegs
 
-  [Jetzt kaufenAnker SOLIX F1200(PowerHouse 757),1299Wh | 1500W](https://www.anker.com/eu-de/products/a1770?ref=productBanner2_9)
+  [Jetzt kaufenAnker SOLIX F1200(PowerHouse 757),1299Wh | 1500W](https://www.anker.com/eu-de/products/a1770?ref=productBanner2_8)
 
-* ### Anker Solar Generator ###
+* ### AnkerCredits Belohnungsprogramm ###
 
-  Power für endlose Abenteuer
+  Verdiene mit jedem Kauf AnkerCredits und sicher dir exklusive Vorteile
 
-  [Jetzt kaufenAnker Solar Generator](https://www.anker.com/eu-de/ankerpower/solargenerator?ref=productBanner2_10)
-
-* ### Ankers Ladeverantwortung  ###
-
-  Sei dabei und erschaffe mit Anker einen nachhaltigeren, grüneren Planeten.
-
-  [Mehr erfahren Ankers Ladeverantwortung](https://www.anker.com/eu-de/anker-fuer-nachhaltigkeit-zukunft?ref=productBanner2_11)
+  [Jetzt mitmachenAnkerCredits Belohnungsprogramm](https://anker.com/eu-de/ankercredits?ref=productBanner2_9)
 
 Unentschlossen?
 
@@ -375,6 +364,8 @@ Produkte
 [Bestellung verfolgen](https://de.anker.com/apps/aftership?ref=footer)
 
 [Rechte an geistigem Eigentum](https://de.anker.com/policies/terms-of-service?ref=footer)
+
+[Ankers Ladeverantwortung](https://www.anker.com/eu-de/anker-fuer-nachhaltigkeit-zukunft?ref=footer)
 
 [MSA-Erklärung](https://dz02g1kgtiysz.cloudfront.net/MSA_Statement.pdf?ref=footer)
 
