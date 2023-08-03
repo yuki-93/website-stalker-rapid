@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Gegenstände auf der Strecke zwischen Sundgauer Straße und Zehlendorf ###
+
+ Letztes Update: 15:11 / 03.08.2023
+
+Information
+
+Wegen Gegenständen auf der Strecke zwischen Sundgauer Straße und Zehlendorf kommt es auf der Linie S1 zu Verspätungen.
+
+Der 10-Minuten-Takt kann nur zwischen Frohnau und Botanischer Garten angeboten werden.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
