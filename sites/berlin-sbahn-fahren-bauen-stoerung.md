@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz zwischen Gesundbrunnen und Bornholmer Straße beendet ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Potsdamer Platz ###
 
- Letztes Update: 20:51 / 04.08.2023
+ Letztes Update: 22:06 / 04.08.2023
 
 Information
 
-Nach einem Polizeieinsatz kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und vereinzelten Ausfällen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Potsdamer Platz kommt es auf den Linien S1, S2 und S25 zu Verspätungen und einzelnen Ausfällen..
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Verständnis.
 
- sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
