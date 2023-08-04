@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Notarzteinsatz auf der Strecke in Neukölln ###
-
- Letztes Update: 01:08 / 04.08.2023
-
-Information
-
-Wegen eines Notarzteinsatzes auf der Strecke im Bereich Neukölln sind die Linien S45, S46 und S47 zwischen Schöneweide und Südkreuz derzeit unterbrochen.
-
-Auf den Linien S41 und S42 kommt es zu Verspätungen und einzelnen Ausfällen.
-
-Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
