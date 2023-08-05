@@ -199,6 +199,31 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27566)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Warschauer Straße \<\> Ostbahnhof ###
+
+Nächte 04./05.08. (Fr/Sa) und 05./06.08. (Sa/So), jeweils ca. 1 Uhr - 5 Uhr bzw. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27612&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20507&tx_sbbconstructions_list%5Bperiod%5D=17123&type=5679&cHash=00d560332f6c4016a1f458d83d6e3c62)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die Züge der S3 fahren ...
+    * von Warschauer Straße bis Spandau zu den Abfahrtzeiten der S9
+    * im Nachtverkehr von Warschauer Straße bis Ostbahnhof 7 Minuten später (Warschauer Straße ab zu den Minuten 04 und 34).
+    * in der Gegenrichtung von Spandau bis Warschauer Straße zu den Abfahrtzeiten der S9
+    * im Nachtverkehr von Ostbahnhof bis Warschauer Straße 3 Minuten früher (Ostbahnhof ab zu den Minuten 23 und 53).
+
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenbalkenwechsel-kabelarbeiten-vegetationsarbeiten/#con-27612)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -345,31 +370,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27568)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Warschauer Straße \<\> Ostbahnhof ###
-
-Nächte 04./05.08. (Fr/Sa) und 05./06.08. (Sa/So), jeweils ca. 1 Uhr - 5 Uhr bzw. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27612&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20507&tx_sbbconstructions_list%5Bperiod%5D=17123&type=5679&cHash=00d560332f6c4016a1f458d83d6e3c62)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die Züge der S3 fahren ...
-    * von Warschauer Straße bis Spandau zu den Abfahrtzeiten der S9
-    * im Nachtverkehr von Warschauer Straße bis Ostbahnhof 7 Minuten später (Warschauer Straße ab zu den Minuten 04 und 34).
-    * in der Gegenrichtung von Spandau bis Warschauer Straße zu den Abfahrtzeiten der S9
-    * im Nachtverkehr von Ostbahnhof bis Warschauer Straße 3 Minuten früher (Ostbahnhof ab zu den Minuten 23 und 53).
-
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenbalkenwechsel-kabelarbeiten-vegetationsarbeiten/#con-27612)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
