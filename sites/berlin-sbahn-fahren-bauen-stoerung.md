@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### ärztliche Versorgung eines Fahrgastes beendet ###
+
+ Letztes Update: 18:11 / 06.08.2023
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Adlershof, kann es auf den Linien S45, S46 und S8 noch zu Verspätungen und Ausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
