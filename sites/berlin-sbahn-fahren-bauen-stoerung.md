@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Polizeieinsatz Pankow-Heinersdorf beendet ###
-
- Letztes Update: 13:06 / 07.08.2023
-
-Information
-
-Nach einen Polizeieinsatz kommt es auf der Linie S2 und S8 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke Neukölln - Sonnenallee ###
@@ -31,22 +17,6 @@ Wegen vorübergehend verminderte Geschwindigkeit auf der Strecke Neukölln - Son
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  keine Verbindung
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Streckensperrung Baumschulenweg \<\> Treptower Park aufgehoben ###
-
- Letztes Update: 12:33 / 07.08.2023
-
-Information
-
-Nach einer Streckensperrung (umgestürzter Baum) zwischen Baumschulenweg \<\> Treptower Park kommt es auf den Linien S8, S85 und S9 noch zu Verspätungen und Zugausfällen.
-
-Die Linie S85 verkehrt nicht.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
