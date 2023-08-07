@@ -48,23 +48,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27237)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Strausberg Nord \<\> Strausberg ###
-
-17.07. (Mo), ca. 4 Uhr durchgehend bis 07.08. (Mo) ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27239&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20349&tx_sbbconstructions_list%5Bperiod%5D=16969&type=5679&cHash=107a3b1a9fbbd9d7bf01fd2d2bd4749a)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnhof-hegermuehle/#con-27239)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnhof-hegermuehle/#c28871)
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Erkner \<\> Friedrichshagen ###
@@ -84,47 +67,6 @@ Information
      Der 10-Minutentakt im Abschnitt Erkner \<\> Friedrichshagen wird auch Montag bis Freitag außerhalb der Hauptverkehrszeiten sowie Samstag und Sonntag im Früh- und Abendverkehr angeboten.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Baumschulenweg/Neukölln \<\> Treptower Park \<\> Warschauer Straße ###
-
-28.07. (Fr), ca. 22 Uhr bis 07.08. (Mo), ca. 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27398&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20507&tx_sbbconstructions_list%5Bperiod%5D=17064&type=5679&cHash=2ef308dcedc9def87358094cf927025a)
-
- Zugverkehr verändert
-
-Information
-
-* S-Bahn-Pendelverkehr: Treptower Park \<\> Neukölln im 20-Minutentakt
-  * Bitte beachten Sie, vom 04.08. (Fr), ca. 22 Uhr durchgehend bis 07.08. (Mo), ca. 1.30 Uhr fährt dieser Pendelzug nicht und wird durch einen Ersatzverkehr mit Bussen ersetzt.
-
-* S-Bahn-Pendelverkehr: Baumschulenweg \<\> Treptower Park im 15-Minutentakt
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenbalkenwechsel-kabelarbeiten-vegetationsarbeiten/#con-27398)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### Treptower Park \<\> Neukölln ###
-
-04.08.23 (Fr), 21.45 Uhr bis 07.08.23 (Mo), 01.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27528&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20507&tx_sbbconstructions_list%5Bperiod%5D=17085&type=5679&cHash=7293682ec868e9a5e4c5dc4d733b0286)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenbalkenwechsel-kabelarbeiten-vegetationsarbeiten/#con-27528)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
