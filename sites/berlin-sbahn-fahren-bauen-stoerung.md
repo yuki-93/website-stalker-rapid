@@ -8,19 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### umgestürzter Baum zwischen Baumschulenweg und Treptower Park ###
 
- Letztes Update: 10:11 / 07.08.2023
+ Letztes Update: 10:51 / 07.08.2023
 
 Information
 
 Wegen eines umgestürzten Baumes ist der Zugverkehr der Linien S8, S85 und S9 zwischen Baumschulenweg \<\> Treptower Park unterbrochen.
 
-\* Linie S8 verkehrt zwischen Blankenburg \<\> Treptower Park.
+\* Linie S8 verkehrt zwischen Blankenburg \<\> Treptower Park sowie Schöneweide \<\> Grünau.
 
 \* Linie S85 verkehrt nicht.
 
-\* Linie S9 verkehrt zwischen Flughafen BER Terminal 1,2 \<\>Schöneweide sowie Ostbahnhof \<\> Spandau.
+\* Linie S9 verkehrt zwischen Flughafen BER Terminal 1,2 \<\> Schöneweide sowie Ostbahnhof \<\> Spandau.
 
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+Fahrgäste in Richtung Treptower Park benutzen bitte ab Schöneweide die Linien S45, S46 und S47 bis Neukölln und benutzen ab Neukölln die Linie S42.
+
+Fahrgäste in Richtung Schöneweide benutzen bitte ab Treptower Park die Linie S41 bis Neukölln und benutzen ab Neukölln die Linien S45, S46 und S47.
+
+Fahrgäste mit Fahrziel Plänterwald benutzen bitte die Buslinien der BVG.
 
 Wir bitten um Verständnis.
 
@@ -974,7 +978,7 @@ Information
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Zehlendorf \<\> Friedenau \<\> Schöneberg ###
+### Zehlendorf \<\> Friedenau \<\> Schöneberg (Oranienburg) ###
 
 01.09. (Fr), ca. 22 Uhr durchgehend bis 04.09. (Mo), ca. 1.30 Uhr
 
