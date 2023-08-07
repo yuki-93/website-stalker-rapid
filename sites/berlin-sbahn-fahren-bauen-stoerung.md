@@ -18,6 +18,20 @@ Wir bitten um Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke Neukölln - Sonnenallee ###
+
+ Letztes Update: 12:48 / 07.08.2023
+
+Information
+
+Wegen vorübergehend verminderte Geschwindigkeit auf der Strecke Neukölln - Sonnenallee verkehrt die Linie S42 im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  keine Verbindung
+
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Streckensperrung Baumschulenweg \<\> Treptower Park aufgehoben ###

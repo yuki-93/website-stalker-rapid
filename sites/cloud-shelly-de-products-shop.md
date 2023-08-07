@@ -268,19 +268,19 @@
 
 8,57 €mit MwSt.
 
-[Shelly Wall Frame 1 for Wall Switch - white](https://www.shelly.com/de/products/shop/shelly-wall-frame-1-white)
+[Shelly Wall Frame 1 for Wall Switch](https://www.shelly.com/de/products/shop/shelly-wall-frame-1-white)
 
 3,90 €
 
 4,64 €mit MwSt.
 
-[Shelly Wall Frame 2 for Wall Switch - white](https://www.shelly.com/de/products/shop/shelly-wall-frame-2-white)
+[Shelly Wall Frame 2 for Wall Switch](https://www.shelly.com/de/products/shop/shelly-wall-frame-2-white)
 
 6,90 €
 
 8,21 €mit MwSt.
 
-[Shelly Wall Frame 3 for Wall Switch - white](https://www.shelly.com/de/products/shop/shelly-wall-frame-3-white)
+[Shelly Wall Frame 3 for Wall Switch](https://www.shelly.com/de/products/shop/shelly-wall-frame-3-white)
 
 8,90 €
 
@@ -370,13 +370,13 @@
 
 14,16 €mit MwSt.
 
-[Shelly Wall Socket EU - White](https://www.shelly.com/de/products/shop/shelly-wall-socket-eu-white)
+[Shelly Wall Socket EU](https://www.shelly.com/de/products/shop/shelly-wall-socket-eu-white)
 
 7,20 €
 
 8,57 €mit MwSt.
 
-[Shelly Wall Socket UK - White](https://www.shelly.com/de/products/shop/shelly-wall-socket-uk-white)
+[Shelly Wall Socket UK](https://www.shelly.com/de/products/shop/shelly-wall-socket-uk-white)
 
 7,20 €
 
