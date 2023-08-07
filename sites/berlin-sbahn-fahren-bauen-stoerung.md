@@ -4,39 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### umgestürzter Baum zwischen Baumschulenweg und Treptower Park ###
+### Polizeieinsatz Pankow-Heinersdorf beendet ###
 
- Letztes Update: 12:19 / 07.08.2023
+ Letztes Update: 13:06 / 07.08.2023
 
 Information
 
-Wegen eines umgestürzten Baumes ist der Zugverkehr der Linien S8, S85 und S9 zwischen Baumschulenweg \<\> Treptower Park unterbrochen.
-
-\* Linie S8 verkehrt zwischen Blankenburg \<\> Treptower Park sowie Schöneweide \<\> Grünau.
-
-\* Linie S85 verkehrt nicht.
-
-\* Linie S9 verkehrt zwischen Flughafen BER Terminal 1,2 \<\> Schöneweide sowie Ostbahnhof \<\> Spandau.
-
-Fahrgäste in Richtung Treptower Park benutzen bitte ab Schöneweide die Linien S45, S46 und S47 bis Neukölln und benutzen ab Neukölln die Linie S42.
-
-Fahrgäste in Richtung Schöneweide benutzen bitte ab Treptower Park die Linie S41 bis Neukölln und benutzen ab Neukölln die Linien S45, S46 und S47.
-
-Fahrgäste nach Plänterwald benutzen bitte den Ersatzverkehr mit Bussen.
-
-Haltestellen des Ersatzverkehrs:
-
-\* Baumschulenweg - Köpenicker Landstr./ Baumschulenstr. (Haltestelle Bus 165, N60, N65)
-
-\* Plänterwald - Köpenicker Landstr. (Haltestelle Bus 165, 167, N60, N65)
-
-\* Treptower Park - Puschkinallee (Haltestelle Bus 165, 166, 265, N60, N65)
+Nach einen Polizeieinsatz kommt es auf der Linie S2 und S8 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
  fährt nicht  Verbindung unterbrochen
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Streckensperrung Baumschulenweg \<\> Treptower Park aufgehoben ###
+
+ Letztes Update: 12:33 / 07.08.2023
+
+Information
+
+Nach einer Streckensperrung (umgestürzter Baum) zwischen Baumschulenweg \<\> Treptower Park kommt es auf den Linien S8, S85 und S9 noch zu Verspätungen und Zugausfällen.
+
+Die Linie S85 verkehrt nicht.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -1058,9 +1054,7 @@ Nächte 04./05.09. (Mo/Di) und 05./06.09. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30
 
 Information
 
-* Fahrplanänderung:
-  * Die S8 fährt von Schönfließ bis Hohen Neuendorf 10 bis 11 Minuten später.
-
+* Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27755)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
