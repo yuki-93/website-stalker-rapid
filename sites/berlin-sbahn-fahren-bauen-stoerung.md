@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke Neukölln - Sonnenallee ###
 
- Letztes Update: 12:48 / 07.08.2023
+ Letztes Update: 17:05 / 07.08.2023
 
 Information
 
-Wegen vorübergehend verminderte Geschwindigkeit auf der Strecke Neukölln - Sonnenallee verkehrt die Linie S42 im 10-Minuten-Takt.
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke Neukölln - Sonnenallee verkehrt die Linie S42 im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
