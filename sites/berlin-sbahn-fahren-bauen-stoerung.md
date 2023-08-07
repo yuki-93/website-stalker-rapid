@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke Neukölln - Sonnenallee ###
 
- Letztes Update: 17:05 / 07.08.2023
+ Letztes Update: 20:18 / 07.08.2023
 
 Information
 
@@ -16,7 +16,7 @@ Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke Neukölln - So
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  keine Verbindung
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
