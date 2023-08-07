@@ -510,6 +510,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/auswechselung-von-weichenantrieben-in-gesundbrunnen/#con-27731)
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Birkenwerder \<\> Oranienburg ###
+
+23.08. (Mi), ca. 8 Uhr - 16 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27646&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20771&tx_sbbconstructions_list%5Bperiod%5D=17129&type=5679&cHash=18e77bce466a730d61d17f388f4820d1)
+
+ Ersatzverkehr
+
+Information
+
+* kein Verkehrshalt in Lehnitz:
+  * von ca. 8 Uhr bis ca. 11 Uhr
+
+* kein Zugverkehr zwischen Birkenwerder und Oranienburg:
+  * von ca. 11 Uhr bs ca. 16 Uhr
+
+* Ersatzverkehr mit Bussen zwischen Birkenwerder und Oranienburg (ohne Halt in Lehnitz):
+  * von ca. 10.45 Uhr bis 16 Uhr
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/entschaerfung-einer-bombe-in-lehnitz/#con-27646)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -763,29 +786,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27235)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Birkenwerder \<\> Oranienburg ###
-
-23.08. (Mi), ca. 8 Uhr - 16 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27646&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20771&tx_sbbconstructions_list%5Bperiod%5D=17129&type=5679&cHash=18e77bce466a730d61d17f388f4820d1)
-
- Ersatzverkehr
-
-Information
-
-* kein Verkehrshalt in Lehnitz:
-  * von ca. 8 Uhr bis ca. 11 Uhr
-
-* kein Zugverkehr zwischen Birkenwerder und Oranienburg:
-  * von ca. 11 Uhr bs ca. 16 Uhr
-
-* Ersatzverkehr mit Bussen zwischen Birkenwerder und Oranienburg (ohne Halt in Lehnitz):
-  * von ca. 10.45 Uhr bis 16 Uhr
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/entschaerfung-einer-bombe-in-lehnitz/#con-27646)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
