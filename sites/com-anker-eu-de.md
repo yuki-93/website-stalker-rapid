@@ -2,6 +2,8 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_4e559c
 
 []()
 
+[]()
+
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| LIVE IN POWER](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt sparen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
 Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Ladesets](https://www.anker.com/eu-de/baue-dir-dein-eigenes-anker-ladesystem?ref=naviMenu)
@@ -13,6 +15,8 @@ Search
 [](https://www.anker.com/eu-de/search)
 
 [](https://passport.anker.com/?app=ankerde)
+
+[]()
 
 Anker Prime
 
