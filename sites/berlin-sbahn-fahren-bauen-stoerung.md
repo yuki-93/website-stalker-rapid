@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Messe Nord beendet ###
+### unbefugte Personen im Gleis im Bereich Grünauer Kreuz ###
 
- Letztes Update: 19:56 / 08.08.2023
+ Letztes Update: 21:13 / 08.08.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Messe Nord kommt es auf den Linie S41, S42 und S46 noch zu Verspätungen und Ausfällen.
+Wegen unbefugter Personen im Gleis im Bereich Grünauer Kreuz ist der Zugverkehr der Linien S45 und S9 zwischen Schöneweide und Altglienicke und der Linien S46, S8, S85 zwischen Schöneweide und Grünau unterbrochen.
 
-Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ fährt nicht
 
 ### Baumaßnahmen ###
 
