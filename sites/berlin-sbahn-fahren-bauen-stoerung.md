@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### unbefugte Personen haben das Gleis im Bereich Grünauer Kreuz verlassen ###
-
- Letztes Update: 22:03 / 08.08.2023
-
-Information
-
-Die unbefugten Personen haben das Gleis im Bereich Grünauer Kreuz verlassen. In der Folge kommt es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
-
-* Die **Linie S45** verkehrt nicht.
-* Die **Linie S8** verkehrt nur zwischen Blankenburg und Schöneweide.
-  *Bitte nutzen Sie zwischen Schöneweide und Grünau die Linie S46.*
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
