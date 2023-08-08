@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einer Weiche in Zeuthen ###
+### Reparatur an einer Weiche in Zeuthen beendet ###
 
- Letztes Update: 09:12 / 08.08.2023
+ Letztes Update: 10:20 / 08.08.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Zeuthen ist der Zugverkehr der Linie S46 zwischen Zeuthen und Wildau unterbrochen.
-
-Zur Umfahrung nutzen Sie bitte die Buslinien 731 und 734.
+Nach der Reparatur an einer Weiche in Zeuthen kommt es auf der Linie S46 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
