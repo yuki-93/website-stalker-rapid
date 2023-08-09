@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Ärztliche Versorgung eines Fahrgastes in Pankow ###
+
+ Letztes Update: 12:35 / 09.08.2023
+
+Information
+
+Wegen der ärztliche Versorgung eines Fahrgastes in Pankow kommt es auf den Linien S2, S8 und S85 zu Ausfällen und Verspätungen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
