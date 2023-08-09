@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Hermannstraße ###
+
+ Letztes Update: 22:54 / 09.08.2023
+
+Information
+
+Wegen eines Polizeieinsatzes in einem Zug in Hermannstraße kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
