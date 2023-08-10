@@ -4,6 +4,12 @@
 
 20,11 €mit MwSt.
 
+[Shelly Qubino Wave 2PM](https://www.shelly.com/de/products/shop/shelly-qubino--wave-2-pm)
+
+29,08 €
+
+34,61 €mit MwSt.
+
 [Shelly Qubino Wave 1](https://www.shelly.com/de/products/shop/shelly-qubino-wave-1)
 
 23,25 €
