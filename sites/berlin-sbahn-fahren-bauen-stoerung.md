@@ -92,7 +92,7 @@ Information
 
 ### Wartenberg \<\> Warschauer Straße ###
 
-19.06. (Mo), ca. 4 Uhr durchgehend bis 28.08. (Mo), ca. 1.30 Uhr
+19.06. (Mo), ca. 4 Uhr durchgehend bis 21.09. (Do), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16985&type=5679&cHash=86ab8834f5cf0591b21c4c15159327f2)
 
@@ -221,7 +221,7 @@ Information
 
 ### Wartenberg \<\> Warschauer Straße ###
 
-19.06. (Mo), ca. 4 Uhr durchgehend bis 28.08. (Mo), ca. 1.30 Uhr
+19.06. (Mo), ca. 4 Uhr durchgehend bis 21.09. (Do), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16985&type=5679&cHash=86ab8834f5cf0591b21c4c15159327f2)
 
@@ -596,7 +596,7 @@ Information
 
 ### Wartenberg \<\> Warschauer Straße ###
 
-19.06. (Mo), ca. 4 Uhr durchgehend bis 28.08. (Mo), ca. 1.30 Uhr
+19.06. (Mo), ca. 4 Uhr durchgehend bis 21.09. (Do), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16985&type=5679&cHash=86ab8834f5cf0591b21c4c15159327f2)
 
