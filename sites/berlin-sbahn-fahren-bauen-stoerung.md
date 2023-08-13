@@ -2,6 +2,38 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Polizeieinsatz in Hermannstraße beendet ###
+
+ Letztes Update: 16:10 / 13.08.2023
+
+Information
+
+Nach einem Polizeieinsatz in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### defektes Stellwerk in Mahlsdorf ###
+
+ Letztes Update: 16:00 / 13.08.2023
+
+Information
+
+Wegen eines defekten Stellwerks in Mahlsdorf kommt es auf der Linie S5 zu Verspätungen.
+
+Der 10-Minuten-Takt auf der S5 kann nur zwischen Westkreuz und Mahlsdorf angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
