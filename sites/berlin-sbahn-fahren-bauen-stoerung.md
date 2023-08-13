@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### defektes Stellwerk in Mahlsdorf repariert ###
+
+ Letztes Update: 17:17 / 13.08.2023
+
+Information
+
+Nach einer Reparatur am Stellwerk in Mahlsdorf kann es auf der Linie S5 noch zu Verspätungen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
