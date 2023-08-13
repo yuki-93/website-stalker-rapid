@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### technischer Defekt an einem Bahnübergang in Zeuthen ###
-
- Letztes Update: 10:00 / 13.08.2023
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Zeuthen kommt es auf der Linie S46 zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
