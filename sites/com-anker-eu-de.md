@@ -33,11 +33,12 @@ Akku mit 1600Wh | 6000 Ladezyklen
 Das Anker-Erlebnis entdecken
 ----------
 
-* Entdecke die besten Powerbanks für unterwegs
+* ### Entdecke die besten Powerbanks für unterwegs  ###
 
-  Das smarte Ladezubehör für deine Abenteuer. Bis zu 25% Rabatt
+  Das smarte Ladezubehör für deine Abenteuer.
+  Bis zu 25% Rabatt
 
-  [Jetzt kaufen](https://www.anker.com/eu-de/travel?ref=productBanner2_1)
+  [Jetzt kaufenEntdecke die besten Powerbanks für unterwegs](https://www.anker.com/eu-de/travel?ref=productBanner2_1)
 
 * ### Anker 3-in-1 Ladewürfel
   mit MagSafe  ###
