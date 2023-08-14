@@ -8,11 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an Signalen in Tempelhof ###
 
- Letztes Update: 14:30 / 14.08.2023
+ Letztes Update: 14:38 / 14.08.2023
 
 Information
 
 Wegen der Reparatur an mehreren Signalen in Tempelhof kommt es auf den Linien S42, S45 und S46 zu Verspätungen und vereinzelten Ausfällen.
+
+Die **Linie S45** verkehrt nur zwischen Flughafen BER Terminal 1-2 und Hermannstraße.
+*Bitte nutzen Sie zwischen Hermannstraße und Südkreuz die Linien S41/S42 und S46.*
 
 Wir bitten um Entschuldigung.
 
