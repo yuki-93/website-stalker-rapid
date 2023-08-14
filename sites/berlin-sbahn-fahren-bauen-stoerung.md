@@ -22,32 +22,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Frohnau/Blankenburg \<\> Birkenwerder/Oranienburg ###
-
-12.07. (Mi), ca. 22 Uhr durchgehend bis 14.08. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27237&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16967&type=5679&cHash=88044e44f3a5c0c0b64cb66ad2ee569c)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S1X: Frohnau \<\> Oranienburg
-     Dieser Bus hält nicht an den S-Bahnhöfen Hohen Neuendorf, Birkenwerder und Borgsdorf.
-  * Bus S1A: Frohnau \<\> Oranienburg
-    * In den Nächten 06./07.08. (So/Mo) bis 09./10.08. (Mi/Do) wird der Bus S1A zwischen Waidmannslust \<\> Frohnau \<\> Birkenwerder \<\> Oranienburg verlängert.
-
-  * Bus S8: Pankow-Heinersdorf \<\> Birkenwerder
-     Dieser Bus hält nicht direkt am S-Bahnhof Blankenburg.
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27237)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Erkner \<\> Friedrichshagen ###
@@ -67,65 +41,6 @@ Information
      Der 10-Minutentakt im Abschnitt Erkner \<\> Friedrichshagen wird auch Montag bis Freitag außerhalb der Hauptverkehrszeiten sowie Samstag und Sonntag im Früh- und Abendverkehr angeboten.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Strausberg Stadt \<\> Hegermühle \<\> Strausberg ###
-
-07.08. (Mo), ca. 4 Uhr durchgehend bis 14.08. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27240&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20349&tx_sbbconstructions_list%5Bperiod%5D=16970&type=5679&cHash=b94e51a8f491262d7421b2b1c274fcd4)
-
- Zugverkehr verändert
-
-Information
-
-* **kein Verkehrshalt** am S-Bahnhof Hegermühle
-  * Fahrgäste von bzw. mit dem Fahrtziel S Hegermühle benutzen bitte den Ersatzverkehr mit Bussen:
-     Bus S5: Strausberg Stadt \<\> Hegermühle \<\> Strausberg.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnhof-hegermuehle/#con-27240)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-bahnhof-hegermuehle/#c28871)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### Beusselstraße \<\> Gesundbrunnen ###
-
-11.08.23 (Fr), ca 21:45 Uhr - 14.08.23 (Mo), ca. 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27381&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20490&tx_sbbconstructions_list%5Bperiod%5D=17061&type=5679&cHash=19b2385dcbd2213a127577dffdf899a7)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen: Beusselstraße \<\> Gesundbrunnen
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-kabelumschaltungen/#con-27381)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Wannsee \<\> Potsdam Hbf ###
-
-13.08. (So), ca. 1 Uhr durchgehend bis 14.08. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27384&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20493&tx_sbbconstructions_list%5Bperiod%5D=17127&type=5679&cHash=0bab7664a050df7dcd00fa2620aadd3e)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-griebnitzsee-und-weichenarbeiten-in-wannsee/#con-27384)
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
