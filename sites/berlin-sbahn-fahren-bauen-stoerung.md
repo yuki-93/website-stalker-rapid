@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Ärztliche Versorgung eines Fahrgastes im Zug in Schöneberg beendet ###
-
- Letztes Update: 11:01 / 14.08.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Schöneberg kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
