@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Polizeieinsatz in Wannsee beendet ###
+### Ärztliche Versorgung eines Fahrgastes im Zug in Schöneberg beendet ###
 
- Letztes Update: 09:44 / 14.08.2023
+ Letztes Update: 11:01 / 14.08.2023
 
 Information
 
-Nach einem Polizeieinsatz in Wannsee kommt es auf den Linien S1 und S7 zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Schöneberg kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Entschuldigung
 
- Zugverkehr verändert  Verbindung verspätet
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
