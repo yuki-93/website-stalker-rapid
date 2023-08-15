@@ -4,11 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an mehreren Signalen im Bereich Hermannstraße ###
+
+ Letztes Update: 12:58 / 15.08.2023
+
+Information
+
+Wegen der Reparatur an mehreren Signalen im Bereich Hermannstraße kommt es auf den Linien S42, S45 und S46 zu Verspätungen und folgenden Einschränkungen:
+
+* die Linie S42 verkehrt nur im 10-Minuten-Takt
+* die Linie S45 verkehrt nur zwischen Flughafen BER Terminal 1-2 und Schöneweide
+  *Bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Unwetterauswirkungen zwischen Baumschulenweg und Treptower Park ###
 
- Letztes Update: 07:12 / 15.08.2023
+ Letztes Update: 12:58 / 15.08.2023
 
 Information
 
