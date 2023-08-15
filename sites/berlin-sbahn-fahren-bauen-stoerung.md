@@ -4,37 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an mehreren Signalen im Bereich Hermannstraße ###
+### Unwetterauswirkungen zwischen Baumschulenweg und Treptower Park beseitigt ###
 
- Letztes Update: 14:53 / 15.08.2023
-
-Information
-
-Wegen der Reparatur an mehreren Signalen im Bereich Hermannstraße kann es auf den Linien S42 und S46 zu Verspätungen kommen.
-
-Zusätzlich kommt es zu folgenden Einschränkungen:
-
-* auf der Linie S42 kommt es zu vereinzelten Ausfällen
-* die Linie S45 verkehrt nicht
-  *Bitte nutzen Sie zwischen Flughafen BER Terminal 1-2 und Südkreuz die Linien S9 und S46 mit Umsteigen in Baumschulenweg.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Unwetterauswirkungen zwischen Baumschulenweg und Treptower Park ###
-
- Letztes Update: 12:58 / 15.08.2023
+ Letztes Update: 15:51 / 15.08.2023
 
 Information
 
-Wegen Unwetterauswirkungen zwischen Baumschulenweg und Treptower Park kommt es auf den Linien S8, S85 und S9 zu Verspätungen und Ausfällen.
+Nach Beseitigung der Unwetterauswirkungen zwischen Baumschulenweg und Treptower Park verkehrt die Linie S85 nicht.
 
-* Die Linie S85 verkehrt nicht.
+Bitte nutzen Sie alternativ die Linie S8.
 
 Wir bitten um Verständnis.
 
