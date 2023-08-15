@@ -4,45 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur am Signal in Westkreuz ###
-
- Letztes Update: 23:09 / 15.08.2023
-
-Information
-
-Wegen der Reparatur am Signal in Westkreuz kommt es auf der Linien S5 zu Ausfällen zwischen Charlottenburg und Westkreuz.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz Anhalter Bahnhof \<\> Oranienburger Straße beendet ###
-
- Letztes Update: 23:05 / 15.08.2023
-
-Information
-
-Nach einem Polizeieinsatz zwischen Anhalter Bahnhof \<\> Oranienburger Straße kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Notarzteinsatz auf der Strecke im Bereich Beusselstraße ###
+### Notarzteinsatz auf der Strecke im Bereich Beusselstraße beendet ###
 
- Letztes Update: 23:01 / 15.08.2023
+ Letztes Update: 00:47 / 16.08.2023
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke im Bereich Beusselstraße ist der Zugverkehr der Linien S41 und S42 zwischen Wedding \<\> Westend unterbrochen.
-
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+Nach einem Notarzteinsatz auf der Strecke im Bereich Beusselstraße kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
