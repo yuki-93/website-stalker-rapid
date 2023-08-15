@@ -4,21 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S47](https://sbahn.berlin/fahren/s47/)
 
-### Notarzteinsatz auf der Strecke Sundgauer Straße ###
+### umgestürzter Baum zwischen Schöneweide \<\> Spindlersfeld ###
 
- Letztes Update: 01:06 / 15.08.2023
+ Letztes Update: 04:44 / 15.08.2023
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Sundgauer Straße ist der Zugverkehr der Linie S1 zwischen Botanischer Garten \<\> Zehlendorf unterbrochen.
+Wegen eines umgestürzten Baumes (nach Unwetter) ist der Zugverkehr der Linie s47 zwischen Schöneweide \<\> Spindlersfeld unterbrochen.
 
 Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
 
 Wir bitten um Verständnis.
 
  fährt nicht  Verbindung unterbrochen
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Unwetterauswirkungen zwischen Baumschulenweg und Treptower Park ###
+
+ Letztes Update: 04:25 / 15.08.2023
+
+Information
+
+Wegen Unwetterauswirkungen zwischen Baumschulenweg und Treptower Park kommt es auf den Linien S8, S85 und S9 zu Verspätungen und Ausfällen.
+
+Die Linie S85 verkehrt nicht.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
