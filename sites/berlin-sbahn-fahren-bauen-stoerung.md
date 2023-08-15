@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Unwetterauswirkungen zwischen Baumschulenweg und Treptower Park beseitigt ###
-
- Letztes Update: 15:51 / 15.08.2023
-
-Information
-
-Nach Beseitigung der Unwetterauswirkungen zwischen Baumschulenweg und Treptower Park verkehrt die Linie S85 nicht.
-
-Bitte nutzen Sie alternativ die Linie S8.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
