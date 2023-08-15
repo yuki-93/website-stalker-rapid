@@ -4,6 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Unwetterauswirkungen zwischen Baumschulenweg und Treptower Park ###
+
+ Letztes Update: 07:12 / 15.08.2023
+
+Information
+
+Wegen Unwetterauswirkungen zwischen Baumschulenweg und Treptower Park kommt es auf den Linien S8, S85 und S9 zu Verspätungen und Ausfällen.
+
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Signalstörung nach Unwetter in Wittenau ###
+
+ Letztes Update: 06:36 / 15.08.2023
+
+Information
+
+Wegen einer Signalstörung nach Unwetter in Wittenau kommt es auf den Linien S1 und S26 zu Verspätungen und Ausfällen.
+
+* Linie S26: verkehrt Teltow Stadt \<\> Nordbahnhof.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S47](https://sbahn.berlin/fahren/s47/)
 
 ### umgestürzter Baum zwischen Schöneweide \<\> Spindlersfeld ###
@@ -25,22 +57,6 @@ Haltestellen des Ersatzverkehrs:
 Wir bitten um Verständnis.
 
  Ersatzverkehr  Verbindung unterbrochen
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Unwetterauswirkungen zwischen Baumschulenweg und Treptower Park ###
-
- Letztes Update: 04:25 / 15.08.2023
-
-Information
-
-Wegen Unwetterauswirkungen zwischen Baumschulenweg und Treptower Park kommt es auf den Linien S8, S85 und S9 zu Verspätungen und Ausfällen.
-
-Die Linie S85 verkehrt nicht.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
