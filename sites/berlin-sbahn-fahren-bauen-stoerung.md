@@ -36,28 +36,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
 
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### umgestürzter Baum zwischen Schöneweide \<\> Spindlersfeld ###
-
- Letztes Update: 06:07 / 15.08.2023
-
-Information
-
-Wegen eines umgestürzten Baumes (nach Unwetter) ist der Zugverkehr der Linie S47 zwischen Schöneweide \<\> Spindlersfeld unterbrochen.
-
-Ein Ersatzverkehr mit Bussen zwischen Schöneweide und Spindlersfeld ist eingerichtet.
-
-Haltestellen des Ersatzverkehrs:
-
-* Schöneweide: Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)
-* Oberspree: Oberspreestr. (Haltestelle "Bärenlauchstraße", Bus 165)
-* Spindlersfeld: Oberspreestr. (Haltestelle Bus 165, N64, N65)
-
-Wir bitten um Verständnis.
-
- Ersatzverkehr  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
