@@ -88,19 +88,25 @@ Das Anker-Erlebnis entdecken
 
   [Mehr erfahren Anker Ace Ladegerät](https://www.anker.com/eu-de/ace-charger?ref=productBanner2_8)
 
+* ### Starte durch mit USB-C ###
+
+  Entdecke USB-C Ladepower mit Anker
+
+  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner2_9)
+
 * ### Anker SOLIX F1200(PowerHouse 757) ###
 
   ### 1299Wh | 1500W ###
 
   Langlebige Stromquelle für zuhause & unterwegs
 
-  [Jetzt kaufenAnker SOLIX F1200(PowerHouse 757),1299Wh | 1500W](https://www.anker.com/eu-de/products/a1770?ref=productBanner2_9)
+  [Jetzt kaufenAnker SOLIX F1200(PowerHouse 757),1299Wh | 1500W](https://www.anker.com/eu-de/products/a1770?ref=productBanner2_10)
 
 * ### AnkerCredits Belohnungsprogramm ###
 
   Verdiene mit jedem Kauf AnkerCredits und sicher dir exklusive Vorteile
 
-  [Jetzt mitmachenAnkerCredits Belohnungsprogramm](https://anker.com/eu-de/ankercredits?ref=productBanner2_10)
+  [Jetzt mitmachenAnkerCredits Belohnungsprogramm](https://anker.com/eu-de/ankercredits?ref=productBanner2_11)
 
 Unentschlossen?
 

@@ -8,17 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### umgestürzter Baum zwischen Schöneweide \<\> Spindlersfeld ###
 
- Letztes Update: 04:44 / 15.08.2023
+ Letztes Update: 06:07 / 15.08.2023
 
 Information
 
-Wegen eines umgestürzten Baumes (nach Unwetter) ist der Zugverkehr der Linie s47 zwischen Schöneweide \<\> Spindlersfeld unterbrochen.
+Wegen eines umgestürzten Baumes (nach Unwetter) ist der Zugverkehr der Linie S47 zwischen Schöneweide \<\> Spindlersfeld unterbrochen.
 
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+Ein Ersatzverkehr mit Bussen zwischen Schöneweide und Spindlersfeld ist eingerichtet.
+
+Haltestellen des Ersatzverkehrs:
+
+* Schöneweide: Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)
+* Oberspree: Oberspreestr. (Haltestelle "Bärenlauchstraße", Bus 165)
+* Spindlersfeld: Oberspreestr. (Haltestelle Bus 165, N64, N65)
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Ersatzverkehr  Verbindung unterbrochen
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -324,34 +330,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Altglienicke ###
-
-15.08. (Di) bis 18.08. (Fr) jeweils in der Zeit 3:05 Uhr bis 3:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17156&type=5679&cHash=552f1eac11939508071788b79c39c602)
-
-21.08. (Mo) bis 25.08. (Fr) jeweils in der Zeit 3:05 Uhr bis 3:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17157&type=5679&cHash=b07693543fd2ae613cab2ae21f195932)
-
-28.08. (Mo), 3:05 Uhr bis 3:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17158&type=5679&cHash=08aca778f57563d7dc54415e220ccb00)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&type=5679&cHash=a2f6170e4d97a2832dd587a416dbb511)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt abweichend um 3:32 Uhr in Altglienicke
-* Der Zug fällt von Alexanderplatz bis Altglienicke aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Altglienicke \> Ostbahnhof ###
 
 15.08. (Di) bis 18.08. (Fr) jeweils in der Zeit 1:43 Uhr bis 2:08 Uhr
@@ -375,6 +353,34 @@ Information
 * Der Zug Flughafen BER – Terminal 1-2 ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 1:43 Uhr in Altglienicke.
 * Der Zug fällt von Altglienicke bis Ostbahnhof aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Altglienicke ###
+
+15.08. (Di) bis 18.08. (Fr) jeweils in der Zeit 3:05 Uhr bis 3:32 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17156&type=5679&cHash=552f1eac11939508071788b79c39c602)
+
+21.08. (Mo) bis 25.08. (Fr) jeweils in der Zeit 3:05 Uhr bis 3:32 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17157&type=5679&cHash=b07693543fd2ae613cab2ae21f195932)
+
+28.08. (Mo), 3:05 Uhr bis 3:32 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17158&type=5679&cHash=08aca778f57563d7dc54415e220ccb00)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&type=5679&cHash=a2f6170e4d97a2832dd587a416dbb511)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt abweichend um 3:32 Uhr in Altglienicke
+* Der Zug fällt von Alexanderplatz bis Altglienicke aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -765,34 +771,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Altglienicke ###
-
-15.08. (Di) bis 18.08. (Fr) jeweils in der Zeit 3:05 Uhr bis 3:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17156&type=5679&cHash=552f1eac11939508071788b79c39c602)
-
-21.08. (Mo) bis 25.08. (Fr) jeweils in der Zeit 3:05 Uhr bis 3:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17157&type=5679&cHash=b07693543fd2ae613cab2ae21f195932)
-
-28.08. (Mo), 3:05 Uhr bis 3:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17158&type=5679&cHash=08aca778f57563d7dc54415e220ccb00)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&type=5679&cHash=a2f6170e4d97a2832dd587a416dbb511)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt abweichend um 3:32 Uhr in Altglienicke
-* Der Zug fällt von Alexanderplatz bis Altglienicke aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Altglienicke \> Ostbahnhof ###
 
 15.08. (Di) bis 18.08. (Fr) jeweils in der Zeit 1:43 Uhr bis 2:08 Uhr
@@ -816,6 +794,34 @@ Information
 * Der Zug Flughafen BER – Terminal 1-2 ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 1:43 Uhr in Altglienicke.
 * Der Zug fällt von Altglienicke bis Ostbahnhof aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Altglienicke ###
+
+15.08. (Di) bis 18.08. (Fr) jeweils in der Zeit 3:05 Uhr bis 3:32 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17156&type=5679&cHash=552f1eac11939508071788b79c39c602)
+
+21.08. (Mo) bis 25.08. (Fr) jeweils in der Zeit 3:05 Uhr bis 3:32 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17157&type=5679&cHash=b07693543fd2ae613cab2ae21f195932)
+
+28.08. (Mo), 3:05 Uhr bis 3:32 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17158&type=5679&cHash=08aca778f57563d7dc54415e220ccb00)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&type=5679&cHash=a2f6170e4d97a2832dd587a416dbb511)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt abweichend um 3:32 Uhr in Altglienicke
+* Der Zug fällt von Alexanderplatz bis Altglienicke aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
