@@ -8,13 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an mehreren Signalen im Bereich Hermannstraße ###
 
- Letztes Update: 13:21 / 15.08.2023
+ Letztes Update: 14:53 / 15.08.2023
 
 Information
 
-Wegen der Reparatur an mehreren Signalen im Bereich Hermannstraße kommt es auf den Linien S42, S45 und S46 zu Verspätungen und folgenden Einschränkungen:
+Wegen der Reparatur an mehreren Signalen im Bereich Hermannstraße kann es auf den Linien S42 und S46 zu Verspätungen kommen.
 
-* die Linie S42 verkehrt nur im 10-Minuten-Takt
+Zusätzlich kommt es zu folgenden Einschränkungen:
+
+* auf der Linie S42 kommt es zu vereinzelten Ausfällen
 * die Linie S45 verkehrt nicht
   *Bitte nutzen Sie zwischen Flughafen BER Terminal 1-2 und Südkreuz die Linien S9 und S46 mit Umsteigen in Baumschulenweg.*
 
