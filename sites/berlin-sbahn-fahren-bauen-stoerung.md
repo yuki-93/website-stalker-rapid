@@ -2,6 +2,38 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz Anhalter Bahnhof \<\> Oranienburger Straße ###
+
+ Letztes Update: 22:06 / 15.08.2023
+
+Information
+
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S1, S2 und S25 zwischen Anhalter Bahnhof \<\> Oranienburger Straße unterbrochen.
+
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur am Signal in Westkreuz ###
+
+ Letztes Update: 21:54 / 15.08.2023
+
+Information
+
+Wegen der Reparatur am Signal in Westkreuz kommt es auf den Linien S5 und S7 zu Ausfällen zwischen Charlottenburg und Westkreuz.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
