@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur am Signal Karlshorst ###
+
+ Letztes Update: 11:01 / 16.08.2023
+
+Information
+
+Wegen einer Reparatur am Signal in Karlshorst kommt es auf der Linie S3 zu Verspätungen und Zugausfällen.
+*Die Linie verkehrt zwischen Erkner und Spandau im 20-Minuten-Takt.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
