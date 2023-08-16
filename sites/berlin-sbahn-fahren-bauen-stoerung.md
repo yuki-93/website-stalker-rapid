@@ -8,12 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Signal Karlshorst ###
 
- Letztes Update: 11:01 / 16.08.2023
+ Letztes Update: 11:18 / 16.08.2023
 
 Information
 
 Wegen einer Reparatur am Signal in Karlshorst kommt es auf der Linie S3 zu Verspätungen und Zugausfällen.
-*Die Linie verkehrt zwischen Erkner und Spandau im 20-Minuten-Takt.*
+*Der 10-Minuten-Takt kann zwischen Erkner und Ostbahnhof nicht angeboten werden. Die Linie verkehrt daher durchgehend im 20-Minuten.Takt.*
 
 Wir bitten um Entschuldigung.
 
