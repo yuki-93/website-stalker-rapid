@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### techn. Untersuchung am Zug Lichtenberg ###
+
+ Letztes Update: 12:21 / 17.08.2023
+
+Information
+
+Wegen einer techn. Untersuchung am Zug in Lichtenberg kommt es auf der Linie S75 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
