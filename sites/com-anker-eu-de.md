@@ -21,7 +21,7 @@ Schneller. Gleichzeitig. Überall.
 
 [Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/anker-prime?ref=masterBanner1)
 
-Jetzt vorbestellen und **100€** sparen!
+Mit 100€ Rabatt und 5% Cash-Back vorbestellen!
 
 Anker SOLIX Solarbank
 
