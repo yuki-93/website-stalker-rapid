@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Signal zwischen Treptower Park und Plänterwald beendet ###
-
- Letztes Update: 05:09 / 17.08.2023
-
-Information
-
-Nach der Reparatur am Signal zwischen Treptower Park und Plänterwald verkehrt die Linie S85 nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
