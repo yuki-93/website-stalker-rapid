@@ -121,34 +121,6 @@ Information
 
  Nur Nachts
 
-### Altglienicke \> Ostbahnhof ###
-
-15.08. (Di) bis 18.08. (Fr) jeweils in der Zeit 1:43 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20667&tx_sbbconstructions_list%5Bperiod%5D=17153&type=5679&cHash=612bf0bdf11d888a0bb134ee1e352cc7)
-
-21.08. (Mo) bis 25.08. (Fr) jeweils in der Zeit 1:43 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20667&tx_sbbconstructions_list%5Bperiod%5D=17154&type=5679&cHash=e718d0ae0fbee98e39bf22874ec242f4)
-
-28.08. (Mo), 1:43 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20667&tx_sbbconstructions_list%5Bperiod%5D=17155&type=5679&cHash=dc8c0639f853ff41814b4de9d67744fb)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20667&type=5679&cHash=57c39fc262096b77662abdd291f11042)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 1:43 Uhr in Altglienicke.
-* Der Zug fällt von Altglienicke bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Alexanderplatz \> Altglienicke ###
 
 15.08. (Di) bis 18.08. (Fr) jeweils in der Zeit 3:05 Uhr bis 3:32 Uhr
