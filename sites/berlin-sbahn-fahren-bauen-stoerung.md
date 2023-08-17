@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur am Signal zwischen Treptower Park und Plänterwald ###
+### Reparatur am Signal zwischen Treptower Park und Plänterwald beendet ###
 
- Letztes Update: 04:09 / 17.08.2023
+ Letztes Update: 05:09 / 17.08.2023
 
 Information
 
-Wegen der Reparatur am Signal zwischen Treptower Park und Plänterwald kommt es auf den Linien S8, S85 und S9 zu Verspätungen und Ausfällen.
-
-Die Linie S85 verkehrt nicht.
+Nach der Reparatur am Signal zwischen Treptower Park und Plänterwald verkehrt die Linie S85 nicht.
 
 Wir bitten um Entschuldigung.
 

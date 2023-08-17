@@ -60,7 +60,7 @@ Das Anker-Erlebnis entdecken
   ### Das Upgrade auf 800W ###
 
   SOLIX RS40P | RS40 Balkonkraftwerk
-  Bis zu 490€ Rabatt
+  Bis zu 590€ Rabatt
 
   [Mehr erfahren ,Das Upgrade auf 800W](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_4)
 
