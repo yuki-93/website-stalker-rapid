@@ -4,11 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)
+[S75](https://sbahn.berlin/fahren/s75/)
 
 ### techn. Untersuchung am Zug Lichtenberg ###
 
- Letztes Update: 12:21 / 17.08.2023
+ Letztes Update: 12:44 / 17.08.2023
 
 Information
 
