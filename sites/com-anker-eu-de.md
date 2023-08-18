@@ -353,6 +353,8 @@ Produkte
 
 [Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=footer)
 
+[Balkonkraftwerk mit Speicher](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher?ref=footer)
+
 [Angebote](https://www.anker.com/eu-de/earth-day-powerstationen?ref=footer)
 
 [Tragbare Powerstation](https://www.anker.com/eu-de/collections/portable-power-stations?ref=footer)
