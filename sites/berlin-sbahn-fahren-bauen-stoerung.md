@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz wegen unbefugter Person auf der Strecke in Warschauer Straße beendet ###
 
- Letztes Update: 18:43 / 18.08.2023
+ Letztes Update: 19:37 / 18.08.2023
 
 Information
 
 Nach einem Polizeieinsatz wegen einer unbefugten Person auf der Strecke in Warschauer Straße kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-* Die Linie S75 verkehrt nur zwischen Wartenberg und Lichtenberg im 20-Minuten-Takt, *bitte nutzen Sie zwischen Lichtenberg und Warschauer Straße die Linien S5 und S7*.
 
 Wir bitten um Ihr Verständnis.
 
