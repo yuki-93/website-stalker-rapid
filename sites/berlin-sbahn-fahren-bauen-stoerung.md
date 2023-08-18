@@ -96,123 +96,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/aufhebung-bauzustand-inbetriebnahme-gleis-4/#con-27642)
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Wartenberg \<\> Warschauer Straße ###
-
-19.06. (Mo), ca. 4 Uhr durchgehend bis 21.09. (Do), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16985&type=5679&cHash=86ab8834f5cf0591b21c4c15159327f2)
-
- Takt geändert
-
-Information
-
-* ***kein Halt*** in Gehrenseestraße
-* Taktänderung: Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gehrenseestraße ###
-
-19.06. (Mo) 4 Uhr bis 08.12. (Fr) 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16986&type=5679&cHash=c20df51cc9cacfaba516395f041fa5cb)
-
- Zugverkehr verändert
-
-Information
-
-* keine Halt in Gehrenseestraße
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Erkner \<\> Friedrichshagen ###
-
-vom 28.07. (Fr), ca. 4 Uhr durchgehend bis 28.08. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27591&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20712&tx_sbbconstructions_list%5Bperiod%5D=17100&type=5679&cHash=7a3dc6306e7b42349c168ca5bc2be9d5)
-
- Zugverkehr verändert
-
-Information
-
-* Linienführung:
-  * S3 fährt
-     Erkner \<\> Spandau;
-     10-Minutentakt: Erkner \<\> Ostbahnhof
-     Der 10-Minutentakt im Abschnitt Erkner \<\> Friedrichshagen wird auch Montag bis Freitag außerhalb der Hauptverkehrszeiten sowie Samstag und Sonntag im Früh- und Abendverkehr angeboten.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Blankenburg \<\> Schönfließ ###
-
-14.08. (Mo), ca. 4 Uhr durchgehend bis 06.09. (Mi), ca, 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16961&type=5679&cHash=bed545f9e340843b52adf1057a57f36f)
-
-07.09. (Do), ca. 4 Uhr bis 07.09. (Do), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16962&type=5679&cHash=3f6fcfe789a8679934b13cde4479fd44)
-
-08.09 (Fr), ca. 4 Uhr bis 09.09.(Sa), ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16963&type=5679&cHash=81a7bbae273a264efd25f713a7e04fc2)
-
-10.09. (So), ca. 7 Uhr durchgehend 15.09., ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16964&type=5679&cHash=98eb74a079fd35223eb88872acfdada7)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&type=5679&cHash=17bdb239a816bd2db79bb22b01fd88df)
-
- Ersatzverkehr
-
-Information
-
-* kein Zugverkehr: Blankenburg \<\> Schönfließ
-* Ersatzverkehr mit Bussen:
-  * Bus S8B: Pankow-Heinersdorf \<\> Bergfelde
-  * Bus S8A: Pankow-Heinersdorf \<\> Hohen Neuendorf
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27235)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Grünau \<\> Hermannstraße ###
-
-vom 14.08. (Mo), ca. 4 Uhr durchgehend bis 28.08. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27642&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20766&tx_sbbconstructions_list%5Bperiod%5D=17126&type=5679&cHash=b4470cca9b319fb70dbc3ef90ae6f310)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S45 und S46
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/aufhebung-bauzustand-inbetriebnahme-gleis-4/#con-27642)
-
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
@@ -367,6 +250,123 @@ Information
   * In Waßmannsdorf fährt die S9 nach Spandau von Gleis 1, Bahnsteig stadtauswärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Wartenberg \<\> Warschauer Straße ###
+
+19.06. (Mo), ca. 4 Uhr durchgehend bis 21.09. (Do), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16985&type=5679&cHash=86ab8834f5cf0591b21c4c15159327f2)
+
+ Takt geändert
+
+Information
+
+* ***kein Halt*** in Gehrenseestraße
+* Taktänderung: Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Gehrenseestraße ###
+
+19.06. (Mo) 4 Uhr bis 08.12. (Fr) 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16986&type=5679&cHash=c20df51cc9cacfaba516395f041fa5cb)
+
+ Zugverkehr verändert
+
+Information
+
+* keine Halt in Gehrenseestraße
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Erkner \<\> Friedrichshagen ###
+
+vom 28.07. (Fr), ca. 4 Uhr durchgehend bis 28.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27591&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20712&tx_sbbconstructions_list%5Bperiod%5D=17100&type=5679&cHash=7a3dc6306e7b42349c168ca5bc2be9d5)
+
+ Zugverkehr verändert
+
+Information
+
+* Linienführung:
+  * S3 fährt
+     Erkner \<\> Spandau;
+     10-Minutentakt: Erkner \<\> Ostbahnhof
+     Der 10-Minutentakt im Abschnitt Erkner \<\> Friedrichshagen wird auch Montag bis Freitag außerhalb der Hauptverkehrszeiten sowie Samstag und Sonntag im Früh- und Abendverkehr angeboten.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Blankenburg \<\> Schönfließ ###
+
+14.08. (Mo), ca. 4 Uhr durchgehend bis 06.09. (Mi), ca, 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16961&type=5679&cHash=bed545f9e340843b52adf1057a57f36f)
+
+07.09. (Do), ca. 4 Uhr bis 07.09. (Do), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16962&type=5679&cHash=3f6fcfe789a8679934b13cde4479fd44)
+
+08.09 (Fr), ca. 4 Uhr bis 09.09.(Sa), ca. 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16963&type=5679&cHash=81a7bbae273a264efd25f713a7e04fc2)
+
+10.09. (So), ca. 7 Uhr durchgehend 15.09., ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16964&type=5679&cHash=98eb74a079fd35223eb88872acfdada7)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&type=5679&cHash=17bdb239a816bd2db79bb22b01fd88df)
+
+ Ersatzverkehr
+
+Information
+
+* kein Zugverkehr: Blankenburg \<\> Schönfließ
+* Ersatzverkehr mit Bussen:
+  * Bus S8B: Pankow-Heinersdorf \<\> Bergfelde
+  * Bus S8A: Pankow-Heinersdorf \<\> Hohen Neuendorf
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27235)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Grünau \<\> Hermannstraße ###
+
+vom 14.08. (Mo), ca. 4 Uhr durchgehend bis 28.08. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27642&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20766&tx_sbbconstructions_list%5Bperiod%5D=17126&type=5679&cHash=b4470cca9b319fb70dbc3ef90ae6f310)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S45 und S46
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/aufhebung-bauzustand-inbetriebnahme-gleis-4/#con-27642)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
 
