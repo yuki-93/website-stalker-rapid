@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz zwischen Gesundbrunnen und Bornholmer Straße ###
+
+ Letztes Update: 23:06 / 19.08.2023
+
+Information
+
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S1, S2 und S25 zwischen Gesundbrunnen und Bornholmer Straße unterbrochen.
+
+Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
