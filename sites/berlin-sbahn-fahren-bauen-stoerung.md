@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### unbefugte Personen auf der Strecke Ostkreuz \<\> Treptower Park ###
+
+ Letztes Update: 07:13 / 19.08.2023
+
+Information
+
+Wegen unbefugter Personen auf der Strecke Ostkreuz \<\> Treptower Park kommt es auf den Linien S41, S42 und S8 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
