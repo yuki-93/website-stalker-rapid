@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### unbefugte Personen auf der Strecke Ostkreuz \<\> Treptower Park ###
+### Polizeieinsatz (unbefugte Personen auf Strecke) im Bereich Treptower Park beendet ###
 
- Letztes Update: 07:13 / 19.08.2023
+ Letztes Update: 07:44 / 19.08.2023
 
 Information
 
-Wegen unbefugter Personen auf der Strecke Ostkreuz \<\> Treptower Park kommt es auf den Linien S41, S42 und S8 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz (unbefugte Personen auf Strecke) im Bereich Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
