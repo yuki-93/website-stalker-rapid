@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### unbefugte Personen auf der Strecke in Wartenberg ###
+
+ Letztes Update: 15:08 / 20.08.2023
+
+Information
+
+Wegen unbefugter Personen auf der Strecke in Wartenberg kommt es auf der Linie S75 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### ärztliche Versorgung eines Fahrgastes in Blankenburg beendet ###
+
+ Letztes Update: 14:52 / 20.08.2023
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Blankenburg kommt es auf den Linien S2 und S8 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
