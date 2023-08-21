@@ -4,6 +4,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz (unbefugte Personen auf der Strecke) beendet ###
+
+ Letztes Update: 19:06 / 21.08.2023
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) zwischen Oranienburger Straße \<\> Potsdamer Platz kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Streckensperrung Wannsee \<\> Griebnitzsee ###
