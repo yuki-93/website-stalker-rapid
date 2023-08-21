@@ -4,20 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an mehreren Weichen in Pankow ###
 
- Letztes Update: 11:44 / 21.08.2023
+ Letztes Update: 12:17 / 21.08.2023
 
 Information
 
 Wegen einer Reparatur an mehreren Weichen in Pankow ist der Zugverkehr der Linie S2 zwischen Nordbahnhof und Blankenburg unterbrochen.
-*Bitte nutzen Sie zwischen Nordbahnhof und Bornholmer Straße die Linien S1, S25 und S26 sowie zwischen Bornholmer Straße und Blankenburg die Linie S8.*
+ Bitte nutzen Sie zwischen Nordbahnhof und Bornholmer Straße die Linien S1, S25 und S26 sowie zwischen Bornholmer Straße und Blankenburg die Linie S8.
+
+Ein Ersatzverkehr mit Bussen ist zusätzlich zwischen Bornholmer Straße und Blankenburg eingerichtet.
+**Haltestellen des Ersatzverkehrs:**
+
+* S Blankenburg: Bahnhofstr. (Haltestelle Bus 150, 154)
+* S Pankow-Heinersdorf: Damerowstr. (Haltestelle Bus N50)
+* S Pankow: Berliner Str. (Haltestelle Bus 250, 255)
+* S Bornholmer Straße: SEV Haltestelle, westlich der Bösebrücke in Höhe der Tram-Haltestelle
 
 Die Linie S85 verkehrt nicht.
-
-In der Folge kann es auf den Linien S1, S2, S25, S26, S41, S42 und S8 zu Verspätungen und Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
