@@ -4,35 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
 ### Reparatur an mehreren Weichen in Pankow ###
 
- Letztes Update: 00:03 / 22.08.2023
+ Letztes Update: 00:34 / 22.08.2023
 
 Information
 
-Wegen der Reparatur an mehreren Weichen in Pankow ist der Zugverkehr der Linie S2 zwischen Nordbahnhof und Blankenburg ***sowie*** der Linie S85 zwischen Schöneweide und Pankow unterbrochen.
+Wegen der Reparatur an mehreren Weichen in Pankow ist der Zugverkehr der Linie S2 zwischen Nordbahnhof und Blankenburg unterbrochen.
 
-**Die betroffenen Linien fahren wie folgt:**
+**Die betroffene Linie fährt wie folgt:**
 
 * **S2**: Blankenfelde bzw. Lichtenrade \<\> Nordbahnhof ***sowie*** Blankenburg \<\> Bernau (im 20-Minuten-Takt)
-* **S85**: fährt nicht, *bitte nutzen Sie zwischen Schöneweide und Pankow die Linie S8*
 
 Zwischen Nordbahnhof und Bornholmer Straße nutzen Sie bitte die Linien S1 und S25 ***sowie*** zwischen Bornholmer Straße und Blankenburg die Linie S8.
-
----
-
-**Ein Ersatzverkehr mit Bussen ist zusätzlich zwischen Bornholmer Straße und Blankenburg eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Bornholmer Straße: SEV Haltestelle, westlich der Bösebrücke in Höhe der Tram-Haltestelle
-* ­S-Bhf. Pankow: Berliner Str. (BVG-Haltestelle Bus 250, 255)
-* S-Bhf. Pankow-Heinersdorf: Damerowstr. (BVG-Haltestelle Bus N50)
-* S-Bhf. Blankenburg: Bahnhofstr. (BVG-Haltestelle Bus 150, 154)
-
-**Beachten Sie bitte**: der Ersatzverkehr mit Bussen wird ab ca. 00:30 Uhr eingestellt, bitte nutzen Sie dann zwischen Bornholmer Straße und Blankenburg die Linie S8.
 
 Wir bitten um Entschuldigung.
 
