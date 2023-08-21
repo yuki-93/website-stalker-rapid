@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Streckensperrung Wannsee \<\> Griebnitzsee ###
+
+ Letztes Update: 17:36 / 21.08.2023
+
+Information
+
+Wegen einer Streckensperrung ist der Zugverkehr der Linie S7 zwischen Wannsee \<\> Griebnitzsee unterbrochen.
+
+Die Linie S7 verkehrt zwischen Ahrensfelde \<\> Wannsee (10-Minuten-Takt Ahrensfelde \<\> Grunewald) sowie Griebnitzsee \<\> Potsdam Hauptbahnhof im 20-Minuten-Takt.
+
+Bitte benutzen Sie zur Umfahrung den RE 1, RB 20 und RB 23.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an mehreren Weichen in Pankow ###
