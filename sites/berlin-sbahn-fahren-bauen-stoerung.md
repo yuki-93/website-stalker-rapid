@@ -8,20 +8,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an mehreren Weichen in Pankow ###
 
- Letztes Update: 10:50 / 21.08.2023
+ Letztes Update: 11:44 / 21.08.2023
 
 Information
 
-Wegen einer Reparatur an mehreren Weichen in Pankow ist der Zugverkehr der Linien S2 und S8 zwischen Gesundbrunnen/ Schönhauser Allee und Blankenburg unterbrochen.
- Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+Wegen einer Reparatur an mehreren Weichen in Pankow ist der Zugverkehr der Linie S2 zwischen Nordbahnhof und Blankenburg unterbrochen.
+*Bitte nutzen Sie zwischen Nordbahnhof und Bornholmer Straße die Linien S1, S25 und S26 sowie zwischen Bornholmer Straße und Blankenburg die Linie S8.*
+
+Die Linie S85 verkehrt nicht.
 
 In der Folge kann es auf den Linien S1, S2, S25, S26, S41, S42 und S8 zu Verspätungen und Zugausfällen kommen.
 
-*Die Linie S85 verkehrt nicht.*
-
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
