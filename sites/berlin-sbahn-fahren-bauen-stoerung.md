@@ -4,44 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### vorübergehend verminderte Geschwindigkeit auf der Strecke Wannsee \<\> Griebnitzsee ###
-
- Letztes Update: 20:24 / 21.08.2023
-
-Information
-
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke Wannsee \<\> Griebnitzsee verkehrt die Linie S7 zwischen Grunewald \<\> Potsdam Hauptbahnhof nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an mehreren Weichen in Pankow ###
 
- Letztes Update: 12:17 / 21.08.2023
+ Letztes Update: 21:21 / 21.08.2023
 
 Information
 
-Wegen einer Reparatur an mehreren Weichen in Pankow ist der Zugverkehr der Linie S2 zwischen Nordbahnhof und Blankenburg unterbrochen.
- Bitte nutzen Sie zwischen Nordbahnhof und Bornholmer Straße die Linien S1, S25 und S26 sowie zwischen Bornholmer Straße und Blankenburg die Linie S8.
+Wegen der Reparatur an mehreren Weichen in Pankow ist der Zugverkehr der Linie S2 zwischen Nordbahnhof und Blankenburg ***sowie*** der Linie S85 zwischen Schöneweide und Pankow unterbrochen.
 
-Ein Ersatzverkehr mit Bussen ist zusätzlich zwischen Bornholmer Straße und Blankenburg eingerichtet.
-**Haltestellen des Ersatzverkehrs:**
+**Die betroffenen Linien fahren wie folgt:**
 
-* S Blankenburg: Bahnhofstr. (Haltestelle Bus 150, 154)
-* S Pankow-Heinersdorf: Damerowstr. (Haltestelle Bus N50)
-* S Pankow: Berliner Str. (Haltestelle Bus 250, 255)
-* S Bornholmer Straße: SEV Haltestelle, westlich der Bösebrücke in Höhe der Tram-Haltestelle
+* **S2**: Blankenfelde bzw. Lichtenrade \<\> Nordbahnhof ***sowie*** Blankenburg \<\> Bernau (im 20-Minuten-Takt)
+* **S85**: fährt nicht, *bitte nutzen Sie zwischen Schöneweide und Pankow die Linie S8*
 
-Die Linie S85 verkehrt nicht.
+Zwischen Nordbahnhof und Bornholmer Straße nutzen Sie bitte die Linien S1, S25 und S26 ***sowie*** zwischen Bornholmer Straße und Blankenburg die Linie S8.
+
+---
+
+**Ein Ersatzverkehr mit Bussen ist zusätzlich zwischen Bornholmer Straße und Blankenburg eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S-Bhf. Bornholmer Straße: SEV Haltestelle, westlich der Bösebrücke in Höhe der Tram-Haltestelle
+* ­S-Bhf. Pankow: Berliner Str. (Haltestelle Bus 250, 255)
+* S-Bhf. Pankow-Heinersdorf: Damerowstr. (Haltestelle Bus N50)
+* S-Bhf. Blankenburg: Bahnhofstr. (Haltestelle Bus 150, 154)
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
