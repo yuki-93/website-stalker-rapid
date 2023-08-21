@@ -4,35 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke) beendet ###
-
- Letztes Update: 19:06 / 21.08.2023
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) zwischen Oranienburger Straße \<\> Potsdamer Platz kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Streckensperrung Wannsee \<\> Griebnitzsee ###
+### vorübergehend verminderte Geschwindigkeit auf der Strecke Wannsee \<\> Griebnitzsee ###
 
- Letztes Update: 17:36 / 21.08.2023
+ Letztes Update: 20:24 / 21.08.2023
 
 Information
 
-Wegen einer Streckensperrung ist der Zugverkehr der Linie S7 zwischen Wannsee \<\> Griebnitzsee unterbrochen.
-
-Die Linie S7 verkehrt zwischen Ahrensfelde \<\> Wannsee (10-Minuten-Takt Ahrensfelde \<\> Grunewald) sowie Griebnitzsee \<\> Potsdam Hauptbahnhof im 20-Minuten-Takt.
-
-Bitte benutzen Sie zur Umfahrung den RE 1, RB 20 und RB 23.
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke Wannsee \<\> Griebnitzsee verkehrt die Linie S7 zwischen Grunewald \<\> Potsdam Hauptbahnhof nur im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
