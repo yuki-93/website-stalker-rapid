@@ -197,6 +197,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 Information
 
+* Bombenentschärfung **entfällt**
+  * **Der Zugverkehr erfolgt planmäßig**
+
 * kein Verkehrshalt in Lehnitz:
   * von ca. 8 Uhr bis ca. 11 Uhr
 
