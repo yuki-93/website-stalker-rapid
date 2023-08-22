@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an mehreren Weichen in Pankow und Blankenburg ###
 
- Letztes Update: 08:51 / 22.08.2023
+ Letztes Update: 09:39 / 22.08.2023
 
 Information
 
@@ -16,7 +16,7 @@ Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg kann es auf de
 
 *Auf der Linie S2 ist in Blankenburg in Fahrtrichtung Blankenfelde ein Umstieg mit Bahnsteigseitenwechsel erforderlich und der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.*
 
-Die Linie S85 verkehrt nicht.
+Die Linie S85 verkehrt Treptower Park \<\> Schöneweide und weiter als S47 Schöneweide \<\> Spindlersfeld.
 
 Wir bitten um Entschuldigung.
 
