@@ -6,49 +6,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an mehreren Weichen in Pankow ###
+### Reparatur an mehreren Weichen in Pankow und Blankenburg ###
 
- Letztes Update: 04:32 / 22.08.2023
+ Letztes Update: 06:52 / 22.08.2023
 
 Information
 
-Wegen der Reparatur an mehreren Weichen in Pankow ist der Zugverkehr der Linie S2 zwischen Nordbahnhof und Blankenburg ***sowie*** der Linie S8 zwischen Treptower Park und Blankenburg unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg ist auf der Linie S2 in Blankenburg Fahrtrichtung Blankenfelde ein Umstieg mit Bahnsteigseitenwechsel erforderlich.
+*Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.*
 
-**Die betroffenen Linien fahren wie folgt:**
+Auf den Linien S2 und S8 kann es zu Verspätungen und Zugausfällen kommen.
 
-* **S2**: Blankenfelde bzw. Lichtenrade \<\> Nordbahnhof ***sowie*** Blankenburg \<\> Bernau (im 20-Minuten-Takt), *bitte nutzen Sie* *zwischen Nordbahnhof und Bornholmer Straße die Linien S1, S25 und S26.*
-* **S8**: Wildau/ Grünau \<\> Treptower Park, *bitte nutzen Sie zwischen Treptower Park und Gesundbrunnen die Linien S41 und S42 sowie zwischen Gesundbrunnen und Bornholmer Straße die Linien S1, S25 und S26.*
-* **S85**: fährt nicht
+Die Linie S85 verkehrt nicht.
 
----
+*Ein Ersatzverkehr mit Bussen ist weiterhin zwischen Bornholmer Straße und Blankenburg eingerichtet.*
 
-**Zwischen Pankow und Blankenburg besteht S-Bahn-Pendelverkehr im 20-Minuten-Takt.**
-
-* **Abfahrtzeiten ab Blankenburg nach Pankow:** jeweils zur Minute 00, 20, 40
-* **Abfahrtzeiten ab Pankow nach Blankenburg:** jeweils zur Minute 11, 31, 51
-
----
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Bornholmer Straße und Blankenburg eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
+Haltestellen des Ersatzverkehrs:
 
 * S-Bhf. Bornholmer Straße: SEV Haltestelle, westlich der Bösebrücke in Höhe der Tram-Haltestelle
 * ­S-Bhf. Pankow: Berliner Str. (BVG-Haltestelle Bus 250, 255)
 * S-Bhf. Pankow-Heinersdorf: Damerowstr. (BVG-Haltestelle Bus N50)
 * S-Bhf. Blankenburg: Bahnhofstr. (BVG-Haltestelle Bus 150, 154)
 
----
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen S-Bhf. Bornholmer Straße und S+U-Bhf. Pankow die Tramlinie 50
-* zwischen Schönhauser Allee und Pankow die U-Bahnlinie U2
-* zwischen Gesundbrunnen und Bernau die Regionalbahnlinie RE3
-
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
