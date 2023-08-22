@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Reparatur an mehreren Weichen in Pankow und Blankenburg ###
+
+ Letztes Update: 01:06 / 23.08.2023
+
+Information
+
+Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg kommt es auf der Linie S2 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Der **10-Minuten-Takt** kann nur **zwischen Lichtenrade und Nordbahnhof** angeboten werden.
+* In Blankenburg ist **in****Fahrtrichtung Blankenfelde** ein **Umstieg** erforderlich, die Weiterfahrt nach Blankenfelde erfolgt vom Gleis gegenüber.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### defektes Stellwerk in Gesundbrunnen ###
@@ -17,24 +34,6 @@ Wegen eines defekten Stellwerks in Gesundbrunnen kommt es auf den Linien S41 und
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an mehreren Weichen in Pankow und Blankenburg ###
-
- Letztes Update: 22:18 / 22.08.2023
-
-Information
-
-Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg kann es auf den Linien S2 und S8 zu Verspätungen und Zugausfällen kommen.
-
-**Beachten Sie bitte**: auf der Linie S2 ist in Blankenburg in Fahrtrichtung Blankenfelde ein Umstieg mit Bahnsteigseitenwechsel erforderlich.
-
-Der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
