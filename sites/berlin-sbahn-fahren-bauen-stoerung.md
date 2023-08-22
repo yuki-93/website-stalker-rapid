@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an mehreren Weichen in Pankow ###
 
- Letztes Update: 01:47 / 22.08.2023
+ Letztes Update: 04:32 / 22.08.2023
 
 Information
 
@@ -48,7 +48,7 @@ Wegen der Reparatur an mehreren Weichen in Pankow ist der Zugverkehr der Linie S
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
