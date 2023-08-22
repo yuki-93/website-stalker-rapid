@@ -4,19 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an mehreren Weichen in Pankow und Blankenburg ###
 
- Letztes Update: 09:39 / 22.08.2023
+ Letztes Update: 16:40 / 22.08.2023
 
 Information
 
 Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg kann es auf den Linien S2 und S8 zu Verspätungen und Zugausfällen kommen.
 
 *Auf der Linie S2 ist in Blankenburg in Fahrtrichtung Blankenfelde ein Umstieg mit Bahnsteigseitenwechsel erforderlich und der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.*
-
-Die Linie S85 verkehrt Treptower Park \<\> Schöneweide und weiter als S47 Schöneweide \<\> Spindlersfeld.
 
 Wir bitten um Entschuldigung.
 
