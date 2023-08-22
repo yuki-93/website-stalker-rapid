@@ -8,25 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an mehreren Weichen in Pankow und Blankenburg ###
 
- Letztes Update: 06:52 / 22.08.2023
+ Letztes Update: 08:51 / 22.08.2023
 
 Information
 
-Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg ist auf der Linie S2 in Blankenburg Fahrtrichtung Blankenfelde ein Umstieg mit Bahnsteigseitenwechsel erforderlich.
-*Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.*
+Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg kann es auf den Linien S2 und S8 zu Verspätungen und Zugausfällen kommen.
 
-Auf den Linien S2 und S8 kann es zu Verspätungen und Zugausfällen kommen.
+*Auf der Linie S2 ist in Blankenburg in Fahrtrichtung Blankenfelde ein Umstieg mit Bahnsteigseitenwechsel erforderlich und der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.*
 
 Die Linie S85 verkehrt nicht.
-
-*Ein Ersatzverkehr mit Bussen ist weiterhin zwischen Bornholmer Straße und Blankenburg eingerichtet.*
-
-Haltestellen des Ersatzverkehrs:
-
-* S-Bhf. Bornholmer Straße: SEV Haltestelle, westlich der Bösebrücke in Höhe der Tram-Haltestelle
-* ­S-Bhf. Pankow: Berliner Str. (BVG-Haltestelle Bus 250, 255)
-* S-Bhf. Pankow-Heinersdorf: Damerowstr. (BVG-Haltestelle Bus N50)
-* S-Bhf. Blankenburg: Bahnhofstr. (BVG-Haltestelle Bus 150, 154)
 
 Wir bitten um Entschuldigung.
 
