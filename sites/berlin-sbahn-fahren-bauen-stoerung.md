@@ -4,25 +4,51 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an mehreren Weichen in Pankow ###
 
- Letztes Update: 00:34 / 22.08.2023
+ Letztes Update: 01:47 / 22.08.2023
 
 Information
 
-Wegen der Reparatur an mehreren Weichen in Pankow ist der Zugverkehr der Linie S2 zwischen Nordbahnhof und Blankenburg unterbrochen.
+Wegen der Reparatur an mehreren Weichen in Pankow ist der Zugverkehr der Linie S2 zwischen Nordbahnhof und Blankenburg ***sowie*** der Linie S8 zwischen Treptower Park und Blankenburg unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
-**Die betroffene Linie fährt wie folgt:**
+**Die betroffenen Linien fahren wie folgt:**
 
-* **S2**: Blankenfelde bzw. Lichtenrade \<\> Nordbahnhof ***sowie*** Blankenburg \<\> Bernau (im 20-Minuten-Takt)
+* **S2**: Blankenfelde bzw. Lichtenrade \<\> Nordbahnhof ***sowie*** Blankenburg \<\> Bernau (im 20-Minuten-Takt), *bitte nutzen Sie* *zwischen Nordbahnhof und Bornholmer Straße die Linien S1, S25 und S26.*
+* **S8**: Wildau/ Grünau \<\> Treptower Park, *bitte nutzen Sie zwischen Treptower Park und Gesundbrunnen die Linien S41 und S42 sowie zwischen Gesundbrunnen und Bornholmer Straße die Linien S1, S25 und S26.*
+* **S85**: fährt nicht
 
-Zwischen Nordbahnhof und Bornholmer Straße nutzen Sie bitte die Linien S1 und S25 ***sowie*** zwischen Bornholmer Straße und Blankenburg die Linie S8.
+---
+
+**Zwischen Pankow und Blankenburg besteht S-Bahn-Pendelverkehr im 20-Minuten-Takt.**
+
+* **Abfahrtzeiten ab Blankenburg nach Pankow:** jeweils zur Minute 00, 20, 40
+* **Abfahrtzeiten ab Pankow nach Blankenburg:** jeweils zur Minute 11, 31, 51
+
+---
+
+**Ein Ersatzverkehr mit Bussen ist zwischen Bornholmer Straße und Blankenburg eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S-Bhf. Bornholmer Straße: SEV Haltestelle, westlich der Bösebrücke in Höhe der Tram-Haltestelle
+* ­S-Bhf. Pankow: Berliner Str. (BVG-Haltestelle Bus 250, 255)
+* S-Bhf. Pankow-Heinersdorf: Damerowstr. (BVG-Haltestelle Bus N50)
+* S-Bhf. Blankenburg: Bahnhofstr. (BVG-Haltestelle Bus 150, 154)
+
+---
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen S-Bhf. Bornholmer Straße und S+U-Bhf. Pankow die Tramlinie 50
+* zwischen Schönhauser Allee und Pankow die U-Bahnlinie U2
+* zwischen Gesundbrunnen und Bernau die Regionalbahnlinie RE3
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
@@ -182,30 +208,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/auswechselung-von-weichenantrieben-in-gesundbrunnen/#con-27732)
 
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Altglienicke \> Ostbahnhof ###
-
-21.08. (Mo) bis 25.08. (Fr) jeweils in der Zeit 1:43 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20667&tx_sbbconstructions_list%5Bperiod%5D=17154&type=5679&cHash=e718d0ae0fbee98e39bf22874ec242f4)
-
-28.08. (Mo), 1:43 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20667&tx_sbbconstructions_list%5Bperiod%5D=17155&type=5679&cHash=dc8c0639f853ff41814b4de9d67744fb)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20667&type=5679&cHash=57c39fc262096b77662abdd291f11042)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 1:43 Uhr in Altglienicke.
-* Der Zug fällt von Altglienicke bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
