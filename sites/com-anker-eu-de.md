@@ -2,6 +2,10 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_4e559c
 
 []()
 
+Bis zu 30% Rabatt & 5% Geldprämien
+
+[Jetzt kaufen \>\>](https://www.anker.com/eu-de/back-to-school-chg)
+
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| LIVE IN POWER](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt sparen \>\>](https://www.anker.com/eu-de/anker-solix/tragbare-powerstation-angebote-pps?ref=naviBar)
 
 Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Back-To-School](https://www.anker.com/eu-de/back-to-school-chg?ref=naviMenu)
@@ -33,12 +37,12 @@ Akku mit 1600Wh | 6000 Ladezyklen
 Das Anker-Erlebnis entdecken
 ----------
 
-* ### Bis zu 29% Rabatt,
+* ### Bis zu 30% Rabatt,
    5% Geldprämien ###
 
   Der exklusive Back-To-School Sale von Anker
 
-  [Zum Angebot Bis zu 29% Rabatt, 5% Geldprämien](https://www.anker.com/eu-de/back-to-school-chg?ref=productBanner2_1)
+  [Zum Angebot Bis zu 30% Rabatt, 5% Geldprämien](https://www.anker.com/eu-de/back-to-school-chg?ref=productBanner2_1)
 
 * ### Entdecke die besten Powerbanks für unterwegs  ###
 
