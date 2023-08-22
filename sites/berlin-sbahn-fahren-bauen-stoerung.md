@@ -8,17 +8,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an mehreren Weichen in Pankow und Blankenburg ###
 
- Letztes Update: 16:40 / 22.08.2023
+ Letztes Update: 22:18 / 22.08.2023
 
 Information
 
 Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg kann es auf den Linien S2 und S8 zu Verspätungen und Zugausfällen kommen.
 
-*Auf der Linie S2 ist in Blankenburg in Fahrtrichtung Blankenfelde ein Umstieg mit Bahnsteigseitenwechsel erforderlich und der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.*
+**Beachten Sie bitte**: auf der Linie S2 ist in Blankenburg in Fahrtrichtung Blankenfelde ein Umstieg mit Bahnsteigseitenwechsel erforderlich.
+
+Der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
