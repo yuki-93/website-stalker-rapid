@@ -200,16 +200,14 @@ Information
 * Bombenentschärfung **entfällt**
   * **Der Zugverkehr erfolgt planmäßig**
 
-* kein Verkehrshalt in Lehnitz:
-  * von ca. 8 Uhr bis ca. 11 Uhr
+* k̵e̵i̵n̵ ̵V̵e̵r̵k̵e̵h̵r̵s̵h̵a̵l̵t̵ ̵i̵n̵ ̵L̵e̵h̵n̵i̵t̵z̵:̵
+  * v̵o̵n̵ ̵c̵a̵.̵ ̵8̵ ̵U̵h̵r̵ ̵b̵i̵s̵ ̵c̵a̵.̵ ̵1̵1̵ ̵U̵h̵r̵
 
-* kein Zugverkehr zwischen Birkenwerder und Oranienburg:
-  * von ca. 11 Uhr bs ca. 16 Uhr
+* k̵e̵i̵n̵ ̵Z̵u̵g̵v̵e̵r̵k̵e̵h̵r̵ ̵z̵w̵i̵s̵c̵h̵e̵n̵ ̵B̵i̵r̵k̵e̵n̵w̵e̵r̵d̵e̵r̵ ̵u̵n̵d̵ ̵O̵r̵a̵n̵i̵e̵n̵b̵u̵r̵g̵:̵
+  * v̵o̵n̵ ̵c̵a̵.̵ ̵1̵1̵ ̵U̵h̵r̵ ̵b̵s̵ ̵c̵a̵.̵ ̵1̵6̵ ̵U̵h̵r̵
 
-* Ersatzverkehr mit Bussen zwischen Birkenwerder und Oranienburg (ohne Halt in Lehnitz):
-  * von ca. 10.45 Uhr bis 16 Uhr
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/entschaerfung-einer-bombe-in-lehnitz/#con-27646)
+* E̵r̵s̵a̵t̵z̵v̵e̵r̵k̵e̵h̵r̵ ̵m̵i̵t̵ ̵B̵u̵s̵s̵e̵n̵ ̵z̵w̵i̵s̵c̵h̵e̵n̵ ̵B̵i̵r̵k̵e̵n̵w̵e̵r̵d̵e̵r̵ ̵u̵n̵d̵ ̵O̵r̵a̵n̵i̵e̵n̵b̵u̵r̵g̵ ̵(̵o̵h̵n̵e̵ ̵H̵a̵l̵t̵ ̵i̵n̵ ̵L̵e̵h̵n̵i̵t̵z̵)̵:̵
+  * v̵o̵n̵ ̵c̵a̵.̵ ̵1̵0̵.̵4̵5̵ ̵U̵h̵r̵ ̵b̵i̵s̵ ̵1̵6̵ ̵U̵h̵r̵
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
