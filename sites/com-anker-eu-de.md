@@ -4,7 +4,7 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_4e559c
 
 Bis zu 30% Rabatt & 5% Geldprämien
 
-[Jetzt kaufen \>\>](https://www.anker.com/eu-de/back-to-school-chg)
+[Jetzt kaufen \>\>](https://www.anker.com/eu-de/back-to-school-chg?ref=bar)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| LIVE IN POWER](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt sparen \>\>](https://www.anker.com/eu-de/anker-solix/tragbare-powerstation-angebote-pps?ref=naviBar)
 
