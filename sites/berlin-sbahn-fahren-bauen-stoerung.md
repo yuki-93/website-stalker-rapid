@@ -4,24 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an mehreren Weichen in Pankow und Blankenburg ###
 
- Letztes Update: 19:37 / 23.08.2023
+ Letztes Update: 21:45 / 23.08.2023
 
 Information
 
-Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg kommt es auf der Linie S2 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg kommt es auf den Linien S2, S8 und S85 zu nachfolgenden Einschränkungen:
 
-* Der **10-Minuten-Takt** kann nur **zwischen Lichtenrade und Nordbahnhof** angeboten werden.
-* In Blankenburg ist **in** **Fahrtrichtung Blankenfelde** ein **Umstieg** erforderlich, die Weiterfahrt nach Blankenfelde erfolgt vom Gleis gegenüber.
+* **S2** fährt: Blankenfelde \<\> Nordbahnhof ***sowie*** Blankenburg \<\> Bernau **im 20-Minuten-Takt,** *bitte nutzen Sie zwischen Nordbahnhof und Bornholmer Straße die Linien S1 und S25*
+* **S8** fährt: Grünau \<\> Bornholmer Straße ***sowie*** Schönfließ \<\> Birkenwerder
+* **S85** fährt: Schöneweide \<\> Gesundbrunnen, *bitte nutzen Sie zwischen Schönhauser Allee und Bornholmer Straße die Linie S8*
+* **S-Bahn-Pendelverkehr** zwischen Bornholmer Straße, Gleis 2 (Bahnsteig stadteinwärts) und Blankenburg **im 20-Minuten-Takt**
 
-**Bitte beachten Sie**, dass es für weitere Reparaturarbeiten **in der heutigen Nacht (23./24.08.2023 (Mi/Do)), in der Zeit von ca. 21:00 bis ca. 1:30 Uhr** auf den Linien S2 und S8 zu weiteren Einschränkungen kommt.
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
 
-* zwischen Bornholmer Straße, Gleis 2 (Bahnsteig stadteinwärts) und Blankenburg, Gleis 1 besteht S-Bahn-Pendelverkehr im 20-Minuten-Takt
-* die Linie S2 verkehrt Blankenfelde \<\> Nordbahnhof und Blankenburg \<\> Bernau
-* die Linie S8 verkehrt Grünau \<\> Bornholmer Straße
+* zwischen Schönhauser Allee und Pankow die U-Bahnlinie U2
+* zwischen S-Bhf. Bornholmer Str. und S+U-Bhf. Pankow die Tramlinie 50
 
 Wir bitten um Entschuldigung.
 
