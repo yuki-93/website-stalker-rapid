@@ -4,11 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an mehreren Weichen in Pankow und Blankenburg ###
 
- Letztes Update: 21:45 / 23.08.2023
+ Letztes Update: 22:28 / 23.08.2023
 
 Information
 
@@ -16,7 +16,6 @@ Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg kommt es auf d
 
 * **S2** fährt: Blankenfelde \<\> Nordbahnhof ***sowie*** Blankenburg \<\> Bernau **im 20-Minuten-Takt,** *bitte nutzen Sie zwischen Nordbahnhof und Bornholmer Straße die Linien S1 und S25*
 * **S8** fährt: Grünau \<\> Bornholmer Straße ***sowie*** Schönfließ \<\> Birkenwerder
-* **S85** fährt: Schöneweide \<\> Gesundbrunnen, *bitte nutzen Sie zwischen Schönhauser Allee und Bornholmer Straße die Linie S8*
 * **S-Bahn-Pendelverkehr** zwischen Bornholmer Straße, Gleis 2 (Bahnsteig stadteinwärts) und Blankenburg **im 20-Minuten-Takt**
 
 **Zur weiträumigen Umfahrung nutzen Sie bitte:**
