@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an mehreren Weichen in Pankow und Blankenburg ###
 
- Letztes Update: 16:49 / 23.08.2023
+ Letztes Update: 17:47 / 23.08.2023
 
 Information
 
@@ -16,7 +16,7 @@ Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg kommt es auf d
 
 * Der **10-Minuten-Takt** kann nur **zwischen Lichtenrade und Nordbahnhof** angeboten werden.
 * In Blankenburg ist **in** **Fahrtrichtung Blankenfelde** ein **Umstieg** erforderlich, die Weiterfahrt nach Blankenfelde erfolgt vom Gleis gegenüber.
-* Die Linie S8 verkehrt BWI \<\> BPKW
+* Die Linie S8 verkehrt Wildau \<\> Pankow
 
 **Bitte beachten Sie**, dass es für weitere Reparaturarbeiten **in der heutigen Nacht (23./24.08.2023 (Mi/Do)), in der Zeit von ca. 21:00 bis ca. 1:30 Uhr** auf den Linien S2 und S8 zu weiteren Einschränkungen kommt.
 
