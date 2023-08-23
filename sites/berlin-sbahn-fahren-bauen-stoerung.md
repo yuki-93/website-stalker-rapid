@@ -8,15 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an mehreren Weichen in Pankow und Blankenburg ###
 
- Letztes Update: 17:47 / 23.08.2023
+ Letztes Update: 19:37 / 23.08.2023
 
 Information
 
-Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg kommt es auf der Linie S2 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg kommt es auf der Linie S2 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Der **10-Minuten-Takt** kann nur **zwischen Lichtenrade und Nordbahnhof** angeboten werden.
 * In Blankenburg ist **in** **Fahrtrichtung Blankenfelde** ein **Umstieg** erforderlich, die Weiterfahrt nach Blankenfelde erfolgt vom Gleis gegenüber.
-* Die Linie S8 verkehrt Wildau \<\> Pankow
 
 **Bitte beachten Sie**, dass es für weitere Reparaturarbeiten **in der heutigen Nacht (23./24.08.2023 (Mi/Do)), in der Zeit von ca. 21:00 bis ca. 1:30 Uhr** auf den Linien S2 und S8 zu weiteren Einschränkungen kommt.
 
@@ -1137,6 +1136,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27234)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Lichtenberg \<\> Ostkreuz ###
+
+22.09. (Fr), ca. 22 Uhr durchgehend bis 25.09. (Mo), ca. 1.30
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27848&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20975&tx_sbbconstructions_list%5Bperiod%5D=17198&type=5679&cHash=66c82ca668b6d95eb960b691533972da)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S7: Lichtenberg \<\> Ostkreuz
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
