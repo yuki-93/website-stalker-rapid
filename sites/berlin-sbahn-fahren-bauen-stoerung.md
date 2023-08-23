@@ -4,11 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an mehreren Weichen in Pankow und Blankenburg ###
 
- Letztes Update: 02:41 / 23.08.2023
+ Letztes Update: 06:26 / 23.08.2023
 
 Information
 
@@ -16,6 +16,12 @@ Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg kommt es auf d
 
 * Der **10-Minuten-Takt** kann nur **zwischen Lichtenrade und Nordbahnhof** angeboten werden.
 * In Blankenburg ist **in** **Fahrtrichtung Blankenfelde** ein **Umstieg** erforderlich, die Weiterfahrt nach Blankenfelde erfolgt vom Gleis gegenüber.
+
+**Bitte beachten Sie**, dass es für weitere Reparaturarbeiten **in der heutigen Nacht (23./24.2023 (Mi/Do)), in der Zeit von ca. 21:00 bis ca. 1:30 Uhr** auf den Linien S2 und S8 zu weiteren Einschränkungen kommt.
+
+* zwischen Bornholmer Straße, Gleis 2 (Bahnsteig stadteinwärts) und Blankenburg, Gleis 1 besteht S-Bahn-Pendelverkehr im 20-Minuten-Takt
+* die Linie S2 verkehrt Blankenfelde \<\> Gesundbrunnen und Blankenburg \<\> Bernau
+* die Linie S8 verkehrt Grünau \<\> Bornholmer Straße
 
 Wir bitten um Entschuldigung.
 
