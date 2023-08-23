@@ -29,30 +29,6 @@ Wir bitten um Entschuldigung.
 
 ### Baumaßnahmen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Birkenwerder \<\> Oranienburg ###
-
-23.08. (Mi), ca. 8 Uhr - 16 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27646&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20771&tx_sbbconstructions_list%5Bperiod%5D=17129&type=5679&cHash=18e77bce466a730d61d17f388f4820d1)
-
- Ersatzverkehr
-
-Information
-
-* Bombenentschärfung **entfällt**
-  * **Der Zugverkehr erfolgt planmäßig**
-
-* k̵e̵i̵n̵ ̵V̵e̵r̵k̵e̵h̵r̵s̵h̵a̵l̵t̵ ̵i̵n̵ ̵L̵e̵h̵n̵i̵t̵z̵:̵
-  * v̵o̵n̵ ̵c̵a̵.̵ ̵8̵ ̵U̵h̵r̵ ̵b̵i̵s̵ ̵c̵a̵.̵ ̵1̵1̵ ̵U̵h̵r̵
-
-* k̵e̵i̵n̵ ̵Z̵u̵g̵v̵e̵r̵k̵e̵h̵r̵ ̵z̵w̵i̵s̵c̵h̵e̵n̵ ̵B̵i̵r̵k̵e̵n̵w̵e̵r̵d̵e̵r̵ ̵u̵n̵d̵ ̵O̵r̵a̵n̵i̵e̵n̵b̵u̵r̵g̵:̵
-  * v̵o̵n̵ ̵c̵a̵.̵ ̵1̵1̵ ̵U̵h̵r̵ ̵b̵s̵ ̵c̵a̵.̵ ̵1̵6̵ ̵U̵h̵r̵
-
-* E̵r̵s̵a̵t̵z̵v̵e̵r̵k̵e̵h̵r̵ ̵m̵i̵t̵ ̵B̵u̵s̵s̵e̵n̵ ̵z̵w̵i̵s̵c̵h̵e̵n̵ ̵B̵i̵r̵k̵e̵n̵w̵e̵r̵d̵e̵r̵ ̵u̵n̵d̵ ̵O̵r̵a̵n̵i̵e̵n̵b̵u̵r̵g̵ ̵(̵o̵h̵n̵e̵ ̵H̵a̵l̵t̵ ̵i̵n̵ ̵L̵e̵h̵n̵i̵t̵z̵)̵:̵
-  * v̵o̵n̵ ̵c̵a̵.̵ ̵1̵0̵.̵4̵5̵ ̵U̵h̵r̵ ̵b̵i̵s̵ ̵1̵6̵ ̵U̵h̵r̵
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
