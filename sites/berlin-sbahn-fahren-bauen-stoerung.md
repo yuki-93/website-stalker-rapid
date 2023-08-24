@@ -42,34 +42,6 @@ Wir bitten um Entschuldigung.
 
  fährt nicht  Verbindung unterbrochen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz in Hermannstraße beendet ###
-
- Letztes Update: 10:11 / 24.08.2023
-
-Information
-
-Nach einem Polizeieinsatz in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Zug beendet ###
-
- Letztes Update: 09:34 / 24.08.2023
-
-Information
-
-Nach einer Reparatur am Zug in Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -1270,6 +1242,8 @@ Information
 * Fahrplanänderung
 * Gleisänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-8/#con-27849)
 
 [S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
