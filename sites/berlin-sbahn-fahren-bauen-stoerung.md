@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Blankenburg ###
 
- Letztes Update: 04:34 / 24.08.2023
+ Letztes Update: 05:37 / 24.08.2023
 
 Information
 
@@ -16,6 +16,15 @@ Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf der Linie S2 zu 
 
 * Der **10-Minuten-Takt** kann nur **zwischen Lichtenrade und Nordbahnhof** angeboten werden.
 * In **Blankenburg** ist **in Fahrtrichtung Blankenfelde** ein **Umstieg** erforderlich, die Weiterfahrt nach Blankenfelde erfolgt vom Gleis gegenüber.
+
+---
+
+**Bitte beachten Sie, dass ab ca. 09:30 Uhr** zwischen Pankow und Blankenburg der Zugverkehr der Linien S2 und S8 unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet wird.
+
+Die betroffenen Linien fahren dann wie folgt:
+
+* S2: Blankenfelde \<\> Pankow sowie Blankenburg \<\> Bernau, der 10-Minuten-Takt besteht zwischen Lichtenrade und Pankow
+* S8: Grünau \<\> Pankow sowie Schönfließ \<\> Birkenwerder
 
 Wir bitten um Entschuldigung.
 
@@ -1190,6 +1199,63 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bahnuebergangsarbeiten-bauzustandswechsel/#con-27808)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Altglienicke/Grünau/Spindlersfeld \<\> Hermannstraße/Treptower Park/Spandau ###
+
+29.09. (Fr), ca. 22.00 Uhr durchgehend bis 30.09. (Sa), ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27849&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20976&tx_sbbconstructions_list%5Bperiod%5D=17200&type=5679&cHash=8bb7d2d60d620d93d4c5961cb58c65b5)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S46: Grünau \<\> Baumschulenweg
+  * Bus S47: Spindlersfeld \<\> Baumschulenweg
+  * Bus S9A: Grünau \<\> Treptower Park
+
+* Pendelverkehr:
+  * Altglienicke \<\> Adlershof im 20-Minutentakt
+
+* Taktänderung:
+  * Flughafen BER – Terminal 5 \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Flughafen BER – Terminal 1-2 \<\> Baumschulenweg \<\> Treptower Park/Spandau ###
+
+30.09. (Sa), ca. 7 Uhr durchgehend bis 2.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27852&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20976&tx_sbbconstructions_list%5Bperiod%5D=17201&type=5679&cHash=79ae1f4b371356389f0a0a683d9a1c38)
+
+ Ersatzverkehr
+
+Information
+
+* kein Zugverkehr:
+  * Baumschulenweg \<\> Treptower Park
+
+* Ersatzverkehr mit Bussen:
+  * Bus S9: Baumschulenweg \<\> Treptower Park
+
+* Taktänderung:
+  * Flughafen BER – Terminal 1-2 \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-8/#con-27852)
 
 ### Fahrplanänderungen ###
 
