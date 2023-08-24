@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an einer Weiche in Blankenburg beendet ###
+### Reparatur an einem Signal ###
 
- Letztes Update: 10:27 / 24.08.2023
+ Letztes Update: 16:51 / 24.08.2023
 
 Information
 
-Nach der Reparatur an einer Weiche in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und vereinzelten Ausfällen.
+Wegen einer Reparatur am Signal in Beusselstraße verkehrt die Linie S42 nur noch im 10-Minutentakt.
 
-Wir bitten um Entschuldigung
+Wir bitten um Verständnis
 
  Zugverkehr verändert  sonstige Einschränkungen
 
