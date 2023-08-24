@@ -4,31 +4,71 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einer Weiche in Blankenburg ###
 
- Letztes Update: 05:37 / 24.08.2023
+ Letztes Update: 10:22 / 24.08.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf der Linie S2 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einer Weiche in Blankenburg ist der Zugverkehr der Linien S2 und S8 zwischen Pankow und Blankenburg unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
-* Der **10-Minuten-Takt** kann nur **zwischen Lichtenrade und Nordbahnhof** angeboten werden.
-* In **Blankenburg** ist **in Fahrtrichtung Blankenfelde** ein **Umstieg** erforderlich, die Weiterfahrt nach Blankenfelde erfolgt vom Gleis gegenüber.
+**Die betroffenen Linien fahren dann wie folgt:**
+
+* **S2**: Blankenfelde \<\> Pankow ***sowie*** Blankenburg \<\> Bernau, *der 10-Minuten-Takt besteht zwischen Lichtenrade und Pankow*
+* **S8**: Grünau \<\> Pankow ***sowie*** Schönfließ \<\> Birkenwerder
 
 ---
 
-**Bitte beachten Sie, dass ab ca. 09:30 Uhr** zwischen Pankow und Blankenburg der Zugverkehr der Linien S2 und S8 unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet wird.
+**Ein Ersatzverkehr mit Bussen ist zwischen Pankow und Blankenburg eingerichtet.**
 
-Die betroffenen Linien fahren dann wie folgt:
+*Haltestellen des Ersatzverkehrs:*
 
-* S2: Blankenfelde \<\> Pankow sowie Blankenburg \<\> Bernau, der 10-Minuten-Takt besteht zwischen Lichtenrade und Pankow
-* S8: Grünau \<\> Pankow sowie Schönfließ \<\> Birkenwerder
+* S-Bhf. Pankow: Berliner Str. (BVG-Haltestelle Buslinien 250 und 255)
+* S-Bhf. Pankow-Heinersdorf: Damerowstr. (BVG-Haltestelle Buslinie N50)
+* S-Bhf. Blankenburg: Bahnhofstr. (BVG-Haltestelle Buslinien 150 und 154)
+
+---
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Gesundbrunnen und Bernau die Regionalbahnlinie RE3
+* zwischen Pankow und Pankow-Heinersdorf die Tramlinie 50
+* zwischen Pankow und Pasewalker Str./ Blankenburger Weg die Tramlinie 50 ***sowie*** zwischen Pasewalker Str./ Blankenburger Weg und Blankenburg die Buslinie 150
+* zwischen Pankow und Rosenthaler Str. die Tramlinie 50 ***sowie*** zwischen Rosenthaler Str. und Blankenburg die Buslinie 154
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ fährt nicht  Verbindung unterbrochen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Polizeieinsatz in Hermannstraße beendet ###
+
+ Letztes Update: 10:11 / 24.08.2023
+
+Information
+
+Nach einem Polizeieinsatz in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur am Zug beendet ###
+
+ Letztes Update: 09:34 / 24.08.2023
+
+Information
+
+Nach einer Reparatur am Zug in Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
@@ -1181,6 +1221,8 @@ Information
 * Gleisänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-gleisarbeiten/#con-27848)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Blankenfelde \<\> Lichtenrade ###
@@ -1281,6 +1323,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-altglienicke/#con-27853)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### (Lichtenberg) Ostbahnhof \<\> Friedrichstraße (Zoologischer Garten) ###
+
+26.10. (Do), ca. 22 Uhr durchgehend bis 06.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27854&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20980&tx_sbbconstructions_list%5Bperiod%5D=17203&type=5679&cHash=4494d2b62346dc065b9e72bcc18c41b6)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Taktänderung:
+  * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur mit S3 und S9
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung/#con-27854)
 
 ### Fahrplanänderungen ###
 
