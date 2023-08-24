@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an der Strecke zwischen Potsdamer Platz und Oranienburger Straße beendet ###
-
- Letztes Update: 20:16 / 24.08.2023
-
-Information
-
-Nach der Reparatur an der Strecke zwischen Potsdamer Platz und Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 noch zu Ausfällen und Verspätungen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  keine Verbindung
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einem Signal ###
-
- Letztes Update: 16:51 / 24.08.2023
-
-Information
-
-Wegen einer Reparatur am Signal in Beusselstraße verkehrt die Linie S42 nur noch im 10-Minutentakt.
-
-Wir bitten um Verständnis
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -1233,6 +1203,8 @@ Information
 * Gleisänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-gleisarbeiten/#con-27848)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Blankenfelde \<\> Lichtenrade ###
@@ -1281,6 +1253,8 @@ Information
 * Gleisänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-8/#con-27849)
+
 [S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 Nur Wochenende
@@ -1306,6 +1280,8 @@ Information
 
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-8/#con-27852)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
