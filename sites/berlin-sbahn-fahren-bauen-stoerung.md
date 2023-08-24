@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Reparatur an einer Weiche in Blankenburg ###
+
+ Letztes Update: 03:03 / 24.08.2023
+
+Information
+
+Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf der Linie S2 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Der **10-Minuten-Takt** kann nur **zwischen Lichtenrade und Nordbahnhof** angeboten werden.
+* In Blankenburg ist **in Fahrtrichtung Blankenfelde** ein **Umstieg** erforderlich, die Weiterfahrt nach Blankenfelde erfolgt vom Gleis gegenüber.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -114,32 +133,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Altglienicke ###
-
-21.08. (Mo) bis 25.08. (Fr) jeweils in der Zeit 3:05 Uhr bis 3:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17157&type=5679&cHash=b07693543fd2ae613cab2ae21f195932)
-
-28.08. (Mo), 3:05 Uhr bis 3:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17158&type=5679&cHash=08aca778f57563d7dc54415e220ccb00)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&type=5679&cHash=a2f6170e4d97a2832dd587a416dbb511)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt abweichend um 3:32 Uhr in Altglienicke
-* Der Zug fällt von Alexanderplatz bis Altglienicke aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
