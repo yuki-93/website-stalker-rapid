@@ -1257,6 +1257,31 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-8/#con-27852)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Flughafen BER – Terminal 5 \<\> Altglienicke ###
+
+Nacht 03./04.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27853&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20979&tx_sbbconstructions_list%5Bperiod%5D=17202&type=5679&cHash=a92016e9203441cb3f28d2e10b9c8432)
+
+ Ersatzverkehr
+
+Information
+
+* keine Zugverkehr zwischen Altglienicke und Adlershof
+* Ersatzverkehr mit Bussen:
+  * Bus S9: Grünbergallee \<\> Grünau
+
+* Taktänderung:
+  * Flughafen BER - Terminal 5 \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-altglienicke/#con-27853)
+
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
