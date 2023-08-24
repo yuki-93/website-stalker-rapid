@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an der Strecke zwischen Potsdamer Platz und Oranienburger Straße ###
+
+ Letztes Update: 17:51 / 24.08.2023
+
+Information
+
+Wegen der Reparatur an der Strecke zwischen Potsdamer Platz und Oranienburger Straße ist der Zugverkehr der Linie S1, S2, S25 und S26 unterbrochen.
+
+Die Linien verkehren wie folgt:
+
+* S1 verkehrt Wannsee \<\> PosdamerPlatz sowie Oranienburger Straße \<\> Oranienburg / Frohnau
+* S2 verkehrt Blankenfelde/Lichtenrade \<\> Potsdamer Platz sowie Nordbahnhof \<\> Bernau/Buch
+* S25 verkehrt Teltow Stadt \<\> Südkreuz sowie Nordbahnhof \<\> Hennigsdorf
+* S26 verkehrt Teltow Stadt \<\> Südkreuz
+* die Linie S26 verkehrt nicht nach Waidmannslust
+
+---
+
+Umfahrungsmöglichkeit:
+
+* Friedrichstraße \> Oranienburger Straße mit U6 bis U Naturkundemuseum, weiter mit Tram 12 bis Oranienburger Str.
+* Oranienburger Straße \> Friedrichstraße mit Tram M5 bis U Oranienburger Tor, weiter mit U6 bis Friedrichstr
+* Potsdamer Platz \<\> Oranienburger Straße mit Bus M41 bis Hauptbahnhof, weiter mit Tram M5 bis Oranienburger Str.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  keine Verbindung
+
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an einem Signal ###
@@ -569,6 +599,33 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gesundbrunnen-12/#con-27734)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Grünau/Grünbergallee \<\> Schöneweide/Baumschulenweg ###
+
+Nacht 29./30.08. (Di/Mi), ca. 23.30 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27859&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20988&tx_sbbconstructions_list%5Bperiod%5D=17205&type=5679&cHash=3d22c2fd87ed9eb2a57f080c03767676)
+
+ Ersatzverkehr
+
+Information
+
+* kein Zugverkehr
+  * Altglienicke \<\> Schöneweide
+  * Grünau \<\> Schöneweide
+
+* Ersatzverkehr mit Bussen:
+  * Bus S46: Grünau \<\> Schöneweide
+  * Bus S9: Grünbergallee \<\> Schöneweide
+
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d0bc00770f/#con-27859)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -1270,7 +1327,7 @@ Information
 
  Nur Nachts
 
-### Flughafen BER – Terminal 5 \<\> Altglienicke ###
+### Flughafen BER – Terminal 5/Altglienicke \<\> Adlershof ###
 
 Nacht 03./04.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
