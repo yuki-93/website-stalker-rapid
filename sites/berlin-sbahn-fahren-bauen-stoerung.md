@@ -6,35 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an der Strecke zwischen Potsdamer Platz und Oranienburger Straße ###
+### Reparatur an der Strecke zwischen Potsdamer Platz und Oranienburger Straße beendet ###
 
- Letztes Update: 18:45 / 24.08.2023
+ Letztes Update: 20:16 / 24.08.2023
 
 Information
 
-Wegen der Reparatur an der Strecke zwischen Potsdamer Platz und Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 zu Ausfällen und Verspätungen.
-
-Die Linien verkehren wie folgt:
-
-* S1 verkehrt Wannsee \<\> Oranienburg, sowie Wannsee \<\> Potsdamer Platz und Oranienburger \<\> Frohnau im 10-Minutentakt
-* S2 verkehrt Blankenfelde/Lichtenrade \<\> Potsdamer Platz sowie Nordbahnhof \<\> Bernau/Buch
-* S25 verkehrt Teltow Stadt \<\> Südkreuz sowie Nordbahnhof \<\> Hennigsdorf
-* S26 verkehrt Teltow Stadt \<\> Südkreuz
-* die Linie S26 verkehrt nicht nach Waidmannslust
-
-**Bitte beachten Sie, dass die Linie S1 nur im 20-Minutentakt zwischen Potsdamer Platz und Oranienburger Straße verkehrt.**
-
----
-
-Umfahrungsmöglichkeit:
-
-* Friedrichstraße \> Oranienburger Straße mit U6 bis U Naturkundemuseum, weiter mit Tram 12 bis Oranienburger Str.
-* Oranienburger Straße \> Friedrichstraße mit Tram M5 bis U Oranienburger Tor, weiter mit U6 bis Friedrichstr
-* Potsdamer Platz \<\> Oranienburger Straße mit Bus M41 bis Hauptbahnhof, weiter mit Tram M5 bis Oranienburger Str.
+Nach der Reparatur an der Strecke zwischen Potsdamer Platz und Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 noch zu Ausfällen und Verspätungen.
 
 Wir bitten um Entschuldigung
 
- Zugverkehr verändert  keine Verbindung
+ sonstige Einschränkungen  keine Verbindung
 
 [S42](https://sbahn.berlin/fahren/s42/)
 
@@ -1378,6 +1360,50 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-37/#con-27862)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\> Karow/Hohen Neuendorf ###
+
+20.10. (Fr), ca. 22 Uhr durchgehend bis 23.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27864&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&tx_sbbconstructions_list%5Bperiod%5D=17208&type=5679&cHash=3f1176bffb4e7dc201e97161aa3995ab)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S2: Bornholmer Straße \<\> Karow
+  * Bus S8: Bornholmer Straße \<\> Hohen Neuendorf
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27864)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Pankow \<\> Karow/Hohen Neuendorf ###
+
+23.10. (Mo), ca. 4 Uhr durchgehend bis 30.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27863&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&tx_sbbconstructions_list%5Bperiod%5D=17209&type=5679&cHash=44a3f48b0be1155ae6f35ea3cc3b4617)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S2: Pankow \<\> Karow
+  * Bus S8: Pankow \<\> Hohen Neuendorf
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27863)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
