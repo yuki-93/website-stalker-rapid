@@ -8,14 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Blankenburg ###
 
- Letztes Update: 03:03 / 24.08.2023
+ Letztes Update: 04:34 / 24.08.2023
 
 Information
 
 Wegen der Reparatur an einer Weiche in Blankenburg kommt es auf der Linie S2 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Der **10-Minuten-Takt** kann nur **zwischen Lichtenrade und Nordbahnhof** angeboten werden.
-* In Blankenburg ist **in Fahrtrichtung Blankenfelde** ein **Umstieg** erforderlich, die Weiterfahrt nach Blankenfelde erfolgt vom Gleis gegenüber.
+* In **Blankenburg** ist **in Fahrtrichtung Blankenfelde** ein **Umstieg** erforderlich, die Weiterfahrt nach Blankenfelde erfolgt vom Gleis gegenüber.
 
 Wir bitten um Entschuldigung.
 
