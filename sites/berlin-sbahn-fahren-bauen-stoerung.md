@@ -8,19 +8,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke zwischen Potsdamer Platz und Oranienburger Straße ###
 
- Letztes Update: 17:51 / 24.08.2023
+ Letztes Update: 18:45 / 24.08.2023
 
 Information
 
-Wegen der Reparatur an der Strecke zwischen Potsdamer Platz und Oranienburger Straße ist der Zugverkehr der Linie S1, S2, S25 und S26 unterbrochen.
+Wegen der Reparatur an der Strecke zwischen Potsdamer Platz und Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 zu Ausfällen und Verspätungen.
 
 Die Linien verkehren wie folgt:
 
-* S1 verkehrt Wannsee \<\> PosdamerPlatz sowie Oranienburger Straße \<\> Oranienburg / Frohnau
+* S1 verkehrt Wannsee \<\> Oranienburg, sowie Wannsee \<\> Potsdamer Platz und Oranienburger \<\> Frohnau im 10-Minutentakt
 * S2 verkehrt Blankenfelde/Lichtenrade \<\> Potsdamer Platz sowie Nordbahnhof \<\> Bernau/Buch
 * S25 verkehrt Teltow Stadt \<\> Südkreuz sowie Nordbahnhof \<\> Hennigsdorf
 * S26 verkehrt Teltow Stadt \<\> Südkreuz
 * die Linie S26 verkehrt nicht nach Waidmannslust
+
+**Bitte beachten Sie, dass die Linie S1 nur im 20-Minutentakt zwischen Potsdamer Platz und Oranienburger Straße verkehrt.**
 
 ---
 
@@ -1347,6 +1349,35 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-altglienicke/#con-27853)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Altglienicke/Königs Wusterhausen/Spindlersfeld \<\> Baumschulenweg ###
+
+06.10. (Fr), ca. 22 Uhr durchgehend bis 9.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27862&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20991&tx_sbbconstructions_list%5Bperiod%5D=17206&type=5679&cHash=43fc31c63ed76d86b89da410cde615f7)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Adlershof \<\> Schöneweide \<\> Baumschulenweg (ExpressLinie)
+  * Bus S9A: Grünbergallee \<\> Baumschulenweg
+  * Bus S46: Königs Wusterhausen \<\> Baumschulenweg
+  * Bus S47: Spindlersfeld \<\> Baumschulenweg
+
+* Pendelverkehr
+  * Baumschulenweg \<\> Plänterwald \<\> Treptower Park jeweils im 10-Minutentakt
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-37/#con-27862)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
