@@ -2,31 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an mehreren Weichen in Pankow und Blankenburg ###
-
- Letztes Update: 23:43 / 23.08.2023
-
-Information
-
-Wegen der Reparatur an mehreren Weichen in Pankow und Blankenburg kommt es auf den Linien S2 und S8 zu nachfolgenden Einschränkungen:
-
-* **S2** fährt: Blankenfelde \<\> Nordbahnhof ***sowie*** Blankenburg \<\> Bernau**,** *bitte nutzen Sie zwischen Nordbahnhof und Bornholmer Straße die Linien S1 und S25*
-* **S8** fährt: Grünau \<\> Bornholmer Straße ***sowie*** Schönfließ \<\> Birkenwerder
-* **S-Bahn-Pendelverkehr** zwischen Bornholmer Straße, Gleis 2 (Bahnsteig stadteinwärts) und Blankenburg **im 20-Minuten-Takt**
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Schönhauser Allee und Pankow die U-Bahnlinie U2
-* zwischen S-Bhf. Bornholmer Str. und S+U-Bhf. Pankow die Tramlinie 50
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -141,30 +116,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Altglienicke \> Ostbahnhof ###
-
-21.08. (Mo) bis 25.08. (Fr) jeweils in der Zeit 1:43 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20667&tx_sbbconstructions_list%5Bperiod%5D=17154&type=5679&cHash=e718d0ae0fbee98e39bf22874ec242f4)
-
-28.08. (Mo), 1:43 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20667&tx_sbbconstructions_list%5Bperiod%5D=17155&type=5679&cHash=dc8c0639f853ff41814b4de9d67744fb)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20667&type=5679&cHash=57c39fc262096b77662abdd291f11042)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 1:43 Uhr in Altglienicke.
-* Der Zug fällt von Altglienicke bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
