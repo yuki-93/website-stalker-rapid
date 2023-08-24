@@ -6,41 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einer Weiche in Blankenburg ###
+### Reparatur an einer Weiche in Blankenburg beendet ###
 
- Letztes Update: 10:22 / 24.08.2023
+ Letztes Update: 10:27 / 24.08.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Blankenburg ist der Zugverkehr der Linien S2 und S8 zwischen Pankow und Blankenburg unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Nach der Reparatur an einer Weiche in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und vereinzelten Ausfällen.
 
-**Die betroffenen Linien fahren dann wie folgt:**
+Wir bitten um Entschuldigung
 
-* **S2**: Blankenfelde \<\> Pankow ***sowie*** Blankenburg \<\> Bernau, *der 10-Minuten-Takt besteht zwischen Lichtenrade und Pankow*
-* **S8**: Grünau \<\> Pankow ***sowie*** Schönfließ \<\> Birkenwerder
-
----
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Pankow und Blankenburg eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Pankow: Berliner Str. (BVG-Haltestelle Buslinien 250 und 255)
-* S-Bhf. Pankow-Heinersdorf: Damerowstr. (BVG-Haltestelle Buslinie N50)
-* S-Bhf. Blankenburg: Bahnhofstr. (BVG-Haltestelle Buslinien 150 und 154)
-
----
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Gesundbrunnen und Bernau die Regionalbahnlinie RE3
-* zwischen Pankow und Pankow-Heinersdorf die Tramlinie 50
-* zwischen Pankow und Pasewalker Str./ Blankenburger Weg die Tramlinie 50 ***sowie*** zwischen Pasewalker Str./ Blankenburger Weg und Blankenburg die Buslinie 150
-* zwischen Pankow und Rosenthaler Str. die Tramlinie 50 ***sowie*** zwischen Rosenthaler Str. und Blankenburg die Buslinie 154
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -1052,6 +1028,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27233)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
+
+[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \<\> Grunewald/Olympiastadion ###
+
+Nächte 11./12.09. (Mo/Di) bis 13./14.09. (Mi/Do), jeweils ca. 20 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27792&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20914&tx_sbbconstructions_list%5Bperiod%5D=17191&type=5679&cHash=e8aa39df7fe5b3c8d16c71bce1dfc0d8)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S7: Charlottenburg \<\> Grunewald
+  * Bus S9: Charlottenburg \<\> Olympiastadion
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-und-schwellenauswechslungen-1/#con-27792)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
