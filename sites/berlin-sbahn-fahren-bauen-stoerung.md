@@ -4,33 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)
 
-### Reparatur am Fahrzeug in Hermannstraße beendet ###
+### Reparatur am Zug in Schöneberg beendet ###
 
- Letztes Update: 15:43 / 25.08.2023
+ Letztes Update: 17:45 / 25.08.2023
 
 Information
 
-Nach einer Reparatur am Zug in Hermannstraße kommt es auf den Linien S41, S45 und S46 noch zu Verspätungen und Ausfällen.
+Nach der Reparatur am Zug in Schöneberg (Ring) kommt es auf der Linie S41 zu Verspätungen und Ausfällen.
+
+Es besteht auf der Linie S41 nur ein 10-Minutentakt.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an mehreren Signalen zwischen Plänterwald und Treptower Park ###
-
- Letztes Update: 14:36 / 25.08.2023
-
-Information
-
-Wegen der Reparatur mehrerer Signale zwischen Plänterwald und Treptower Park verkehrt die Linie S85 nicht.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
@@ -663,6 +651,33 @@ Information
 * Bitte nutzen vor Fahrtantritt die Fahrplanauskunft
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-der-moltkestrassenbruecke/#con-27722)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Königs Wusterhausen \<\> Grünau ###
+
+01.09. (Fr), ca. 22 Uhr durchgehend bis 04.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&tx_sbbconstructions_list%5Bperiod%5D=17177&type=5679&cHash=9356c2d289f7a6b025177f45d6e81f0d)
+
+Nacht 07./08.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&tx_sbbconstructions_list%5Bperiod%5D=17178&type=5679&cHash=f56ef1149d4fa443891e8be332005f33)
+
+08.09. (Fr), ca. 22 Uhr durchgehend bis 11.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&tx_sbbconstructions_list%5Bperiod%5D=17179&type=5679&cHash=0129746c04d8b7ee34724d21f41e75d7)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&type=5679&cHash=3272374deb57507128f593b962ad1946)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-personentunnel-eichwalde-weichenarbeiten-schwellenauswechslungen/#con-27743)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
