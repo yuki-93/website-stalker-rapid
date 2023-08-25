@@ -6,26 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Weichenstörung Schöneweide ###
+### Reparatur an einer Weiche in Schöneweide beendet ###
 
- Letztes Update: 08:09 / 25.08.2023
+ Letztes Update: 08:51 / 25.08.2023
 
 Information
 
-Wegen einer Weichenstörung in Schöneweide ist der Zugverkehr zwischen Schöneweide und Baumschulenweg unterbrochen. Es kommt zu Verspätungen und Ausfällen.
+Nach der Reparatur an einer Weiche in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
 
-Zugverkehr wie folgt:
-
-* Linie S45: Südkreuz \<\> Baumschulenweg
-* Linie S46: Westend \<\> Baumschulenweg sowie Königs Wusterhausen \<\> Schöneweide
-* Linie S47: Spindlersfeld \<\> Schöneweide
-* Line 8: Blankenburg \<\>Treptower Park
-* Linie S85: verkehrt nicht
-* Linie S9: Spandau \<\> Ostbahnhof sowie Flughafen BER T1-2/ Flughafen BER T5 \<\> Schöneweide
+* Linie S85 verkehrt nicht
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  keine Verbindung
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
