@@ -6,15 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur am Fahrzeug in Hermannstraße ###
+### Reparatur am Fahrzeug in Hermannstraße beendet ###
 
- Letztes Update: 15:17 / 25.08.2023
+ Letztes Update: 15:43 / 25.08.2023
 
 Information
 
-Wegen einer Reparatur am Zug in Hermannstraße kommt es auf den Linien S41, S45 und S46 zu Verspätungen und Ausfällen.
+Nach einer Reparatur am Zug in Hermannstraße kommt es auf den Linien S41, S45 und S46 noch zu Verspätungen und Ausfällen.
 
-Wir bitten ummEntschuldigung
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
