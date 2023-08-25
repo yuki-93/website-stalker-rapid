@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur am Fahrzeug in Hermannstraße ###
+
+ Letztes Update: 15:17 / 25.08.2023
+
+Information
+
+Wegen einer Reparatur am Zug in Hermannstraße kommt es auf den Linien S41, S45 und S46 zu Verspätungen und Ausfällen.
+
+Wir bitten ummEntschuldigung
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an mehreren Signalen zwischen Plänterwald und Treptower Park ###
+
+ Letztes Update: 14:36 / 25.08.2023
+
+Information
+
+Wegen der Reparatur mehrerer Signale zwischen Plänterwald und Treptower Park verkehrt die Linie S85 nicht.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
