@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur am Zug in Schöneberg beendet ###
+### Reparatur an einer Weiche in Schöneweide beendet ###
 
- Letztes Update: 17:45 / 25.08.2023
+ Letztes Update: 20:09 / 25.08.2023
 
 Information
 
-Nach der Reparatur am Zug in Schöneberg (Ring) kommt es auf der Linie S41 zu Verspätungen und Ausfällen.
-
-Es besteht auf der Linie S41 nur ein 10-Minutentakt.
+Nach der Reparatur an einer Weiche in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Ausfällen und Verspätungen
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
