@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz Neukölln beendet ###
 
- Letztes Update: 17:06 / 26.08.2023
+ Letztes Update: 18:27 / 26.08.2023
 
 Information
 
-Nach einem Polizeieinsatz in Neukölln kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Neukölln kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
