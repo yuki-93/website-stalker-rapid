@@ -22,26 +22,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Erkner \<\> Friedrichshagen ###
-
-vom 28.07. (Fr), ca. 4 Uhr durchgehend bis 28.08. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27591&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20712&tx_sbbconstructions_list%5Bperiod%5D=17100&type=5679&cHash=7a3dc6306e7b42349c168ca5bc2be9d5)
-
- Zugverkehr verändert
-
-Information
-
-* Linienführung:
-  * S3 fährt
-     Erkner \<\> Spandau;
-     10-Minutentakt: Erkner \<\> Ostbahnhof
-     Der 10-Minutentakt im Abschnitt Erkner \<\> Friedrichshagen wird auch Montag bis Freitag außerhalb der Hauptverkehrszeiten sowie Samstag und Sonntag im Früh- und Abendverkehr angeboten.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Blankenburg \<\> Schönfließ ###
@@ -76,64 +56,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27235)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Grünau \<\> Hermannstraße ###
-
-vom 14.08. (Mo), ca. 4 Uhr durchgehend bis 28.08. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27642&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20766&tx_sbbconstructions_list%5Bperiod%5D=17126&type=5679&cHash=b4470cca9b319fb70dbc3ef90ae6f310)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S45 und S46
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/aufhebung-bauzustand-inbetriebnahme-gleis-4/#con-27642)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wartenberg – Springpfuhl ###
-
-25.08. (Fr) 21:45 Uhr bis 28.08. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27524&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20645&tx_sbbconstructions_list%5Bperiod%5D=17084&type=5679&cHash=8c5d12a84988e81e95f1cb845cdd616e)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-35-1-1/#con-27524)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Blankenburg \<\> Karow ###
-
-25.08. (Fr), 22 Uhr durchgehend bis 28.08. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27236&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16960&type=5679&cHash=fc57581c023c55a842a19c14f2a94ca9)
-
- Ersatzverkehr
-
-Information
-
-* kein Zugverkehr: Blankenburg \<\> Karow
-* Ersatzverkehr mit Bussen:
-  * Bus S2: Pankow-Heinersdorf \<\> Karow
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27236)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
@@ -202,24 +124,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Altglienicke \> Ostbahnhof ###
-
-28.08. (Mo), 1:43 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27546&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20667&tx_sbbconstructions_list%5Bperiod%5D=17155&type=5679&cHash=dc8c0639f853ff41814b4de9d67744fb)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 1:43 Uhr in Altglienicke.
-* Der Zug fällt von Altglienicke bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
