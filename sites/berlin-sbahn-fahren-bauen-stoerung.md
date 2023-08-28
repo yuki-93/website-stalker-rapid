@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Ostbahnhof ###
 
- Letztes Update: 07:07 / 28.08.2023
+ Letztes Update: 08:10 / 28.08.2023
 
 Information
 
@@ -16,6 +16,7 @@ Wegen der Reparatur an einem Signal in Ostbahnhof kommt es auf den Linien S3, S5
 
 * Linie S3: der 10-Minuten-Takt wird nur zwischen Erkner und Warschauer Straße angeboten.
 * Linie S5: verkehrt zwischen Strausberg Nord/ Hoppegarten und Ostbahnhof.
+* Linie S75: verkehrt im 20-Minuten-Takt
 
 Wir bitten um Entschuldigung
 
