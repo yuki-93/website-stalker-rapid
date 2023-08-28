@@ -6,16 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Ostbahnhof ###
+### Reparatur an einem Signal in Ostbahnhof beendet ###
 
- Letztes Update: 08:10 / 28.08.2023
+ Letztes Update: 10:59 / 28.08.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Nach der Reparatur an einem Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
-* Linie S3: der 10-Minuten-Takt wird nur zwischen Erkner und Warschauer Straße angeboten.
-* Linie S5: verkehrt zwischen Strausberg Nord/ Hoppegarten und Ostbahnhof.
+* Linie S5: der 10-Minuten-Takt wird zwischen Mahlsdorf und Ostbahnhof angeboten.
 * Linie S75: verkehrt im 20-Minuten-Takt
 
 Wir bitten um Entschuldigung
@@ -1220,6 +1219,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-37/#con-27862)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Griebnitzsee \<\> Potsdam Hbf ###
+
+Nacht 05./06.10. (Do/Fr), ca. 23 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27858&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20987&tx_sbbconstructions_list%5Bperiod%5D=17204&type=5679&cHash=9c97f366fe6c79b658410dc6e4034773)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S7 (S1): Griebnitzsee \<\> Potsdam Hbf
+     Bitte beachten Sie, dass durch andere Bauarbeiten auf dem Streckenabschnitt der S7 die Züge der S1 die Anbindung der S-Bahnhöfe zwischen (Friedrichstraße) Wannsee und Potsdam Hbf übernehmen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-36/#con-27858)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
