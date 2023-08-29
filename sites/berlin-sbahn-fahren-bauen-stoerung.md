@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einer Weiche in Schönhauser Allee beendet ###
-
- Letztes Update: 05:16 / 29.08.2023
-
-Information
-
-Nach der Reparatur an einer Weiche in Schönhauser Allee kommt es auf den Linien S41 und S85 zu Verspätungen und Ausfä
-
-**Die Linie S85 verkehrt nur Grünau \<\> Treptower Park.**
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
