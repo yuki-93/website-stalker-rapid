@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einer Weiche in Schönhauser Allee ###
+### Reparatur an einer Weiche in Schönhauser Allee beendet ###
 
- Letztes Update: 04:39 / 29.08.2023
+ Letztes Update: 05:16 / 29.08.2023
 
 Information
 
-Wegen einer Reparatur an einer Weiche in Schönhauser Allee kommt es auf den Linien S41 und S85 zu Verspätungen und Ausfällen.
-
-**Die Linie S41 verkehrt nur im 10-Minutentakt.**
+Nach der Reparatur an einer Weiche in Schönhauser Allee kommt es auf den Linien S41 und S85 zu Verspätungen und Ausfä
 
 **Die Linie S85 verkehrt nur Grünau \<\> Treptower Park.**
 
