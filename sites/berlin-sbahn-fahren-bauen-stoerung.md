@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsätze in Innsbrucker Platz und Südkreuz beendet ###
 
- Letztes Update: 17:16 / 29.08.2023
+ Letztes Update: 18:21 / 29.08.2023
 
 Information
 
-Nach Polizeieinsätzen in Innsbrucker Platz und im Bereich Südkreuz (unbefugte Personen auf der Strecke) kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+Nach Polizeieinsätzen in Innsbrucker Platz und im Bereich Südkreuz (unbefugte Personen auf der Strecke) kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
