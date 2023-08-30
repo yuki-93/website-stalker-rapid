@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Notarzteinsatz auf der Strecke in Biesdorf beendet ###
-
- Letztes Update: 05:50 / 30.08.2023
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Biesdorf kommt es auf der Linie S5 zu Verspätungen und vereinzelten Ausfällen.
-
-* Linie S5: zwischen Mahlsdorf und Ostbahnhof kann nur ein 10-Minuten-Takt angeboten werden.
-* Linie S75: verkehrt im 20-Minuten-Takt.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
