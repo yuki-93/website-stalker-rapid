@@ -54,6 +54,7 @@ sites:
 
 
   - url: https://www.debian.org/releases/
+    ignore_error: true
     editors:
       - css_select: "#content"
       - html_url_canonicalize
@@ -115,6 +116,7 @@ sites:
       - html_markdownify
 
   - url: https://www.shelly.cloud/de/products/shop#unfiltered
+    ignore_error: true
     editors:
       - css_select: .product-box__info
       - css_remove: .product-box__excl-tax
@@ -122,6 +124,7 @@ sites:
       - html_markdownify
       
   - url: https://sbahn.berlin/fahren/bauen-stoerung/
+    ignore_error: true
     editors:
       - css_select: .c-constructions
       - css_remove: .c-close-btn
