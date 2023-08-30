@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Schienenersatzverkehr S8 zwischen Pankow Heinersdorf und Hohen Neuendorf ###
 
- Letztes Update: 14:25 / 30.08.2023
+ Letztes Update: 14:43 / 30.08.2023
 
 Information
 
-Wegen eines Unfalles in der Pasewalker Straße kommt es bei dem Schienenersatzverkehr für die Linie S8 zwischen Pankow Heinersdorf und Hohen Neuendorf zu Verspätungen und Ausfälle.
+Nach einem Unfall in der Pasewalker Straße kommt es bei dem Schienenersatzverkehr für die Linie S8 zwischen Pankow Heinersdorf und Hohen Neuendorf noch zu Verspätungen und Ausfälle.
 
 Wir bitten um Verständnis
 
