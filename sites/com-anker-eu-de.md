@@ -12,10 +12,6 @@ Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=navi
 
 Schwestermarken & Hilfe
 
-Search
-
-[](https://www.anker.com/eu-de/search)
-
 [](https://passport.anker.com/?app=ankerde)
 
 Anker Prime
