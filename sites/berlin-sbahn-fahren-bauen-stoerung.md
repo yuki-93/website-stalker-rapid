@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Schienenersatzverkehr S8 zwischen Pankow Heinersdorf und Hohen Neuendorf ###
 
- Letztes Update: 12:39 / 30.08.2023
+ Letztes Update: 14:25 / 30.08.2023
 
 Information
 
