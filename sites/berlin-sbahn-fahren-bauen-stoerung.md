@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Notarzteinsatz auf der Strecke in Biesdorf ###
+
+ Letztes Update: 04:20 / 30.08.2023
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Biesdorf ist die Linie S5 zwischen Wuhletal und Lichtenberg unterbrochen.
+
+**Die Linie S5 verkehrt Strausberg/Nord \<\> Wuhletal, sowie Lichtenberg \<\> Westkreuz.**
+
+Bitte benutzen Sie zur Umfahrung ab Wuhletal die U-Bahnlinie 5 Hönow \<\> Hauptbahnhof .
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
