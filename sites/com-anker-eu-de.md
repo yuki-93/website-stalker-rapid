@@ -55,22 +55,30 @@ Das Anker-Erlebnis entdecken
 
   [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner3_4)
 
-* ### Tiefstpreis｜590€ & 5% Cash-Back ###
+* ###
+
+   Tiefstpreis
+
+   ###
+
+  ### 590€ & 5% Cash-Back ###
 
   Starke Rabatte und zusätzlich 5% Cash-Back für Mitglieder
 
-  [Cash-Back sichernTiefstpreis｜590€ & 5% Cash-Back](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=productBanner3_5)
+  [Cash-Back sichern Tiefstpreis ,590€ & 5% Cash-Back](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=productBanner3_5)
 
 * ###
+
+   Tiefstpreis
 
    ###
 
   ### Das Upgrade auf 800W ###
 
   SOLIX RS40P | RS40 Balkonkraftwerk
-  Bis zu 590€ Rabatt
+  Bis zu 590€ Rabatt & 5% Cash-Back
 
-  [Mehr erfahren ,Das Upgrade auf 800W](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner3_6)
+  [Mehr erfahren Tiefstpreis ,Das Upgrade auf 800W](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner3_6)
 
 * ### Die Extraportion Power mit Ankers meistgekauften Ladegeräten  ###
 
