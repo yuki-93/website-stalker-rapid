@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur am Zug in Beusselstraße behoben ###
+
+ Letztes Update: 15:36 / 30.08.2023
+
+Information
+
+Nach einer Reparatur am Zug in Beusselstraße kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Schienenersatzverkehr S8 zwischen Pankow Heinersdorf und Hohen Neuendorf ###
