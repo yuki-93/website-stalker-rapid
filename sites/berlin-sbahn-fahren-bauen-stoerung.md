@@ -4,26 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### (Ostbahnhof) Charlottenburg \<\> Grunewald ###
-
-Nächte 28./29.08. (Mo/Di) und 29./30.08. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27741&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20866&tx_sbbconstructions_list%5Bperiod%5D=17175&type=5679&cHash=4c32a1f3803d544c6b59143d69a177e3)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Charlottenburg \<\> Westkreuz kein Zugverkehr mit S5, bitte S3, S7 oder S9 nutzen
-
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weicheninstandhaltung-in-westkreuz-und-maschinelle-stopfarbeiten/#con-27741)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -76,82 +56,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27235)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Nordbahnhof \<\> Schönholz/Karow ###
-
-Nacht 29./30.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27733&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20862&tx_sbbconstructions_list%5Bperiod%5D=17166&type=5679&cHash=8c88088a523f1d46812737a6330934f1)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Nordbahnhof \<\> Bornholmer Straße S-Bahnverkehr nur im 20-Minutentakt mit S1 (mit Umsteigen in Gesundbrunnen)
-
-* Zugverkehr verändert:
-  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Gesundbrunnen um, die Weiterfahrt erfolgt in Fahrtrichtung Oranienburg nach 17 Minuten und in Fahrtrichtung Wannsee nach 13 Minuten vom selben Gleis.
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gesundbrunnen-12/#con-27733)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Wedding \<\> Prenzlauer Allee ###
-
-Nacht 29./30.08. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27734&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20862&tx_sbbconstructions_list%5Bperiod%5D=17166&type=5679&cHash=c0e4ea9d1d542e5e4278f9369d4d8e22)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der Ringbahnlinien S41/S42 steigen bitte in beiden Fahrtrichtungen in Gesundbrunnen um, die Weiterfahrt erfolgt nach 7 bis 8 Minuten vom selben Gleis.
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gesundbrunnen-12/#con-27734)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Grünau/Grünbergallee \<\> Schöneweide/Baumschulenweg ###
-
-Nacht 29./30.08. (Di/Mi), ca. 23.30 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27859&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20988&tx_sbbconstructions_list%5Bperiod%5D=17205&type=5679&cHash=3d22c2fd87ed9eb2a57f080c03767676)
-
- Ersatzverkehr
-
-Information
-
-* kein Zugverkehr
-  * Altglienicke \<\> Schöneweide
-  * Grünau \<\> Schöneweide
-
-* Ersatzverkehr mit Bussen:
-  * Bus S46: Grünau \<\> Schöneweide
-  * Bus S9: Grünbergallee \<\> Schöneweide
-
-* Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d0bc00770f/#con-27859)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
