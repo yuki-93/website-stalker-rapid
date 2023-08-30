@@ -18,20 +18,6 @@ Wir bitten um Entschuldigung.
 
  Takt geändert
 
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Schienenersatzverkehr S8 zwischen Pankow Heinersdorf und Hohen Neuendorf ###
-
- Letztes Update: 14:43 / 30.08.2023
-
-Information
-
-Nach einem Unfall in der Pasewalker Straße kommt es bei dem Schienenersatzverkehr für die Linie S8 zwischen Pankow Heinersdorf und Hohen Neuendorf noch zu Verspätungen und Ausfälle.
-
-Wir bitten um Verständnis
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
