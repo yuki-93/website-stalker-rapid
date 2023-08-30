@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Biesdorf ###
 
- Letztes Update: 04:20 / 30.08.2023
+ Letztes Update: 04:47 / 30.08.2023
 
 Information
 
 Wegen eines Notarzteinsatzes auf der Strecke in Biesdorf ist die Linie S5 zwischen Wuhletal und Lichtenberg unterbrochen.
 
-**Die Linie S5 verkehrt Strausberg/Nord \<\> Wuhletal, sowie Lichtenberg \<\> Westkreuz.**
+**Die Linie S5 verkehrt Strausberg-Nord / Hoppegarten \<\> Wuhletal, sowie Lichtenberg \<\> Westkreuz.**
 
 Bitte benutzen Sie zur Umfahrung ab Wuhletal die U-Bahnlinie 5 Hönow \<\> Hauptbahnhof .
 
