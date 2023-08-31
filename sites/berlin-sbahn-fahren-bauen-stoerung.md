@@ -4,33 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Polizeieinsatz in Zepernick (unbefugte Personen in den Gleisen) ###
+### Reparatur an Zügen in Schöneberg und Gesundbrunnen ###
 
- Letztes Update: 08:30 / 31.08.2023
-
-Information
-
-Wegen eines Polizeieinsatzes in Zepernick (unbefugte Personen in den Gleisen) ist der Zugverkehr zwischen Zepernick und Bernau unterbrochen.
-
-Wir bitten um Verständnis
-
- fährt nicht  keine Verbindung
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur am Bahnübergang in Fredersdorf ###
-
- Letztes Update: 08:28 / 31.08.2023
+ Letztes Update: 10:23 / 31.08.2023
 
 Information
 
-Wegn der Reparatur am Bahnübergang in Fredersdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+Nach der Reparatur an Zügen in Schöneberg und Gesundbrunnen kommt es auf den Linien S41, S42 und S46 zu verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
