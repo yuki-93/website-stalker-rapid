@@ -4,19 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### Polizeieinsatz in Warschauer Straße beendet (unbefugte Personen auf der Strecke ###
+### Polizeieinsatz in Zepernick (unbefugte Personen in den Gleisen) ###
 
- Letztes Update: 08:20 / 31.08.2023
+ Letztes Update: 08:30 / 31.08.2023
 
 Information
 
-Nach einem Polizeieinsatz in Warschauer Straße (unbefugte Personen auf der Strecke) kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Wegen eines Polizeieinsatzes in Zepernick (unbefugte Personen in den Gleisen) ist der Zugverkehr zwischen Zepernick und Bernau unterbrochen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis
 
- Zugverkehr verändert  Verbindung verspätet
+ fährt nicht  keine Verbindung
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur am Bahnübergang in Fredersdorf ###
+
+ Letztes Update: 08:28 / 31.08.2023
+
+Information
+
+Wegn der Reparatur am Bahnübergang in Fredersdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
