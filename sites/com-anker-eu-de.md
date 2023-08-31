@@ -16,11 +16,19 @@ Schwestermarken & Hilfe
 
 Anker Nano
 
-C-ing is Believing
+ C-ing is Believing
 
 Die schnellste Ladeleistung für deine USB-C Geräte
 
 [Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner1)
+
+Anker SOLIX F3800
+
+Minimaler Aufwand, Maximale Power
+
+Erweiterbar auf 26.900Wh | Power für alle Haushaltsgeräte Ladeleistung für Elektrofahrzeuge | Power für Camping InfiniPower™ Technologie
+
+[Anmelden für 45% RabattmasterBanner2](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=masterBanner2)
 
 Das Anker-Erlebnis entdecken
 ----------
@@ -30,33 +38,33 @@ Das Anker-Erlebnis entdecken
 
   Der exklusive Back-To-School Sale von Anker
 
-  [Zum Angebot Bis zu 30% Rabatt, 5% Geldprämien](https://www.anker.com/eu-de/back-to-school-chg?ref=productBanner1_1)
+  [Zum Angebot Bis zu 30% Rabatt, 5% Geldprämien](https://www.anker.com/eu-de/back-to-school-chg?ref=productBanner2_1)
 
 * ### Entdecke die besten Powerbanks für unterwegs  ###
 
   Das smarte Ladezubehör für deine Abenteuer.
   Bis zu 25% Rabatt
 
-  [Jetzt kaufenEntdecke die besten Powerbanks für unterwegs](https://www.anker.com/eu-de/travel?ref=productBanner1_2)
+  [Jetzt kaufenEntdecke die besten Powerbanks für unterwegs](https://www.anker.com/eu-de/travel?ref=productBanner2_2)
 
 * ### Anmelden und exklusive Benefits und 45% Rabatt sichern  ###
 
   Anker SOLIX F3800 Tragbare Powerstation
 
-  [AnmeldenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner1_3)
+  [AnmeldenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner2_3)
 
 * ### Anker 3-in-1 Ladewürfel
   mit MagSafe  ###
 
   Das perfekte Ladegerät für dein Apple-Ecosystem
 
-  [Mehr erfahrenAnker 3-in-1 Ladewürfel mit MagSafe](https://www.anker.com/eu-de/products/y1811?ref=productBanner1_4)
+  [Mehr erfahrenAnker 3-in-1 Ladewürfel mit MagSafe](https://www.anker.com/eu-de/products/y1811?ref=productBanner2_4)
 
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner1_5)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner2_5)
 
 * ###
 
@@ -68,7 +76,7 @@ Das Anker-Erlebnis entdecken
 
   Starke Rabatte und zusätzlich 5% Cash-Back für Mitglieder
 
-  [Cash-Back sichern Tiefstpreis ,590€ & 5% Cash-Back](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=productBanner1_6)
+  [Cash-Back sichern Tiefstpreis ,590€ & 5% Cash-Back](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=productBanner2_6)
 
 * ###
 
@@ -81,31 +89,31 @@ Das Anker-Erlebnis entdecken
   SOLIX RS40P | RS40 Balkonkraftwerk
   Bis zu 590€ Rabatt & 5% Cash-Back
 
-  [Mehr erfahren Tiefstpreis ,Das Upgrade auf 800W](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner1_7)
+  [Mehr erfahren Tiefstpreis ,Das Upgrade auf 800W](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_7)
 
 * ### Die Extraportion Power mit Ankers meistgekauften Ladegeräten  ###
 
   Entdecke die besten Ladelösungen für den Alltag und deine Arbeit
 
-  [Mehr erfahren Die Extraportion Power mit Ankers meistgekauften Ladegeräten](https://www.anker.com/eu-de/bestseller?ref=productBanner1_8)
+  [Mehr erfahren Die Extraportion Power mit Ankers meistgekauften Ladegeräten](https://www.anker.com/eu-de/bestseller?ref=productBanner2_8)
 
 * ### Anker EverFrost Akku-Kühlbox ###
 
    Bis zu 42 Std. | Ohne Eis für mehr Stauraum | Von 25°C auf 0°C in nur 30 Min. | Abnehmbare Powerbank
 
-  [Mehr erfahren Anker EverFrost Akku-Kühlbox](https://anker.com/eu-de/everfrost-akku-kuehlbox?ref=productBanner1_9)
+  [Mehr erfahren Anker EverFrost Akku-Kühlbox](https://anker.com/eu-de/everfrost-akku-kuehlbox?ref=productBanner2_9)
 
 * ### Anker Nano 3 ###
 
   Das Tech für jedes iPhone
 
-  [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner1_10)
+  [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner2_10)
 
 * ### Starte durch mit USB-C ###
 
   Entdecke USB-C Ladepower mit Anker
 
-  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner1_11)
+  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner2_11)
 
 Unentschlossen?
 
