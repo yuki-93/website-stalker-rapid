@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an Zügen in Schöneberg und Gesundbrunnen ###
-
- Letztes Update: 10:23 / 31.08.2023
-
-Information
-
-Nach der Reparatur an Zügen in Schöneberg und Gesundbrunnen kommt es auf den Linien S41, S42 und S46 zu verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
