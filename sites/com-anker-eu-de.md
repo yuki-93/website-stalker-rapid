@@ -29,7 +29,7 @@ Schnelle Power, immer und überall.
 UltraFast Netzaufladung, 100% in 58 Minuten
 Langlebige LiFeP04-Akkus mit InfiniPower™ Technologie
 
-[Jetzt vorbestellenmasterBanner2](https://www.anker.com/eu-de/a1761-powerstation-camping-pps?ref=masterBanner2)
+[Jetzt anmeldenmasterBanner2](https://www.anker.com/eu-de/a1761-powerstation-camping-pps?ref=masterBanner2)
 
 Anker SOLIX F3800
 
