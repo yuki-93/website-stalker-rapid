@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Nordbahnhof ###
+
+ Letztes Update: 18:28 / 31.08.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Nordbahnhof kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+
+* die Linie S26 verkehrt nur zwischen Teltow Stadt und Potsdamer Platz
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
