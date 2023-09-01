@@ -18,20 +18,6 @@ Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### ärztliche Versorgung eines Fahrgastes in Sonnenallee beendet ###
-
- Letztes Update: 22:28 / 01.09.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Sonnenallee kommt es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Takt geändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
