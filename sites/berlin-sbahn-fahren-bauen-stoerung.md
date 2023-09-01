@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einer Weiche in Zeuthen ###
+
+ Letztes Update: 07:44 / 01.09.2023
+
+Information
+
+Wegen der Reparatur an einer Weiche in Zeuthen kommt es auf den Linien S46 und S8 zu Verspätungen und Ausfällen.
+
+* Linie S8 verkehrt Blankenburg \<\> Grünau
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
