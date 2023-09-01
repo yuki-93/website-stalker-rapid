@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Alexanderplatz beendet ###
+
+ Letztes Update: 22:42 / 01.09.2023
+
+Information
+
+Nach einem Polizeieinsatz im Zug in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### ärztliche Versorgung eines Fahrgastes in Sonnenallee beendet ###
+
+ Letztes Update: 22:28 / 01.09.2023
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Sonnenallee kommt es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Takt geändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
