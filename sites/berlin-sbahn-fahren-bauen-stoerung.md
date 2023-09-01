@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### defektes Stellwerk in Hohen Neuendorf behoben ###
+
+ Letztes Update: 16:42 / 01.09.2023
+
+Information
+
+Nach einem defekten Stellwerk in Hohen Neuendorf kommt es auf den Linien S1 und S8 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
