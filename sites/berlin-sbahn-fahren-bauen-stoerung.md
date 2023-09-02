@@ -8,19 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Marienfelde beendet ###
 
- Letztes Update: 12:35 / 02.09.2023
+ Letztes Update: 14:24 / 02.09.2023
 
 Information
 
 Nach der Reparatur eines defekten Stellwerks in Marienfelde kommt es auf der Linie S2 noch zu Verspätungen und Ausfällen.
 
-**Linie S2 verkehrt Bernau \<\> Blankenfelde, sowie Buch \<\> Potsdamer Platz.**
-
-**Zwischen Lichtenrade und Potsdamer Platz besteht auf der Linie S2 nur ein 20-Minutentakt.**
-
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
