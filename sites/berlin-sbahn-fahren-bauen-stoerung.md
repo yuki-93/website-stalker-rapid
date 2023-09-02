@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### defektes Stellwerk in Marienfelde beendet ###
-
- Letztes Update: 14:24 / 02.09.2023
-
-Information
-
-Nach der Reparatur eines defekten Stellwerks in Marienfelde kommt es auf der Linie S2 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
