@@ -6,23 +6,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
-### defektes Stellwerk in Marienfelde ###
+### defektes Stellwerk in Marienfelde beendet ###
 
- Letztes Update: 11:42 / 02.09.2023
+ Letztes Update: 12:35 / 02.09.2023
 
 Information
 
-Wegen eines defekten Stellwerks in Marienfelde ist der Zugverkehr der Linie S2 zwischen Priesterweg und Blankenfelde eingestellt.
+Nach der Reparatur eines defekten Stellwerks in Marienfelde kommt es auf der Linie S2 noch zu Verspätungen und Ausfällen.
 
-**Linie S2 verkehrt Bernau \<\> Schichauweg, sowie Buch \<\> Potsdamer Platz.**
+**Linie S2 verkehrt Bernau \<\> Blankenfelde, sowie Buch \<\> Potsdamer Platz.**
 
-**Zwischen Schichauweg und Potsdamer Platz besteht auf der Linie S2 nur ein 20-Minutentakt.**
-
-Bitte nutzen Sie zur Umfahrung alternative Verkehrsmittel.
+**Zwischen Lichtenrade und Potsdamer Platz besteht auf der Linie S2 nur ein 20-Minutentakt.**
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
