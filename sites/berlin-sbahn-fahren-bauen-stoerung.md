@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### defektes Stellwerk in Marienfelde ###
+
+ Letztes Update: 07:12 / 02.09.2023
+
+Information
+
+Wegen eines defekten Stellwerks in Marienfelde ist der Zugverkehr der Linie S2 zwischen Priesterweg und Blankenfelde eingestellt.
+
+**Linie S2 verkehrt Bernau \<\> Priesterweg, sowie Buch \<\> Potsdamer Platz.**
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
