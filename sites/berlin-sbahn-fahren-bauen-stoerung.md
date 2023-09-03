@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Verkehrsunfall im Bereich Adlergestell ###
+
+ Letztes Update: 20:11 / 03.09.2023
+
+Information
+
+Wegen eines Verkehrsunfalls im öffentlichen Straßenland im Bereich Adlergestell kommt es beim Ersatzverkehr mit Bussen für die Linie S46 zwischen Grünau und Königs Wusterhausen zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
