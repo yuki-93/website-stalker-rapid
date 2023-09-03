@@ -8,13 +8,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Verkehrsunfall im Bereich Adlergestell ###
 
- Letztes Update: 20:11 / 03.09.2023
+ Letztes Update: 21:22 / 03.09.2023
 
 Information
 
 Wegen eines Verkehrsunfalls im öffentlichen Straßenland im Bereich Adlergestell kommt es beim Ersatzverkehr mit Bussen für die Linie S46 zwischen Grünau und Königs Wusterhausen zu Verspätungen und Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Ostkreuz und Königs Wusterhausen die Regionalbahnlinien RE2 und RE7
+* zwischen Adlershof und Flughafen BER Terminal 1-2 die Linien S45 und S9 ***sowie*** zwischen Flughafen BER Terminal 1-2 und Wildau bzw. Königs Wusterhausen die Buslinien 735 und 736
+* zwischen Adlershof und Flughafen BER Terminal 1-2 die Linien S45 und S9 sowie zwischen Flughafen BER Terminal 1-2 und Königs Wusterhausen die Regionalbahnlinie RB22
+
+Wir bitten um Ihr Verständnis
 
  Ersatzverkehr  sonstige Einschränkungen
 
