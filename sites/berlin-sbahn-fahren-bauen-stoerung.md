@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### ärztliche Versorgung eines Fahrgastes in Zehlendorf ###
-
- Letztes Update: 09:15 / 04.09.2023
-
-Information
-
-Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Zehlendorf kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -879,6 +863,64 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Ostbahnhof ###
+
+19.09. (Di) bis 22.09. (Fr), jeweils 3:02 Uhr bis 3:09 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26783&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19878&tx_sbbconstructions_list%5Bperiod%5D=17226&type=5679&cHash=dede629018aaf497eefa03200351cfa3)
+
+ fährt nicht
+
+Information
+
+* Der Zug:
+  * Alexanderplatz ab 3:02 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:09 Uhr in Ostbahnhof.
+
+* Der Zug fällt von Alexanderplatz bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Ostbahnhof ###
+
+19.09. (Di) bis 22.09. (Fr), jeweils 3:02 Uhr bis 3:24 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17227&type=5679&cHash=f852e60d7f2bdd2e7cfc3e200cec0819)
+
+ fährt nicht
+
+Information
+
+* Der Zug Charlottenburg ab 3:02 nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) beginnt erst um 3:24 Uhr in Ostbahnhof.
+* Der Zug fällt von Charlottenburg bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Ostbahnhof ###
+
+19.09. (Di) bis 22.09. (Fr), jeweils 3:12 Uhr bis 3:37 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26785&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19880&tx_sbbconstructions_list%5Bperiod%5D=17228&type=5679&cHash=210336ce7195f4a9cd337b30e7346b51)
+
+ fährt nicht
+
+Information
+
+* Der Zug:
+  * Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:37 Uhr in Ostbahnhof.
+
+* Der Zug fällt von Westkreuz bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 Hinweis
 
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
@@ -1343,3 +1385,120 @@ Information
   * Der Zug fällt zwischen Ostbahnhof und Friedrichstraße aus.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Ostbahnhof ###
+
+19.09. (Di) bis 22.09. (Fr), jeweils 3:02 Uhr bis 3:09 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26783&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19878&tx_sbbconstructions_list%5Bperiod%5D=17226&type=5679&cHash=dede629018aaf497eefa03200351cfa3)
+
+ fährt nicht
+
+Information
+
+* Der Zug:
+  * Alexanderplatz ab 3:02 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:09 Uhr in Ostbahnhof.
+
+* Der Zug fällt von Alexanderplatz bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Ostbahnhof ###
+
+19.09. (Di) bis 22.09. (Fr), jeweils 3:02 Uhr bis 3:24 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17227&type=5679&cHash=f852e60d7f2bdd2e7cfc3e200cec0819)
+
+ fährt nicht
+
+Information
+
+* Der Zug Charlottenburg ab 3:02 nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) beginnt erst um 3:24 Uhr in Ostbahnhof.
+* Der Zug fällt von Charlottenburg bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Ostbahnhof ###
+
+19.09. (Di) bis 22.09. (Fr), jeweils 3:12 Uhr bis 3:37 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26785&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19880&tx_sbbconstructions_list%5Bperiod%5D=17228&type=5679&cHash=210336ce7195f4a9cd337b30e7346b51)
+
+ fährt nicht
+
+Information
+
+* Der Zug:
+  * Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:37 Uhr in Ostbahnhof.
+
+* Der Zug fällt von Westkreuz bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Waßmannsdorf \> Flughafen BER – Terminal 1-2 ###
+
+23.09. (Sa) 1 bis 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17823&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=14046&tx_sbbconstructions_list%5Bperiod%5D=17230&type=5679&cHash=634437e86e4ee6336b75e6db1045fd17)
+
+ Zugverkehr verändert
+
+Information
+
+* Gleisänderung/Bahnsteigänderung beachten.
+* In Waßmannsdorf fahren die S45 und die S9 nach Flughafen BER – Terminal 1-2 von Gleis 2 (Bahnsteig stadteinwärts).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Gleisänderung in Ostbahnhof ###
+
+25.09. (Mo) 3:20 Uhr bis 4 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27916&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21045&tx_sbbconstructions_list%5Bperiod%5D=17229&type=5679&cHash=1255757e7d98e2786289400b03b63af5)
+
+ Zugverkehr verändert
+
+Information
+
+* Folgende Züge in Richtung Flughafen BER - Terminal 1-2 verkehren in Ostbahnhof von Gleis 10 (Bahnsteig stadteinwärts):
+  * Charlottenburg ab, 3.02 Uhr, **Ostbahnhof ab 3:24** nach Flughafen BER T1-2, an 4 Uhr,
+  * Westkreuz ab 3.12 Uhr, **Ostbahnhof ab 3.37 Uhr** nach Flughafen BER - Terminal 1-2, an 4.16 Uhr,
+  * Westkreuz ab 3.52 Uhr, **Ostbahnhof ab 3:57 Uhr** nach Flughafen BER - Terminal 1-2, an 4.36 Uhr
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Gleisänderung/Bahnsteigänderung in Waßmannsdorf ###
+
+24.09. (So) 1 bis 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17824&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=14047&tx_sbbconstructions_list%5Bperiod%5D=17231&type=5679&cHash=1f85d3eeb0f6d8476af7ca0825fc7782)
+
+ Zugverkehr verändert
+
+Information
+
+* Gleisänderung/Bahnsteigänderung beachten.
+* In Waßmannsdorf fährt die Linie S9 nach Spandau von Gleis 1 (Bahnsteig stadtauswärts).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/wassmannsdorf-spandau-gleisaenderung/#con-17824)
