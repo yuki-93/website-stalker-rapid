@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### ärztliche Versorgung eines Fahrgastes in Sundgauer Straße beendet ###
-
- Letztes Update: 16:14 / 04.09.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Sundgauer Straße kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur am Zug in Feuerbachstraße beendet ###
-
- Letztes Update: 16:00 / 04.09.2023
-
-Information
-
-Nach einer Reparatur am Zug in Feuerbachstraße kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
