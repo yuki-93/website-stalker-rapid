@@ -6,13 +6,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur am Zug in Feuerbachstraße ###
+### ärztliche Versorgung eines Fahrgastes in Sundgauer Straße beendet ###
 
- Letztes Update: 14:02 / 04.09.2023
+ Letztes Update: 16:14 / 04.09.2023
 
 Information
 
-Wegen einer Reparatur am Zug in Feuerbachstraße kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Sundgauer Straße kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur am Zug in Feuerbachstraße beendet ###
+
+ Letztes Update: 16:00 / 04.09.2023
+
+Information
+
+Nach einer Reparatur am Zug in Feuerbachstraße kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
