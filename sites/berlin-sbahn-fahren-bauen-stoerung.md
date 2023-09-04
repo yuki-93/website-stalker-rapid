@@ -2,28 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Verkehrsunfall im Bereich Adlergestell ###
-
- Letztes Update: 23:15 / 03.09.2023
-
-Information
-
-Wegen eines Verkehrsunfalls im öffentlichen Straßenland im Bereich Adlergestell kommt es beim Ersatzverkehr mit Bussen für die Linie S46 zwischen Grünau und Königs Wusterhausen zu Verspätungen und Ausfällen.
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Ostkreuz und Königs Wusterhausen die Regionalbahnlinien RE2 und RE7
-* zwischen Adlershof und Flughafen BER Terminal 1-2 die Linien S45 und S9 ***sowie*** zwischen Flughafen BER Terminal 1-2 und Wildau bzw. Königs Wusterhausen die Buslinien 735 und 736
-* zwischen Adlershof und Flughafen BER Terminal 1-2 die Linien S45 und S9 ***sowie*** zwischen Flughafen BER Terminal 1-2 und Königs Wusterhausen die Regionalbahnlinie RB22
-
-Wir bitten um Ihr Verständnis
-
- Ersatzverkehr  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -78,71 +56,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27235)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Zehlendorf \<\> Friedenau \<\> Schöneberg (Oranienburg) ###
-
-01.09. (Fr), ca. 22 Uhr durchgehend bis 04.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17146&type=5679&cHash=85f995117920fc4230ce6492333a60f3)
-
-08.09. (Fr), ca. 22 Uhr durchgehend bis 11.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17147&type=5679&cHash=847206c5d70eed2cd470065ac727ff3b)
-
-Nächte 11./12.09. (Mo/Di) bis 14./15.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17148&type=5679&cHash=29c6a7cb5ca0ae819440af6b7ebfcd51)
-
-15.09. (Fr), ca. 22 Uhr durchgehend bis 18.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17149&type=5679&cHash=17c59cde5bc5a19f7d8dccd5d8222e1f)
-
-Nächte 25./26.09. (Mo/Di) bis 28./29.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17150&type=5679&cHash=7c684a99b661e4fc054ab388a12b1eeb)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&type=5679&cHash=f74082cad4155357242ae102615fa988)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr: Zehlendorf \<\> Friedenau
-  * Ersatzverkehr mit Bussen: Zehlendorf \<\> Schöneberg
-     Bitte steigen Sie zwischen dem Bus S1 und der S1 (Friedenau \<\> Schöneberg \<\> Oranienburg) in beiden Fahrtrichtungen in Schöneberg um. In Friedenau beträgt der Fußweg vom S-Bahnhof zur Bushaltestelle „Breslauer Platz“ ca. 600 Meter.
-
-* Bitte nutzen vor Fahrtantritt die Fahrplanauskunft
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-der-moltkestrassenbruecke/#con-27722)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Königs Wusterhausen \<\> Grünau ###
-
-01.09. (Fr), ca. 22 Uhr durchgehend bis 04.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&tx_sbbconstructions_list%5Bperiod%5D=17177&type=5679&cHash=9356c2d289f7a6b025177f45d6e81f0d)
-
-Nacht 07./08.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&tx_sbbconstructions_list%5Bperiod%5D=17178&type=5679&cHash=f56ef1149d4fa443891e8be332005f33)
-
-08.09. (Fr), ca. 22 Uhr durchgehend bis 11.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&tx_sbbconstructions_list%5Bperiod%5D=17179&type=5679&cHash=0129746c04d8b7ee34724d21f41e75d7)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&type=5679&cHash=3272374deb57507128f593b962ad1946)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-personentunnel-eichwalde-weichenarbeiten-schwellenauswechslungen/#con-27743)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -445,71 +358,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27235)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Zehlendorf \<\> Friedenau \<\> Schöneberg (Oranienburg) ###
-
-01.09. (Fr), ca. 22 Uhr durchgehend bis 04.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17146&type=5679&cHash=85f995117920fc4230ce6492333a60f3)
-
-08.09. (Fr), ca. 22 Uhr durchgehend bis 11.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17147&type=5679&cHash=847206c5d70eed2cd470065ac727ff3b)
-
-Nächte 11./12.09. (Mo/Di) bis 14./15.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17148&type=5679&cHash=29c6a7cb5ca0ae819440af6b7ebfcd51)
-
-15.09. (Fr), ca. 22 Uhr durchgehend bis 18.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17149&type=5679&cHash=17c59cde5bc5a19f7d8dccd5d8222e1f)
-
-Nächte 25./26.09. (Mo/Di) bis 28./29.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17150&type=5679&cHash=7c684a99b661e4fc054ab388a12b1eeb)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&type=5679&cHash=f74082cad4155357242ae102615fa988)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr: Zehlendorf \<\> Friedenau
-  * Ersatzverkehr mit Bussen: Zehlendorf \<\> Schöneberg
-     Bitte steigen Sie zwischen dem Bus S1 und der S1 (Friedenau \<\> Schöneberg \<\> Oranienburg) in beiden Fahrtrichtungen in Schöneberg um. In Friedenau beträgt der Fußweg vom S-Bahnhof zur Bushaltestelle „Breslauer Platz“ ca. 600 Meter.
-
-* Bitte nutzen vor Fahrtantritt die Fahrplanauskunft
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-der-moltkestrassenbruecke/#con-27722)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Königs Wusterhausen \<\> Grünau ###
-
-01.09. (Fr), ca. 22 Uhr durchgehend bis 04.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&tx_sbbconstructions_list%5Bperiod%5D=17177&type=5679&cHash=9356c2d289f7a6b025177f45d6e81f0d)
-
-Nacht 07./08.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&tx_sbbconstructions_list%5Bperiod%5D=17178&type=5679&cHash=f56ef1149d4fa443891e8be332005f33)
-
-08.09. (Fr), ca. 22 Uhr durchgehend bis 11.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&tx_sbbconstructions_list%5Bperiod%5D=17179&type=5679&cHash=0129746c04d8b7ee34724d21f41e75d7)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&type=5679&cHash=3272374deb57507128f593b962ad1946)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-personentunnel-eichwalde-weichenarbeiten-schwellenauswechslungen/#con-27743)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -620,6 +468,63 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27791)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Königs Wusterhausen \<\> Grünau ###
+
+Nacht 07./08.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&tx_sbbconstructions_list%5Bperiod%5D=17178&type=5679&cHash=f56ef1149d4fa443891e8be332005f33)
+
+08.09. (Fr), ca. 22 Uhr durchgehend bis 11.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&tx_sbbconstructions_list%5Bperiod%5D=17179&type=5679&cHash=0129746c04d8b7ee34724d21f41e75d7)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&type=5679&cHash=3272374deb57507128f593b962ad1946)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-personentunnel-eichwalde-weichenarbeiten-schwellenauswechslungen/#con-27743)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Zehlendorf \<\> Friedenau \<\> Schöneberg (Oranienburg) ###
+
+08.09. (Fr), ca. 22 Uhr durchgehend bis 11.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17147&type=5679&cHash=847206c5d70eed2cd470065ac727ff3b)
+
+Nächte 11./12.09. (Mo/Di) bis 14./15.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17148&type=5679&cHash=29c6a7cb5ca0ae819440af6b7ebfcd51)
+
+15.09. (Fr), ca. 22 Uhr durchgehend bis 18.09. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17149&type=5679&cHash=17c59cde5bc5a19f7d8dccd5d8222e1f)
+
+Nächte 25./26.09. (Mo/Di) bis 28./29.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17150&type=5679&cHash=7c684a99b661e4fc054ab388a12b1eeb)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&type=5679&cHash=f74082cad4155357242ae102615fa988)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr: Zehlendorf \<\> Friedenau
+  * Ersatzverkehr mit Bussen: Zehlendorf \<\> Schöneberg
+     Bitte steigen Sie zwischen dem Bus S1 und der S1 (Friedenau \<\> Schöneberg \<\> Oranienburg) in beiden Fahrtrichtungen in Schöneberg um. In Friedenau beträgt der Fußweg vom S-Bahnhof zur Bushaltestelle „Breslauer Platz“ ca. 600 Meter.
+
+* Bitte nutzen vor Fahrtantritt die Fahrplanauskunft
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-der-moltkestrassenbruecke/#con-27722)
 
 [S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -884,10 +789,6 @@ Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sin
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Zehlendorf \<\> Friedenau \<\> Schöneberg (Oranienburg) ###
-
-01.09. (Fr), ca. 22 Uhr durchgehend bis 04.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17146&type=5679&cHash=85f995117920fc4230ce6492333a60f3)
 
 08.09. (Fr), ca. 22 Uhr durchgehend bis 11.09. (Mo), ca. 1.30 Uhr
 
