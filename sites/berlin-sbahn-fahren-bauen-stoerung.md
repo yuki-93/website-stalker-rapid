@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Beschädigung einer Brücke im Bereich Köpenick behoben ###
+
+ Letztes Update: 10:09 / 05.09.2023
+
+Information
+
+Nach Beschädigung einer Brücke im Bereich Köpenick kommt es auf der Linie S3 noch zu einzelnen Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
