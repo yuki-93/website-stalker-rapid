@@ -1014,6 +1014,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-gleisarbeiten/#con-27848)
 
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Hohen Neuendorf – Oranienburg ###
+
+22.09. (Fr) 22 Uhr bis 25.09. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27928&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21057&tx_sbbconstructions_list%5Bperiod%5D=17241&type=5679&cHash=c322c645a5e494205889bfe5d98443d4)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen: Bus S1 - Hohen Neueundorf \<\> Birkenwerder
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s1-nord/#con-27928)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Blankenfelde \<\> Lichtenrade ###
