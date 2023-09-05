@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur am Zug in Schönhauser Allee ###
+### Reparatur am Zug in Schönhauser Allee beendet ###
 
- Letztes Update: 15:11 / 05.09.2023
+ Letztes Update: 15:23 / 05.09.2023
 
 Information
 
-Wegen der Reparatur am Zug in Schönhauser Allee kommt es auf den Linien S42, S8 und S85 zu Verspätungen und einzelnen Ausfällen.
+Nach der Reparatur am Zug in Schönhauser Allee kommt es auf den Linien S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
