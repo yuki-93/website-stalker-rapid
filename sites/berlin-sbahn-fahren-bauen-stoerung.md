@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur am Zug in Schönhauser Allee beendet ###
+### Reparatur an einem Signal in Beusselstraße ###
 
- Letztes Update: 15:23 / 05.09.2023
+ Letztes Update: 16:39 / 05.09.2023
 
 Information
 
-Nach der Reparatur am Zug in Schönhauser Allee kommt es auf den Linien S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Beusselstraße verkehrt die Linie S42 nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
