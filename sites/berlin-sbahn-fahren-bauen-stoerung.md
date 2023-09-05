@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beschädigung einer Brücke im Bereich Köpenick behoben ###
 
- Letztes Update: 10:09 / 05.09.2023
+ Letztes Update: 10:36 / 05.09.2023
 
 Information
 
