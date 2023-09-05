@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur am Zug in Schönhauser Allee ###
+
+ Letztes Update: 15:11 / 05.09.2023
+
+Information
+
+Wegen der Reparatur am Zug in Schönhauser Allee kommt es auf den Linien S42, S8 und S85 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
@@ -1132,35 +1148,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-altglienicke/#con-27853)
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-Nur Wochenende
-
-### Altglienicke/Königs Wusterhausen/Spindlersfeld \<\> Baumschulenweg ###
-
-06.10. (Fr), ca. 22 Uhr durchgehend bis 9.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27862&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20991&tx_sbbconstructions_list%5Bperiod%5D=17206&type=5679&cHash=43fc31c63ed76d86b89da410cde615f7)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Adlershof \<\> Schöneweide \<\> Baumschulenweg (ExpressLinie)
-  * Bus S9A: Grünbergallee \<\> Baumschulenweg
-  * Bus S46: Königs Wusterhausen \<\> Baumschulenweg
-  * Bus S47: Spindlersfeld \<\> Baumschulenweg
-
-* Pendelverkehr
-  * Baumschulenweg \<\> Plänterwald \<\> Treptower Park jeweils im 10-Minutentakt
-
-* Fahrplanänderung
-* Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-37/#con-27862)
-
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
@@ -1201,6 +1188,35 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-36/#con-27858)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Altglienicke/Königs Wusterhausen/Spindlersfeld \<\> Baumschulenweg ###
+
+06.10. (Fr), ca. 22 Uhr durchgehend bis 9.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27862&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20991&tx_sbbconstructions_list%5Bperiod%5D=17206&type=5679&cHash=43fc31c63ed76d86b89da410cde615f7)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Adlershof \<\> Schöneweide \<\> Baumschulenweg (ExpressLinie)
+  * Bus S9A: Grünbergallee \<\> Baumschulenweg
+  * Bus S46: Königs Wusterhausen \<\> Baumschulenweg
+  * Bus S47: Spindlersfeld \<\> Baumschulenweg
+
+* Pendelverkehr
+  * Baumschulenweg \<\> Plänterwald \<\> Treptower Park jeweils im 10-Minutentakt
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-37/#con-27862)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
