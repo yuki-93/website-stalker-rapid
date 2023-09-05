@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an einem Signal in Beusselstraße ###
+### Reparatur an einem Signal in Beusselstraße beendet ###
 
- Letztes Update: 17:27 / 05.09.2023
+ Letztes Update: 19:54 / 05.09.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Beusselstraße kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
-
-Die Linie S42 verkehrt nur im **10-Minuten-Takt**.
+Nach der Reparatur an einem Signal in Beusselstraße verkehrt die Linie S42 nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
