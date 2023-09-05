@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einem Signal in Beusselstraße beendet ###
-
- Letztes Update: 19:54 / 05.09.2023
-
-Information
-
-Nach der Reparatur an einem Signal in Beusselstraße verkehrt die Linie S42 nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)
