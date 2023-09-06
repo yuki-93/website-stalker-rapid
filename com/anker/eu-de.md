@@ -26,25 +26,25 @@ Super Solarangebote mit Cash-Back
 
 Bis zu 750€ Rabatt und 5% extra Cash-Back
 
-01
+00
 
 :
 
 Tagen
 
-00
+23
 
 :
 
 Std.
 
-44
+40
 
 :
 
 Min.
 
-25
+08
 
 Sek.
 
