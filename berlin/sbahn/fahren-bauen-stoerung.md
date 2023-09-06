@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Landsberger Allee beendet ###
+
+ Letztes Update: 20:13 / 06.09.2023
+
+Information
+
+Nach einem Polizeieinsatz zwischen Landsberger Allee und Greifswalder Straße kann es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen kommen.
+
+Wir bitten um Entschuldigung!
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
