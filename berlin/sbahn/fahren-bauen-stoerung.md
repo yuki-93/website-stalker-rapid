@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Landsberger Allee beendet ###
 
- Letztes Update: 20:13 / 06.09.2023
+ Letztes Update: 20:49 / 06.09.2023
 
 Information
 
@@ -16,7 +16,7 @@ Nach einem Polizeieinsatz zwischen Landsberger Allee und Greifswalder Straße ka
 
 Wir bitten um Entschuldigung!
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
