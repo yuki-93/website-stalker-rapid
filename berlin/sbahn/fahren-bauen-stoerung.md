@@ -4,6 +4,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Erkner \<\> Friedrichshagen ###
+
+Nächte 05./06.09. (Di/Mi) und 06./07.09. (Mi/Do), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27756&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20880&tx_sbbconstructions_list%5Bperiod%5D=17182&type=5679&cHash=c8ded46acc178235e760cd80629a0dd1)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr: Erkner \<\> Friedrichshagen im 30-Minutentakt
+  * in der Nacht 05./06.09. (Di/Mi):
+     Erkner ab zu den Minuten 03, 33
+     Friedrichshagen ab zu den Minuten 17, 47;
+  * in der Nacht 06./07.09. (Mi/Do):
+     Erkner ab zu den Minuten 28, 58
+     ​​​​​​​Friedrichshagen ab zu den Minuten 11, 41
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -56,30 +80,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27235)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Erkner \<\> Friedrichshagen ###
-
-Nächte 05./06.09. (Di/Mi) und 06./07.09. (Mi/Do), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27756&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20880&tx_sbbconstructions_list%5Bperiod%5D=17182&type=5679&cHash=c8ded46acc178235e760cd80629a0dd1)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr: Erkner \<\> Friedrichshagen im 30-Minutentakt
-  * in der Nacht 05./06.09. (Di/Mi):
-     Erkner ab zu den Minuten 03, 33
-     Friedrichshagen ab zu den Minuten 17, 47;
-  * in der Nacht 06./07.09. (Mi/Do):
-     Erkner ab zu den Minuten 28, 58
-     ​​​​​​​Friedrichshagen ab zu den Minuten 11, 41
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
@@ -151,6 +151,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Erkner \<\> Friedrichshagen ###
+
+Nächte 05./06.09. (Di/Mi) und 06./07.09. (Mi/Do), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27756&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20880&tx_sbbconstructions_list%5Bperiod%5D=17182&type=5679&cHash=c8ded46acc178235e760cd80629a0dd1)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr: Erkner \<\> Friedrichshagen im 30-Minutentakt
+  * in der Nacht 05./06.09. (Di/Mi):
+     Erkner ab zu den Minuten 03, 33
+     Friedrichshagen ab zu den Minuten 17, 47;
+  * in der Nacht 06./07.09. (Mi/Do):
+     Erkner ab zu den Minuten 28, 58
+     ​​​​​​​Friedrichshagen ab zu den Minuten 11, 41
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -203,30 +227,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27235)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Erkner \<\> Friedrichshagen ###
-
-Nächte 05./06.09. (Di/Mi) und 06./07.09. (Mi/Do), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27756&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20880&tx_sbbconstructions_list%5Bperiod%5D=17182&type=5679&cHash=c8ded46acc178235e760cd80629a0dd1)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr: Erkner \<\> Friedrichshagen im 30-Minutentakt
-  * in der Nacht 05./06.09. (Di/Mi):
-     Erkner ab zu den Minuten 03, 33
-     Friedrichshagen ab zu den Minuten 17, 47;
-  * in der Nacht 06./07.09. (Mi/Do):
-     Erkner ab zu den Minuten 28, 58
-     ​​​​​​​Friedrichshagen ab zu den Minuten 11, 41
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
