@@ -22,14 +22,33 @@ Die schnellste Ladeleistung für deine USB-C Geräte
 
 [Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner1)
 
-Anker SOLIX C1000
+Super Solarangebote mit Cash-Back
 
-Schnelle Power, immer und überall.
+Bis zu 750€ Rabatt und 5% extra Cash-Back
 
-UltraFast Netzaufladung, 100% in 58 Minuten
-Langlebige LiFeP04-Akkus mit InfiniPower™ Technologie
+01
 
-[Jetzt anmeldenmasterBanner2](https://www.anker.com/eu-de/a1761-powerstation-camping-pps?ref=masterBanner2)
+:
+
+Tagen
+
+13
+
+:
+
+Std.
+
+37
+
+:
+
+Min.
+
+09
+
+Sek.
+
+[Jetzt entdeckenmasterBanner2](https://www.anker.com/eu-de/anker-solix/tragbare-powerstation-angebote-pps?ref=masterBanner2)
 
 Anker SOLIX F3800
 
