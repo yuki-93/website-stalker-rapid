@@ -1111,7 +1111,7 @@ Information
 
 Nur Wochenende
 
-### Lichtenberg \<\> Ostkreuz ###
+### Wartenberg – Friedrichsfelde Ost – Ostbahnhof ###
 
 22.09. (Fr), ca. 22 Uhr durchgehend bis 25.09. (Mo), ca. 1.30
 
@@ -1229,6 +1229,28 @@ Information
 * Taktänderung
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-zwischen-bundesplatz-halensee/#con-27940)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wuhletal/Wartenberg/Ahrensfelde – Springpfuhl – Lichtenberg ###
+
+Nächte 27./28.09. (Mi/Do) und 28./29.09. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27941&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21070&tx_sbbconstructions_list%5Bperiod%5D=17252&type=5679&cHash=984b6bf4c0e1b635a53fea73c31172e4)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-springpfuhl/#con-27941)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
