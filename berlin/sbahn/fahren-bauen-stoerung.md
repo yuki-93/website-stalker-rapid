@@ -748,7 +748,30 @@ Information
 
 * Taktänderung
 * Bahnsteigänderung in Ostbahnhof und Charlottenburg
-* Bitte nutzen Sie vor Fahrtantritt die **Fahrplanauskunft.**
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-charlottenburg-1/#con-27934)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Hermannstraße – Südkreuz – Bundesplatz ###
+
+Nächte 18./19.09. (Mo/Di) und 19./20.09. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27939&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21068&tx_sbbconstructions_list%5Bperiod%5D=17249&type=5679&cHash=a9a98843035850329ddf691b843ff4c8)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-7/#con-27939)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -1127,6 +1150,86 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s1-nord/#con-27928)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Westend – Beusselstraße ###
+
+Nächte 24./25.09. (So/Mo) und 25./26.09. (Mo/Di) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27936&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21065&tx_sbbconstructions_list%5Bperiod%5D=17246&type=5679&cHash=b9d7265d44c38c01f08e8b0641deb861)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Taktänderung
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-zwischen-westend-beusselstrasse/#con-27936)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof – Westkreuz ###
+
+Nacht 26./27.09. (Di/Mi) 22:00 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27935&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21064&tx_sbbconstructions_list%5Bperiod%5D=17245&type=5679&cHash=d193d84eee16ea5e6d832bc187a608d7)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung
+* Bahnsteigänderung in Ostbahnhof und Charlottenburg
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-charlottenburg-2/#con-27935)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Beusselstraße – Wedding ###
+
+Nacht 26./27.09. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27937&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21066&tx_sbbconstructions_list%5Bperiod%5D=17247&type=5679&cHash=c017bad843bda2b2c997c9c9cdd605b5)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-zwischen-beusselstrasse-wedding/#con-27937)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Tempelhof – Bundesplatz – Westend ###
+
+Nacht 27./28.09. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27940&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21069&tx_sbbconstructions_list%5Bperiod%5D=17250&type=5679&cHash=8e12176ee6bbaec1bae0a4a0b0dfe9fe)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Taktänderung
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Blankenfelde \<\> Lichtenrade ###
@@ -1466,6 +1569,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27868)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Gesundbrunnen und gesamter Ring ###
+
+Nacht 28./29.09. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27938&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21067&tx_sbbconstructions_list%5Bperiod%5D=17248&type=5679&cHash=3e109062c9b753c646d69866238abcc6)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Fahrplanänderung
+* Bahnsteigänderung in Gesundbrunnen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-zwischen-wedding-schoenhauser-allee/#con-27938)
 
 [S42](https://sbahn.berlin/fahren/s42/)
 
