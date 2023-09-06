@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung zwischen Lankwitz und Südende ###
 
- Letztes Update: 23:49 / 06.09.2023
+ Letztes Update: 01:08 / 07.09.2023
 
 Information
 
