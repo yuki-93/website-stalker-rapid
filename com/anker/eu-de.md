@@ -56,25 +56,6 @@ Das Anker-Erlebnis entdecken
 
   [Jetzt kaufenEntdecke die besten Powerbanks für unterwegs](https://www.anker.com/eu-de/travel?ref=productBanner3_2)
 
-* ### Anmelden und exklusive Benefits und 45% Rabatt sichern  ###
-
-  Anker SOLIX F3800 Tragbare Powerstation
-
-  [AnmeldenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner3_3)
-
-* ### Anker 3-in-1 Ladewürfel
-  mit MagSafe  ###
-
-  Das perfekte Ladegerät für dein Apple-Ecosystem
-
-  [Mehr erfahrenAnker 3-in-1 Ladewürfel mit MagSafe](https://www.anker.com/eu-de/products/y1811?ref=productBanner3_4)
-
-* ### Anker GaNPrime  ###
-
-  Unsere beste Multi-Geräte-Ladeserie
-
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner3_5)
-
 * ###
 
    Tiefstpreis
@@ -83,9 +64,30 @@ Das Anker-Erlebnis entdecken
 
   ### 590€ & 5% Cash-Back ###
 
+  ### Bis 7. September ###
+
   Starke Rabatte und zusätzlich 5% Cash-Back für Mitglieder
 
-  [Cash-Back sichern Tiefstpreis ,590€ & 5% Cash-Back](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=productBanner3_6)
+  [Cash-Back sichern Tiefstpreis ,590€ & 5% Cash-Back,Bis 7. September](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=productBanner3_3)
+
+* ### Anmelden und exklusive Benefits und 45% Rabatt sichern  ###
+
+  Anker SOLIX F3800 Tragbare Powerstation
+
+  [AnmeldenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner3_4)
+
+* ### Anker 3-in-1 Ladewürfel
+  mit MagSafe  ###
+
+  Das perfekte Ladegerät für dein Apple-Ecosystem
+
+  [Mehr erfahrenAnker 3-in-1 Ladewürfel mit MagSafe](https://www.anker.com/eu-de/products/y1811?ref=productBanner3_5)
+
+* ### Anker GaNPrime  ###
+
+  Unsere beste Multi-Geräte-Ladeserie
+
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner3_6)
 
 * ###
 
