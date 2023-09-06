@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einem Stellwerk in Blankenburg ###
-
- Letztes Update: 10:43 / 06.09.2023
-
-Information
-
-Wegen der Reparatur an einem Stellwerk in Blankenburg kann der 10-Minuten-Takt auf der Linie S2 derzeit nur zwischen Nordbahnhof \<\> Lichtenrade angeboten werden.
-
-Wir bitten um Entschuldigung!
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
