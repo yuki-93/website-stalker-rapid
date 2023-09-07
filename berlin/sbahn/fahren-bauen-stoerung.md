@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Julius-Leber-Brücke ###
 
- Letztes Update: 06:13 / 07.09.2023
+ Letztes Update: 07:04 / 07.09.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Julius-Leber-Brücke kommt es auf der Linie S1 zu Verspätungen.
+Wegen der Reparatur an einem Signal in Julius-Leber-Brücke kann es auf der Linie S1 zu Verspätungen kommen.
+
+Die zusätzlichen Züge zwischen Zehlendorf und Potsdamer Platz fahren nicht.
 
 **Beachten Sie bitte**: in Julius-Leber-Brücke halten die Züge in Richtung Wannsee am **Gleis 2, Bahnsteig stadteinwärts**.
 
