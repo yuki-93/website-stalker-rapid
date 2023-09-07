@@ -26,28 +26,6 @@ Super Solarangebote mit Cash-Back
 
 Bis zu 750€ Rabatt und 5% extra Cash-Back
 
-00
-
-:
-
-Tagen
-
-00
-
-:
-
-Std.
-
-44
-
-:
-
-Min.
-
-17
-
-Sek.
-
 [Jetzt entdeckenmasterBanner2](https://www.anker.com/eu-de/anker-solix/tragbare-powerstation-angebote-pps?ref=masterBanner2)
 
 Anker SOLIX F3800
