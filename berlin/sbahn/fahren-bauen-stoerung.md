@@ -2,49 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Streckensperrung zwischen Lankwitz und Südende ###
-
- Letztes Update: 01:08 / 07.09.2023
-
-Information
-
-Wegen einer Streckensperrung ist der Zugverkehr der Linie S25 zwischen Lichterfelde Ost und Südende unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung zwischen Attilastraße (S2) und Lichterfelde Ost die Buslinie 184 bzw. N84.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Erkner \<\> Friedrichshagen ###
-
-Nächte 05./06.09. (Di/Mi) und 06./07.09. (Mi/Do), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27756&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20880&tx_sbbconstructions_list%5Bperiod%5D=17182&type=5679&cHash=c8ded46acc178235e760cd80629a0dd1)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr: Erkner \<\> Friedrichshagen im 30-Minutentakt
-  * in der Nacht 05./06.09. (Di/Mi):
-     Erkner ab zu den Minuten 03, 33
-     Friedrichshagen ab zu den Minuten 17, 47;
-  * in der Nacht 06./07.09. (Mi/Do):
-     Erkner ab zu den Minuten 28, 58
-     ​​​​​​​Friedrichshagen ab zu den Minuten 11, 41
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -183,60 +141,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27216)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \> Grunewald ###
-
-07.09. (Do) und 08.09. (Fr) jeweils 1:17 Uhr bis 1:35 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20721&tx_sbbconstructions_list%5Bperiod%5D=17159&type=5679&cHash=8e636338e68793d0e05c4a0897815640)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 0:29 Uhr nach Grunewald (an 1:35 Uhr) endet bereits um 1:17 Uhr in Friedrichstraße.
-* Der Zug fällt von Friedrichstraße bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \> Grunewald ###
-
-07.09. (Do) und 08.09. (Fr) jeweils 1:37 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19235&tx_sbbconstructions_list%5Bperiod%5D=17160&type=5679&cHash=49ecca9af213afafc13fd9447614ae8b)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:37 Uhr in Friedrichstraße.
-* Der Zug fällt von Friedrichstraße bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Friedrichstraße ###
-
-07.09. (Do) und 08.09. (Fr) jeweils 3:02 Uhr bis 3:16 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13957&tx_sbbconstructions_list%5Bperiod%5D=17161&type=5679&cHash=563ef0d96bb5ed537bfe8e94ea8386a8)
-
- fährt nicht
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) beginnt erst um 3:16 Uhr in Friedrichstraße.
-* Der Zug fällt von Charlottenburg bis Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
