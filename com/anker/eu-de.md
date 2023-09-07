@@ -32,19 +32,19 @@ Bis zu 750€ Rabatt und 5% extra Cash-Back
 
 Tagen
 
-06
+05
 
 :
 
 Std.
 
-40
+37
 
 :
 
 Min.
 
-30
+07
 
 Sek.
 
