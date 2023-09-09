@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Streckensperrung im Bereich Jungfernheide - Beusselstraße aufgehoben ###
-
- Letztes Update: 17:25 / 09.09.2023
-
-Information
-
-Nach einer Streckensperrung fahren die Linien S41 nur im 10-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
