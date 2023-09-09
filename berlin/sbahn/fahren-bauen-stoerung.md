@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Gegenstände im Gleis in Prenzlauer Allee beendet ###
+
+ Letztes Update: 01:01 / 10.09.2023
+
+Information
+
+Nach Gegenstände im Gleis in Prenzlauer Allee kommt es auf den Linien S41, S42 und S8 noch zu Ausfällen und Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
