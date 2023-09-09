@@ -8,17 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung im Bereich Jungfernheide - Beusselstraße aufgehoben ###
 
- Letztes Update: 14:56 / 09.09.2023
+ Letztes Update: 15:46 / 09.09.2023
 
 Information
 
-Nach einer Streckensperrung kommt es auf den Linien S41 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
+Nach einer Streckensperrung fahren die Linien S41 und S42 nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert
+ Takt geändert
 
 ### Baumaßnahmen ###
 
