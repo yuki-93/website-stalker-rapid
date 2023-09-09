@@ -2,6 +2,29 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Streckensperrung im Bereich Jungfernheide - Beusselstraße ###
+
+ Letztes Update: 13:00 / 09.09.2023
+
+Information
+
+Wegen einer Streckensperrung ist der Zugverkehr der Linien S41 und S42 zwischen Westend und Westhafen unterbrochen.
+
+Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+
+* zwischen S Westend und S+U Zoologischer Garten die Buslinie M45
+* zwischen S+U Zoologischer Garten und S+U Westhafen die U9
+* zwischen S Charlottenburg (U Wilmersdorfer Straße) und S+U Jungfernheide die U7
+* zwischen S Westkreuz und S Ostkreuz die Linien S3, S5, S7, S9
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
