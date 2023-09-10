@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Zug in Neukölln beendet ###
-
- Letztes Update: 16:36 / 10.09.2023
-
-Information
-
-Nach einer Reparatur am Zug in Neukölln kommt es auf den Linien S41, S42 und S85 noch zu folgenden Einschränkungen:
-
-* die Linien S41 und S42 fahren im 10-Minuten-Takt
-* die Linie S85 fährt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
