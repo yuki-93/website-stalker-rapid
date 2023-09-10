@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Gegenstände auf der Strecke in Pankow- Heinersdorf ###
-
- Letztes Update: 04:22 / 10.09.2023
-
-Information
-
-Wegen Gegenstände auf der Strecke in Pankow-Heinersdorf kommt es auf der Linie S2 und S8 zu Ausfällen und Verspätungen.
-
-Wir bitten um Entschuldigung
-
- fährt nicht  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
