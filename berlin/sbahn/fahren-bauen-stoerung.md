@@ -4,23 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Notarzteinsatz auf der Strecke in Mahlsdorf ###
+### Personen auf der Strecke in Jungfernheide beendet ###
 
- Letztes Update: 17:37 / 10.09.2023
+ Letztes Update: 19:16 / 10.09.2023
 
 Information
 
-Wegen eines Notarzteinsatz auf der Strecke in Mahlsdorf ist der Zugverkehr der Linie S 5 zwischen Kaulsdorf und Hoppegarten unterbrochen.
+Nach Personen auf der Strecke in Jungfernheide kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
 
-Die Linie S5 verkehrt Strausberg Nord \<\> Hoppegarten sowie Kaulsdorf \<\> Westkreuz.
+Wir bitten um Entschuldigung.
 
-**Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel.**
+ sonstige Einschränkungen  sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Notarzteinsatz auf der Strecke in Mahlsdorf beendet ###
+
+ Letztes Update: 18:53 / 10.09.2023
+
+Information
+
+Nach einen Notarzteinsatz auf der Strecke in Mahlsdorf kommt es auf der Linie S 5 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung
 
- fährt nicht  keine Verbindung
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
