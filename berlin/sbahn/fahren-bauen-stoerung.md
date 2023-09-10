@@ -4,19 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur am Zug in Beusselstraße ###
+### Notarzteinsatz auf der Strecke in Mahlsdorf ###
 
- Letztes Update: 17:08 / 10.09.2023
+ Letztes Update: 17:37 / 10.09.2023
 
 Information
 
-Wegen einer Reparatur am Zug in Beusselstraße kommt es auf der Linie S41 zu Verspätungen und Ausfällen.
+Wegen eines Notarzteinsatz auf der Strecke in Mahlsdorf ist der Zugverkehr der Linie S 5 zwischen Kaulsdorf und Hoppegarten unterbrochen.
 
-Wir bitten um Verständnis
+Die Linie S5 verkehrt Strausberg Nord \<\> Hoppegarten sowie Kaulsdorf \<\> Westkreuz.
 
- Zugverkehr verändert  sonstige Einschränkungen
+**Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel.**
+
+Wir bitten um Entschuldigung
+
+ fährt nicht  keine Verbindung
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
