@@ -4,19 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur am Zug in Neukölln beendet ###
 
- Letztes Update: 14:58 / 10.09.2023
+ Letztes Update: 15:43 / 10.09.2023
 
 Information
 
 Nach einer Reparatur am Zug in Neukölln kommt es auf den Linien S41, S42, S47 und S85 noch zu folgenden Einschränkungen:
 
 * die Linien S41 und S42 fahren nur im 10-Minuten-Takt
-* die Linie S47 fährt nur zwischen Spindlersfeld und Schöneweide
-  *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
 * die Linie S85 fährt nicht.
 
 Wir bitten um Entschuldigung.
