@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur am Zug in Neukölln beendet ###
+
+ Letztes Update: 14:26 / 10.09.2023
+
+Information
+
+Nach einer Reparatur am Zug in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und vereinzelten Ausfällen.
+
+* die Linien S41 und S42 fahren nur im 10-Minuten-Takt
+* die Linie S85 fährt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Reparatur an einem Signal in Tegel ###
