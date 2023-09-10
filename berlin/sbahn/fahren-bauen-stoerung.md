@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einem Signal in Tegel ###
+
+ Letztes Update: 12:51 / 10.09.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Tegel kommt es auf der Linie S25 zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
