@@ -94,6 +94,54 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-personentunnel-eichwalde-weichenarbeiten-schwellenauswechslungen/#con-27743)
 
+[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \<\> Grunewald/Olympiastadion ###
+
+Nächte 11./12.09. (Mo/Di) bis 13./14.09. (Mi/Do), jeweils ca. 20 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27792&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20914&tx_sbbconstructions_list%5Bperiod%5D=17191&type=5679&cHash=e8aa39df7fe5b3c8d16c71bce1dfc0d8)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S7: Charlottenburg \<\> Grunewald
+  * Bus S9: Charlottenburg \<\> Olympiastadion
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-und-schwellenauswechslungen-1/#con-27792)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Tempelhof \<\> Bundesplatz \<\> Westend ###
+
+Nacht 11./12.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27804&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20926&tx_sbbconstructions_list%5Bperiod%5D=17193&type=5679&cHash=c180aafdb36fc3683dbef875856b27f5)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Bundesplatz um. Die Weiterfahrt erfolgt nach 7 Minuten vom selben Gleis.
+
+* Taktänderung:
+  * Südkreuz \<\> Westend S-Bahnverkehr nur im 10-Minutentakt mit S41/S42 (mit Umsteigen in Bundesplatz)
+
+* Fahrplanändeung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-99f0e4d329/#con-27804)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -192,23 +240,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-der-moltkestrassenbruecke/#con-27722)
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Königs Wusterhausen \<\> Grünau ###
-
-08.09. (Fr), ca. 22 Uhr durchgehend bis 11.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27743&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20868&tx_sbbconstructions_list%5Bperiod%5D=17179&type=5679&cHash=0129746c04d8b7ee34724d21f41e75d7)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-personentunnel-eichwalde-weichenarbeiten-schwellenauswechslungen/#con-27743)
-
 [S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
@@ -256,6 +287,31 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-99f0e4d329/#con-27804)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Tempelhof \<\> Bundesplatz \<\> Westend ###
+
+Nächte 12./13.09. (Di/Mi) und 13./14.09. (Mi/Do), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27805&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20927&tx_sbbconstructions_list%5Bperiod%5D=17194&type=5679&cHash=57fd156c5bb1d220a5f2bdc8f0200720)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * Bundesplatz \<\> Halensee im 20-Minutentakt
+
+* Taktänderung:
+  * Südkreuz \<\> Bundesplatz sowie Halensee \<\> Westend S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-c3b83da486/#con-27805)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -377,31 +433,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-und-schwellenauswechslungen-1/#con-27792)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Tempelhof \<\> Bundesplatz \<\> Westend ###
-
-Nacht 11./12.09. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27804&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20926&tx_sbbconstructions_list%5Bperiod%5D=17193&type=5679&cHash=c180aafdb36fc3683dbef875856b27f5)
-
- Takt geändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Bundesplatz um. Die Weiterfahrt erfolgt nach 7 Minuten vom selben Gleis.
-
-* Taktänderung:
-  * Südkreuz \<\> Westend S-Bahnverkehr nur im 10-Minutentakt mit S41/S42 (mit Umsteigen in Bundesplatz)
-
-* Fahrplanändeung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-99f0e4d329/#con-27804)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
@@ -727,6 +758,46 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-zwischen-westend-beusselstrasse/#con-27936)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof – Westkreuz ###
+
+Nacht 26./27.09. (Di/Mi) 22:00 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27935&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21064&tx_sbbconstructions_list%5Bperiod%5D=17245&type=5679&cHash=d193d84eee16ea5e6d832bc187a608d7)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung
+* Bahnsteigänderung in Ostbahnhof und Charlottenburg
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-charlottenburg-2/#con-27935)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Beusselstraße – Wedding ###
+
+Nacht 26./27.09. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27937&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21066&tx_sbbconstructions_list%5Bperiod%5D=17247&type=5679&cHash=c017bad843bda2b2c997c9c9cdd605b5)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-zwischen-beusselstrasse-wedding/#con-27937)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -924,67 +995,6 @@ Information
 * Bitte nutzen vor Fahrtantritt die Fahrplanauskunft
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-der-moltkestrassenbruecke/#con-27722)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Westend – Beusselstraße ###
-
-Nächte 24./25.09. (So/Mo) und 25./26.09. (Mo/Di) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27936&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21065&tx_sbbconstructions_list%5Bperiod%5D=17246&type=5679&cHash=b9d7265d44c38c01f08e8b0641deb861)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Taktänderung
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-zwischen-westend-beusselstrasse/#con-27936)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof – Westkreuz ###
-
-Nacht 26./27.09. (Di/Mi) 22:00 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27935&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21064&tx_sbbconstructions_list%5Bperiod%5D=17245&type=5679&cHash=d193d84eee16ea5e6d832bc187a608d7)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung
-* Bahnsteigänderung in Ostbahnhof und Charlottenburg
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-charlottenburg-2/#con-27935)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Beusselstraße – Wedding ###
-
-Nacht 26./27.09. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27937&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21066&tx_sbbconstructions_list%5Bperiod%5D=17247&type=5679&cHash=c017bad843bda2b2c997c9c9cdd605b5)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-zwischen-beusselstrasse-wedding/#con-27937)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
