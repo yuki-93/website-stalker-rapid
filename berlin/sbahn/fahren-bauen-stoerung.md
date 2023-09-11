@@ -990,19 +990,19 @@ Information
 
 ### Wuhletal/Wartenberg/Ahrensfelde – Springpfuhl – Lichtenberg ###
 
-Nacht 28./29.09. (Do/Fr) 22 Uhr bis 1:30 Uhr
+Nächte 27./28.09. (Mi/Do) und 28./29.09. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27979&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21109&tx_sbbconstructions_list%5Bperiod%5D=17273&type=5679&cHash=bd6ef94b8309998e704c104fcaa2617d)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27941&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21070&tx_sbbconstructions_list%5Bperiod%5D=17252&type=5679&cHash=984b6bf4c0e1b635a53fea73c31172e4)
 
- Takt geändert
+ Zugverkehr verändert
 
 Information
 
 * Taktänderung
 * Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-springpfuhl-1/#con-27979)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-springpfuhl/#con-27941)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
