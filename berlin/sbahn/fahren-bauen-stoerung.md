@@ -1273,7 +1273,7 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bahnuebergangsarbeiten-bauzustandswechsel/#con-27900)
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
 
@@ -1288,7 +1288,51 @@ Nächte 09./10.10. (Mo/Di) und 10./11.10. (Di/Mi) jeweils 21:45 Uhr bis 1:30 Uhr
 Information
 
 * Ersatzverkehr mit Bussen
+* Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronische-stellerk-s1-nord-lst-montagearbeiten-kabellegung/#con-27944)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Lichtenberg – Westkreuz ###
+
+Nacht 09./10.10. (Mo/Di) 21:45 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27975&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21105&tx_sbbconstructions_list%5Bperiod%5D=17269&type=5679&cHash=5dd98c9d0828cfa5d601edd3a4976e52)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung
+* Fahrplanänderung
+* Bahnsteigänderung in Ostbahnhof
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-ostbahnhof-2/#con-27975)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Lichtenberg – Westkreuz ###
+
+Nächte 10./11.10. (Di/Mi) und 11./12.10. (Mi/Do) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27976&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21106&tx_sbbconstructions_list%5Bperiod%5D=17270&type=5679&cHash=fb1e5c1ccaef9c8c6e4efb7e15af17a8)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung in Ostbahnhof
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-ostbahnhof-3/#con-27976)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -1305,6 +1349,27 @@ Nächte 11./12.10. (Mi/Do) und 12./13.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
 Information
 
 * Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronische-stellerk-s1-nord-lst-montagearbeiten-kabellegung-1/#con-27945)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Frankfurter Allee – Greifswalder Straße – Bornholmer Straße ###
+
+Nacht 15./16.10. (So/Mo) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27977&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21107&tx_sbbconstructions_list%5Bperiod%5D=17271&type=5679&cHash=8a8a799c2d102601aea68a7bab0b9155)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Fahrplanänderung
+* Bahnsteigänderung in Bornholmer Straße
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S7](https://sbahn.berlin/fahren/s7/)
