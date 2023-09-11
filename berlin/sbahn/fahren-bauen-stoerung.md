@@ -1156,7 +1156,8 @@ Nacht 05./06.10. (Do/Fr), ca. 21:45 Uhr - ca. 1.30 Uhr
 
 Information
 
-* Ersatzverkehr mit Bussen.
+* Ersatzverkehr mit Bussen
+* Fahrplanänderung
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ae17c5abdc/#con-27883)
