@@ -84,7 +84,7 @@ Das Anker-Erlebnis entdecken
 
   ### Das Upgrade auf 800W ###
 
-  Anker SOLIX RS40P | RS40 Balkonkraftwerk
+  Anker SOLIX Balkonkraftwerk
 
   [Mehr erfahren Limitiertes Angebot ,Das Upgrade auf 800W](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner3_6)
 

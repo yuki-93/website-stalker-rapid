@@ -1372,6 +1372,8 @@ Information
 * Bahnsteigänderung in Bornholmer Straße
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-9/#con-27977)
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
  Nur Nachts
