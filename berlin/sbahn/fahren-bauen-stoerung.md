@@ -1382,6 +1382,7 @@ Nächte 11./12.10. (Mi/Do) und 12./13.10. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
 Information
 
 * Ersatzverkehr mit Bussen
+* Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronische-stellerk-s1-nord-lst-montagearbeiten-kabellegung-1/#con-27945)
