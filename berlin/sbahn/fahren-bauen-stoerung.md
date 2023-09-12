@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Notarzteinsatz auf der Strecke zwischen Kaulsdorf und Wuhletal ###
+
+ Letztes Update: 22:16 / 12.09.2023
+
+Information
+
+Wegen eines Notarzteinsatzes zwischen Wuhletal und Kaulsdorf ist der Zugverkehr der Linie S5 von Mahlsdorf und Lichtenberg unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
