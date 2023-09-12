@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke zwischen Kaulsdorf und Wuhletal ###
 
- Letztes Update: 22:16 / 12.09.2023
+ Letztes Update: 22:51 / 12.09.2023
 
 Information
 
-Wegen eines Notarzteinsatzes zwischen Wuhletal und Kaulsdorf ist der Zugverkehr der Linie S5 von Mahlsdorf und Lichtenberg unterbrochen.
+Wegen eines Notarzteinsatzes zwischen Kaulsdorf und Wuhletal ist der Zugverkehr der Linie S5 zwischen Mahlsdorf und Lichtenberg unterbrochen.
 
 Wir bitten um Entschuldigung.
 
