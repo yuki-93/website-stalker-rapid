@@ -6,16 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einem Signal in Tempelhof ###
+### Reparatur an einem Signal in Tempelhof beendet ###
 
- Letztes Update: 13:59 / 12.09.2023
+ Letztes Update: 17:48 / 12.09.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Tempelhof kommt es auf den Linien S41, S45 und S46 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Tempelhof kommt es auf den Linien S41, S45 und S46 noch zu Verspätungen und einzelnen Ausfällen.
 
 * Die **Linie S41** verkehrt nur **im 10-Minuten-Takt**.
-* Die **Linie S45** verkehrt nur **zwischen Flughafen BER - Terminal 1-2 und Hermannstraße**, *bitte nutzen Sie zwischen Hermannstraße und Südkreuz die Linien S41, S42 und S46*.
 
 Wir bitten um Entschuldigung.
 
