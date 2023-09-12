@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### ärztliche Versorgung eines Fahrgastes in Schöneberg beendet ###
+
+ Letztes Update: 16:14 / 12.09.2023
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Schöneberg kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einem Signal in Tempelhof ###
