@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Tempelhof ###
+
+ Letztes Update: 06:51 / 12.09.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Tempelhof kommt es auf den Linien S41, S45 und S46 zu Verspätungen und Ausfällen.
+
+* die Linie S45 verkehrt nur zwischen Flughafen BER - Terminal 1-2 und Hermannstraße
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
