@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Polizeieinsatz in Westkreuz beendet ###
+### Reparatur an einem Signal in Tempelhof ###
 
- Letztes Update: 08:46 / 12.09.2023
+ Letztes Update: 09:40 / 12.09.2023
 
 Information
 
-Nach einem Polizeieinsatz in Westkreuz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Tempelhof kommt es auf den Linien S41, S45 und S46 zu Verspätungen und Ausfällen.
 
-Wir bitten um Verständnis.
+* die Linie S45 verkehrt nur Flughafen BER - Terminal 1-2 \<\> Hermannstraße
+
+Wir bitten um Entschuldigung.
 
  Takt geändert
 
@@ -1628,3 +1630,23 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-8/#con-27913)
+
+### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \> Ostbahnhof ###
+
+13.10. (Fr) 1:53 Uhr bis 2:08 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=22021&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=16274&tx_sbbconstructions_list%5Bperiod%5D=17275&type=5679&cHash=c77b22d05133c50c092c94ca1f150c1b)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER – Terminal 1-2 ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet bereits um 1:53 Uhr in Schöneweide.
+* Der Zug fällt von Schöneweide bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
