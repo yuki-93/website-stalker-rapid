@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Signal in Tempelhof beendet ###
-
- Letztes Update: 17:48 / 12.09.2023
-
-Information
-
-Nach der Reparatur an einem Signal in Tempelhof kommt es auf den Linien S41, S45 und S46 noch zu Verspätungen und einzelnen Ausfällen.
-
-* Die **Linie S41** verkehrt nur **im 10-Minuten-Takt**.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
