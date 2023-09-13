@@ -1,4 +1,4 @@
-Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_4e559c', '\_\_DINNextLT\_Fallback\_4e559c',-apple-system,system-ui,BlinkMacSystemFont,"Helvetica Neue","Helvetica",sans-serif}@media(max-width:767px){.Advantage\_advantage\_box\_\_VOPT9:last-child{display:none}}
+Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e', '\_\_DINNextLT\_Fallback\_df760e',-apple-system,system-ui,BlinkMacSystemFont,"Helvetica Neue","Helvetica",sans-serif}@media(max-width:767px){.Advantage\_advantage\_box\_\_k5aut:last-child{display:none}}
 
 []()
 
@@ -18,7 +18,7 @@ Anker Nano
 
  C-ing is Believing
 
-Die schnellste Ladeleistung für deine USB-C Geräte
+Höchste Ladegeschwindigkeiten für deine USB-C iPhone
 
 [Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner1)
 
