@@ -4,6 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk im Bereich Baumschulenweg ###
+
+ Letztes Update: 09:10 / 13.09.2023
+
+Information
+
+Wegen eines defekten Stellwerkes im Bereich Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
+
+Zugverkehr wie folgt:
+
+* die Linie S45 Flughafen BER - Terminal 1-2 \<\> Südkreuz
+* die Linie S46 Königs Wusterhausen \<\> Schöneweide
+* die Linie S47 Spindlersfeld \<\> Schöneweide sowie Baumschulenweg \<\> Hermannstraße
+* die Linie S8 Wildau \<\> Schöneweide sowie Greifswalder Straße \<\> Blankenburg
+* die Linie S85 verkehrt nicht
+* die Linie S9 Flughafen BER - Terminal 1-2 \<\> Spandau
+
+Umfahrungsmöglichkeiten:
+
+Fahrgäste benutzen ab Treptower Park die Linie S41 bis Neukölln, ab Neukölln in Richtung Schöneweide die Linie S45.
+
+Fahrgäste nach Plänterwald benutzen bitte ab Baumschulenweg die Buslinien 170 und 165.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz Beusselstraße bendet ###
@@ -15,31 +44,6 @@ Information
 Nach einem Polizeieinsatz in Beusselstraße kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
-
- Takt geändert
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk im Bereich Baumschulenweg ###
-
- Letztes Update: 08:08 / 13.09.2023
-
-Information
-
-Wegen eines defektem Stellwerk im Bereich Baumschulenweg ist der Zugverkehr der Linien S8, S85 und S9 zwischen Treptower Park\<\>Baumschulenweg unterbrochen.
-
-Zugverkehr wie folgt:
-
-* die Linie S45 Flughafen BER - Terminal 1-2 \<\> Südkreuz
-* die Linie S46 Königs Wusterhausen \<\> Schöneweide
-* die Linie S47 Spindlersfeld \<\> Schöneweide sowie Baumschulenweg \<\> Hermannstraße
-* die Linie S8 Wildau \<\> Schöneweide sowie Greifswalder Straße \<\> Blankenburg
-* die Linie S85 verkehrt nicht
-* die Linie S9 Flughafen BER - Terminal 1-2 \<\> Schöneweide sowie Ostbahnhof \<\> Spandau
-
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG
-
-Wir bitten um Entschuldigung.
 
  Takt geändert
 
