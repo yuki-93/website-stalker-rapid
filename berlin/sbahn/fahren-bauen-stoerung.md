@@ -2,6 +2,31 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### defektes Stellwerk im Bereich Baumschulenweg ###
+
+ Letztes Update: 06:59 / 13.09.2023
+
+Information
+
+Wegen eines defektem Stellwerk im Bereich Baumschulenweg ist der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 zwischen Treptower Park/Neukölln\<\>Schöneweide unterbrochen.
+
+Zugverkehr wie folgt:
+
+* die Linie S45 Flughafen BER - Terminal 1-2 \<\> Schöneweide
+* die Linie S46 Königs Wusterhausen \<\> Schöneweide
+* die Linie S47 Spindlersfeld \<\> Schöneweide
+* die Linie S8 Wildau \<\> Schöneweide sowie Greifswalder Straße \<\> Blankenburg
+* die Linie S85 verkehrt nicht
+* die Linie S9 Flughafen BER - Terminal 1-2 \<\> Schöneweide sowie Ostbahnhof \<\> Spandau
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
