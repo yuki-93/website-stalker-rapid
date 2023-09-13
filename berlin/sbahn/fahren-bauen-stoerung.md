@@ -4,38 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### defektes Stellwerk im Bereich Baumschulenweg ###
-
- Letztes Update: 19:52 / 13.09.2023
-
-Information
-
-Wegen eines defekten Stellwerks im Bereich Baumschulenweg (nach Blitzeinschlag) kommt es auf den Linien S46, S47, S8 und S85 zu Verspätungen und Ausfällen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S46**: Königs Wusterhausen \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S45 **sowie** zwischen Südkreuz und Westend die Linien S41 und S42*
-* **S47**: Spindlersfeld \<\> Schöneweide **sowie** Baumschulenweg \<\> Hermannstraße, *bitte nutzen Sie zwischen Schöneweide und Baumschulenweg bzw. Hermannstraße die Linie S45*
-* **S8**: Grünau \<\> Schöneweide **sowie** Greifswalder Straße \<\> Blankenburg, *bitte nutzen Sie zwischen Schöneweide und Treptower Park die Linie S9 **sowie** zwischen* *Treptower Park und Greifswalder Straße die Linien S41 und S42*
-* **S85**: verkehrt nicht
-
----
-
-**Zwischen Baumschulenweg \<\> Plänterwald \<\> Treptower Park verkehrt nur die Linie S9 im 20-Minuten-Takt.**
-
----
-
-**Alternativ nutzen Sie bitte zur weiträumigen Umfahrung auch:**
-
-* zwischen Schöneweide \<\> Baumschulenweg \<\> Plänterwald \<\> Treptower Park die BVG-Buslinien 165 und 166
-* zwischen Schöneweide und Ostkreuz die Regionalbahnlinien RB24 und RB32
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### technischer Defekt an einem Bahnübergang in Fredersdorf ###
