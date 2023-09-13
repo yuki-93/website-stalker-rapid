@@ -8,20 +8,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk im Bereich Baumschulenweg ###
 
- Letztes Update: 09:35 / 13.09.2023
+ Letztes Update: 13:10 / 13.09.2023
 
 Information
 
-Wegen eines defekten Stellwerkes im Bereich Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Wegen eines defekten Stellwerkes im Bereich Baumschulenweg (nach Blitzeinschlag) kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
 
-Zugverkehr wie folgt:
+**Die betroffenen Linien fahren wie folgt:**
 
-* die Linie S45 Flughafen BER - Terminal 1-2 \<\> Südkreuz
-* die Linie S46 Königs Wusterhausen \<\> Schöneweide
-* die Linie S47 Spindlersfeld \<\> Schöneweide sowie Baumschulenweg \<\> Hermannstraße
-* die Linie S8 Wildau/Grünau \<\> Schöneweide sowie Greifswalder Straße \<\> Blankenburg
-* die Linie S85 verkehrt nicht
-* die Linie S9 Flughafen BER - Terminal 1-2 \<\> Spandau
+* **S45**: Flughafen BER Terminal 1-2 \<\> Südkreuz
+* **S46**: Königs Wusterhausen \<\> Schöneweide
+* **S47**: Spindlersfeld \<\> Schöneweide **sowie** Baumschulenweg \<\> Hermannstraße
+* **S8**: Wildau/Grünau \<\> Schöneweide **sowie** Greifswalder Straße \<\> Blankenburg
+* **S85**: verkehrt nicht
+* **S9**: Flughafen BER Terminal 1-2 \<\> Spandau
 
 Umfahrungsmöglichkeiten:
 
@@ -31,7 +31,7 @@ Fahrgäste nach Plänterwald benutzen bitte ab Baumschulenweg die Buslinien 170 
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
