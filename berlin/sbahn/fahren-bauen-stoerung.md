@@ -54,22 +54,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an Signalen zwischen Gesundbrunnen und Wedding ###
-
- Letztes Update: 14:30 / 13.09.2023
-
-Information
-
-Wegen der Reparatur an mehreren Signalen zwischen Gesundbrunnen und Wedding kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
-
-Die Linie S42 verkehrt nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
