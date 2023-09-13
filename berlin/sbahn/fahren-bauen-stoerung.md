@@ -4,30 +4,51 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an Signalen zwischen Gesundbrunnen und Wedding ###
+
+ Letztes Update: 14:30 / 13.09.2023
+
+Information
+
+Wegen der Reparatur an mehreren Signalen zwischen Gesundbrunnen und Wedding kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
+
+Die Linie S42 verkehrt nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk im Bereich Baumschulenweg ###
 
- Letztes Update: 13:10 / 13.09.2023
+ Letztes Update: 14:18 / 13.09.2023
 
 Information
 
-Wegen eines defekten Stellwerkes im Bereich Baumschulenweg (nach Blitzeinschlag) kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Wegen eines defekten Stellwerks im Bereich Baumschulenweg (nach Blitzeinschlag) kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
 
 **Die betroffenen Linien fahren wie folgt:**
 
 * **S45**: Flughafen BER Terminal 1-2 \<\> Südkreuz
-* **S46**: Königs Wusterhausen \<\> Schöneweide
-* **S47**: Spindlersfeld \<\> Schöneweide **sowie** Baumschulenweg \<\> Hermannstraße
-* **S8**: Wildau/Grünau \<\> Schöneweide **sowie** Greifswalder Straße \<\> Blankenburg
+* **S46**: Königs Wusterhausen \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S45 **sowie** zwischen Südkreuz und Westend die Linien S41 und S42*
+* **S47**: Spindlersfeld \<\> Schöneweide **sowie** Baumschulenweg \<\> Hermannstraße, *bitte nutzen Sie zwischen Schöneweide und Baumschulenweg bzw. Hermannstraße die Linie S45*
+* **S8**: Wildau/Grünau \<\> Schöneweide
 * **S85**: verkehrt nicht
 * **S9**: Flughafen BER Terminal 1-2 \<\> Spandau
 
-Umfahrungsmöglichkeiten:
+---
 
-Fahrgäste benutzen ab Treptower Park die Linie S41 bis Neukölln, ab Neukölln in Richtung Schöneweide die Linie S45.
+**Zwischen Baumschulenweg \<\> Plänterwald \<\> Treptower Park verkehrt nur die Linie S9 im 20-Minuten-Takt.**
 
-Fahrgäste nach Plänterwald benutzen bitte ab Baumschulenweg die Buslinien 170 und 165.
+---
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte auch:**
+
+* zwischen Schöneweide \<\> Baumschulenweg \<\> Plänterwald \<\> Treptower Park die BVG-Buslinien 165 und 166
+* zwischen Schöneweide und Ostkreuz die Regionalbahnlinien RB24 und RB32
 
 Wir bitten um Entschuldigung.
 
