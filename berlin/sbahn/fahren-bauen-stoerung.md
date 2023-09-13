@@ -4,27 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technischer Defekt an einem Bahnübergang in Fredersdorf ###
-
- Letztes Update: 16:08 / 13.09.2023
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Fredersdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-* Der 10-Minuten-Takt kann nur zwischen Westkreuz und Mahlsdorf angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### defektes Stellwerk im Bereich Baumschulenweg ###
 
- Letztes Update: 15:57 / 13.09.2023
+ Letztes Update: 19:13 / 13.09.2023
 
 Information
 
@@ -37,7 +21,7 @@ Wegen eines defekten Stellwerks im Bereich Baumschulenweg (nach Blitzeinschlag)
 * **S47**: Spindlersfeld \<\> Schöneweide **sowie** Baumschulenweg \<\> Hermannstraße, *bitte nutzen Sie zwischen Schöneweide und Baumschulenweg bzw. Hermannstraße die Linie S45*
 * **S8**: Wildau/Grünau \<\> Schöneweide **sowie** Greifswalder Straße \<\> Blankenburg, *bitte nutzen Sie zwischen Schöneweide und Treptower Park die Linie S9 **sowie** Treptower Park und Greifswalder Straße die Linien S41 und S42*
 * **S85**: verkehrt nicht
-* **S9**: Flughafen BER Terminal 1-2 \<\> Olympiastadion, *bitte nutzen Sie zwischen Olympiastadion und Spandau die Linie S3*
+* **S9**: Flughafen BER Terminal 1-2 \<\> Spandau
 
 ---
 
@@ -49,6 +33,22 @@ Wegen eines defekten Stellwerks im Bereich Baumschulenweg (nach Blitzeinschlag)
 
 * zwischen Schöneweide \<\> Baumschulenweg \<\> Plänterwald \<\> Treptower Park die BVG-Buslinien 165 und 166
 * zwischen Schöneweide und Ostkreuz die Regionalbahnlinien RB24 und RB32
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### technischer Defekt an einem Bahnübergang in Fredersdorf ###
+
+ Letztes Update: 16:08 / 13.09.2023
+
+Information
+
+Wegen eines technischen Defekts an einem Bahnübergang in Fredersdorf kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+
+* Der 10-Minuten-Takt kann nur zwischen Westkreuz und Mahlsdorf angeboten werden.
 
 Wir bitten um Entschuldigung.
 
