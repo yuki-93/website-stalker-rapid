@@ -55,7 +55,7 @@ Information
 
 Information
 
-* keine Halt in Gehrenseestraße
+* kein Halt in Gehrenseestraße
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -195,7 +195,7 @@ Information
 
 Information
 
-* keine Halt in Gehrenseestraße
+* kein Halt in Gehrenseestraße
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -337,7 +337,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 Information
 
-* keine Halt in Gehrenseestraße
+* kein Halt in Gehrenseestraße
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
