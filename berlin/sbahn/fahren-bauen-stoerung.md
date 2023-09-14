@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal im Bereich Baumschulenweg ###
+
+ Letztes Update: 03:20 / 14.09.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S45, S46, S47, S8 und S85 zu Verspätungen und Ausfällen.
+
+**Die Linie S85 verkehrt nicht.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)

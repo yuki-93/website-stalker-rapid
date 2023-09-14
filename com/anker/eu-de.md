@@ -8,7 +8,7 @@ Bis zu 30% Rabatt & 5% Geldprämien
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Epische Deals auf Solarbank](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt sparen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Back-To-School](https://www.anker.com/eu-de/back-to-school-chg?ref=naviMenu)
+Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Zubehör für Apple](https://www.anker.com/eu-de/collections/apple-accessories?ref=naviMenu)
 
 Schwestermarken & Hilfe
 
