@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg ###
 
- Letztes Update: 14:23 / 14.09.2023
+ Letztes Update: 15:12 / 14.09.2023
 
 Information
 
-Wegen der Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linie **S85 verkehrt nicht**, *bitte nutzen Sie zwischen Grünau und Pankow die Linie S8*.
 
