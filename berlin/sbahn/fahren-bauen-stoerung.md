@@ -4,31 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg ###
 
- Letztes Update: 13:06 / 14.09.2023
+ Letztes Update: 14:23 / 14.09.2023
 
 Information
 
-Wegen einer Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S45, S46, S47, S8 und S85 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Die Linie S85 verkehrt nicht, *bitte nutzen Sie zwischen Grünau und Pankow die Linie S8*.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Ostbahnhof behoben ###
-
- Letztes Update: 13:05 / 14.09.2023
-
-Information
-
-Nach der Reparatur an einem Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+* Die Linie **S85 verkehrt nicht**, *bitte nutzen Sie zwischen Grünau und Pankow die Linie S8*.
 
 Wir bitten um Entschuldigung.
 
