@@ -14,7 +14,7 @@ Anker Nano
 
  C-ing is Believing
 
-Höchste Ladegeschwindigkeiten für deine USB-C iPhone
+Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
 [Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner1)
 
