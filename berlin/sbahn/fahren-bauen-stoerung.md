@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Ostbahnhof ###
+
+ Letztes Update: 10:31 / 14.09.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+Der 10-Minuten-Takt der Linie S3 kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg ###
