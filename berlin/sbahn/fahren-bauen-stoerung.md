@@ -4,17 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Ostbahnhof ###
 
- Letztes Update: 10:31 / 14.09.2023
+ Letztes Update: 12:09 / 14.09.2023
 
 Information
 
-Wegen einer Reparatur an einem Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
 
-Der 10-Minuten-Takt der Linie S3 kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden.
+**Die betroffenen Linien fahren wie folgt:**
+
+* S3: Erkner \<\> Spandau (ein 10-Minuten-Takt kann nur zwischen Friedrichshagen und Warschauer Straße angeboten werden)
+* S5: Strausberg Nord \<\> Westkreuz (ein 10-Minuten-Takt kann nur zwischen Mahlsdorf und Warschauer Straße angeboten werden)
+* S7: Ahrensfelde \<\> Potsdam
+* S75: Wartenberg \<\> Lichtenberg (kann nur ein 20-Minuten-Takt angeboten werden)
+* S9: Flughafen BER - Terminal 1-2 \<\> Spandau
 
 Wir bitten um Entschuldigung.
 
