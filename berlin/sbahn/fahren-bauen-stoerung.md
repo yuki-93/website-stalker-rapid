@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einem Signal im Bereich Baumschulenweg ###
+### Reparatur an mehreren Signalen zwischen Westend und Halensee ###
 
- Letztes Update: 15:12 / 14.09.2023
+ Letztes Update: 21:39 / 14.09.2023
 
 Information
 
-Wegen der Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie **S85 verkehrt nicht**, *bitte nutzen Sie zwischen Grünau und Pankow die Linie S8*.
+Wegen der Reparatur an mehreren Signalen zwischen Westend und Halensee kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
