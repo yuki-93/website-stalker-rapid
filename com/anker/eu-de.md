@@ -377,10 +377,6 @@ Produkte
 
 [MSA-Erklärung](https://dz02g1kgtiysz.cloudfront.net/MSA_Statement.pdf?ref=footer)
 
-[PowerHouse - Großvertriebspartner werden](https://www.anker.com/eu-de/be-a-powerhouse-dealer?ref=footer)
-
-[PowerHouse - Händler werden](https://www.anker.com/eu-de/anker-solix/journeys-with-ambassadors?ref=footer)
-
 Programme
 
 [AnkerCredits Programm](https://anker.com/eu-de/ankercredits?ref=footer)
