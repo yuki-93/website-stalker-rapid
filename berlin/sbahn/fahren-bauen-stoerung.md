@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Zug in Hauptbahnhof beendet ###
 
- Letztes Update: 17:17 / 15.09.2023
+ Letztes Update: 18:10 / 15.09.2023
 
 Information
 
