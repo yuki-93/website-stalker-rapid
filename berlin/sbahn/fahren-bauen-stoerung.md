@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal im Bereich Baumschulenweg ###
-
- Letztes Update: 22:10 / 15.09.2023
-
-Information
-
-Wegen der Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf der Linien S8 zu folgenden Änderungen:
-
-* Die **Linie S8** verkehrt von Grünau bis Schöneweide planmäßig und von Schöneweide bis Pankow ca. 7 Minuten später.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
