@@ -4,61 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz in Gesundbrunnen beendet ###
-
- Letztes Update: 19:30 / 15.09.2023
-
-Information
-
-Nach einem Polizeieinsatz im Zug in Gesundbrunnen kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg ###
 
- Letztes Update: 04:42 / 15.09.2023
+ Letztes Update: 22:10 / 15.09.2023
 
 Information
 
-Wegen der Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf der Linien S8 zu folgenden Änderungen:
 
-* Die **Linie S8** verkehrt von Wildau/ Grünau bis Schöneweide planmäßig und von Schöneweide bis Blankenburg ca. 7 Minuten später.
-* Die Linie **S85 verkehrt nicht**, *bitte nutzen Sie zwischen Grünau und Pankow die Linie S8*.
+* Die **Linie S8** verkehrt von Grünau bis Schöneweide planmäßig und von Schöneweide bis Pankow ca. 7 Minuten später.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Blankenburg \<\> Schönfließ ###
-
-10.09. (So), ca. 7 Uhr durchgehend 15.09., ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27235&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16964&type=5679&cHash=98eb74a079fd35223eb88872acfdada7)
-
- Ersatzverkehr
-
-Information
-
-* kein Zugverkehr: Blankenburg \<\> Schönfließ
-* Ersatzverkehr mit Bussen:
-  * Bus S8B: Pankow-Heinersdorf \<\> Bergfelde
-  * Bus S8A: Pankow-Heinersdorf \<\> Hohen Neuendorf
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27235)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
