@@ -39,38 +39,31 @@ Erweiterbar auf 26.900Wh | Power für alle Haushaltsgeräte Ladeleistung für El
 Das Anker-Erlebnis entdecken
 ----------
 
-* ### Bis zu 30% Rabatt,
-   5% Geldprämien ###
-
-  Der exklusive Back-To-School Sale von Anker
-
-  [Zum Angebot Bis zu 30% Rabatt, 5% Geldprämien](https://www.anker.com/eu-de/back-to-school-chg?ref=productBanner3_1)
-
 * ### Entdecke die besten Powerbanks für unterwegs  ###
 
   Das smarte Ladezubehör für deine Abenteuer.
   Bis zu 25% Rabatt
 
-  [Jetzt kaufenEntdecke die besten Powerbanks für unterwegs](https://www.anker.com/eu-de/travel?ref=productBanner3_2)
+  [Jetzt kaufenEntdecke die besten Powerbanks für unterwegs](https://www.anker.com/eu-de/travel?ref=productBanner3_1)
 
 * ### Anmelden und exklusive Benefits und 45% Rabatt sichern  ###
 
   Anker SOLIX F3800 Tragbare Powerstation
 
-  [AnmeldenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner3_3)
+  [AnmeldenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner3_2)
 
 * ### Anker 3-in-1 Ladewürfel
   mit MagSafe  ###
 
   Das perfekte Ladegerät für dein Apple-Ecosystem
 
-  [Mehr erfahrenAnker 3-in-1 Ladewürfel mit MagSafe](https://www.anker.com/eu-de/products/y1811?ref=productBanner3_4)
+  [Mehr erfahrenAnker 3-in-1 Ladewürfel mit MagSafe](https://www.anker.com/eu-de/products/y1811?ref=productBanner3_3)
 
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner3_5)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner3_4)
 
 * ###
 
@@ -82,31 +75,31 @@ Das Anker-Erlebnis entdecken
 
   Anker SOLIX Balkonkraftwerk
 
-  [Mehr erfahren Limitiertes Angebot ,Das Upgrade auf 800W](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner3_6)
+  [Mehr erfahren Limitiertes Angebot ,Das Upgrade auf 800W](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner3_5)
 
 * ### Die Extraportion Power mit Ankers meistgekauften Ladegeräten  ###
 
   Entdecke die besten Ladelösungen für den Alltag und deine Arbeit
 
-  [Mehr erfahren Die Extraportion Power mit Ankers meistgekauften Ladegeräten](https://www.anker.com/eu-de/bestseller?ref=productBanner3_7)
+  [Mehr erfahren Die Extraportion Power mit Ankers meistgekauften Ladegeräten](https://www.anker.com/eu-de/bestseller?ref=productBanner3_6)
 
 * ### Anker EverFrost Akku-Kühlbox ###
 
    Bis zu 42 Std. | Ohne Eis für mehr Stauraum | Von 25°C auf 0°C in nur 30 Min. | Abnehmbare Powerbank
 
-  [Mehr erfahren Anker EverFrost Akku-Kühlbox](https://anker.com/eu-de/everfrost-akku-kuehlbox?ref=productBanner3_8)
+  [Mehr erfahren Anker EverFrost Akku-Kühlbox](https://anker.com/eu-de/everfrost-akku-kuehlbox?ref=productBanner3_7)
 
 * ### Anker Nano 3 ###
 
   Das Tech für jedes iPhone
 
-  [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner3_9)
+  [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner3_8)
 
 * ### Starte durch mit USB-C ###
 
   Entdecke USB-C Ladepower mit Anker
 
-  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner3_10)
+  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner3_9)
 
 Unentschlossen?
 
