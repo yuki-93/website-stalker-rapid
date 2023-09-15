@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an mehreren Signalen zwischen Westend und Halensee und eingleisige Streckensperrung zwischen Wedding und Schönhauser Allee ###
-
- Letztes Update: 23:45 / 14.09.2023
-
-Information
-
-Wegen der Reparatur an mehreren Signalen und einer eingleisigen Streckensperrung kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
@@ -59,59 +43,9 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Bundesplatz \<\> Halensee \<\> Westend ###
-
-Nacht 14./15.09. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27806&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20928&tx_sbbconstructions_list%5Bperiod%5D=17195&type=5679&cHash=3b91887cf32b41b8dcfa3cab2d1a336c)
-
- Takt geändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um. Die Weiterfahrt erfolgt nach 10 bzw. 18 Minuten (S41) bzw. nach 7 Minuten (S42) vom selben Gleis.
-
-* Taktänderung:
-  * Halensee \<\> Westend S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-98501122e5/#con-27806)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \<\> Spandau ###
-
-Nacht 14./15.09. (Do/Fr), ca. 23 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27803&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20925&tx_sbbconstructions_list%5Bperiod%5D=17192&type=5679&cHash=92ca242fce69d139ab93b222d9f1daf0)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-westkreuz/#con-27803)
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Zehlendorf \<\> Friedenau \<\> Schöneberg (Oranienburg) ###
-
-Nächte 11./12.09. (Mo/Di) bis 14./15.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17148&type=5679&cHash=29c6a7cb5ca0ae819440af6b7ebfcd51)
 
 15.09. (Fr), ca. 22 Uhr durchgehend bis 18.09. (Mo), ca. 1.30 Uhr
 
@@ -205,10 +139,6 @@ Information
 
 ### Zehlendorf \<\> Friedenau \<\> Schöneberg (Oranienburg) ###
 
-Nächte 11./12.09. (Mo/Di) bis 14./15.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17148&type=5679&cHash=29c6a7cb5ca0ae819440af6b7ebfcd51)
-
 15.09. (Fr), ca. 22 Uhr durchgehend bis 18.09. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17149&type=5679&cHash=17c59cde5bc5a19f7d8dccd5d8222e1f)
@@ -300,10 +230,6 @@ Information
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Zehlendorf \<\> Friedenau \<\> Schöneberg (Oranienburg) ###
-
-Nächte 11./12.09. (Mo/Di) bis 14./15.09. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20852&tx_sbbconstructions_list%5Bperiod%5D=17148&type=5679&cHash=29c6a7cb5ca0ae819440af6b7ebfcd51)
 
 15.09. (Fr), ca. 22 Uhr durchgehend bis 18.09. (Mo), ca. 1.30 Uhr
 
