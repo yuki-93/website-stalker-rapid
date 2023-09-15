@@ -8,12 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg ###
 
- Letztes Update: 03:45 / 15.09.2023
+ Letztes Update: 04:42 / 15.09.2023
 
 Information
 
 Wegen der Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
 
+* Die **Linie S8** verkehrt von Wildau/ Grünau bis Schöneweide planmäßig und von Schöneweide bis Blankenburg ca. 7 Minuten später.
 * Die Linie **S85 verkehrt nicht**, *bitte nutzen Sie zwischen Grünau und Pankow die Linie S8*.
 
 Wir bitten um Entschuldigung.
