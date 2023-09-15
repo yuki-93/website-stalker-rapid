@@ -4,33 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Südkreuz beendet ###
+### Reparatur am Zug in Hauptbahnhof beendet ###
 
- Letztes Update: 13:53 / 15.09.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Südkreuz kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Greifswalder Straße ###
-
- Letztes Update: 13:51 / 15.09.2023
+ Letztes Update: 17:17 / 15.09.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Greifswalder Straße kommt es auf den Linien S41 und S8 zu Verspätungen und einzelnen Ausfällen.
+Nach einer Reparatur am Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung verspätet
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
