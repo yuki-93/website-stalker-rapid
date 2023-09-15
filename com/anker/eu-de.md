@@ -351,20 +351,6 @@ Produkte
 
 [Adapter & Hubs](https://www.anker.com/eu-de/collections/adapter-hubs?ref=footer)
 
-[Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=footer)
-
-[Balkonkraftwerk mit Speicher](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher?ref=footer)
-
-[Angebote](https://www.anker.com/eu-de/earth-day-powerstationen?ref=footer)
-
-[Tragbare Powerstation](https://www.anker.com/eu-de/collections/portable-power-stations?ref=footer)
-
-[Solargeneratoren](https://www.anker.com/eu-de/anker-solix/solargenerator?ref=footer)
-
-[Mobile Stromreserve](https://www.anker.com/eu-de/anker-solix/stromreserve-zuhause?ref=footer)
-
-[Energie zum Mitnehmen](https://www.anker.com/eu-de/anker-solix/strom-draussen?ref=footer)
-
 [Nachhaltigkeit](https://www.anker.com/eu-de/anker-fuer-nachhaltigkeit-zukunft?ref=footer)
 
 Über Uns
