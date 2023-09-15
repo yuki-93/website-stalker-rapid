@@ -4,15 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur am Zug in Hauptbahnhof beendet ###
+### Polizeieinsatz in Gesundbrunnen ###
 
- Letztes Update: 18:10 / 15.09.2023
+ Letztes Update: 19:18 / 15.09.2023
 
 Information
 
-Nach einer Reparatur am Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+Wegen eines Polizeieinsatzes im Zug in Gesundbrunnen kommt es auf den Linien S41 und S42 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
+* Zwischen Beusselstraße und Schönhauser Allee besteht nur ein 20-Minuten-Takt.
+
+**Beachten Sie bitte**: die Züge der Linie S42 fahren in Gesundbrunnen über Gleis 3 (Bahnsteig B, wie Linie S41).
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur am Zug in Hauptbahnhof beendet ###
+
+ Letztes Update: 18:26 / 15.09.2023
+
+Information
+
+Nach einer Reparatur am Zug in Hauptbahnhof, einem Polizeieinsatz in Ostbahnhof und einer ärztlichen Versorgung eines Fahrgastes im Zug in Friedrichsfelde Ostkommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
