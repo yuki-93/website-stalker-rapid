@@ -4,37 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### hohes Fahrgastaufkommen (Großveranstaltung) in Tempelhof ###
-
- Letztes Update: 21:55 / 16.09.2023
-
-Information
-
-Wegen eines hohen Fahrgastaufkommens durch eine Großveranstaltung kommt es auf den **Linien S41 und S42** zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg ###
 
- Letztes Update: 21:53 / 16.09.2023
+ Letztes Update: 22:38 / 16.09.2023
 
 Information
 
-Wegen der Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S8 und S85 zu folgenden Änderungen:
+Wegen der Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf der Linie S8 zu folgenden Änderungen:
 
-* die **Linie S8** fährt von Grünau bis Schöneweide planmäßig und von Schöneweide bis Bornholmer Straße ca. 7 Minuten später
-* die **Linie S8** fällt zwischen Bornholmer Straße und Pankow aus,
-  *bitte nutzen Sie zwischen Bornholmer Straße und Pankow die Linie S2*
-* die **Linie S85** verkehrt nicht,
-  *bitte nutzen Sie zwischen Schöneweide und Ostkreuz die Linie S8.*
+* die **Linie S8** fährt von Grünau bis Schönweide planmäßig und von Schöneweide und Schönhauser Allee ca. 7 Minuten später
+* die **Linie S8** fällt zwischen Schönhauser Allee und Pankow aus,
+  *bitte nutzen Sie die Linie U2.*
 
-Wir bitten um Enschuldigung.
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
