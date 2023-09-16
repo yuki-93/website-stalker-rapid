@@ -8,15 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg ###
 
- Letztes Update: 22:38 / 16.09.2023
+ Letztes Update: 01:03 / 17.09.2023
 
 Information
 
 Wegen der Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf der Linie S8 zu folgenden Änderungen:
 
-* die **Linie S8** fährt von Grünau bis Schönweide planmäßig und von Schöneweide und Schönhauser Allee ca. 7 Minuten später
-* die **Linie S8** fällt zwischen Schönhauser Allee und Pankow aus,
-  *bitte nutzen Sie die Linie U2.*
+* die **Linie S8** fährt von Grünau bis Schönweide planmäßig und von Schöneweide bis Pankow ca. 7 Minuten später
 
 Wir bitten um Entschuldigung.
 
