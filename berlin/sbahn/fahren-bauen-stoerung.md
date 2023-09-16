@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### hohes Fahrgastaufkommen (Großveranstaltung) in Tempelhof ###
 
- Letztes Update: 17:39 / 16.09.2023
+ Letztes Update: 19:08 / 16.09.2023
 
 Information
 
-Wegen eines hohen Verkehrsaufkommens durch eine Großveranstaltung kommt es auf den **Linien S41, S42 und S46** zu Verspätungen und vereinzelten Ausfällen.
-
-Die **Linie S45** verkehrt nur zwischen Schöneweide und Flughafen BER Terminal 1-2.
+Wegen eines hohen Fahrgastaufkommens durch eine Großveranstaltung kommt es auf den **Linien S41, S42, S45 und S46** zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
