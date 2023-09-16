@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### hohes Fahrgastaufkommen (Großveranstaltung) in Tempelhof ###
 
- Letztes Update: 19:08 / 16.09.2023
+ Letztes Update: 21:55 / 16.09.2023
 
 Information
 
-Wegen eines hohen Fahrgastaufkommens durch eine Großveranstaltung kommt es auf den **Linien S41, S42, S45 und S46** zu Verspätungen und vereinzelten Ausfällen.
+Wegen eines hohen Fahrgastaufkommens durch eine Großveranstaltung kommt es auf den **Linien S41 und S42** zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
@@ -22,7 +22,7 @@ Wir bitten um Ihr Verständnis.
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg ###
 
- Letztes Update: 07:45 / 16.09.2023
+ Letztes Update: 21:53 / 16.09.2023
 
 Information
 
