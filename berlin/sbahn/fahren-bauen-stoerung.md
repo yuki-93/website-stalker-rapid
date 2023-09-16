@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Polizeieinsatz in Tempelhof ###
+
+ Letztes Update: 14:55 / 16.09.2023
+
+Information
+
+Wegen eines Polizeieinsatzes in Tempelhof kommt den Linien S 41,S42,S 45, S46 und S47 in diesem Bereich zu Ausfällen und Verspätungen.
+
+ **die Linie S45** fährt zwischen Schöneweide und Flughafen Terminal 1/2,
+
+**die Linie S47** fährt zwischen Schöneweide und Spindlersfeld.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg ###
