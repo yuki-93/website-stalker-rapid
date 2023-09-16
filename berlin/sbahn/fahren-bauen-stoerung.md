@@ -4,19 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Untersuchung am Zug in Alexanderplatz beendet ###
+
+ Letztes Update: 17:08 / 16.09.2023
+
+Information
+
+Nach einer technischen Untersuchung an einem Zug in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Polizeieinsatz in Tempelhof ###
 
- Letztes Update: 14:55 / 16.09.2023
+ Letztes Update: 16:23 / 16.09.2023
 
 Information
 
 Wegen eines Polizeieinsatzes in Tempelhof kommt den Linien S 41,S42,S 45, S46 und S47 in diesem Bereich zu Ausfällen und Verspätungen.
 
  **die Linie S45** fährt zwischen Schöneweide und Flughafen Terminal 1/2,
-
-**die Linie S47** fährt zwischen Schöneweide und Spindlersfeld.
 
 Wir bitten um Entschuldigung.
 
