@@ -4,35 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### technische Untersuchung am Zug in Alexanderplatz beendet ###
+### hohes Fahrgastaufkommen (Großveranstaltung) in Tempelhof ###
 
- Letztes Update: 17:08 / 16.09.2023
+ Letztes Update: 17:39 / 16.09.2023
 
 Information
 
-Nach einer technischen Untersuchung an einem Zug in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
+Wegen eines hohen Verkehrsaufkommens durch eine Großveranstaltung kommt es auf den **Linien S41, S42 und S46** zu Verspätungen und vereinzelten Ausfällen.
 
-Wir bitten um Entschuldigung.
+Die **Linie S45** verkehrt nur zwischen Schöneweide und Flughafen BER Terminal 1-2.
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz in Tempelhof ###
-
- Letztes Update: 16:23 / 16.09.2023
-
-Information
-
-Wegen eines Polizeieinsatzes in Tempelhof kommt den Linien S 41,S42,S 45, S46 und S47 in diesem Bereich zu Ausfällen und Verspätungen.
-
- **die Linie S45** fährt zwischen Schöneweide und Flughafen Terminal 1/2,
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
