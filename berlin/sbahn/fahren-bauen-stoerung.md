@@ -4,6 +4,39 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur ein einer Weiche in Schöneweide ###
+
+ Letztes Update: 19:02 / 17.09.2023
+
+Information
+
+Wegen der Reparatur an einer Weiche kommt es auf den **Linien S45, S46, S8 und S9** zu Verspätungen.
+
+Die Linie **S47** verkehrt nur Schöneweide \<\> Spindlersfeld.
+*Bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linien S45 und S46.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Strecke im Bereich Karlshorst ###
+
+ Letztes Update: 18:39 / 17.09.2023
+
+Information
+
+Wegen einer Reparatur an der Strecke im Bereich Karlshorst kommt es auf der Linie S3 zu Verspätungen.
+
+**Die Linie S3 verkehrt nur im 20-Minuten-Takt.**
+
+Wir bitten um Entschuldigung
+
+ Takt geändert
+
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz im Bereich Südkreuz beendet ###
