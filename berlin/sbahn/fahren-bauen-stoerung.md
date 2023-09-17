@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz im Bereich Südkreuz beendet ###
+
+ Letztes Update: 17:26 / 17.09.2023
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Südkreuz (unbefugte Personen auf der Strecke) kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg ###
