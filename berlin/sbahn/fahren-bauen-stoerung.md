@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz in Köpenick beendet ###
+
+ Letztes Update: 15:41 / 17.09.2023
+
+Information
+
+Nach einem Polizeieinsatz in Köpenick kommt es auf der Linie S3 noch zu Ausfällen und Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg ###
