@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Strecke im Bereich Karlshorst ###
+
+ Letztes Update: 19:42 / 17.09.2023
+
+Information
+
+Wegen einer Reparatur an der Strecke im Bereich Karlshorst kommt es auf der Linie S3 zu Verspätungen.
+
+**In Wuhlheide ist in beiden Fahrtrichtungen ein Umstieg erforderlich.**
+
+**Die Linie S3 verkehrt nur im 20-Minuten-Takt.**
+
+Wir bitten um Entschuldigung
+
+ Takt geändert
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur ein einer Weiche in Schöneweide ###
@@ -20,22 +38,6 @@ Die Linie **S47** verkehrt nur Schöneweide \<\> Spindlersfeld.
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke im Bereich Karlshorst ###
-
- Letztes Update: 18:39 / 17.09.2023
-
-Information
-
-Wegen einer Reparatur an der Strecke im Bereich Karlshorst kommt es auf der Linie S3 zu Verspätungen.
-
-**Die Linie S3 verkehrt nur im 20-Minuten-Takt.**
-
-Wir bitten um Entschuldigung
-
- Takt geändert
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
