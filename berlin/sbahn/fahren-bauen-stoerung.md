@@ -4,31 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### unbefugte Personen auf der Strecke im Bereich Anhalter Bahnhof ###
-
- Letztes Update: 20:50 / 17.09.2023
-
-Information
-
-Wegen unbefugter Personen auf der Strecke ist der Zugverkehr der Linien S1, S2, S25 zwischen Yorckstraße/ Yorckstraße (Großgörschenstraße) und Potsdamer Platz unterbrochen.
-
-Bitte nutzen Sie zur weiträumigen Umfahrung andere Verkehrmittel.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur an der Strecke im Bereich Karlshorst beendet ###
+### Reparatur an der Strecke und Reparatur am Zug im Bereich Karlshorst beendet ###
 
- Letztes Update: 20:47 / 17.09.2023
+ Letztes Update: 22:17 / 17.09.2023
 
 Information
 
-Nach einer Reparatur an der Strecke im Bereich Karlshorst kommt es auf der Linie S3 noch zu Verspätungen.
+Nach einer Reparatur an der Strecke und einer Reparatur am Zug im Bereich Karlshorst kommt es auf der Linie S3 noch zu Verspätungen.
 
 **Die Linie S3 verkehrt nur im 20-Minuten-Takt.**
 
