@@ -2,6 +2,28 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal im Bereich Baumschulenweg ###
+
+ Letztes Update: 09:27 / 17.09.2023
+
+Information
+
+Wegen der Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S8 und S85 zu folgenden Änderungen:
+
+* die **Linie S8** fährt von Grünau bis Schöneweide planmäßig und von Schöneweide bis Bornholmer Straße ca. 7 Minuten später
+* die **Linie S8** fällt zwischen Bornholmer Straße und Pankow aus,
+  *bitte nutzen Sie zwischen Bornholmer Straße und Pankow die Linie S2*
+* die **Linie S85** verkehrt nicht,
+  *bitte nutzen Sie zwischen Schöneweide und Ostkreuz die Linie S8.*
+
+Wir bitten um Enschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
