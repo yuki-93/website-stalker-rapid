@@ -4,54 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an der Strecke im Bereich Karlshorst ###
+### unbefugte Personen auf der Strecke im Bereich Anhalter Bahnhof ###
 
- Letztes Update: 19:42 / 17.09.2023
+ Letztes Update: 20:50 / 17.09.2023
 
 Information
 
-Wegen einer Reparatur an der Strecke im Bereich Karlshorst kommt es auf der Linie S3 zu Verspätungen.
+Wegen unbefugter Personen auf der Strecke ist der Zugverkehr der Linien S1, S2, S25 zwischen Yorckstraße/ Yorckstraße (Großgörschenstraße) und Potsdamer Platz unterbrochen.
 
-**In Wuhlheide ist in beiden Fahrtrichtungen ein Umstieg erforderlich.**
+Bitte nutzen Sie zur weiträumigen Umfahrung andere Verkehrmittel.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Strecke im Bereich Karlshorst beendet ###
+
+ Letztes Update: 20:47 / 17.09.2023
+
+Information
+
+Nach einer Reparatur an der Strecke im Bereich Karlshorst kommt es auf der Linie S3 noch zu Verspätungen.
 
 **Die Linie S3 verkehrt nur im 20-Minuten-Takt.**
 
 Wir bitten um Entschuldigung
 
  Takt geändert
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur ein einer Weiche in Schöneweide ###
-
- Letztes Update: 19:02 / 17.09.2023
-
-Information
-
-Wegen der Reparatur an einer Weiche kommt es auf den **Linien S45, S46, S8 und S9** zu Verspätungen.
-
-Die Linie **S47** verkehrt nur Schöneweide \<\> Spindlersfeld.
-*Bitte nutzen Sie zwischen Hermannstraße und Schöneweide die Linien S45 und S46.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz im Bereich Südkreuz beendet ###
-
- Letztes Update: 17:26 / 17.09.2023
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Südkreuz (unbefugte Personen auf der Strecke) kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
