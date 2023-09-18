@@ -2,23 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### techn. Untersuchung am Zug in Lichtenberg ###
-
- Letztes Update: 16:16 / 18.09.2023
-
-Information
-
-Wegen einer techn. Untersuchung am Zug in Lichtenberg verkehrt die Linie S75 zwischen Wartenberg und Warschauer Straße durchgehend im 20-Minuten-Takt.
-*Der 10-Minuten-Takt zwischen Lichtenberg und Warschauer Straße entfällt.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
