@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einer Weiche in Blankenburg ###
+### Reparatur an einer Weiche in Blankenburg beendet ###
 
- Letztes Update: 20:42 / 18.09.2023
+ Letztes Update: 22:42 / 18.09.2023
 
 Information
 
-Wegen einer Reparatur an einer Weiche in Blankenburg ist der Zugverkehr der Linien S2 und S8 zwischen Blankenburg und Karow/ Schönfließ unterbrochen.
-
-*Bitte nutzen Sie zur weiträumigen Umfahrung die örtlichen Verkehrsmittel.*
+Nach der Reparatur an einer Weiche in Blankenburg kommt es auf den Linien S2 und S8 derzeit noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
