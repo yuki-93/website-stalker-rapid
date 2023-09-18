@@ -6,19 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Notarzteinsatz am Gleis in Friedrichsfelde Ost ###
+### Notarzteinsatz am Gleis in Friedrichsfelde Ost beendet ###
 
- Letztes Update: 09:42 / 18.09.2023
+ Letztes Update: 11:06 / 18.09.2023
 
 Information
 
-Wegen eines Notarzteinsatzes am Gleis in Friedrichsfelde Ost ist der Zugverkehr der Linien S5, S7 und S75 zwischen Lichtenberg und Springpfuhl/ Wuhletal unterbrochen.
-
-* Linie S5 verkehrt Strausberg Nord \<\> Wuhletal, sowie Lichtenberg \<\> Westkreuz
-* Linie S7 verkehrt Ahrensfelde \<\> Springpfuhl, sowie Lichtenberg \<\> Grunewald/ Potsdam Hbf
-* Linie S75 verkehrt Wartenberg \<\> Springpfuhl
-
-Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+Nach einem Notarzteinsatz am Gleis in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
