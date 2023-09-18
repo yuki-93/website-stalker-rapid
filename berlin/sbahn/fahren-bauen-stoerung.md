@@ -18,22 +18,6 @@ Wir bitten um Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal zwischen Westkreuz und Grunewald ###
-
- Letztes Update: 09:07 / 18.09.2023
-
-Information
-
-Wegen der Reparatur an einem Signal zwischen Westkreuz und Grunewald kommt es auf der Linie S7 zu Verspätungen und Ausfällen.
-
-Der 10-Minuten-Takt auf der Linie S7 kann nur zwischen Ahrensfelde und Grunewald angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
-
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg ###
