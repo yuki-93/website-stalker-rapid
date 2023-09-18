@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal im Bereich Baumschulenweg ###
+
+ Letztes Update: 01:18 / 18.09.2023
+
+Information
+
+Wegen der Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S8 und S85 zu folgenden Änderungen:
+
+* die **Linie S8** fährt von Wildau/ Grünau bis Schöneweide planmäßig und von Schöneweide bis Birkenwerder bis zu 10 Minuten später
+* die **Linie S85** verkehrt nicht,
+  *bitte nutzen Sie die Linie S8.*
+
+Wir bitten um Enschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
