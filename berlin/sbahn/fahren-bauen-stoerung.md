@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke und Reparatur am Zug im Bereich Karlshorst beendet ###
-
- Letztes Update: 22:17 / 17.09.2023
-
-Information
-
-Nach einer Reparatur an der Strecke und einer Reparatur am Zug im Bereich Karlshorst kommt es auf der Linie S3 noch zu Verspätungen.
-
-**Die Linie S3 verkehrt nur im 20-Minuten-Takt.**
-
-Wir bitten um Entschuldigung
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -65,29 +47,6 @@ Information
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-der-moltkestrassenbruecke/#con-27722)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Pankow \<\> Karow/Schönfließ ###
-
-15.09. (Fr), ca. 22 Uhr durchgehend bis 18.09. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27234&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20347&tx_sbbconstructions_list%5Bperiod%5D=16959&type=5679&cHash=85bcd01843425bab947b68e40968c3a2)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S2: Pankow \<\> Karow
-  * Bus S8: Pankow \<\> Hohen Neuendorf
-
-* Taktänderung:
-  * Schönhauser Allee \<\> Bornholmer Straße S-Bahnverkehr nur im 20-Minutentakt mit S8
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#con-27234)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s1-und-s8/#c28867)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
