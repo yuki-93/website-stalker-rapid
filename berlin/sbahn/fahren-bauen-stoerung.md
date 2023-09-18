@@ -2,6 +2,39 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### unbefugte Personen auf der Strecke in Strausberg ###
+
+ Letztes Update: 20:08 / 18.09.2023
+
+Information
+
+Wegen unbefugten Personen auf der Strecke in Strausberg kommt es auf der Linie S5 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal im Bereich Baumschulenweg ###
+
+ Letztes Update: 20:02 / 18.09.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Zugausfällen.
+
+*Die Linie S47 verkehrt zwischen Spindlersfeld und Schöneweide.
+ Die Linie S85 verkehrt nicht.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
