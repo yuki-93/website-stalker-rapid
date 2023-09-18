@@ -4,30 +4,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur am Zug Friedenau beendet ###
+### techn. Untersuchung am Zug in Lichtenberg ###
 
- Letztes Update: 15:06 / 18.09.2023
-
-Information
-
-Nach einer Reparatur am Zug in Friedenau kann es auf der Linie S1 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal im Bereich Baumschulenweg beendet ###
-
- Letztes Update: 14:27 / 18.09.2023
+ Letztes Update: 16:16 / 18.09.2023
 
 Information
 
-Nach der Reparatur an einem Signal im Bereich Baumschulenweg verkehrt die Linie S85 nicht.
-*Bitte nutzen Sie die Linie S8.*
+Wegen einer techn. Untersuchung am Zug in Lichtenberg verkehrt die Linie S75 zwischen Wartenberg und Warschauer Straße durchgehend im 20-Minuten-Takt.
+*Der 10-Minuten-Takt zwischen Lichtenberg und Warschauer Straße entfällt.*
 
 Wir bitten um Entschuldigung.
 
