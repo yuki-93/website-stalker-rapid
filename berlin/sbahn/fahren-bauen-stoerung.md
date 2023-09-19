@@ -4,20 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### kurzfristiger Personalausfall S75 ###
+### Reparatur einer Weiche im Bereich Blankenburg ###
 
- Letztes Update: 18:24 / 19.09.2023
+ Letztes Update: 20:25 / 19.09.2023
 
 Information
 
-Wegen kurzfristigen Personalausfall verkehrt die Linie S75 zwischen Wartenberg und Warschauer Straße durchgehend im 20-Minuten-Takt.
-*Der 10-Minuten-Takt zwischen Lichtenberg und Warschauer Straße entfällt.*
+Wegen einer Reparatur einer Weiche im Bereich Blankenburg ist der Zugverkehr der Linien S2 und S8 zwischen Blankenburg und Karow sowie Blankenburg und Schönfließ unterbrochen.
+
+*  Linie S8 verkehrt Grünau \<\> Blankenburg sowie Schönfließ \<\> Birkenwerder, bitte zur Umfahrung die Linie S1 Bornholmer Straße \<\> Hohen Neuendorf nutzen.
+*  Linie S2 verkehrt Blankenfelde \<\> Blankenburg sowie Karow \<\> Bernau, der 10-Minuten-Takt kann nur zwischen Lichtenrade \<\> Nordbahnhof angeboten werden.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unterbrochen
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
