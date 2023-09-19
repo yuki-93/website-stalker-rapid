@@ -4,15 +4,39 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
-### Notarzteinsatz auf der Strecke in Messe Nord/ICC beendet ###
+### Reparatur einer Weiche im Bereich Blankenburg ###
 
- Letztes Update: 15:01 / 19.09.2023
+ Letztes Update: 17:19 / 19.09.2023
 
 Information
 
-Nach einem Notarzteinsatz auf der Strecke in Messe Nord/ICC kann es auf den Linien S41, S42 und S46 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einer Reparatur einer Weiche im Bereich Blankenburg ist der Zugverkehr der Linie S8 zwischen Blankenburg und Schönfließ unterbrochen.
+
+Die Linie S8 verkehrt Wildau \<\> Blankenburg sowie Schönfließ \<\> Birkenwerder.
+*Bitte zur Umfahrung die Linie S1 zwischen Bornholmer Straße und Hohen Neuendorf nutzen.*
+
+Ein Ersatzverkehr mit Bussen ist zwischen Blankenburg und Mühlenbeck-Mönchmühle eingerichtet.
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S-Bhf. Blankenburg: Bahnhofstr. (Haltestelle Bus 150, 154)
+* S-Bhf. Mühlenbeck-Mönchmühle: Ersatzhalt Schildow Kirche (Haltestelle Bus 107, 806, 810)
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Notarzteinsatz auf der Strecke in Messe Nord/ICC beendet ###
+
+ Letztes Update: 16:48 / 19.09.2023
+
+Information
+
+Nach einem Notarzteinsatz auf der Strecke in Messe Nord/ICC kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
