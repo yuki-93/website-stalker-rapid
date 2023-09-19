@@ -35,20 +35,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur einer Weiche im Bereich Blankenburg beendet ###
-
- Letztes Update: 18:23 / 19.09.2023
-
-Information
-
-Nach einer Reparatur einer Weiche im Bereich Blankenburg kann es auf den Linien S2 und S8 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Notarzteinsatz auf der Strecke in Messe Nord/ICC beendet ###
