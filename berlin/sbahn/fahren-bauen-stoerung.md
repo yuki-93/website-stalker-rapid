@@ -4,44 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz in Lichtenberg beendet ###
-
- Letztes Update: 12:11 / 19.09.2023
-
-Information
-
-Nach einem Polizeieinsatz in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur einer Weiche im Bereich Blankenburg ###
+### Reparatur einer Weiche im Bereich Blankenburg beendet ###
 
- Letztes Update: 11:58 / 19.09.2023
+ Letztes Update: 13:09 / 19.09.2023
 
 Information
 
-Wegen einer Reparatur einer Weiche im Bereich Blankenburg ist der Zugverkehr der Linien S 2 und S 8 zwischen Blankenburg \<\> Karow und Blankenburg \<\>Schönfließ unterbrochen.
-
-*  **Linie S8** verkehrt Grünau \<\> Blankenburg und Schönfließ \<\> Birkenwerder, bitte zur Umfahrung die Linie S1 Bornholmer Straße \<\> Hohen Neuendorf nutzen.
-*  **Linie S2** verkehrt Blankenfelde \<\> Blankenburg und Karow \<\> Bernau, der 10-Minuten-Takt kann nur zwischen Lichtenrade \<\> Nordbahnhof angeboten werden.
-
-Ein Ersatzverkehr mit Bussen ist zwischen Blankenburg und Karow sowie Blankenburg und Mühlenbeck-Mönchmühle eingerichtet.
-
-Haltestellen des Ersatzverkehrs:
-
-* S-Bhf. Blankenburg (Linie S2 und S8): Bahnhofstr. (Haltestelle Bus 150, 154)
-* S-Bhf. Karow (Linie S2): Hubertusdamm (Bus 350)
-* S-Bhf. Mühlenbeck-Mönchmühle (Linie S8): Ersatzhalt Schildow Kirche (Haltestelle Bus 107, 806, 810)
+Nach einer Reparatur einer Weiche im Bereich Blankenburg kann es auf den Linien S2 und S8 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  keine Verbindung
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
