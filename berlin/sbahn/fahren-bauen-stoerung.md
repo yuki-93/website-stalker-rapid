@@ -4,49 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur einer Weiche im Bereich Blankenburg ###
-
- Letztes Update: 17:19 / 19.09.2023
-
-Information
-
-Wegen einer Reparatur einer Weiche im Bereich Blankenburg ist der Zugverkehr der Linie S8 zwischen Blankenburg und Schönfließ unterbrochen.
-
-Die Linie S8 verkehrt Wildau \<\> Blankenburg sowie Schönfließ \<\> Birkenwerder.
-*Bitte zur Umfahrung die Linie S1 zwischen Bornholmer Straße und Hohen Neuendorf nutzen.*
-
-Ein Ersatzverkehr mit Bussen ist zwischen Blankenburg und Mühlenbeck-Mönchmühle eingerichtet.
-
-**Haltestellen des Ersatzverkehrs:**
-
-* S-Bhf. Blankenburg: Bahnhofstr. (Haltestelle Bus 150, 154)
-* S-Bhf. Mühlenbeck-Mönchmühle: Ersatzhalt Schildow Kirche (Haltestelle Bus 107, 806, 810)
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Notarzteinsatz auf der Strecke in Messe Nord/ICC beendet ###
-
- Letztes Update: 16:48 / 19.09.2023
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Messe Nord/ICC kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### kurzfristiger Personalausfall S75 ###
 
- Letztes Update: 13:43 / 19.09.2023
+ Letztes Update: 18:24 / 19.09.2023
 
 Information
 
@@ -61,7 +23,7 @@ Wir bitten um Entschuldigung.
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 11:55 / 19.09.2023
+ Letztes Update: 18:24 / 19.09.2023
 
 Information
 
@@ -72,6 +34,34 @@ Bitte nutzen Sie zwischen Tempelhof \<\> Südkreuz die Linien S41, S42 und S46.
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur einer Weiche im Bereich Blankenburg beendet ###
+
+ Letztes Update: 18:23 / 19.09.2023
+
+Information
+
+Nach einer Reparatur einer Weiche im Bereich Blankenburg kann es auf den Linien S2 und S8 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Notarzteinsatz auf der Strecke in Messe Nord/ICC beendet ###
+
+ Letztes Update: 16:48 / 19.09.2023
+
+Information
+
+Nach einem Notarzteinsatz auf der Strecke in Messe Nord/ICC kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
