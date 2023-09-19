@@ -4,20 +4,42 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Lichtenberg beendet ###
+
+ Letztes Update: 12:11 / 19.09.2023
+
+Information
+
+Nach einem Polizeieinsatz in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur einer Weiche im Bereich Blankenburg ###
 
- Letztes Update: 11:06 / 19.09.2023
+ Letztes Update: 11:58 / 19.09.2023
 
 Information
 
 Wegen einer Reparatur einer Weiche im Bereich Blankenburg ist der Zugverkehr der Linien S 2 und S 8 zwischen Blankenburg \<\> Karow und Blankenburg \<\>Schönfließ unterbrochen.
 
-*  **Linie S8** fährt Grünau\<\>Blankenburg und Schönfließ\<\>Birkenwerder, bitte zur Umfahrung die Linie S1 Bornholmer Straße\<\>Hohen Neundorf nutzen
-*  **Linie S2** fährt Blankenfelde\<\>Blankenburg und Karow\<\>Bernau,der 10 Minuten Takt kann nur zwischen Lichtenrade\<\>Nordbahnhof angeboten werden.
+*  **Linie S8** verkehrt Grünau \<\> Blankenburg und Schönfließ \<\> Birkenwerder, bitte zur Umfahrung die Linie S1 Bornholmer Straße \<\> Hohen Neuendorf nutzen.
+*  **Linie S2** verkehrt Blankenfelde \<\> Blankenburg und Karow \<\> Bernau, der 10-Minuten-Takt kann nur zwischen Lichtenrade \<\> Nordbahnhof angeboten werden.
 
-Wir bitten um Verständnis.
+Ein Ersatzverkehr mit Bussen ist zwischen Blankenburg und Karow sowie Blankenburg und Mühlenbeck-Mönchmühle eingerichtet.
+
+Haltestellen des Ersatzverkehrs:
+
+* S-Bhf. Blankenburg (Linie S2 und S8): Bahnhofstr. (Haltestelle Bus 150, 154)
+* S-Bhf. Karow (Linie S2): Hubertusdamm (Bus 350)
+* S-Bhf. Mühlenbeck-Mönchmühle (Linie S8): Ersatzhalt Schildow Kirche (Haltestelle Bus 107, 806, 810)
+
+Wir bitten um Entschuldigung.
 
  fährt nicht  keine Verbindung
 
@@ -25,15 +47,15 @@ Wir bitten um Verständnis.
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 07:43 / 19.09.2023
+ Letztes Update: 11:55 / 19.09.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 zwischen Flughafen - BER Terminal 1+2 \<\> Tempelhof.
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen - BER Terminal 1+2 \<\> Tempelhof.
 
 Bitte nutzen Sie zwischen Tempelhof \<\> Südkreuz die Linien S41, S42 und S46.
 
-Wir bitten um Verständnis.
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
