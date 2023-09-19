@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur einer Weiche im Bereich Blankenburg ###
 
- Letztes Update: 21:42 / 19.09.2023
+ Letztes Update: 22:30 / 19.09.2023
 
 Information
 
 Wegen der Reparatur einer Weiche im Bereich Blankenburg ist der Zugverkehr der Linien S2 und S8 zwischen Blankenburg \<\> Karow sowie Blankenburg \<\> Schönfließ unterbrochen.
 
-*  Linie S2 verkehrt Blankenfelde \<\> Blankenburg sowie Karow \<\> Bernau.
+*  Linie S2 verkehrt Blankenfelde \<\> Norbahnhof, Bornholmer Straße \<\> Blankenburg, sowie Karow \<\> Bernau.
 *  Linie S8 verkehrt Grünau \<\> Blankenburg sowie Schönfließ \<\> Birkenwerder, bitte nutzen Sie zur Umfahrung die Linie S1 Bornholmer Straße \<\> Hohen Neuendorf.
 
 Ein Ersatzverkehr mit Bussen ist für die Linie S2 zwischen Blankenburg \<\> Karow eingerichtet.
