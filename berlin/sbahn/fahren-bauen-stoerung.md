@@ -4,6 +4,39 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Notarzteinsatz auf der Strecke in Messe Nord/ICC ###
+
+ Letztes Update: 14:30 / 19.09.2023
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke im Bereich Messe Nord/ICC ist der Zugverkehr der Linien S41 und S42 zwischen Halensee und Westend unterbrochen.
+***Bitte nutzen Sie die Linie S46.***
+
+*Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+ Die Linie S46 verkehrt **ohne Verkehrshalt** in Messe Nord/ICC.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### kurzfristiger Personalausfall S75 ###
+
+ Letztes Update: 13:43 / 19.09.2023
+
+Information
+
+Wegen kurzfristigen Personalausfall verkehrt die Linie S75 zwischen Wartenberg und Warschauer Straße durchgehend im 20-Minuten-Takt.
+*Der 10-Minuten-Takt zwischen Lichtenberg und Warschauer Straße entfällt.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur einer Weiche im Bereich Blankenburg beendet ###
