@@ -4,35 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an einer Weiche in Südkreuz und Tempelhof ###
-
- Letztes Update: 07:18 / 19.09.2023
-
-Information
-
-Wegen der Reparatur an einer Weiche in Südkreuz und Tempelhof verkehrt die Linie S45 zwischen Flughafen - BER Terminal 1+2 \<\> Schöneweide.
-
-Bitte nutzen Sie zwischen Schöneweide \<\> Südkreuz die Linien S46 und S47.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur einer Weiche im Bereich Blankenburg ###
+### Reparatur einer Weiche im Bereich Blankenburg beendet ###
 
- Letztes Update: 07:00 / 19.09.2023
+ Letztes Update: 07:45 / 19.09.2023
 
 Information
 
-Wegen einer Reparatur einer Weiche im Bereich Blankenburg ist der Zugverkehr der Linie S 2 und S 8 in diesem Bereich unterbrochen.
+Nach einer Reparatur einer Weiche im Bereich Blankenburg kommt es auf den Linien S 2 und S 8 noch zu Ausfällen und Verspätungen.
 
 Wir bitten um Verständnis.
 
  fährt nicht  keine Verbindung
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Reparatur an einer Weiche in Südkreuz ###
+
+ Letztes Update: 07:43 / 19.09.2023
+
+Information
+
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 zwischen Flughafen - BER Terminal 1+2 \<\> Tempelhof.
+
+Bitte nutzen Sie zwischen Tempelhof \<\> Südkreuz die Linien S41, S42 und S46.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
