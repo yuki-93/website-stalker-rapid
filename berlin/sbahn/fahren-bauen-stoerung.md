@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### kurzfristiger Personalausfall S75 ###
+
+ Letztes Update: 06:21 / 20.09.2023
+
+Information
+
+Wegen kurzfristigen Personalausfall verkehrt die Linie S75 zwischen Wartenberg und Lichtenberg durchgehend im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur einer Weiche im Bereich Blankenburg ###
 
- Letztes Update: 04:57 / 20.09.2023
+ Letztes Update: 06:00 / 20.09.2023
 
 Information
 
