@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur einer Weiche im Bereich Blankenburg ###
+
+ Letztes Update: 06:57 / 20.09.2023
+
+Information
+
+Wegen der Reparatur einer Weiche im Bereich Blankenburg ist der Zugverkehr der Linie S8 zwischen Blankenburg \<\> Schönfließ unterbrochen.
+
+*  Linie S8 verkehrt Wildau \<\> Blankenburg, sowie Schönfließ \<\> Birkenwerder. Bitte nutzen Sie zur Umfahrung die Linie S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### kurzfristiger Personalausfall S75 ###
@@ -17,23 +33,6 @@ Wegen kurzfristigen Personalausfall verkehrt die Linie S75 zwischen Wartenberg
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur einer Weiche im Bereich Blankenburg ###
-
- Letztes Update: 06:00 / 20.09.2023
-
-Information
-
-Wegen der Reparatur einer Weiche im Bereich Blankenburg ist der Zugverkehr der Linien S2 und S8 zwischen Blankenburg \<\> Karow sowie Blankenburg \<\> Schönfließ unterbrochen.
-
-*  Linie S2 verkehrt Blankenfelde \<\> Blankenburg, sowie Karow \<\> Bernau.
-*  Linie S8 verkehrt Wildau \<\> Blankenburg, sowie Schönfließ \<\> Birkenwerder. Bitte nutzen Sie zur Umfahrung die Linie S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
 
 [S85](https://sbahn.berlin/fahren/s85/)
 
