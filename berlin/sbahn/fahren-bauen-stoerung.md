@@ -18,20 +18,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal im Bereich Baumschulenweg ###
-
- Letztes Update: 10:10 / 20.09.2023
-
-Information
-
-Wegen der Reparatur an einem Signal im Bereich Baumschulenweg verkehrt die Linie S85 derzeit nicht.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  sonstige Einschränkungen
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
