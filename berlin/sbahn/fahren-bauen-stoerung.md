@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur einer Weiche im Bereich Blankenburg beendet ###
+
+ Letztes Update: 12:07 / 20.09.2023
+
+Information
+
+Nach der Reparatur einer Weiche im Bereich Blankenburg kommt es auf der Linie S8 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### kurzfristiger Personalausfall S75 ###
+
+ Letztes Update: 11:45 / 20.09.2023
+
+Information
+
+Wegen kurzfristigen Personalausfall verkehrt die Linie S75 zwischen Wartenberg und Warschauer Straße durchgehend im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg ###
@@ -17,36 +45,6 @@ Wegen der Reparatur an einem Signal im Bereich Baumschulenweg verkehrt die Linie
 Wir bitten um Entschuldigung.
 
  fährt nicht  sonstige Einschränkungen
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur einer Weiche im Bereich Blankenburg ###
-
- Letztes Update: 09:35 / 20.09.2023
-
-Information
-
-Wegen der Reparatur einer Weiche im Bereich Blankenburg ist der Zugverkehr der Linie S8 zwischen Blankenburg \<\> Schönfließ unterbrochen.
-
-*  Linie S8 verkehrt Grünau \<\> Blankenburg, sowie Schönfließ \<\> Birkenwerder. Bitte nutzen Sie zur Umfahrung die Linie S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### kurzfristiger Personalausfall S75 ###
-
- Letztes Update: 06:21 / 20.09.2023
-
-Information
-
-Wegen kurzfristigen Personalausfall verkehrt die Linie S75 zwischen Wartenberg und Lichtenberg durchgehend im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
