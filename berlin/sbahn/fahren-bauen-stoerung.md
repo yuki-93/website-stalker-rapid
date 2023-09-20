@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur einer Weiche im Bereich Blankenburg ###
+
+ Letztes Update: 04:57 / 20.09.2023
+
+Information
+
+Wegen der Reparatur einer Weiche im Bereich Blankenburg ist der Zugverkehr der Linien S2 und S8 zwischen Blankenburg \<\> Karow sowie Blankenburg \<\> Schönfließ unterbrochen.
+
+*  Linie S2 verkehrt Blankenfelde \<\> Blankenburg, sowie Karow \<\> Bernau.
+*  Linie S8 verkehrt Wildau \<\> Blankenburg, sowie Schönfließ \<\> Birkenwerder. Bitte nutzen Sie zur Umfahrung die Linie S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg ###
