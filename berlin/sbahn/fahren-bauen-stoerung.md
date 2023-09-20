@@ -4,17 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal im Bereich Baumschulenweg ###
+
+ Letztes Update: 10:10 / 20.09.2023
+
+Information
+
+Wegen der Reparatur an einem Signal im Bereich Baumschulenweg verkehrt die Linie S85 derzeit nicht.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  sonstige Einschränkungen
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur einer Weiche im Bereich Blankenburg ###
 
- Letztes Update: 06:57 / 20.09.2023
+ Letztes Update: 09:35 / 20.09.2023
 
 Information
 
 Wegen der Reparatur einer Weiche im Bereich Blankenburg ist der Zugverkehr der Linie S8 zwischen Blankenburg \<\> Schönfließ unterbrochen.
 
-*  Linie S8 verkehrt Wildau \<\> Blankenburg, sowie Schönfließ \<\> Birkenwerder. Bitte nutzen Sie zur Umfahrung die Linie S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf.
+*  Linie S8 verkehrt Grünau \<\> Blankenburg, sowie Schönfließ \<\> Birkenwerder. Bitte nutzen Sie zur Umfahrung die Linie S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf.
 
 Wir bitten um Entschuldigung.
 
@@ -33,20 +47,6 @@ Wegen kurzfristigen Personalausfall verkehrt die Linie S75 zwischen Wartenberg
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal im Bereich Baumschulenweg ###
-
- Letztes Update: 01:05 / 20.09.2023
-
-Information
-
-Wegen der Reparatur an einem Signal im Bereich Baumschulenweg verkehrt die Linie S85 derzeit nicht.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  sonstige Einschränkungen
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
