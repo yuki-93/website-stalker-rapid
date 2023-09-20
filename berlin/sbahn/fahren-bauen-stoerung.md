@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur einer Weiche im Bereich Blankenburg beendet ###
-
- Letztes Update: 12:07 / 20.09.2023
-
-Information
-
-Nach der Reparatur einer Weiche im Bereich Blankenburg kommt es auf der Linie S8 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### kurzfristiger Personalausfall S75 ###
