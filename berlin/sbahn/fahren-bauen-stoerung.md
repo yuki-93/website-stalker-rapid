@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke im Bereich Rummelsburg) beendet ###
-
- Letztes Update: 07:14 / 21.09.2023
-
-Information
-
-Nach einem Polizeieinsatz (Personen auf der Strecke im Bereich Rummelsburg) kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
