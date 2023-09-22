@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz Grünbergallee beendet ###
-
- Letztes Update: 14:16 / 22.09.2023
-
-Information
-
-Nach einem Polizeieinsatz in Grünbergallee kann es auf den Linien S45 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 12:44 / 21.09.2023
+ Letztes Update: 14:49 / 22.09.2023
 
 Information
 
