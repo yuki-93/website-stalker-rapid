@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### technische Untersuchung am Zug Halensee beendet ###
-
- Letztes Update: 19:46 / 22.09.2023
-
-Information
-
-Nach einer technischen Untersuchung am Zug in Halensee kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Polizeieinsatz (unbefugte Personen auf der Strecke im Bereich Biesdorfer Kreuz) beendet ###
