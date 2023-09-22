@@ -40,27 +40,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Schönhauser Allee – Blankenburg – Birkenwerder ###
-
-Nacht 21./22.09. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27912&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21042&tx_sbbconstructions_list%5Bperiod%5D=17222&type=5679&cHash=4a2c8468b93f9c7649430617dabd926e)
-
- Zugverkehr verändert
-
-Information
-
-* kein S-Bahnverkehr: Schönhauser Allee \<\> Bornholmer Straße
-* Taktänderung
-* Bahnsteigänderung in Bornholmer Straße
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-im-abschnitt-gesundbrunnen-pankow-1/#con-27912)
-
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 Nur Wochenende
@@ -110,26 +89,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Ostbahnhof ###
-
-19.09. (Di) bis 22.09. (Fr), jeweils 3:02 Uhr bis 3:09 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26783&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19878&tx_sbbconstructions_list%5Bperiod%5D=17226&type=5679&cHash=dede629018aaf497eefa03200351cfa3)
-
- fährt nicht
-
-Information
-
-* Der Zug:
-  * Alexanderplatz ab 3:02 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:09 Uhr in Ostbahnhof.
-
-* Der Zug fällt von Alexanderplatz bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Charlottenburg \> Ostbahnhof ###
 
 19.09. (Di) bis 22.09. (Fr), jeweils 3:02 Uhr bis 3:24 Uhr
@@ -162,26 +121,6 @@ Information
   * Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:37 Uhr in Ostbahnhof.
 
 * Der Zug fällt von Westkreuz bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof \> Friedrichstraße ###
-
-19.09. (Di) bis 22.09. (Fr), jeweils 1:48 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&tx_sbbconstructions_list%5Bperiod%5D=17225&type=5679&cHash=8ab707e86660611de4484cf1f9ac8edb)
-
- fährt nicht
-
-Information
-
-* Der Zug:
-  * Flughafen BER – Terminal 1-2 ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:48 Uhr in Ostbahnhof.
-  * Der Zug fällt zwischen Ostbahnhof und Friedrichstraße aus.
-
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
