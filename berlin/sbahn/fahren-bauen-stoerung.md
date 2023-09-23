@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz (unbefugte Personen auf der Strecke im Bereich Biesdorfer Kreuz) beendet ###
+
+ Letztes Update: 12:50 / 23.09.2023
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke im Bereich Biesdorfer Kreuz) kommt es auf den Linien S5, S7 und S75 derzeit noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
