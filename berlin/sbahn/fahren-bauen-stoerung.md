@@ -4,39 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S46](https://sbahn.berlin/fahren/s46/)
 
-### Bauarbeiten in Lichtenberg ###
+### technischer Defekt an einem anderen Zug im Bereich Königs Wusterhausen ###
 
- Letztes Update: 18:35 / 24.09.2023
-
-Information
-
-Wegen Unregelmäßigkeiten während der Bauarbeiten, wird die Linie S5 nur noch Strausberg Nord/Mahlsdorf und Friedrichsfelde Ost verkehren.
-
-Ab Friedrichsfelde Ost nutzen sie bitte die Züge der Linie S7 bis Lichtenberg.
-
-Wir bitten Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Kurzfristige Personalausfälle auf der Linie S45 ###
-
- Letztes Update: 16:01 / 24.09.2023
+ Letztes Update: 23:08 / 24.09.2023
 
 Information
 
-Wegen kurzfristiger Personalausfälle kommt es auf der Linie S45 zu Ausfällen.
-
-Bitte nutzen Sie zwischen Südkreuz \<\> Tempelhof die Linien S41 und S42, zwischen Tempelhof \<\> Baumschulenweg die Linie S46 und zwischen Baumschulenweg \<\> Flughafen - BER, Terminal 1+2 die Linie S9.
-
-Bitte nutzen Sie auch die Regionalbahn und die Verkehrsmittel der BVG.
+Wegen eines technischen Defektes an einem andern Zug (Regionalbahn) ist der Zugverkehr der Linie S46 zwischen Wildau und Königs Wusterhausen unterbrochen.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ fährt nicht  keine Verbindung
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Reparatur an einer Weiche in Südkreuz ###
+
+ Letztes Update: 08:52 / 24.09.2023
+
+Information
+
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen - BER Terminal 1+2 \<\> Tempelhof.
+
+Bitte nutzen Sie zwischen Tempelhof \<\> Südkreuz die Linien S41, S42 und S46.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
