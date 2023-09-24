@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Bauarbeiten in Lichtenberg ###
+
+ Letztes Update: 18:35 / 24.09.2023
+
+Information
+
+Wegen Unregelmäßigkeiten während der Bauarbeiten, wird die Linie S5 nur noch Strausberg Nord/Mahlsdorf und Friedrichsfelde Ost verkehren.
+
+Ab Friedrichsfelde Ost nutzen sie bitte die Züge der Linie S7 bis Lichtenberg.
+
+Wir bitten Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Kurzfristige Personalausfälle auf der Linie S45 ###
