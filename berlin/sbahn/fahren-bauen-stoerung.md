@@ -79,7 +79,7 @@ Nur Wochenende
 
 Information
 
-* Ersatzverkehr mit Bussen: Bus S1 - Hohen Neueundorf \<\> Birkenwerder
+* Ersatzverkehr mit Bussen: Bus S1 - Hohen Neuendorf \<\> Oranienburg
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -167,7 +167,7 @@ Nur Wochenende
 
 Information
 
-* Ersatzverkehr mit Bussen: Bus S1 - Hohen Neueundorf \<\> Birkenwerder
+* Ersatzverkehr mit Bussen: Bus S1 - Hohen Neuendorf \<\> Oranienburg
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
