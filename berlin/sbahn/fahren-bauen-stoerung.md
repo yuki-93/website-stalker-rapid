@@ -6,19 +6,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
-### Reparatur an einer Weiche in Südkreuz ###
+### Kurzfristige Personalausfälle auf der Linie S45 ###
 
- Letztes Update: 08:52 / 24.09.2023
+ Letztes Update: 16:01 / 24.09.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen - BER Terminal 1+2 \<\> Tempelhof.
+Wegen kurzfristiger Personalausfälle kommt es auf der Linie S45 zu Ausfällen.
 
-Bitte nutzen Sie zwischen Tempelhof \<\> Südkreuz die Linien S41, S42 und S46.
+Bitte nutzen Sie zwischen Südkreuz \<\> Tempelhof die Linien S41 und S42, zwischen Tempelhof \<\> Baumschulenweg die Linie S46 und zwischen Baumschulenweg \<\> Flughafen - BER, Terminal 1+2 die Linie S9.
+
+Bitte nutzen Sie auch die Regionalbahn und die Verkehrsmittel der BVG.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
