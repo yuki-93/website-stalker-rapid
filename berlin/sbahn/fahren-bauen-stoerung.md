@@ -104,28 +104,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-zwischen-westend-beusselstrasse/#con-27936)
 
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Gleisänderung/Bahnsteigänderung in Waßmannsdorf ###
-
-24.09. (So) 1 bis 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17824&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=14047&tx_sbbconstructions_list%5Bperiod%5D=17231&type=5679&cHash=1f85d3eeb0f6d8476af7ca0825fc7782)
-
- Zugverkehr verändert
-
-Information
-
-* Gleisänderung/Bahnsteigänderung beachten.
-* In Waßmannsdorf fährt die Linie S9 nach Spandau von Gleis 1 (Bahnsteig stadtauswärts).
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/wassmannsdorf-spandau-gleisaenderung/#con-17824)
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
