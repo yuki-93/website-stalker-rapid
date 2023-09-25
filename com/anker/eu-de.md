@@ -67,15 +67,15 @@ Das Anker-Erlebnis entdecken
 
 * ###
 
-   Limitiertes Angebot
+   Bester Preis
 
    ###
 
-  ### Das Upgrade auf 800W ###
+  ### Bis zu 590€ Rabatt | Das Upgrade auf 800W ###
 
   Anker SOLIX Balkonkraftwerk
 
-  [Mehr erfahren Limitiertes Angebot ,Das Upgrade auf 800W](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner3_5)
+  [Mehr erfahren Bester Preis ,Bis zu 590€ Rabatt | Das Upgrade auf 800W](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner3_5)
 
 * ### Die Extraportion Power mit Ankers meistgekauften Ladegeräten  ###
 

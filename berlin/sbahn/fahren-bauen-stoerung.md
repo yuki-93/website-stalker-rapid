@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Notarzteinsatz am Gleis im Bereich Tempelhof ###
+### Notarzteinsatz am Gleis im Bereich Tempelhof beendet ###
 
- Letztes Update: 05:15 / 25.09.2023
+ Letztes Update: 05:56 / 25.09.2023
 
 Information
 
-Wegen eines Notarzteinsatzes am Gleis im Bereich Tempelhof ist der Zugverkehr der Linien S41, S42, S45 und S46 zwischen Hermannstraße und Südkreuz unterbrochen.
+Nach einem Notarzteinsatz am Gleis im Bereich Tempelhof kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
