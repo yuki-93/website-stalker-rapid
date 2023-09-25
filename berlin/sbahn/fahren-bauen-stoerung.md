@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### kurzfristiger Bauarbeiten in Treptower Park ###
+
+ Letztes Update: 21:41 / 25.09.2023
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Treptower Park muss der Zugverkehr der Linie S8 in der heutigen Nacht (25./26.09.2023) von ca. 00:15 Uhr bis ca. 01:30 Uhr verändert durchgeführt werden.
+
+*Die Linie S8 verkehrt Grünau \<\> Schöneweide sowie Greifswalder Straße \<\> Pankow/ Blankenburg.
+ Bitte nutzen Sie zwischen Schöneweide und Treptower Park die Linie S9 sowie zwischen Treptower Park und Greifswalder Straße die Züge der Linien S41/S42.*
+
+Bitte beachten Sie, dass diese Bauarbeiten aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
