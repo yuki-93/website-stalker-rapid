@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
-### kurzfristiger Bauarbeiten in Treptower Park ###
+### kurzfristige Bauarbeiten in Treptower Park ###
 
- Letztes Update: 21:41 / 25.09.2023
+ Letztes Update: 00:34 / 26.09.2023
 
 Information
 
