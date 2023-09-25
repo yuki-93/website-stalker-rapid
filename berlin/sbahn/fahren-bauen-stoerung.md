@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Notarzteinsatz am Gleis im Bereich Tempelhof beendet ###
-
- Letztes Update: 05:56 / 25.09.2023
-
-Information
-
-Nach einem Notarzteinsatz am Gleis im Bereich Tempelhof kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 08:52 / 24.09.2023
+ Letztes Update: 06:36 / 25.09.2023
 
 Information
 
@@ -33,6 +19,20 @@ Bitte nutzen Sie zwischen Tempelhof \<\> Südkreuz die Linien S41, S42 und S46.
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Notarzteinsatz am Gleis im Bereich Tempelhof beendet ###
+
+ Letztes Update: 06:35 / 25.09.2023
+
+Information
+
+Nach einem Notarzteinsatz am Gleis im Bereich Tempelhof kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
