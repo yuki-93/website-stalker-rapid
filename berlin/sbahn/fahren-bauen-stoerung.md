@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal im Bereich Hermannstraße ###
 
- Letztes Update: 08:04 / 25.09.2023
+ Letztes Update: 11:44 / 25.09.2023
 
 Information
 
-Wegen der Reparatur an einem Signal im Bereich Hermannstraße kommt es auf den Linien S41, S45, S47 und S46 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal im Bereich Hermannstraße kommt es auf den Linien S41, S45, S46 und S47 zu Verspätungen und Ausfällen.
+
+* die Linie S41 verkehrt im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
