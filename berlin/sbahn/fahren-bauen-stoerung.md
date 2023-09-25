@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### technischer Defekt an einem anderen Zug im Bereich Königs Wusterhausen ###
+### Notarzteinsatz am Gleis im Bereich Tempelhof ###
 
- Letztes Update: 23:08 / 24.09.2023
+ Letztes Update: 05:15 / 25.09.2023
 
 Information
 
-Wegen eines technischen Defektes an einem andern Zug (Regionalbahn) ist der Zugverkehr der Linie S46 zwischen Wildau und Königs Wusterhausen unterbrochen.
+Wegen eines Notarzteinsatzes am Gleis im Bereich Tempelhof ist der Zugverkehr der Linien S41, S42, S45 und S46 zwischen Hermannstraße und Südkreuz unterbrochen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
- fährt nicht  keine Verbindung
+ fährt nicht  Verbindung unterbrochen
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
