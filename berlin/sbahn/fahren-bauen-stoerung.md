@@ -4,25 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### kurzfristige Bauarbeiten in Treptower Park ###
-
- Letztes Update: 00:34 / 26.09.2023
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Treptower Park muss der Zugverkehr der Linie S8 in der heutigen Nacht (25./26.09.2023) von ca. 00:15 Uhr bis ca. 01:30 Uhr verändert durchgeführt werden.
-
-*Die Linie S8 verkehrt Grünau \<\> Schöneweide sowie Greifswalder Straße \<\> Pankow/ Blankenburg.
- Bitte nutzen Sie zwischen Schöneweide und Treptower Park die Linie S9 sowie zwischen Treptower Park und Greifswalder Straße die Züge der Linien S41/S42.*
-
-Bitte beachten Sie, dass diese Bauarbeiten aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
@@ -40,27 +21,6 @@ Wir bitten um Entschuldigung.
  Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Westend – Beusselstraße ###
-
-Nächte 24./25.09. (So/Mo) und 25./26.09. (Mo/Di) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27936&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21065&tx_sbbconstructions_list%5Bperiod%5D=17246&type=5679&cHash=b9d7265d44c38c01f08e8b0641deb861)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Taktänderung
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-zwischen-westend-beusselstrasse/#con-27936)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
