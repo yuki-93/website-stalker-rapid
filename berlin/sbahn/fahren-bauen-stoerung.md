@@ -8,13 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal im Bereich Flughafen BER T1-2 ###
 
- Letztes Update: 04:10 / 26.09.2023
+ Letztes Update: 06:08 / 26.09.2023
 
 Information
 
-Wegen einer Reparatur an einem Signal im Bereich Flughafen BER T1-2 kommt es auf den Linien S45 und S9 zu Verspätungen und Zugausfällen.
+Wegen einer Reparatur an einem Signal im Bereich Flughafen BER Terminal 1-2 kommt es auf den Linien S45 und S9 zu Verspätungen und Zugausfällen.
 
-*Die Linie S45 verkehrt nur zwischen Tempelhof und Flughafen BER T5.*
+* Die Linie S45 verkehrt nur zwischen Tempelhof und Flughafen BER Terminal 5.
+* Die Linie S9 verkehrt Spandau \<\> Flughafen BER Terminal 5 und Flughafen BER Terminal 5 \<\> Flughafen BER Terminal 1-2.
+  *Somit ist in beiden Fahrtrichtungen ein Umstieg (Wechsel der Bahnsteigseite) in Flughafen BER Terminal 5 erforderlich.*
 
 Wir bitten um Entschuldigung.
 
