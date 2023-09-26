@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 06:24 / 26.09.2023
+ Letztes Update: 21:09 / 26.09.2023
 
 Information
 
