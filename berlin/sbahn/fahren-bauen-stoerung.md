@@ -18,20 +18,6 @@ Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
 
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Reparatur am Zug in Halensee und Schönhauser Allee beendet ###
-
- Letztes Update: 06:25 / 26.09.2023
-
-Information
-
-Nach der Reparatur an einem Zug in Halensee und Schönhauser Allee kommt es auf der Linie S41 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
