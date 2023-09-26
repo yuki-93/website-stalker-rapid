@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an einem Signal im Bereich Flughafen BER Terminal 1-2 beendet ###
-
- Letztes Update: 06:46 / 26.09.2023
-
-Information
-
-Nach der Reparatur an einem Signal im Bereich Flughafen BER Terminal 1-2 verkehrt die Linie S45 nur zwischen Tempelhof und Flughafen BER Terminal 5.
-
-*Bitte nutzen Sie zwischen Flughafen BER Terminal 5 und Flughafen BER Terminal 1-2 die Linie S9.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)
 
 ### Reparatur am Zug in Halensee und Schönhauser Allee beendet ###
