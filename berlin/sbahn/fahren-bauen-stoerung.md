@@ -4,29 +4,41 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
-### Reparatur an einem Signal im Bereich Flughafen BER T1-2 ###
+### Reparatur an einem Signal im Bereich Flughafen BER Terminal 1-2 beendet ###
 
- Letztes Update: 06:08 / 26.09.2023
+ Letztes Update: 06:46 / 26.09.2023
 
 Information
 
-Wegen einer Reparatur an einem Signal im Bereich Flughafen BER Terminal 1-2 kommt es auf den Linien S45 und S9 zu Verspätungen und Zugausfällen.
+Nach der Reparatur an einem Signal im Bereich Flughafen BER Terminal 1-2 verkehrt die Linie S45 nur zwischen Tempelhof und Flughafen BER Terminal 5.
 
-* Die Linie S45 verkehrt nur zwischen Tempelhof und Flughafen BER Terminal 5.
-* Die Linie S9 verkehrt Spandau \<\> Flughafen BER Terminal 5 und Flughafen BER Terminal 5 \<\> Flughafen BER Terminal 1-2.
-  *Somit ist in beiden Fahrtrichtungen ein Umstieg (Wechsel der Bahnsteigseite) in Flughafen BER Terminal 5 erforderlich.*
+*Bitte nutzen Sie zwischen Flughafen BER Terminal 5 und Flughafen BER Terminal 1-2 die Linie S9.*
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Reparatur am Zug in Halensee und Schönhauser Allee beendet ###
+
+ Letztes Update: 06:25 / 26.09.2023
+
+Information
+
+Nach der Reparatur an einem Zug in Halensee und Schönhauser Allee kommt es auf der Linie S41 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 03:33 / 26.09.2023
+ Letztes Update: 06:24 / 26.09.2023
 
 Information
 
@@ -871,7 +883,7 @@ Nur Wochenende
 
 ### Friedrichshagen \<\> Karlshorst ###
 
-20.10. (Fr), ca. 21:45 Uhr durchgehend bis 25.10. (Mo), ca. 1.30 Uhr
+20.10. (Fr), ca. 21:45 Uhr durchgehend bis 25.10. (Mi), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27950&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21079&tx_sbbconstructions_list%5Bperiod%5D=17256&type=5679&cHash=30990fe20f2d8cedb67be9382b51f0ee)
 
