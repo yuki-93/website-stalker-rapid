@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur am Signal in Teltow Stadt ###
+
+ Letztes Update: 05:45 / 27.09.2023
+
+Information
+
+Wegen der Reparatur am Signal in Teltow Stadt kommt es auf den Linien S25 und S26 zu Verspätungen und Ausfällen.
+
+\* Die Linie S26 verkehrt nur zwischen Waidmannslust \<\> Potsdamer Platz.
+
+Bitte nutzen Sie zwischen Potsdamer Platz \<\> Teltow Stadt die Linie S25. In Lichterfelde Süd ist ein Umstieg erforderlich.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###

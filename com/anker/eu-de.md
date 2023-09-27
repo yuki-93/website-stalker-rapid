@@ -18,15 +18,14 @@ Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
 [Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner1)
 
-Anker SOLIX F1200 (PowerHouse 757)
+ Bester Preis
 
-1299Wh | 1500W
+Frühstart in den Oktober Prime Day
+mit bis zu 590€ Rabatt
 
-Langlebige Stromquelle für zuhause & unterwegs
+Anker SOLIX Balkonkraftwerk27. Sept. bis 9. Okt.
 
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/a1770?ref=masterBanner2)
-
-Jetzt kaufen
+[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner2)
 
 Anker SOLIX F3800
 
@@ -59,23 +58,25 @@ Das Anker-Erlebnis entdecken
 
   [AnmeldenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner3_3)
 
-* ### Anker GaNPrime  ###
-
-  Unsere beste Multi-Geräte-Ladeserie
-
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner3_4)
-
 * ###
 
    Bester Preis
 
    ###
 
-  ### Bis zu 590€ Rabatt | Das Upgrade auf 800W ###
+  ### Oktober Prime Day ###
 
-  Anker SOLIX Balkonkraftwerk
+  ### Bis zu 590€ Rabatt ###
 
-  [Mehr erfahren Bester Preis ,Bis zu 590€ Rabatt | Das Upgrade auf 800W](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner3_5)
+  Anker SOLIX Balkonkraftwerk | Das Upgrade auf 800W
+
+  [Mehr erfahren Bester Preis ,Oktober Prime Day,Bis zu 590€ Rabatt](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner3_4)
+
+* ### Anker GaNPrime  ###
+
+  Unsere beste Multi-Geräte-Ladeserie
+
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner3_5)
 
 * ### Die Extraportion Power mit Ankers meistgekauften Ladegeräten  ###
 
