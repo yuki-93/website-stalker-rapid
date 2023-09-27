@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten im Bereich Marzahn ###
 
- Letztes Update: 21:14 / 27.09.2023
+ Letztes Update: 22:06 / 27.09.2023
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Marzahn ist der Zugverkehr der Linie S7 in der heutigen Nacht (27./28.09.2023 (Mi/Do)), in der Zeit von ca. 21:45 Uhr bis 01:30 Uhr zwischen Springpfuhl und Ahrensfelde unterbrochen.
+Wegen kurzfristiger Bauarbeiten im Bereich Marzahn ist der Zugverkehr der Linie S7 bis ca. 01:30 Uhr zwischen Springpfuhl und Ahrensfelde unterbrochen.
 
 ---
 
@@ -21,15 +21,15 @@ Wegen kurzfristiger Bauarbeiten im Bereich Marzahn ist der Zugverkehr der Linie 
 * **Linie S7:** verkehrt Potsdam Hauptbahnhof \<\> Wartenberg
   * 10-Minuten-Takt zwischen Westkreuz \<\> Lichtenberg (bis ca. 23 Uhr)
 
-* **Linie S75:** verkehrt ab ca. 22:00 Uhr nicht mehr, *bitte nutzen Sie zwischen Warschauer Straße und Wartenberg die Linie S7*
+* **Linie S75:** verkehrt nicht, *bitte nutzen Sie zwischen Warschauer Straße und Wartenberg die Linie S7*
 
 ---
 
-**Ein Ersatzverkehr mit Bussen zwischen Springpfuhl und Ahrensfelde ist im genannten Zeitraum eingerichtet.**
+**Ein Ersatzverkehr mit Bussen ist zwischen Springpfuhl und Ahrensfelde eingerichtet.**
 
-Haltestellen des Ersatzverkehrs
+Haltestellen des Ersatzverkehrs:
 
-* S Springpfuhl: Allle der Kosmonauten (wie Bus 194)
+* S Springpfuhl: Allee der Kosmonauten (wie Bus 194)
 * S Poelchaustraße: Poelchaustraße (wie Bus 291)
 * S Marzahn: Marzahner Promenade (wie Bus 191, 192, 195, 291)
 * S Raoul-Wallenberg-Straße: Märkische Allee (wie Bus X54)
@@ -39,6 +39,22 @@ Haltestellen des Ersatzverkehrs
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Reparatur an einer Weiche in Südkreuz ###
+
+ Letztes Update: 21:42 / 27.09.2023
+
+Information
+
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen - BER Terminal 1-2 \<\> Tempelhof.
+
+Bitte nutzen Sie zwischen Tempelhof \<\> Südkreuz die Linien S41, S42 und S46.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
@@ -53,39 +69,6 @@ Wegen einer Reparatur an einem Signal in Teltow Stadt kommt es auf der Linie S25
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an einer Weiche in Südkreuz ###
-
- Letztes Update: 20:57 / 27.09.2023
-
-Information
-
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen - BER Terminal 1-2 \<\> Tempelhof.
-
-Bitte nutzen Sie zwischen Tempelhof \<\> Südkreuz die Linien S41, S42 und S46.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einer Weiche in Treptower Park beendet ###
-
- Letztes Update: 15:32 / 27.09.2023
-
-Information
-
-Nach der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und folgenden Einschränkungen:
-
-* die Linien S41 und S42 fahren nur im 10-Minuten-Takt
-* die Linie S85 fährt nicht
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
