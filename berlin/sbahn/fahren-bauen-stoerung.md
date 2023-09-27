@@ -827,6 +827,7 @@ Nur Wochenende
 Information
 
 * Ersatzverkehr mit Bussen
+* Fahrplanänderung
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick/#con-27950)
@@ -913,6 +914,7 @@ Information
 
 * Ersatzverkehr mit Bussen
 * Taktänderung:
+  * Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
   * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur mit S3 und S9
 
 * Fahrplanänderung
