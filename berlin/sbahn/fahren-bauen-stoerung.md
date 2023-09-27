@@ -4,6 +4,55 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einer Weiche in Treptower Park - beendet ###
+
+ Letztes Update: 15:23 / 27.09.2023
+
+Information
+
+Nach der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und folgenden Einschränkungen:
+
+* die Linien S41 und S42 fahren nur im 10-Minuten-Takt
+* die Linie S85 fährt nicht
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Vorabinformation: kurzfristige Bauarbeiten im Bereich Marzahn ###
+
+ Letztes Update: 15:17 / 27.09.2023
+
+Information
+
+**Vorabinformation**
+
+Wegen kurzfristiger Bauarbeiten im Bereich Marzahn muss der Zugverkehr der Linie S7 in der heutigen Nacht (27./28.09.2023 (Mi/Do)) in der Zeit von ca. 21:45 Uhr bis ca. 01:30 Uhr zwischen Springpfuhl und Ahrensfelde unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet werden.
+
+Weitere Informationen folgen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an der Strecke im Bereich Mehrower Allee ###
+
+ Letztes Update: 15:05 / 27.09.2023
+
+Information
+
+Wegen der Reparatur an der Strecke im Bereich Mehrower Allee kann der 10-Minuten-Takt der Linie S7 nur zwischen Friedrichsfelde Ost und Potsdam angeboten werden.
+
+Wir bittenm um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur am Zug in Wittenau - beendet ###
@@ -19,24 +68,6 @@ Die Linie S26 verkehrt nur zwischen Lichterfelde Süd \<\> Teltow Stadt.
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einer Weiche in Treptower Park ###
-
- Letztes Update: 14:01 / 27.09.2023
-
-Information
-
-Wegen der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und folgenden Einschränkungen:
-
-* die Linien S41 und S42 fahren nur im 10-Minuten-Takt
-* die Linie S8 fährt Birkenwerder \<\> Greifswalder Straße und Schöneweide \<\> Wildau
-* die Linie S85 fährt nicht
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
@@ -739,6 +770,31 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-am-biesdorfer-kreuz/#con-27980)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Westend ###
+
+Nacht 12./13.10. (Do/Fr), ca. 23.55 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28078&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21224&tx_sbbconstructions_list%5Bperiod%5D=17298&type=5679&cHash=e129282b51ad4efbbef1b272dfbb61be)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Bundesplatz um, die Weiterfahrt erfolgt nach 7 Minuten vom selben Gleis.
+
+* Taktänderung:
+  * Südkreuz \<\> Westend S-Bahnverkehr nur im 10-Minutentakt mit S41/S42 (mit Umsteigen in Bundesplatz)
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schweissarbeiten-in-bundesplatz/#con-28078)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
