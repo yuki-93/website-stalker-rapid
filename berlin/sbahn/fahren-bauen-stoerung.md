@@ -6,39 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Polizeieinsatz im Bereich Babelsberg ###
-
- Letztes Update: 20:22 / 27.09.2023
-
-Information
-
-Wegen eines Polizeieinsatzes im Bereich Babelsberg ist der Zugverkehr der Linie S7 zwischen Griebnitzsee und Potsdam Hbf unterbrochen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur am Signal in Teltow Stadt ###
-
- Letztes Update: 18:12 / 27.09.2023
-
-Information
-
-Wegen der Reparatur am Signal in Teltow Stadt kommt es auf der Linie S25 zu Verspätungen.
-
-* die Linie S26 verkehrt nicht
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
 ### kurzfristige Bauarbeiten im Bereich Marzahn ###
 
- Letztes Update: 17:44 / 27.09.2023
+ Letztes Update: 21:14 / 27.09.2023
 
 Information
 
@@ -70,21 +40,35 @@ Wir bitten um Entschuldigung.
 
  Ersatzverkehr
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an einem Signal in Beusselstraße ###
+### Reparatur an einem Signal in Teltow Stadt ###
 
- Letztes Update: 16:17 / 27.09.2023
+ Letztes Update: 21:14 / 27.09.2023
 
 Information
 
-Wegen der Reparatur an einem Signal im Bereich Beusselstraße kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
-
-* die Linien S41 und S42 fahren nur im 10-Minuten-Takt
+Wegen einer Reparatur an einem Signal in Teltow Stadt kommt es auf der Linie S25 zu Verspätungen.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Reparatur an einer Weiche in Südkreuz ###
+
+ Letztes Update: 20:57 / 27.09.2023
+
+Information
+
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen - BER Terminal 1-2 \<\> Tempelhof.
+
+Bitte nutzen Sie zwischen Tempelhof \<\> Südkreuz die Linien S41, S42 und S46.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -102,22 +86,6 @@ Nach der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an einer Weiche in Südkreuz ###
-
- Letztes Update: 21:09 / 26.09.2023
-
-Information
-
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen - BER Terminal 1-2 \<\> Tempelhof.
-
-Bitte nutzen Sie zwischen Tempelhof \<\> Südkreuz die Linien S41, S42 und S46.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
