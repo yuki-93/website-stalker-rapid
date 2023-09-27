@@ -23,7 +23,9 @@ Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 Frühstart in den Oktober Prime Day
 mit bis zu 590€ Rabatt
 
-Anker SOLIX Balkonkraftwerk27. Sept. bis 9. Okt.
+Die ultimative Solarstromlösungfür dein Zuhause
+
+27. Sept. bis 9. Okt.
 
 [Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner2)
 
