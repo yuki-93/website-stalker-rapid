@@ -23,7 +23,7 @@ Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 Frühstart in den Oktober Prime Day
 mit bis zu 590€ Rabatt
 
-Die ultimative Solarstromlösungfür dein Zuhause
+Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
 
 27. Sept. bis 9. Okt.
 
