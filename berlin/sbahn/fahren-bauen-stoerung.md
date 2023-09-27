@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur am Zug in Wittenau ###
+### Reparatur am Zug in Wittenau - beendet ###
 
- Letztes Update: 12:43 / 27.09.2023
+ Letztes Update: 14:36 / 27.09.2023
 
 Information
 
-Wegen der Reparatur am Zug in Wittenau kommt es auf den Linie S1 und S26 zu Verspätungen und Ausfällen.
+Nach der Reparatur an einem Zug in Wittenau kommt es auf den Linie S1 und S26 noch zu Verspätungen und Ausfällen.
 
 Die Linie S26 verkehrt nur zwischen Lichterfelde Süd \<\> Teltow Stadt.
 
@@ -20,11 +20,29 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einer Weiche in Treptower Park ###
+
+ Letztes Update: 14:01 / 27.09.2023
+
+Information
+
+Wegen der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und folgenden Einschränkungen:
+
+* die Linien S41 und S42 fahren nur im 10-Minuten-Takt
+* die Linie S8 fährt Birkenwerder \<\> Greifswalder Straße und Schöneweide \<\> Wildau
+* die Linie S85 fährt nicht
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur am Signal in Teltow Stadt ###
 
- Letztes Update: 12:39 / 27.09.2023
+ Letztes Update: 13:34 / 27.09.2023
 
 Information
 
@@ -794,17 +812,23 @@ Information
 
 ### Frankfurter Allee – Greifswalder Straße – Bornholmer Straße ###
 
-Nacht 15./16.10. (So/Mo) 22 Uhr bis 1:30 Uhr
+Nacht 15./16.10. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27977&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21107&tx_sbbconstructions_list%5Bperiod%5D=17271&type=5679&cHash=8a8a799c2d102601aea68a7bab0b9155)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27977&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21107&tx_sbbconstructions_list%5Bperiod%5D=17295&type=5679&cHash=9da516827e4a7882a4288d93d53e97b7)
 
  Zugverkehr verändert
 
 Information
 
-* Zugverkehr verändert
+* kein S-Bahnverkehr:
+  * Schönhauser Allee \<\> Bornholmer Straße
+     Bitte Umfahrung über Gesundbrunnen (mit Umstieg und Bahnsteigwechsel) oder zwischen Schönhauser Allee und Pankow bitte die U2 nutzen
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Greifswalder Straße um, die Weiterfahrt erfolgt nach 7 Minuten vom selben Gleis.
+
 * Fahrplanänderung
-* Bahnsteigänderung in Bornholmer Straße
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-9/#con-27977)
@@ -827,6 +851,30 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-griebnitzsee/#con-27946)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Westend ###
+
+Nacht 19./20.10. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28077&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21223&tx_sbbconstructions_list%5Bperiod%5D=17297&type=5679&cHash=ef9d52623936f7ae71c20818908479f9)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Hermannstraße um, die Weiterfahrt erfolgt nach 7 oder 18 Minuten (S41) bzw. nach 6 Minuten (S42) vom selben Gleis.
+
+* Taktänderung: Hermannstraße \<\> Tempelhof S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-schienenschleifen-zwischen-neukoelln-und-tempelhof/#con-28077)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -939,7 +987,7 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung/#con-27854)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 Nur Wochenende
 
@@ -954,6 +1002,8 @@ Nur Wochenende
 Information
 
 * Ersatzverkehr mit Bussen
+* Fahrplanänderung
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-9/#con-27882)
@@ -978,6 +1028,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27868)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Gesundbrunnen und der gesamte Ring ###
+
+Nacht 25./26.10. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28075&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21220&tx_sbbconstructions_list%5Bperiod%5D=17296&type=5679&cHash=5fd29a9825f535eeca985dd84ab0a0b5)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Gesundbrunnen um, die Weiterfahrt erfolgt nach 7 Minuten vom selben Gleis.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gesundbrunnen-13/#con-28075)
 
 ### Fahrplanänderungen ###
 
