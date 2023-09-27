@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Polizeieinsatz im Bereich Babelsberg ###
+
+ Letztes Update: 20:22 / 27.09.2023
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Babelsberg ist der Zugverkehr der Linie S7 zwischen Griebnitzsee und Potsdam Hbf unterbrochen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert
+
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur am Signal in Teltow Stadt ###
