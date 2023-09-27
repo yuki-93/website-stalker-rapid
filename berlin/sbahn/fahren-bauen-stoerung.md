@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Zug in Wittenau beendet ###
+
+ Letztes Update: 16:49 / 27.09.2023
+
+Information
+
+Nach der Reparatur an einem Zug in Wittenau kommt es auf den Linie S1 und S26 noch zu Verspätungen und Ausfällen.
+
+Die Linie S26 verkehrt nur zwischen Lichterfelde Süd \<\> Teltow Stadt.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an einem Signal in Beusselstraße ###
@@ -61,36 +77,6 @@ Haltestellen des Ersatzverkehrs
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an der Strecke im Bereich Mehrower Allee ###
-
- Letztes Update: 15:05 / 27.09.2023
-
-Information
-
-Wegen der Reparatur an der Strecke im Bereich Mehrower Allee kann der 10-Minuten-Takt der Linie S7 nur zwischen Friedrichsfelde Ost und Potsdam angeboten werden.
-
-Wir bittenm um Entschuldigung.
-
- sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur am Zug in Wittenau - beendet ###
-
- Letztes Update: 14:36 / 27.09.2023
-
-Information
-
-Nach der Reparatur an einem Zug in Wittenau kommt es auf den Linie S1 und S26 noch zu Verspätungen und Ausfällen.
-
-Die Linie S26 verkehrt nur zwischen Lichterfelde Süd \<\> Teltow Stadt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
