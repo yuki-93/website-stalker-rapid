@@ -56,22 +56,6 @@ Wir bitten um Entschuldigung.
 
  Ersatzverkehr
 
-[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Zug in Wittenau beendet ###
-
- Letztes Update: 16:49 / 27.09.2023
-
-Information
-
-Nach der Reparatur an einem Zug in Wittenau kommt es auf den Linie S1 und S26 noch zu Verspätungen und Ausfällen.
-
-Die Linie S26 verkehrt nur zwischen Lichterfelde Süd \<\> Teltow Stadt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an einem Signal in Beusselstraße ###
