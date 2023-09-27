@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### ärztliche Versorgung eines Fahrgastes in Neukölln beendet ###
+
+ Letztes Update: 09:54 / 27.09.2023
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur am Signal in Teltow Stadt ###
@@ -387,17 +401,22 @@ Information
 
 ### Charlottenburg – Potsdam Hbf ###
 
-02.10. (Mo) 4 Uhr bis 23.10. (Mo) 1:30 Uhr
+02.10. (Mo), ca. 4 Uhr durchgehend bis 23.10. (Mo), ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27974&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21104&tx_sbbconstructions_list%5Bperiod%5D=17268&type=5679&cHash=dbfa38b3d46bbfae3f2ee1b53b592b1d)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27974&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21104&tx_sbbconstructions_list%5Bperiod%5D=17293&type=5679&cHash=0a23e98040e361e2775d08f7f429ce7a)
 
  Zugverkehr verändert
 
 Information
 
-* Zugverkehr verändert
+* Linientausch: der Abschnitt Wannsee \<\> Potsdam Hbf wird von der S1 (anstatt der S7) bedient
+* Zugverkehr verändert:
+  * Fahrgäste der S7 steigen bitte in beiden Fahrtrichtungen in Grunewald um.
+     Die Weiterfahrt erfolgt nach 8 oder 18 Minuten (in Fahrtrichtung Wannsee) bzw. nach 8 Minuten (in Fahrtrichtung Ahrensfelde) vom selben Gleis.
+
+* Taktänderung: Grunewald \<\> Nikolassee S-Bahnverkehr nur im 20-Minutentakt
 * Fahrplanänderung
-* Bahnsteigänderung in Charlottenburg, Westkreuz, Grunewald
+* Bahnsteigänderung
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-grunewald/#con-27974)
@@ -686,16 +705,17 @@ Information
 
 ### Mahlsdorf/Ahrensfelde – Westkreuz ###
 
-Nacht 12./13.09. (Do/Fr) 22:45 Uhr bis 1:30 Uhr
+Nacht 12./13.10. (Do/Fr), ca. 22.45 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27980&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21110&tx_sbbconstructions_list%5Bperiod%5D=17274&type=5679&cHash=5f547754ea1a8c8b6bec01d43f07e04b)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27980&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21110&tx_sbbconstructions_list%5Bperiod%5D=17292&type=5679&cHash=c6f1f17369984f9bb01c2be1ed72f54d)
 
  Zugverkehr verändert
 
 Information
 
+* Taktänderung: Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
 * Fahrplanänderung
-* Bahnsteigänderung in Wuhletal, Biesdorf und Mahlsdorf
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-am-biesdorfer-kreuz/#con-27980)
@@ -931,6 +951,8 @@ Information
 
 * Ersatzverkehr mit Bussen
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-9/#con-27882)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
