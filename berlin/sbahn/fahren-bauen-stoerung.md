@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Ärztliche Versorgung eines Fahrgastes in Halensee beendet ###
-
- Letztes Update: 22:12 / 28.09.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Halensee kommt es auf den Linien S41 und S42 derzeit noch zu Verspätungen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
