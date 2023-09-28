@@ -4,24 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur am Signal in Teltow Stadt ###
-
- Letztes Update: 05:20 / 28.09.2023
-
-Information
-
-Wegen einer Reparatur am Signal in Teltow Stadt kommt es auf den Linien S25 und S26 zu folgenden Einschränkungen:
-
-* Die Linie S25 verkehrt nur zwischen Hennigsdorf und Lichterfelde Süd.
-* Die Linie S26 verkehrt nur zwischen Nordbahnhof und Lichterfelde Süd.
-* Zwischen Lichterfelde Süd und Teltow Stadt verkehrt ein Pendelzug.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
