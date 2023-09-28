@@ -1200,6 +1200,32 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-8/#con-28109)
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Attilastraße \<\> Südkreuz ###
+
+Nächte 13./14.11. (Mo/Di) bis 16./17.11. (Do/Fr), jeweils ca. 22.20 Uhr - 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28112&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21250&tx_sbbconstructions_list%5Bperiod%5D=17323&type=5679&cHash=a56529d656b3a0ed1c539b990f972531)
+
+Nächte 20./21.11. (Mo/Di) und 21./22.11. (Di/Mi), jeweils ca. 22.20 Uhr - 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28112&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21250&tx_sbbconstructions_list%5Bperiod%5D=17324&type=5679&cHash=b45f767b9e835beffbae0c83687c5be2)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28112&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21250&type=5679&cHash=eea3ae2a1b7bad1d9d5919070553e5f1)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen zwischen Attilastraße und Südkreuz
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-10/#con-28112)
+
 [S42](https://sbahn.berlin/fahren/s42/)
 
 Nur Wochenende
