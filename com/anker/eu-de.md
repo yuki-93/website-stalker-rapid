@@ -42,6 +42,8 @@ für die beste Ladelösung
 
 Mehr Power tanken. Mehr sparen.
 
+Mehr bestellen, mehr sparen! Mit bis zu 30% Rabatt auf alle Artikel.
+
 [Zum AngebotmasterBanner4](https://www.anker.com/eu-de/herbst-sale-chg?ref=masterBanner4)
 
 Das Anker-Erlebnis entdecken
