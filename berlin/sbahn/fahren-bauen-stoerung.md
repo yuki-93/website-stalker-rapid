@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### beendete Reparatur am Signal in Teltow Stadt, beendete Reparatur an einem Zug in Bornholmer Straße ###
-
- Letztes Update: 13:51 / 28.09.2023
-
-Information
-
-Nach der Reparatur an einem Signal in Teltow Stadt und nach einer Reparatur an einem Zug in Bornholmer Straße kommt es auf der Linie S26 noch vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
