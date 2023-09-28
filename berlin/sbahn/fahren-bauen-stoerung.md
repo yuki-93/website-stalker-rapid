@@ -4,25 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur am Signal in Teltow Stadt und nach Reparatur am Zug in Bornholmer Straße ###
+### beendete Reparatur am Signal in Teltow Stadt, beendete Reparatur an einem Zug in Bornholmer Straße ###
 
- Letztes Update: 11:15 / 28.09.2023
+ Letztes Update: 13:51 / 28.09.2023
 
 Information
 
-Wegen einer Reparatur am Signal in Teltow Stadt und nach Reparatur am Zug in Bornholmer Straße kommt es auf den Linien S25 und S26 zu folgenden Einschränkungen:
-
-\* Die Linie S25 verkehrt nur zwischen Hennigsdorf und Lichterfelde Süd.
-
-\* Die Linie S26 verkehrt nicht.
-
-Zwischen Lichterfelde Süd und Teltow Stadt verkehrt ein Pendelzug.
+Nach der Reparatur an einem Signal in Teltow Stadt und nach einer Reparatur an einem Zug in Bornholmer Straße kommt es auf der Linie S26 noch vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ sonstige Einschränkungen
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
