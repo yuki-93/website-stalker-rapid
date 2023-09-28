@@ -4,47 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### kurzfristige Bauarbeiten im Bereich Marzahn ###
-
- Letztes Update: 22:06 / 27.09.2023
-
-Information
-
-Wegen kurzfristiger Bauarbeiten im Bereich Marzahn ist der Zugverkehr der Linie S7 bis ca. 01:30 Uhr zwischen Springpfuhl und Ahrensfelde unterbrochen.
-
----
-
-**Zugverkehr**
-
-* **Linie S7:** verkehrt Potsdam Hauptbahnhof \<\> Wartenberg
-  * 10-Minuten-Takt zwischen Westkreuz \<\> Lichtenberg (bis ca. 23 Uhr)
-
-* **Linie S75:** verkehrt nicht, *bitte nutzen Sie zwischen Warschauer Straße und Wartenberg die Linie S7*
-
----
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Springpfuhl und Ahrensfelde eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S Springpfuhl: Allee der Kosmonauten (wie Bus 194)
-* S Poelchaustraße: Poelchaustraße (wie Bus 291)
-* S Marzahn: Marzahner Promenade (wie Bus 191, 192, 195, 291)
-* S Raoul-Wallenberg-Straße: Märkische Allee (wie Bus X54)
-* S Mehrower Allee: Märkische Allee, in Höhe Mehrower Allee
-* S Ahrensfelde: Märkische Allee (wie Bus 197, 390, N97)
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 21:42 / 27.09.2023
+ Letztes Update: 01:35 / 28.09.2023
 
 Information
 
@@ -55,20 +19,6 @@ Bitte nutzen Sie zwischen Tempelhof \<\> Südkreuz die Linien S41, S42 und S46.
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal in Teltow Stadt ###
-
- Letztes Update: 21:14 / 27.09.2023
-
-Information
-
-Wegen einer Reparatur an einem Signal in Teltow Stadt kommt es auf der Linie S25 zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -109,27 +59,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Tempelhof – Bundesplatz – Westend ###
-
-Nacht 27./28.09. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27940&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21069&tx_sbbconstructions_list%5Bperiod%5D=17250&type=5679&cHash=8e12176ee6bbaec1bae0a4a0b0dfe9fe)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Taktänderung
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-zwischen-bundesplatz-halensee/#con-27940)
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
