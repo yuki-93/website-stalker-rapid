@@ -4,39 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur am Signal in Teltow Stadt ###
+### Reparatur am Signal in Teltow Stadt und nach Reparatur am Zug in Bornholmer Straße ###
 
- Letztes Update: 09:15 / 28.09.2023
-
-Information
-
-Wegen einer Reparatur am Signal in Teltow Stadt kommt es auf den Linien S25 und S26 zu folgenden Einschränkungen:
-
-* Die Linie S25 verkehrt nur zwischen Hennigsdorf und Lichterfelde Süd.
-* Die Linie S26 verkehrt nur zwischen Nordbahnhof und Lichterfelde Süd.
-* Zwischen Lichterfelde Süd und Teltow Stadt verkehrt ein Pendelzug.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Zug in Bornholmer Straße ###
-
- Letztes Update: 08:55 / 28.09.2023
+ Letztes Update: 09:54 / 28.09.2023
 
 Information
 
-Wegen der Reparatur am Zug in Bornholmer Straße kommt es auf den Linien S2, S26, S8 und S85 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur am Signal in Teltow Stadt und nach Reparatur am Zug in Bornholmer Straße kommt es auf den Linien S25 und S26 zu folgenden Einschränkungen:
 
-\* Linie S2 verkehrt Blankenfelde/Lichtenrade \<\> Nordbahnhof sowie Blankenburg \<\> Bernau.
+\* Die Linie S25 verkehrt nur zwischen Hennigsdorf und Lichterfelde Süd.
 
-\* Linie S8 verkehrt Grünau \<\> Treptower Park sowie Blankenburg \<\> Birkenwerder.
+\* Die Linie S26 verkehrt nicht.
 
-\* Linie S85 verkehrt Grünau \<\> Treptower Park.
+Zwischen Lichterfelde Süd und Teltow Stadt verkehrt ein Pendelzug.
+
+Auf den Linien S2, S8 und S85 kann es noch zu Verspätungen und Ausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
@@ -864,6 +848,28 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-griebnitzsee/#con-27946)
 
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Ahrensfelde/Wartenberg \<\> Springpfuhl ###
+
+Nacht 16./17.10. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28098&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21241&tx_sbbconstructions_list%5Bperiod%5D=17313&type=5679&cHash=3f867cebd6552263b57c0265a8d7a9b1)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderungen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-6e2a963d7c/#con-28098)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
@@ -915,6 +921,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleisarbeiten-zwischen-schoenhauser-allee-und-gesundbrunnen/#con-28087)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### (Köllnische Heide) Halensee \<\> Westend ###
+
+19.10. (Do), ca. 4 Uhr durchgehend bis 03.11. (Fr), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28096&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21239&tx_sbbconstructions_list%5Bperiod%5D=17310&type=5679&cHash=82149bcce2312e279c175358ea6183c4)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr der S-Bahnlinie S46 verändert
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung-in-westend/#con-28096)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
