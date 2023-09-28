@@ -18,7 +18,7 @@ Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
 [Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner1)
 
- Bester Preis
+30 Tage Bestpreisgarantie
 
 Frühstart in den Oktober Prime Day
 mit bis zu 590€ Rabatt

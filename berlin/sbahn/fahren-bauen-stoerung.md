@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Signal in Teltow Stadt ###
 
- Letztes Update: 05:20 / 28.09.2023
+ Letztes Update: 09:15 / 28.09.2023
 
 Information
 
@@ -21,6 +21,26 @@ Wegen einer Reparatur am Signal in Teltow Stadt kommt es auf den Linien S25 und 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur am Zug in Bornholmer Straße ###
+
+ Letztes Update: 08:55 / 28.09.2023
+
+Information
+
+Wegen der Reparatur am Zug in Bornholmer Straße kommt es auf den Linien S2, S26, S8 und S85 zu Verspätungen und Ausfällen.
+
+\* Linie S2 verkehrt Blankenfelde/Lichtenrade \<\> Nordbahnhof sowie Blankenburg \<\> Bernau.
+
+\* Linie S8 verkehrt Grünau \<\> Treptower Park sowie Blankenburg \<\> Birkenwerder.
+
+\* Linie S85 verkehrt Grünau \<\> Treptower Park.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
