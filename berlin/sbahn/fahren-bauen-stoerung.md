@@ -6,17 +6,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur am Zug im Bereich Plänterwald beendet und nach der Reparatur an einer Weiche in Treptower Park ###
+### Reparatur am Zug im Bereich Plänterwald und Reparatur an einer Weiche in Treptower Park beendet ###
 
- Letztes Update: 11:34 / 29.09.2023
+ Letztes Update: 13:13 / 29.09.2023
 
 Information
 
-Nach der Reparatur am Zug im Bereich Plänterwald und nach der Reparatur einer Weiche in Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
+Nach der Reparatur an einem Zug im Bereich Plänterwald und der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S42 und S85 noch zu Verspätungen und folgenden Einschränkungen:
 
-\* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
-\* Die Linie S85 verkehrt nicht.
+* Die Linie S42 verkehrt nur im 10-Minuten-Takt.
+* Die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
