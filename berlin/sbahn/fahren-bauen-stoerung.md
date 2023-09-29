@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Zug im Bereich Plänterwald und Reparatur an einer Weiche in Treptower Park beendet ###
-
- Letztes Update: 14:00 / 29.09.2023
-
-Information
-
-Nach der Reparatur an einem Zug im Bereich Plänterwald und der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S42 und S85 noch zu Verspätungen und folgenden Einschränkungen:
-
-* Die Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
