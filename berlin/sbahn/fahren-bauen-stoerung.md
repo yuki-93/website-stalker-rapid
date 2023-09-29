@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur am Signal in Ostkreuz ###
+### Reparatur am Zug im Bereich Plänterwald ###
 
- Letztes Update: 06:27 / 29.09.2023
+ Letztes Update: 10:21 / 29.09.2023
 
 Information
 
-Wegen der Reparatur am Signal in Ostkreuz kommt es auf den Linien S42, S8 und S85 zu Verspätungen und Ausfällen.
-
-\* Die Linie S85 verkehrt nicht. Fahrgäste benutzen bitte zwischen Grünau und Pankow die Linie S8.
+Wegen der Reparatur am Zug im Bereich Plänterwald kommt es auf den Linien S8, S85 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
