@@ -8,13 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Zug im Bereich Plänterwald und Reparatur an einer Weiche in Treptower Park beendet ###
 
- Letztes Update: 13:13 / 29.09.2023
+ Letztes Update: 14:00 / 29.09.2023
 
 Information
 
-Nach der Reparatur an einem Zug im Bereich Plänterwald und der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S42 und S85 noch zu Verspätungen und folgenden Einschränkungen:
+Nach der Reparatur an einem Zug im Bereich Plänterwald und der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S42 und S85 noch zu Verspätungen und folgenden Einschränkungen:
 
-* Die Linie S42 verkehrt nur im 10-Minuten-Takt.
 * Die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
