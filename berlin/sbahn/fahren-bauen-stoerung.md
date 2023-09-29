@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Signal in Ostkreuz ###
 
- Letztes Update: 06:12 / 29.09.2023
+ Letztes Update: 06:27 / 29.09.2023
 
 Information
 
 Wegen der Reparatur am Signal in Ostkreuz kommt es auf den Linien S42, S8 und S85 zu Verspätungen und Ausfällen.
 
-\* Die Linie S85 verkehrt nicht.
+\* Die Linie S85 verkehrt nicht. Fahrgäste benutzen bitte zwischen Grünau und Pankow die Linie S8.
 
 Wir bitten um Entschuldigung.
 
@@ -116,9 +116,11 @@ Nur Wochenende
 Information
 
 * Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+  * S42 befährt den gesamten Ring (im 10-Minutentakt, Sa+So 12 bis 20 Uhr im 5-/5-/10-Minutentakt)
+    * In Ostkreuz fährt die S42 1 Minute früher ab.
+    * Die Sa+So von 12 bis 20 Uhr den 5-/5-/10-Minutentakt bildenden Züge fahren auf dem gesamten Ring um 10 Minuten versetzt.
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-8/#con-27913)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -253,9 +255,11 @@ Nur Wochenende
 Information
 
 * Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+  * S42 befährt den gesamten Ring (im 10-Minutentakt, Sa+So 12 bis 20 Uhr im 5-/5-/10-Minutentakt)
+    * In Ostkreuz fährt die S42 1 Minute früher ab.
+    * Die Sa+So von 12 bis 20 Uhr den 5-/5-/10-Minutentakt bildenden Züge fahren auf dem gesamten Ring um 10 Minuten versetzt.
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-8/#con-27913)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -712,9 +716,11 @@ Nur Wochenende
 Information
 
 * Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+  * S42 befährt den gesamten Ring (im 10-Minutentakt, Sa+So 12 bis 20 Uhr im 5-/5-/10-Minutentakt)
+    * In Ostkreuz fährt die S42 1 Minute früher ab.
+    * Die Sa+So von 12 bis 20 Uhr den 5-/5-/10-Minutentakt bildenden Züge fahren auf dem gesamten Ring um 10 Minuten versetzt.
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-8/#con-27913)
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 ### Fahrplanänderungen ###
 
