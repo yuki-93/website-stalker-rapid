@@ -22,6 +22,55 @@ Wir bitten um Entschuldigung.
 
 ### Baumaßnahmen ###
 
+[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Flughafen BER – Terminal 1-2 \<\> Baumschulenweg \<\> Treptower Park/Spandau ###
+
+30.09. (Sa), ca. 7 Uhr durchgehend bis 2.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27852&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20976&tx_sbbconstructions_list%5Bperiod%5D=17201&type=5679&cHash=79ae1f4b371356389f0a0a683d9a1c38)
+
+ Ersatzverkehr
+
+Information
+
+* kein Zugverkehr:
+  * Baumschulenweg \<\> Treptower Park
+
+* Ersatzverkehr mit Bussen:
+  * Bus S9: Baumschulenweg \<\> Treptower Park
+
+* Taktänderung:
+  * Flughafen BER – Terminal 1-2 \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-8/#con-27852)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+Nur Wochenende
+
+### Gesundbrunnen – Frohnau/Tegel ###
+
+30.09. (Sa) und 01.10. (So) jeweils 7 Uhr bis 16 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27932&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21061&tx_sbbconstructions_list%5Bperiod%5D=17242&type=5679&cHash=b4034317b1c41527ab16c60443c00c21)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Taktänderung
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-mit-seilklettertechnik/#con-27932)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -198,32 +247,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bahnuebergangsarbeiten-bauzustandswechsel/#con-27808)
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-Nur Wochenende
-
-### Altglienicke/Grünau/Spindlersfeld – Treptower Park – Warschauer Straße ###
-
-29.09. (Fr), ca. 22.00 Uhr durchgehend bis 30.09. (Sa), ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27849&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20976&tx_sbbconstructions_list%5Bperiod%5D=17200&type=5679&cHash=8bb7d2d60d620d93d4c5961cb58c65b5)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S46: Grünau \<\> Baumschulenweg
-  * Bus S47: Spindlersfeld \<\> Baumschulenweg
-  * Bus S9A: Grünau \<\> Treptower Park
-
-* Pendelverkehr: Altglienicke \<\> Adlershof
-* Taktänderung: Flughafen BER – Terminal 5 \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt
-* Bahnsteigänderung in Grünau und Baumschulenweg
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-8/#con-27849)
-
 [S42](https://sbahn.berlin/fahren/s42/)
 
 Nur Wochenende
@@ -315,27 +338,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-8/#con-27852)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-Nur Wochenende
-
-### Gesundbrunnen – Frohnau/Tegel ###
-
-30.09. (Sa) und 01.10. (So) jeweils 7 Uhr bis 16 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27932&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21061&tx_sbbconstructions_list%5Bperiod%5D=17242&type=5679&cHash=b4034317b1c41527ab16c60443c00c21)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Taktänderung
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-mit-seilklettertechnik/#con-27932)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
@@ -685,6 +687,52 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schweissarbeiten-in-bundesplatz/#con-28078)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Frankfurter Allee – Greifswalder Straße – Bornholmer Straße ###
+
+Nacht 15./16.10. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27977&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21107&tx_sbbconstructions_list%5Bperiod%5D=17295&type=5679&cHash=9da516827e4a7882a4288d93d53e97b7)
+
+ Zugverkehr verändert
+
+Information
+
+* kein S-Bahnverkehr:
+  * Schönhauser Allee \<\> Bornholmer Straße
+     Bitte Umfahrung über Gesundbrunnen (mit Umstieg und Bahnsteigwechsel) oder zwischen Schönhauser Allee und Pankow bitte die U2 nutzen
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Greifswalder Straße um, die Weiterfahrt erfolgt nach 7 Minuten vom selben Gleis.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-9/#con-27977)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Potsdam Hbf \<\> Wannsee ###
+
+Nacht 15./16.10. (So/Mo) 23 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27946&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21076&tx_sbbconstructions_list%5Bperiod%5D=17255&type=5679&cHash=caf73a22b22edaeef6eff3f0c5f2ec64)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-griebnitzsee/#con-27946)
+
 [S42](https://sbahn.berlin/fahren/s42/)
 
 Nur Wochenende
@@ -750,52 +798,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Frankfurter Allee – Greifswalder Straße – Bornholmer Straße ###
-
-Nacht 15./16.10. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27977&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21107&tx_sbbconstructions_list%5Bperiod%5D=17295&type=5679&cHash=9da516827e4a7882a4288d93d53e97b7)
-
- Zugverkehr verändert
-
-Information
-
-* kein S-Bahnverkehr:
-  * Schönhauser Allee \<\> Bornholmer Straße
-     Bitte Umfahrung über Gesundbrunnen (mit Umstieg und Bahnsteigwechsel) oder zwischen Schönhauser Allee und Pankow bitte die U2 nutzen
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Greifswalder Straße um, die Weiterfahrt erfolgt nach 7 Minuten vom selben Gleis.
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-9/#con-27977)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Potsdam Hbf \<\> Wannsee ###
-
-Nacht 15./16.10. (So/Mo) 23 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27946&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21076&tx_sbbconstructions_list%5Bperiod%5D=17255&type=5679&cHash=caf73a22b22edaeef6eff3f0c5f2ec64)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-griebnitzsee/#con-27946)
 
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
