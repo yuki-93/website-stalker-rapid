@@ -4,53 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz in Hennigsdorf ###
-
- Letztes Update: 11:10 / 30.09.2023
-
-Information
-
-Wegen eines Polizeieinsatzes in Hennigsdorf verkehrt die Linie S25 nur Teltow Stadt \<\> Heiligensee.
-
-Wir bitten um Verständnis
-
- fährt nicht  Verbindung unterbrochen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsatz in Neuenhagen beendet ###
-
- Letztes Update: 11:00 / 30.09.2023
-
-Information
-
-Nach einem Polizeieinsatz in Neuenhagen verkehrt die Linie S5 zwischen Strausberg Nord und Westkreuz **ohne Verkehrshalt in Neuenhagen.**
-
-Es besteht ein Ersatzverkehr mit Bussen zwischen Fredersdorf und Hoppegarten.
-
-***Die Haltstellen des Ersatzverkehrs befinden sich in :***
-
-* Hoppegarten : Bahnhofstraße (Haltestelle Bus 940, 942, 943, 944, 945)
-* Neuenhagen: Eisenbahnstr. (Haltestelle Bus 940)
-* Fredersdorf: südlicher Bahnhofsvorplatz (Haltestelle Bus 933, 949, 951)
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 20:40 / 29.09.2023
+ Letztes Update: 12:00 / 30.09.2023
 
 Information
 
 Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen - BER Terminal 1-2 \<\> Tempelhof.
 
-Bitte nutzen Sie zwischen Tempelhof \<\> Südkreuz die Linien S41, S42 und S46.
+Die Linie S46 verkehrt nur zwischen Königs Wusterhausen und Hermannstraße.
+
+Bitte nutzen Sie zwischen Hermannstraße / Tempelhof \<\> Südkreuz die Linien S41 und S42.
 
 Wir bitten um Entschuldigung.
 
