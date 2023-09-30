@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz in Neuenhagen ###
+### Polizeieinsatz in Hennigsdorf ###
 
- Letztes Update: 10:13 / 30.09.2023
+ Letztes Update: 11:10 / 30.09.2023
 
 Information
 
-Wegen eines Polizeieinsatzes in Neuenhagen verkehrt die Linie S5 derzeit zwischen Strausberg Nord \<\> Fredersdorf, sowie Hoppegarten \<\> Warschauer Straße.
+Wegen eines Polizeieinsatzes in Hennigsdorf verkehrt die Linie S25 nur Teltow Stadt \<\> Heiligensee.
+
+Wir bitten um Verständnis
+
+ fährt nicht  Verbindung unterbrochen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Polizeieinsatz in Neuenhagen beendet ###
+
+ Letztes Update: 11:00 / 30.09.2023
+
+Information
+
+Nach einem Polizeieinsatz in Neuenhagen verkehrt die Linie S5 zwischen Strausberg Nord und Westkreuz **ohne Verkehrshalt in Neuenhagen.**
 
 Es besteht ein Ersatzverkehr mit Bussen zwischen Fredersdorf und Hoppegarten.
 
@@ -24,7 +38,7 @@ Es besteht ein Ersatzverkehr mit Bussen zwischen Fredersdorf und Hoppegarten.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  sonstige Einschränkungen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
