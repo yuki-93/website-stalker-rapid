@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Polizeieinsatz in Neuenhagen ###
+
+ Letztes Update: 03:45 / 30.09.2023
+
+Information
+
+Wegen eines Polizeieinsatzes in Neuenhagen ist die Linie S5 derzeit zwischen Fredersdorf \<\> Hoppegarten unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
