@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Neuenhagen ###
 
- Letztes Update: 03:45 / 30.09.2023
+ Letztes Update: 04:25 / 30.09.2023
 
 Information
 
-Wegen eines Polizeieinsatzes in Neuenhagen ist die Linie S5 derzeit zwischen Fredersdorf \<\> Hoppegarten unterbrochen.
+Wegen eines Polizeieinsatzes in Neuenhagen verkehrt die Linie S5 derzeit zwischen Strausberg Nord \<\> Fredersdorf, sowie Hoppegarten \<\> Warschauer Straße.
 
 Wir bitten um Ihr Verständnis.
 
