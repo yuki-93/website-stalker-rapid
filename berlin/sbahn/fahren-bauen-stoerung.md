@@ -8,15 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Neuenhagen ###
 
- Letztes Update: 04:25 / 30.09.2023
+ Letztes Update: 10:13 / 30.09.2023
 
 Information
 
 Wegen eines Polizeieinsatzes in Neuenhagen verkehrt die Linie S5 derzeit zwischen Strausberg Nord \<\> Fredersdorf, sowie Hoppegarten \<\> Warschauer Straße.
 
+Es besteht ein Ersatzverkehr mit Bussen zwischen Fredersdorf und Hoppegarten.
+
+***Die Haltstellen des Ersatzverkehrs befinden sich in :***
+
+* Hoppegarten : Bahnhofstraße (Haltestelle Bus 940, 942, 943, 944, 945)
+* Neuenhagen: Eisenbahnstr. (Haltestelle Bus 940)
+* Fredersdorf: südlicher Bahnhofsvorplatz (Haltestelle Bus 933, 949, 951)
+
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ fährt nicht  sonstige Einschränkungen
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
