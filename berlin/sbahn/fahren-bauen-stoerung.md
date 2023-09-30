@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einer Weiche in Südkreuz ###
-
- Letztes Update: 12:00 / 30.09.2023
-
-Information
-
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen - BER Terminal 1-2 \<\> Tempelhof.
-
-Die Linie S46 verkehrt nur zwischen Königs Wusterhausen und Hermannstraße.
-
-Bitte nutzen Sie zwischen Hermannstraße / Tempelhof \<\> Südkreuz die Linien S41 und S42.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
