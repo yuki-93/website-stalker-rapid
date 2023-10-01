@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur an einer Weiche in Südkreuz ###
+### Reparatur an der Strecke Stresow ###
 
- Letztes Update: 07:18 / 01.10.2023
+ Letztes Update: 12:05 / 01.10.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen - BER Terminal 1-2 \<\> Tempelhof.
-
-*Bitte nutzen Sie zwischen Tempelhof \<\> Südkreuz die Linien S41, S42 und S46.*
+Wegen einer Reparatur an der Strecke in Stresow kann der 10-Minutentakt auf der Linie S3 nur zwischen Erkner und Pichelsberg angeboten werden.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
