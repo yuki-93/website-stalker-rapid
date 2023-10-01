@@ -2,6 +2,52 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Lichterfelde Süd ###
+
+ Letztes Update: 20:12 / 01.10.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Lichterfelde Süd kommt es auf den Linien S25 und S26 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschguldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz in Jungfernheide beendet ###
+
+ Letztes Update: 19:47 / 01.10.2023
+
+Information
+
+Nach einem Polizeieinsatz in Jungfernheide kommt es auf den Linien S41 und S42 noch zu Verspätungen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Reparatur an einer Weiche in Südkreuz ###
+
+ Letztes Update: 07:18 / 01.10.2023
+
+Information
+
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen - BER Terminal 1-2 \<\> Tempelhof.
+
+*Bitte nutzen Sie zwischen Tempelhof \<\> Südkreuz die Linien S41, S42 und S46.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
