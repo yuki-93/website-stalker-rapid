@@ -101,6 +101,30 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bahnuebergangsarbeiten-bauzustandswechsel/#con-27808)
 
+[S1](https://sbahn.berlin/fahren/s1/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Charlottenburg – Potsdam Hbf ###
+
+02.10. (Mo), ca. 4 Uhr durchgehend bis 23.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27974&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21104&tx_sbbconstructions_list%5Bperiod%5D=17293&type=5679&cHash=0a23e98040e361e2775d08f7f429ce7a)
+
+ Zugverkehr verändert
+
+Information
+
+* Linientausch: der Abschnitt Wannsee \<\> Potsdam Hbf wird von der S1 (anstatt der S7) bedient
+* Zugverkehr verändert:
+  * Fahrgäste der S7 steigen bitte in beiden Fahrtrichtungen in Grunewald um.
+     Die Weiterfahrt erfolgt nach 8 oder 18 Minuten (in Fahrtrichtung Wannsee) bzw. nach 8 Minuten (in Fahrtrichtung Ahrensfelde) vom selben Gleis.
+
+* Taktänderung: Grunewald \<\> Nikolassee S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-grunewald/#con-27974)
+
 [S42](https://sbahn.berlin/fahren/s42/)
 
 Nur Wochenende
@@ -127,34 +151,6 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-Nur Wochenende
-
-### Flughafen BER – Terminal 1-2 \<\> Baumschulenweg \<\> Treptower Park/Spandau ###
-
-30.09. (Sa), ca. 7 Uhr durchgehend bis 2.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27852&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20976&tx_sbbconstructions_list%5Bperiod%5D=17201&type=5679&cHash=79ae1f4b371356389f0a0a683d9a1c38)
-
- Ersatzverkehr
-
-Information
-
-* kein Zugverkehr:
-  * Baumschulenweg \<\> Treptower Park
-
-* Ersatzverkehr mit Bussen:
-  * Bus S9: Baumschulenweg \<\> Treptower Park
-
-* Taktänderung:
-  * Flughafen BER – Terminal 1-2 \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-8/#con-27852)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -217,26 +213,30 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-grunewald/#con-27974)
 
-[S42](https://sbahn.berlin/fahren/s42/)
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
-Nur Wochenende
+ Nur Nachts
 
-### Auswirkungen der Bauarbeiten im Bereich Treptower Park ###
+### Flughafen BER – Terminal 5/Altglienicke \<\> Adlershof ###
 
-29.09 (Fr) 22 Uhr bis 02.10. (Mo) 1:30 Uhr
+Nacht 03./04.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27913&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20976&tx_sbbconstructions_list%5Bperiod%5D=17223&type=5679&cHash=3f5f54d16abd2dd7ce88dd72864a12be)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27853&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20979&tx_sbbconstructions_list%5Bperiod%5D=17202&type=5679&cHash=a92016e9203441cb3f28d2e10b9c8432)
 
- Zugverkehr verändert
+ Ersatzverkehr
 
 Information
 
-* Fahrplanänderung
-  * S42 befährt den gesamten Ring (im 10-Minutentakt, Sa+So 12 bis 20 Uhr im 5-/5-/10-Minutentakt)
-    * In Ostkreuz fährt die S42 1 Minute früher ab.
-    * Die Sa+So von 12 bis 20 Uhr den 5-/5-/10-Minutentakt bildenden Züge fahren auf dem gesamten Ring um 10 Minuten versetzt.
+* kein Zugverkehr zwischen Altglienicke und Adlershof
+* Ersatzverkehr mit Bussen:
+  * Bus S9: Grünbergallee \<\> Grünau
 
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
+* Taktänderung:
+  * Flughafen BER - Terminal 5 \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-altglienicke/#con-27853)
 
 Hinweis
 
@@ -697,6 +697,56 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-6e2a963d7c/#con-28098)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Greifswalder Straße ###
+
+Nacht 17./18.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28086&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21232&tx_sbbconstructions_list%5Bperiod%5D=17301&type=5679&cHash=acdb4fc442924726c7180418bc46260e)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Frankfurter Allee um, die Weiterfahrt erfolgt nach 7 Minuten (S41) bzw. nach 9 oder 17 Minuten (S42) vom selben Gleis.
+
+* Taktänderung:
+  * Frankfurter Allee \<\> Gesundbrunnen S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-ostkreuz-landsberger-allee/#con-28086)
+
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Ahrensfelde/Wartenberg \<\> Warschauer Straße ###
+
+Nächte 17./18.10. (Di/Mi) und 18./19.10. (Mi/Do), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28101&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21245&tx_sbbconstructions_list%5Bperiod%5D=17316&type=5679&cHash=26eb29d5fc9f915458a8270d8d3126db)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S7 steigen bitte in beiden Fahrtrichtungen in Marzahn um, die Weiterfahrt erfolgt nach 11 Minuten (in Fahrtrichtung Ahrensfelde) bzw. nach 18 Minuten (in Fahrtrichtung Grunewald) vom selben Gleis.
+
+* Taktänderung:
+  * Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderungen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-marzahn/#con-28101)
+
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -741,31 +791,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Ostkreuz \<\> Greifswalder Straße ###
-
-Nacht 17./18.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28086&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21232&tx_sbbconstructions_list%5Bperiod%5D=17301&type=5679&cHash=acdb4fc442924726c7180418bc46260e)
-
- Takt geändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Frankfurter Allee um, die Weiterfahrt erfolgt nach 7 Minuten (S41) bzw. nach 9 oder 17 Minuten (S42) vom selben Gleis.
-
-* Taktänderung:
-  * Frankfurter Allee \<\> Gesundbrunnen S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-zwischen-ostkreuz-landsberger-allee/#con-28086)
 
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
