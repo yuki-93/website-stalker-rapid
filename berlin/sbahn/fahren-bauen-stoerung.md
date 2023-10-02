@@ -20,20 +20,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal in Lichterfelde Süd ###
-
- Letztes Update: 01:43 / 02.10.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Lichterfelde Süd kommt es auf der Linie S25 zu Verspätungen.
-
-Wir bitten um Entschguldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
