@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke im Bereich Griebnitzsee ###
 
- Letztes Update: 10:21 / 02.10.2023
+ Letztes Update: 11:17 / 02.10.2023
 
 Information
 
