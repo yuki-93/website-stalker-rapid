@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einer Weiche in Hohen Neuendorf ###
+
+ Letztes Update: 16:20 / 02.10.2023
+
+Information
+
+Wegen einer Reparatur an einer Weiche in Hohen Neuendorf ist der Zugverkehr der Linie S1 zwischen Hohen Neuendorf und Birkenwerder und der Linie S8 zwischen Schönfließ und Birkenwerder unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
@@ -19,20 +33,6 @@ Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwi
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Treptower Park beendet ###
-
- Letztes Update: 12:49 / 02.10.2023
-
-Information
-
-Nach einem Polizeieinsatz in Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
 
 ### Baumaßnahmen ###
 
