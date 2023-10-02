@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einer Weiche in Birkenwerder ###
+### Reparatur an einer Weiche in Birkenwerder behoben ###
 
- Letztes Update: 05:47 / 02.10.2023
+ Letztes Update: 07:18 / 02.10.2023
 
 Information
 
-Wegen Reparatur an einer Weiche in Birkenwerder kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+Nach einer Reparatur an einer Weiche in Birkenwerder kommt es auf der Linie S1 noch zu einzelnen Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
