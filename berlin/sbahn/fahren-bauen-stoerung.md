@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Notarzteinsatz auf der Strecke im Bereich Griebnitzsee ###
+
+ Letztes Update: 10:21 / 02.10.2023
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke (Fernbahn) im Bereich Griebnitzsee kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+
+Der 10-Minuten-Takt kann nur zwischen Frohnau und Wannsee angeboten werden.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
