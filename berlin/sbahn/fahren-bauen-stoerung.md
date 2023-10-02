@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einer Weiche in Birkenwerder behoben ###
-
- Letztes Update: 07:18 / 02.10.2023
-
-Information
-
-Nach einer Reparatur an einer Weiche in Birkenwerder kommt es auf der Linie S1 noch zu einzelnen Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
