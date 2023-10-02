@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einer Weiche in Hohen Neuendorf beendet ###
-
- Letztes Update: 17:15 / 02.10.2023
-
-Information
-
-Nach einer Reparatur an einer Weiche in Hohen Neuendorf kommt es auf den Linien S1 und S8 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 16:21 / 02.10.2023
+ Letztes Update: 17:31 / 02.10.2023
 
 Information
 
