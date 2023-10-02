@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Notarzteinsatz auf der Strecke im Bereich Griebnitzsee beendet ###
+### Polizeieinsatz in Treptower Park beendet ###
 
- Letztes Update: 12:10 / 02.10.2023
+ Letztes Update: 12:49 / 02.10.2023
 
 Information
 
-Nach einem Notarzteinsatzes auf der Strecke (Fernbahn) im Bereich Griebnitzsee kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz in Treptower Park kommt es auf den Linien S41, S42, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
