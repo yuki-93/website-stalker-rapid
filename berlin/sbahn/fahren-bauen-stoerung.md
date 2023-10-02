@@ -6,23 +6,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einer Weiche in Hohen Neuendorf ###
+### Reparatur an einer Weiche in Hohen Neuendorf beendet ###
 
- Letztes Update: 16:20 / 02.10.2023
+ Letztes Update: 17:15 / 02.10.2023
 
 Information
 
-Wegen einer Reparatur an einer Weiche in Hohen Neuendorf ist der Zugverkehr der Linie S1 zwischen Hohen Neuendorf und Birkenwerder und der Linie S8 zwischen Schönfließ und Birkenwerder unterbrochen.
+Nach einer Reparatur an einer Weiche in Hohen Neuendorf kommt es auf den Linien S1 und S8 noch zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 13:17 / 02.10.2023
+ Letztes Update: 16:21 / 02.10.2023
 
 Information
 
