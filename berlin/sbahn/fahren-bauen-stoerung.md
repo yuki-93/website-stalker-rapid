@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einer Weiche in Birkenwerder ###
+
+ Letztes Update: 05:47 / 02.10.2023
+
+Information
+
+Wegen Reparatur an einer Weiche in Birkenwerder kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
@@ -19,20 +33,6 @@ Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwi
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal in Lichterfelde Süd ###
-
- Letztes Update: 01:43 / 02.10.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Lichterfelde Süd kommt es auf der Linie S25 zu Verspätungen.
-
-Wir bitten um Entschguldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
