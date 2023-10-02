@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einem Signal in Lichterfelde Süd ###
-
- Letztes Update: 22:52 / 01.10.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Lichterfelde Süd kommt es auf der Linie S25 zu Verspätungen.
-
-Wir bitten um Entschguldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 07:18 / 01.10.2023
+ Letztes Update: 01:43 / 02.10.2023
 
 Information
 
@@ -34,35 +20,21 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-### Baumaßnahmen ###
+[S25](https://sbahn.berlin/fahren/s25/)
 
-[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+### Reparatur an einem Signal in Lichterfelde Süd ###
 
-Nur Wochenende
-
-### Flughafen BER – Terminal 1-2 \<\> Baumschulenweg \<\> Treptower Park/Spandau ###
-
-30.09. (Sa), ca. 7 Uhr durchgehend bis 2.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27852&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20976&tx_sbbconstructions_list%5Bperiod%5D=17201&type=5679&cHash=79ae1f4b371356389f0a0a683d9a1c38)
-
- Ersatzverkehr
+ Letztes Update: 01:43 / 02.10.2023
 
 Information
 
-* kein Zugverkehr:
-  * Baumschulenweg \<\> Treptower Park
+Wegen der Reparatur an einem Signal in Lichterfelde Süd kommt es auf der Linie S25 zu Verspätungen.
 
-* Ersatzverkehr mit Bussen:
-  * Bus S9: Baumschulenweg \<\> Treptower Park
+Wir bitten um Entschguldigung.
 
-* Taktänderung:
-  * Flughafen BER – Terminal 1-2 \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt
+ sonstige Einschränkungen  Verbindung verspätet
 
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-8/#con-27852)
+### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -124,27 +96,6 @@ Information
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-grunewald/#con-27974)
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### Auswirkungen der Bauarbeiten im Bereich Treptower Park ###
-
-29.09 (Fr) 22 Uhr bis 02.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27913&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20976&tx_sbbconstructions_list%5Bperiod%5D=17223&type=5679&cHash=3f5f54d16abd2dd7ce88dd72864a12be)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-  * S42 befährt den gesamten Ring (im 10-Minutentakt, Sa+So 12 bis 20 Uhr im 5-/5-/10-Minutentakt)
-    * In Ostkreuz fährt die S42 1 Minute früher ab.
-    * Die Sa+So von 12 bis 20 Uhr den 5-/5-/10-Minutentakt bildenden Züge fahren auf dem gesamten Ring um 10 Minuten versetzt.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
