@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Notarzteinsatz auf der Strecke im Bereich Griebnitzsee ###
+### Notarzteinsatz auf der Strecke im Bereich Griebnitzsee beendet ###
 
- Letztes Update: 11:17 / 02.10.2023
+ Letztes Update: 12:10 / 02.10.2023
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke (Fernbahn) im Bereich Griebnitzsee kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
-
-Der 10-Minuten-Takt kann nur zwischen Frohnau und Wannsee angeboten werden.
+Nach einem Notarzteinsatzes auf der Strecke (Fernbahn) im Bereich Griebnitzsee kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
