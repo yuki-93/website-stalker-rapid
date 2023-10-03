@@ -108,98 +108,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-altglienicke/#con-27853)
 
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gehrenseestraße ###
-
-19.06. (Mo) 4 Uhr bis 08.12. (Fr) 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16986&type=5679&cHash=c20df51cc9cacfaba516395f041fa5cb)
-
- Zugverkehr verändert
-
-Information
-
-* kein Halt in Gehrenseestraße
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Blankenfelde \<\> Lichtenrade ###
-
-29.09. (Fr), ca. 22 Uhr durchgehend bis 08.10. (So), ca. 12 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27808&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20930&tx_sbbconstructions_list%5Bperiod%5D=17216&type=5679&cHash=a0c131c374e732cbda5815c2fb193d3e)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S2: Blankenfelde \<\> Lichtenrade
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bahnuebergangsarbeiten-bauzustandswechsel/#con-27808)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Charlottenburg – Potsdam Hbf ###
-
-02.10. (Mo), ca. 4 Uhr durchgehend bis 23.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27974&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21104&tx_sbbconstructions_list%5Bperiod%5D=17293&type=5679&cHash=0a23e98040e361e2775d08f7f429ce7a)
-
- Zugverkehr verändert
-
-Information
-
-* Linientausch: der Abschnitt Wannsee \<\> Potsdam Hbf wird von der S1 (anstatt der S7) bedient
-* Zugverkehr verändert:
-  * Fahrgäste der S7 steigen bitte in beiden Fahrtrichtungen in Grunewald um.
-     Die Weiterfahrt erfolgt nach 8 oder 18 Minuten (in Fahrtrichtung Wannsee) bzw. nach 8 Minuten (in Fahrtrichtung Ahrensfelde) vom selben Gleis.
-
-* Taktänderung: Grunewald \<\> Nikolassee S-Bahnverkehr nur im 20-Minutentakt
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-grunewald/#con-27974)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Flughafen BER – Terminal 5/Altglienicke \<\> Adlershof ###
-
-Nacht 03./04.10. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27853&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20979&tx_sbbconstructions_list%5Bperiod%5D=17202&type=5679&cHash=a92016e9203441cb3f28d2e10b9c8432)
-
- Ersatzverkehr
-
-Information
-
-* kein Zugverkehr zwischen Altglienicke und Adlershof
-* Ersatzverkehr mit Bussen:
-  * Bus S9: Grünbergallee \<\> Grünau
-
-* Taktänderung:
-  * Flughafen BER - Terminal 5 \<\> Altglienicke S-Bahnverkehr nur im 20-Minutentakt
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-altglienicke/#con-27853)
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
  Nur Nachts
@@ -346,6 +254,115 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-schoeneberg-6/#con-28001)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Treptower Park \<\> Baumschulenweg ###
+
+Nacht 05./06.10. (Do/Fr), ca. 21:45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27883&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21010&tx_sbbconstructions_list%5Bperiod%5D=17213&type=5679&cHash=7a60f98fac65e5ef82811a7385cf3c31)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Fahrplanänderung
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ae17c5abdc/#con-27883)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Griebnitzsee \<\> Potsdam Hbf ###
+
+Nacht 05./06.10. (Do/Fr), ca. 23 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27858&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20987&tx_sbbconstructions_list%5Bperiod%5D=17204&type=5679&cHash=9c97f366fe6c79b658410dc6e4034773)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S7 (S1): Griebnitzsee \<\> Potsdam Hbf
+     Bitte beachten Sie, dass durch andere Bauarbeiten auf dem Streckenabschnitt der S7 die Züge der S1 die Anbindung der S-Bahnhöfe zwischen (Friedrichstraße) Wannsee und Potsdam Hbf übernehmen.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-36/#con-27858)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Gehrenseestraße ###
+
+19.06. (Mo) 4 Uhr bis 08.12. (Fr) 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16986&type=5679&cHash=c20df51cc9cacfaba516395f041fa5cb)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Halt in Gehrenseestraße
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Blankenfelde \<\> Lichtenrade ###
+
+29.09. (Fr), ca. 22 Uhr durchgehend bis 08.10. (So), ca. 12 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27808&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20930&tx_sbbconstructions_list%5Bperiod%5D=17216&type=5679&cHash=a0c131c374e732cbda5815c2fb193d3e)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S2: Blankenfelde \<\> Lichtenrade
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bahnuebergangsarbeiten-bauzustandswechsel/#con-27808)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Charlottenburg – Potsdam Hbf ###
+
+02.10. (Mo), ca. 4 Uhr durchgehend bis 23.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27974&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21104&tx_sbbconstructions_list%5Bperiod%5D=17293&type=5679&cHash=0a23e98040e361e2775d08f7f429ce7a)
+
+ Zugverkehr verändert
+
+Information
+
+* Linientausch: der Abschnitt Wannsee \<\> Potsdam Hbf wird von der S1 (anstatt der S7) bedient
+* Zugverkehr verändert:
+  * Fahrgäste der S7 steigen bitte in beiden Fahrtrichtungen in Grunewald um.
+     Die Weiterfahrt erfolgt nach 8 oder 18 Minuten (in Fahrtrichtung Wannsee) bzw. nach 8 Minuten (in Fahrtrichtung Ahrensfelde) vom selben Gleis.
+
+* Taktänderung: Grunewald \<\> Nikolassee S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-grunewald/#con-27974)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -751,6 +768,49 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleisarbeiten-zwischen-schoenhauser-allee-und-gesundbrunnen/#con-28087)
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### (Köllnische Heide) Halensee \<\> Westend ###
+
+19.10. (Do), ca. 4 Uhr durchgehend bis 03.11. (Fr), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28096&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21239&tx_sbbconstructions_list%5Bperiod%5D=17310&type=5679&cHash=82149bcce2312e279c175358ea6183c4)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr der S-Bahnlinie S46 verändert
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung-in-westend/#con-28096)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Baumschulenweg \<\> Westend ###
+
+Nacht 19./20.10. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28077&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21223&tx_sbbconstructions_list%5Bperiod%5D=17297&type=5679&cHash=ef9d52623936f7ae71c20818908479f9)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Hermannstraße um, die Weiterfahrt erfolgt nach 7 oder 18 Minuten (S41) bzw. nach 6 Minuten (S42) vom selben Gleis.
+
+* Taktänderung: Hermannstraße \<\> Tempelhof S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-schienenschleifen-zwischen-neukoelln-und-tempelhof/#con-28077)
+
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -795,74 +855,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Ahrensfelde/Wartenberg \<\> Warschauer Straße ###
-
-Nächte 17./18.10. (Di/Mi) und 18./19.10. (Mi/Do), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28101&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21245&tx_sbbconstructions_list%5Bperiod%5D=17316&type=5679&cHash=26eb29d5fc9f915458a8270d8d3126db)
-
- Takt geändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S7 steigen bitte in beiden Fahrtrichtungen in Marzahn um, die Weiterfahrt erfolgt nach 11 Minuten (in Fahrtrichtung Ahrensfelde) bzw. nach 18 Minuten (in Fahrtrichtung Grunewald) vom selben Gleis.
-
-* Taktänderung:
-  * Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderungen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-marzahn/#con-28101)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### (Köllnische Heide) Halensee \<\> Westend ###
-
-19.10. (Do), ca. 4 Uhr durchgehend bis 03.11. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28096&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21239&tx_sbbconstructions_list%5Bperiod%5D=17310&type=5679&cHash=82149bcce2312e279c175358ea6183c4)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr der S-Bahnlinie S46 verändert
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung-in-westend/#con-28096)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Baumschulenweg \<\> Westend ###
-
-Nacht 19./20.10. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28077&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21223&tx_sbbconstructions_list%5Bperiod%5D=17297&type=5679&cHash=ef9d52623936f7ae71c20818908479f9)
-
- Takt geändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Hermannstraße um, die Weiterfahrt erfolgt nach 7 oder 18 Minuten (S41) bzw. nach 6 Minuten (S42) vom selben Gleis.
-
-* Taktänderung: Hermannstraße \<\> Tempelhof S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-schienenschleifen-zwischen-neukoelln-und-tempelhof/#con-28077)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
