@@ -985,9 +985,9 @@ Nur Wochenende
 
 ### Halensee \<\> Gesundbrunnen ###
 
-27.10. (Fr), ca. 21:45 Uhr bis 30.10. (Mo), ca. 1.30 Uhr
+27.10. (Fr), ca. 22 Uhr durchgehend bis 30.10. (Mo), ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27882&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21009&tx_sbbconstructions_list%5Bperiod%5D=17212&type=5679&cHash=dee9c3808248ba41762edd55da1d041c)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27882&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21009&tx_sbbconstructions_list%5Bperiod%5D=17299&type=5679&cHash=eb9fc1e8a8d9401b7565f73cb0f1bcac)
 
  Ersatzverkehr
 
