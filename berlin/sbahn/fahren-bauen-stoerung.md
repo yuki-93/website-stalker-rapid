@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Grünauer Kreuz ###
+### Reparatur an einem Signal in Grünauer Kreuz behoben ###
 
- Letztes Update: 14:01 / 04.10.2023
+ Letztes Update: 15:42 / 04.10.2023
 
 Information
 
-Wegen einer Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Nach einer Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
