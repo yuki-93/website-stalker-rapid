@@ -244,7 +244,14 @@ Nacht 05./06.10. (Do/Fr), ca. 21:45 Uhr - ca. 1.30 Uhr
 
 Information
 
-* Ersatzverkehr mit Bussen
+* kein S-Bahnverkehr:
+  * Treptower Park \<\> Warschauer Straße (S9-Kurve)
+     Bitte Umfahrung über Ostkreuz (mit Umstieg und Bahnsteigwechsel) nutzen
+
+* Umfahrungsmöglichkeit:
+  * Fahrgäste zwischen Baumschulenweg \<\> Treptower Park nutzen bitte die Umfahrung über Neukölln (mit Umstieg und Bahnsteigseitenwechsel).
+
+* Ersatzverkehr mit Bussen zur lokalen Anbindung des S-Bahnhof Plänterwald: Bus S9
 * Fahrplanänderung
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
@@ -353,7 +360,14 @@ Nacht 05./06.10. (Do/Fr), ca. 21:45 Uhr - ca. 1.30 Uhr
 
 Information
 
-* Ersatzverkehr mit Bussen
+* kein S-Bahnverkehr:
+  * Treptower Park \<\> Warschauer Straße (S9-Kurve)
+     Bitte Umfahrung über Ostkreuz (mit Umstieg und Bahnsteigwechsel) nutzen
+
+* Umfahrungsmöglichkeit:
+  * Fahrgäste zwischen Baumschulenweg \<\> Treptower Park nutzen bitte die Umfahrung über Neukölln (mit Umstieg und Bahnsteigseitenwechsel).
+
+* Ersatzverkehr mit Bussen zur lokalen Anbindung des S-Bahnhof Plänterwald: Bus S9
 * Fahrplanänderung
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
