@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### ärztl. Versorgung eines Fahrgastes in Hauptbahnhof beendet ###
+### Reparatur an einem Signal Grunewald ###
 
- Letztes Update: 22:58 / 05.10.2023
+ Letztes Update: 00:01 / 06.10.2023
 
 Information
 
-Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Hauptbahnhof kann es auf den Linien S3, S5 und S7 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen der Reparatur an einem Signal in Grunewald kommt es auf der Linie S7 zu Verspätungen und Zugausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
@@ -146,11 +146,61 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-36/#con-27858)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Altglienicke/Königs Wusterhausen/Spindlersfeld \<\> Baumschulenweg ###
+
+06.10. (Fr), ca. 22 Uhr durchgehend bis 9.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27862&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20991&tx_sbbconstructions_list%5Bperiod%5D=17206&type=5679&cHash=43fc31c63ed76d86b89da410cde615f7)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Adlershof \<\> Schöneweide \<\> Baumschulenweg (ExpressLinie)
+  * Bus S9A: Grünbergallee \<\> Baumschulenweg
+  * Bus S46: Königs Wusterhausen \<\> Baumschulenweg
+  * Bus S47: Spindlersfeld \<\> Baumschulenweg
+
+* Pendelverkehr
+  * Baumschulenweg \<\> Plänterwald \<\> Treptower Park jeweils im 10-Minutentakt
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-37/#con-27862)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Gesundbrunnen – Schönholz – Frohnau/Blankenburg – Birkenwerder – Oranienburg ###
+
+07.10. (Sa) 7 Uhr bis 08.10. (So) 16 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27973&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21103&tx_sbbconstructions_list%5Bperiod%5D=17267&type=5679&cHash=2439023c0c90831fa711fc907b7ce2f3)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Taktänderung
+* Bahnsteigänderung in Bornholmer Straße
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-mit-seilklettertechnik-1/#con-27973)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -212,55 +262,6 @@ Information
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-grunewald/#con-27974)
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Treptower Park \<\> Baumschulenweg ###
-
-Nacht 05./06.10. (Do/Fr), ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27883&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21010&tx_sbbconstructions_list%5Bperiod%5D=17213&type=5679&cHash=7a60f98fac65e5ef82811a7385cf3c31)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr:
-  * Treptower Park \<\> Warschauer Straße (S9-Kurve)
-     Bitte Umfahrung über Ostkreuz (mit Umstieg und Bahnsteigwechsel) nutzen
-
-* Umfahrungsmöglichkeit:
-  * Fahrgäste zwischen Baumschulenweg \<\> Treptower Park nutzen bitte die Umfahrung über Neukölln (mit Umstieg und Bahnsteigseitenwechsel).
-
-* Ersatzverkehr mit Bussen zur lokalen Anbindung des S-Bahnhof Plänterwald: Bus S9
-* Fahrplanänderung
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ae17c5abdc/#con-27883)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Griebnitzsee \<\> Potsdam Hbf ###
-
-Nacht 05./06.10. (Do/Fr), ca. 23 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27858&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20987&tx_sbbconstructions_list%5Bperiod%5D=17204&type=5679&cHash=9c97f366fe6c79b658410dc6e4034773)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S7 (S1): Griebnitzsee \<\> Potsdam Hbf
-     Bitte beachten Sie, dass durch andere Bauarbeiten auf dem Streckenabschnitt der S7 die Züge der S1 die Anbindung der S-Bahnhöfe zwischen (Friedrichstraße) Wannsee und Potsdam Hbf übernehmen.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-36/#con-27858)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -807,6 +808,48 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27864)
 
+[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### gesamter Ring ###
+
+21.10. (Sa), ca. 12 Uhr - ca. 20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&tx_sbbconstructions_list%5Bperiod%5D=17303&type=5679&cHash=ab72ddaf84f6536088c0878bbb6f004f)
+
+22.10. (So), ca. 12 Uhr - ca. 20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&tx_sbbconstructions_list%5Bperiod%5D=17304&type=5679&cHash=dcadab87780a211565c607e1cdf0d09c)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&type=5679&cHash=1d7a21f6f1ed84d11ea6b68bb125fec9)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die den 5-/5-/10-Minutentakt bildenden Züge fahren um 10 Minuten versetzt.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Waßmannsdorf ###
+
+Nacht 20./21.10. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28104&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17317&type=5679&cHash=6d54b7c4cd95702ff5d7eeaf2c507edc)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung:
+  * In Waßmannsdorf fahren die S45 und die S9 nach Flughafen BER - Terminal 1-2 von Gleis 2, Bahnsteig stadteinwärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -1249,23 +1292,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gesundbrunnen-13/#con-28075)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Waßmannsdorf ###
-
-Nacht 20./21.10. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28104&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17317&type=5679&cHash=6d54b7c4cd95702ff5d7eeaf2c507edc)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung:
-  * In Waßmannsdorf fahren die S45 und die S9 nach Flughafen BER - Terminal 1-2 von Gleis 2, Bahnsteig stadteinwärts.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
