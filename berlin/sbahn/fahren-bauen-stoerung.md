@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal Grunewald ###
-
- Letztes Update: 00:01 / 06.10.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Grunewald kommt es auf der Linie S7 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 03:24 / 05.10.2023
+ Letztes Update: 01:10 / 06.10.2023
 
 Information
 
@@ -33,6 +19,21 @@ Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwi
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Bauarbeiten Grunewald ###
+
+ Letztes Update: 00:41 / 06.10.2023
+
+Information
+
+Wegen Bauarbeiten in Grunewald ist der Zugverkehr der Linie S7 zwischen Westkreuz und Grunewald unterbrochen.
+*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
