@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### ärztl. Versorgung eines Fahrgastes in Hauptbahnhof beendet ###
+
+ Letztes Update: 22:58 / 05.10.2023
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Hauptbahnhof kann es auf den Linien S3, S5 und S7 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
