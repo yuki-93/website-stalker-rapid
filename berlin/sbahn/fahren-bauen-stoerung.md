@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an einem Zug in Marzahn ###
+### Reparatur an der Strecke in Marzahn ###
 
- Letztes Update: 09:06 / 05.10.2023
+ Letztes Update: 09:36 / 05.10.2023
 
 Information
 
-Wegen der Reparatur an einem Zug in Marzahn kommt es auf der Linie S7 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an der Strecke in Marzahn kommt es auf der Linie S7 zu Verspätungen und einzelnen Ausfällen.
 
-Zwischen Ahrensfelde und Friedrichsfelde Ost kann nur ein 20-Minuten-Takt angeboten werden.
+Zwischen Ahrensfelde und Springpfuhl kann nur ein 40-Minuten-Takt angeboten werden.
+
+Die Linie S75 verkehrt im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung
 
@@ -1385,6 +1387,12 @@ Information
 24.10. (Di) bis 26.10. (Do), jeweils 1:53 Uhr bis 1:55 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28164&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21297&tx_sbbconstructions_list%5Bperiod%5D=17360&type=5679&cHash=26537e951f8b7d45e2d22fd0fcdc1b12)
+
+27.10. (Fr) 1:53 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28164&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21297&tx_sbbconstructions_list%5Bperiod%5D=17366&type=5679&cHash=306462b3bc29345e8c3c5c64476814eb)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28164&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21297&type=5679&cHash=1e30018d26441edd1fd0537bda675bf7)
 
  fährt nicht
 
