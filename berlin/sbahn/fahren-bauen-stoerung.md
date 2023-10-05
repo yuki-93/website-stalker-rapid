@@ -4,24 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an der Strecke in Marzahn ###
-
- Letztes Update: 09:36 / 05.10.2023
-
-Information
-
-Wegen der Reparatur an der Strecke in Marzahn kommt es auf der Linie S7 zu Verspätungen und einzelnen Ausfällen.
-
-Zwischen Ahrensfelde und Springpfuhl kann nur ein 40-Minuten-Takt angeboten werden.
-
-Die Linie S75 verkehrt im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
