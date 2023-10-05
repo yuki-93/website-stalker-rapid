@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Zug in Marzahn ###
+
+ Letztes Update: 09:06 / 05.10.2023
+
+Information
+
+Wegen der Reparatur an einem Zug in Marzahn kommt es auf der Linie S7 zu Verspätungen und einzelnen Ausfällen.
+
+Zwischen Ahrensfelde und Friedrichsfelde Ost kann nur ein 20-Minuten-Takt angeboten werden.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
@@ -860,6 +876,16 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&tx_sbbconstructions_list%5Bperiod%5D=17351&type=5679&cHash=fbe68ef738bafa705e78da6f05cb7476)
 
+23.10. (Mo) 1:48 Uhr bis 1:56 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&tx_sbbconstructions_list%5Bperiod%5D=17357&type=5679&cHash=2606fd1e72c847f97c67d2a7565a7e47)
+
+24.10. (Di) bis 26.10. (Do), jeweils 1:48 Uhr bis 1:56 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&tx_sbbconstructions_list%5Bperiod%5D=17361&type=5679&cHash=3399f82f49ad8a3ff30963880b4a6d32)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&type=5679&cHash=a65d340d789da9ff1b6f506a241cc499)
+
  fährt nicht
 
 Information
@@ -878,6 +904,16 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17353&type=5679&cHash=9148e613ebf496e5aa460a0fa87d699d)
 
+23.10. (Mo) 3:02 Uhr bis 3:24 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17359&type=5679&cHash=7d3dc8a8ff2e5761abcadffdf4dbc130)
+
+24.10. (Di) bis 26.10. (Do), jeweils 3:02 Uhr bis 3:24 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17363&type=5679&cHash=6750d48d35609e846994c91b10716b8c)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&type=5679&cHash=ce8e544d1a49b5cf40c248f934d1be2a)
+
  fährt nicht
 
 Information
@@ -895,6 +931,16 @@ Information
 17.10. (Di) 3:05 Uhr bis 3:09 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28160&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21293&tx_sbbconstructions_list%5Bperiod%5D=17352&type=5679&cHash=c3773a4a6f28095e606ef66ba9caf0e3)
+
+23.10. (Mo) 3:05 Uhr bis 3:09 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28160&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21293&tx_sbbconstructions_list%5Bperiod%5D=17358&type=5679&cHash=70086c715667f13a488e3e930f71f4f7)
+
+24.10. (Di) bis 26.10. (Do), jeweils 3:05 Uhr bis 3:09 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28160&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21293&tx_sbbconstructions_list%5Bperiod%5D=17362&type=5679&cHash=fd170429a71b3d1eb5014b87e0badea8)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28160&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21293&type=5679&cHash=2d5c78a6d76dc39b168ef86d17b0c56b)
 
  fährt nicht
 
@@ -1241,3 +1287,127 @@ Information
   * In Waßmannsdorf fährt die S9 nach Spandau von Gleis 1, Bahnsteig stadtauswärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof \> Friedrichstraße ###
+
+17.10. (Di) 1:48 Uhr bis 1:56 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&tx_sbbconstructions_list%5Bperiod%5D=17351&type=5679&cHash=fbe68ef738bafa705e78da6f05cb7476)
+
+23.10. (Mo) 1:48 Uhr bis 1:56 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&tx_sbbconstructions_list%5Bperiod%5D=17357&type=5679&cHash=2606fd1e72c847f97c67d2a7565a7e47)
+
+24.10. (Di) bis 26.10. (Do), jeweils 1:48 Uhr bis 1:56 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&tx_sbbconstructions_list%5Bperiod%5D=17361&type=5679&cHash=3399f82f49ad8a3ff30963880b4a6d32)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&type=5679&cHash=a65d340d789da9ff1b6f506a241cc499)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER – Terminal 1-2 ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:48 Uhr in Ostbahnhof.
+* Der Zug fällt zwischen Ostbahnhof und Friedrichstraße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Ostbahnhof ###
+
+17.10. (Di) 3:02 Uhr bis 3:24 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17353&type=5679&cHash=9148e613ebf496e5aa460a0fa87d699d)
+
+23.10. (Mo) 3:02 Uhr bis 3:24 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17359&type=5679&cHash=7d3dc8a8ff2e5761abcadffdf4dbc130)
+
+24.10. (Di) bis 26.10. (Do), jeweils 3:02 Uhr bis 3:24 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17363&type=5679&cHash=6750d48d35609e846994c91b10716b8c)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&type=5679&cHash=ce8e544d1a49b5cf40c248f934d1be2a)
+
+ fährt nicht
+
+Information
+
+* Der Zug Charlottenburg ab 3:02 nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) beginnt erst um 3:24 Uhr in Ostbahnhof.
+* Der Zug fällt von Charlottenburg bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Ostbahnhof ###
+
+17.10. (Di) 3:05 Uhr bis 3:09 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28160&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21293&tx_sbbconstructions_list%5Bperiod%5D=17352&type=5679&cHash=c3773a4a6f28095e606ef66ba9caf0e3)
+
+23.10. (Mo) 3:05 Uhr bis 3:09 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28160&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21293&tx_sbbconstructions_list%5Bperiod%5D=17358&type=5679&cHash=70086c715667f13a488e3e930f71f4f7)
+
+24.10. (Di) bis 26.10. (Do), jeweils 3:05 Uhr bis 3:09 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28160&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21293&tx_sbbconstructions_list%5Bperiod%5D=17362&type=5679&cHash=fd170429a71b3d1eb5014b87e0badea8)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28160&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21293&type=5679&cHash=2d5c78a6d76dc39b168ef86d17b0c56b)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:09 Uhr in Ostbahnhof.
+  * Der Zug verkehrt in Ostbahnhof von Gleis 10, Bahnsteig stadteinwärts.
+
+* Der Zug fällt von Alexanderplatz bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz\> Grunewald ###
+
+24.10. (Di) bis 26.10. (Do), jeweils 1:53 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28164&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21297&tx_sbbconstructions_list%5Bperiod%5D=17360&type=5679&cHash=26537e951f8b7d45e2d22fd0fcdc1b12)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER – Terminal 1-2 ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:53 Uhr in Westkreuz.
+* Der Zug fällt von Westkreuz bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Charlottenburg ###
+
+24.10. (Di) bis 26.10. (Do), jeweils 3:12 Uhr bis 3:14 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28166&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21299&tx_sbbconstructions_list%5Bperiod%5D=17364&type=5679&cHash=b4286d4a47d82f3e7ea4f04f55dac1b1)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:14 Uhr in Charlottenburg.
+* Der Zug fällt von Westkreuz bis Charlottenburg aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
