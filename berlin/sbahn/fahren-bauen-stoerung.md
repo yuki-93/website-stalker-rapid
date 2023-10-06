@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Reparatur am Zug in Hohenzollerndamm- - beendet ###
+
+ Letztes Update: 10:45 / 06.10.2023
+
+Information
+
+Nach der Reparatur am Zug in Hohenzollerndamm kann es auf der Linie S41 noch zu Verspätungen kommen.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
