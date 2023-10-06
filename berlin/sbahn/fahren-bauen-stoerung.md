@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Grunewald ###
 
- Letztes Update: 03:09 / 06.10.2023
+ Letztes Update: 03:48 / 06.10.2023
 
 Information
 
@@ -17,6 +17,13 @@ Wegen kurzfristigen Bauarbeiten in Grunewald ist der Zugverkehr der Linie S7 zwi
 
 * *zwischen Westkreuz und Schöneberg die Linien S41, S42 und S46 sowie zwischen Schöneberg und Wannsee die Linie S1*
 * *zwischen Grunewald und Halensee die BVG-Buslinie M19 sowie zwischen Halensee und Westkreuz die Linien S41, S42 und S46*
+
+Ein Ersatzverkehr mit einem Bus ist zwischen Grunewald und Westkreuz eingerichtet.
+***Haltestellen des Ersatzverkehrs:***
+
+* S Grunewald: Eichkampstr. (Haltestelle Bus 349)
+* S Messe Süd: Messedamm (Haltestelle "Jafféstr.", Bus 349)
+* S Westkreuz: Halenseestr. (Haltestelle Bus 104)
 
 Wir bitten um Entschuldigung.
 
