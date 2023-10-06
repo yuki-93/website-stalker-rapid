@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### kurzfristige Bauarbeiten in Grunewald ###
+
+ Letztes Update: 03:09 / 06.10.2023
+
+Information
+
+Wegen kurzfristigen Bauarbeiten in Grunewald ist der Zugverkehr der Linie S7 zwischen Westkreuz und Grunewald unterbrochen.
+*Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:*
+
+* *zwischen Westkreuz und Schöneberg die Linien S41, S42 und S46 sowie zwischen Schöneberg und Wannsee die Linie S1*
+* *zwischen Grunewald und Halensee die BVG-Buslinie M19 sowie zwischen Halensee und Westkreuz die Linien S41, S42 und S46*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
@@ -19,21 +37,6 @@ Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwi
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Bauarbeiten Grunewald ###
-
- Letztes Update: 00:41 / 06.10.2023
-
-Information
-
-Wegen Bauarbeiten in Grunewald ist der Zugverkehr der Linie S7 zwischen Westkreuz und Grunewald unterbrochen.
-*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
@@ -97,55 +100,6 @@ Information
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-grunewald/#con-27974)
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Treptower Park \<\> Baumschulenweg ###
-
-Nacht 05./06.10. (Do/Fr), ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27883&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21010&tx_sbbconstructions_list%5Bperiod%5D=17213&type=5679&cHash=7a60f98fac65e5ef82811a7385cf3c31)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr:
-  * Treptower Park \<\> Warschauer Straße (S9-Kurve)
-     Bitte Umfahrung über Ostkreuz (mit Umstieg und Bahnsteigwechsel) nutzen
-
-* Umfahrungsmöglichkeit:
-  * Fahrgäste zwischen Baumschulenweg \<\> Treptower Park nutzen bitte die Umfahrung über Neukölln (mit Umstieg und Bahnsteigseitenwechsel).
-
-* Ersatzverkehr mit Bussen zur lokalen Anbindung des S-Bahnhof Plänterwald: Bus S9
-* Fahrplanänderung
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ae17c5abdc/#con-27883)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Griebnitzsee \<\> Potsdam Hbf ###
-
-Nacht 05./06.10. (Do/Fr), ca. 23 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27858&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20987&tx_sbbconstructions_list%5Bperiod%5D=17204&type=5679&cHash=9c97f366fe6c79b658410dc6e4034773)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S7 (S1): Griebnitzsee \<\> Potsdam Hbf
-     Bitte beachten Sie, dass durch andere Bauarbeiten auf dem Streckenabschnitt der S7 die Züge der S1 die Anbindung der S-Bahnhöfe zwischen (Friedrichstraße) Wannsee und Potsdam Hbf übernehmen.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-36/#con-27858)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
