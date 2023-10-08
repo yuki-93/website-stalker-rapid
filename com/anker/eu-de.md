@@ -6,7 +6,7 @@ Mehr bestellen, mehr sparen! Mit bis zu 30% Rabatt auf alle Artikel.
 
 [Zum Angebot \>\>](https://www.anker.com/eu-de/herbst-sale-chg)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Epische Deals auf Solarbank](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt sparen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Früher Oktober Prime Day, Bis zu 900€ Rabatt!](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren\>\>](https://www.anker.com/eu-de/prime-day-angebot-pps?ref=naviBar)
 
 Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Zubehör für Apple](https://www.anker.com/eu-de/collections/apple-accessories?ref=naviMenu)
 
