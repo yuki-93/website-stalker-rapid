@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)
+[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 07:02 / 08.10.2023
+ Letztes Update: 12:00 / 08.10.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Baumschulenweg und Tempelhof.
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S46 nur zwischen Baumschulenweg und Tempelhof.
 
 *Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41 und S42.*
 
@@ -83,25 +83,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Blankenfelde \<\> Lichtenrade ###
-
-29.09. (Fr), ca. 22 Uhr durchgehend bis 08.10. (So), ca. 12 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27808&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20930&tx_sbbconstructions_list%5Bperiod%5D=17216&type=5679&cHash=a0c131c374e732cbda5815c2fb193d3e)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S2: Blankenfelde \<\> Lichtenrade
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bahnuebergangsarbeiten-bauzustandswechsel/#con-27808)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
