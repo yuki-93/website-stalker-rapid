@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 00:50 / 08.10.2023
+ Letztes Update: 07:02 / 08.10.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S46 nur zwischen Baumschulenweg und Tempelhof.
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Baumschulenweg und Tempelhof.
 
 *Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41 und S42.*
 
