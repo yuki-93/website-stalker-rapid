@@ -22,27 +22,6 @@ Wir bitten um Entschuldigung.
 
 ### Baumaßnahmen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Gesundbrunnen – Schönholz – Frohnau/Blankenburg – Birkenwerder – Oranienburg ###
-
-07.10. (Sa) 7 Uhr bis 08.10. (So) 16 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27973&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21103&tx_sbbconstructions_list%5Bperiod%5D=17267&type=5679&cHash=2439023c0c90831fa711fc907b7ce2f3)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Taktänderung
-* Bahnsteigänderung in Bornholmer Straße
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/vegetationsarbeiten-mit-seilklettertechnik-1/#con-27973)
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
  Nur Nachts
