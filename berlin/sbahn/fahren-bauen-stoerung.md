@@ -8,16 +8,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Buckower Chaussee ###
 
- Letztes Update: 12:54 / 09.10.2023
+ Letztes Update: 14:08 / 09.10.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Buckower Chaussee ist der Zugverkehr der Linie S 2 zwischen Lichtenrade und Marienfelde unterbrochen.
+Wegen der Reparatur an einem Signal in Buckower Chaussee ist der Zugverkehr der Linie S 2 zwischen Schichauweg und Marienfelde unterbrochen.
 
-* S2 verkehrt Bernau \<\> Marienfelde sowie Lichtenrade \<\> Blankenfelde
-* der 10-Minuten-Takt wird nur zwischen Potsdamer Platz \<\> Buch angeboten.
+* S2 verkehrt Bernau \<\> Marienfelde sowie Schichauweg \<\> Blankenfelde
+* der 10-Minuten-Takt kann nur zwischen Potsdamer Platz \<\> Buch angeboten werden.
 
-Bitte nutzen Sie zur Umfahrung zwischen Lichtenrade und Priesterweg die Buslinie M76.
+Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+
+* zwischen Lichtenrade und Priesterweg die Buslinie M76.
+* zwischen Schichauweg und Priesterweg die Buslinien X83/ M76 mit Umsteigen an der Haltestelle "Lichtenrader Damm/ Barnetstraße"
 
 Wir bitten um Entschuldigung
 
@@ -1385,6 +1388,31 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gesundbrunnen-13/#con-28075)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Strausberg Nord / Ahrensfelde / Wartenberg \<\> Ostkreuz (\<\> Warschauer Straße) ###
+
+Nacht 12./13.11. (So/Mo), ca. 23 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21318&tx_sbbconstructions_list%5Bperiod%5D=17380&type=5679&cHash=39e1b95d907ec45d2567ef5929e58886)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S5: Strausberg Nord \<\> Ostkreuz
+  * Bus S7: Ahrensfelde \<\> Ostkreuz
+  * Bus S75: Wartenberg \<\> Ostkreuz
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/softwarewechsel-bei-der-db-netz-ag/#con-28186)
 
 ### Fahrplanänderungen ###
 
