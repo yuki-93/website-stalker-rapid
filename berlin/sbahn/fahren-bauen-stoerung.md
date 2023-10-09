@@ -1170,6 +1170,55 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1/#con-28179)
 
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Frohnau/Mühlenbeck-Mönchmühle \<\> Birkenwerder (\<\> Oranienburg) ###
+
+Nächte 08./09.11. (Mi/Do) und 09./10.11. (Do/Fr), jeweils ca. 22.10 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28180&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21311&tx_sbbconstructions_list%5Bperiod%5D=17374&type=5679&cHash=93313bb8e417363343b95445c16d39ac)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S1: Frohnau \<\> Birkenwerder
+  * Bus S8: Mühlenbeck-Mönchmühle \<\> Birkenwerder
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1-1/#con-28180)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Erkner \<\> Ostbahnhof ###
+
+Nacht 09./10.11. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28181&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21312&tx_sbbconstructions_list%5Bperiod%5D=17375&type=5679&cHash=a5a0dd1e9ea7d56f549748af766d092f)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S3 steigen bitte in beiden Fahrtrichtungen in Karlshorst um. Sie Weiterfahrt erfolgt nach 10 Minuten (in Fahrtrichtung stadtauswärts) bzw. nach 16 Minuten (in Fahrtrichtung stadteinwärts) vom selben Gleis.
+
+* Taktänderung:
+  * Friedrichshagen \<\> Ostkreuz S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung:
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-karlshorst/#con-28181)
+
 [S46](https://sbahn.berlin/fahren/s46/)
 
 Nur Wochenende
