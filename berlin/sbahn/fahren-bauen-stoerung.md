@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg ###
 
- Letztes Update: 19:19 / 09.10.2023
+ Letztes Update: 19:29 / 09.10.2023
 
 Information
 
-Wegen Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Wegen Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S45, S46, S47, S8 und S9 zu Verspätungen und Ausfällen.
+
+* die Linie S85 verkerht nicht
 
 Wir bitten um Entschuldigung.
 
