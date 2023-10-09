@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal im Bereich Baumschulenweg ###
+
+ Letztes Update: 19:19 / 09.10.2023
+
+Information
+
+Wegen Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Vorabinformation: kurzfristige Bauarbeiten in Südkreuz ###
@@ -25,30 +39,6 @@ In der **Nacht 11./12.10.2023 (Mi/Do) von ca. 22:00 Uhr bis ca. 01:30 Uhr** komm
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einem Signal in Buckower Chaussee ###
-
- Letztes Update: 17:04 / 09.10.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Buckower Chaussee ist der Zugverkehr der Linie S 2 zwischen Marienfelde und Schichauweg unterbrochen.
-
-* S2 verkehrt Bernau \<\> Marienfelde sowie Schichauweg \<\> Blankenfelde
-* der 10-Minuten-Takt kann nur zwischen Buch \<\> Potsdamer Platz angeboten werden.
-
-Ein Ersatzverkehr mit Bussen ist zwischen Marienfelde und Schichauweg eingerichtet.
- Haltestellen des Ersatzverkehrs:
-
-* S Marienfelde: Bahnhofstr. (Haltestelle Bus 283)
-* S Buckower Chaussee: Buckower Chaussee in Höhe S-Bahn (Haltestelle Bus X11, M11, 277)
-* S Schichauweg: Schichauweg in Höhe S-Bahn (Haltestelle Bus X83)
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
