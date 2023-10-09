@@ -8,23 +8,75 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Buckower Chaussee ###
 
- Letztes Update: 14:08 / 09.10.2023
+ Letztes Update: 17:04 / 09.10.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Buckower Chaussee ist der Zugverkehr der Linie S 2 zwischen Schichauweg und Marienfelde unterbrochen.
+Wegen der Reparatur an einem Signal in Buckower Chaussee ist der Zugverkehr der Linie S 2 zwischen Marienfelde und Schichauweg unterbrochen.
 
 * S2 verkehrt Bernau \<\> Marienfelde sowie Schichauweg \<\> Blankenfelde
-* der 10-Minuten-Takt kann nur zwischen Potsdamer Platz \<\> Buch angeboten werden.
+* der 10-Minuten-Takt kann nur zwischen Buch \<\> Potsdamer Platz angeboten werden.
 
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+Ein Ersatzverkehr mit Bussen ist zwischen Marienfelde und Schichauweg eingerichtet.
+ Haltestellen des Ersatzverkehrs:
 
-* zwischen Lichtenrade und Priesterweg die Buslinie M76.
-* zwischen Schichauweg und Priesterweg die Buslinien X83/ M76 mit Umsteigen an der Haltestelle "Lichtenrader Damm/ Barnetstraße"
+* S Marienfelde: Bahnhofstr. (Haltestelle Bus 283)
+* S Buckower Chaussee: Buckower Chaussee in Höhe S-Bahn (Haltestelle Bus X11, M11, 277)
+* S Schichauweg: Schichauweg in Höhe S-Bahn (Haltestelle Bus X83)
 
-Wir bitten um Entschuldigung
+Wir bitten um Entschuldigung.
 
  fährt nicht  Verbindung unterbrochen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Vorabinformation: kurzfristige Bauarbeiten in Südkreuz ###
+
+ Letztes Update: 16:21 / 09.10.2023
+
+Information
+
+**\- Vorabinformation -**
+
+In der **Nacht 11./12.10.2023 (Mi/Do) von ca. 22:00 Uhr bis ca. 01:30 Uhr** kommt es durch kurzfristige Bauarbeiten auf den Linien S41, S42, S45 und S46 zu Fahrplanänderungen.
+
+Weitere Informationen zum Zugverkehr folgen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Vorabinformation: kurzfristige Bauarbeiten zwischen Grunewald und Wannsee ###
+
+ Letztes Update: 15:53 / 09.10.2023
+
+Information
+
+**\- Vorabinformation -**
+
+Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der Linie S7 **in der Nacht 11./12.10.2023 (Mi/Do) von ca. 22:00 Uhr bis ca. 01:30 Uhr** zwischen Grunewald und Wannsee unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet werden.
+
+---
+
+*letzte durchfahrende Züge der Linie S7:*
+
+* Wannsee ab 21:38 Uhr nach Grunewald
+* Grunewald ab 21:50 Uhr nach Wannsee
+
+---
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S Westkreuz: Halenseestraße (wie Bus 143)
+* S Grunewald: Eichkampstraße (wie Bus 349)
+* S Nikolassee: Borussenstraße (wie Bus N16, N18)
+* S Wannsee: Kronprinzessinnenweg (wie Bus 118, 218, N16)
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
