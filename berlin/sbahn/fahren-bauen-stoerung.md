@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einer Weiche in Erkner ###
+
+ Letztes Update: 06:22 / 09.10.2023
+
+Information
+
+Wegen der Reparatur an einer Weiche in Erkner kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+* Der 10-Minuten-Takt kann nur zwischen Friedrichshagen und Ostbahnhof angeboten werden.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Plänterwald ###
