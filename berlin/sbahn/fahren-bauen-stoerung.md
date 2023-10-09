@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Plänterwald ###
+
+ Letztes Update: 04:11 / 09.10.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Plänterwald kommt es zu folgenden Einschränkungen im Zugverkehr:
+
+* Die Linie S8 verkehrt nur Birkenwerder \<\> Treptower Park sowie Schöneweide \<\> Grünau/ Wildau.
+* Die Linie S85 verkehrt nicht.
+* Auf der Linie S9 kann es zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
