@@ -4,6 +4,28 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Vorabinformation: kurzfristige Bauarbeiten in Südkreuz ###
+
+ Letztes Update: 17:31 / 09.10.2023
+
+Information
+
+**\- Vorabinformation -**
+
+In der **Nacht 11./12.10.2023 (Mi/Do) von ca. 22:00 Uhr bis ca. 01:30 Uhr** kommt es durch kurzfristige Bauarbeiten auf den Linien S41, S42, S45 und S46 zu Fahrplanänderungen.
+
+**Zugverkehr:**
+
+* **S41/S42:** in Südkreuz ist in beiden Fahrtrichtungen ein Umstieg (Wechsel der Bahnsteigseite) erforderlich
+* **S45:** fährt Flughafen BER Terminal 1-2 \<\> Hermannstraße
+* **S46:** fährt Königs Wusterhausen \<\> Tempelhof
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Reparatur an einem Signal in Buckower Chaussee ###
@@ -27,24 +49,6 @@ Ein Ersatzverkehr mit Bussen ist zwischen Marienfelde und Schichauweg eingerich
 Wir bitten um Entschuldigung.
 
  fährt nicht  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Vorabinformation: kurzfristige Bauarbeiten in Südkreuz ###
-
- Letztes Update: 16:21 / 09.10.2023
-
-Information
-
-**\- Vorabinformation -**
-
-In der **Nacht 11./12.10.2023 (Mi/Do) von ca. 22:00 Uhr bis ca. 01:30 Uhr** kommt es durch kurzfristige Bauarbeiten auf den Linien S41, S42, S45 und S46 zu Fahrplanänderungen.
-
-Weitere Informationen zum Zugverkehr folgen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
