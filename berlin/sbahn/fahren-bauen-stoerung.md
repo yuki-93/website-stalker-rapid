@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Reparatur an einem Signal in Buckower Chaussee ###
+
+ Letztes Update: 12:15 / 09.10.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Buckower Chaussee kommt es auf der Linie S 2 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einer Weiche in Erkner ###
+
+ Letztes Update: 12:01 / 09.10.2023
+
+Information
+
+Wegen der Reparatur an einer Weiche in Erkner kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+* zwischen Friedrichshagen und Ostbahnhof kann nur ein 20-Minuten-Takt angeboten werden.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
