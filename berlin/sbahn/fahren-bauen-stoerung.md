@@ -2,30 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Baumaßnahmen ###
+### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
- Nur Nachts
+### Reparatur an einer Weiche in Südkreuz ###
 
-### Blankenfelde \<\> Priesterweg ###
-
-08.10. (So) 12 Uhr bis 09.10. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27899&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20930&tx_sbbconstructions_list%5Bperiod%5D=17217&type=5679&cHash=60bbd518e301776a23b12a82c50a2e48)
-
- Ersatzverkehr
+ Letztes Update: 01:14 / 09.10.2023
 
 Information
 
-* Ersatzverkehr mit Bussen:
-  * Bus S2: Blankenfelde \<\> Priesterweg
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen - BER Terminal 1-2 und Tempelhof.
 
-* Fahrplanänderung
-* Bahnsteigänderung in Priesterweg
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+*Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.*
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bahnuebergangsarbeiten-bauzustandswechsel/#con-27899)
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -68,35 +63,6 @@ Information
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-grunewald/#con-27974)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-Nur Wochenende
-
-### Altglienicke/Königs Wusterhausen/Spindlersfeld \<\> Baumschulenweg ###
-
-06.10. (Fr), ca. 22 Uhr durchgehend bis 9.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27862&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20991&tx_sbbconstructions_list%5Bperiod%5D=17206&type=5679&cHash=43fc31c63ed76d86b89da410cde615f7)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S9X: Flughafen BER – Terminal 1-2 \<\> Adlershof \<\> Schöneweide \<\> Baumschulenweg (ExpressLinie)
-  * Bus S9A: Grünbergallee \<\> Baumschulenweg
-  * Bus S46: Königs Wusterhausen \<\> Baumschulenweg
-  * Bus S47: Spindlersfeld \<\> Baumschulenweg
-
-* Pendelverkehr
-  * Baumschulenweg \<\> Plänterwald \<\> Treptower Park jeweils im 10-Minutentakt
-
-* Fahrplanänderung
-* Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-37/#con-27862)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
