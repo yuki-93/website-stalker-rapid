@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz Baumschulenweg \<\> Neukölln/Treptower Park beendet ###
-
- Letztes Update: 23:50 / 09.10.2023
-
-Information
-
-Nach einem Polizeieinsatz zwischen Baumschulenweg \<\> Neukölln/Treptower Park kommt es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Vorabinformation: kurzfristige Bauarbeiten in Südkreuz ###
@@ -71,22 +57,6 @@ Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der Linie S7 **in der Nacht 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an einer Weiche in Südkreuz ###
-
- Letztes Update: 01:14 / 09.10.2023
-
-Information
-
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen - BER Terminal 1-2 und Tempelhof.
-
-*Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
