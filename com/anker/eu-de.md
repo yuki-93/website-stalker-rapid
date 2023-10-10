@@ -2,9 +2,31 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e
 
 []()
 
-Mehr bestellen, mehr sparen! Mit bis zu 30% Rabatt auf alle Artikel.
+Herbstliche Sparangebote für die beste Ladelösung
 
-[Zum Angebot \>\>](https://www.anker.com/eu-de/herbst-sale-chg)
+[Jetzt shoppen \>\>](https://www.anker.com/eu-de/herbst-sale-chg)
+
+01
+
+:
+
+Tagen
+
+16
+
+:
+
+Std.
+
+41
+
+:
+
+Min.
+
+15
+
+Sek.
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Früher Oktober Prime Day, Bis zu 900€ Rabatt!](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren\>\>](https://www.anker.com/eu-de/anker-solix/prime-day-angebot-pps?ref=naviBar)
 
@@ -28,19 +50,19 @@ Oktober Prime Day: Bis zu 640€ Rabatt
 
 Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
 
-41
+40
 
 :
 
 Stunden
 
-39
+41
 
 :
 
 Minuten
 
-01
+15
 
 Sekunden
 
@@ -59,19 +81,19 @@ die beste Ladelösung
 
 Nur für kurze Zeit!
 
-41
+40
 
 :
 
 Stunden
 
-39
+41
 
 :
 
 Minuten
 
-01
+15
 
 Sekunden
 

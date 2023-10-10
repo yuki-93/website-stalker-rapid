@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Buckower Chaussee ###
 
- Letztes Update: 05:26 / 10.10.2023
+ Letztes Update: 06:49 / 10.10.2023
 
 Information
 
@@ -16,7 +16,21 @@ Wegen der Reparatur an einem Signal in Buckower Chaussee kommt es auf der Linie 
 
 * Der 10-Minuten-Takt kann nur zwischen Buch und Potsdamer Platz angeboten werden.
 
-**Beachten Sie bitte**: in Attilastraße ist in beiden Fahrtrichtungen ein Umstieg erforderlich.
+**Beachten Sie bitte**: in Attilastraße ist in beiden Fahrtrichtungen ein Umstieg erforderlich, die Weiterfahrt erfolgt jeweils vom Gleis gegenüber.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem Signal in Köpenick ###
+
+ Letztes Update: 06:44 / 10.10.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Köpenick kommt es auf der Linie S3 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
