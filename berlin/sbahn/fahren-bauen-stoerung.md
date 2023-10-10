@@ -6,16 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an einem Stellwerk in Bereich Schönholz ###
+### Reparatur an einem Stellwerk in Bereich Schönholz beendet ###
 
- Letztes Update: 18:14 / 10.10.2023
+ Letztes Update: 18:51 / 10.10.2023
 
 Information
 
-Wegen der Reparatur an einem Stellwerk im Bereich Schönholz kommt es auf den Linien S1, S25 und S26 zu Verspätungen und Ausfällen.
-
-* der 10-Minuten-Takt der Linie S1 besteht nur zwischen Nordbahnhof \<\> Wannsee
-* die Linie S26 verkehrt nur Nordbahnhof \<\> Teltow Stadt
+Nach der Reparatur an einem Stellwerk im Bereich Schönholz kommt es auf den Linien S1, S25 und S26 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
