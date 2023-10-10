@@ -4,34 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Stellwerk in Bereich Schönholz beendet ###
-
- Letztes Update: 18:51 / 10.10.2023
-
-Information
-
-Nach der Reparatur an einem Stellwerk im Bereich Schönholz kommt es auf den Linien S1, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Signal in Friedrichshagen ###
-
- Letztes Update: 17:47 / 10.10.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Friedrichshagen kommt es auf der Linie S3 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
