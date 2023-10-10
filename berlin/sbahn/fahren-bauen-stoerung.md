@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### technische Untersuchung am Zug in Bornholmer Straße ###
+
+ Letztes Update: 11:12 / 10.10.2023
+
+Information
+
+Wegen der technischen Untersuchung am Zug in Bornholmer Straße kommt es auf den Linien S8 und S85 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Polizeieinsatz zwischen Neukölln und Hermannstraße beendet ###
+
+ Letztes Update: 10:49 / 10.10.2023
+
+Information
+
+Nach einem Polizeieinsatz zwischen Neukölln und Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Reparatur an einem Signal in Buckower Chaussee ###
