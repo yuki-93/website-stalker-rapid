@@ -26,25 +26,23 @@ Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
 Oktober Prime Day: Bis zu 640€ Rabatt
 
-Versandkostenfrei bis zur Bordsteinkante
+Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
 
-44
-
-:
-
-Std.
-
-41
+43
 
 :
 
-Min.
+Stunden
 
-01
+34
 
-Sek.
+:
 
-Nur heute!
+Minuten
+
+45
+
+Sekunden
 
 [Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner2)
 
@@ -56,12 +54,10 @@ Erweiterbar auf 26.900Wh | Power für alle Haushaltsgeräte Ladeleistung für El
 
 [45% RabattmasterBanner3](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=masterBanner3)
 
-Herbstliche Sparangebote
-für die beste Ladelösung
+Herbstliche Sparangebote für
+die beste Ladelösung
 
-Mehr Power tanken. Mehr sparen.
-
-Mehr bestellen, mehr sparen! Mit bis zu 30% Rabatt auf alle Artikel.
+Nur für kurze Zeit!
 
 [Zum AngebotmasterBanner4](https://www.anker.com/eu-de/herbst-sale-chg?ref=masterBanner4)
 
