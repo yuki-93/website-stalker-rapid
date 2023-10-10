@@ -12,19 +12,19 @@ Herbstliche Sparangebote für die beste Ladelösung
 
 Tagen
 
-15
+14
 
 :
 
 Std.
 
-34
+42
 
 :
 
 Min.
 
-51
+48
 
 Sek.
 
@@ -50,19 +50,19 @@ Oktober Prime Day: Bis zu 640€ Rabatt
 
 Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
 
-39
+38
 
 :
 
 Stunden
 
-34
+42
 
 :
 
 Minuten
 
-51
+48
 
 Sekunden
 
@@ -81,19 +81,19 @@ die beste Ladelösung
 
 Nur für kurze Zeit!
 
-39
+38
 
 :
 
 Stunden
 
-34
+42
 
 :
 
 Minuten
 
-51
+48
 
 Sekunden
 
