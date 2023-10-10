@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Buckower Chaussee ###
 
- Letztes Update: 05:18 / 10.10.2023
+ Letztes Update: 05:26 / 10.10.2023
 
 Information
 
@@ -16,9 +16,11 @@ Wegen der Reparatur an einem Signal in Buckower Chaussee kommt es auf der Linie 
 
 * Der 10-Minuten-Takt kann nur zwischen Buch und Potsdamer Platz angeboten werden.
 
+**Beachten Sie bitte**: in Attilastraße ist in beiden Fahrtrichtungen ein Umstieg erforderlich.
+
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
