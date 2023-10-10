@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz zwischen Neukölln und Hermannstraße beendet ###
+
+ Letztes Update: 12:35 / 10.10.2023
+
+Information
+
+Nach einem Polizeieinsatz zwischen Neukölln und Hermannstraße kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Reparatur an einem Signal in Buckower Chaussee beendet ###
@@ -15,22 +29,6 @@ Information
 Nach der Reparatur an einem Signal in Buckower Chaussee kommt es auf der Linie S2 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Der 10-Minuten-Takt kann nur zwischen Buch und Potsdamer Platz angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz zwischen Neukölln und Hermannstraße beendet ###
-
- Letztes Update: 11:38 / 10.10.2023
-
-Information
-
-Nach einem Polizeieinsatz zwischen Neukölln und Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die Linie S42 verkehrt nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
