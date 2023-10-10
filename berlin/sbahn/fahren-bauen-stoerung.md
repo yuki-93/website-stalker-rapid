@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Reparatur an einem Signal in Buckower Chaussee ###
+
+ Letztes Update: 05:18 / 10.10.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Buckower Chaussee kommt es auf der Linie S2 zu Verspätungen und Ausfällen.
+
+* Der 10-Minuten-Takt kann nur zwischen Buch und Potsdamer Platz angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###

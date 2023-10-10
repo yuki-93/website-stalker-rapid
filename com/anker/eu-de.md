@@ -28,19 +28,19 @@ Oktober Prime Day: Bis zu 640€ Rabatt
 
 Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
 
-43
+42
 
 :
 
 Stunden
 
-34
+41
 
 :
 
 Minuten
 
-45
+25
 
 Sekunden
 
