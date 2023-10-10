@@ -4,48 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### ärztliche Versorgung eines Fahrgastes in Baumschulenweg ###
-
- Letztes Update: 14:28 / 10.10.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Baumschulenweg kommt es auf den Linien S45, S46 und S47 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einem Signal in Buckower Chaussee beendet ###
-
- Letztes Update: 13:45 / 10.10.2023
-
-Information
-
-Nach der Reparatur an einem Signal in Buckower Chaussee kommt es auf der Linie S2 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz zwischen Neukölln und Hermannstraße beendet ###
-
- Letztes Update: 12:35 / 10.10.2023
-
-Information
-
-Nach einem Polizeieinsatz zwischen Neukölln und Hermannstraße kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
