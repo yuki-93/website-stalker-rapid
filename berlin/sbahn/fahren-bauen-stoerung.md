@@ -145,27 +145,6 @@ Information
 
 ### Lichtenberg – Westkreuz ###
 
-Nacht 09./10.10. (Mo/Di) 21:45 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27975&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21105&tx_sbbconstructions_list%5Bperiod%5D=17269&type=5679&cHash=5dd98c9d0828cfa5d601edd3a4976e52)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung
-* Fahrplanänderung
-* Bahnsteigänderung in Ostbahnhof
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-ostbahnhof-2/#con-27975)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Lichtenberg – Westkreuz ###
-
 Nächte 10./11.10. (Di/Mi) und 11./12.10. (Mi/Do) jeweils 22 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27976&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21106&tx_sbbconstructions_list%5Bperiod%5D=17270&type=5679&cHash=fb1e5c1ccaef9c8c6e4efb7e15af17a8)
