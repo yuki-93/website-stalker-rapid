@@ -4,6 +4,56 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### kurzfristige Bauarbeiten in Südkreuz ###
+
+ Letztes Update: 14:30 / 11.10.2023
+
+Information
+
+Wegen kurzfristiger Bauarbeiten kommt es **heute Abend ab ca. 22:00 Uhr bis ca. 01:30 Uhr** auf den Linien S41, S42, S45 und S46 zu Fahrplanänderungen.
+
+**Die betroffenen Linien fahren dann wie folgt:**
+
+* **S41/S42:** verkehren **in Südkreuz nur von Gleis 11**
+* **S45:** Flughafen BER Terminal 1-2 \<\> Hermannstraße
+* **S46:** Königs Wusterhausen \<\> Tempelhof
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### kurzfristige Bauarbeiten zwischen Grunewald und Wannsee ###
+
+ Letztes Update: 13:35 / 11.10.2023
+
+Information
+
+Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der Linie S7 **heute Abend** **von ca. 22:00 Uhr bis ca. 01:30 Uhr** zwischen Grunewald und Wannsee unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+
+---
+
+***letzte durchfahrende Züge der Linie S7:***
+
+* Wannsee ab 21:38 Uhr nach Grunewald
+* Grunewald ab 21:50 Uhr nach Wannsee
+
+---
+
+***Haltestellen des Ersatzverkehrs:***
+
+* S-Bhf. Westkreuz: Halenseestraße (wie Bus 143)
+* S-Bhf. Grunewald: Eichkampstraße (wie Bus 349)
+* S-Bhf. Nikolassee: Borussenstraße (wie Bus N16, N18)
+* S-Bhf. Wannsee: Kronprinzessinnenweg (wie Bus 118, 218, N16)
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
@@ -19,60 +69,6 @@ Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwi
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Vorabinformation: kurzfristige Bauarbeiten zwischen Grunewald und Wannsee ###
-
- Letztes Update: 03:48 / 11.10.2023
-
-Information
-
-**\- Vorabinformation -**
-
-Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der Linie S7 **in der Nacht 11./12.10.2023 (Mi/Do) von ca. 22:00 Uhr bis ca. 01:30 Uhr** zwischen Grunewald und Wannsee unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet werden.
-
----
-
-*letzte durchfahrende Züge der Linie S7:*
-
-* Wannsee ab 21:38 Uhr nach Grunewald
-* Grunewald ab 21:50 Uhr nach Wannsee
-
----
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S Westkreuz: Halenseestraße (wie Bus 143)
-* S Grunewald: Eichkampstraße (wie Bus 349)
-* S Nikolassee: Borussenstraße (wie Bus N16, N18)
-* S Wannsee: Kronprinzessinnenweg (wie Bus 118, 218, N16)
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Vorabinformation: kurzfristige Bauarbeiten in Südkreuz ###
-
- Letztes Update: 03:46 / 11.10.2023
-
-Information
-
-**\- Vorabinformation -**
-
-In der **Nacht 11./12.10.2023 (Mi/Do) von ca. 22:00 Uhr bis ca. 01:30 Uhr** kommt es durch kurzfristige Bauarbeiten auf den Linien S41, S42, S45 und S46 zu Fahrplanänderungen.
-
-**Zugverkehr:**
-
-* **S41/S42:** verkehren in Südkreuz nur von Gleis 11
-* **S45:** fährt Flughafen BER Terminal 1-2 \<\> Hermannstraße
-* **S46:** fährt Königs Wusterhausen \<\> Tempelhof
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
