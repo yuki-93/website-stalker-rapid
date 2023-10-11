@@ -1,14 +1,80 @@
+[Shelly Qubino Wave 1](https://www.shelly.com/de/products/shop/shelly-qubino-wave-1)
+
+20,92 €~~23,25 €~~
+
+24,89 €mit MwSt.
+
+[Shelly Qubino Wave 1PM](https://www.shelly.com/de/products/shop/shelly-qubino--wave-1-pm)
+
+22,42 €~~24,92 €~~
+
+26,68 €mit MwSt.
+
+[Shelly Qubino Wave 2PM](https://www.shelly.com/de/products/shop/shelly-qubino--wave-2-pm)
+
+26,17 €~~29,08 €~~
+
+31,14 €mit MwSt.
+
+[Shelly Qubino Wave Shutter](https://www.shelly.com/de/products/shop/shelly-qubino-wave-shutter)
+
+26,17 €~~29,08 €~~
+
+31,14 €mit MwSt.
+
+[Shelly Pro 1](https://www.shelly.com/de/products/shop/shelly-pro-1-1)
+
+44,50 €~~49,50 €~~
+
+52,96 €mit MwSt.
+
+[Shelly Pro 2](https://www.shelly.com/de/products/shop/shelly-pro-2)
+
+59,30 €~~65,90 €~~
+
+70,57 €mit MwSt.
+
+[Shelly Pro 1PM](https://www.shelly.com/de/products/shop/shelly-pro-1pm)
+
+54,45 €~~60,50 €~~
+
+64,80 €mit MwSt.
+
+[Shelly Pro 2PM](https://www.shelly.com/de/products/shop/shelly-pro-2pm)
+
+74,20 €~~82,50 €~~
+
+88,30 €mit MwSt.
+
+[Shelly Pro 3](https://www.shelly.com/de/products/shop/shelly-pro-3-1)
+
+62,90 €~~69,90 €~~
+
+74,85 €mit MwSt.
+
+[Shelly Pro Dual Cover / Shutter PM](https://www.shelly.com/de/products/shop/shelly-pro-dual-cover-pm)
+
+88,10 €~~97,90 €~~
+
+104,84 €mit MwSt.
+
+[Shelly Plus 0-10V Dimmer](https://www.shelly.com/de/products/shop/sw10094-2)
+
+14,90 €
+
+17,73 €mit MwSt.
+
 [Shelly Wall Display](https://www.shelly.com/de/products/shop/shelly-wall-display-w/shelly-wall-display-b)
 
 119,00 €
 
 141,61 €mit MwSt.
 
-[Shelly Plus 1 Mini (2 Pack)](https://www.shelly.com/de/products/shop/shelly-plus-1-mini/shelly-plus-1-mini-2-pack)
+[Shelly Plus 1 Mini](https://www.shelly.com/de/products/shop/shelly-plus-1-mini)
 
-23,32 €
+11,90 €
 
-27,75 €mit MwSt.
+14,16 €mit MwSt.
 
 [Shelly Plus 1PM Mini (2 Pack)](https://www.shelly.com/de/products/shop/shelly-plus-1-pm-mini/shelly-plus-1-pm-mini-2-pack)
 
@@ -16,61 +82,19 @@
 
 31,49 €mit MwSt.
 
-[Shelly Plus PM Mini (2 Pack)](https://www.shelly.com/de/products/shop/shelly-plus-pm-mini/shelly-plus-pm-mini-2-pack)
+[Shelly Plus PM Mini](https://www.shelly.com/de/products/shop/shelly-plus-pm-mini)
 
-25,28 €
+12,90 €
 
-30,08 €mit MwSt.
+15,35 €mit MwSt.
 
-[Shelly BLU Gateway](https://www.shelly.com/de/products/shop/shelly-gateway)
-
-14,90 €
-
-17,73 €mit MwSt.
-
-[Shelly BLU Motion](https://www.shelly.com/de/products/shop/1xsbm)
+[Shelly Plus Plug S Black](https://www.shelly.com/de/products/shop/shelly-plus-plug-s-1/shelly-plus-plug-s-black)
 
 19,90 €
 
 23,68 €mit MwSt.
 
-[Shelly Pro EM - 2x50A](https://www.shelly.com/de/products/shop/shelly-pro-em-2x50-a)
-
-74,90 €
-
-89,13 €mit MwSt.
-
-[Shelly Qubino Wave 2PM](https://www.shelly.com/de/products/shop/shelly-qubino--wave-2-pm)
-
-29,08 €
-
-34,61 €mit MwSt.
-
-[Shelly BLU Door/Window](https://www.shelly.com/de/products/shop/shelly-blu-door-window/shelly-blu-door-window-brown)
-
-16,90 €
-
-20,11 €mit MwSt.
-
-[Shelly Qubino Wave 1](https://www.shelly.com/de/products/shop/shelly-qubino-wave-1)
-
-23,25 €
-
-27,67 €mit MwSt.
-
-[Shelly Qubino Wave 1PM](https://www.shelly.com/de/products/shop/shelly-qubino--wave-1-pm)
-
-24,92 €
-
-29,65 €mit MwSt.
-
-[Shelly Scripting Basics voucher](https://www.shelly.com/de/products/shop/voucher-scripting-basics)
-
-63,00 €
-
-74,97 €mit MwSt.
-
-[Shelly BLU Button1](https://www.shelly.com/de/products/shop/shelly-blu-button1)
+[Shelly Plus 1](https://www.shelly.com/de/products/shop/shelly-plus-1-1)
 
 14,90 €
 
@@ -82,17 +106,17 @@
 
 20,11 €mit MwSt.
 
-[Shelly Plus 1](https://www.shelly.com/de/products/shop/shelly-plus-1-1)
-
-14,90 €
-
-17,73 €mit MwSt.
-
 [Shelly Plus 2PM](https://www.shelly.com/de/products/shop/shelly-plus-2-pm)
 
 25,90 €
 
 30,82 €mit MwSt.
+
+[Shelly Plus AddOn](https://www.shelly.com/de/products/shop/shelly-plus-add-on)
+
+13,50 €
+
+16,07 €mit MwSt.
 
 [Shelly Plus i4](https://www.shelly.com/de/products/shop/shelly-plusi4)
 
@@ -106,41 +130,11 @@
 
 14,16 €mit MwSt.
 
-[Shelly Plus AddOn](https://www.shelly.com/de/products/shop/shelly-plus-add-on)
+[Shelly Pro EM - 2x50A](https://www.shelly.com/de/products/shop/shelly-pro-em-2x50-a)
 
-13,50 €
+74,90 €
 
-16,07 €mit MwSt.
-
-[Shelly 3EM](https://www.shelly.com/de/products/shop/shelly-3em-1)
-
-109,00 €
-
-129,71 €mit MwSt.
-
-[Shelly EM + 120A Clamp](https://www.shelly.com/de/products/shop/shelly-em-1x-120a)
-
-53,90 €
-
-64,14 €mit MwSt.
-
-[Shelly Pro Dual Cover / Shutter PM](https://www.shelly.com/de/products/shop/shelly-pro-dual-cover-pm)
-
-97,90 €
-
-116,50 €mit MwSt.
-
-[Shelly Pro 4PM](https://www.shelly.com/de/products/shop/shelly-pro-4pm-1)
-
-97,90 €
-
-116,50 €mit MwSt.
-
-[Shelly Pro 3](https://www.shelly.com/de/products/shop/shelly-pro-3-1)
-
-69,90 €
-
-83,18 €mit MwSt.
+89,13 €mit MwSt.
 
 [Shelly Pro 3EM - 120A](https://www.shelly.com/de/products/shop/shelly-pro-3-em-120-a-1)
 
@@ -154,29 +148,53 @@
 
 23,68 €mit MwSt.
 
-[Shelly Pro 1PM](https://www.shelly.com/de/products/shop/shelly-pro-1pm)
+[Shelly Pro 4PM](https://www.shelly.com/de/products/shop/shelly-pro-4pm-1)
 
-60,50 €
+97,90 €
 
-72,00 €mit MwSt.
+116,50 €mit MwSt.
 
-[Shelly Pro 2PM](https://www.shelly.com/de/products/shop/shelly-pro-2pm)
+[Shelly BLU Gateway](https://www.shelly.com/de/products/shop/shelly-gateway)
 
-82,50 €
+14,90 €
 
-98,18 €mit MwSt.
+17,73 €mit MwSt.
 
-[Shelly Pro 1](https://www.shelly.com/de/products/shop/shelly-pro-1-1)
+[Shelly BLU Motion](https://www.shelly.com/de/products/shop/1xsbm)
 
-49,50 €
+19,90 €
 
-58,91 €mit MwSt.
+23,68 €mit MwSt.
 
-[Shelly Pro 2](https://www.shelly.com/de/products/shop/shelly-pro-2)
+[Shelly BLU Door/Window](https://www.shelly.com/de/products/shop/shelly-blu-door-window/shelly-blu-door-window-brown)
 
-65,90 €
+16,90 €
 
-78,42 €mit MwSt.
+20,11 €mit MwSt.
+
+[Shelly BLU Button1](https://www.shelly.com/de/products/shop/shelly-blu-button1)
+
+14,90 €
+
+17,73 €mit MwSt.
+
+[Shelly 3EM](https://www.shelly.com/de/products/shop/shelly-3em-1)
+
+109,00 €
+
+129,71 €mit MwSt.
+
+[Shelly EM + 120A Clamp](https://www.shelly.com/de/products/shop/shelly-em-1x-120a)
+
+53,90 €
+
+64,14 €mit MwSt.
+
+[Shelly Uni](https://www.shelly.com/de/products/shop/shelly-uni-1)
+
+11,90 €
+
+14,16 €mit MwSt.
 
 [Shelly Dimmer 2](https://www.shelly.com/de/products/shop/shelly-dimmer2)
 
@@ -190,11 +208,29 @@
 
 23,68 €mit MwSt.
 
-[Shelly Uni](https://www.shelly.com/de/products/shop/shelly-uni-1)
+[Shelly Plus Smoke](https://www.shelly.com/de/products/shop/shelly-plus-smoke)
 
-11,90 €
+44,90 €
 
-14,16 €mit MwSt.
+53,43 €mit MwSt.
+
+[Shelly Plus H&T](https://www.shelly.com/de/products/shop/shelly-plus-h-t)
+
+29,90 €
+
+35,58 €mit MwSt.
+
+[Shelly Plus Plug UK](https://www.shelly.com/de/products/shop/shelly-plus-plug-uk)
+
+19,90 €
+
+23,68 €mit MwSt.
+
+[Shelly Plus Plug IT](https://www.shelly.com/de/products/shop/shelly-plus-plug-it)
+
+19,90 €
+
+23,68 €mit MwSt.
 
 [Shelly TRV](https://www.shelly.com/de/products/shop/shelly-trv-1)
 
@@ -207,36 +243,6 @@
 31,90 €
 
 37,96 €mit MwSt.
-
-[Shelly Plus Plug IT](https://www.shelly.com/de/products/shop/shelly-plus-plug-it)
-
-19,90 €
-
-23,68 €mit MwSt.
-
-[Shelly Plus Plug UK](https://www.shelly.com/de/products/shop/shelly-plus-plug-uk)
-
-19,90 €
-
-23,68 €mit MwSt.
-
-[Shelly Button 1](https://www.shelly.com/de/products/shop/shelly-button-1-white)
-
-22,90 €
-
-27,25 €mit MwSt.
-
-[Shelly Plus H&T](https://www.shelly.com/de/products/shop/shelly-plus-h-t)
-
-29,90 €
-
-35,58 €mit MwSt.
-
-[Shelly H&T](https://www.shelly.com/de/products/shop/shelly-ht-w)
-
-20,90 €
-
-24,87 €mit MwSt.
 
 [Shelly Motion 2](https://www.shelly.com/de/products/shop/shelly-motion-2)
 
@@ -256,6 +262,18 @@
 
 26,06 €mit MwSt.
 
+[Shelly H&T Black](https://www.shelly.com/de/products/shop/shelly-h-and-t-black)
+
+20,90 €
+
+24,87 €mit MwSt.
+
+[Shelly H&T](https://www.shelly.com/de/products/shop/shelly-ht-w)
+
+20,90 €
+
+24,87 €mit MwSt.
+
 [Shelly Gas CNG](https://www.shelly.com/de/products/shop/shelly-gas-eu-cng)
 
 48,50 €
@@ -267,6 +285,12 @@
 48,50 €
 
 57,72 €mit MwSt.
+
+[Shelly Button 1](https://www.shelly.com/de/products/shop/shelly-button-1-white)
+
+22,90 €
+
+27,25 €mit MwSt.
 
 [Shelly Duo](https://www.shelly.com/de/products/shop/shelly-duo)
 
@@ -310,12 +334,6 @@
 
 14,16 €mit MwSt.
 
-[RC Snubber](https://www.shelly.com/de/products/shop/rc-snubber)
-
-2,50 €
-
-2,98 €mit MwSt.
-
 [Shelly Wall switch 4 + Shelly Plus i4](https://www.shelly.com/de/products/shop/shelly-wall-switch-4-shelly-plus-i4)
 
 17,19 €
@@ -358,6 +376,18 @@
 
 10,59 €mit MwSt.
 
+[RC Snubber](https://www.shelly.com/de/products/shop/rc-snubber)
+
+2,50 €
+
+2,98 €mit MwSt.
+
+[Bypass](https://www.shelly.com/de/products/shop/bypass-1)
+
+2,90 €
+
+3,45 €mit MwSt.
+
 [USB power supply for Shelly H&T](https://www.shelly.com/de/products/shop/shelly-usb-power-supply-ht-w)
 
 5,90 €
@@ -381,24 +411,6 @@
 22,90 €
 
 27,25 €mit MwSt.
-
-[Shelly H&T Black](https://www.shelly.com/de/products/shop/shelly-h-and-t-black)
-
-20,90 €
-
-24,87 €mit MwSt.
-
-[Shelly Plus Smoke](https://www.shelly.com/de/products/shop/shelly-plus-smoke)
-
-44,90 €
-
-53,43 €mit MwSt.
-
-[Bypass](https://www.shelly.com/de/products/shop/bypass-1)
-
-2,90 €
-
-3,45 €mit MwSt.
 
 [Temperature Sensor DS18B20](https://www.shelly.com/de/products/shop/temp-sensor-ds18b20x1)
 
@@ -435,12 +447,6 @@
 5,90 €
 
 7,02 €mit MwSt.
-
-[CR123A 1500mAh 3.0V battery](https://www.shelly.com/de/products/shop/cr123a)
-
-1,50 €
-
-1,79 €mit MwSt.
 
 [AA 1.5V (LR6) Batterien (4 Pack)](https://www.shelly.com/de/products/shop/lr6-010-4-pack)
 
