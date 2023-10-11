@@ -6,25 +6,25 @@ Herbstliche Sparangebote für die beste Ladelösung. Bis zu 39% Rabatt.
 
 [Jetzt shoppen \>\>](https://www.anker.com/eu-de/herbst-sale-chg?ref=topbanner)
 
-14
+13
 
 :
 
 Std.
 
-43
+35
 
 :
 
 Min.
 
-17
+50
 
 Sek.
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Früher Oktober Prime Day, Bis zu 900€ Rabatt!](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren\>\>](https://www.anker.com/eu-de/anker-solix/prime-day-angebot-pps?ref=naviBar)
 
-Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Zubehör für Apple](https://www.anker.com/eu-de/collections/apple-accessories?ref=naviMenu)
+Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Herbst Sale](https://www.anker.com/eu-de/herbst-sale-chg?ref=naviMenu)
 
 Schwestermarken & Hilfe
 
@@ -35,19 +35,19 @@ die beste Ladelösung
 
 Bis zu 39% Rabatt
 
-14
+13
 
 :
 
 Stunden
 
-43
+35
 
 :
 
 Minuten
 
-17
+49
 
 Sekunden
 
@@ -67,19 +67,19 @@ Oktober Prime Day: Bis zu 640€ Rabatt
 
 Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
 
-14
+13
 
 :
 
 Stunden
 
-43
+35
 
 :
 
 Minuten
 
-17
+49
 
 Sekunden
 

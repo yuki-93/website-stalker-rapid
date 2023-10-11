@@ -1535,3 +1535,39 @@ Information
 * Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:14 Uhr in Charlottenburg.
 * Der Zug fällt von Westkreuz bis Charlottenburg aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \> Grünau ###
+
+06.11. (Mo) bis 10.11. (Fr) jeweils 1:33 Uhr bis 1:42 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17089&type=5679&cHash=afe3a57fc0ac435aab9d6cba0f5e1d44)
+
+ fährt nicht
+
+Information
+
+* Der Zug Spandau ab 0:38 Uhr nach Grünau (an 1:42 Uhr) endet bereits um 1:33 Uhr in Schöneweide.
+* Der Zug fällt von Schöneweide bis Grünau aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Grünau \> Schöneweide ###
+
+06.11. (Mo) bis 10.11. (Fr) jeweils 3:41 Uhr bis 3:53 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&tx_sbbconstructions_list%5Bperiod%5D=17385&type=5679&cHash=8958f280ac74bb273066bf8c71532075)
+
+ fährt nicht
+
+Information
+
+* Der Zug Grünau ab 3:41 Uhr nach Spandau (an 4:47 Uhr) beginnt erst um 3:53 Uhr in Schöneweide.
+* Der Zug fällt von Grünau bis Schöneweide aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
