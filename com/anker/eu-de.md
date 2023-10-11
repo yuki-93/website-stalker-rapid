@@ -6,22 +6,6 @@ Herbstliche Sparangebote für die beste Ladelösung. Bis zu 39% Rabatt.
 
 [Jetzt shoppen \>\>](https://www.anker.com/eu-de/herbst-sale-chg?ref=topbanner)
 
-00
-
-:
-
-Std.
-
-44
-
-:
-
-Min.
-
-33
-
-Sek.
-
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Früher Oktober Prime Day, Bis zu 900€ Rabatt!](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren\>\>](https://www.anker.com/eu-de/anker-solix/prime-day-angebot-pps?ref=naviBar)
 
 Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Herbst Sale](https://www.anker.com/eu-de/herbst-sale-chg?ref=naviMenu)
@@ -34,22 +18,6 @@ Herbstliche Sparangebote für
 die beste Ladelösung
 
 Bis zu 39% Rabatt
-
-00
-
-:
-
-Stunden
-
-44
-
-:
-
-Minuten
-
-33
-
-Sekunden
 
 [Zum AngebotmasterBanner1](https://www.anker.com/eu-de/herbst-sale-chg?ref=masterBanner1)
 
@@ -66,22 +34,6 @@ Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 Oktober Prime Day: Bis zu 640€ Rabatt
 
 Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
-
-00
-
-:
-
-Stunden
-
-44
-
-:
-
-Minuten
-
-33
-
-Sekunden
 
 [Mehr erfahrenmasterBanner3](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner3)
 
