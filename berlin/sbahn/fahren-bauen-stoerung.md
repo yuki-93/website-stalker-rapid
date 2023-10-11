@@ -982,6 +982,10 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17390&type=5679&cHash=0ac1e4c7994b3c418edf0231cde8e517)
 
+09.11. (Do) jeweils 3:02 Uhr bis 3:24 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17395&type=5679&cHash=93607c6f9282b50bde717e132a3c37a7)
+
 10.11. (Fr) jeweils 3:02 Uhr bis 3:24 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17391&type=5679&cHash=086b7a911f5c68a43bc994672a753cd9)
@@ -1490,6 +1494,10 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17390&type=5679&cHash=0ac1e4c7994b3c418edf0231cde8e517)
 
+09.11. (Do) jeweils 3:02 Uhr bis 3:24 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17395&type=5679&cHash=93607c6f9282b50bde717e132a3c37a7)
+
 10.11. (Fr) jeweils 3:02 Uhr bis 3:24 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17391&type=5679&cHash=086b7a911f5c68a43bc994672a753cd9)
@@ -1622,6 +1630,10 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26783&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19878&tx_sbbconstructions_list%5Bperiod%5D=17388&type=5679&cHash=798ed55433db1c3a02fc325d574fca60)
 
+09.11. (Do) jeweils 3:05 Uhr bis 3:09 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26783&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19878&tx_sbbconstructions_list%5Bperiod%5D=17394&type=5679&cHash=d5d7aa6632d5571710c2b6b0626b42e1)
+
 10.11. (Fr) jeweils 3:05 Uhr bis 3:09 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26783&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19878&tx_sbbconstructions_list%5Bperiod%5D=17389&type=5679&cHash=1410f4a8bc6ad1c609a579864e2a5bb8)
@@ -1653,3 +1665,39 @@ Information
 * Der Zug Flughafen BER – Terminal 1-2 ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:37 Uhr in Friedrichstraße.
 * Der Zug fällt von Friedrichstraße bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Friedrichstraße ###
+
+09.11. (Do) jeweils 3:12 Uhr bis 3:28 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&tx_sbbconstructions_list%5Bperiod%5D=17396&type=5679&cHash=e1023facd9cf7c286195daceb1713fc6)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:28 Uhr in Friedrichstraße.
+* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Friedrichstraße ###
+
+09.11. (Do) jeweils 3:32 Uhr bis 3:48 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17822&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=14045&tx_sbbconstructions_list%5Bperiod%5D=17397&type=5679&cHash=3e276186055eeba3eb28eb44b872a6ad)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:48 Uhr in Friedrichstraße.
+* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
