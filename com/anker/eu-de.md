@@ -4,21 +4,21 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e
 
 Herbstliche Sparangebote für die beste Ladelösung. Bis zu 39% Rabatt.
 
-[Jetzt shoppen \>\>](https://www.anker.com/eu-de/herbst-sale-chg)
+[Jetzt shoppen \>\>](https://www.anker.com/eu-de/herbst-sale-chg?ref=topbanner)
 
-18
+17
 
 :
 
 Std.
 
-41
+38
 
 :
 
 Min.
 
-48
+09
 
 Sek.
 
@@ -35,55 +35,23 @@ die beste Ladelösung
 
 Bis zu 39% Rabatt
 
-18
+17
 
 :
 
 Stunden
 
-41
+38
 
 :
 
 Minuten
 
-48
+09
 
 Sekunden
 
 [Zum AngebotmasterBanner1](https://www.anker.com/eu-de/herbst-sale-chg?ref=masterBanner1)
-
-30 Tage Bestpreisgarantie
-
-Oktober Prime Day: Bis zu 640€ Rabatt
-
-Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
-
-18
-
-:
-
-Stunden
-
-41
-
-:
-
-Minuten
-
-48
-
-Sekunden
-
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner2)
-
-Anker SOLIX F3800
-
-Minimaler Aufwand, Maximale Power
-
-Erweiterbar auf 26.900Wh | Power für alle Haushaltsgeräte Ladeleistung für Elektrofahrzeuge | Power für Camping InfiniPower™ Technologie
-
-[45% RabattmasterBanner3](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=masterBanner3)
 
 Anker Nano
 
@@ -91,7 +59,39 @@ Anker Nano
 
 Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
-[Mehr erfahrenmasterBanner4](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner4)
+[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner2)
+
+30 Tage Bestpreisgarantie
+
+Oktober Prime Day: Bis zu 640€ Rabatt
+
+Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
+
+17
+
+:
+
+Stunden
+
+38
+
+:
+
+Minuten
+
+09
+
+Sekunden
+
+[Mehr erfahrenmasterBanner3](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner3)
+
+Anker SOLIX F3800
+
+Minimaler Aufwand, Maximale Power
+
+Erweiterbar auf 26.900Wh | Power für alle Haushaltsgeräte Ladeleistung für Elektrofahrzeuge | Power für Camping InfiniPower™ Technologie
+
+[45% RabattmasterBanner4](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=masterBanner4)
 
 Das Anker-Erlebnis entdecken
 ----------
