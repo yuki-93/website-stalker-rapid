@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Südkreuz ###
 
- Letztes Update: 14:30 / 11.10.2023
+ Letztes Update: 16:09 / 11.10.2023
 
 Information
 
@@ -17,8 +17,8 @@ Wegen kurzfristiger Bauarbeiten kommt es **heute Abend ab ca. 22:00 Uhr bis ca
 **Die betroffenen Linien fahren dann wie folgt:**
 
 * **S41/S42:** verkehren **in Südkreuz nur von Gleis 11**
-* **S45:** Flughafen BER Terminal 1-2 \<\> Hermannstraße
-* **S46:** Königs Wusterhausen \<\> Tempelhof
+* **S45:** Flughafen BER Terminal 1-2 \<\> Hermannstraße, *bitte nutzen Sie zwischen Hermannstraße und Südkreuz die Linien S41 und S42*
+* **S46:** Königs Wusterhausen \<\> Tempelhof, *bitte nutzen Sie zwischen Tempelhof und Westend die Linien S41 und S42*
 
 Wir bitten um Entschuldigung.
 
