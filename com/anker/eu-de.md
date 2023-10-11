@@ -2,23 +2,23 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e
 
 []()
 
-Herbstliche Sparangebote für die beste Ladelösung
+Herbstliche Sparangebote für die beste Ladelösung. Bis zu 39% Rabatt.
 
 [Jetzt shoppen \>\>](https://www.anker.com/eu-de/herbst-sale-chg)
 
-19
+18
 
 :
 
 Std.
 
-34
+41
 
 :
 
 Min.
 
-55
+48
 
 Sek.
 
@@ -30,13 +30,28 @@ Schwestermarken & Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
-Anker Nano
+Herbstliche Sparangebote für
+die beste Ladelösung
 
- C-ing is Believing
+Bis zu 39% Rabatt
 
-Höchste Ladegeschwindigkeiten für dein USB-C iPhone
+18
 
-[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner1)
+:
+
+Stunden
+
+41
+
+:
+
+Minuten
+
+48
+
+Sekunden
+
+[Zum AngebotmasterBanner1](https://www.anker.com/eu-de/herbst-sale-chg?ref=masterBanner1)
 
 30 Tage Bestpreisgarantie
 
@@ -44,19 +59,19 @@ Oktober Prime Day: Bis zu 640€ Rabatt
 
 Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
 
-19
+18
 
 :
 
 Stunden
 
-34
+41
 
 :
 
 Minuten
 
-55
+48
 
 Sekunden
 
@@ -70,28 +85,13 @@ Erweiterbar auf 26.900Wh | Power für alle Haushaltsgeräte Ladeleistung für El
 
 [45% RabattmasterBanner3](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=masterBanner3)
 
-Herbstliche Sparangebote für
-die beste Ladelösung
+Anker Nano
 
-Nur für kurze Zeit!
+ C-ing is Believing
 
-19
+Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
-:
-
-Stunden
-
-34
-
-:
-
-Minuten
-
-55
-
-Sekunden
-
-[Zum AngebotmasterBanner4](https://www.anker.com/eu-de/herbst-sale-chg?ref=masterBanner4)
+[Mehr erfahrenmasterBanner4](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner4)
 
 Das Anker-Erlebnis entdecken
 ----------
