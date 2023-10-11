@@ -6,19 +6,19 @@ Herbstliche Sparangebote für die beste Ladelösung. Bis zu 39% Rabatt.
 
 [Jetzt shoppen \>\>](https://www.anker.com/eu-de/herbst-sale-chg?ref=topbanner)
 
-05
+04
 
 :
 
 Std.
 
-36
+40
 
 :
 
 Min.
 
-55
+09
 
 Sek.
 
@@ -35,19 +35,19 @@ die beste Ladelösung
 
 Bis zu 39% Rabatt
 
-05
+04
 
 :
 
 Stunden
 
-36
+40
 
 :
 
 Minuten
 
-55
+09
 
 Sekunden
 
@@ -67,19 +67,19 @@ Oktober Prime Day: Bis zu 640€ Rabatt
 
 Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
 
-05
+04
 
 :
 
 Stunden
 
-36
+40
 
 :
 
 Minuten
 
-55
+09
 
 Sekunden
 
