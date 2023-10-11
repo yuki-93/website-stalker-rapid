@@ -4,33 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
-### Vorabinformation: kurzfristige Bauarbeiten in Südkreuz ###
+### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 17:31 / 09.10.2023
+ Letztes Update: 03:53 / 11.10.2023
 
 Information
 
-**\- Vorabinformation -**
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen - BER Terminal 1-2 und Tempelhof.
 
-In der **Nacht 11./12.10.2023 (Mi/Do) von ca. 22:00 Uhr bis ca. 01:30 Uhr** kommt es durch kurzfristige Bauarbeiten auf den Linien S41, S42, S45 und S46 zu Fahrplanänderungen.
-
-**Zugverkehr:**
-
-* **S41/S42:** in Südkreuz ist in beiden Fahrtrichtungen ein Umstieg (Wechsel der Bahnsteigseite) erforderlich
-* **S45:** fährt Flughafen BER Terminal 1-2 \<\> Hermannstraße
-* **S46:** fährt Königs Wusterhausen \<\> Tempelhof
+*Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.*
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Vorabinformation: kurzfristige Bauarbeiten zwischen Grunewald und Wannsee ###
 
- Letztes Update: 15:53 / 09.10.2023
+ Letztes Update: 03:48 / 11.10.2023
 
 Information
 
@@ -58,7 +52,49 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Vorabinformation: kurzfristige Bauarbeiten in Südkreuz ###
+
+ Letztes Update: 03:46 / 11.10.2023
+
+Information
+
+**\- Vorabinformation -**
+
+In der **Nacht 11./12.10.2023 (Mi/Do) von ca. 22:00 Uhr bis ca. 01:30 Uhr** kommt es durch kurzfristige Bauarbeiten auf den Linien S41, S42, S45 und S46 zu Fahrplanänderungen.
+
+**Zugverkehr:**
+
+* **S41/S42:** verkehren in Südkreuz nur von Gleis 11
+* **S45:** fährt Flughafen BER Terminal 1-2 \<\> Hermannstraße
+* **S46:** fährt Königs Wusterhausen \<\> Tempelhof
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Lichtenberg – Westkreuz ###
+
+Nächte 10./11.10. (Di/Mi) und 11./12.10. (Mi/Do) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27976&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21106&tx_sbbconstructions_list%5Bperiod%5D=17270&type=5679&cHash=fb1e5c1ccaef9c8c6e4efb7e15af17a8)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung in Ostbahnhof
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-ostbahnhof-3/#con-27976)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -118,26 +154,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bahnuebergangsarbeiten-bauzustandswechsel/#con-27900)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Lichtenberg – Westkreuz ###
-
-Nächte 10./11.10. (Di/Mi) und 11./12.10. (Mi/Do) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27976&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21106&tx_sbbconstructions_list%5Bperiod%5D=17270&type=5679&cHash=fb1e5c1ccaef9c8c6e4efb7e15af17a8)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung in Ostbahnhof
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-ostbahnhof-3/#con-27976)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -165,6 +181,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Lichtenberg – Westkreuz ###
+
+Nächte 10./11.10. (Di/Mi) und 11./12.10. (Mi/Do) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27976&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21106&tx_sbbconstructions_list%5Bperiod%5D=17270&type=5679&cHash=fb1e5c1ccaef9c8c6e4efb7e15af17a8)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung in Ostbahnhof
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-ostbahnhof-3/#con-27976)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -223,26 +259,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bahnuebergangsarbeiten-bauzustandswechsel/#con-27900)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Lichtenberg – Westkreuz ###
-
-Nächte 10./11.10. (Di/Mi) und 11./12.10. (Mi/Do) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27976&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21106&tx_sbbconstructions_list%5Bperiod%5D=17270&type=5679&cHash=fb1e5c1ccaef9c8c6e4efb7e15af17a8)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung in Ostbahnhof
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-ostbahnhof-3/#con-27976)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
