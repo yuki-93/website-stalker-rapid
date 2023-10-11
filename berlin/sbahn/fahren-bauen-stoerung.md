@@ -4,15 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### kurzfristige Bauarbeiten in Südkreuz ###
+
+ Letztes Update: 18:20 / 11.10.2023
+
+Information
+
+Wegen kurzfristiger Bauarbeiten kommt es **ab ca. 22:00 Uhr bis 01:30 Uhr** auf den Linien S41, S42, S45 und S46 zu Fahrplanänderungen.
+
+**Die betroffenen Linien fahren dann wie folgt:**
+
+* **S42:** verkehrt **in Südkreuz von Gleis 11** (wie S41)
+* **S45:** Flughafen BER Terminal 1-2 \<\> Hermannstraße, *bitte nutzen Sie zwischen Hermannstraße und Südkreuz die Linien S41 und S42*
+* **S46:** Königs Wusterhausen \<\> Tempelhof, *bitte nutzen Sie zwischen Tempelhof und Westend die Linien S41 und S42*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristige Bauarbeiten zwischen Grunewald und Wannsee ###
 
- Letztes Update: 17:08 / 11.10.2023
+ Letztes Update: 18:18 / 11.10.2023
 
 Information
 
-Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der Linie S7 **heute Abend** **von ca. 22:00 Uhr bis ca. 01:30 Uhr** zwischen Grunewald und Wannsee unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der Linie S7 **ab** **ca. 22:00 Uhr bis 01:30 Uhr** zwischen Grunewald und Wannsee unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
 ---
 
@@ -40,26 +60,6 @@ Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der Linie S7 **heute Abend**
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unterbrochen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### kurzfristige Bauarbeiten in Südkreuz ###
-
- Letztes Update: 16:09 / 11.10.2023
-
-Information
-
-Wegen kurzfristiger Bauarbeiten kommt es **heute Abend ab ca. 22:00 Uhr bis ca. 01:30 Uhr** auf den Linien S41, S42, S45 und S46 zu Fahrplanänderungen.
-
-**Die betroffenen Linien fahren dann wie folgt:**
-
-* **S41/S42:** verkehren **in Südkreuz nur von Gleis 11**
-* **S45:** Flughafen BER Terminal 1-2 \<\> Hermannstraße, *bitte nutzen Sie zwischen Hermannstraße und Südkreuz die Linien S41 und S42*
-* **S46:** Königs Wusterhausen \<\> Tempelhof, *bitte nutzen Sie zwischen Tempelhof und Westend die Linien S41 und S42*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
