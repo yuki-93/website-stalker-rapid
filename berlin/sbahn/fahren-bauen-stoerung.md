@@ -24,20 +24,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### technische Untersuchung am Zug in Baumschulenweg beendet ###
-
- Letztes Update: 19:31 / 11.10.2023
-
-Information
-
-Nach einer technischen Untersuchung am Zug in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristige Bauarbeiten zwischen Grunewald und Wannsee ###
