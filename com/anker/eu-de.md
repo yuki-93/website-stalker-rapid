@@ -6,19 +6,19 @@ Herbstliche Sparangebote für die beste Ladelösung. Bis zu 39% Rabatt.
 
 [Jetzt shoppen \>\>](https://www.anker.com/eu-de/herbst-sale-chg?ref=topbanner)
 
-13
+12
 
 :
 
 Std.
 
-35
+40
 
 :
 
 Min.
 
-50
+46
 
 Sek.
 
@@ -35,19 +35,19 @@ die beste Ladelösung
 
 Bis zu 39% Rabatt
 
-13
+12
 
 :
 
 Stunden
 
-35
+40
 
 :
 
 Minuten
 
-49
+46
 
 Sekunden
 
@@ -67,19 +67,19 @@ Oktober Prime Day: Bis zu 640€ Rabatt
 
 Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
 
-13
+12
 
 :
 
 Stunden
 
-35
+40
 
 :
 
 Minuten
 
-49
+46
 
 Sekunden
 
@@ -91,7 +91,7 @@ Minimaler Aufwand, Maximale Power
 
 Erweiterbar auf 26.900Wh | Power für alle Haushaltsgeräte Ladeleistung für Elektrofahrzeuge | Power für Camping InfiniPower™ Technologie
 
-[45% RabattmasterBanner4](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=masterBanner4)
+[35% RabattmasterBanner4](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=masterBanner4)
 
 Das Anker-Erlebnis entdecken
 ----------
