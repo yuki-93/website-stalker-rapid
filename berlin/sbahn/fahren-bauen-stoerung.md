@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an einer Weiche in Südkreuz ###
-
- Letztes Update: 04:24 / 10.10.2023
-
-Information
-
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen - BER Terminal 1-2 und Tempelhof.
-
-*Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Vorabinformation: kurzfristige Bauarbeiten in Südkreuz ###
@@ -75,26 +59,6 @@ Wir bitten um Entschuldigung.
  Zugverkehr verändert
 
 ### Baumaßnahmen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Hohen Neuendorf \<\> Oranienburg ###
-
-Nächte 09./10.10. (Mo/Di) und 10./11.10. (Di/Mi) jeweils 21:45 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27944&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21074&tx_sbbconstructions_list%5Bperiod%5D=17253&type=5679&cHash=0253fb831d1815407f6c123e9a499bb5)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-am-elektronische-stellerk-s1-nord-lst-montagearbeiten-kabellegung/#con-27944)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
