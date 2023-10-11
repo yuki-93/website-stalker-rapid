@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Südkreuz ###
 
- Letztes Update: 18:27 / 11.10.2023
+ Letztes Update: 20:17 / 11.10.2023
 
 Information
 
@@ -16,13 +16,27 @@ Wegen kurzfristiger Bauarbeiten kommt es **ab ca. 22:00 Uhr bis 01:30 Uhr** a
 
 **Die betroffenen Linien fahren dann wie folgt:**
 
-* **S42:** verkehrt **in Schöneberg** und **in Südkreuz von Gleis 11,** und **in Tempelhof von Gleis 1***(**jeweils wie S41**)*
+* **S41/ S42:** verkehren in Südkreuz von Gleis 11, **zur Weiterfahrt ist in Südkreuz in beiden Fahrtrichtungen ein Umstieg erforderlich**
 * **S45:** Flughafen BER Terminal 1-2 \<\> Hermannstraße, *bitte nutzen Sie zwischen Hermannstraße und Südkreuz die Linien S41 und S42*
 * **S46:** Königs Wusterhausen \<\> Tempelhof, *bitte nutzen Sie zwischen Tempelhof und Westend die Linien S41 und S42*
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Untersuchung am Zug in Baumschulenweg beendet ###
+
+ Letztes Update: 19:31 / 11.10.2023
+
+Information
+
+Nach einer technischen Untersuchung am Zug in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
