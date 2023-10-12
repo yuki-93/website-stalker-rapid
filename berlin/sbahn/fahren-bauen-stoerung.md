@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Zug in Königs Wusterhausen ###
+
+ Letztes Update: 16:12 / 12.10.2023
+
+Information
+
+Wegen der Reparatur an einem Zug in Königs Wusterhausen bei der Fernbahn ist der Zugverkehr der Linie S46 zwischen Wildau und Königs Wusterhausen unterbrochen.
+
+Bitte nutzen Sie zwischen Wildau und Königs Wusterhausen die Buslinien 736 und 737.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Landsberger Allee ###
