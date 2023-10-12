@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Zug in Königs Wusterhausen beendet ###
-
- Letztes Update: 17:16 / 12.10.2023
-
-Information
-
-Die Reparatur an einem Zug in Königs Wusterhausen bei der Fernbahn ist beendet. Die Linie S46 verkehrt wieder planmäßig zwischen Westend und Königs Wusterhausen.
-
-Gute Fahrt!
-
- sonstige Einschränkungen
-
 [S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Landsberger Allee ###
