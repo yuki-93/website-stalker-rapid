@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Landsberger Allee und Plänterwald ###
+### Reparatur an einem Signal in Landsberger Allee ###
 
- Letztes Update: 06:08 / 12.10.2023
+ Letztes Update: 07:17 / 12.10.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Landsberger Allee und Plänterwald kommt es auf den Linien S42, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Landsberger Allee und Plänterwald kommt es auf den Linien S42, S8 und S85 zu Verspätungen und Ausfällen.
 
 \* Die Linie S85 verkehrt nicht.
 
