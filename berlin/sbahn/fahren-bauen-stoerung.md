@@ -8,33 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Landsberger Allee ###
 
- Letztes Update: 07:17 / 12.10.2023
+ Letztes Update: 07:39 / 12.10.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Landsberger Allee und Plänterwald kommt es auf den Linien S42, S8 und S85 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Landsberger Allee kommt es auf den Linien S42, S8 und S85 zu Verspätungen und Ausfällen.
 
 \* Die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Altglienicke ###
-
- Letztes Update: 04:41 / 12.10.2023
-
-Information
-
-Wegen eines Polizeieinsatzes in Altglienicke entfällt der Verkehrshalt auf den Linien S45 und S9.
-
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
