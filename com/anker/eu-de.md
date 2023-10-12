@@ -31,9 +31,11 @@ Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
 30 Tage Bestpreisgarantie
 
-Oktober Prime Day: Bis zu 640€ Rabatt
+Letzte Chance: Bis zu 590€ Rabatt
 
 Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
+
+12.-15. Oktober
 
 [Mehr erfahrenmasterBanner3](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner3)
 
@@ -74,13 +76,13 @@ Das Anker-Erlebnis entdecken
 
    ###
 
-  ### Oktober Prime Day ###
+  ### Letzte Chance:  ###
 
-  ### Bis zu 640€ Rabatt ###
+  ### Bis zu 590€ Rabatt ###
 
   Anker SOLIX Balkonkraftwerk | Das Upgrade auf 800W
 
-  [Mehr erfahren Bester Preis ,Oktober Prime Day,Bis zu 640€ Rabatt](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner4_4)
+  [Mehr erfahren Bester Preis ,Letzte Chance: ,Bis zu 590€ Rabatt](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner4_4)
 
 * ### Anker GaNPrime  ###
 
