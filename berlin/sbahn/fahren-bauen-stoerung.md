@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Landsberger Allee ###
 
- Letztes Update: 07:39 / 12.10.2023
+ Letztes Update: 11:01 / 12.10.2023
 
 Information
 
 Wegen der Reparatur an einem Signal in Landsberger Allee kommt es auf den Linien S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+\*Die Linie S42 verkehrt nur im 10-Minuten-Takt.
 
 \* Die Linie S85 verkehrt nicht.
 
