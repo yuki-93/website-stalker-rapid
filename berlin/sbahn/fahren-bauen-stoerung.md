@@ -2,6 +2,40 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Landsberger Allee ###
+
+ Letztes Update: 05:18 / 12.10.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Landsberger Allee kommt es auf den Linien S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+\* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Altglienicke ###
+
+ Letztes Update: 04:41 / 12.10.2023
+
+Information
+
+Wegen eines Polizeieinsatzes in Altglienicke entfällt der Verkehrshalt auf den Linien S45 und S9.
+
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)

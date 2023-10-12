@@ -6,22 +6,6 @@ Dein zweiter Kauf mit 50% Rabatt
 
 [Zum Angebot \>\>](https://www.anker.com/eu-de/herbst-sale-chg?ref=topbanner)
 
-19
-
-:
-
-Std.
-
-36
-
-:
-
-Min.
-
-54
-
-Sek.
-
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Letzte Chance: Bis zu 900€ Rabatt!](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren\>\>](https://www.anker.com/eu-de/anker-solix/prime-day-angebot-pps?ref=naviBar)
 
 Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Herbst Sale](https://www.anker.com/eu-de/herbst-sale-chg?ref=naviMenu)
@@ -34,22 +18,6 @@ Frühe Black Friday Angebote für die
 beste Ladepower
 
 Dein zweiter Kauf mit 50% Rabatt
-
-163
-
-:
-
-Stunden
-
-36
-
-:
-
-Minuten
-
-54
-
-Sekunden
 
 [Zum AngebotmasterBanner1](https://www.anker.com/eu-de/herbst-sale-chg?ref=masterBanner1)
 
