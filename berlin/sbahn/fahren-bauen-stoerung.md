@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einem Zug in Königs Wusterhausen ###
+### Reparatur an einem Zug in Königs Wusterhausen beendet ###
 
- Letztes Update: 16:12 / 12.10.2023
+ Letztes Update: 17:16 / 12.10.2023
 
 Information
 
-Wegen der Reparatur an einem Zug in Königs Wusterhausen bei der Fernbahn ist der Zugverkehr der Linie S46 zwischen Wildau und Königs Wusterhausen unterbrochen.
+Die Reparatur an einem Zug in Königs Wusterhausen bei der Fernbahn ist beendet. Die Linie S46 verkehrt wieder planmäßig zwischen Westend und Königs Wusterhausen.
 
-Bitte nutzen Sie zwischen Wildau und Königs Wusterhausen die Buslinien 736 und 737.
+Gute Fahrt!
 
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen
 
 [S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
