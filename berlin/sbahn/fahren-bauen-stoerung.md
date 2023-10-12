@@ -8,18 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Landsberger Allee ###
 
- Letztes Update: 13:13 / 12.10.2023
+ Letztes Update: 14:34 / 12.10.2023
 
 Information
 
 Wegen der Reparatur an einem Signal in Landsberger Allee kommt es auf den Linien S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Die Linie **S42** verkehrt nur im 10-Minuten-Takt.
 * Die Linie **S85** verkehrt nur zwischen Grünau und Treptower Park, *bitte nutzen Sie zwischen Treptower Park und Pankow die Linie S8*.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
