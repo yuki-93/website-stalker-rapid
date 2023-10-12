@@ -262,12 +262,6 @@
 
 26,06 €mit MwSt.
 
-[Shelly H&T Black](https://www.shelly.com/de/products/shop/shelly-h-and-t-black)
-
-20,90 €
-
-24,87 €mit MwSt.
-
 [Shelly H&T](https://www.shelly.com/de/products/shop/shelly-ht-w)
 
 20,90 €
