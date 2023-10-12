@@ -2,7 +2,7 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e
 
 []()
 
-Dein zweiter Kauf mit 50% Rabatt
+50% Rabatt auf dein zweites Produkt im gesamten Sortiment.
 
 [Zum Angebot \>\>](https://www.anker.com/eu-de/herbst-sale-chg?ref=topbanner)
 
@@ -17,7 +17,7 @@ Schwestermarken & Hilfe
 Frühe Black Friday Angebote für die
 beste Ladepower
 
-Dein zweiter Kauf mit 50% Rabatt
+50% Rabatt auf dein zweites Produkt im gesamten Sortiment.
 
 [Zum AngebotmasterBanner1](https://www.anker.com/eu-de/herbst-sale-chg?ref=masterBanner1)
 
