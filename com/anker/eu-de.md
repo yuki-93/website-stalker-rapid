@@ -29,6 +29,8 @@ Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
 [Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner2)
 
+[Apple-Zubehör entdecken \>\>](https://www.anker.com/eu-de/collections/apple-accessories)
+
 30 Tage Bestpreisgarantie
 
 Letzte Chance: Bis zu 590€ Rabatt
