@@ -4,31 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einer Weiche in Treptower Park ###
+### Reparatur an einem Signal in Hauptbahnhof ###
 
- Letztes Update: 16:08 / 13.10.2023
+ Letztes Update: 17:10 / 13.10.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Treptower Park kommt es auf der Linei S42 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+Die zusätzlichen Züge der Linie S5 zwischen Mahlsdorf und Ostbahnhof verkehren nicht.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz im Bereich Friedrichsfelde Ost beendet ###
+### Reparatur an einer Weiche in Treptower Park ###
 
- Letztes Update: 15:44 / 13.10.2023
+ Letztes Update: 16:31 / 13.10.2023
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Friedrichsfelde Ost wegen unbefugter Personen auf der Strecke kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S42, S8 und S85 zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Ihr Verständnis
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
