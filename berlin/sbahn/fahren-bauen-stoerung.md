@@ -81,27 +81,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bahnuebergangsarbeiten-bauzustandswechsel/#con-27900)
 
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Schöneweide ###
-
-13.10. (Fr) 3:05 Uhr bis 3:23 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25446&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=18599&tx_sbbconstructions_list%5Bperiod%5D=17276&type=5679&cHash=40f08b9fb01a2349519c39e2340a0444)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER - Terminal 1-2 (an 3:45 Uhr) beginnt abweichend in Schöneweide ab 3:23 Uhr.
-* Der Zug fällt von Alexanderplatz bis Schöneweide aus.
-* In Schöneweide fährt dieser Zug abweichend von Gleis 5 (Bahnsteig stadteinwärts).
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
