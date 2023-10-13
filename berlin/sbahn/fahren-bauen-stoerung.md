@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Hauptbahnhof ###
+### Polizeieinsatz in Hauptbahnhof beendet ###
 
- Letztes Update: 11:15 / 13.10.2023
+ Letztes Update: 11:36 / 13.10.2023
 
 Information
 
-Wegen eines Polizeieinsatzes in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
@@ -1116,7 +1116,10 @@ Nächte 20./21.11. (Mo/Di) und 21./22.11. (Di/Mi), jeweils ca. 22.20 Uhr - 1.30 
 
 Information
 
-* Ersatzverkehr mit Bussen zwischen Attilastraße und Südkreuz
+* Ersatzverkehr mit Bussen
+  * Bus S2: Attilastraße und Südkreuz
+
+* Fahrplanänderung
 * Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
