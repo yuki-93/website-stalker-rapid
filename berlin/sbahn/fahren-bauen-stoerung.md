@@ -4,34 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Polizeieinsatz in Karlshorst beendet ###
-
- Letztes Update: 18:12 / 13.10.2023
-
-Information
-
-Nach einem Polizeieinsatz in Karlshorst kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
-
-* Die zusätzlichen Züge zwischen Karlshorst und Ostbahnhof verkehren nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Hauptbahnhof ###
 
- Letztes Update: 17:26 / 13.10.2023
+ Letztes Update: 19:33 / 13.10.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Die zusätzlichen Züge der Linie S5 zwischen Mahlsdorf und Ostbahnhof verkehren nicht.
-* Der 10-Minuten-Takt der Linie S5 kann nur zwischen Hoppegarten und Warschauer Straße angeboten werden.
+* Die Linie **S5** verkehrt nur zwischen Strausberg Nord und Ostbahnhof, *der 10-Minuten-Takt besteht zwischen Mahlsdorf und Warschauer Straße*.
 
 Wir bitten um Entschuldigung.
 
