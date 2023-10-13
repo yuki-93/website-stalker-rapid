@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Altglienicke ###
-
- Letztes Update: 04:41 / 12.10.2023
-
-Information
-
-Wegen eines Polizeieinsatzes in Altglienicke entfällt der Verkehrshalt auf den Linien S45 und S9.
-
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
