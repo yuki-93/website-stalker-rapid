@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an einer Weiche in Treptower Park ###
+
+ Letztes Update: 16:08 / 13.10.2023
+
+Information
+
+Wegen der Reparatur an einer Weiche in Treptower Park kommt es auf der Linei S42 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz im Bereich Friedrichsfelde Ost beendet ###
+
+ Letztes Update: 15:44 / 13.10.2023
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Friedrichsfelde Ost wegen unbefugter Personen auf der Strecke kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
