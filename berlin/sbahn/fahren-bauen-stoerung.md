@@ -6,15 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Hauptbahnhof ###
+### Reparatur an einem Signal in Hauptbahnhof beendet ###
 
- Letztes Update: 19:33 / 13.10.2023
+ Letztes Update: 21:34 / 13.10.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Die Linie **S5** verkehrt nur zwischen Strausberg Nord und Ostbahnhof, *der 10-Minuten-Takt besteht zwischen Mahlsdorf und Warschauer Straße*.
+* die Linie **S5** verkehrt nur zwischen Strausberg Nord und Ostbahnhof.
 
 Wir bitten um Entschuldigung.
 
