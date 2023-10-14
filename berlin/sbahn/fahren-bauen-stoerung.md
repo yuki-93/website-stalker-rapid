@@ -2,6 +2,34 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Notarzteinsatz auf der Strecke in Humboldthain ###
+
+ Letztes Update: 12:17 / 14.10.2023
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Humboldthain ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Nordbahnhof \<\> Gesundbrunnen unterbrochen.
+
+\* Die Linie S1 verkehrt Potsdam Hauptbahnhof \<\> Nordbahnhof (10-Minuten-Takt) sowie Bornholmer Straße \<\> Oranienburg.
+
+\* Die Linie S2 verkehrt Blankenfelde/Lichtenrade \<\> Nordbahnhof sowie Gesundbrunnen \<\> Buch/Bernau.
+
+\* Die Linie S25 verkehrt Teltow Stadt \<\> Südkreuz sowie Bornholmer Straße \<\> Hennigsdorf.
+
+\* Die Linie S26 verkehrt nicht.
+
+\* Die Linie S85 verkehrt Schöneweide \<\> Treptower Park.
+
+Zur Umfahrung bitte ab Friedrichstraße die Linie U6 bis Wedding und ab Wedding nach Gesundbrunnen die Linie S41/S42 benutzen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)

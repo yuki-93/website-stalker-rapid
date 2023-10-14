@@ -1,63 +1,3 @@
-[Shelly Qubino Wave 1](https://www.shelly.com/de/products/shop/shelly-qubino-wave-1)
-
-20,92 €~~23,25 €~~
-
-24,89 €mit MwSt.
-
-[Shelly Qubino Wave 1PM](https://www.shelly.com/de/products/shop/shelly-qubino--wave-1-pm)
-
-22,42 €~~24,92 €~~
-
-26,68 €mit MwSt.
-
-[Shelly Qubino Wave 2PM](https://www.shelly.com/de/products/shop/shelly-qubino--wave-2-pm)
-
-26,17 €~~29,08 €~~
-
-31,14 €mit MwSt.
-
-[Shelly Qubino Wave Shutter](https://www.shelly.com/de/products/shop/shelly-qubino-wave-shutter)
-
-26,17 €~~29,08 €~~
-
-31,14 €mit MwSt.
-
-[Shelly Pro 1](https://www.shelly.com/de/products/shop/shelly-pro-1-1)
-
-44,50 €~~49,50 €~~
-
-52,96 €mit MwSt.
-
-[Shelly Pro 2](https://www.shelly.com/de/products/shop/shelly-pro-2)
-
-59,30 €~~65,90 €~~
-
-70,57 €mit MwSt.
-
-[Shelly Pro 1PM](https://www.shelly.com/de/products/shop/shelly-pro-1pm)
-
-54,45 €~~60,50 €~~
-
-64,80 €mit MwSt.
-
-[Shelly Pro 2PM](https://www.shelly.com/de/products/shop/shelly-pro-2pm)
-
-74,20 €~~82,50 €~~
-
-88,30 €mit MwSt.
-
-[Shelly Pro 3](https://www.shelly.com/de/products/shop/shelly-pro-3-1)
-
-62,90 €~~69,90 €~~
-
-74,85 €mit MwSt.
-
-[Shelly Pro Dual Cover / Shutter PM](https://www.shelly.com/de/products/shop/shelly-pro-dual-cover-pm)
-
-88,10 €~~97,90 €~~
-
-104,84 €mit MwSt.
-
 [Shelly Plus 0-10V Dimmer](https://www.shelly.com/de/products/shop/sw10094-2)
 
 14,90 €
@@ -154,6 +94,42 @@
 
 116,50 €mit MwSt.
 
+[Shelly Pro 1](https://www.shelly.com/de/products/shop/shelly-pro-1-1)
+
+49,50 €
+
+58,91 €mit MwSt.
+
+[Shelly Pro 2](https://www.shelly.com/de/products/shop/shelly-pro-2)
+
+65,90 €
+
+78,42 €mit MwSt.
+
+[Shelly Pro 1PM](https://www.shelly.com/de/products/shop/shelly-pro-1pm)
+
+60,50 €
+
+72,00 €mit MwSt.
+
+[Shelly Pro 2PM](https://www.shelly.com/de/products/shop/shelly-pro-2pm)
+
+82,50 €
+
+98,18 €mit MwSt.
+
+[Shelly Pro 3](https://www.shelly.com/de/products/shop/shelly-pro-3-1)
+
+69,90 €
+
+83,18 €mit MwSt.
+
+[Shelly Pro Dual Cover / Shutter PM](https://www.shelly.com/de/products/shop/shelly-pro-dual-cover-pm)
+
+97,90 €
+
+116,50 €mit MwSt.
+
 [Shelly BLU Gateway](https://www.shelly.com/de/products/shop/shelly-gateway)
 
 14,90 €
@@ -177,6 +153,30 @@
 14,90 €
 
 17,73 €mit MwSt.
+
+[Shelly Qubino Wave 1](https://www.shelly.com/de/products/shop/shelly-qubino-wave-1)
+
+23,25 €
+
+27,67 €mit MwSt.
+
+[Shelly Qubino Wave 1PM](https://www.shelly.com/de/products/shop/shelly-qubino--wave-1-pm)
+
+24,92 €
+
+29,65 €mit MwSt.
+
+[Shelly Qubino Wave 2PM](https://www.shelly.com/de/products/shop/shelly-qubino--wave-2-pm)
+
+29,08 €
+
+34,61 €mit MwSt.
+
+[Shelly Qubino Wave Shutter](https://www.shelly.com/de/products/shop/shelly-qubino-wave-shutter)
+
+29,08 €
+
+34,61 €mit MwSt.
 
 [Shelly 3EM](https://www.shelly.com/de/products/shop/shelly-3em-1)
 
