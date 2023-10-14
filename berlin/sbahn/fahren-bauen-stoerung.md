@@ -6,31 +6,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Stromausfall (Vattenfall) im Bereich Baumschulenweg ###
+### Störung an der Energieversorgung (Vattenfall) im Bereich Baumschulenweg behoben ###
 
- Letztes Update: 15:09 / 14.10.2023
+ Letztes Update: 16:12 / 14.10.2023
 
 Information
 
-Auf Grund einer Stromunterbrechung (Vattenfall) im Bereich Baumschulenweg ist der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 zwischen Schöneweide \<\> Neukölln/Treptower Park unterbrochen.
+Nach einer Störung an der Energieversorgung (Vattenfall) im Bereich Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Zugausfällen.
 
-\* Linie S45 verkehrt nicht.
+Die Linien S45 und S85 verkehren nicht.
 
-\* Linie S46 verkehrt Königs Wusterhausen \<\> Schöneweide.
+Wir bitten um Entschuldigung.
 
-\* Linie S47 verkehrt Spindlersfeld \<\> Schöneweide.
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
-\* Linie S8 verkehrt Birkenwerder \<\> Greifswalder Straße.
+[S26](https://sbahn.berlin/fahren/s26/)
 
-\* Linie S85 verkehrt nicht.
+### Notarzteinsatz auf der Strecke in Humboldthain beendet ###
 
-\* Linie S9 verkehrt Spandau \<\> Ostbahnhof sowie Schöneweide \<\> Flughafen BER Terminal 1,2.
+ Letztes Update: 15:26 / 14.10.2023
 
-Zur Umfahrung bitte die Züge der RB23 und RB24 sowie die Verkehrsmittel der BVG benutzen.
+Information
+
+Nach einem Notarzteinsatz auf der Strecke in Humboldthain verkehrt die Linie S26 nicht.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S42](https://sbahn.berlin/fahren/s42/)
 
@@ -45,22 +47,6 @@ Wegen der Reparatur am Signal in Tempelhof verkehrt die Linie S42 nur im 10-Minu
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Notarzteinsatz auf der Strecke in Humboldthain beendet ###
-
- Letztes Update: 14:53 / 14.10.2023
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Humboldthain kommt es auf den Linien S1, S2, S25, S26 und S85 noch zu Verspätungen und Ausfällen.
-
-\* Die Linie S26 verkehrt nicht.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
