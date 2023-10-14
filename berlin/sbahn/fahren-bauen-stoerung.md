@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Störung an der Energieversorgung (Vattenfall) im Bereich Baumschulenweg behoben ###
 
- Letztes Update: 16:31 / 14.10.2023
+ Letztes Update: 19:13 / 14.10.2023
 
 Information
 
-Nach einer Störung an der Energieversorgung (Vattenfall) im Bereich Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und Zugausfällen.
-
-\* Die Linien S45 und S85 verkehren nicht.
+Nach einer Störung an der Energieversorgung (Vattenfall) im Bereich Baumschulenweg verkehrt die Linie S85 nicht.
 
 Wir bitten um Entschuldigung.
 
@@ -24,15 +22,29 @@ Wir bitten um Entschuldigung.
 
 ### Reparatur am Signal in Tempelhof ###
 
- Letztes Update: 14:55 / 14.10.2023
+ Letztes Update: 19:05 / 14.10.2023
 
 Information
 
-Wegen der Reparatur am Signal in Tempelhof verkehrt die Linie S42 nur im 10-Minuten-Takt.
+Wegen der Reparatur am Signal in Tempelhof kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz im Bereich Friedrichstraße (Tunnel) beendet ###
+
+ Letztes Update: 19:00 / 14.10.2023
+
+Information
+
+Nach einem Polizeieinsatz (Personen auf der Strecke) im Bereich Friedrichstraße (Tunnel) kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständis.
+
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
