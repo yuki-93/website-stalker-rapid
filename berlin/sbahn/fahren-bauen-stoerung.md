@@ -8,23 +8,49 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Stromausfall (Vattenfall) im Bereich Baumschulenweg ###
 
- Letztes Update: 14:30 / 14.10.2023
+ Letztes Update: 15:09 / 14.10.2023
 
 Information
 
 Auf Grund einer Stromunterbrechung (Vattenfall) im Bereich Baumschulenweg ist der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 zwischen Schöneweide \<\> Neukölln/Treptower Park unterbrochen.
 
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+\* Linie S45 verkehrt nicht.
+
+\* Linie S46 verkehrt Königs Wusterhausen \<\> Schöneweide.
+
+\* Linie S47 verkehrt Spindlersfeld \<\> Schöneweide.
+
+\* Linie S8 verkehrt Birkenwerder \<\> Greifswalder Straße.
+
+\* Linie S85 verkehrt nicht.
+
+\* Linie S9 verkehrt Spandau \<\> Ostbahnhof sowie Schöneweide \<\> Flughafen BER Terminal 1,2.
+
+Zur Umfahrung bitte die Züge der RB23 und RB24 sowie die Verkehrsmittel der BVG benutzen.
 
 Wir bitten um Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur am Signal in Tempelhof ###
+
+ Letztes Update: 14:55 / 14.10.2023
+
+Information
+
+Wegen der Reparatur am Signal in Tempelhof verkehrt die Linie S42 nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Notarzteinsatz auf der Strecke in Humboldthain beendet ###
 
- Letztes Update: 14:25 / 14.10.2023
+ Letztes Update: 14:53 / 14.10.2023
 
 Information
 
@@ -34,7 +60,7 @@ Nach einem Notarzteinsatz auf der Strecke in Humboldthain kommt es auf den Linie
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
