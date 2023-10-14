@@ -8,29 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störung an der Energieversorgung (Vattenfall) im Bereich Baumschulenweg behoben ###
 
- Letztes Update: 16:12 / 14.10.2023
+ Letztes Update: 16:31 / 14.10.2023
 
 Information
 
-Nach einer Störung an der Energieversorgung (Vattenfall) im Bereich Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Zugausfällen.
+Nach einer Störung an der Energieversorgung (Vattenfall) im Bereich Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und Zugausfällen.
 
-Die Linien S45 und S85 verkehren nicht.
+\* Die Linien S45 und S85 verkehren nicht.
 
 Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Notarzteinsatz auf der Strecke in Humboldthain beendet ###
-
- Letztes Update: 15:26 / 14.10.2023
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Humboldthain verkehrt die Linie S26 nicht.
-
-Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
