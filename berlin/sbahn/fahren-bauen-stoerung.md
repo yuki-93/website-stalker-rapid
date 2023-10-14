@@ -4,27 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Notarzteinsatz auf der Strecke in Humboldthain ###
+### Stromausfall (Vattenfall) im Bereich Baumschulenweg ###
 
- Letztes Update: 12:17 / 14.10.2023
+ Letztes Update: 14:30 / 14.10.2023
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Humboldthain ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Nordbahnhof \<\> Gesundbrunnen unterbrochen.
+Auf Grund einer Stromunterbrechung (Vattenfall) im Bereich Baumschulenweg ist der Zugverkehr der Linien S45, S46, S47, S8, S85 und S9 zwischen Schöneweide \<\> Neukölln/Treptower Park unterbrochen.
 
-\* Die Linie S1 verkehrt Potsdam Hauptbahnhof \<\> Nordbahnhof (10-Minuten-Takt) sowie Bornholmer Straße \<\> Oranienburg.
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
 
-\* Die Linie S2 verkehrt Blankenfelde/Lichtenrade \<\> Nordbahnhof sowie Gesundbrunnen \<\> Buch/Bernau.
+Wir bitten um Verständnis.
 
-\* Die Linie S25 verkehrt Teltow Stadt \<\> Südkreuz sowie Bornholmer Straße \<\> Hennigsdorf.
+ fährt nicht  Verbindung unterbrochen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Notarzteinsatz auf der Strecke in Humboldthain beendet ###
+
+ Letztes Update: 14:25 / 14.10.2023
+
+Information
+
+Nach einem Notarzteinsatz auf der Strecke in Humboldthain kommt es auf den Linien S1, S2, S25, S26 und S85 noch zu Verspätungen und Ausfällen.
 
 \* Die Linie S26 verkehrt nicht.
-
-\* Die Linie S85 verkehrt Schöneweide \<\> Treptower Park.
-
-Zur Umfahrung bitte ab Friedrichstraße die Linie U6 bis Wedding und ab Wedding nach Gesundbrunnen die Linie S41/S42 benutzen.
 
 Wir bitten um Verständnis.
 
