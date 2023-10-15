@@ -37,19 +37,19 @@ Letzte Chance: Bis zu 590€ Rabatt
 
 Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
 
-06
+05
 
 :
 
 Stunden
 
-44
+36
 
 :
 
 Minuten
 
-08
+47
 
 Sekunden
 
