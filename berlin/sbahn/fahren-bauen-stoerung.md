@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Notarzteinsatz auf der Strecke Griebnitzsee\<\>Babelsberg ###
+
+ Letztes Update: 06:12 / 15.10.2023
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke ist der Zugverkehr der Linie S1 zwischen Griebnitzsee \<\> Potsdam Hauptbahnhof unterbrochen.
+
+Zur Umfahrung bitte die Züge der RE1 und örtlichen Verkehrsmittel benutzen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)

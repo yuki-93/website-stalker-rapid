@@ -37,6 +37,22 @@ Letzte Chance: Bis zu 590€ Rabatt
 
 Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
 
+17
+
+:
+
+Stunden
+
+39
+
+:
+
+Minuten
+
+30
+
+Sekunden
+
 12.-15. Oktober
 
 [Mehr erfahrenmasterBanner3](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner3)
