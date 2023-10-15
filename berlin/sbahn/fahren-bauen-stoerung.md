@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsatz im Bereich Wuhletal beendet ###
-
- Letztes Update: 14:38 / 15.10.2023
-
-Information
-
-Nach unbefugten Personen auf der Strecke im Bereich Wuhletal kommt es auf der Linie S5 noch zu Verspätungen und Ausfällen.
-
-Wir bitte um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
