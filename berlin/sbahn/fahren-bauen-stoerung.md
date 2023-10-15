@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### unbefugte Personen auf der Strecke im Bereich Wuhletal ###
+### Polizeieinsatz im Bereich Wuhletal beendet ###
 
- Letztes Update: 14:26 / 15.10.2023
+ Letztes Update: 14:38 / 15.10.2023
 
 Information
 
-Wegen unbefugter Personen auf der Strecke im Bereich Wuhletal ist der Zugverkehr der Linie S5 zwischen Friedrichsfelde Ost \<\> Wuhletal unterbrochen.
-
-Zur Umfahrung bitte die U5 zwischen Lichtenberg und Wuhletal benutzen.
+Nach unbefugten Personen auf der Strecke im Bereich Wuhletal kommt es auf der Linie S5 noch zu Verspätungen und Ausfällen.
 
 Wir bitte um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
