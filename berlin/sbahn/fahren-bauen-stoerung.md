@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### unbefugte Personen auf der Strecke im Bereich Wuhletal ###
+
+ Letztes Update: 14:26 / 15.10.2023
+
+Information
+
+Wegen unbefugter Personen auf der Strecke im Bereich Wuhletal ist der Zugverkehr der Linie S5 zwischen Friedrichsfelde Ost \<\> Wuhletal unterbrochen.
+
+Zur Umfahrung bitte die U5 zwischen Lichtenberg und Wuhletal benutzen.
+
+Wir bitte um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
