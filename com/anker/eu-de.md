@@ -6,9 +6,9 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e
 
 [Zum Angebot \>\>](https://www.anker.com/eu-de/herbst-sale-chg?ref=topbanner)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Letzte Chance: Bis zu 900€ Rabatt!](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren\>\>](https://www.anker.com/eu-de/anker-solix/prime-day-angebot-pps?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Epische Deals auf Solarbank](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren\>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Herbst Sale](https://www.anker.com/eu-de/herbst-sale-chg?ref=naviMenu)
+Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Vor dem Black Friday](https://www.anker.com/eu-de/herbst-sale-chg?ref=naviMenu)
 
 Schwestermarken & Hilfe
 
@@ -31,15 +31,14 @@ Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
 [Apple-Zubehör entdecken \>\>](https://www.anker.com/eu-de/collections/apple-accessories)
 
-30 Tage Bestpreisgarantie
+Versandkostenfrei bis zur Bordsteinkante
 
-Letzte Chance: Bis zu 590€ Rabatt
+Anker SOLIX Balkonkraftwerk
+ Bis zu 400€ Rabatt
 
-Die ultimative Solarstromlösungfür dein ZuhauseVersandkostenfrei bis zur Bordsteinkante
+800W-Mikro-Wechselrichter, begrenzt auf 600WDie ultimative Solarstromlösung für dein Zuhause
 
-12.-15. Oktober
-
-[Mehr erfahrenmasterBanner3](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner3)
+[Mehr erfahrenmasterBanner3](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=masterBanner3)
 
 Anker SOLIX F3800
 
@@ -74,17 +73,15 @@ Das Anker-Erlebnis entdecken
 
 * ###
 
-   Bester Preis
+   Limitiertes Angebot
 
    ###
 
-  ### Letzte Chance:  ###
-
-  ### Bis zu 590€ Rabatt ###
+  ### Spare bis zu 400€ ###
 
   Anker SOLIX Balkonkraftwerk | Das Upgrade auf 800W
 
-  [Mehr erfahren Bester Preis ,Letzte Chance: ,Bis zu 590€ Rabatt](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner4_4)
+  [Mehr erfahren Limitiertes Angebot ,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner4_4)
 
 * ### Anker GaNPrime  ###
 
