@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Zoologischer Garten ###
 
- Letztes Update: 18:40 / 16.10.2023
+ Letztes Update: 19:46 / 16.10.2023
 
 Information
 
 Wegen einer Reparatur an einem Signal in Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 zu Ausfällen und Verspätungen.
 
-**Linie S5** verkehrt Strausberg Nord/ Hoppegarten\<\>Ostbahnhof.
+**Linie S5** verkehrt Strausberg Nord/ Mahlsdorf\<\>Ostbahnhof.
 
 Wir bitten um Entschuldigung
 
