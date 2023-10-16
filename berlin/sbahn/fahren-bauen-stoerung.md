@@ -614,7 +614,7 @@ Information
 * Gleisänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27864)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27864)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#c29935)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -634,7 +634,7 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27863)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27863)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#c29935)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -658,7 +658,7 @@ Information
 * Gleisänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27867)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27867)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#c29935)
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
@@ -746,7 +746,7 @@ Information
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27868)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27868)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#c29935)
 
 [S42](https://sbahn.berlin/fahren/s42/)
 
@@ -773,7 +773,7 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-28088)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-28088)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#c29935)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
