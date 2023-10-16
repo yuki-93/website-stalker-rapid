@@ -21,13 +21,21 @@ beste Ladepower
 
 [Zum AngebotmasterBanner1](https://www.anker.com/eu-de/herbst-sale-chg?ref=masterBanner1)
 
+NEU
+
+Anker SOLIX RS50B Balkonkraftwerk mit SpeicherMaximale Stromeinsparung
+
+Spare 25 Jahre lang 9828€ an Stromkosten!
+
+[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher?ref=masterBanner2)
+
 Anker Nano
 
  C-ing is Believing
 
 Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner2)
+[Mehr erfahrenmasterBanner3](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner3)
 
 [Apple-Zubehör entdecken \>\>](https://www.anker.com/eu-de/collections/apple-accessories)
 
@@ -35,7 +43,7 @@ Anker SOLIX F2000 (PowerHouse 767) 2048Wh | 2300W
 
 Power für alles. Power für überall.
 
-[Mehr erfahrenankermasterBanner3](https://www.anker.com/eu-de/a1780?ref=masterBanner3)
+[Mehr erfahrenankermasterBanner4](https://www.anker.com/eu-de/a1780?ref=masterBanner4)
 
 Jetzt kaufen
 
@@ -47,20 +55,20 @@ Das Anker-Erlebnis entdecken
 
   Das perfekte Ladegerät für dein Apple-Ecosystem
 
-  [Mehr erfahrenAnker 3-in-1 Ladewürfel mit MagSafe](https://www.anker.com/eu-de/products/y1811?ref=productBanner3_1)
+  [Mehr erfahrenAnker 3-in-1 Ladewürfel mit MagSafe](https://www.anker.com/eu-de/products/y1811?ref=productBanner4_1)
 
 * ### Entdecke die besten Powerbanks für unterwegs  ###
 
   Das smarte Ladezubehör für deine Abenteuer.
   Bis zu 25% Rabatt
 
-  [Jetzt kaufenEntdecke die besten Powerbanks für unterwegs](https://www.anker.com/eu-de/travel?ref=productBanner3_2)
+  [Jetzt kaufenEntdecke die besten Powerbanks für unterwegs](https://www.anker.com/eu-de/travel?ref=productBanner4_2)
 
 * ### Anmelden und exklusive Benefits und 45% Rabatt sichern  ###
 
   Anker SOLIX F3800 Tragbare Powerstation
 
-  [AnmeldenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner3_3)
+  [AnmeldenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner4_3)
 
 * ###
 
@@ -68,41 +76,43 @@ Das Anker-Erlebnis entdecken
 
    ###
 
+  ### 1080W Leistung ###
+
   ### Spare bis zu 400€ ###
 
   Anker SOLIX Balkonkraftwerk | Das Upgrade auf 800W
 
-  [Mehr erfahren Limitiertes Angebot ,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner3_4)
+  [Mehr erfahren Limitiertes Angebot ,1080W Leistung,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner4_4)
 
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner3_5)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner4_5)
 
 * ### Die Extraportion Power mit Ankers meistgekauften Ladegeräten  ###
 
   Entdecke die besten Ladelösungen für den Alltag und deine Arbeit
 
-  [Mehr erfahren Die Extraportion Power mit Ankers meistgekauften Ladegeräten](https://www.anker.com/eu-de/bestseller?ref=productBanner3_6)
+  [Mehr erfahren Die Extraportion Power mit Ankers meistgekauften Ladegeräten](https://www.anker.com/eu-de/bestseller?ref=productBanner4_6)
 
 * ### Anker EverFrost Akku-Kühlbox ###
 
    Bis zu 42 Std. | Ohne Eis für mehr Stauraum | Von 25°C auf 0°C in nur 30 Min. | Abnehmbare Powerbank
 
-  [Mehr erfahren Anker EverFrost Akku-Kühlbox](https://anker.com/eu-de/everfrost-akku-kuehlbox?ref=productBanner3_7)
+  [Mehr erfahren Anker EverFrost Akku-Kühlbox](https://anker.com/eu-de/everfrost-akku-kuehlbox?ref=productBanner4_7)
 
 * ### Anker Nano 3 ###
 
   Das Tech für jedes iPhone
 
-  [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner3_8)
+  [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner4_8)
 
 * ### Starte durch mit USB-C ###
 
   Entdecke USB-C Ladepower mit Anker
 
-  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner3_9)
+  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner4_9)
 
 Unentschlossen?
 
