@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Ostbahnhof ###
+
+ Letztes Update: 08:06 / 16.10.2023
+
+Information
+
+Wegen einer ärztlichen Versorgung eines Fahrgastes in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Zugausfällen.
+*Der Zugverkehr kann in Ostbahnhof nur auf Gleis 10 und 11 durchgeführt werden.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
