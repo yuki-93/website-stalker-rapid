@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur einer Weiche in Südkreuz ###
-
- Letztes Update: 19:04 / 17.10.2023
-
-Information
-
-Wegen einer Reparatur einer Weiche in Südkreuz verkehrt die Linie S45 nur Flughafen BER Terminal 1/2\<\>Tempelhof.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz in Lichtenberg ###
-
- Letztes Update: 18:59 / 17.10.2023
-
-Information
-
-Nach einem Polizeieinsatz in Lichtenberg kommt es auf den Linien S5,S7 und S75 in diesem Bereich zu Ausfällen und Verspätungen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
