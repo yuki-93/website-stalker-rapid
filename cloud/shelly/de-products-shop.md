@@ -418,12 +418,6 @@
 
 8,57 €mit MwSt.
 
-[Shelly Wall Socket UK](https://www.shelly.com/de/products/shop/shelly-wall-socket-uk-white)
-
-7,20 €
-
-8,57 €mit MwSt.
-
 [Shelly Mug](https://www.shelly.com/de/products/shop/shelly-mug)
 
 4,99 €
