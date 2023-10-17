@@ -4,17 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
-### Reparatur am Zug in Südkreuz ###
+### Reparatur einer Weiche in Südkreuz ###
 
- Letztes Update: 17:01 / 17.10.2023
+ Letztes Update: 19:04 / 17.10.2023
 
 Information
 
-Nach einer Reparatur am Zug in Südkreuz kommt es auf den Linien S41,S42,S45,S46 und S47 zu Ausfällen und Verspätungen.
+Wegen einer Reparatur einer Weiche in Südkreuz verkehrt die Linie S45 nur Flughafen BER Terminal 1/2\<\>Tempelhof.
 
-Wir bitten um Entschildigung.
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Lichtenberg ###
+
+ Letztes Update: 18:59 / 17.10.2023
+
+Information
+
+Nach einem Polizeieinsatz in Lichtenberg kommt es auf den Linien S5,S7 und S75 in diesem Bereich zu Ausfällen und Verspätungen.
+
+Wir bitten um Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
