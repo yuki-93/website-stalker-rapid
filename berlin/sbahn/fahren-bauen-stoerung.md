@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur am Zug in Südkreuz ###
+
+ Letztes Update: 17:01 / 17.10.2023
+
+Information
+
+Nach einer Reparatur am Zug in Südkreuz kommt es auf den Linien S41,S42,S45,S46 und S47 zu Ausfällen und Verspätungen.
+
+Wir bitten um Entschildigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -566,7 +582,7 @@ Information
 * Gleisänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung/#con-27854)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung/#con-27854)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung/#c29971)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
