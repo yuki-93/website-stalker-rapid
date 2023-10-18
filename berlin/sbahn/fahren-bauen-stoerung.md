@@ -8,14 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Weichenstörung in Gesundbrunnen behoben ###
 
- Letztes Update: 15:39 / 18.10.2023
+ Letztes Update: 16:48 / 18.10.2023
 
 Information
 
-Nach einer Weichenstörung in Gesundbrunnen kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Zugausfällen.
-
-*Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
- Die Linie S46 verkehrt zwischen Königs Wusterhausen und Westend.*
+Nach einer Weichenstörung in Gesundbrunnen kann es auf den Linien S41, S42 und S46 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
