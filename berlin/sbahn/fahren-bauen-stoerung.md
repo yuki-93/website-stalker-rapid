@@ -6,21 +6,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Weichenstörung in Gesundbrunnen ###
+### Weichenstörung in Gesundbrunnen behoben ###
 
- Letztes Update: 14:40 / 18.10.2023
+ Letztes Update: 15:39 / 18.10.2023
 
 Information
 
-Wegen einer Weichenstörung in Gesundbrunnen ist der Zugverkehr der Linien S41 und S42 zwischen Gesundbrunnen und Schönhauser Allee unterbrochen.
-*Bitte nutzen Sie zur Umfahrung zwischen Schönhauser Allee und Bornholmer Straße die Linien S8 und S85 sowie zwischen Bornholmer Straße und Gesundbrunnen die Linien S1, S2, S25 und S26.*
+Nach einer Weichenstörung in Gesundbrunnen kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Zugausfällen.
 
 *Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
  Die Linie S46 verkehrt zwischen Königs Wusterhausen und Westend.*
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
