@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem Zug in Friedrichshagen ###
+
+ Letztes Update: 09:41 / 18.10.2023
+
+Information
+
+Wegen der Reparatur an einem Zug in Friedrichshagen kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Tiere auf der Strecke ###
+
+ Letztes Update: 09:39 / 18.10.2023
+
+Information
+
+Wegen Tieren auf der Strecke kommt es auf der Linie S46 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Zug in Warschauer Straße beendet ###
