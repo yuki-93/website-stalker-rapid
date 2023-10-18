@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Zug in Schönhauser Allee ###
-
- Letztes Update: 10:32 / 18.10.2023
-
-Information
-
-Wegen der Reparatur an einem Zug in Schönhauser Allee kommt es auf den Linien S41, S8 und S85 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an einem Zug in Friedrichshagen ###
-
- Letztes Update: 09:41 / 18.10.2023
-
-Information
-
-Wegen der Reparatur an einem Zug in Friedrichshagen kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
