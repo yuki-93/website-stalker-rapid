@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz im Bereich Yorkstraße beendet ###
+
+ Letztes Update: 21:35 / 18.10.2023
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Yorkstraße kommt es auf den Linien S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Weichenstörung in Gesundbrunnen behoben ###
