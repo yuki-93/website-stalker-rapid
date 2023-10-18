@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Weichenstörung in Gesundbrunnen ###
+
+ Letztes Update: 14:22 / 18.10.2023
+
+Information
+
+Wegen einer Weichenstörung in Gesundbrunnen kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Zugausfällen.
+
+*Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
