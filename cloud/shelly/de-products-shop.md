@@ -16,11 +16,11 @@
 
 14,16 €mit MwSt.
 
-[Shelly Plus 1PM Mini (2 Pack)](https://www.shelly.com/de/products/shop/shelly-plus-1-pm-mini/shelly-plus-1-pm-mini-2-pack)
+[Shelly Plus 1PM Mini](https://www.shelly.com/de/products/shop/shelly-plus-1-pm-mini)
 
-26,46 €
+13,50 €
 
-31,49 €mit MwSt.
+16,07 €mit MwSt.
 
 [Shelly Plus PM Mini](https://www.shelly.com/de/products/shop/shelly-plus-pm-mini)
 

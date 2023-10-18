@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Zug in Schönhauser Allee ###
+
+ Letztes Update: 10:32 / 18.10.2023
+
+Information
+
+Wegen der Reparatur an einem Zug in Schönhauser Allee kommt es auf den Linien S41, S8 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an einem Zug in Friedrichshagen ###
@@ -17,34 +31,6 @@ Wegen der Reparatur an einem Zug in Friedrichshagen kommt es auf der Linie S3 zu
 Wir bitten um Entschuldigung
 
  Zugverkehr verändert  Verbindung verspätet
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Tiere auf der Strecke ###
-
- Letztes Update: 09:39 / 18.10.2023
-
-Information
-
-Wegen Tieren auf der Strecke kommt es auf der Linie S46 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Zug in Warschauer Straße beendet ###
-
- Letztes Update: 09:13 / 18.10.2023
-
-Information
-
-Nach der Reparatur an einem Zug in Warschauer Straße kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
