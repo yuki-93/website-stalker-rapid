@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Weichenstörung in Gesundbrunnen behoben ###
 
- Letztes Update: 16:48 / 18.10.2023
+ Letztes Update: 19:24 / 18.10.2023
 
 Information
 
-Nach einer Weichenstörung in Gesundbrunnen kann es auf den Linien S41, S42 und S46 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einer Weichenstörung in Gesundbrunnen kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
