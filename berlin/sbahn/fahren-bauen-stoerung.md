@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Zoologischer Garten beendet ###
+
+ Letztes Update: 10:25 / 19.10.2023
+
+Information
+
+Nach der ärztliche Versorgung eines Fahrgastes in Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+* Linie S5: verkehrt Strausberg Nord/ Mahlsdorf \<\> Ostbahnhof
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten in Treptower Park ###
@@ -57,50 +73,6 @@ Die Züge der betroffenen Linien fahren wie folgt:
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Zoologischer Garten beendet ###
-
- Letztes Update: 09:07 / 19.10.2023
-
-Information
-
-Nach der ärztliche Versorgung eines Fahrgastes in Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Johannisthal ###
-
- Letztes Update: 08:45 / 19.10.2023
-
-Information
-
-Nach der ärztliche Versorgung eines Fahrgastes in Johannisthal kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen..
-
-Wir bitten um Verständnis
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Signal in Jungfernheide ###
-
- Letztes Update: 06:47 / 19.10.2023
-
-Information
-
-Wegen einer Reparatur an einem Signal in Jungfernheide kommt es auf den Linien S41 und S46 zu Verspätungen und Ausfällen.
-
-* S41 verkehrt nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -1243,6 +1215,33 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/softwarewechsel-bei-der-db-netz-ag/#con-28186)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+Nur Wochenende
+
+### Treptower Park/Baumschulenweg \<\> Tempelhof ###
+
+17.11. (Fr), ca. 22 Uhr durchgehend bis 20.11. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28249&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21388&tx_sbbconstructions_list%5Bperiod%5D=17415&type=5679&cHash=13195665e6cb7046393e9074be438751)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr:
+  * Baumschulenweg/Treptower Park \<\> Tempelhof
+  * Fahrgäste in der Relation Schöneweide \<\> Neukölln steigen bitte zwischen der S45, S46 oder S47 und dem Ersatzverkehr mit Bussen S41/S42 in Plänterwald um.
+
+* Ersatzverkehr mit Bussen:
+  * Bus S41/S42:Treptower Park \<\> Tempelhof
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/zbs-ausruestung-mit-balisentechnik-kabeltiefbau-2/#con-28249)
 
 ### Fahrplanänderungen ###
 
