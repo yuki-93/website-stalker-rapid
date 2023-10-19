@@ -4,6 +4,46 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Johannisthal ###
+
+ Letztes Update: 08:19 / 19.10.2023
+
+Information
+
+Wegen der ärztliche Versorgung eines Fahrgastes in Johannisthal der Zugverkehr der Linien S45, S46, S8, S85 und S9 zwischen Schöneweide und Grünau bzw. Altglienicke unterbrochen.
+
+Zugverkehr wie folgt:
+
+Linie S45: Südkreuz \<\> Baumschulenweg sowie Flughafen BER T1-2/ Flughafen BER T5 \<\> Altglienicke
+ Linie S46: Gesundbrunnen \<\> Schöneweide sowie Königs Wusterhausen \<\> Grünau
+ Linie S8: Birkenwerder \<\> Schöneweide
+ Linie S85: Pankow \<\> Treptower Park
+ Linie S9: Spandau \<\> Schöneweide sowie Flughafen BER T1-2/ Flughafen BER T5 \<\> Altglienicke
+
+Benutzen Sie zur Umfahrung zwischen Schöneweide und Grünau die Bus Linien 163 und 165 sowie zwischen Schöneweide und Altglienicke die Bus Linie 160.
+
+Wir bitten um Verständnis
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz Südkreuz (Linien S1, S2, S25, S26) ###
+
+ Letztes Update: 07:50 / 19.10.2023
+
+Information
+
+Wegen eines Polizeieinsatzes in Südkreuz kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen. Der Zugverkehr der Linien S2, S25 und S26 ist zwischen Anhalterbahnhof und Priesterweg unterbrochen.
+
+Zur Umfahrung nutzen Sie bitte die Linie S1 ab Schöneberg bzw. Anhalter Bahnhof und die Ringbahn Linie S41/S42 zwischen Südkreuz und Schöneberg.
+
+Wir bitten um Verständnis
+
+ fährt nicht  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einem Signal in Jungfernheide ###
@@ -1087,6 +1127,31 @@ Information
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-der-moltkestrassenbruecke-1/#con-28224)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### (Tempelhof) Südkreuz \<\> Westend ###
+
+Nacht 22./23.11. (Mi/Do), ca. 22.10 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28248&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21387&tx_sbbconstructions_list%5Bperiod%5D=17414&type=5679&cHash=e065286a1747d9eebc7da9e809247422)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Bundesplatz um, die Weiterfahrt erfolgt nach 6 oder 16 Minuten (S41) bzw. nach 8 Minuten (S42) vom selben Gleis.
+
+* Fahrplanänderung
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bundesplatz-4/#con-28248)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
