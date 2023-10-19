@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Jungfernheide ###
+
+ Letztes Update: 06:47 / 19.10.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Jungfernheide kommt es auf den Linien S41 und S46 zu Verspätungen und Ausfällen.
+
+* S41 verkehrt nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
