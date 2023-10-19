@@ -4,19 +4,59 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S45](https://sbahn.berlin/fahren/s45/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz Südkreuz (Linien S1, S2, S25, S26) ###
+### kurzfristige Bauarbeiten in Treptower Park ###
 
- Letztes Update: 09:10 / 19.10.2023
+ Letztes Update: 10:14 / 19.10.2023
 
 Information
 
-Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Ausfällen.
+Wegen kurzfristiger Bauarbeiten in Treptower Park muss der Zugverkehr der Linien S45, S8 und S9 **Heute Nacht (19./20.10.2023 (Do/Fr)) in der Zeit von ca. 22:00 Uhr bis ca. 04:00 Uhr** zwischen S Treptower Park \<\> S Baumschulenweg unterbrochen werden.
 
-Wir bitten um Verständnis
+Die Züge der betroffenen Linien fahren wie folgt:
 
- Zugverkehr verändert  Verbindung verspätet
+* **Linie S45**: Flughafen BER Terminal 1-2 \<\> Schöneweide (Gleis 5)
+* **Linie S47**: verkehrt in Schöneweide abweichend von Gleis 3
+* **Linie S8**: Birkenwerder/ Blankenburg \<\> Greifswalder Straße sowie Schöneweide \<\> Grünau
+* **Linie S9**: Spandau \<\> Ostbahnhof sowie Schöneweide \<\> Flughafen BER Terminal 1-2
+
+---
+
+**Ersatzverkehr mit Bussen (jeweils im 10-Minuten-Takt) besteht zwischen S Treptower Park \<\> S Schöneweide (über S Plänterwald, S Baumschulenweg)**
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S-Bhf. Schöneweide: Michael-Brückner-Straße, vor dem Bahnhofsgebäude (wie Bus 165, N60)
+* Zusatzhalt S-Bhf. Schöneweide: Sterndamm (wie Bus 160)
+* S-Bhf. Baumschulenweg: Baumschulenstraße (wie Bus 170, 265)
+* S-Bhf. Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
+* S-Bhf. Treptower Park: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
+
+---
+
+**letzte durchfahrende Züge:**
+
+**Linie S45:**
+
+* Südkreuz ab 21:28 Uhr \> Flughafen BER Terminal 1-2 an 22:09 Uhr
+* Flughafen BER Terminal 1-2 ab 21:17 Uhr \> Südkreuz an 21:58 Uhr
+
+**Linie S8:**
+
+* Blankenburg ab 21:25 Uhr \> Grünau an 22:07 Uhr
+* Grünau ab 21:29 Uhr \> Blankenburg an 22:12 Uhr
+
+**Linie S9:**
+
+* Spandau ab 20:58 Uhr \> Flughafen BER Terminal 1-2 an 22:16 Uhr
+* Flughafen BER Terminal 1-2 ab 20:49 Uhr \> Spandau an 22:07 Uhr
+
+**Bitte beachten Sie, dass diese Bauarbeiten aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind und planen Sie daher eine Fahrzeitverlängerung ein.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
