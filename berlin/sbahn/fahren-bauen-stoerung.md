@@ -4,26 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Schönholz ###
-
- Letztes Update: 18:23 / 19.10.2023
-
-Information
-
-Wegen einer Reparatur an einem Signal in Schönholz kann es auf den Linien S1 und S25 zu Verspätungen kommen.
-*Die Linie S26 verkehrt nur zwischen Teltow Stadt und Nordbahnhof.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten in Treptower Park ###
 
- Letztes Update: 14:34 / 19.10.2023
+ Letztes Update: 20:13 / 19.10.2023
 
 Information
 
@@ -72,6 +57,22 @@ Die Züge der betroffenen Linien fahren wie folgt:
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### kurzfristiger Personalausfall S45 ###
+
+ Letztes Update: 18:05 / 19.10.2023
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S45 am Freitag, den 20.10.2023 nicht.
+
+*Bitte nutzen Sie zwischen Südkreuz und Adlershof die Linie S46 sowie zwischen Adlershof und Flughafen BER T1-2 die Linie S9.*
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
