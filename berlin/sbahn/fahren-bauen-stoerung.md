@@ -178,11 +178,82 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-schienenschleifen-zwischen-neukoelln-und-tempelhof/#con-28077)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Friedrichshagen \<\> Karlshorst ###
+
+20.10. (Fr), ca. 21:45 Uhr durchgehend bis 25.10. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27950&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21079&tx_sbbconstructions_list%5Bperiod%5D=17256&type=5679&cHash=30990fe20f2d8cedb67be9382b51f0ee)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Fahrplanänderung
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick/#con-27950)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\> Karow/Hohen Neuendorf ###
+
+20.10. (Fr), ca. 22 Uhr durchgehend bis 23.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27864&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&tx_sbbconstructions_list%5Bperiod%5D=17208&type=5679&cHash=3f1176bffb4e7dc201e97161aa3995ab)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S2: Bornholmer Straße \<\> Karow
+  * Bus S8: Bornholmer Straße \<\> Hohen Neuendorf
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27864)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#c29935)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### gesamter Ring ###
+
+21.10. (Sa), ca. 12 Uhr - ca. 20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&tx_sbbconstructions_list%5Bperiod%5D=17303&type=5679&cHash=ab72ddaf84f6536088c0878bbb6f004f)
+
+22.10. (So), ca. 12 Uhr - ca. 20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&tx_sbbconstructions_list%5Bperiod%5D=17304&type=5679&cHash=dcadab87780a211565c607e1cdf0d09c)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&type=5679&cHash=1d7a21f6f1ed84d11ea6b68bb125fec9)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die den 5-/5-/10-Minutentakt bildenden Züge fahren um 10 Minuten versetzt.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-28088)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#c29935)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -262,30 +333,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung-in-westend/#con-28096)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Baumschulenweg \<\> Westend ###
-
-Nacht 19./20.10. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28077&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21223&tx_sbbconstructions_list%5Bperiod%5D=17297&type=5679&cHash=ef9d52623936f7ae71c20818908479f9)
-
- Takt geändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Hermannstraße um, die Weiterfahrt erfolgt nach 7 oder 18 Minuten (S41) bzw. nach 6 Minuten (S42) vom selben Gleis.
-
-* Taktänderung: Hermannstraße \<\> Tempelhof S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-schienenschleifen-zwischen-neukoelln-und-tempelhof/#con-28077)
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 Nur Wochenende
@@ -329,6 +376,23 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27864)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#c29935)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Waßmannsdorf ###
+
+Nacht 20./21.10. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28104&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17317&type=5679&cHash=6d54b7c4cd95702ff5d7eeaf2c507edc)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung:
+  * In Waßmannsdorf fahren die S45 und die S9 nach Flughafen BER - Terminal 1-2 von Gleis 2, Bahnsteig stadteinwärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 Hinweis
 
@@ -665,23 +729,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gesundbrunnen-13/#con-28075)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Waßmannsdorf ###
-
-Nacht 20./21.10. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28104&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17317&type=5679&cHash=6d54b7c4cd95702ff5d7eeaf2c507edc)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung:
-  * In Waßmannsdorf fahren die S45 und die S9 nach Flughafen BER - Terminal 1-2 von Gleis 2, Bahnsteig stadteinwärts.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
