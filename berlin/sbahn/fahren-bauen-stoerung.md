@@ -4,31 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Ahrensfelde/Wartenberg \<\> Warschauer Straße ###
-
-Nächte 17./18.10. (Di/Mi) und 18./19.10. (Mi/Do), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28101&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21245&tx_sbbconstructions_list%5Bperiod%5D=17316&type=5679&cHash=26eb29d5fc9f915458a8270d8d3126db)
-
- Takt geändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S7 steigen bitte in beiden Fahrtrichtungen in Marzahn um, die Weiterfahrt erfolgt nach 11 Minuten (in Fahrtrichtung Ahrensfelde) bzw. nach 18 Minuten (in Fahrtrichtung Grunewald) vom selben Gleis.
-
-* Taktänderung:
-  * Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderungen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-marzahn/#con-28101)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -107,33 +82,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung-in-westend/#con-28096)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Schönhauser Allee \<\> Gesundbrunnen/Bornholmer Straße ###
-
-Nacht 18./19.10. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28087&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21233&tx_sbbconstructions_list%5Bperiod%5D=17302&type=5679&cHash=b7ccc76d75acaccac8c25cba55c5b437)
-
- Zugverkehr verändert
-
-Information
-
-* kein S-Bahnverkehr:
-  * zwischen Schönhauser Allee \<\> Bornholmer Straße
-     Bitte die Umfahrung über Gesundbrunnen (mit Umstieg und teilweise Bahnsteigwechsel) nutzen oder zwischen Schönhauser Allee \<\> Pankow die U2 nutzen.
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Gesundbrunnen um, die Weiterfahrt erfolgt nach 7 Minuten vom selben Gleis.
-
-* Fahrplanänderung
-* Bhnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleisarbeiten-zwischen-schoenhauser-allee-und-gesundbrunnen/#con-28087)
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
  Nur Nachts
@@ -159,23 +107,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-schienenschleifen-zwischen-neukoelln-und-tempelhof/#con-28077)
 
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Geänderte Abfahrtzeit Flughafen BER – Terminal 1-2 \> Schöneweide ###
-
-19.10. (Do) 1:20 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28162&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21295&tx_sbbconstructions_list%5Bperiod%5D=17355&type=5679&cHash=17be45120f34a3f6e5e96b941b93e06f)
-
- Takt geändert
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) fährt von Flughafen BER – Terminal 1-2 bis Schöneweide ca. 8 Minuten früher.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
