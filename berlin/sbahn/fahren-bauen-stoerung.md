@@ -4,45 +4,47 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz Südkreuz (Linien S1, S2, S25, S26) ###
+
+ Letztes Update: 09:10 / 19.10.2023
+
+Information
+
+Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S2, S25 und S26 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Zoologischer Garten beendet ###
+
+ Letztes Update: 09:07 / 19.10.2023
+
+Information
+
+Nach der ärztliche Versorgung eines Fahrgastes in Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### ärztliche Versorgung eines Fahrgastes in Johannisthal ###
 
- Letztes Update: 08:19 / 19.10.2023
+ Letztes Update: 08:45 / 19.10.2023
 
 Information
 
-Wegen der ärztliche Versorgung eines Fahrgastes in Johannisthal der Zugverkehr der Linien S45, S46, S8, S85 und S9 zwischen Schöneweide und Grünau bzw. Altglienicke unterbrochen.
-
-Zugverkehr wie folgt:
-
-Linie S45: Südkreuz \<\> Baumschulenweg sowie Flughafen BER T1-2/ Flughafen BER T5 \<\> Altglienicke
- Linie S46: Gesundbrunnen \<\> Schöneweide sowie Königs Wusterhausen \<\> Grünau
- Linie S8: Birkenwerder \<\> Schöneweide
- Linie S85: Pankow \<\> Treptower Park
- Linie S9: Spandau \<\> Schöneweide sowie Flughafen BER T1-2/ Flughafen BER T5 \<\> Altglienicke
-
-Benutzen Sie zur Umfahrung zwischen Schöneweide und Grünau die Bus Linien 163 und 165 sowie zwischen Schöneweide und Altglienicke die Bus Linie 160.
+Nach der ärztliche Versorgung eines Fahrgastes in Johannisthal kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen..
 
 Wir bitten um Verständnis
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz Südkreuz (Linien S1, S2, S25, S26) ###
-
- Letztes Update: 07:50 / 19.10.2023
-
-Information
-
-Wegen eines Polizeieinsatzes in Südkreuz kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen. Der Zugverkehr der Linien S2, S25 und S26 ist zwischen Anhalterbahnhof und Priesterweg unterbrochen.
-
-Zur Umfahrung nutzen Sie bitte die Linie S1 ab Schöneberg bzw. Anhalter Bahnhof und die Ringbahn Linie S41/S42 zwischen Südkreuz und Schöneberg.
-
-Wir bitten um Verständnis
-
- fährt nicht  Verbindung unterbrochen
 
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
