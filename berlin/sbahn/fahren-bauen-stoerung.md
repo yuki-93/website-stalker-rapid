@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Treptower Park ###
 
- Letztes Update: 10:14 / 19.10.2023
+ Letztes Update: 14:34 / 19.10.2023
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Treptower Park muss der Zugverkehr der Linien S45, S8 und S9 **Heute Nacht (19./20.10.2023 (Do/Fr)) in der Zeit von ca. 22:00 Uhr bis ca. 04:00 Uhr** zwischen S Treptower Park \<\> S Baumschulenweg unterbrochen werden.
+Wegen kurzfristiger Bauarbeiten in Treptower Park muss der Zugverkehr der Linien S45, S8 und S9 **heute Nacht (19./20.10.2023 (Do/Fr)) in der Zeit von ca. 22:00 Uhr bis ca. 04:00 Uhr** zwischen S Treptower Park \<\> S Baumschulenweg unterbrochen werden.
 
 Die Züge der betroffenen Linien fahren wie folgt:
 
