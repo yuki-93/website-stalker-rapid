@@ -471,6 +471,23 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27863)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#c29935)
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Grunewald ###
+
+23.10. (Mo), ca. 4 Uhr durchgehend bis 18.12. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21104&tx_sbbconstructions_list%5Bperiod%5D=17431&type=5679&cHash=85a522155f3dbb72eb1a078455fb6e5f)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung
+  * Die Züge in Richtung stadteinwärts (Ahrensfelde) fahren von Gleis 1 bzw. 2, Bahnsteig stadtauswärts.
+
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
