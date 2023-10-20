@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur am Zug in Adlershof ###
+
+ Letztes Update: 08:33 / 20.10.2023
+
+Information
+
+Wegen der Reparatur am Zug in Adlershof kommt es auf den Linien S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### kurzfristiger Personalausfall S45 ###
