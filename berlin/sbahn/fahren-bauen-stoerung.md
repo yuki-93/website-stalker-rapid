@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall S45 ###
 
- Letztes Update: 03:31 / 20.10.2023
+ Letztes Update: 07:03 / 20.10.2023
 
 Information
 
-Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S45 am heutigem Tag nicht.
+Wegen kurzfristiger Personalausfälle verkehrt die Linie S45 am heutigem Tag nicht.
 
 *Bitte nutzen Sie zwischen Südkreuz und Adlershof die Linie S46 sowie zwischen Adlershof und Flughafen BER T1-2 die Linie S9.*
 
