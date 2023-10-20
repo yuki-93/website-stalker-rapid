@@ -44,134 +44,6 @@ Wir bitten um Entschuldigung.
 
 ### Baumaßnahmen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gehrenseestraße ###
-
-19.06. (Mo) ca. 4 Uhr bis 08.12. (Fr) ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
-
- Zugverkehr verändert
-
-Information
-
-* kein Halt in Gehrenseestraße
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Charlottenburg – Potsdam Hbf ###
-
-02.10. (Mo), ca. 4 Uhr durchgehend bis 23.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27974&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21104&tx_sbbconstructions_list%5Bperiod%5D=17293&type=5679&cHash=0a23e98040e361e2775d08f7f429ce7a)
-
- Zugverkehr verändert
-
-Information
-
-* Linientausch: der Abschnitt Wannsee \<\> Potsdam Hbf wird von der S1 (anstatt der S7) bedient
-* Zugverkehr verändert:
-  * Fahrgäste der S7 steigen bitte in beiden Fahrtrichtungen in Grunewald um.
-     Die Weiterfahrt erfolgt nach 8 oder 18 Minuten (in Fahrtrichtung Wannsee) bzw. nach 8 Minuten (in Fahrtrichtung Ahrensfelde) vom selben Gleis.
-
-* Taktänderung: Grunewald \<\> Nikolassee S-Bahnverkehr nur im 20-Minutentakt
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-grunewald/#con-27974)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Buckower Chaussee ###
-
-09.10. (Mo) 4 Uhr bis 08.12. (Mo) 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27900&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20930&tx_sbbconstructions_list%5Bperiod%5D=17218&type=5679&cHash=861429520ff973009380a0db7aaba0b3)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bahnuebergangsarbeiten-bauzustandswechsel/#con-27900)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### (Köllnische Heide) Halensee \<\> Westend ###
-
-18.10. (Mi), ca. 4 Uhr durchgehend bis 03.11. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28096&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21239&tx_sbbconstructions_list%5Bperiod%5D=17310&type=5679&cHash=82149bcce2312e279c175358ea6183c4)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr der S-Bahnlinie S46 verändert
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung-in-westend/#con-28096)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-Nur Wochenende
-
-### Friedrichshagen \<\> Karlshorst ###
-
-20.10. (Fr), ca. 21:45 Uhr durchgehend bis 25.10. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27950&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21079&tx_sbbconstructions_list%5Bperiod%5D=17256&type=5679&cHash=30990fe20f2d8cedb67be9382b51f0ee)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Fahrplanänderung
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick/#con-27950)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Bornholmer Straße \<\> Karow/Hohen Neuendorf ###
-
-20.10. (Fr), ca. 22 Uhr durchgehend bis 23.10. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27864&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&tx_sbbconstructions_list%5Bperiod%5D=17208&type=5679&cHash=3f1176bffb4e7dc201e97161aa3995ab)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S2: Bornholmer Straße \<\> Karow
-  * Bus S8: Bornholmer Straße \<\> Hohen Neuendorf
-
-* Fahrplanänderung
-* Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27864)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#c29935)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
 [S42](https://sbahn.berlin/fahren/s42/)
 
 Nur Wochenende
@@ -341,6 +213,187 @@ Information
 
 * Bahnsteigänderung:
   * In Waßmannsdorf fahren die S45 und die S9 nach Flughafen BER - Terminal 1-2 von Gleis 2, Bahnsteig stadteinwärts.
+
+* Es gibt einzelne Fahrplanänderungen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### gesamter Ring ###
+
+21.10. (Sa), ca. 12 Uhr - ca. 20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&tx_sbbconstructions_list%5Bperiod%5D=17303&type=5679&cHash=ab72ddaf84f6536088c0878bbb6f004f)
+
+22.10. (So), ca. 12 Uhr - ca. 20 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&tx_sbbconstructions_list%5Bperiod%5D=17304&type=5679&cHash=dcadab87780a211565c607e1cdf0d09c)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&type=5679&cHash=1d7a21f6f1ed84d11ea6b68bb125fec9)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die den 5-/5-/10-Minutentakt bildenden Züge fahren um 10 Minuten versetzt.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-28088)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#c29935)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Gehrenseestraße ###
+
+19.06. (Mo) ca. 4 Uhr bis 08.12. (Fr) ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Halt in Gehrenseestraße
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### Charlottenburg – Potsdam Hbf ###
+
+02.10. (Mo), ca. 4 Uhr durchgehend bis 23.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27974&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21104&tx_sbbconstructions_list%5Bperiod%5D=17293&type=5679&cHash=0a23e98040e361e2775d08f7f429ce7a)
+
+ Zugverkehr verändert
+
+Information
+
+* Linientausch: der Abschnitt Wannsee \<\> Potsdam Hbf wird von der S1 (anstatt der S7) bedient
+* Zugverkehr verändert:
+  * Fahrgäste der S7 steigen bitte in beiden Fahrtrichtungen in Grunewald um.
+     Die Weiterfahrt erfolgt nach 8 oder 18 Minuten (in Fahrtrichtung Wannsee) bzw. nach 8 Minuten (in Fahrtrichtung Ahrensfelde) vom selben Gleis.
+
+* Taktänderung: Grunewald \<\> Nikolassee S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-grunewald/#con-27974)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Buckower Chaussee ###
+
+09.10. (Mo) 4 Uhr bis 08.12. (Mo) 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27900&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20930&tx_sbbconstructions_list%5Bperiod%5D=17218&type=5679&cHash=861429520ff973009380a0db7aaba0b3)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bahnuebergangsarbeiten-bauzustandswechsel/#con-27900)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### (Köllnische Heide) Halensee \<\> Westend ###
+
+18.10. (Mi), ca. 4 Uhr durchgehend bis 03.11. (Fr), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28096&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21239&tx_sbbconstructions_list%5Bperiod%5D=17310&type=5679&cHash=82149bcce2312e279c175358ea6183c4)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr der S-Bahnlinie S46 verändert
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung-in-westend/#con-28096)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Friedrichshagen \<\> Karlshorst ###
+
+20.10. (Fr), ca. 21:45 Uhr durchgehend bis 25.10. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27950&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21079&tx_sbbconstructions_list%5Bperiod%5D=17256&type=5679&cHash=30990fe20f2d8cedb67be9382b51f0ee)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Fahrplanänderung
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-des-bahnhofs-koepenick/#con-27950)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\> Karow/Hohen Neuendorf ###
+
+20.10. (Fr), ca. 22 Uhr durchgehend bis 23.10. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27864&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&tx_sbbconstructions_list%5Bperiod%5D=17208&type=5679&cHash=3f1176bffb4e7dc201e97161aa3995ab)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S2: Bornholmer Straße \<\> Karow
+  * Bus S8: Bornholmer Straße \<\> Hohen Neuendorf
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27864)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#c29935)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Waßmannsdorf ###
+
+Nacht 21./22.10. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28102&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17318&type=5679&cHash=496ba7bb0e9f99a043d9e48acf4dedbe)
+
+Nacht 25./26.10. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28102&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17423&type=5679&cHash=67d3e1a8e304e0c5bd2a7c1a0d2cf3bb)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28102&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&type=5679&cHash=0681a64d8e7a613633dd496f135ba2c1)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung:
+  * In Waßmannsdorf fährt die S9 nach Spandau von Gleis 1, Bahnsteig stadtauswärts.
 
 * Es gibt einzelne Fahrplanänderungen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
@@ -648,32 +701,31 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1/#con-28179)
 
-[S42](https://sbahn.berlin/fahren/s42/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-Nur Wochenende
+ Nur Nachts
 
-### gesamter Ring ###
+### Baumschulenweg \<\> Westend ###
 
-21.10. (Sa), ca. 12 Uhr - ca. 20 Uhr
+Nacht 05./06.11. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&tx_sbbconstructions_list%5Bperiod%5D=17303&type=5679&cHash=ab72ddaf84f6536088c0878bbb6f004f)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28183&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21314&tx_sbbconstructions_list%5Bperiod%5D=17377&type=5679&cHash=303eea448ffcfca236c1c774b3348b7f)
 
-22.10. (So), ca. 12 Uhr - ca. 20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&tx_sbbconstructions_list%5Bperiod%5D=17304&type=5679&cHash=dcadab87780a211565c607e1cdf0d09c)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28088&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&type=5679&cHash=1d7a21f6f1ed84d11ea6b68bb125fec9)
-
- Zugverkehr verändert
+ Takt geändert
 
 Information
 
-* Fahrplanänderung:
-  * Die den 5-/5-/10-Minutentakt bildenden Züge fahren um 10 Minuten versetzt.
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Hermannstraße um. Die Weiterfahrt erfolgt nach 7 oder 18 Minuten (S41) bzw. nach 6 Minuten (S42) vom selben Gleis.
 
+* Taktänderung:
+  * Hermannstraße \<\> Tempelhof S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-28088)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#c29935)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ec45907f33/#con-28183)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
@@ -697,32 +749,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gesundbrunnen-13/#con-28075)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Waßmannsdorf ###
-
-Nacht 21./22.10. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28102&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17318&type=5679&cHash=496ba7bb0e9f99a043d9e48acf4dedbe)
-
-Nacht 25./26.10. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28102&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17423&type=5679&cHash=67d3e1a8e304e0c5bd2a7c1a0d2cf3bb)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28102&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&type=5679&cHash=0681a64d8e7a613633dd496f135ba2c1)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung:
-  * In Waßmannsdorf fährt die S9 nach Spandau von Gleis 1, Bahnsteig stadtauswärts.
-
-* Es gibt einzelne Fahrplanänderungen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 ### Fahrplanänderungen ###
 
@@ -897,32 +923,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1/#con-28179)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Baumschulenweg \<\> Westend ###
-
-Nacht 05./06.11. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28183&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21314&tx_sbbconstructions_list%5Bperiod%5D=17377&type=5679&cHash=303eea448ffcfca236c1c774b3348b7f)
-
- Takt geändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Hermannstraße um. Die Weiterfahrt erfolgt nach 7 oder 18 Minuten (S41) bzw. nach 6 Minuten (S42) vom selben Gleis.
-
-* Taktänderung:
-  * Hermannstraße \<\> Tempelhof S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ec45907f33/#con-28183)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
