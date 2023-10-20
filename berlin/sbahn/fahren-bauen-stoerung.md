@@ -4,19 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an einem Fahrzeug in Treptower Park beendet ###
+### Vorabinformation kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
 
- Letztes Update: 15:46 / 20.10.2023
+ Letztes Update: 17:02 / 20.10.2023
 
 Information
 
-Nach einer Reparatur an einem Fahrzeug in Treptower Park kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Zugausfällen.
+Wegen kurzfristigen Personalausfällen verkehrt die **Linie S7** **vom 21.10.2023 ca. 05:00 Uhr bis 22.10.2023 ca. 01:30 Uhr sowie vom 22.10.2023 ca. 06:30 Uhr bis 23.10.2023 ca. 01:30 Uhr** nicht zwischen Grunewald und Wannsee.
+
+**Zwischen S Grunewald \<\>** **S Nikolassee \<\> S Wannsee besteht in dieser Zeit ein Ersatzverkehr mit Bussen im 10-Minuten-Takt.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S Wannsee: Kronprinzessinnenweg (wie Bus 114, 118, 620)
+* S Nikolassee: Borussenstr. (wie Bus N16, N18)
+* S Grunewald: Eichkampstr. (wie Bus 349)
+
+**Bitte beachten Sie, dass diese Zugausfälle aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind und planen Sie daher bitte eine Fahrzeitverlängerung ein.**
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ sonstige Einschränkungen  keine Verbindung
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
