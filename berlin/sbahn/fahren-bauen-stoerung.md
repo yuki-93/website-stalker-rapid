@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### kurzfristiger Personalausfall S45 ###
+
+ Letztes Update: 19:53 / 20.10.2023
+
+Information
+
+Wegen kurzfristiger Personalausfälle verkehrt die Linie S45 am heutigem Tag nicht.
+
+*Bitte nutzen Sie zwischen Südkreuz und Adlershof die Linie S46 sowie zwischen Adlershof und Flughafen BER T1-2 die Linie S9.*
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung unregelmäßig
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Vorabinformation kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
@@ -25,37 +41,6 @@ Haltestellen des Ersatzverkehrs:
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  keine Verbindung
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### kurzfristiger Personalausfall S45 ###
-
- Letztes Update: 13:02 / 20.10.2023
-
-Information
-
-Wegen kurzfristiger Personalausfälle verkehrt die Linie S45 am heutigem Tag nicht.
-
-*Bitte nutzen Sie zwischen Südkreuz und Adlershof die Linie S46 sowie zwischen Adlershof und Flughafen BER T1-2 die Linie S9.*
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Schönholz ###
-
- Letztes Update: 18:23 / 19.10.2023
-
-Information
-
-Wegen einer Reparatur an einem Signal in Schönholz kann es auf den Linien S1 und S25 zu Verspätungen kommen.
-*Die Linie S26 verkehrt nur zwischen Teltow Stadt und Nordbahnhof.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
