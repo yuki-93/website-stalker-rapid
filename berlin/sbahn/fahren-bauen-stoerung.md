@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Vorabinformation kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
 
- Letztes Update: 17:02 / 20.10.2023
+ Letztes Update: 18:00 / 20.10.2023
 
 Information
 
@@ -21,8 +21,6 @@ Haltestellen des Ersatzverkehrs:
 * S Wannsee: Kronprinzessinnenweg (wie Bus 114, 118, 620)
 * S Nikolassee: Borussenstr. (wie Bus N16, N18)
 * S Grunewald: Eichkampstr. (wie Bus 349)
-
-**Bitte beachten Sie, dass diese Zugausfälle aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind und planen Sie daher bitte eine Fahrzeitverlängerung ein.**
 
 Wir bitten um Entschuldigung.
 
