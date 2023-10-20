@@ -20,6 +20,21 @@ Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung unregelmäßig
 
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Schönholz ###
+
+ Letztes Update: 18:23 / 19.10.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Schönholz kann es auf den Linien S1 und S25 zu Verspätungen kommen.
+*Die Linie S26 verkehrt nur zwischen Teltow Stadt und Nordbahnhof.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
