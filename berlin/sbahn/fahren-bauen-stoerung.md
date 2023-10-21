@@ -49,22 +49,6 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  keine Verbindung
 
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### kurzfristiger Personalausfall S45 ###
-
- Letztes Update: 19:53 / 20.10.2023
-
-Information
-
-Wegen kurzfristiger Personalausfälle verkehrt die Linie S45 am heutigem Tag nicht.
-
-*Bitte nutzen Sie zwischen Südkreuz und Adlershof die Linie S46 sowie zwischen Adlershof und Flughafen BER T1-2 die Linie S9.*
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S42](https://sbahn.berlin/fahren/s42/)
