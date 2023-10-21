@@ -4,27 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### kurzfristiger Personalausfall S85 ###
+### ärztliche Versorgung eines Fahrgastes in Anhalter Bahnhof beendet ###
 
- Letztes Update: 11:17 / 21.10.2023
+ Letztes Update: 13:04 / 21.10.2023
 
 Information
 
-Wegen kurzfristigen Personalausfällen fällt die **Linie S85** **bis Sonntag, den 22.10.2023 ca. 22:00 Uhr** zwischen Treptower Park und Schöneweide aus.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Anhalter Bahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
 
-*Bitte nutzen Sie zwischen Treptower Park und Schöneweide die Linien S8 und S9.*
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Entschuldigung.
-
- fährt nicht  keine Verbindung
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
 
- Letztes Update: 10:27 / 21.10.2023
+ Letztes Update: 12:31 / 21.10.2023
 
 Information
 
@@ -48,6 +46,22 @@ Wegen kurzfristigen Personalausfällen besteht bis **22.10.2023 ca. 01:30 Uhr *
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  keine Verbindung
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### kurzfristiger Personalausfall Linie S85 ###
+
+ Letztes Update: 12:30 / 21.10.2023
+
+Information
+
+Wegen kurzfristigen Personalausfällen fällt die **Linie S85** **bis Sonntag, den 22.10.2023 ca. 22:00 Uhr** zwischen Treptower Park und Schöneweide aus.
+
+*Bitte nutzen Sie zwischen Treptower Park und Schöneweide die Linien S8 und S9.*
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
