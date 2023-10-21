@@ -6,25 +6,41 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Vorabinformation kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
+### kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
 
- Letztes Update: 18:00 / 20.10.2023
+ Letztes Update: 05:14 / 21.10.2023
 
 Information
 
 Wegen kurzfristigen Personalausfällen verkehrt die **Linie S7** **vom 21.10.2023 ca. 05:00 Uhr bis 22.10.2023 ca. 01:30 Uhr sowie vom 22.10.2023 ca. 06:30 Uhr bis 23.10.2023 ca. 01:30 Uhr** nicht zwischen Grunewald und Wannsee.
 
-**Zwischen S Grunewald \<\>** **S Nikolassee \<\> S Wannsee besteht in dieser Zeit ein Ersatzverkehr mit Bussen im 10-Minuten-Takt.**
+**Zwischen Grunewald und** **Wannsee besteht ein Ersatzverkehr mit Bussen.**
 
-Haltestellen des Ersatzverkehrs:
+*Haltestellen des Ersatzverkehrs:*
 
-* S Wannsee: Kronprinzessinnenweg (wie Bus 114, 118, 620)
-* S Nikolassee: Borussenstr. (wie Bus N16, N18)
-* S Grunewald: Eichkampstr. (wie Bus 349)
+* S-Bhf. Wannsee: Kronprinzessinnenweg (wie Bus 114, 118, 620)
+* S-Bhf. Nikolassee: Borussenstr. (wie Bus N16, N18)
+* S-Bhf. Grunewald: Eichkampstr. (wie Bus 349)
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  keine Verbindung
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### kurzfristiger Personalausfall S45 ###
+
+ Letztes Update: 19:53 / 20.10.2023
+
+Information
+
+Wegen kurzfristiger Personalausfälle verkehrt die Linie S45 am heutigem Tag nicht.
+
+*Bitte nutzen Sie zwischen Südkreuz und Adlershof die Linie S46 sowie zwischen Adlershof und Flughafen BER T1-2 die Linie S9.*
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung unregelmäßig
 
 [S85](https://sbahn.berlin/fahren/s85/)
 
@@ -192,30 +208,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27864)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#c29935)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Waßmannsdorf ###
-
-Nacht 20./21.10. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28104&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17317&type=5679&cHash=6d54b7c4cd95702ff5d7eeaf2c507edc)
-
-Nacht 24./25.10. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28104&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17421&type=5679&cHash=9dc3ce18138a8ee774d4ce34286b0566)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28104&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&type=5679&cHash=4210ed402413842ba531884c95b895a5)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung:
-  * In Waßmannsdorf fahren die S45 und die S9 nach Flughafen BER - Terminal 1-2 von Gleis 2, Bahnsteig stadteinwärts.
-
-* Es gibt einzelne Fahrplanänderungen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 Hinweis
 
@@ -1354,30 +1346,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-nikolassee-und-vegetationsarbeiten/#con-28255)
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Waßmannsdorf ###
-
-Nacht 20./21.10. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28104&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17317&type=5679&cHash=6d54b7c4cd95702ff5d7eeaf2c507edc)
-
-Nacht 24./25.10. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28104&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17421&type=5679&cHash=9dc3ce18138a8ee774d4ce34286b0566)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28104&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&type=5679&cHash=4210ed402413842ba531884c95b895a5)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung:
-  * In Waßmannsdorf fahren die S45 und die S9 nach Flughafen BER - Terminal 1-2 von Gleis 2, Bahnsteig stadteinwärts.
-
-* Es gibt einzelne Fahrplanänderungen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 [S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
@@ -1400,6 +1368,24 @@ Information
 
 * Bahnsteigänderung:
   * In Waßmannsdorf fährt die S9 nach Spandau von Gleis 1, Bahnsteig stadtauswärts.
+
+* Es gibt einzelne Fahrplanänderungen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Waßmannsdorf ###
+
+Nacht 24./25.10. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28104&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17421&type=5679&cHash=9dc3ce18138a8ee774d4ce34286b0566)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung:
+  * In Waßmannsdorf fahren die S45 und die S9 nach Flughafen BER - Terminal 1-2 von Gleis 2, Bahnsteig stadteinwärts.
 
 * Es gibt einzelne Fahrplanänderungen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
