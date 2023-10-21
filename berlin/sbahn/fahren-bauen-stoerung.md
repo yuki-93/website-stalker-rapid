@@ -4,6 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
+
+ Letztes Update: 08:57 / 21.10.2023
+
+Information
+
+Wegen kurzfristigen Personalausfällen besteht am **22.10.2023 bis ca. 01:30 Uhr *sowie* vom 22.10.2023 ca. 06:30 Uhr bis 23.10.2023 ca. 01:30 Uhr kein Zugverkehr** **auf der Linie S7** **zwischen Grunewald und Wannsee.**
+
+**Ein Ersatzverkehr ist mit einem Bus zwischen Grunewald und Wannsee eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S-Bhf. Grunewald: **Am Bahnhof Grunewald (wie Bus 186)**
+* S-Bhf. Nikolassee: Borussenstr. (wie Bus N16, N18)
+* S-Bhf. Wannsee: Kronprinzessinnenweg (wie Bus 114, 118, 620)
+
+---
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Friedrichstraße \<\> Nikolassee \<\> Wannsee (\<\> Potsdam Hbf) die Linie S1
+* zwischen Charlottenburg und Wannsee die Regionalbahnlinien RE1 und RE7
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  keine Verbindung
+
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### kurzfristiger Personalausfall S85 ###
@@ -19,35 +48,6 @@ Wegen kurzfristigen Personalausfällen fällt die **Linie S85** **ab ca. 07:00
 Wir bitten um Entschuldigung.
 
  fährt nicht  keine Verbindung
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
-
- Letztes Update: 05:34 / 21.10.2023
-
-Information
-
-Wegen kurzfristigen Personalausfällen besteht **bis 22.10.2023 ca. 01:30 Uhr *sowie* vom 22.10.2023 ca. 06:30 Uhr bis 23.10.2023 ca. 01:30 Uhr kein Zugverkehr** **auf der Linie S7** **zwischen Grunewald und Wannsee.**
-
-**Ein Ersatzverkehr mit einem Bus ist zwischen Grunewald und Wannsee eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Grunewald: Eichkampstr. (wie Bus 349)
-* S-Bhf. Nikolassee: Borussenstr. (wie Bus N16, N18)
-* S-Bhf. Wannsee: Kronprinzessinnenweg (wie Bus 114, 118, 620)
-
----
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Friedrichstraße \<\> Nikolassee \<\> Wannsee (\<\> Potsdam Hbf) die Linie S1
-* zwischen Charlottenburg und Wannsee die Regionalbahnlinien RE1 und RE7
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  keine Verbindung
 
 ### Baumaßnahmen ###
 
