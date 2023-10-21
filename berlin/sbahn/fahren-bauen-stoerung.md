@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### kurzfristiger Personalausfall S85 ###
+
+ Letztes Update: 11:17 / 21.10.2023
+
+Information
+
+Wegen kurzfristigen Personalausfällen fällt die **Linie S85** **bis Sonntag, den 22.10.2023 ca. 22:00 Uhr** zwischen Treptower Park und Schöneweide aus.
+
+*Bitte nutzen Sie zwischen Treptower Park und Schöneweide die Linien S8 und S9.*
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  keine Verbindung
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
@@ -32,22 +48,6 @@ Wegen kurzfristigen Personalausfällen besteht bis **22.10.2023 ca. 01:30 Uhr *
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  keine Verbindung
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### kurzfristiger Personalausfall S85 ###
-
- Letztes Update: 06:03 / 21.10.2023
-
-Information
-
-Wegen kurzfristigen Personalausfällen fällt die **Linie S85** **ab ca. 07:00 Uhr bis 22.10.2023 ca. 22:00 Uhr** zwischen Treptower Park und Schöneweide aus.
-
-*Bitte nutzen Sie zwischen Treptower Park und Schöneweide die Linien S8 und S9.*
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
