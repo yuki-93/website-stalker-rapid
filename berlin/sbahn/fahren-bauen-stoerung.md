@@ -4,42 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Notarzteinsatz auf der freien Strecke im Bereich Schöneweide ###
-
- Letztes Update: 02:27 / 21.10.2023
-
-Information
-
-Wegen eines Notarzteinsatzes auf der freien Strecke ist der Zugverkehr der Linien S 46, S47, S8 und S9 in diesem Bereich unterbrochen.
-
-**Linie S 46** verkehrt Südkreuz\<\>Baumschulenweg und Grünau\<\>Königs Wusterhausen,
-
-**Linie S 47** verkehrt nicht,
-
-**Linie S 8** verkehrt Wedding\<\>Ostkreuz,
-
-**Linie S9** verkehrt Spandau\<\>Treptower Park und Flughafen BER T1/2\<\>Altglienike.
-
-Wir bitten um Verständnis
-
- fährt nicht  keine Verbindung
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Notarzteinsatz auf der Strecke im Bereich Rummelsburg Betriebsbahnhof ###
-
- Letztes Update: 02:22 / 21.10.2023
-
-Information
-
-Wegen eines Notartzeinsatzes auf der freien Stecke ist der Zugverkehr der Linie S3 zwischen Ostkreuz und Karlshorst unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Vorabinformation kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
