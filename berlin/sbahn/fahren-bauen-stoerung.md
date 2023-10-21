@@ -4,23 +4,46 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### kurzfristiger Personalausfall S85 ###
+
+ Letztes Update: 06:03 / 21.10.2023
+
+Information
+
+Wegen kurzfristigen Personalausfällen fällt die **Linie S85** **ab ca. 07:00 Uhr bis 22.10.2023 ca. 22:00 Uhr** zwischen Treptower Park und Schöneweide aus.
+
+*Bitte nutzen Sie zwischen Treptower Park und Schöneweide die Linien S8 und S9.*
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  keine Verbindung
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
 
- Letztes Update: 05:14 / 21.10.2023
+ Letztes Update: 05:34 / 21.10.2023
 
 Information
 
-Wegen kurzfristigen Personalausfällen verkehrt die **Linie S7** **vom 21.10.2023 ca. 05:00 Uhr bis 22.10.2023 ca. 01:30 Uhr sowie vom 22.10.2023 ca. 06:30 Uhr bis 23.10.2023 ca. 01:30 Uhr** nicht zwischen Grunewald und Wannsee.
+Wegen kurzfristigen Personalausfällen besteht **bis 22.10.2023 ca. 01:30 Uhr *sowie* vom 22.10.2023 ca. 06:30 Uhr bis 23.10.2023 ca. 01:30 Uhr kein Zugverkehr** **auf der Linie S7** **zwischen Grunewald und Wannsee.**
 
-**Zwischen Grunewald und** **Wannsee besteht ein Ersatzverkehr mit Bussen.**
+**Ein Ersatzverkehr mit einem Bus ist zwischen Grunewald und Wannsee eingerichtet.**
 
 *Haltestellen des Ersatzverkehrs:*
 
-* S-Bhf. Wannsee: Kronprinzessinnenweg (wie Bus 114, 118, 620)
-* S-Bhf. Nikolassee: Borussenstr. (wie Bus N16, N18)
 * S-Bhf. Grunewald: Eichkampstr. (wie Bus 349)
+* S-Bhf. Nikolassee: Borussenstr. (wie Bus N16, N18)
+* S-Bhf. Wannsee: Kronprinzessinnenweg (wie Bus 114, 118, 620)
+
+---
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Friedrichstraße \<\> Nikolassee \<\> Wannsee (\<\> Potsdam Hbf) die Linie S1
+* zwischen Charlottenburg und Wannsee die Regionalbahnlinien RE1 und RE7
 
 Wir bitten um Entschuldigung.
 
@@ -41,22 +64,6 @@ Wegen kurzfristiger Personalausfälle verkehrt die Linie S45 am heutigem Tag nic
 Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung unregelmäßig
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Vorabinformation kurzfristiger Personalausfall S85 ###
-
- Letztes Update: 17:08 / 20.10.2023
-
-Information
-
-Wegen kurzfristigen Personalausfällen verkehrt die **Linie S85****vom 21.10.2023 ca. 07:00 Uhr bis 22.10.2023 ca. 22:00 Uhr** nicht zwischen Treptower Park und Schöneweide.
-
-*Bitte nutzen Sie zwischen Treptower Park und Schöneweide die Linien S8 und S9.*
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  keine Verbindung
 
 ### Baumaßnahmen ###
 
