@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
 
- Letztes Update: 09:52 / 21.10.2023
+ Letztes Update: 10:27 / 21.10.2023
 
 Information
 
-Wegen kurzfristigen Personalausfällen besteht am **22.10.2023 bis ca. 01:30 Uhr *sowie* vom 22.10.2023 ca. 06:30 Uhr bis 23.10.2023 ca. 01:30 Uhr kein Zugverkehr** **auf der Linie S7** **zwischen Grunewald und Wannsee.**
+Wegen kurzfristigen Personalausfällen besteht bis **22.10.2023 ca. 01:30 Uhr *sowie* vom 22.10.2023 ca. 06:30 Uhr bis 23.10.2023 ca. 01:30 Uhr kein Zugverkehr** **auf der Linie S7** **zwischen Grunewald und Wannsee.**
 
 **Ein Ersatzverkehr ist mit einem Bus zwischen Grunewald und Wannsee eingerichtet.**
 
