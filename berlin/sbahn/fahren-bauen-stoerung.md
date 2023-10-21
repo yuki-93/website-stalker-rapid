@@ -4,21 +4,41 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)
+[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### kurzfristiger Personalausfall S45 ###
+### Notarzteinsatz auf der freien Strecke im Bereich Schöneweide ###
 
- Letztes Update: 19:53 / 20.10.2023
+ Letztes Update: 02:27 / 21.10.2023
 
 Information
 
-Wegen kurzfristiger Personalausfälle verkehrt die Linie S45 am heutigem Tag nicht.
+Wegen eines Notarzteinsatzes auf der freien Strecke ist der Zugverkehr der Linien S 46, S47, S8 und S9 in diesem Bereich unterbrochen.
 
-*Bitte nutzen Sie zwischen Südkreuz und Adlershof die Linie S46 sowie zwischen Adlershof und Flughafen BER T1-2 die Linie S9.*
+**Linie S 46** verkehrt Südkreuz\<\>Baumschulenweg und Grünau\<\>Königs Wusterhausen,
 
-Wir bitten um Entschuldigung.
+**Linie S 47** verkehrt nicht,
 
- Takt geändert  Verbindung unregelmäßig
+**Linie S 8** verkehrt Wedding\<\>Ostkreuz,
+
+**Linie S9** verkehrt Spandau\<\>Treptower Park und Flughafen BER T1/2\<\>Altglienike.
+
+Wir bitten um Verständnis
+
+ fährt nicht  keine Verbindung
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Notarzteinsatz auf der Strecke im Bereich Rummelsburg Betriebsbahnhof ###
+
+ Letztes Update: 02:22 / 21.10.2023
+
+Information
+
+Wegen eines Notartzeinsatzes auf der freien Stecke ist der Zugverkehr der Linie S3 zwischen Ostkreuz und Karlshorst unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  keine Verbindung
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
@@ -37,6 +57,22 @@ Haltestellen des Ersatzverkehrs:
 * S Wannsee: Kronprinzessinnenweg (wie Bus 114, 118, 620)
 * S Nikolassee: Borussenstr. (wie Bus N16, N18)
 * S Grunewald: Eichkampstr. (wie Bus 349)
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  keine Verbindung
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Vorabinformation kurzfristiger Personalausfall S85 ###
+
+ Letztes Update: 17:08 / 20.10.2023
+
+Information
+
+Wegen kurzfristigen Personalausfällen verkehrt die **Linie S85****vom 21.10.2023 ca. 07:00 Uhr bis 22.10.2023 ca. 22:00 Uhr** nicht zwischen Treptower Park und Schöneweide.
+
+*Bitte nutzen Sie zwischen Treptower Park und Schöneweide die Linien S8 und S9.*
 
 Wir bitten um Entschuldigung.
 
