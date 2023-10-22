@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Bereich Ostkreuz ###
-
- Letztes Update: 17:39 / 22.10.2023
-
-Information
-
-Wegen unbefugter Personen am Gleis ist der Zugverkehr der Linie S9 zwischen Treptower Park und Warschauer Straße unterbrochen.
-
-Wir bitten um Verständnis
-
- fährt nicht  keine Verbindung
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
@@ -62,22 +48,6 @@ Wegen kurzfristigen Personalausfällen fällt die **Linie S85** **bis ca. 21:30
 Wir bitten um Entschuldigung.
 
  fährt nicht  keine Verbindung
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Demonstration am Brandenburger Tor ###
-
- Letztes Update: 16:37 / 22.10.2023
-
-Information
-
-Wegen einer Demonstration am Brandenburger Tor entfällt für die Linien S1, S2 und S25 in Brandenburger Tor der planmäßige Verkehrshalt in beiden Fahrtrichtungen.
-
-**Beachten Sie bitte**: der U-Bahnhof Brandenburger Tor der Linie U5 ist ebenfalls geschlossen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
