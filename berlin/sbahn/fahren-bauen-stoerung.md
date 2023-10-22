@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Lehnitz ###
 
- Letztes Update: 14:26 / 22.10.2023
+ Letztes Update: 14:49 / 22.10.2023
 
 Information
 
 Wegen der Reparatur an einer Weiche in Lehnitz ist der Zugverkehr der Linie S1 zwischen Birkenwerder und Oranienburg unterbrochen.
 
-**Ein Ersatzverkehr mit einem Bus ist zwischen Birkenwerder und Oranienburg eingerichtet.**
+**Ein Ersatzverkehr mit einem Bus/ Taxis ist zwischen Birkenwerder und Oranienburg eingerichtet.**
 
 *Haltestellen des Ersatzverkehrs:*
 
