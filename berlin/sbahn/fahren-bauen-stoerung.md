@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall Linie S85 ###
 
- Letztes Update: 06:57 / 22.10.2023
+ Letztes Update: 07:43 / 22.10.2023
 
 Information
 
-Wegen kurzfristigen Personalausfällen fällt die **Linie S85** **ab ca. 09:30 Uhr bis ca. 21:30 Uhr** zwischen Treptower Park und Schöneweide aus.
+Wegen kurzfristigen Personalausfällen fällt die **Linie S85** **von ca. 09:30 Uhr bis ca. 21:30 Uhr** zwischen Treptower Park und Schöneweide aus.
 
 *Bitte nutzen Sie zwischen Treptower Park und Schöneweide die Linien S8 und S9.*
 
