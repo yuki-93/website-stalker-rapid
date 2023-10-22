@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Polizeieinsatz im Bereich Ostkreuz ###
-
- Letztes Update: 04:19 / 22.10.2023
-
-Information
-
-Wegen eines Polizeieinsatzes im Bereich Ostkreuz ist der Zugverkehr der Linie S41, S42 und S8 zwischen Landsberger Allee und Treptower Park unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz im Bereich Warschauer Straße ###
+### Polizeieinsatz im Bereich Warschauer Straße beendet ###
 
- Letztes Update: 04:06 / 22.10.2023
+ Letztes Update: 04:32 / 22.10.2023
 
 Information
 
-Wegen unbefugte Personen auf der Strecke ist der Zugverkehr der Linien S3, S7 und S9 zwischen Warschauer Straße und Ostkreuz/Treptower Park unterbrochen.
+Nach dem unbefugte Personen auf der Strecke waren kommt es auf den Linien S3, S5, S7 und S9 noch zu Ausfällen und Versätungen.
 
 Wir bitten um Verständnis.
 
