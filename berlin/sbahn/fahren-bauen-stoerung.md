@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz im Bereich Ostkreuz ###
+
+ Letztes Update: 17:39 / 22.10.2023
+
+Information
+
+Wegen unbefugter Personen am Gleis ist der Zugverkehr der Linie S9 zwischen Treptower Park und Warschauer Straße unterbrochen.
+
+Wir bitten um Verständnis
+
+ fährt nicht  keine Verbindung
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
