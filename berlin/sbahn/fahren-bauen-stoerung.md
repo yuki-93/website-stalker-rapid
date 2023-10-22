@@ -4,41 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einer Weiche in Lehnitz beendet ###
-
- Letztes Update: 15:26 / 22.10.2023
-
-Information
-
-Nach der Reparatur an einer Weiche in Lehnitz kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Demonstration am Brandenburger Tor ###
-
- Letztes Update: 14:05 / 22.10.2023
-
-Information
-
-Wegen einer Demonstration am Brandenburger Tor entfällt für die Linien S1, S2 und S25 in Brandenburger Tor der planmäßige Verkehrshalt in beiden Fahrtrichtungen.
-
-**Beachten Sie bitte**: der U-Bahnhof Brandenburger Tor ist ebenfalls geschlossen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
 
- Letztes Update: 08:30 / 22.10.2023
+ Letztes Update: 16:42 / 22.10.2023
 
 Information
 
@@ -67,17 +37,33 @@ Wir bitten um Entschuldigung.
 
 ### kurzfristiger Personalausfall Linie S85 ###
 
- Letztes Update: 07:43 / 22.10.2023
+ Letztes Update: 16:41 / 22.10.2023
 
 Information
 
-Wegen kurzfristigen Personalausfällen fällt die **Linie S85** **von ca. 09:30 Uhr bis ca. 21:30 Uhr** zwischen Treptower Park und Schöneweide aus.
+Wegen kurzfristigen Personalausfällen fällt die **Linie S85** **bis ca. 21:30 Uhr** zwischen Treptower Park und Schöneweide aus.
 
 *Bitte nutzen Sie zwischen Treptower Park und Schöneweide die Linien S8 und S9.*
 
 Wir bitten um Entschuldigung.
 
  fährt nicht  keine Verbindung
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Demonstration am Brandenburger Tor ###
+
+ Letztes Update: 16:37 / 22.10.2023
+
+Information
+
+Wegen einer Demonstration am Brandenburger Tor entfällt für die Linien S1, S2 und S25 in Brandenburger Tor der planmäßige Verkehrshalt in beiden Fahrtrichtungen.
+
+**Beachten Sie bitte**: der U-Bahnhof Brandenburger Tor der Linie U5 ist ebenfalls geschlossen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
