@@ -4,45 +4,44 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Notarzteinsatz am Gleis in Spandau ###
-
- Letztes Update: 12:33 / 22.10.2023
-
-Information
-
-Wegen eines Notarzteinsatzes am Gleis in Spandau ist der Zugverkehr der Linien S3 und S9 zwischen Pichelsberg und Spandau unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S3**: Wuhlheide \<\> Pichelsberg, *der 10-Minuten-Takt besteht planmäßig zwischen Wuhlheide und Ostbahnhof*
-* **S9**: Flughafen BER Terminal 1-2 \<\> Olympiastadion
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Charlottenburg \<\> Spandau die Regionalbahnlinie RE2
-* zwischen U-Bhf. Wilmersdorfer Str.7 S-Bhf. Charlottenburg \<\> U-Bhf. Rathaus Spandau die U-Bahnlinie U7
-* zwischen Stresow und Spandau die BVG-Buslinie 130
-* zwischen Heerstraße und Scholzplatz (Nähe S-Bhf. Pichelsberg) die Buslinien M49, X34, X49 und 218
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einer Weiche in Lehnitz ###
 
- Letztes Update: 11:50 / 22.10.2023
+ Letztes Update: 14:26 / 22.10.2023
 
 Information
 
 Wegen der Reparatur an einer Weiche in Lehnitz ist der Zugverkehr der Linie S1 zwischen Birkenwerder und Oranienburg unterbrochen.
 
+**Ein Ersatzverkehr mit einem Bus ist zwischen Birkenwerder und Oranienburg eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S-Bhf. Birkenwerder: Clara Zetkin Str. (wie Bus 822)
+* S-Bhf. Borgsdorf: Bahnhofstraße (wie Bus 816)
+* S-Bhf. Lehnitz: Birkenwerderweg/ Lehnitzstr. (keine Haltestelle)
+* S-Bhf. Oranienburg: Bahnhofsplatz (wie Bus 800, 801, 802, 803, 805, 824)
+
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unterbrochen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Demonstration am Brandenburger Tor ###
+
+ Letztes Update: 14:05 / 22.10.2023
+
+Information
+
+Wegen einer Demonstration am Brandenburger Tor entfällt für die Linien S1, S2 und S25 in Brandenburger Tor der planmäßige Verkehrshalt in beiden Fahrtrichtungen.
+
+**Beachten Sie bitte**: der U-Bahnhof Brandenburger Tor ist ebenfalls geschlossen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
