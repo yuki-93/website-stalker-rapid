@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Notarzteinsatz am Gleis in Spandau ###
+
+ Letztes Update: 11:16 / 22.10.2023
+
+Information
+
+Wegen eines Notarzteinsatzes am Gleis in Spandau ist der Zugverkehr der Linien S3 und S9 zwischen Pichelsberg und Spandau unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S3**: Wuhlheide \<\> Pichelsberg, *der 10-Minuten-Takt besteht planmäßig zwischen Wuhlheide und Ostbahnhof*
+* **S9**: Flughafen BER Terminal 1-2 \<\> Olympiastadion
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
