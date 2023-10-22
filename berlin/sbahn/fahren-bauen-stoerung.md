@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz am Gleis in Spandau ###
 
- Letztes Update: 11:16 / 22.10.2023
+ Letztes Update: 12:13 / 22.10.2023
 
 Information
 
@@ -19,7 +19,28 @@ Wegen eines Notarzteinsatzes am Gleis in Spandau ist der Zugverkehr der Linien 
 * **S3**: Wuhlheide \<\> Pichelsberg, *der 10-Minuten-Takt besteht planmäßig zwischen Wuhlheide und Ostbahnhof*
 * **S9**: Flughafen BER Terminal 1-2 \<\> Olympiastadion
 
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Charlottenburg \<\> Spandau die Regionalbahnlinie RE2
+* zwischen U-Bhf. Wilmersdorfer Str. \<\> U-Bhf. Rathaus Spandau die U-Bahnlinie U7
+* zwischen Stresow und Spandau die BVG-Buslinie 130
+* zwischen Heerstraße und Scholzplatz (Nähe S-Bhf. Pichelsberg) die Buslinien M49, X34, X49 und 218
+
 Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einer Weiche in Lehnitz ###
+
+ Letztes Update: 11:50 / 22.10.2023
+
+Information
+
+Wegen der Reparatur an einer Weiche in Lehnitz ist der Zugverkehr der Linie S1 zwischen Birkenwerder und Oranienburg unterbrochen.
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unterbrochen
 
