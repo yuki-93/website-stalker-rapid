@@ -6,26 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einer Weiche in Lehnitz ###
+### Reparatur an einer Weiche in Lehnitz beendet ###
 
- Letztes Update: 14:49 / 22.10.2023
+ Letztes Update: 15:26 / 22.10.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Lehnitz ist der Zugverkehr der Linie S1 zwischen Birkenwerder und Oranienburg unterbrochen.
-
-**Ein Ersatzverkehr mit einem Bus/ Taxis ist zwischen Birkenwerder und Oranienburg eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Birkenwerder: Clara Zetkin Str. (wie Bus 822)
-* S-Bhf. Borgsdorf: Bahnhofstraße (wie Bus 816)
-* S-Bhf. Lehnitz: Birkenwerderweg/ Lehnitzstr. (keine Haltestelle)
-* S-Bhf. Oranienburg: Bahnhofsplatz (wie Bus 800, 801, 802, 803, 805, 824)
+Nach der Reparatur an einer Weiche in Lehnitz kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
