@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz am Gleis in Spandau ###
 
- Letztes Update: 12:13 / 22.10.2023
+ Letztes Update: 12:33 / 22.10.2023
 
 Information
 
@@ -22,7 +22,7 @@ Wegen eines Notarzteinsatzes am Gleis in Spandau ist der Zugverkehr der Linien 
 **Zur weiträumigen Umfahrung nutzen Sie bitte:**
 
 * zwischen Charlottenburg \<\> Spandau die Regionalbahnlinie RE2
-* zwischen U-Bhf. Wilmersdorfer Str. \<\> U-Bhf. Rathaus Spandau die U-Bahnlinie U7
+* zwischen U-Bhf. Wilmersdorfer Str.7 S-Bhf. Charlottenburg \<\> U-Bhf. Rathaus Spandau die U-Bahnlinie U7
 * zwischen Stresow und Spandau die BVG-Buslinie 130
 * zwischen Heerstraße und Scholzplatz (Nähe S-Bhf. Pichelsberg) die Buslinien M49, X34, X49 und 218
 
