@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz im Bereich Warschauer Straße beendet ###
+### kurzfristiger Personalausfall Linie S85 ###
 
- Letztes Update: 04:32 / 22.10.2023
+ Letztes Update: 05:29 / 22.10.2023
 
 Information
 
-Nach dem unbefugte Personen auf der Strecke waren kommt es auf den Linien S3, S5, S7 und S9 noch zu Ausfällen und Versätungen.
+Wegen kurzfristigen Personalausfällen fällt die **Linie S85** **am Sonntag ab ca. 09:30 Uhr bis ca. 22:00 Uhr** zwischen Treptower Park und Schöneweide aus.
 
-Wir bitten um Verständnis.
+*Bitte nutzen Sie zwischen Treptower Park und Schöneweide die Linien S8 und S9.*
+
+Wir bitten um Entschuldigung.
 
  fährt nicht  keine Verbindung
 
@@ -22,11 +24,11 @@ Wir bitten um Verständnis.
 
 ### kurzfristiger Personalausfall S7 Grunewald \<\> Wannsee ###
 
- Letztes Update: 12:31 / 21.10.2023
+ Letztes Update: 05:28 / 22.10.2023
 
 Information
 
-Wegen kurzfristigen Personalausfällen besteht bis **22.10.2023 ca. 01:30 Uhr *sowie* vom 22.10.2023 ca. 06:30 Uhr bis 23.10.2023 ca. 01:30 Uhr kein Zugverkehr** **auf der Linie S7** **zwischen Grunewald und Wannsee.**
+Wegen kurzfristigen Personalausfällen besteht ab **22.10.2023 ca. 06:30 Uhr bis 23.10.2023 ca. 01:30 Uhr kein Zugverkehr** **auf der Linie S7** **zwischen Grunewald und Wannsee.**
 
 **Ein Ersatzverkehr ist mit einem Bus zwischen Grunewald und Wannsee eingerichtet.**
 
@@ -46,22 +48,6 @@ Wegen kurzfristigen Personalausfällen besteht bis **22.10.2023 ca. 01:30 Uhr *
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  keine Verbindung
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### kurzfristiger Personalausfall Linie S85 ###
-
- Letztes Update: 12:30 / 21.10.2023
-
-Information
-
-Wegen kurzfristigen Personalausfällen fällt die **Linie S85** **bis Sonntag, den 22.10.2023 ca. 22:00 Uhr** zwischen Treptower Park und Schöneweide aus.
-
-*Bitte nutzen Sie zwischen Treptower Park und Schöneweide die Linien S8 und S9.*
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
