@@ -33,22 +33,6 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  keine Verbindung
 
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### kurzfristiger Personalausfall Linie S85 ###
-
- Letztes Update: 16:41 / 22.10.2023
-
-Information
-
-Wegen kurzfristigen Personalausfällen fällt die **Linie S85** **bis ca. 21:30 Uhr** zwischen Treptower Park und Schöneweide aus.
-
-*Bitte nutzen Sie zwischen Treptower Park und Schöneweide die Linien S8 und S9.*
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
