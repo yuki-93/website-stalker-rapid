@@ -60,8 +60,6 @@ Information
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-Nur Wochenende
-
 ### Friedrichshagen \<\> Karlshorst ###
 
 20.10. (Fr), ca. 21:45 Uhr durchgehend bis 25.10. (Mi), ca. 1.30 Uhr
@@ -176,8 +174,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung-in-westend/#con-28096)
 
 [S3](https://sbahn.berlin/fahren/s3/)
-
-Nur Wochenende
 
 ### Friedrichshagen \<\> Karlshorst ###
 
@@ -449,8 +445,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung-in-westend/#con-28096)
 
 [S3](https://sbahn.berlin/fahren/s3/)
-
-Nur Wochenende
 
 ### Friedrichshagen \<\> Karlshorst ###
 
