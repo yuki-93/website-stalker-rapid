@@ -2,23 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### kurzfristiger Personalausfall S75 ###
-
- Letztes Update: 22:13 / 23.10.2023
-
-Information
-
-Wegen einem kurzfristigen Personalausfall verkehrt die Linie S75 nur zwischen Wartenberg und Lichtenberg im 40-Minuten-Takt.
-*Bitte nutzen Sie zwischen Lichtenberg und Warschauer Straße die Linien S5 und S7.*
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
