@@ -14,12 +14,13 @@ Schwestermarken & Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
-Frühe Black Friday Angebote für die
-beste Ladepower
+Frühe Black Friday Angebote für
+die beste Ladepower
 
-50% Rabatt auf dein zweites Produkt im gesamten Sortiment.
+auf dein zweites Produkt im
+gesamten Sortiment.
 
-[Zum AngebotmasterBanner1](https://www.anker.com/eu-de/herbst-sale-chg?ref=masterBanner1)
+[Shop NowmasterBanner1](https://www.anker.com/eu-de/herbst-sale-chg?ref=masterBanner1)
 
 NEU
 

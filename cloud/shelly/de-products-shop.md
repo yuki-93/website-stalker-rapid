@@ -10,6 +10,12 @@
 
 141,61 €mit MwSt.
 
+[Shelly Plus Plug S Black](https://www.shelly.com/de/products/shop/shelly-plus-plug-s-1/shelly-plus-plug-s-black)
+
+19,90 €
+
+23,68 €mit MwSt.
+
 [Shelly Plus 1 Mini](https://www.shelly.com/de/products/shop/shelly-plus-1-mini)
 
 11,90 €
@@ -27,12 +33,6 @@
 12,90 €
 
 15,35 €mit MwSt.
-
-[Shelly Plus Plug S Black](https://www.shelly.com/de/products/shop/shelly-plus-plug-s-1/shelly-plus-plug-s-black)
-
-19,90 €
-
-23,68 €mit MwSt.
 
 [Shelly Plus 1](https://www.shelly.com/de/products/shop/shelly-plus-1-1)
 
@@ -81,6 +81,12 @@
 119,90 €
 
 142,68 €mit MwSt.
+
+[Shelly Pro 3EM - 400A](https://www.shelly.com/de/products/shop/shelly-pro-3-em-120-a-1/shelly-pro-3-em-400-a)
+
+229,00 €
+
+272,51 €mit MwSt.
 
 [Shelly Pro 3EM Switch Add-On](https://www.shelly.com/de/products/shop/shelly-pro-3-em-switch-add-on)
 
