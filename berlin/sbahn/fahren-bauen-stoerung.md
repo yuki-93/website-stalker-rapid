@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal im Bereich Grunewald ###
+
+ Letztes Update: 04:32 / 23.10.2023
+
+Information
+
+Wegen einer Reparatur am Signal im Bereich Grunewald kommt es auf der Linie S7 zu Ausfällen und Verspätungen.
+
+Wir bitten um Entschuldugung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
