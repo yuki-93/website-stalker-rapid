@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Pankow ###
+
+ Letztes Update: 08:25 / 23.10.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Pankow kommt es auf den Linien S2, S8 und S85 zu Verspätungen und Ausfällen.
+
+* Linie S2 verkehrt Blankenfelde/ Lichtenrade \<\> Nordbahnhof.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
