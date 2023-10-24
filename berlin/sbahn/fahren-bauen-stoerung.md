@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)
+[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz (Personen im Gleis) im Bereich Oranienburger Straße beendet ###
 
- Letztes Update: 17:44 / 24.10.2023
+ Letztes Update: 19:08 / 24.10.2023
 
 Information
 
-Nach einem Polizeieinsatz (Personen im Gleis) im Bereich Oranienburger Straße kommt es auf den Linien S1 und S2 derzeit noch zu Verspätungen und Ausfällen.
-
-Die Linie S26 verkehrt derzeit nicht.
+Nach einem Polizeieinsatz (Personen im Gleis) im Bereich Oranienburger Straße verkehrt die Linie S26 derzeit nicht.
 
 Wir bitten um ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ fährt nicht  keine Verbindung
 
 [S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
