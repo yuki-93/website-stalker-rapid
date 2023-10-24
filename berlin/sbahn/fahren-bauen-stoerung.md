@@ -6,17 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz (Personen im Gleis) im Bereich Oranienburger Straße ###
+### Polizeieinsatz (Personen im Gleis) im Bereich Oranienburger Straße beendet ###
 
- Letztes Update: 13:13 / 24.10.2023
+ Letztes Update: 13:56 / 24.10.2023
 
 Information
 
-Wegen eines Polizeieinsatzes (Personen im Gleis) im Bereich Oranienburger Straße sind die Linien S1, S2, S25 und S26 derzeit zwischen Oranienburger Straße \<\> Potsdamer Platz unterbrochen.
+Nach einem Polizeieinsatz (Personen im Gleis) im Bereich Oranienburger Straße kommt es auf den Linien S1, S2 und S25 derzeit noch zu Verspätungen und Ausfällen.
+
+Die Linie S26 verkehrt derzeit nicht.
 
 Wir bitten um ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
