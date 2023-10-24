@@ -4,16 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz (Personen im Gleis) im Bereich Oranienburger Straße ###
+
+ Letztes Update: 13:13 / 24.10.2023
+
+Information
+
+Wegen eines Polizeieinsatzes (Personen im Gleis) im Bereich Oranienburger Straße sind die Linien S1, S2, S25 und S26 derzeit zwischen Oranienburger Straße \<\> Potsdamer Platz unterbrochen.
+
+Wir bitten um ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 [S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Neukölln ###
 
- Letztes Update: 12:22 / 24.10.2023
+ Letztes Update: 12:50 / 24.10.2023
 
 Information
 
 Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Neukölln kommt es auf den Linien S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
 
+* S42 verkehrt im 10-Minuten-Takt.
 * S45 verkehrt Schöneweide \<\> Flughafen BER Terminal1-2.
 * S47 verkehrt Schöneweide \<\> Spindlersfeld.
 
