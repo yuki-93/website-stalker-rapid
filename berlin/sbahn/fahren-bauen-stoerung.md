@@ -4,35 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz (Personen im Gleis) im Bereich Oranienburger Straße beendet ###
-
- Letztes Update: 19:08 / 24.10.2023
-
-Information
-
-Nach einem Polizeieinsatz (Personen im Gleis) im Bereich Oranienburger Straße verkehrt die Linie S26 derzeit nicht.
-
-Wir bitten um ihr Verständnis.
-
- fährt nicht  keine Verbindung
-
-[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S42](https://sbahn.berlin/fahren/s42/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Neukölln ###
 
- Letztes Update: 14:49 / 24.10.2023
+ Letztes Update: 20:39 / 24.10.2023
 
 Information
 
-Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Neukölln kommt es auf den Linien S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
+Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Neukölln kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
 
 * S42 verkehrt im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
