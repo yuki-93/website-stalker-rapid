@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Polizeieinsatz in Blankenburg (SEV für Linien S2 u. S8) ###
+
+ Letztes Update: 15:42 / 24.10.2023
+
+Information
+
+Wegen eines Polizeieinsatzes in Blankenburg kommt es beim SEV für Linien S2 und S8 zwischen Pankow \<\> Karow / Hohen Neuendorf zu Verspätungen und Ausfällen.
+
+Wir bitten um ihr Verständnis.
+
+ Ersatzverkehr  Verbindung unregelmäßig
+
 [S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Neukölln ###
