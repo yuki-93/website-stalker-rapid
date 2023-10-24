@@ -202,7 +202,7 @@
 
 14,16 €mit MwSt.
 
-[Shelly Dimmer 2](https://www.shelly.com/de/products/shop/shelly-dimmer2)
+[Shelly Dimmer2](https://www.shelly.com/de/products/shop/shelly-dimmer2)
 
 28,90 €
 
