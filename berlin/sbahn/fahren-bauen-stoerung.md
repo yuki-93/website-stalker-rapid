@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz in Blankenburg (SEV für Linien S2 u. S8) beendet ###
+### Polizeieinsatz (Personen im Gleis) im Bereich Oranienburger Straße beendet ###
 
- Letztes Update: 17:09 / 24.10.2023
+ Letztes Update: 17:44 / 24.10.2023
 
 Information
 
-Nach einem Polizeieinsatz in Blankenburg kommt es beim SEV für Linien S2 und S8 zwischen Pankow \<\> Karow / Hohen Neuendorf noch zu Verspätungen.
+Nach einem Polizeieinsatz (Personen im Gleis) im Bereich Oranienburger Straße kommt es auf den Linien S1 und S2 derzeit noch zu Verspätungen und Ausfällen.
+
+Die Linie S26 verkehrt derzeit nicht.
 
 Wir bitten um ihr Verständnis.
 
- Ersatzverkehr  Verbindung verspätet
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
@@ -31,22 +33,6 @@ Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bere
 * S42 verkehrt im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz (Personen im Gleis) im Bereich Oranienburger Straße beendet ###
-
- Letztes Update: 13:56 / 24.10.2023
-
-Information
-
-Nach einem Polizeieinsatz (Personen im Gleis) im Bereich Oranienburger Straße kommt es auf den Linien S1, S2 und S25 derzeit noch zu Verspätungen und Ausfällen.
-
-Die Linie S26 verkehrt derzeit nicht.
-
-Wir bitten um ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
