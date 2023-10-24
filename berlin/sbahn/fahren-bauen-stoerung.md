@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Neukölln ###
+
+ Letztes Update: 12:22 / 24.10.2023
+
+Information
+
+Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke im Bereich Neukölln kommt es auf den Linien S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
+
+* S45 verkehrt Schöneweide \<\> Flughafen BER Terminal1-2.
+* S47 verkehrt Schöneweide \<\> Spindlersfeld.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
