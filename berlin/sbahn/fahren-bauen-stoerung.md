@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz beendet (unbefugte Personen auf der Strecke) ###
-
- Letztes Update: 05:48 / 24.10.2023
-
-Information
-
-Nach einem Polizeieinsatz (unbefugten Personen auf der Strecke) im Bereich Frankfurter Allee kommt es auf Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### kurzfristiger Personalausfall S75 ###
-
- Letztes Update: 02:10 / 24.10.2023
-
-Information
-
-Wegen einem kurzfristigen Personalausfall kommt es auf der Linie S75 zu vereinzelten Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
