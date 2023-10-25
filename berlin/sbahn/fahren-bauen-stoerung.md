@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Signal in Köpenick ###
 
- Letztes Update: 05:52 / 25.10.2023
+ Letztes Update: 06:51 / 25.10.2023
 
 Information
 
-Wegen der Reparatur am Signal in Köpenick kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Köpenick kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
