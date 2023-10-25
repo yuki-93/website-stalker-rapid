@@ -4,51 +4,51 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur am Signal in Köpenick ###
+### Reparatur am Zug Yorckstraße ###
 
- Letztes Update: 20:52 / 25.10.2023
+ Letztes Update: 22:13 / 25.10.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Köpenick kommt es auf der Linie S3 zu Verspätungen und Zugausfällen.
+Wegen einer Reparatur am Zug in Yorckstraße kommt es auf den Linien S2 und S25 zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S3](https://sbahn.berlin/fahren/s3/)
 
-### Polizeieinsatz (unbefugten Personen auf der Strecke) im Bereich Tempelhof beendet ###
+### Reparatur am Signal in Köpenick ###
 
- Letztes Update: 19:20 / 25.10.2023
+ Letztes Update: 22:03 / 25.10.2023
 
 Information
 
-Nach einem Polizeieinsatz (unbefugten Personen auf der Strecke) im Bereich Tempelhof kommt es auf Linien S41, S42, S45 und S46 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Köpenick kann es auf der Linie S3 zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert  Verbindung verspätet
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten (bei der Fernbahn) im Bereich Zoologischer Garten ###
 
- Letztes Update: 10:33 / 25.10.2023
+ Letztes Update: 21:23 / 25.10.2023
 
 Information
 
-Wegen kurzfristiger Bauarbeiten bei der Fernbahn im Bereich des S-Bhf Zoologischer Garten muss der Zugverkehr der **S-Bahn Linien S3, S5, S7 und S9 von** **heute ca. 22:15 Uhr bis Donnerstag, den 26.10.23, ca. 02:00 Uhr** verändert durchgeführt werden.
+Wegen kurzfristigen Bauarbeiten bei der Fernbahn im Bereich des S Zoologischer Garten muss der Zugverkehr der **S-Bahn Linien S3, S5 und S7 von** **heute ca. 22:15 Uhr bis Donnerstag, den 26.10.23, ca. 02:00 Uhr** verändert durchgeführt werden.
 
 Zugverkehr wie folgt:
 
-* Linie S3: verkehrt Erkner \<\> Friedrichstraße und Charlottenburg \<\> Spandau
-* Linie S5: verkehrt Strausberg Nord \<\> Ostbahnhof
-* Linie S7: verkehrt Ahrensfelde \<\> Tiergarten sowie Charlottenburg \<\> Potsdam Hauptbahnhof
+* Linie S3 verkehrt Erkner \<\> Friedrichstraße und Charlottenburg \<\> Spandau
+* Linie S5 verkehrt Strausberg Nord \<\> Ostbahnhof
+* Linie S7 verkehrt Ahrensfelde \<\> Tiergarten sowie Charlottenburg \<\> Potsdam Hbf
 
-**Nutzen Sie bitte zwischen Tiergarten und Charlottenburg die Linie S9** und zur weiträumigen Umfahrung die alternativen Verkehrsmittel.
+**Bitte nutzen Sie zwischen Tiergarten und Charlottenburg die Linie S9** und zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
 
 ---
 
