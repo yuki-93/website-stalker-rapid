@@ -6,27 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur am Zug Yorckstraße ###
+### Reparatur am Zug Yorckstraße beendet ###
 
- Letztes Update: 22:13 / 25.10.2023
-
-Information
-
-Wegen einer Reparatur am Zug in Yorckstraße kommt es auf den Linien S2 und S25 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur am Signal in Köpenick ###
-
- Letztes Update: 22:03 / 25.10.2023
+ Letztes Update: 22:25 / 25.10.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Köpenick kann es auf der Linie S3 zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einer Reparatur am Zug in Yorckstraße kann es auf den Linien S2 und S25 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
@@ -36,13 +22,11 @@ Wir bitten um Entschuldigung.
 
 ### kurzfristige Bauarbeiten (bei der Fernbahn) im Bereich Zoologischer Garten ###
 
- Letztes Update: 21:23 / 25.10.2023
+ Letztes Update: 22:23 / 25.10.2023
 
 Information
 
-Wegen kurzfristigen Bauarbeiten bei der Fernbahn im Bereich des S Zoologischer Garten muss der Zugverkehr der **S-Bahn Linien S3, S5 und S7 von** **heute ca. 22:15 Uhr bis Donnerstag, den 26.10.23, ca. 02:00 Uhr** verändert durchgeführt werden.
-
-Zugverkehr wie folgt:
+Wegen kurzfristigen Bauarbeiten bei der Fernbahn im Bereich des S Zoologischer Garten kommt es auf den Linien S3, S5 und S7 bis ca. 02:00 Uhr zu nachfolgenden Änderungen im Zugverkehr:
 
 * Linie S3 verkehrt Erkner \<\> Friedrichstraße und Charlottenburg \<\> Spandau
 * Linie S5 verkehrt Strausberg Nord \<\> Ostbahnhof
@@ -57,6 +41,20 @@ Zugverkehr wie folgt:
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur am Signal in Köpenick ###
+
+ Letztes Update: 22:03 / 25.10.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Köpenick kann es auf der Linie S3 zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
