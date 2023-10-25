@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz (unbefugten Personen auf der Strecke) im Bereich Tempelhof beendet ###
+
+ Letztes Update: 19:20 / 25.10.2023
+
+Information
+
+Nach einem Polizeieinsatz (unbefugten Personen auf der Strecke) im Bereich Tempelhof kommt es auf Linien S41, S42, S45 und S46 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten (bei der Fernbahn) im Bereich Zoologischer Garten ###
