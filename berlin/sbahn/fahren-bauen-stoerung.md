@@ -8,15 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streckensperrung (Tiere auf der Strecke) Schönhauser Allee\<\>Gesundbrunnen/Bornholmer Straße aufgehoben ###
 
- Letztes Update: 12:14 / 25.10.2023
+ Letztes Update: 13:53 / 25.10.2023
 
 Information
 
 Nach einer Streckensperrung (Tiere auf der Strecke) zwischen Schönhauser Allee \<\> Gesundbrunnen/Bornholmer Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
 
 Die Linien S41 und S42 verkehren im 10-Minuten-Takt.
-
-Die Linie S85 verkehrt nicht.
 
 Wir bitten um Verständnis.
 
