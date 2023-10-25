@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur am Signal in Köpenick ###
+
+ Letztes Update: 20:52 / 25.10.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Köpenick kommt es auf der Linie S3 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Polizeieinsatz (unbefugten Personen auf der Strecke) im Bereich Tempelhof beendet ###
