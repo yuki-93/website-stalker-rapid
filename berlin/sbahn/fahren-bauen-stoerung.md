@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Streckensperrung (Tiere auf der Strecke) Schönhauser Allee\<\>Gesundbrunnen/Bornholmer Straße aufgehoben ###
-
- Letztes Update: 15:37 / 25.10.2023
-
-Information
-
-Nach einer Streckensperrung (Tiere auf der Strecke) zwischen Schönhauser Allee \<\> Gesundbrunnen/Bornholmer Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten (bei der Fernbahn) im Bereich Zoologischer Garten ###
