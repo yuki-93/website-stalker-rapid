@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Bereich Warschauer Straße beendet ###
 
- Letztes Update: 19:02 / 26.10.2023
+ Letztes Update: 19:53 / 26.10.2023
 
 Information
 
-Nach dem unbefugte Personen auf der Strecke waren kommt es auf den Linien S3, S5, S7 und S9 noch zu Ausfällen und Versätungen.
+Nach unbefugte Personen auf der Strecke kommt es auf den Linien S3, S5, S7 und S9 noch zu Ausfällen und Verspätungen.
 
  Wir bitten um Verständnis.
 
