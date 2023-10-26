@@ -412,59 +412,17 @@
 
 27,25 €mit MwSt.
 
-[Shelly Remote Pack - White](https://www.shelly.com/de/products/shop/sp-remo-w)
-
-69,00 €
-
-82,11 €mit MwSt.
-
-[Electric Water Valve](https://www.shelly.com/de/products/shop/din20)
-
-159,00 €
-
-189,21 €mit MwSt.
-
 [Shelly Plus Plug S Black](https://www.shelly.com/de/products/shop/shelly-plus-plug-s-bl)
 
 19,90 €
 
 23,68 €mit MwSt.
 
-[Voltage Detector Screwdriver](https://www.shelly.com/de/products/shop/phmeter-x1)
-
-6,00 €
-
-7,14 €mit MwSt.
-
 [Temperature Sensor DS18B20](https://www.shelly.com/de/products/shop/temp-sensor-ds18b20x1)
 
 4,90 €
 
 5,83 €mit MwSt.
-
-[Shelly 1 + Shelly Flood](https://www.shelly.com/de/products/shop/s1-flood-3)
-
-33,00 €
-
-39,27 €mit MwSt.
-
-[Shelly i3](https://www.shelly.com/de/products/shop/1xi3)
-
-9,90 €
-
-11,78 €mit MwSt.
-
-[Shelly 1PM - UL](https://www.shelly.com/de/products/shop/shelly-1pm-ul-1)
-
-16,66 €
-
-19,83 €mit MwSt.
-
-[Shelly Plug US](https://www.shelly.com/de/products/shop/shelly-plug-us)
-
-14,50 €
-
-17,26 €mit MwSt.
 
 [Shelly Wall Socket EU](https://www.shelly.com/de/products/shop/shelly-wall-socket-eu-white)
 

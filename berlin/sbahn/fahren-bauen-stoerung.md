@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
+[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur einer Weiche in Waidmannslust beendet ###
 
- Letztes Update: 09:44 / 26.10.2023
+ Letztes Update: 10:43 / 26.10.2023
 
 Information
 
-Nach einer Reparatur einer Weiche in Waidmannslust kommt es auf den Linien S1 und S26 noch zu vereinzelten Zugausfällen.
+Nach einer Reparatur einer Weiche in Waidmannslust kommt es auf der Linie S26 noch zu vereinzelten Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
