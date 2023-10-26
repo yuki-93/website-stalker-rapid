@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz im Bereich Warschauer Straße beendet ###
-
- Letztes Update: 22:13 / 26.10.2023
-
-Information
-
-Nach unbefugten Personen auf der Strecke kommt es auf der Linie S7 noch zu Ausfällen und Verspätungen.
-
- Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
