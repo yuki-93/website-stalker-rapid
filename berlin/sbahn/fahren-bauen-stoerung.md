@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur einer Weiche in Waidmannslust beendet ###
-
- Letztes Update: 10:43 / 26.10.2023
-
-Information
-
-Nach einer Reparatur einer Weiche in Waidmannslust kommt es auf der Linie S26 noch zu vereinzelten Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
