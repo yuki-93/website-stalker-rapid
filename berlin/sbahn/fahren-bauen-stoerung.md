@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
 
-### unbefugte Personen auf der Strecke im Bereich Wannsee ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke im Bereich Wannsee) ist beendet ###
 
- Letztes Update: 08:22 / 27.10.2023
+ Letztes Update: 08:42 / 27.10.2023
 
 Information
 
-Wegen unbefugter Personen auf der Strecke im Bereich Wannsee ist der Zugverkehr der Linie S1 und S7 zwischen Zehlendorf/Westkreuz \<\> Wannsee/Potsdam Hauptbahnhof unterbrochen.
-
-Zur Umfahrung bitte die örtlichen Verkehrsmittel benutzen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke in Wannsee) kommt es auf den Linien S1 und S7 noch zu Verspätungen und Ausfällen
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
