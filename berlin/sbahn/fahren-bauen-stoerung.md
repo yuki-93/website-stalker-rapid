@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+### unbefugte Personen auf der Strecke im Bereich Wannsee ###
+
+ Letztes Update: 08:22 / 27.10.2023
+
+Information
+
+Wegen unbefugter Personen auf der Strecke im Bereich Wannsee ist der Zugverkehr der Linie S1 und S7 zwischen Zehlendorf/Westkreuz \<\> Wannsee/Potsdam Hauptbahnhof unterbrochen.
+
+Zur Umfahrung bitte die örtlichen Verkehrsmittel benutzen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
