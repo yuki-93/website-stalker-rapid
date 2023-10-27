@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke im Bereich Wannsee) ist beendet ###
-
- Letztes Update: 08:42 / 27.10.2023
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke in Wannsee) kommt es auf den Linien S1 und S7 noch zu Verspätungen und Ausfällen
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
