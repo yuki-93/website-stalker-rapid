@@ -26,8 +26,6 @@ NEU
 
 Anker SOLIX RS50B Balkonkraftwerk mit SpeicherMaximale Stromeinsparung
 
-Spare 25 Jahre lang 9828€ an Stromkosten!
-
 [Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher?ref=masterBanner2)
 
 Anker Nano
