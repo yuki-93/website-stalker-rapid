@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an der Strecke in Ahrensfelde ###
-
- Letztes Update: 20:04 / 27.10.2023
-
-Information
-
-Wegen der Reparatur an der Strecke in Ahrensfelde kommt es auf der Linie S7 zu Verspätungen und Ausfällen.
-
-* Linie S7 verkehrt im 20-Minuten-Takt zwischen Ostbahnhof und Ahrensfelde.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Verkehrsunfall in Pankow (SEV für S2 und S8) ###
-
- Letztes Update: 18:13 / 27.10.2023
-
-Information
-
-Wegen eines Verkehrsunfalls in Pankow kommt es beim Ersatzverkehr mit Bussen für die Linien S2 und S8 zu Fahrzeitverlängerungen und Ausfällen.
-
-Wir bitten um ihr Verständnis.
-
- Ersatzverkehr  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
