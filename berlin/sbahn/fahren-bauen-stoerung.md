@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### kurzfristige Personalausfälle auf der Linie S26 ###
-
- Letztes Update: 19:04 / 28.10.2023
-
-Information
-
-Wegen kurzfristigen Personalausfällen kann die Linie S26 derzeit nicht angeboten werden.
-
-Bitte nutzen Sie die Linie S25.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
