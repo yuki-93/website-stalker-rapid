@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### kurzfristiger Personalausfall auf der Linie S47 ###
+
+ Letztes Update: 23:01 / 28.10.2023
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls ist die Linie S47 heute Nacht ab 02 Uhr bis 03 Uhr unterbrochen.
+
+* die Fahrten Spindlersfeld ab 02:07 Uhr und 02:37 Uhr, sowie Schöneweide ab 02:20 Uhr und 02:50 Uhr fallen aus
+* bitte nutzen Sie in dieser Zeit die Bus-Linien N64 und N65
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
