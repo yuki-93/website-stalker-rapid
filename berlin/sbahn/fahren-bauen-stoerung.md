@@ -8,17 +8,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Neukölln ###
 
- Letztes Update: 18:56 / 29.10.2023
+ Letztes Update: 19:56 / 29.10.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Neukölln kommt auf den Linien S41; S42; S45; S46 und S47 zu Verspätungen und Ausfällen.
-
-Die Linien S41 und S42 verkehren derzeit im 10-Minuten-Takt.
+Wegen der Reparatur an einer Weiche in Neukölln verkehren die Linien S41 und S42 derzeit im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert  Verbindung verspätet
+ Takt geändert  sonstige Einschränkungen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Polizeieinsatz im Bereich Neuenhagen beendet ###
+
+ Letztes Update: 19:39 / 29.10.2023
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Neuenhagen kommt es auf der Linie S5 zu Verspätungen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
