@@ -18,20 +18,6 @@ Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsatz im Bereich Neuenhagen beendet ###
-
- Letztes Update: 19:39 / 29.10.2023
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Neuenhagen kommt es auf der Linie S5 zu Verspätungen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### kurzfristiger Personalausfall auf der Linie S2 ###
