@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### kurzfristiger Personalausfall auf der Linie S2 ###
+
+ Letztes Update: 14:14 / 29.10.2023
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls verkehrt die Linie S2 zwischen Karow und Bernau durchgehend im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
