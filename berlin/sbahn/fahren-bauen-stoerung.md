@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einer Weiche in Neukölln ###
-
- Letztes Update: 19:56 / 29.10.2023
-
-Information
-
-Wegen der Reparatur an einer Weiche in Neukölln verkehren die Linien S41 und S42 derzeit im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### kurzfristiger Personalausfall auf der Linie S2 ###
