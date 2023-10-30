@@ -38,13 +38,14 @@ Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
 [Apple-Zubehör entdecken \>\>](https://www.anker.com/eu-de/collections/apple-accessories)
 
-Anker SOLIX F2000 (PowerHouse 767) 2048Wh | 2300W
+Anker SOLIX C1000
 
-Power für alles. Power für überall.
+Schnelle Power, immer und überall.
 
-[Mehr erfahrenankermasterBanner4](https://www.anker.com/eu-de/a1780?ref=masterBanner4)
+UltraFast Netzaufladung, 100% in 58 Minuten
+Langlebige LiFeP04-Akkus mit InfiniPower™ Technologie
 
-Jetzt kaufen
+[Jetzt 300 Rabatt sichernmasterBanner4](https://www.anker.com/eu-de/a1761-powerstation-camping-pps?ref=masterBanner4)
 
 Das Anker-Erlebnis entdecken
 ----------
