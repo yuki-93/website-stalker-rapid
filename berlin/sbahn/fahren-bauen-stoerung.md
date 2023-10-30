@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur einer Weiche in Grünauer Kreuz ###
 
- Letztes Update: 15:29 / 30.10.2023
+ Letztes Update: 16:40 / 30.10.2023
 
 Information
 
@@ -19,7 +19,7 @@ Wegen der Reparatur einer Weiche in Grünauer Kreuz kommt es auf den Linien S45,
 * S85 verkehrt zwischen Pankow und Grünau
 * S9 verkehrt zwischen Ostbahnhof und Schöneweide sowie Altglienicke und Flughafen BER T1-2
 
-*Bitte nutzen Sie zur Umfahrung die Züge des Regionalverkehrs sowie die Verkehrsmittel der BVG.*
+*Bitte nutzen Sie zur Umfahrung die Züge des Regionalverkehrs **FEX mit zusätzlichen Halt in Schöneweide** sowie die Verkehrsmittel der BVG.*
 
 Wir bitten um Entschuldigung.
 
