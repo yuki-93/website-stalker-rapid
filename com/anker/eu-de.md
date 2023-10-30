@@ -2,7 +2,7 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e
 
 []()
 
-Starte energiegeladen in den Black Friday.Bis zu 600€ Rabatt.
+Starte energiegeladen in den Black Friday.Bis zu 700€ Rabatt.
 
 [Zum Angebot \>\>](https://www.anker.com/eu-de/anker-solix/black-friday-bms)
 
@@ -28,7 +28,7 @@ Bis zu 700€ Rabatt
 
 Starte energiegeladen in den Black Friday
 
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher?ref=masterBanner2)
+[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=masterBanner2)
 
 Anker Nano
 
