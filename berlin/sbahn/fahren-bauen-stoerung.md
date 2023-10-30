@@ -8,15 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur einer Weiche in Grünauer Kreuz ###
 
- Letztes Update: 15:11 / 30.10.2023
+ Letztes Update: 15:29 / 30.10.2023
 
 Information
 
-Wegen der Reparatur einer Weiche in Grünauer Kreuz kommt es auf den Linien S45, S85 und S9 zu nachfolgenden Einschränkungen:
+Wegen der Reparatur einer Weiche in Grünauer Kreuz kommt es auf den Linien S45, S85 und S9 zu Verspätungen und Zugausfällen sowie nachfolgenden Einschränkungen:
+*Der Zugverkehr der Linien S45 und S9 ist zwischen Adlershof und Altglienicke unterbrochen.*
 
 * S45 verkehrt zwischen Südkreuz und Grünau
-* S85 verkehrt zwischen Pankow und Schöneweide
-* S9 verkehrt zwischen Ostbahnhof und Grünau sowie Altglienicke und Flughafen BER T1-2
+* S85 verkehrt zwischen Pankow und Grünau
+* S9 verkehrt zwischen Ostbahnhof und Schöneweide sowie Altglienicke und Flughafen BER T1-2
 
 *Bitte nutzen Sie zur Umfahrung die Züge des Regionalverkehrs sowie die Verkehrsmittel der BVG.*
 
