@@ -6,7 +6,7 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e
 
 [Zum Angebot \>\>](https://www.anker.com/eu-de/herbst-sale-chg?ref=topbanner)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren\>\>](https://www.anker.com/eu-de/anker-solix/prime-day-angebot-pps?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Bereit für Black Friday? Bis zu 1.200€ Rabatt](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren\>\>](https://www.anker.com/eu-de/anker-solix/black-friday-pps?ref=naviBar)
 
 Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Pre-Black Friday](https://www.anker.com/eu-de/herbst-sale-chg?ref=naviMenu)
 
