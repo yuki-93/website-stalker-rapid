@@ -2,6 +2,28 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur einer Weiche in Grünauer Kreuz ###
+
+ Letztes Update: 15:11 / 30.10.2023
+
+Information
+
+Wegen der Reparatur einer Weiche in Grünauer Kreuz kommt es auf den Linien S45, S85 und S9 zu nachfolgenden Einschränkungen:
+
+* S45 verkehrt zwischen Südkreuz und Grünau
+* S85 verkehrt zwischen Pankow und Schöneweide
+* S9 verkehrt zwischen Ostbahnhof und Grünau sowie Altglienicke und Flughafen BER T1-2
+
+*Bitte nutzen Sie zur Umfahrung die Züge des Regionalverkehrs sowie die Verkehrsmittel der BVG.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
