@@ -24,7 +24,9 @@ gesamten Sortiment.
 
 NEU
 
-Anker SOLIX RS50B Balkonkraftwerk mit SpeicherMaximale Stromeinsparung
+Bis zu 600€ RabattMaximale Stromeinsparung
+
+Starte energiegeladen in den Black Friday
 
 [Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher?ref=masterBanner2)
 
