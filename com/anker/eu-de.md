@@ -28,6 +28,8 @@ Bis zu 700€ Rabatt
 
 Starte energiegeladen in den Black Friday
 
+Die ultimative Solarstromlösung für dein Zuhause
+
 [Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=masterBanner2)
 
 Anker Nano
@@ -73,17 +75,17 @@ Das Anker-Erlebnis entdecken
 
 * ###
 
-   Limitiertes Angebot
+   Flash Sale
 
    ###
 
   ### 1080W Leistung ###
 
-  ### Spare bis zu 400€ ###
+  ### Spare bis zu 600€ ###
 
-  Anker SOLIX Balkonkraftwerk | Das Upgrade auf 800W
+  Anker SOLIX Balkonkraftwerk | Black Friday
 
-  [Mehr erfahren Limitiertes Angebot ,1080W Leistung,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner4_4)
+  [Mehr erfahren Flash Sale ,1080W Leistung,Spare bis zu 600€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner4_4)
 
 * ### Anker GaNPrime  ###
 

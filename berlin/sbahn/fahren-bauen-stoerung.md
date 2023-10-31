@@ -4,6 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur einer Weiche in Grünauer Kreuz ###
+
+ Letztes Update: 09:20 / 31.10.2023
+
+Information
+
+Wegen der Reparatur einer Weiche in Grünauer Kreuz kommt es auf den Linien S45 und S9 zu Verspätungen und Zugausfällen sowie nachfolgenden Einschränkungen:
+*Der Zugverkehr der Linien S45 und S9 ist zwischen Adlershof und Altglienicke unterbrochen.*
+
+* S45 verkehrt zwischen Südkreuz und Grünau
+* S9 verkehrt zwischen Ostbahnhof und Schöneweide sowie Altglienicke und Flughafen BER T1-2
+
+*Fahrgäste mit direktem Fahrtziel Flughafen BER T1-2 nutzen bitte ab Berlin-Schöneweide die Linie des RE9 (FEX).*
+
+Ein Ersatzverkehr mit Bussen ist eingerichtet:
+
+Haltestellen des Ersatzverkehrs:
+
+S-Bhf. Grünau: Richterstraße (wie Bus 163)
+
+S-Bhf. Altglienicke: Rosenstraße/Germanenstraße
+
+S-Bhf. Grünbergallee: Ewaldstraße Höhe S-Bahnhof Grünbergallee
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur einer Weiche in Zeuthen ###
@@ -15,26 +45,6 @@ Information
 Wegen einer Reparatur einer Weiche in Zeuthen kommt es auf der Linie S8 zu Ausfällen und Verspätungen.
 
  **Linie S8** verkehrt Pankow\<\>Zeuthen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur einer Weiche in Grünauer Kreuz ###
-
- Letztes Update: 18:33 / 30.10.2023
-
-Information
-
-Wegen der Reparatur einer Weiche in Grünauer Kreuz kommt es auf den Linien S45 und S9 zu Verspätungen und Zugausfällen sowie nachfolgenden Einschränkungen:
-*Der Zugverkehr der Linien S45 und S9 ist zwischen Adlershof und Altglienicke unterbrochen.*
-
-* S45 verkehrt zwischen Südkreuz und Grünau
-* S9 verkehrt zwischen Ostbahnhof und Schöneweide sowie Altglienicke und Flughafen BER T1-2
-
-*Bitte nutzen Sie zur Umfahrung die Züge des Regionalverkehrs **FEX mit zusätzlichen Halt in Schöneweide** sowie die Verkehrsmittel der BVG.*
 
 Wir bitten um Entschuldigung.
 
