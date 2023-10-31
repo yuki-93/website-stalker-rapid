@@ -8,18 +8,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Vorabinformation: kurzfristige Bauarbeiten zwischen Schöneweide \<\> Grünau/ Altglienicke ###
 
- Letztes Update: 13:34 / 31.10.2023
+ Letztes Update: 14:03 / 31.10.2023
 
 Information
 
-Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der **Linien S45, S46, S8 und S9 ab heute ca. 22:00 Uhr bis 01.11.2023 ca. 01:30 Uhr** zwischen Schöneweide und Grünau bzw. Altglienicke unterbrochen.
+Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der **Linien S45, S46, S8 und S9 ab heute ca. 22:00 Uhr bis 01.11.2023 ca. 01:30 Uhr** zwischen Schöneweide und Grünau/ Altglienicke unterbrochen.
 
 **Die betroffenen Linien verkehren wie folgt:**
 
-* Linie S45: Südkreuz \<\> Baumschulenweg.
-* Linie S46: Westend \<\> Schöneweide sowie Grünau \<\> Königs Wusterhausen.
-* Linie S8: Pankow \<\> Schöneweide.
-* Linie S9: Ostbahnhof \<\> Schöneweide sowie Altglienicke \<\> Flughafen BER Terminal 1-2.
+* Linie S45: Südkreuz \<\> Baumschulenweg
+* Linie S46: Westend \<\> Schöneweide sowie Grünau \<\> Königs Wusterhausen
+* Linie S8: Pankow \<\> Schöneweide
+* Linie S9: Ostbahnhof \<\> Schöneweide sowie Altglienicke \<\> Flughafen BER Terminal 1-2
 
 ---
 
@@ -32,7 +32,7 @@ S45:
 
 S8:
 
-* Pankow ab 21:10 Uhr \> Grünau an 22:47 Uhr
+* Pankow ab 21:10 Uhr \> Grünau an 21:47 Uhr
 * Grünau ab 21:49 Uhr \>Pankow an 22:27 Uhr
 
 S46:
@@ -46,12 +46,12 @@ S46:
 
 Haltestellen des Ersatzverkehrs:
 
-* S-Bhf. Schöneweide: Michael-Brückner-Straße (wie Bus 165)
-* S-Bhf. Johannisthal: *kein Halt in beiden Richtungen*
-* S-Bhf. Adlershof: Adlergestell, in Höhe Dörpfeldstraße
-* S-Bhf. Grünau: Richterstraße (wie Bus 163)
-* S-Bhf. Altglienicke: Rosenstraße/ Germanenstraße
-* S-Bhf. Grünbergallee: Ewaldstraße - Höhe Nettoparkplatz
+* S Schöneweide: Michael-Brückner-Straße (wie Bus 165)
+* S Johannisthal: *kein Halt in beiden Richtungen*
+* S Adlershof: Adlergestell, in Höhe Dörpfeldstraße
+* S Grünau: Richterstraße (wie Bus 163)
+* S Altglienicke: Rosestraße/ Germanenstraße
+* S Grünbergallee: Ewaldstraße - Höhe Nettoparkplatz
 
 ---
 
@@ -65,7 +65,7 @@ Wir bitten um Entschuldigung.
 
 ### Reparatur einer Weiche in Grünauer Kreuz ###
 
- Letztes Update: 13:33 / 31.10.2023
+ Letztes Update: 13:40 / 31.10.2023
 
 Information
 
@@ -78,14 +78,11 @@ Wegen der Reparatur einer Weiche in Grünauer Kreuz kommt es auf den Linien S45 
 *Fahrgäste mit direktem Fahrtziel Flughafen BER T1-2 nutzen bitte ab Berlin-Schöneweide die Züge des Regionalverkehrs FEX.*
 
 Ein Ersatzverkehr mit Bussen ist eingerichtet:
+*Haltestellen des Ersatzverkehrs:*
 
-Haltestellen des Ersatzverkehrs:
-
-S-Bhf. Grünau: Richterstraße (wie Bus 163)
-
-S-Bhf. Altglienicke: Rosenstraße/Germanenstraße
-
-S-Bhf. Grünbergallee: Ewaldstraße Höhe Nettoparkplatz
+* S Grünau: Richterstraße (wie Bus 163)
+* S Altglienicke: Rosestraße/Germanenstraße
+* S Grünbergallee: Ewaldstraße Höhe Nettoparkplatz
 
 Wir bitten um Entschuldigung.
 
