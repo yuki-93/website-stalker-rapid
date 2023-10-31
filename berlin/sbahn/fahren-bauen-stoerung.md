@@ -1063,6 +1063,28 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-der-moltkestrassenbruecke-1/#con-28224)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Erkner \<\> Rummelsburg ###
+
+Nächte 22./23.11. (Mi/Do) und 23./24.11. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28325&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21470&tx_sbbconstructions_list%5Bperiod%5D=17441&type=5679&cHash=e8d9286f525cf9eb109f06987289d76f)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Friedrichshagen \<\> Karlshorst S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/beseitigung-eines-f1-fehlers-bei-der-fernbahn/#con-28325)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
  Nur Nachts
