@@ -4,6 +4,63 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Vorabinformation: kurzfristige Bauarbeiten zwischen Schöneweide \<\> Grünau/ Altglienicke ###
+
+ Letztes Update: 11:18 / 31.10.2023
+
+Information
+
+Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der **Linien S45, S46, S8 und S9 ab Heute ca. 22:00 Uhr bis 01.11.2023 ca. 01:30 Uhr** zwischen Schöneweide und Grünau bzw. Altglienicke unterbrochen.
+
+**Die betroffenen Linien verkehren wie folgt:**
+
+* Linie S45: Südkreuz \<\> Baumschulenweg.
+* Linie S46: Westend \<\> Schöneweide sowie Grünau \<\> Königs Wusterhausen.
+* Linie S8: Pankow \<\> Schöneweide.
+* Linie S9: Ostbahnhof \<\> Schöneweide sowie Altglienicke \<\> Flughafen BER Terminal 1-2.
+
+---
+
+**letzte durchfahrende Züge:**
+
+S45:
+
+* Südkreuz ab 21:28 Uhr \> Grünau an 21:55 Uhr
+* Grünau ab 21:31 Uhr \> Südkreuz an 21:57 Uhr
+
+S8:
+
+* Pankow ab 21:10 Uhr \> Grünau an 22:47 Uhr
+* Grünau ab 21:49 Uhr \>Pankow an 22:27 Uhr
+
+S46:
+
+*  Königs Wusterhausen ab 21:21 Uhr \> Charlottenburg an 22:16 Uhr
+* Gesundbrunnen ab 21:03 Uhr \> Königs Wusterhausen an 22:16 Uhr
+
+---
+
+**Ein Ersatzverkehr mit Bussen wird zwischen Schöneweide \<\> Grünbergallee (über S Adlershof, S Grünau, S Altglienicke) eingerichtet:**
+
+Haltestellen des Ersatzverkehrs:
+
+* S-Bhf. Schöneweide: Michael-Brückner-Straße (wie Bus 165)
+* S-Bhf. Johannisthal: *kein Halt in beiden Richtungen*
+* S-Bhf. Adlershof: Adlergestell, in Höhe Dörpfeldstraße
+* S-Bhf. Grünau: Richterstraße (wie Bus 163)
+* S-Bhf. Altglienicke: Rosenstraße/ Germanenstraße
+* S-Bhf. Grünbergallee: Ewaldstraße - Höhe Nettoparkplatz
+
+---
+
+**Diese Bauarbeiten sind aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten.**
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur einer Weiche in Grünauer Kreuz ###
@@ -1137,7 +1194,7 @@ Nacht 24./25.10. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
 Information
 
 * Bahnsteigänderung:
-  * In Waßmannsdorf fahren die S45 und die S9 nach Flughafen BER - Terminal 1-2 von Gleis 2, Bahnsteig stadteinwärts.
+  * In Waßmannsdorf fährt die S9 nach Flughafen BER - Terminal 1-2 von Gleis 2, Bahnsteig stadteinwärts.
 
 * Es gibt einzelne Fahrplanänderungen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
