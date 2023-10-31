@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Vorabinformation: kurzfristige Bauarbeiten zwischen Schöneweide \<\> Grünau/ Altglienicke ###
 
- Letztes Update: 11:18 / 31.10.2023
+ Letztes Update: 13:34 / 31.10.2023
 
 Information
 
-Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der **Linien S45, S46, S8 und S9 ab Heute ca. 22:00 Uhr bis 01.11.2023 ca. 01:30 Uhr** zwischen Schöneweide und Grünau bzw. Altglienicke unterbrochen.
+Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der **Linien S45, S46, S8 und S9 ab heute ca. 22:00 Uhr bis 01.11.2023 ca. 01:30 Uhr** zwischen Schöneweide und Grünau bzw. Altglienicke unterbrochen.
 
 **Die betroffenen Linien verkehren wie folgt:**
 
@@ -65,7 +65,7 @@ Wir bitten um Entschuldigung.
 
 ### Reparatur einer Weiche in Grünauer Kreuz ###
 
- Letztes Update: 09:29 / 31.10.2023
+ Letztes Update: 13:33 / 31.10.2023
 
 Information
 
@@ -75,7 +75,7 @@ Wegen der Reparatur einer Weiche in Grünauer Kreuz kommt es auf den Linien S45 
 * S45 verkehrt zwischen Südkreuz und Grünau
 * S9 verkehrt zwischen Ostbahnhof und Schöneweide sowie Altglienicke und Flughafen BER T1-2
 
-*Fahrgäste mit direktem Fahrtziel Flughafen BER T1-2 nutzen bitte ab Berlin-Schöneweide die Linie des RE9 (FEX).*
+*Fahrgäste mit direktem Fahrtziel Flughafen BER T1-2 nutzen bitte ab Berlin-Schöneweide die Züge des Regionalverkehrs FEX.*
 
 Ein Ersatzverkehr mit Bussen ist eingerichtet:
 
