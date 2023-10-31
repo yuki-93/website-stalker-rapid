@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur einer Weiche in Grünauer Kreuz ###
 
- Letztes Update: 09:20 / 31.10.2023
+ Letztes Update: 09:29 / 31.10.2023
 
 Information
 
@@ -28,23 +28,7 @@ S-Bhf. Grünau: Richterstraße (wie Bus 163)
 
 S-Bhf. Altglienicke: Rosenstraße/Germanenstraße
 
-S-Bhf. Grünbergallee: Ewaldstraße Höhe S-Bahnhof Grünbergallee
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur einer Weiche in Zeuthen ###
-
- Letztes Update: 06:15 / 31.10.2023
-
-Information
-
-Wegen einer Reparatur einer Weiche in Zeuthen kommt es auf der Linie S8 zu Ausfällen und Verspätungen.
-
- **Linie S8** verkehrt Pankow\<\>Zeuthen.
+S-Bhf. Grünbergallee: Ewaldstraße Höhe Nettoparkplatz
 
 Wir bitten um Entschuldigung.
 
