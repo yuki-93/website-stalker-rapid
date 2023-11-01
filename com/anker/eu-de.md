@@ -17,10 +17,9 @@ Schwestermarken & Hilfe
 Frühe Black Friday Angebote für
 die beste Ladepower
 
-auf dein zweites Produkt im
-gesamten Sortiment.
+Dein zweiter Kauf mit 50% Rabatt
 
-[Shop NowmasterBanner1](https://www.anker.com/eu-de/herbst-sale-chg?ref=masterBanner1)
+[Zum AngebotmasterBanner1](https://www.anker.com/eu-de/herbst-sale-chg?ref=masterBanner1)
 
 Bester Preis
 

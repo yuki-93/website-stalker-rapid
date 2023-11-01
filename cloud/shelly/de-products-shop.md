@@ -471,3 +471,9 @@
 5,90 €
 
 7,02 €mit MwSt.
+
+[Shelly BLU Button1 Black Bumper](https://www.shelly.com/de/products/shop/sw10100-1)
+
+1,00 €
+
+1,19 €mit MwSt.
