@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Notarzteinsatz auf der Strecke im Bereich Springpfuhl beendet ###
-
- Letztes Update: 17:11 / 01.11.2023
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke im Bereich Springpfuhl kommt es auf den Linen S 7 und S75 noch zu Ausfällen und Verspätungen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
