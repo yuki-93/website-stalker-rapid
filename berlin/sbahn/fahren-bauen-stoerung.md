@@ -6,23 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Notarzteinsatz auf der Strecke im Bereich Springpfuhl ###
+### Notarzteinsatz auf der Strecke im Bereich Springpfuhl beendet ###
 
- Letztes Update: 15:53 / 01.11.2023
+ Letztes Update: 17:11 / 01.11.2023
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke im Bereich Springpfuhl ist der Zugverkehr der Linen S 7 und S75 in diesem Bereich unterbrochen.
-
-**Linie S7** verkehrt Ostbahnhof\<\>Mahlsdorf,
-
-**Linie S75** vekehrt nicht,
-
-*ein Busersatzverkehr wird eingerichtet.*
+Nach einem Notarzteinsatz auf der Strecke im Bereich Springpfuhl kommt es auf den Linen S 7 und S75 noch zu Ausfällen und Verspätungen.
 
 Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
