@@ -14,8 +14,8 @@ Schwestermarken & Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
-Frühe Black Friday Angebote für
-die beste Ladepower
+Frühe Black Friday Angebote
+für die beste Ladepower
 
 Dein zweiter Kauf mit 50% Rabatt
 
