@@ -1114,6 +1114,31 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-nikolassee-und-vegetationsarbeiten/#con-28255)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Bundesplatz \<\> Westkreuz \<\> Westend ###
+
+Nacht 21./22.11. (Di/Mi), ca. 0.25 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28326&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21471&tx_sbbconstructions_list%5Bperiod%5D=17442&type=5679&cHash=de1f54db6471437848994320cba3cab6)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Bundesplatz \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt mit Umsteigen in Halensee
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um. Die Weiterfahrt erfolgt nach 15 Minuten (S41) bzw. nach 11 Minuten (S42) vom selben Gleis
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-halensee-5/#con-28326)
+
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Waßmannsdorf ###
