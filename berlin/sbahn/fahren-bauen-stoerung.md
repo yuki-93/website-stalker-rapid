@@ -1193,6 +1193,74 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#con-28331)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Westkreuz ###
+
+Nacht 03./04.12. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28332&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21478&tx_sbbconstructions_list%5Bperiod%5D=17448&type=5679&cHash=a1e1686d71de9ffa520e70c0e2240431)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Friedrichstraße \<\>Tiergarten S-Bahnverkehr nur im 7-/13-Minutentakt mit S7 und S9
+  * Tiergarten \<\> Charlottenburg S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/auswechseln-von-weichenverschluessen-in-zoologischer-garten/#con-28332)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### (Heerstraße) Olympiastadion \<\> Spandau ###
+
+Nächte 04./05.12. (Mo/Di) bis 07./08.12. (Do/Fr), jeweils ca. 22 Uhr - ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28333&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21479&tx_sbbconstructions_list%5Bperiod%5D=17449&type=5679&cHash=0780a3ab4d98a679ab2a28b86c16990b)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Olympiastadion \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/restleistungen-nach-schwellenwechsel/#con-28333)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Spandau ###
+
+Nächte 10./11.12. (So/Mo) und 11./12.12. (Mo/Di); jeweils ca. 22 Uhr -ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28334&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21480&tx_sbbconstructions_list%5Bperiod%5D=17450&type=5679&cHash=5eb51bd635952755c544f1579aac8735)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Ostbahnhof \<\> Westkreuz S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/wechsel-weichenverschluesse-in-charlottenburg/#con-28334)
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
  Nur Nachts
