@@ -1114,6 +1114,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-4cca459e48/#con-28226)
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg \<\> Springpfuhl ###
+
+Nächte 27./28.11. (Mo/Di) bis 30.11./01.12. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28337&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21483&tx_sbbconstructions_list%5Bperiod%5D=17453&type=5679&cHash=fda625981e1030de9a30f4dd883f6022)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-35-2-1/#con-28337)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Blankenfelde \<\> Priesterweg ###
@@ -1238,6 +1257,56 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/restleistungen-nach-schwellenwechsel/#con-28333)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Südkreuz \<\> Westend ###
+
+Nacht 05./06.12. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28335&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21481&tx_sbbconstructions_list%5Bperiod%5D=17451&type=5679&cHash=d3e21785fe9f5d487a3d3e6dc95706b3)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Bundesplatz um, die Weiterfahrt erfolgt nach 7 oder 17 Minuten (S41) bzw. nach 7 Minuten (S42) vom selben Gleis
+
+* Taktänderung:
+  * Bundesplatz \<\>Halensee S-Bahnverkehr nur im 20-Minutentakt mit S41 und S42
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bundesplatz-5/#con-28335)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Greifswalder Straße \<\> Bornholmer Straße (Birkenwerder) ###
+
+Nacht 06./07.12. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28336&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21482&tx_sbbconstructions_list%5Bperiod%5D=17452&type=5679&cHash=87ddaff70c793f219525af2258337612)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * Frankfurter Allee \<\> Greifswalder Straße im 20-Minutentakt
+
+* kein S-Bahnverkehr:
+  * Schönhauser Allee \<\> Bornholmer Straße,
+     Bitte die Umfahrung über Gesundbrunnen (mit Umstieg und Bahnsteigwechsel) oder zwischen Schönhauser Allee \<\> Pankow bitte die U2 nutzen
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-landsberger-allee/#con-28336)
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
@@ -1332,7 +1401,7 @@ Information
 
 ### Waßmannsdorf ###
 
-Nacht 24./25.10. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
+Nacht 24./25.11. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28104&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17421&type=5679&cHash=9dc3ce18138a8ee774d4ce34286b0566)
 
@@ -1352,7 +1421,7 @@ Information
 
 ### Waßmannsdorf ###
 
-Nacht 25./26.10. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
+Nacht 25./26.11. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28102&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17423&type=5679&cHash=67d3e1a8e304e0c5bd2a7c1a0d2cf3bb)
 
