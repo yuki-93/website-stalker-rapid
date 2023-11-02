@@ -10,7 +10,7 @@
 
 141,61 €mit MwSt.
 
-[Shelly Plus Plug S Black](https://www.shelly.com/de/products/shop/shelly-plus-plug-s-1/shelly-plus-plug-s-black)
+[Shelly Plus Plug S](https://www.shelly.com/de/products/shop/shelly-plus-plug-s-1/shelly-plus-plug-s-black)
 
 19,90 €
 
@@ -411,12 +411,6 @@
 22,90 €
 
 27,25 €mit MwSt.
-
-[Shelly Plus Plug S Black](https://www.shelly.com/de/products/shop/shelly-plus-plug-s-bl)
-
-19,90 €
-
-23,68 €mit MwSt.
 
 [Temperature Sensor DS18B20](https://www.shelly.com/de/products/shop/temp-sensor-ds18b20x1)
 
