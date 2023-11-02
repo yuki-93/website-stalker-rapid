@@ -1094,7 +1094,7 @@ Information
 
  Nur Nachts
 
-### Ostbahnhof \<\> Charlottenburg ###
+### Ostbahnhof \<\> Charlottenburg \<\> Spandau ###
 
 Nacht 23./24.11. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
 
