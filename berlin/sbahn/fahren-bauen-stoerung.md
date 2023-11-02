@@ -1088,6 +1088,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-4cca459e48/#con-28226)
 
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Frohnau/Mühlenbeck-Mönchmühle \<\> Birkenwerder (Oranienburg) ###
+
+01.12. (Fr), ca. 22 Uhr durchgehend bis 04.12. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21473&tx_sbbconstructions_list%5Bperiod%5D=17443&type=5679&cHash=22f3fc08f1480cebf50676215f7bf487)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S1: Frohnau \<\> Birkenwerder
+  * Bus S8: Mühlenbeck-Mönchmühle \<\> Birkenwerder
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1-1-1/#con-28328)
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
  Nur Nachts
