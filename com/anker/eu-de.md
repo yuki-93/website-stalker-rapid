@@ -82,11 +82,11 @@ Das Anker-Erlebnis entdecken
 
   ### 1080W Leistung ###
 
-  ### Spare bis zu 600€ ###
+  ### Spare bis zu 700€ ###
 
   Anker SOLIX Balkonkraftwerk | Black Friday
 
-  [Mehr erfahren Flash Sale ,1080W Leistung,Spare bis zu 600€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner4_4)
+  [Mehr erfahren Flash Sale ,1080W Leistung,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner4_4)
 
 * ### Anker GaNPrime  ###
 
