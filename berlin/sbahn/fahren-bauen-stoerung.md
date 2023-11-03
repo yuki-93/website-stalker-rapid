@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz Nordbahnhof \<\> Potsdamer Platz beendet ###
-
- Letztes Update: 14:59 / 03.11.2023
-
-Information
-
-Nach einem Polizeieinsatz kommt es auf den Linien S1, 2 und 25 noch zu Verspätungen und Ausfällen.
-
-Die Linie S26 verkehrt derzeit nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
