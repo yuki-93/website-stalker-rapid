@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Bauarbeiten Westend ###
+
+ Letztes Update: 22:17 / 03.11.2023
+
+Information
+
+Wegen Bauarbeiten in Westend verkehrt die Linie S46 zwischen Königs Wusterhausen und Charlottenburg.
+*Bitte nutzen Sie zwischen Halensee und Westend die Linien S41 und S42.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
