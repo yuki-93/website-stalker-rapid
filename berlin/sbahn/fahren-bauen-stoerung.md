@@ -39,25 +39,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bahnuebergangsarbeiten-bauzustandswechsel/#con-27900)
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### (Köllnische Heide) Halensee \<\> Westend ###
-
-18.10. (Mi), ca. 4 Uhr durchgehend bis 03.11. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28096&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21239&tx_sbbconstructions_list%5Bperiod%5D=17310&type=5679&cHash=82149bcce2312e279c175358ea6183c4)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr der S-Bahnlinie S46 verändert
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung-in-westend/#con-28096)
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Grunewald ###
@@ -97,27 +78,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung/#con-27854)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung/#c29971)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Pankow \<\> Buch/Hohen Neuendorf ###
-
-30.10. (Mo), ca.4 Uhr durchgehend bis 03.11. (Fr), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27868&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20992&tx_sbbconstructions_list%5Bperiod%5D=17211&type=5679&cHash=a8507a24eaa0ef6e999957a50f048bed)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S2: Pankow \<\> Buch
-  * Bus S8: Pankow \<\> Hohen Neuendorf
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#con-27868)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/elektronisches-stellwerk-s8-nord/#c29935)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
