@@ -4,15 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Notarzteinsatz am Gleis im Bereich Schönfließ ###
+
+ Letztes Update: 16:15 / 04.11.2023
+
+Information
+
+Wegen eines Notarzteinsatzes am Gleis im Bereich Schönfließ (Fernbahn) ist der Zugverkehr der Linie S8 zwischen Schönfließ und Hohen Neuendorf unterbrochen.
+
+Zur weiträumigen Umfahrung nutzen Sie bitte die Linie S1.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Information zum SEV Stadtbahn S3, S5, S7, und S9 ###
 
- Letztes Update: 14:17 / 04.11.2023
+ Letztes Update: 15:40 / 04.11.2023
 
 Information
 
 Wegen einer Demo ist der Schienenersatzverkehr zwischen Ostbahnhof und Friedrichstraße unterbrochen.
+
+Zur Umfahrung nutzen sie bitte die Linien der BVG.
 
 Wir bitten um Verständnis.
 
