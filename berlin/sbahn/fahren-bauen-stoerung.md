@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### ärztl. Versorgung eines Fahrgastes im Zug in Schönhauser Allee ###
+
+ Letztes Update: 23:10 / 04.11.2023
+
+Information
+
+Nach einer ärztl. Versorgung eines Fahrgastes im Zug in Schönhauser Allee kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Treptower Park ###
+
+ Letztes Update: 22:36 / 04.11.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Treptower Park kann es auf den Linien S8 und S9 zu Verspätungen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
