@@ -4,17 +4,42 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Treptower Park ###
+
+ Letztes Update: 17:23 / 04.11.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Treptower Park kommt es auf den Linien S8, S85 und S9 zu Verspätungen und Zugausfällen.
+*Die Linie S85 verkehrt nicht.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Notarzteinsatz am Gleis im Bereich Schönfließ ###
 
- Letztes Update: 16:15 / 04.11.2023
+ Letztes Update: 16:51 / 04.11.2023
 
 Information
 
 Wegen eines Notarzteinsatzes am Gleis im Bereich Schönfließ (Fernbahn) ist der Zugverkehr der Linie S8 zwischen Schönfließ und Hohen Neuendorf unterbrochen.
 
-Zur weiträumigen Umfahrung nutzen Sie bitte die Linie S1.
+Zur weiträumigen Umfahrung nutzen Sie bitte die Linie S1 zwischen Bornholmer Straße und Hohen Neuendorf.
+
+Ein Ersatzverkehr mit einem Bus zwischen Schönfließ und Hohen Neuendorf ist eingerichtet:
+
+Haltestellen des Ersatzverkehrs
+
+Schönfließ: Schildower Str. (B 96a)
+
+Bergfelde: Paulstr. (Haltestelle Bus 809)
+
+Hohen Neuendorf: vor dem Bahnhof, Wilhelm Külz Str.
 
 Wir bitten um Verständnis.
 
