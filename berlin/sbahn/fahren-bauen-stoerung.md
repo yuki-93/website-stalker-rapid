@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Pankow behoben ###
 
- Letztes Update: 11:18 / 05.11.2023
+ Letztes Update: 12:08 / 05.11.2023
 
 Information
 
-Wegen Reparatur an einer Weiche in Pankow kommt es auf den Linien S2, S8 und S85 zu Verspätungen und Ausfällen.
-
-* die Linie S85 verkehrt nicht
+Nach Reparatur an einer Weiche in Pankow kommt es auf den Linien S2, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung
 
