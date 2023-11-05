@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einer Weiche in Pankow behoben ###
+
+ Letztes Update: 11:18 / 05.11.2023
+
+Information
+
+Wegen Reparatur an einer Weiche in Pankow kommt es auf den Linien S2, S8 und S85 zu Verspätungen und Ausfällen.
+
+* die Linie S85 verkehrt nicht
+
+Wir bitten um Entschuldigung
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
