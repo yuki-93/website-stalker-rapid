@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einem Signal in Kölln. Heide ###
+
+ Letztes Update: 19:17 / 05.11.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Kölln. Heide kommt es auf den Linien S45, S46 und S47 zu Verspätungen und zugausfällen.
+*Die Linie S47 verkehrt zwischen Spindlersfeld und Schöneweide.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
