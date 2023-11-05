@@ -4,15 +4,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz Tempelhof beendet ###
+### Polizeieinsatz Frankfurter Allee ###
 
- Letztes Update: 19:41 / 05.11.2023
+ Letztes Update: 21:59 / 05.11.2023
 
 Information
 
-Nach einem Polizeieinsatz in Tempelhof kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen eines Polizeieinsatzes in Frankfurter Allee kommt es auf den Linien S41 und S42 zu Verspätungen und Zugausfällen.
+*Die Linie S8 verkehrt zwischen Hohen Neuendorf/ Blankenburg und Bornholmer Straße sowie zwischen Treptower Park und Grünau.*
 
 Wir bitten um Ihr Verständnis.
 
