@@ -4,6 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Baumschulenweg ###
+
+ Letztes Update: 22:24 / 05.11.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Baumschulenweg kommt es auf der Linie S46 zu Verspätungen.
+*Die Linie S45 verkehrt zwischen Schöneweide und Flughafen BER T1-2.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Polizeieinsatz Frankfurter Allee ###
