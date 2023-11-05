@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einer Weiche in Pankow behoben ###
+### Reparatur an einem Signal in Treptower Park ###
 
- Letztes Update: 12:08 / 05.11.2023
+ Letztes Update: 13:20 / 05.11.2023
 
 Information
 
-Nach Reparatur an einer Weiche in Pankow kommt es auf den Linien S2, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S8, S85 und S9 zu Verspätungen und Ausfällen.
 
-Wir bitten um Entschuldigung
+Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
 
  Takt geändert
 
