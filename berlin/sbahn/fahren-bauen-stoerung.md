@@ -8,13 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Treptower Park ###
 
- Letztes Update: 13:20 / 05.11.2023
+ Letztes Update: 17:20 / 05.11.2023
 
 Information
 
-Wegen Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S8, S85 und S9 zu Verspätungen und Ausfällen.
-
-Die Linie S85 verkehrt nicht.
+Wegen Reparatur an einem Signal in Treptower Park kann es auf den Linien S41, S8 und S9 zu Verspätungen kommen.
+*Die Linie S85 verkehrt nicht.*
 
 Wir bitten um Entschuldigung.
 
