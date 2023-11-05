@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einem Signal in Baumschulenweg ###
-
- Letztes Update: 19:52 / 05.11.2023
-
-Information
-
-Wegen einer Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S45, S46 und S47 zu Verspätungen und Zugausfällen.
-*Die Linie S47 verkehrt zwischen Spindlersfeld und Schöneweide.
- Die Linie S85 verkehrt nicht.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz Tempelhof beendet ###
