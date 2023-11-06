@@ -8,14 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Storkower Straße beendet ###
 
- Letztes Update: 13:58 / 06.11.2023
+ Letztes Update: 15:02 / 06.11.2023
 
 Information
 
 Nach einem Notarzteinsatz auf der Strecke in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **S41** und **S42:** fahren nur im 10-Minuten-Takt
-* **S8:** es kommt zu vereinzelten Ausfällen
+* **S41** und **S42:** es kommt zu vereinzelten Ausfällen
 * **S85**: fährt nicht
 
 Wir bitten um Ihr Verständnis.
