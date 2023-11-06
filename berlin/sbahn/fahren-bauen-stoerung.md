@@ -6,21 +6,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Notarzteinsatz auf der Strecke in Storkower Straße ###
+### Notarzteinsatz auf der Strecke in Storkower Straße beendet ###
 
- Letztes Update: 12:15 / 06.11.2023
+ Letztes Update: 13:58 / 06.11.2023
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach einem Notarzteinsatz auf der Strecke in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **S41** und **S42:** der planmäßige Verkehrshalt in Storkower Straße entfällt in beiden Fahrtrichtungen.
-* **S8** fährt: Grünau \<\> Treptower Park ***sowie*** Blankenburg \<\> Birkenwerder
+* **S41** und **S42:** fahren nur im 10-Minuten-Takt
+* **S8:** es kommt zu vereinzelten Ausfällen
 * **S85**: fährt nicht
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
