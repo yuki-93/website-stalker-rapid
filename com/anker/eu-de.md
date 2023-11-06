@@ -16,12 +16,15 @@ Schwestermarken & Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
-Frühe Black Friday Angebote
-für die beste Ladepower
+Anker Nano
 
-Dein zweiter Kauf mit 50% Rabatt
+ C-ing is Believing
 
-[Zum AngebotmasterBanner1](https://www.anker.com/eu-de/herbst-sale-chg?ref=masterBanner1)
+Höchste Ladegeschwindigkeiten für dein USB-C iPhone
+
+[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner1)
+
+[Apple-Zubehör entdecken \>\>](https://www.anker.com/eu-de/collections/apple-accessories)
 
 Bester Preis
 
@@ -33,16 +36,6 @@ Die ultimative Solarstromlösung für dein Zuhause
 
 [Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=masterBanner2)
 
-Anker Nano
-
- C-ing is Believing
-
-Höchste Ladegeschwindigkeiten für dein USB-C iPhone
-
-[Mehr erfahrenmasterBanner3](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner3)
-
-[Apple-Zubehör entdecken \>\>](https://www.anker.com/eu-de/collections/apple-accessories)
-
 Anker SOLIX C1000
 
 Schnelle Power, immer und überall.
@@ -50,7 +43,7 @@ Schnelle Power, immer und überall.
 UltraFast Netzaufladung, 100% in 58 Minuten
 Langlebige LiFeP04-Akkus mit InfiniPower™ Technologie
 
-[Jetzt 300 Rabatt sichernmasterBanner4](https://www.anker.com/eu-de/a1761-powerstation-camping-pps?ref=masterBanner4)
+[Jetzt 300 Rabatt sichernmasterBanner3](https://www.anker.com/eu-de/a1761-powerstation-camping-pps?ref=masterBanner3)
 
 Das Anker-Erlebnis entdecken
 ----------
@@ -60,19 +53,19 @@ Das Anker-Erlebnis entdecken
 
   Das perfekte Ladegerät für dein Apple-Ecosystem
 
-  [Mehr erfahrenAnker 3-in-1 Ladewürfel mit MagSafe](https://www.anker.com/eu-de/products/y1811?ref=productBanner4_1)
+  [Mehr erfahrenAnker 3-in-1 Ladewürfel mit MagSafe](https://www.anker.com/eu-de/products/y1811?ref=productBanner3_1)
 
 * ### Exklusive Kollektion von Apple Zubehör ###
 
   Entdecken Sie erstklassiges Zubehör für Ihre Apple-Geräte.
 
-  [Mehr erfahren Exklusive Kollektion von Apple Zubehör](https://www.anker.com/eu-de/collections/apple-accessories?ref=productBanner4_2)
+  [Mehr erfahren Exklusive Kollektion von Apple Zubehör](https://www.anker.com/eu-de/collections/apple-accessories?ref=productBanner3_2)
 
 * ### Anmelden und exklusive Benefits und 45% Rabatt sichern  ###
 
   Anker SOLIX F3800 Tragbare Powerstation
 
-  [AnmeldenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner4_3)
+  [AnmeldenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner3_3)
 
 * ###
 
@@ -86,25 +79,25 @@ Das Anker-Erlebnis entdecken
 
   Anker SOLIX Balkonkraftwerk | Black Friday
 
-  [Mehr erfahren Flash Sale ,1080W Leistung,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner4_4)
+  [Mehr erfahren Flash Sale ,1080W Leistung,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner3_4)
 
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner4_5)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner3_5)
 
 * ### Anker Nano 3 ###
 
   Das Tech für jedes iPhone
 
-  [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner4_6)
+  [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner3_6)
 
 * ### Starte durch mit USB-C ###
 
   Entdecke USB-C Ladepower mit Anker
 
-  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner4_7)
+  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner3_7)
 
 Unentschlossen?
 
