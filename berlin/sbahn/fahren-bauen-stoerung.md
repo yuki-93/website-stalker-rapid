@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Polizeieinsatz zwischen Blankenburg und Karow beendet ###
+
+ Letztes Update: 16:58 / 06.11.2023
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) kommt es auf den Linien S2 und S8 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### kurzfristige Bauarbeiten in Ostkreuz ###
@@ -1241,7 +1255,8 @@ Nächte 27./28.11. (Mo/Di) bis 30.11./01.12. (Do/Fr), jeweils ca. 22 Uhr - ca. 1
 
 Information
 
-* Ersatzverkehr mit Bussen
+* Zwischen Wartenberg \<\> Springpfuhl besteht Ersatzverkehr mit Bussen
+* S75 fährt nur Springpfuhl \<\> Warschauer Straße
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-35-2-1/#con-28337)
