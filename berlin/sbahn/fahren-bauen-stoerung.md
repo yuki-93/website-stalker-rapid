@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an der Strecke Mehrower Allee ###
+
+ Letztes Update: 01:55 / 06.11.2023
+
+Information
+
+Wegen einer Reparatur an der Strecke in Mehrower Allee kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Marzahn und Potsdam Hbf angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
