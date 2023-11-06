@@ -4,6 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### kurzfristige Bauarbeiten in Ostkreuz ###
+
+ Letztes Update: 16:00 / 06.11.2023
+
+Information
+
+Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der Linien S3, S5, S7 und S75 **in der heutigen Nacht (06./07.11.2023 (Mo/Di)) in der Zeit von ca. 23:30 Uhr bis ca. 02:00 Uhr** verändert durchgeführt werden.
+
+**Zugverkehr**
+
+* **Linie S3:** verkehrt Erkner \<\> Ostkreuz, Gleis 3 sowie Ostbahnhof \<\> Grunewald/ Spandau.
+  * **bitte bachten Sie**, dass zur Weiterfahrt ab Ostkreuz in Richtung Ostbahnhof ein Bahnsteigwechsel erforderlich ist
+
+* **Linien S5, S7 und S75:** Zugverkehr unverändert, es kommt in Ostkreuz zu Gleisabweichungen
+
+---
+
+**Gleisabweichungen**
+
+* auf den Linien S5, S7 und S75 kommt es in Ostkreuz zu Gleisabweichungen, bitte achten Sie auf die örtlichen Zugzielanzeiger
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Notarzteinsatz auf der Strecke in Storkower Straße beendet ###
