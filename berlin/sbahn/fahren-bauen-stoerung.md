@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### verspätete Bereitstellung von Zügen, Linie S1 ###
+
+ Letztes Update: 06:49 / 06.11.2023
+
+Information
+
+Wegen der verspäteten Bereitstellung von Zügen verkehren die zusätzlichen Züge der Linie S1 nicht zwischen Zehlendorf und Potsdamer Platz.
+
+Zwischen Zehlendorf und Potsdamer Platz kann somit nur ein 10-Minuten-Takt angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an der Strecke Mehrower Allee ###
