@@ -8,40 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Storkower Straße ###
 
- Letztes Update: 11:19 / 06.11.2023
+ Letztes Update: 12:15 / 06.11.2023
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Storkower Straße ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Frankfurter Allee und Landsberger Allee unterbrochen.
+Wegen eines Notarzteinsatzes auf der Strecke in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
 
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S41**: Frankfurter Alle \> Ostkreuz \> Südkreuz \> Westkreuz \> Gesundbrunnen \> Landsberger Allee, *der 10-Minuten-Takt besteht zwischen Südkreuz \> Westkreuz \> Gesundbrunnen*
-* **S42**: Landsberger Allee \> Gesundbrunnen \> Westkreuz \> Südkreuz \> Ostkreuz \> Frankfurter Allee, *der 10-Minuten-Takt besteht zwischen Gesundbrunnen \> Westkreuz \> Südkreuz*
-* **S8**: Grünau \<\> Treptower Park ***sowie*** Blankenburg \<\> Birkenwerder
+* **S41** und **S42:** der planmäßige Verkehrshalt in Storkower Straße entfällt in beiden Fahrtrichtungen.
+* **S8** fährt: Grünau \<\> Treptower Park ***sowie*** Blankenburg \<\> Birkenwerder
 * **S85**: fährt nicht
 
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
-
-* zwischen Ostkreuz und Friedrichstraße die Linien S3, S5, S7 und S9 ***sowie*** zwischen Friedrichstraße und Gesundbrunnen die Linien S1, S2, S25 und S26
-* zwischen Frankfurter Allee und Alexanderplatz die U-Bahnlinie U5 ***sowie*** zwischen Alexanderplatz und Gesundbrunnen die U-Bahnlinie U8
-* zwischen Ostkreuz und Gesundbrunnen die Regionalbahnlinie FEX
-
 Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einem Signal in Baumschulenweg beendet ###
-
- Letztes Update: 11:08 / 06.11.2023
-
-Information
-
-Nach der Reparatur an einem Signal in Baumschulenweg kommt es auf der Linie S47 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
