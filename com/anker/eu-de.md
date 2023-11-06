@@ -2,9 +2,9 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e
 
 []()
 
-Starte energiegeladen in den Black Friday. Bis zu 700€ Rabatt.
+Ab 2 Artikeln 25% Rabatt im gesamten Shop
 
-[Zum Angebot \>\>](https://www.anker.com/eu-de/anker-solix/black-friday-bms)
+[Jetzt kaufen \>\>](https://www.anker.com/eu-de/black-friday-angebote?ref=topbanner)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Nicht vergessen: Der Flash Sale beginnt am 10. November!](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren\>\>](https://www.anker.com/eu-de/anker-solix/black-friday-pps?ref=naviBar)
 
