@@ -50,23 +50,6 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Notarzteinsatz auf der Strecke in Storkower Straße beendet ###
-
- Letztes Update: 15:02 / 06.11.2023
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und nachfolgenden Einschränkungen:
-
-* **S41** und **S42:** es kommt zu vereinzelten Ausfällen
-* **S85**: fährt nicht
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
