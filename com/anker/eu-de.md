@@ -39,7 +39,9 @@ Schnelle Power, immer und überall.
 UltraFast Netzaufladung, 100% in 58 Minuten
 Langlebige LiFeP04-Akkus mit InfiniPower™ Technologie
 
-[Jetzt 300 Rabatt sichernmasterBanner3](https://www.anker.com/eu-de/a1761-powerstation-camping-pps?ref=masterBanner3)
+[Jetzt 300 Rabatt sichernmasterBanner3](https://www.anker.com/eu-de/products/a1761?ref=masterBanner3)
+
+Mehr erfahren
 
 Anker Nano
 

@@ -4,27 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einem Signal in Baumschulenweg ###
-
- Letztes Update: 10:18 / 06.11.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Baumschulenweg verkehrt die Linie S47 nur zwischen Spindlersfeld und Schöneweide.
-
-Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Notarzteinsatz auf der Strecke in Storkower Straße ###
 
- Letztes Update: 10:16 / 06.11.2023
+ Letztes Update: 11:19 / 06.11.2023
 
 Information
 
@@ -33,8 +17,8 @@ Wegen eines Notarzteinsatzes auf der Strecke in Storkower Straße ist der Zugve
 **Die betroffenen Linien fahren wie folgt:**
 
 * **S41**: Frankfurter Alle \> Ostkreuz \> Südkreuz \> Westkreuz \> Gesundbrunnen \> Landsberger Allee, *der 10-Minuten-Takt besteht zwischen Südkreuz \> Westkreuz \> Gesundbrunnen*
-* **S42**: Landsberger Allee \> Gesdunbrunnen \> Westkreuz \> Südkreuz \> Ostkreuz \> Frankfurter Allee, *der 10-Minuten-Takt besteht zwischen Gesundbrunnen \> Westkreuz \> Südkreuz*
-* **S8**: Grünau \<\> Treptower Park ***sowie*** Blankenburg \<\> Birkenwerder
+* **S42**: Landsberger Allee \> Gesundbrunnen \> Westkreuz \> Südkreuz \> Ostkreuz \> Frankfurter Allee, *der 10-Minuten-Takt besteht zwischen Gesundbrunnen \> Westkreuz \> Südkreuz*
+* **S8**: Grünau \<\> Treptower Park ***sowie*** Blankenburg \<\> Birkenwerder
 * **S85**: fährt nicht
 
 **Zur weiträumigen Umfahrung nutzen Sie bitte:**
@@ -46,6 +30,20 @@ Wegen eines Notarzteinsatzes auf der Strecke in Storkower Straße ist der Zugve
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einem Signal in Baumschulenweg beendet ###
+
+ Letztes Update: 11:08 / 06.11.2023
+
+Information
+
+Nach der Reparatur an einem Signal in Baumschulenweg kommt es auf der Linie S47 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
