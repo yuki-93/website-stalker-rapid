@@ -2,37 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Polizeieinsatz Frankfurter Allee beendet ###
-
- Letztes Update: 23:21 / 05.11.2023
-
-Information
-
-Nach einem Polizeieinsatz in Frankfurter Allee kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Signal in Baumschulenweg ###
-
- Letztes Update: 22:24 / 05.11.2023
-
-Information
-
-Wegen einer Reparatur an einem Signal in Baumschulenweg kommt es auf der Linie S46 zu Verspätungen.
-*Die Linie S45 verkehrt zwischen Schöneweide und Flughafen BER T1-2.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -87,42 +56,13 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### (Lichtenberg) Ostbahnhof \<\> Friedrichstraße (Zoologischer Garten) ###
-
-26.10. (Do), ca. 22 Uhr durchgehend bis 06.11. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27854&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20980&tx_sbbconstructions_list%5Bperiod%5D=17203&type=5679&cHash=4494d2b62346dc065b9e72bcc18c41b6)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Taktänderung:
-  * Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-  * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur mit S3 und S9
-
-* Fahrplanänderung
-* Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung/#con-27854)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichen-und-gleiserneuerung/#c29971)
-
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Hohen Neuendorf \<\> Oranienburg ###
 
-03.11. (Fr), ca. 22 Uhr durchgehend bis 06.11. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28179&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21310&tx_sbbconstructions_list%5Bperiod%5D=17372&type=5679&cHash=c0f5c009c43fecb5a05f91f0594083ae)
-
 Nächte 06./07.11. (Mo/Di) und 07./08.11. (Di/Mi), jeweils ca. 22 Uhr durchgehend bis 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28179&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21310&tx_sbbconstructions_list%5Bperiod%5D=17373&type=5679&cHash=0db895e7ace13be5749cfc87e8b7df1f)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28179&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21310&type=5679&cHash=35ffdaba5938387cc85f17253cb3154d)
 
  Ersatzverkehr
 
@@ -135,32 +75,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1/#con-28179)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Baumschulenweg \<\> Westend ###
-
-Nacht 05./06.11. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28183&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21314&tx_sbbconstructions_list%5Bperiod%5D=17377&type=5679&cHash=303eea448ffcfca236c1c774b3348b7f)
-
- Takt geändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Hermannstraße um. Die Weiterfahrt erfolgt nach 7 oder 18 Minuten (S41) bzw. nach 6 Minuten (S42) vom selben Gleis.
-
-* Taktänderung:
-  * Hermannstraße \<\> Tempelhof S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ec45907f33/#con-28183)
 
 ### Fahrplanänderungen ###
 
@@ -274,15 +188,9 @@ Information
 
 ### Hohen Neuendorf \<\> Oranienburg ###
 
-03.11. (Fr), ca. 22 Uhr durchgehend bis 06.11. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28179&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21310&tx_sbbconstructions_list%5Bperiod%5D=17372&type=5679&cHash=c0f5c009c43fecb5a05f91f0594083ae)
-
 Nächte 06./07.11. (Mo/Di) und 07./08.11. (Di/Mi), jeweils ca. 22 Uhr durchgehend bis 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28179&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21310&tx_sbbconstructions_list%5Bperiod%5D=17373&type=5679&cHash=0db895e7ace13be5749cfc87e8b7df1f)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28179&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21310&type=5679&cHash=35ffdaba5938387cc85f17253cb3154d)
 
  Ersatzverkehr
 
@@ -500,15 +408,9 @@ Information
 
 ### Hohen Neuendorf \<\> Oranienburg ###
 
-03.11. (Fr), ca. 22 Uhr durchgehend bis 06.11. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28179&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21310&tx_sbbconstructions_list%5Bperiod%5D=17372&type=5679&cHash=c0f5c009c43fecb5a05f91f0594083ae)
-
 Nächte 06./07.11. (Mo/Di) und 07./08.11. (Di/Mi), jeweils ca. 22 Uhr durchgehend bis 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28179&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21310&tx_sbbconstructions_list%5Bperiod%5D=17373&type=5679&cHash=0db895e7ace13be5749cfc87e8b7df1f)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28179&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21310&type=5679&cHash=35ffdaba5938387cc85f17253cb3154d)
 
  Ersatzverkehr
 
