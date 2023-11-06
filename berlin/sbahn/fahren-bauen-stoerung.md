@@ -4,25 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Notarzteinsatz an der Strecke im Bereich Karow ###
-
- Letztes Update: 19:39 / 06.11.2023
-
-Information
-
-Wegen eines Notarzteinsatzes an der Strecke im Bereich Karow ist der Zugverkehr der Linie S2 zwischen Blankenburg und Buch unterbrochen.
-
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
-
-* zwischen Blankenburg und Buch die Buslinie 150
-* zwischen Blankenburg und Karow die Buslinien 150 und 350 mit Umsteigen an der Haltestelle "Alt-Karow"
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### kurzfristige Bauarbeiten in Ostkreuz ###
