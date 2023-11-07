@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Signal in Pankow-Heinersdorf beendet ###
-
- Letztes Update: 11:52 / 07.11.2023
-
-Information
-
-Nach der Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf den Linien S2 und S8 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
@@ -108,6 +92,10 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17432&type=5679&cHash=51de4e3f46d66b55dac4cdfd84ec5e63)
 
+05.12. (Di) und 06.12. (Mi) jeweils 1:33 Uhr bis 1:42 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17473&type=5679&cHash=209fb238abae82eb05bf67a799e8bb27)
+
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&type=5679&cHash=f5aa06d7c0abcf6dcbb35849b8758f51)
 
  fährt nicht
@@ -131,6 +119,10 @@ Information
 27.11. (Mo) und 28.11. (Mi) jeweils 3:41 Uhr bis 3:53 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&tx_sbbconstructions_list%5Bperiod%5D=17433&type=5679&cHash=824a92ab0b8db1be69db9794f5f83b99)
+
+05.12. (Di) und 06.12. (Mi) jeweils 3:41 Uhr bis 3:53 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&tx_sbbconstructions_list%5Bperiod%5D=17476&type=5679&cHash=4b044170bd1dcc02302197b94ccff2dc)
 
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&type=5679&cHash=7c576016b85a2e0fb0d9a4eb0a8d4903)
 
@@ -305,6 +297,10 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17432&type=5679&cHash=51de4e3f46d66b55dac4cdfd84ec5e63)
 
+05.12. (Di) und 06.12. (Mi) jeweils 1:33 Uhr bis 1:42 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17473&type=5679&cHash=209fb238abae82eb05bf67a799e8bb27)
+
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&type=5679&cHash=f5aa06d7c0abcf6dcbb35849b8758f51)
 
  fährt nicht
@@ -328,6 +324,10 @@ Information
 27.11. (Mo) und 28.11. (Mi) jeweils 3:41 Uhr bis 3:53 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&tx_sbbconstructions_list%5Bperiod%5D=17433&type=5679&cHash=824a92ab0b8db1be69db9794f5f83b99)
+
+05.12. (Di) und 06.12. (Mi) jeweils 3:41 Uhr bis 3:53 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&tx_sbbconstructions_list%5Bperiod%5D=17476&type=5679&cHash=4b044170bd1dcc02302197b94ccff2dc)
 
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&type=5679&cHash=7c576016b85a2e0fb0d9a4eb0a8d4903)
 
@@ -984,6 +984,10 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17432&type=5679&cHash=51de4e3f46d66b55dac4cdfd84ec5e63)
 
+05.12. (Di) und 06.12. (Mi) jeweils 1:33 Uhr bis 1:42 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17473&type=5679&cHash=209fb238abae82eb05bf67a799e8bb27)
+
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&type=5679&cHash=f5aa06d7c0abcf6dcbb35849b8758f51)
 
  fährt nicht
@@ -1007,6 +1011,10 @@ Information
 27.11. (Mo) und 28.11. (Mi) jeweils 3:41 Uhr bis 3:53 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&tx_sbbconstructions_list%5Bperiod%5D=17433&type=5679&cHash=824a92ab0b8db1be69db9794f5f83b99)
+
+05.12. (Di) und 06.12. (Mi) jeweils 3:41 Uhr bis 3:53 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&tx_sbbconstructions_list%5Bperiod%5D=17476&type=5679&cHash=4b044170bd1dcc02302197b94ccff2dc)
 
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&type=5679&cHash=7c576016b85a2e0fb0d9a4eb0a8d4903)
 
@@ -1558,6 +1566,10 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17432&type=5679&cHash=51de4e3f46d66b55dac4cdfd84ec5e63)
 
+05.12. (Di) und 06.12. (Mi) jeweils 1:33 Uhr bis 1:42 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17473&type=5679&cHash=209fb238abae82eb05bf67a799e8bb27)
+
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&type=5679&cHash=f5aa06d7c0abcf6dcbb35849b8758f51)
 
  fährt nicht
@@ -1581,6 +1593,10 @@ Information
 27.11. (Mo) und 28.11. (Mi) jeweils 3:41 Uhr bis 3:53 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&tx_sbbconstructions_list%5Bperiod%5D=17433&type=5679&cHash=824a92ab0b8db1be69db9794f5f83b99)
+
+05.12. (Di) und 06.12. (Mi) jeweils 3:41 Uhr bis 3:53 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&tx_sbbconstructions_list%5Bperiod%5D=17476&type=5679&cHash=4b044170bd1dcc02302197b94ccff2dc)
 
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&type=5679&cHash=7c576016b85a2e0fb0d9a4eb0a8d4903)
 
@@ -1647,6 +1663,77 @@ Information
 
 * Der Zug Charlottenburg ab 3:02 nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) beginnt erst um 3:06 Uhr in Zoologischer Garten.
 * Der Zug fällt von Charlottenburg bis Zoologischer Garten aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Zoologischer Garten ###
+
+30.11. (Do) und 01.12. (Fr) jeweils 3:32 Uhr bis 3:38 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23052&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=16961&tx_sbbconstructions_list%5Bperiod%5D=17472&type=5679&cHash=a10dc752dad070bd94e549aad1ed120a)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:38 Uhr in Zoologischer Garten
+* Der Zug fällt von Westkreuz bis Zoologischer Garten aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Friedrichstraße \> Grunewald ###
+
+05.12. (Di) bis 07.12. (Do) jeweils 1:17 Uhr bis 1:35 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20721&tx_sbbconstructions_list%5Bperiod%5D=17477&type=5679&cHash=b3ce49e4725f4027f5f3ef2991a5ea01)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER – Terminal 1-2 ab 0:29 Uhr nach Grunewald (an 1:35 Uhr) endet bereits um 1:17 Uhr in Friedrichstraße.
+* Der Zug fällt von Friedrichstraße bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Geänderte Abfahrtzeit Schöneweide \> Flughafen BER – Terminal 1-2 ###
+
+05.12. (Di) und 06.12. (Mi) jeweils 3:23 Uhr bis 3:56 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28386&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21531&tx_sbbconstructions_list%5Bperiod%5D=17474&type=5679&cHash=52a04acafcedd08b706372137cf753d9)
+
+ Zugverkehr verändert
+
+Information
+
+* Der Zug Schöneweide ab 3:23 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) fährt in Schönweide von Gleis 6 (Bahnsteig stadteinwärts).
+* Der Zug fährt von Schöneweide bis Flughafen BER – Terminal 1-2 8 bis 11 Minuten später (Schöneweide ab 3:31 Uhr - Flughafen BER – Terminal 1-2 an 3:56 Uhr).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Geänderte Abfahrtzeit Schöneweide \> Flughafen BER – Terminal 1-2 ###
+
+05.12. (Di) und 06.12. (Mi) jeweils 3:38 Uhr bis 4:13 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28387&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21532&tx_sbbconstructions_list%5Bperiod%5D=17475&type=5679&cHash=c0a716be37e10dbac73202f44aeda874)
+
+ Zugverkehr verändert
+
+Information
+
+* Der Zug Schöneweide ab 3:38 Uhr nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) fährt von Schöneweide bis Flughafen BER – Terminal 1-2 13 Minuten später (Schöneweide ab 3:51 Uhr - Flughafen BER – Terminal 1-2 an 4:13 Uhr).
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
