@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Pankow-Heinersdorf ###
 
- Letztes Update: 10:09 / 07.11.2023
+ Letztes Update: 10:44 / 07.11.2023
 
 Information
 
 Wegen der Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf den Linien S2 und S8 zu Verspätungen und einzelnen Ausfällen.
+
+Der 10-Minuten-Takt der Linie S2 kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
 
 Wir bitten um Entschuldigung.
 
@@ -44,7 +46,7 @@ Information
 
 ### Gehrenseestraße ###
 
-19.06. (Mo) ca. 4 Uhr bis 08.12. (Fr) ca. 22 Uhr
+19.06. (Mo) ca. 4 Uhr bis auf Weiteres
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
 
@@ -172,7 +174,7 @@ Information
 
 ### Gehrenseestraße ###
 
-19.06. (Mo) ca. 4 Uhr bis 08.12. (Fr) ca. 22 Uhr
+19.06. (Mo) ca. 4 Uhr bis auf Weiteres
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
 
@@ -441,7 +443,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Gehrenseestraße ###
 
-19.06. (Mo) ca. 4 Uhr bis 08.12. (Fr) ca. 22 Uhr
+19.06. (Mo) ca. 4 Uhr bis auf Weiteres
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
 
@@ -1611,4 +1613,22 @@ Information
   * Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2, an 4.36 Uhr
   * verkehren in Westkreuz von Gleise 2 (Bahnsteig stadtauswärts)
 
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Zoologischer Garten \> Grunewald ###
+
+30.11. (Do) und 01.12. (Fr) jeweils 1:46 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28159&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21292&tx_sbbconstructions_list%5Bperiod%5D=17469&type=5679&cHash=4397d9ec5d3603a82755c22731cd2e9e)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER – Terminal 1-2 ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:46 Uhr in Zoologischer Garten.
+* Der Zug fällt von Zoologischer Garten bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
