@@ -889,7 +889,7 @@ Information
 
  Nur Nachts
 
-### Ahrensfelde \<\> Potsdam Hbf --- Diese Baumaßnahme entfällt! --- ###
+### Entfällt! Ahrensfelde \<\> Potsdam Hbf ###
 
 Nacht 20./21.11. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
 
@@ -899,6 +899,7 @@ Nacht 20./21.11. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
 
 Information
 
+* **Diese Baumaßnahme entfällt!**
 * Fahrplanänderung
 * Bahnsteigänderung
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
@@ -909,7 +910,7 @@ Information
 
  Nur Nachts
 
-### Ahrensfelde \<\> Potsdam Hbf --- Diese Baumaßnahme entfällt! --- ###
+### Entfällt! Ahrensfelde \<\> Potsdam Hbf ###
 
 Nacht 21./22.11. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
@@ -919,6 +920,7 @@ Nacht 21./22.11. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
 Information
 
+* **Diese Baumaßnahme entfällt!**
 * Fahrplanänderung
 * Bahnsteigänderung
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
@@ -1226,7 +1228,7 @@ Information
 
  Nur Nachts
 
-### Ostbahnhof \<\> Charlottenburg \<\> Spandau --- Diese Baumaßnahme entfällt! --- ###
+### Entfällt! Ostbahnhof \<\> Charlottenburg \<\> Spandau ###
 
 Nacht 23./24.11. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
 
@@ -1236,6 +1238,7 @@ Nacht 23./24.11. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
 
 Information
 
+* **Diese Baumaßnahme entfällt!**
 * Taktänderung:
   * Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S7 und S9
   * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
