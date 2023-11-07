@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur an einem Signal in Pankow-Heinersdorf ###
+### Reparatur an einem Signal in Pankow-Heinersdorf beendet ###
 
- Letztes Update: 10:44 / 07.11.2023
+ Letztes Update: 11:52 / 07.11.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf den Linien S2 und S8 zu Verspätungen und einzelnen Ausfällen.
-
-Der 10-Minuten-Takt der Linie S2 kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
+Nach der Reparatur an einem Signal in Pankow-Heinersdorf kommt es auf den Linien S2 und S8 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -1631,4 +1629,40 @@ Information
 
 * Der Zug Flughafen BER – Terminal 1-2 ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:46 Uhr in Zoologischer Garten.
 * Der Zug fällt von Zoologischer Garten bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Zoologischer Garten ###
+
+30.11. (Do) und 01.12. (Fr) jeweils 3:02 Uhr bis 3:06 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28384&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21529&tx_sbbconstructions_list%5Bperiod%5D=17470&type=5679&cHash=43e9e53f5d1e2f24977e7489fcfd9141)
+
+ fährt nicht
+
+Information
+
+* Der Zug Charlottenburg ab 3:02 nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) beginnt erst um 3:06 Uhr in Zoologischer Garten.
+* Der Zug fällt von Charlottenburg bis Zoologischer Garten aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Zoologischer Garten ###
+
+30.11. (Do) und 01.12. (Fr) jeweils 3:12 Uhr bis 3:18 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28385&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21530&tx_sbbconstructions_list%5Bperiod%5D=17471&type=5679&cHash=478da7bd9eb7e3b0d5d6a6c1c01a6951)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:18 Uhr in Zoologischer Garten.
+* Der Zug fällt von Westkreuz bis Zoologischer Garten aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
