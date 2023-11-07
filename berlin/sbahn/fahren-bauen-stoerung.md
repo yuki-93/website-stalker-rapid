@@ -4,30 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz im Bereich Storkower Straße ###
+### Polizeieinsatz im Bereich Storkower Straße beendet ###
 
- Letztes Update: 18:02 / 07.11.2023
+ Letztes Update: 18:56 / 07.11.2023
 
 Information
 
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Frankfurter Allee und Greifswalder Straße unterbrochen.
+Nach einem Polizeieinsatz kommt es auf den Linien S41, S42 und S85 noch zu folgenden Einschränkungen:
 
-Es kommt auf den betroffenen Linien zu Verspätungen und Ausfällen.
-
-Die betroffenen Linien fahren wie folgt:
-
-* **S41:** Frankfurter Allee \> Ostkreuz \> Südkreuz \> Westkreuz \> Gesundbrunnen \> Greifswalder Straße, im 10-Minuten-Takt
-* **S42:** Greifswalder Straße \> Gesundbrunnen \> Westkreuz \> Südkreuz \> Ostkreuz \> Frankfurter Allee, im 10-Minuten-Takt
-* **S8:** fährt Grünau \<\> Treptower Park und Blankenburg \<\> Birkenwerder
-* **S85:** verkehrt nicht.
-
-Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+* **S41, S42:** fahren nur im 10-Minuten-Takt
+* **S85:** verkehrt nicht
 
 Wir bitten um Verständnis.
 
- fährt nicht
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
