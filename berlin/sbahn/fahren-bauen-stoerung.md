@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur am Zug in Spindlersfeld ###
+
+ Letztes Update: 23:19 / 07.11.2023
+
+Information
+
+Wegen der Reparatur am Zug in Spindlersfeld ist der Zugverkehr der Linie S47 zwischen Spindlersfeld \<\> Schöneweide unterbrochen.
+
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
