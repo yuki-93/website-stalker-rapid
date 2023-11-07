@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz im Bereich Storkower Straße beendet ###
-
- Letztes Update: 18:56 / 07.11.2023
-
-Information
-
-Nach einem Polizeieinsatz kommt es auf den Linien S41, S42 und S85 noch zu folgenden Einschränkungen:
-
-* **S41, S42:** fahren nur im 10-Minuten-Takt
-* **S85:** verkehrt nicht
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
