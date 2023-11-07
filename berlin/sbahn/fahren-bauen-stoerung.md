@@ -889,7 +889,7 @@ Information
 
  Nur Nachts
 
-### Ahrensfelde \<\> Potsdam Hbf ###
+### Ahrensfelde \<\> Potsdam Hbf --- Diese Baumaßnahme entfällt! --- ###
 
 Nacht 20./21.11. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
 
@@ -899,11 +899,9 @@ Nacht 20./21.11. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
 
 Information
 
-Fahrplanänderung
-
-Bahnsteigänderung
-
-Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-nikolassee-und-vegetationsarbeiten/#con-28254)
 
@@ -911,7 +909,7 @@ Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahre
 
  Nur Nachts
 
-### Ahrensfelde \<\> Potsdam Hbf ###
+### Ahrensfelde \<\> Potsdam Hbf --- Diese Baumaßnahme entfällt! --- ###
 
 Nacht 21./22.11. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
 
@@ -1228,7 +1226,7 @@ Information
 
  Nur Nachts
 
-### Ostbahnhof \<\> Charlottenburg \<\> Spandau ###
+### Ostbahnhof \<\> Charlottenburg \<\> Spandau --- Diese Baumaßnahme entfällt! --- ###
 
 Nacht 23./24.11. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
 
