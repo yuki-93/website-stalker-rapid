@@ -2,35 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### kurzfristige Bauarbeiten in Ostkreuz ###
-
- Letztes Update: 16:00 / 06.11.2023
-
-Information
-
-Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der Linien S3, S5, S7 und S75 **in der heutigen Nacht (06./07.11.2023 (Mo/Di)) in der Zeit von ca. 23:30 Uhr bis ca. 02:00 Uhr** verändert durchgeführt werden.
-
-**Zugverkehr**
-
-* **Linie S3:** verkehrt Erkner \<\> Ostkreuz, Gleis 3 sowie Ostbahnhof \<\> Grunewald/ Spandau.
-  * **bitte bachten Sie**, dass zur Weiterfahrt ab Ostkreuz in Richtung Ostbahnhof ein Bahnsteigwechsel erforderlich ist
-
-* **Linien S5, S7 und S75:** Zugverkehr unverändert, es kommt in Ostkreuz zu Gleisabweichungen
-
----
-
-**Gleisabweichungen**
-
-* auf den Linien S5, S7 und S75 kommt es in Ostkreuz zu Gleisabweichungen, bitte achten Sie auf die örtlichen Zugzielanzeiger
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -154,34 +125,6 @@ Information
 * Der Zug Grünau ab 3:41 Uhr nach Spandau (an 4:47 Uhr) beginnt erst um 3:53 Uhr in Schöneweide.
 * Der Zug fällt von Grünau bis Schöneweide aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof \> Friedrichstraße ###
-
-07.11. (Di) und 08.11. (Mi) jeweils 1:48 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&tx_sbbconstructions_list%5Bperiod%5D=17386&type=5679&cHash=e475ab88506757422f68bed770f3bbcd)
-
-09.11. (Do) jeweils 1:48 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&tx_sbbconstructions_list%5Bperiod%5D=17393&type=5679&cHash=3b60ef07fc3693d88054fcd12a47601d)
-
-10.11. (Fr) jeweils 1:48 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&tx_sbbconstructions_list%5Bperiod%5D=17387&type=5679&cHash=30d939d858d656e0ccd0daa46c0cae32)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&type=5679&cHash=a65d340d789da9ff1b6f506a241cc499)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:48 Uhr in Ostbahnhof.
-* Der Zug fällt zwischen Ostbahnhof und Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
