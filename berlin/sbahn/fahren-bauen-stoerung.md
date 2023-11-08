@@ -6,17 +6,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Baumschulenweg und Schöneweide ###
+### Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide ###
 
- Letztes Update: 09:05 / 08.11.2023
+ Letztes Update: 09:28 / 08.11.2023
 
 Information
 
-Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S46 und S9 zu Verspätungen und Ausfällen.
+
+Die Linie S45 Schöneweide \<\> Flughafen BER Terminal 1+2.
+
+Die Linie S47 verkehrt Schöneweide \<\> Spindlersfeld.
+
+Die Linie S8 verkehrt Birkenwerder \<\> Greifswalder Straße sowie Schöneweide \<\> Grünau.
+
+Die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
