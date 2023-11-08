@@ -4,33 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz im Bereich Nordkreuz beendet ###
-
- Letztes Update: 20:17 / 08.11.2023
-
-Information
-
-Nach einem Polizeieinsatz zwischen Gesundbrunnen und Schönhauser Allee bzw. Bornholmer Straße kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide ###
 
- Letztes Update: 14:36 / 08.11.2023
+ Letztes Update: 21:31 / 08.11.2023
 
 Information
 
-Wegen der Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Die Linie **S45** fährt: Flughafen BER Terminal 1+2 \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.*
-* Die Linie **S47** fährt: Spindlersfeld \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linie S46.*
-* Die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Grünau und Pankow die Linie S8.*
+Die Linie S45 fährt: Flughafen BER Terminal 1+2 \<\> Schöneweide, bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.
 
 Wir bitten um Entschuldigung.
 
