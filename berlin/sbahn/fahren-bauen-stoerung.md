@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke zwischen Baumschulenweg und Schöneweide ###
+
+ Letztes Update: 09:05 / 08.11.2023
+
+Information
+
+Wegen einer vorübergehend verminderten Geschwindigkeit auf der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -1391,7 +1407,7 @@ Information
 Information
 
 * Ersatzverkehr mit Bussen
-  * Bus S2X: Blankenfelde \<\> Priesterweg (Halt nur an ausgewählten Bahnhöfen)
+  * Bus S2X: Blankenfelde \<\> Priesterweg (Hält nur an ausgewählten Bahnhöfen)
      diese Linie fährt Montag bis Freitag, 5 bis 21 Uhr und Samstag, 8 bis 21 Uhr
   * Bus S2A: Blankenfelde \<\> Priesterweg
   * Bus S2B: Lichtenrade \<\> Lankwitz
