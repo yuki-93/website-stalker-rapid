@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz im Bereich Nordkreuz beendet ###
 
- Letztes Update: 16:14 / 08.11.2023
+ Letztes Update: 20:17 / 08.11.2023
 
 Information
 
-Nach einem Polizeieinsatz zwischen Gesundbrunnen und Schönhauser Allee bzw. Bornholmer Straße kommt es auf den Linien S1, S2, S25, S26, S41, S42 und S8 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz zwischen Gesundbrunnen und Schönhauser Allee bzw. Bornholmer Straße kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
