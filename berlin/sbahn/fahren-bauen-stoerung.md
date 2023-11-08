@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide ###
 
- Letztes Update: 11:49 / 08.11.2023
+ Letztes Update: 13:11 / 08.11.2023
 
 Information
 
-Wegen einer Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S41, S42, S46, S8 und S9 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-Die Linie S45 Schöneweide \<\> Flughafen BER Terminal 1+2.
-
-Die Linie S47 verkehrt Schöneweide \<\> Spindlersfeld.
-
-Die Linie S85 verkehrt nicht.
+* Die Linie **S45** fährt: Schöneweide \<\> Flughafen BER Terminal 1+2
+* Die Linie **S47** fährt: Schöneweide \<\> Spindlersfeld
+* Die Linie **S85** verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
