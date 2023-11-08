@@ -8,14 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Bereich Nordkreuz beendet ###
 
- Letztes Update: 15:14 / 08.11.2023
+ Letztes Update: 16:14 / 08.11.2023
 
 Information
 
 Nach einem Polizeieinsatz zwischen Gesundbrunnen und Schönhauser Allee bzw. Bornholmer Straße kommt es auf den Linien S1, S2, S25, S26, S41, S42 und S8 noch zu Verspätungen und einzelnen Ausfällen.
-
-* Die Linie **S26** verkehrt nicht.
-* Die Linien **S41** und **S42** verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
