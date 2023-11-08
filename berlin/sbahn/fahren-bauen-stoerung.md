@@ -4,19 +4,36 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Polizeieinsatz im Bereich Nordkreuz beendet ###
+
+ Letztes Update: 15:14 / 08.11.2023
+
+Information
+
+Nach einem Polizeieinsatz zwischen Gesundbrunnen und Schönhauser Allee bzw. Bornholmer Straße kommt es auf den Linien S1, S2, S25, S26, S41, S42 und S8 noch zu Verspätungen und einzelnen Ausfällen.
+
+* Die Linie **S26** verkehrt nicht.
+* Die Linien **S41** und **S42** verkehren nur im 10-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide ###
 
- Letztes Update: 13:11 / 08.11.2023
+ Letztes Update: 14:36 / 08.11.2023
 
 Information
 
 Wegen der Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Die Linie **S45** fährt: Schöneweide \<\> Flughafen BER Terminal 1+2
-* Die Linie **S47** fährt: Schöneweide \<\> Spindlersfeld
-* Die Linie **S85** verkehrt nicht.
+* Die Linie **S45** fährt: Flughafen BER Terminal 1+2 \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.*
+* Die Linie **S47** fährt: Spindlersfeld \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linie S46.*
+* Die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Grünau und Pankow die Linie S8.*
 
 Wir bitten um Entschuldigung.
 
