@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide ###
 
- Letztes Update: 09:28 / 08.11.2023
+ Letztes Update: 11:08 / 08.11.2023
 
 Information
 
-Wegen einer Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S46 und S9 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S41, S42, S46 und S9 zu Verspätungen und Ausfällen.
 
 Die Linie S45 Schöneweide \<\> Flughafen BER Terminal 1+2.
 
@@ -25,6 +25,20 @@ Die Linie S85 verkehrt nicht.
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+### Gegenstände auf der Strecke in Treptower Park ###
+
+ Letztes Update: 10:57 / 08.11.2023
+
+Information
+
+Wegen Gegenständen auf der Strecke in Treptower Park ist die Linie S9 derzeit zwischen Treptower Park \<\> Ostbahnhof unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 

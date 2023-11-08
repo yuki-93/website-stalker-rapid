@@ -2,7 +2,7 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e
 
 []()
 
-Ab 2 Artikeln 25% Rabatt im gesamten Shop
+Black Friday für Frühbucher. Ab 2 Artikeln 25% Rabatt im gesamten Shop
 
 [Jetzt kaufen \>\>](https://www.anker.com/eu-de/black-friday-angebote?ref=topbanner)
 
