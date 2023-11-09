@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide ###
 
- Letztes Update: 15:11 / 09.11.2023
+ Letztes Update: 16:05 / 09.11.2023
 
 Information
 
