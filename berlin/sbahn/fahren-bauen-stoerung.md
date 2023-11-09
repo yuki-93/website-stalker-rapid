@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an der Strecke zwischen Treptower Park und Baumschulenweg ###
+
+ Letztes Update: 13:34 / 09.11.2023
+
+Information
+
+Wegen einer Reparatur an der Strecke ist der Zugverkehr der Linien S8 und S9 zwischen Treptower Park und Baumschulenweg unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S8**: Birkenwerder \<\> Greifswalder Straße
+* **S9**: Spandau \<\> Treptower Park ***sowie*** Schöneweide \<\> Flughafen BER Terminal 1-2
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide ###
