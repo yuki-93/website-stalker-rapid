@@ -8,25 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide ###
 
- Letztes Update: 14:00 / 09.11.2023
+ Letztes Update: 15:11 / 09.11.2023
 
 Information
 
-Wegen der Reparatur an der Strecke zwischen Treptower Park \<\> Baumschulenweg \<\> Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linie **S45** fährt: Flughafen BER Terminal 1+2 \<\> Schöneweide, Gleis 5. *Bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.*
 * Die Linie **S47** fährt: Spindlersfeld \<\> Schöneweide, Gleis 4. *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linie S46.*
 * Die Linie **S8** fährt: Birkenwerder \<\> Greifswalder Straße
 * Die Linie **S85** verkehrt nicht.
-* Die Linie **S9** fährt: Spandau \<\> Treptower Park ***sowie*** Schöneweide \<\> Flughafen BER Terminal 1-2
-
----
-
-**Zur weiträumigen Umfahrung für die Linien S8 und S9 zwischen Treptower Park und Schönweide nutzen Sie bitte:**
-
-* zwischen Treptower Park und Neukölln die Linien S41 und S42 **sowie** zwischen Neukölln und Baumschulenweg bzw. Schöneweide die Linie S46
-* zwischen Treptower Park \<\> Plänterwald \<\> Baumschulenweg \<\> Schöneweide die BVG-Buslinien 165 und 166
-* zwischen Ostkreuz und Schöneweide die Regionalbahnlinien RB24 und RB32
 
 Wir bitten um Entschuldigung.
 
