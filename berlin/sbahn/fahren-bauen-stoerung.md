@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke zwischen Treptower Park bzw. Baumschulenweg und Schöneweide ###
 
- Letztes Update: 18:18 / 09.11.2023
+ Letztes Update: 20:23 / 09.11.2023
 
 Information
 
@@ -37,7 +37,7 @@ Wegen einer Reparatur an der Strecke wird der Zugverkehr der Linien S45, S46, S
 **Zur weiträumigen Umfahrung nutzen Sie bitte auch:**
 
 * zwischen Treptower Park \<\> Plänterwald \<\> Baumschulenweg \<\> Schöneweide die Buslinie 165
-* zwischen Ostkreuz und Schöneweide die Regionalbahnlinien RB24 und RB32
+* zwischen Ostkreuz und Schöneweide die Regionalbahnlinien RB24 und RB32 (bis ca. 22:00 Uhr)
 
 Wir bitten um Entschuldigung.
 
