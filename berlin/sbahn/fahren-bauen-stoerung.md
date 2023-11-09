@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke zwischen Treptower Park bzw. Baumschulenweg und Schöneweide ###
 
- Letztes Update: 16:51 / 09.11.2023
+ Letztes Update: 18:18 / 09.11.2023
 
 Information
 
@@ -17,13 +17,13 @@ Wegen einer Reparatur an der Strecke wird der Zugverkehr der Linien S45, S46, S
 **Die betroffenen Linien fahren dann wie folgt:**
 
 * **S45**: verkehrt nicht
-* **S46**: Westend \<\> Baumschulenweg (Gleis 5) ***sowie*** Schöneweide (Gleis 5) \<\> Königs Wusterhausen
-* **S8**: Birkenwerder/ Blankenburg \<\> Treptower Park (Gleis 4) ***sowie*** Schöneweide (Gleis 5) \<\> Grünau
-* **S9**: Spandau \<\> Ostbahnhof (Gleis 10) ***sowie*** Schöneweide (Gleis 6) \<\> Flughafen BER Terminal 1-2
+* **S46**: Westend \<\> Baumschulenweg (*Gleis 5, Bahnsteig Ri. Schöneweide*) ***sowie*** Schöneweide (Gleis 5) \<\> Königs Wusterhausen
+* **S8**: Schönfließ/ Blankenburg \<\> Treptower Park (*Gleis 4, Bahnsteig Ri. Ostkreuz*) ***sowie*** Schöneweide (Gleis 5) \<\> Grünau
+* **S9**: Spandau \<\> Ostbahnhof (Gleis 10) ***sowie*** Schöneweide \<\> Flughafen BER Terminal 1-2
 
 ---
 
-**Ein Ersatzverkehr mit Bussen wird zwischen Treptower Park und Schöneweide eingerichtet.**
+**Ein Ersatzverkehr mit Bussen wird ab ca. 23:00 Uhr zwischen Treptower Park und Schöneweide eingerichtet.**
 
 *Haltestellen des Ersatzverkehrs:*
 
@@ -34,7 +34,7 @@ Wegen einer Reparatur an der Strecke wird der Zugverkehr der Linien S45, S46, S
 
 ---
 
-**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+**Zur weiträumigen Umfahrung nutzen Sie bitte auch:**
 
 * zwischen Treptower Park \<\> Plänterwald \<\> Baumschulenweg \<\> Schöneweide die Buslinie 165
 * zwischen Ostkreuz und Schöneweide die Regionalbahnlinien RB24 und RB32
@@ -42,6 +42,20 @@ Wegen einer Reparatur an der Strecke wird der Zugverkehr der Linien S45, S46, S
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  Verbindung unterbrochen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Untersuchung am Zug in Ostbahnhof beendet ###
+
+ Letztes Update: 18:17 / 09.11.2023
+
+Information
+
+Nach einer technischen Untersuchung am Zug in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
