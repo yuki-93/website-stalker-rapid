@@ -4,38 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an der Strecke zwischen Treptower Park und Baumschulenweg ###
-
- Letztes Update: 13:34 / 09.11.2023
-
-Information
-
-Wegen einer Reparatur an der Strecke ist der Zugverkehr der Linien S8 und S9 zwischen Treptower Park und Baumschulenweg unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S8**: Birkenwerder \<\> Greifswalder Straße
-* **S9**: Spandau \<\> Treptower Park ***sowie*** Schöneweide \<\> Flughafen BER Terminal 1-2
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide ###
 
- Letztes Update: 11:27 / 09.11.2023
+ Letztes Update: 14:00 / 09.11.2023
 
 Information
 
-Wegen der Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an der Strecke zwischen Treptower Park \<\> Baumschulenweg \<\> Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linie **S45** fährt: Flughafen BER Terminal 1+2 \<\> Schöneweide, Gleis 5. *Bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.*
 * Die Linie **S47** fährt: Spindlersfeld \<\> Schöneweide, Gleis 4. *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linie S46.*
-* Die Linie **S85** verkehrt nicht. *Bitte nutzen Sie zwischen Grünau und Pankow die Linie S8.*
+* Die Linie **S8** fährt: Birkenwerder \<\> Greifswalder Straße
+* Die Linie **S85** verkehrt nicht.
+* Die Linie **S9** fährt: Spandau \<\> Treptower Park ***sowie*** Schöneweide \<\> Flughafen BER Terminal 1-2
+
+---
+
+**Zur weiträumigen Umfahrung für die Linien S8 und S9 zwischen Treptower Park und Schönweide nutzen Sie bitte:**
+
+* zwischen Treptower Park und Neukölln die Linien S41 und S42 **sowie** zwischen Neukölln und Baumschulenweg bzw. Schöneweide die Linie S46
+* zwischen Treptower Park \<\> Plänterwald \<\> Baumschulenweg \<\> Schöneweide die BVG-Buslinien 165 und 166
+* zwischen Ostkreuz und Schöneweide die Regionalbahnlinien RB24 und RB32
 
 Wir bitten um Entschuldigung.
 
