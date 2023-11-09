@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide ###
 
- Letztes Update: 03:58 / 09.11.2023
+ Letztes Update: 11:27 / 09.11.2023
 
 Information
 
 Wegen der Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Die Linie **S45** fährt: Flughafen BER Terminal 1+2 \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.*
-* Die Linie **S47** fährt: Spindlersfeld \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linie S46.*
-* Die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Grünau und Pankow die Linie S8.*
+* Die Linie **S45** fährt: Flughafen BER Terminal 1+2 \<\> Schöneweide, Gleis 5. *Bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.*
+* Die Linie **S47** fährt: Spindlersfeld \<\> Schöneweide, Gleis 4. *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linie S46.*
+* Die Linie **S85** verkehrt nicht. *Bitte nutzen Sie zwischen Grünau und Pankow die Linie S8.*
 
 Wir bitten um Entschuldigung.
 
@@ -1294,6 +1294,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/eisenbahnueberfuehrung-wiltbergstrasse/#con-28402)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Friedrichshagen \<\> Karlshorst ###
+
+14.12. (Mo) 21:45 Uhr bis 15.12. (Mo) 01:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28403&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21553&tx_sbbconstructions_list%5Bperiod%5D=17496&type=5679&cHash=713a6692ea26c64d85e43e48b9c9b82b)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Gleisänderung in Wuhlheide
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bf-koepenick/#con-28403)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
