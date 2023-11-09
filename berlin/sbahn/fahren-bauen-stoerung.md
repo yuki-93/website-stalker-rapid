@@ -4,6 +4,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an der Strecke zwischen Treptower Park bzw. Baumschulenweg und Schöneweide ###
+
+ Letztes Update: 16:51 / 09.11.2023
+
+Information
+
+Wegen einer Reparatur an der Strecke wird der Zugverkehr der Linien S45, S46, S8 und S9 **ab ca. 23:00 Uhr bis morgen früh ca. 01:30 Uhr** zwischen Treptower Park bzw. Baumschulenweg und Schöneweide unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+
+**Die betroffenen Linien fahren dann wie folgt:**
+
+* **S45**: verkehrt nicht
+* **S46**: Westend \<\> Baumschulenweg (Gleis 5) ***sowie*** Schöneweide (Gleis 5) \<\> Königs Wusterhausen
+* **S8**: Birkenwerder/ Blankenburg \<\> Treptower Park (Gleis 4) ***sowie*** Schöneweide (Gleis 5) \<\> Grünau
+* **S9**: Spandau \<\> Ostbahnhof (Gleis 10) ***sowie*** Schöneweide (Gleis 6) \<\> Flughafen BER Terminal 1-2
+
+---
+
+**Ein Ersatzverkehr mit Bussen wird zwischen Treptower Park und Schöneweide eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S-Bhf. Treptower Park: Elsenstraße (wie Bus M43, 165, 166, 194, 265, N60, N65)
+* S-Bhf. Plänterwald: Köpenicker Landstr. (wie Bus 165, 167, N60, N65)
+* S-Bhf. Baumschulenweg: Köpenicker Landstr. (wie Bus 165, N60, N65)
+* S-Bhf. Schöneweide: Michael-Brückner-Str. (wie Bus 165, N60, N65)
+
+---
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Treptower Park \<\> Plänterwald \<\> Baumschulenweg \<\> Schöneweide die Buslinie 165
+* zwischen Ostkreuz und Schöneweide die Regionalbahnlinien RB24 und RB32
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  Verbindung unterbrochen
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide ###
