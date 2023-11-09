@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke zwischen Treptower Park bzw. Baumschulenweg und Schöneweide ###
 
- Letztes Update: 20:23 / 09.11.2023
+ Letztes Update: 21:58 / 09.11.2023
 
 Information
 
@@ -37,26 +37,23 @@ Wegen einer Reparatur an der Strecke wird der Zugverkehr der Linien S45, S46, S
 **Zur weiträumigen Umfahrung nutzen Sie bitte auch:**
 
 * zwischen Treptower Park \<\> Plänterwald \<\> Baumschulenweg \<\> Schöneweide die Buslinie 165
-* zwischen Ostkreuz und Schöneweide die Regionalbahnlinien RB24 und RB32 (bis ca. 22:00 Uhr)
+* zwischen Ostkreuz und Flughafen BER Terminal 1-2 die Regionalzüge (FEX)
 
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  Verbindung unterbrochen
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide ###
 
- Letztes Update: 16:05 / 09.11.2023
+ Letztes Update: 21:45 / 09.11.2023
 
 Information
 
-Wegen der Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linie **S45** fährt: Flughafen BER Terminal 1+2 \<\> Schöneweide, Gleis 5. *Bitte nutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.*
-* Die Linie **S47** fährt: Spindlersfeld \<\> Schöneweide, Gleis 4. *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linie S46.*
-* Die Linie **S8** fährt: Birkenwerder \<\> Greifswalder Straße
-* Die Linie **S85** verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
