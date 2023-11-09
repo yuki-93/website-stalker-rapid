@@ -43,20 +43,6 @@ Wir bitten um Entschuldigung.
 
  Ersatzverkehr  Verbindung unterbrochen
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### technische Untersuchung am Zug in Ostbahnhof beendet ###
-
- Letztes Update: 18:17 / 09.11.2023
-
-Information
-
-Nach einer technischen Untersuchung am Zug in Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide ###
