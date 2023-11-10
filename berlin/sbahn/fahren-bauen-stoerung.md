@@ -4,15 +4,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur am Zug in Eichwalde ###
+### Reparatur am Signal im Bereich Grünauer Kreuz ###
 
- Letztes Update: 15:10 / 10.11.2023
+ Letztes Update: 15:34 / 10.11.2023
 
 Information
 
-Wegen der Reparatur am Zug in Eichwalde kommt es auf den Linien S46 und S8 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal im Bereich Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
+
+* Die Linie S45 verkehrt nur zwischen Südkreuz und Schöneweide.
+* Die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
