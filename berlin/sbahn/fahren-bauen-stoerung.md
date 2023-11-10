@@ -1088,6 +1088,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bf-koepenick/#con-28403)
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+Nur Wochenende
+
+### Grünau \<\> Königs Wusterhausen ###
+
+15.12. (Fr) 21:45 Uhr bis 18.12. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28411&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21562&tx_sbbconstructions_list%5Bperiod%5D=17498&type=5679&cHash=3bbb3e255b536ecda6bf68bcae4962e0)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/personentunnel-eichwalde-zeuthen/#con-28411)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
