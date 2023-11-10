@@ -6,7 +6,7 @@ Black Friday für Frühbucher. Ab 2 Artikeln 25% Rabatt im gesamten Shop
 
 [Jetzt kaufen \>\>](https://www.anker.com/eu-de/black-friday-angebote?ref=topbanner)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| ⚡ Black Friday 72-Stunden Flash Sale. Jetzt sparen! ⚡](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| ⚡ Black Friday 72-Stunden Flash Sale. Jetzt sparen! ⚡](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix/black-friday-pps?ref=naviBar)
 
 Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Black Friday für Frühbucher](https://www.anker.com/eu-de/black-friday-angebote?ref=naviMenu)
 
@@ -69,11 +69,23 @@ Das Anker-Erlebnis entdecken
 
   [Mehr erfahren Exklusive Kollektion von Apple Zubehör](https://www.anker.com/eu-de/collections/apple-accessories?ref=productBanner4_2)
 
+* ###
+
+   Flash Sale
+
+   ###
+
+  ### Bis zu 1.200€ Rabatt ###
+
+  Bereit für Black Friday?
+
+  [Mehr erfahren Flash Sale ,Bis zu 1.200€ Rabatt](https://www.anker.com/eu-de/anker-solix/black-friday-pps?ref=productBanner4_3)
+
 * ### Anmelden und exklusive Benefits und 45% Rabatt sichern  ###
 
   Anker SOLIX F3800 Tragbare Powerstation
 
-  [AnmeldenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner4_3)
+  [Mehr erfahrenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner4_4)
 
 * ###
 
@@ -87,25 +99,25 @@ Das Anker-Erlebnis entdecken
 
   Anker SOLIX Balkonkraftwerk | Black Friday
 
-  [Mehr erfahren Flash Sale ,1080W Leistung,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner4_4)
+  [Mehr erfahren Flash Sale ,1080W Leistung,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner4_5)
 
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner4_5)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner4_6)
 
 * ### Anker Nano 3 ###
 
   Das Tech für jedes iPhone
 
-  [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner4_6)
+  [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner4_7)
 
 * ### Starte durch mit USB-C ###
 
   Entdecke USB-C Ladepower mit Anker
 
-  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner4_7)
+  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner4_8)
 
 Unentschlossen?
 
