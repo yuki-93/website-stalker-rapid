@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur am Zug in Halensee ###
+### Reparatur am Zug in Halensee beendet ###
 
- Letztes Update: 08:14 / 10.11.2023
+ Letztes Update: 08:49 / 10.11.2023
 
 Information
 
-Wegen der Reparatur am Zug in Halensee kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
+Nach der Reparatur an einem Zug in Halensee kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
