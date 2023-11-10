@@ -1074,7 +1074,7 @@ Information
 
 ### Friedrichshagen \<\> Karlshorst ###
 
-14.12. (Mo) 21:45 Uhr bis 15.12. (Mo) 01:30 Uhr
+14.12. (Do) 21:45 Uhr bis 15.12. (Fr) 01:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28403&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21553&tx_sbbconstructions_list%5Bperiod%5D=17496&type=5679&cHash=713a6692ea26c64d85e43e48b9c9b82b)
 
@@ -1087,6 +1087,23 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bf-koepenick/#con-28403)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Marienfelde \<\> Priesterweg ###
+
+15.12. (Fr) 22 Uhr bis 18.12. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28407&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21558&tx_sbbconstructions_list%5Bperiod%5D=17497&type=5679&cHash=4835bc617b6c49603718ab0083a30897)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
