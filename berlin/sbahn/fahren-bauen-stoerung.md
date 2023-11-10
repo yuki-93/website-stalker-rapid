@@ -45,29 +45,6 @@ Wir bitten um Entschuldigung.
 
 ### Baumaßnahmen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Frohnau/Mühlenbeck-Mönchmühle \<\> Birkenwerder (\<\> Oranienburg) ###
-
-Nächte 08./09.11. (Mi/Do) und 09./10.11. (Do/Fr), jeweils ca. 22.10 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28180&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21311&tx_sbbconstructions_list%5Bperiod%5D=17374&type=5679&cHash=93313bb8e417363343b95445c16d39ac)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S1: Frohnau \<\> Birkenwerder
-  * Bus S8: Mühlenbeck-Mönchmühle \<\> Birkenwerder
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1-1/#con-28180)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -120,32 +97,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Erkner \<\> Ostbahnhof ###
-
-Nacht 09./10.11. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28181&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21312&tx_sbbconstructions_list%5Bperiod%5D=17375&type=5679&cHash=a5a0dd1e9ea7d56f549748af766d092f)
-
- Takt geändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S3 steigen bitte in beiden Fahrtrichtungen in Karlshorst um. Sie Weiterfahrt erfolgt nach 10 Minuten (in Fahrtrichtung stadtauswärts) bzw. nach 16 Minuten (in Fahrtrichtung stadteinwärts) vom selben Gleis.
-
-* Taktänderung:
-  * Friedrichshagen \<\> Ostkreuz S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung:
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-karlshorst/#con-28181)
-
 [S46](https://sbahn.berlin/fahren/s46/)
 
 Nur Wochenende
@@ -195,34 +146,6 @@ Information
 
  Nur Nachts
 
-### Schöneweide \> Grünau ###
-
-06.11. (Mo) bis 10.11. (Fr) jeweils 1:33 Uhr bis 1:42 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17089&type=5679&cHash=afe3a57fc0ac435aab9d6cba0f5e1d44)
-
-27.11. (Mo) und 28.11. (Mi) jeweils 1:33 Uhr bis 1:42 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17432&type=5679&cHash=51de4e3f46d66b55dac4cdfd84ec5e63)
-
-05.12. (Di) und 06.12. (Mi) jeweils 1:33 Uhr bis 1:42 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17473&type=5679&cHash=209fb238abae82eb05bf67a799e8bb27)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&type=5679&cHash=f5aa06d7c0abcf6dcbb35849b8758f51)
-
- fährt nicht
-
-Information
-
-* Der Zug Spandau ab 0:38 Uhr nach Grünau (an 1:42 Uhr) endet bereits um 1:33 Uhr in Schöneweide.
-* Der Zug fällt von Schöneweide bis Grünau aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Grünau \> Schöneweide ###
 
 06.11. (Mo) bis 10.11. (Fr) jeweils 3:41 Uhr bis 3:53 Uhr
@@ -246,24 +169,6 @@ Information
 * Der Zug Grünau ab 3:41 Uhr nach Spandau (an 4:47 Uhr) beginnt erst um 3:53 Uhr in Schöneweide.
 * Der Zug fällt von Grünau bis Schöneweide aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof \> Friedrichstraße ###
-
-10.11. (Fr) jeweils 1:48 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20438&tx_sbbconstructions_list%5Bperiod%5D=17387&type=5679&cHash=30d939d858d656e0ccd0daa46c0cae32)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:48 Uhr in Ostbahnhof.
-* Der Zug fällt zwischen Ostbahnhof und Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
@@ -1316,34 +1221,6 @@ Information
 
  Nur Nachts
 
-### Schöneweide \> Grünau ###
-
-06.11. (Mo) bis 10.11. (Fr) jeweils 1:33 Uhr bis 1:42 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17089&type=5679&cHash=afe3a57fc0ac435aab9d6cba0f5e1d44)
-
-27.11. (Mo) und 28.11. (Mi) jeweils 1:33 Uhr bis 1:42 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17432&type=5679&cHash=51de4e3f46d66b55dac4cdfd84ec5e63)
-
-05.12. (Di) und 06.12. (Mi) jeweils 1:33 Uhr bis 1:42 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17473&type=5679&cHash=209fb238abae82eb05bf67a799e8bb27)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&type=5679&cHash=f5aa06d7c0abcf6dcbb35849b8758f51)
-
- fährt nicht
-
-Information
-
-* Der Zug Spandau ab 0:38 Uhr nach Grünau (an 1:42 Uhr) endet bereits um 1:33 Uhr in Schöneweide.
-* Der Zug fällt von Schöneweide bis Grünau aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Grünau \> Schöneweide ###
 
 06.11. (Mo) bis 10.11. (Fr) jeweils 3:41 Uhr bis 3:53 Uhr
@@ -1367,6 +1244,30 @@ Information
 * Der Zug Grünau ab 3:41 Uhr nach Spandau (an 4:47 Uhr) beginnt erst um 3:53 Uhr in Schöneweide.
 * Der Zug fällt von Grünau bis Schöneweide aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide \> Grünau ###
+
+27.11. (Mo) und 28.11. (Mi) jeweils 1:33 Uhr bis 1:42 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17432&type=5679&cHash=51de4e3f46d66b55dac4cdfd84ec5e63)
+
+05.12. (Di) und 06.12. (Mi) jeweils 1:33 Uhr bis 1:42 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17473&type=5679&cHash=209fb238abae82eb05bf67a799e8bb27)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&type=5679&cHash=f5aa06d7c0abcf6dcbb35849b8758f51)
+
+ fährt nicht
+
+Information
+
+* Der Zug Spandau ab 0:38 Uhr nach Grünau (an 1:42 Uhr) endet bereits um 1:33 Uhr in Schöneweide.
+* Der Zug fällt von Schöneweide bis Grünau aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
