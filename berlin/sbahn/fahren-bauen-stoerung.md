@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Signal im Bereich Grünauer Kreuz beendet ###
-
- Letztes Update: 16:41 / 10.11.2023
-
-Information
-
-Nach der Reparatur an einem Signal im Bereich Grünauer Kreuz kommt es auf den Linien S45 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-* Die Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
