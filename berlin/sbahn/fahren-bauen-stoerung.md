@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### kurzfristige Bauarbeiten im Bereich Grünau ###
+### Vorabinformation: kurzfristige Bauarbeiten im Bereich Grünau am 11.11.2023 ###
 
- Letztes Update: 14:46 / 10.11.2023
+ Letztes Update: 19:52 / 10.11.2023
 
 Information
 
