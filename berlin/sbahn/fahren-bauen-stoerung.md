@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Reparatur an der Strecke in Attilastraße beendet ###
+
+ Letztes Update: 07:08 / 10.11.2023
+
+Information
+
+Nach einer Reparatur an der Strecke in Attilastraße kommt es auf der Linie S2 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -1103,7 +1119,10 @@ Nur Wochenende
 Information
 
 * Ersatzverkehr mit Bussen
+* Gleisänderung in Priesterweg
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhanben-dresner-bahn/#con-28407)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
