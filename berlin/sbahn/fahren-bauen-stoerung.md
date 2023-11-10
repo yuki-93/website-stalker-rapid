@@ -2,47 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an der Strecke zwischen Treptower Park bzw. Baumschulenweg und Schöneweide ###
-
- Letztes Update: 23:55 / 09.11.2023
-
-Information
-
-Wegen einer Reparatur an der Strecke wird der Zugverkehr der Linien S45, S46, S8 und S9 **bis 10.11.2023, ca. 01:30 Uhr** zwischen Treptower Park bzw. Baumschulenweg und Schöneweide unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
-
-**Die betroffenen Linien fahren dann wie folgt:**
-
-* **S45**: verkehrt nicht
-* **S46**: Westend \<\> Baumschulenweg (*Gleis 5, Bahnsteig Ri. Schöneweide*) ***sowie*** Schöneweide (Gleis 5) \<\> Königs Wusterhausen
-* **S8**: Schönfließ/ Blankenburg \<\> Treptower Park (*Gleis 4, Bahnsteig Ri. Ostkreuz*) ***sowie*** Schöneweide (Gleis 5) \<\> Grünau
-* **S9**: Spandau \<\> Ostbahnhof (Gleis 10) ***sowie*** Schöneweide \<\> Flughafen BER Terminal 1-2
-
----
-
-**Ein Ersatzverkehr mit Bussen wird ab ca. 23:00 Uhr zwischen Treptower Park und Schöneweide eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Treptower Park: Elsenstraße (wie Bus M43, 165, 166, 194, 265, N60, N65)
-* S-Bhf. Plänterwald: Köpenicker Landstr. (wie Bus 165, 167, N60, N65)
-* S-Bhf. Baumschulenweg: Köpenicker Landstr. (wie Bus 165, N60, N65)
-* S-Bhf. Schöneweide: Michael-Brückner-Str. (wie Bus 165, N60, N65)
-
----
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte auch:**
-
-* zwischen Treptower Park \<\> Plänterwald \<\> Baumschulenweg \<\> Schöneweide die Buslinie 165
-* zwischen Ostkreuz und Flughafen BER Terminal 1-2 die Regionalzüge (FEX)
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -169,30 +128,6 @@ Information
 * Der Zug Grünau ab 3:41 Uhr nach Spandau (an 4:47 Uhr) beginnt erst um 3:53 Uhr in Schöneweide.
 * Der Zug fällt von Grünau bis Schöneweide aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Ostbahnhof ###
-
-10.11. (Fr) jeweils 3:05 Uhr bis 3:09 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26783&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19878&tx_sbbconstructions_list%5Bperiod%5D=17389&type=5679&cHash=1410f4a8bc6ad1c609a579864e2a5bb8)
-
-16.11. (Do) und 17.11. (Fr) jeweils 3:05 Uhr bis 3:09 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26783&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19878&tx_sbbconstructions_list%5Bperiod%5D=17435&type=5679&cHash=bf7f9087816d6d4e24b1e6e242b73384)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26783&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19878&type=5679&cHash=db4c870b384a7caa0ff6de426bb137f4)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:09 Uhr in Ostbahnhof.
-* Der Zug fällt von Alexanderplatz bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -786,17 +721,29 @@ Information
 
  Nur Nachts
 
+### Friedrichstraße \> Grunewald ###
+
+16.11. (Do) und 17.11. (Fr) jeweils 1:37 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19235&tx_sbbconstructions_list%5Bperiod%5D=17434&type=5679&cHash=5a28620e4b99776f849ae3d4cff2b7cd)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER – Terminal 1-2 ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:37 Uhr in Friedrichstraße.
+* Der Zug fällt von Friedrichstraße bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
 ### Charlottenburg \> Ostbahnhof ###
-
-10.11. (Fr) jeweils 3:02 Uhr bis 3:24 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17391&type=5679&cHash=086b7a911f5c68a43bc994672a753cd9)
 
 16.11. (Do) und 17.11. (Fr) jeweils 3:02 Uhr bis 3:24 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17436&type=5679&cHash=00b319d34736b83e7b5f5310e6ddc27e)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&type=5679&cHash=ce8e544d1a49b5cf40c248f934d1be2a)
 
  fährt nicht
 
@@ -812,15 +759,9 @@ Information
 
 ### Alexanderplatz \> Ostbahnhof ###
 
-10.11. (Fr) jeweils 3:05 Uhr bis 3:09 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26783&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19878&tx_sbbconstructions_list%5Bperiod%5D=17389&type=5679&cHash=1410f4a8bc6ad1c609a579864e2a5bb8)
-
 16.11. (Do) und 17.11. (Fr) jeweils 3:05 Uhr bis 3:09 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26783&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19878&tx_sbbconstructions_list%5Bperiod%5D=17435&type=5679&cHash=bf7f9087816d6d4e24b1e6e242b73384)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26783&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19878&type=5679&cHash=db4c870b384a7caa0ff6de426bb137f4)
 
  fährt nicht
 
@@ -828,24 +769,6 @@ Information
 
 * Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:09 Uhr in Ostbahnhof.
 * Der Zug fällt von Alexanderplatz bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \> Grunewald ###
-
-16.11. (Do) und 17.11. (Fr) jeweils 1:37 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19235&tx_sbbconstructions_list%5Bperiod%5D=17434&type=5679&cHash=5a28620e4b99776f849ae3d4cff2b7cd)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:37 Uhr in Friedrichstraße.
-* Der Zug fällt von Friedrichstraße bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
