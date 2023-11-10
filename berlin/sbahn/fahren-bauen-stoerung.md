@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an der Strecke in Attilastraße beendet ###
+### Reparatur am Zug in Halensee ###
 
- Letztes Update: 07:08 / 10.11.2023
+ Letztes Update: 08:14 / 10.11.2023
 
 Information
 
-Nach einer Reparatur an der Strecke in Attilastraße kommt es auf der Linie S2 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur am Zug in Halensee kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
