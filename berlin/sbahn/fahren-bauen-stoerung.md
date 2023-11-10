@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Vorabinformation: kurzfristige Bauarbeiten im Bereich Grünau am 11.11.2023 ###
 
- Letztes Update: 19:52 / 10.11.2023
+ Letztes Update: 20:24 / 10.11.2023
 
 Information
 
@@ -34,7 +34,7 @@ Wegen kurzfristiger Bauarbeiten im Bereich Grünau bei der Fernbahn wird der Zu
 
 **Beachten Sie bitte die planmäßigen Bauarbeiten zwischen Grünau und Königs Wusterhausen.**
 
-* In Grünau ist zwischen beiden Ersatzverkehren ein Umstieg erforderlich.
+In Grünau ist zwischen beiden Ersatzverkehren ein Umstieg erforderlich.
 
 Wir bitten um Entschuldigung.
 
