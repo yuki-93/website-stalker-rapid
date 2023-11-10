@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Vorabinformation: kurzfristige Bauarbeiten im Bereich Grünau am 11.11.2023 ###
 
- Letztes Update: 20:24 / 10.11.2023
+ Letztes Update: 21:33 / 10.11.2023
 
 Information
 
