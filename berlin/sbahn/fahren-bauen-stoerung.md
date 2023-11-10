@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Vorabinformation: kurzfristige Bauarbeiten im Bereich Grünau am 11.11.2023 ###
+### kurzfristige Bauarbeiten im Bereich Grünau am 11.11.2023 ###
 
- Letztes Update: 21:33 / 10.11.2023
+ Letztes Update: 00:16 / 11.11.2023
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Grünau bei der Fernbahn wird der Zugverkehr der Linien S46 und S8 **am 11.11.2023 in der Zeit von ca. 01:30 Uhr bis vsl. 03:30 Uhr** zwischen Schöneweide bzw. Adlershof und Grünau unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen kurzfristiger Bauarbeiten bei der Fernbahn im Bereich Grünau wird der Zugverkehr der Linien S46 und S8 **in der Zeit von ca. 01:30 Uhr bis vsl. 03:30 Uhr** zwischen Schöneweide bzw. Adlershof und Grünau unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
 **Die betroffenen Linien fahren dann wie folgt:**
 
@@ -238,6 +238,31 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-lichtenberger-bruecken-demontage-ueberbau/#con-28185)
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Strausberg Nord / Ahrensfelde / Wartenberg \<\> Ostkreuz (\<\> Warschauer Straße) ###
+
+Nacht 12./13.11. (So/Mo), ca. 23 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21318&tx_sbbconstructions_list%5Bperiod%5D=17380&type=5679&cHash=39e1b95d907ec45d2567ef5929e58886)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S5: Strausberg Nord \<\> Ostkreuz
+  * Bus S7: Ahrensfelde \<\> Ostkreuz
+  * Bus S75: Wartenberg \<\> Ostkreuz
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/softwarewechsel-bei-der-db-netz-ag/#con-28186)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -314,30 +339,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-8/#con-28110)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wartenberg \<\> Nöldnerplatz \<\> Warschauer Straße ###
-
-10.11. (Fr), ca. 22 Uhr durchgehend bis 12.11. (So), ca. 23 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28185&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21317&tx_sbbconstructions_list%5Bperiod%5D=17379&type=5679&cHash=c742d3e8446edf86a74cb2cc11d04e8a)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Lichtenberg \<\> Ostkreuz S-Bahnverkehr nur im 2-/18-Minutentakt mit S5 und S7
-  * Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-lichtenberger-bruecken-demontage-ueberbau/#con-28185)
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
@@ -719,6 +720,26 @@ Information
 
 * Bahnsteigänderung:
   * In Waßmannsdorf fährt die S9 nach Flughafen BER - Terminal 1-2 von Gleis 2, Bahnsteig stadteinwärts.
+
+* Es gibt einzelne Fahrplanänderungen.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Waßmannsdorf ###
+
+Nacht 25./26.11. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28102&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17423&type=5679&cHash=67d3e1a8e304e0c5bd2a7c1a0d2cf3bb)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung:
+  * In Waßmannsdorf fährt die S9 nach Spandau von Gleis 1, Bahnsteig stadtauswärts.
 
 * Es gibt einzelne Fahrplanänderungen.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
@@ -1164,26 +1185,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhanben-dresner-bahn/#con-28407)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Waßmannsdorf ###
-
-Nacht 25./26.11. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28102&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21246&tx_sbbconstructions_list%5Bperiod%5D=17423&type=5679&cHash=67d3e1a8e304e0c5bd2a7c1a0d2cf3bb)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung:
-  * In Waßmannsdorf fährt die S9 nach Spandau von Gleis 1, Bahnsteig stadtauswärts.
-
-* Es gibt einzelne Fahrplanänderungen.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 ### Fahrplanänderungen ###
 
