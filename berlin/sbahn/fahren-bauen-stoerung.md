@@ -6,22 +6,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### kurzfristige Bauarbeiten im Bereich Grünau am 11.11.2023 ###
+### kurzfristige Bauarbeiten im Bereich Grünau ###
 
- Letztes Update: 00:16 / 11.11.2023
+ Letztes Update: 01:30 / 11.11.2023
 
 Information
 
-Wegen kurzfristiger Bauarbeiten bei der Fernbahn im Bereich Grünau wird der Zugverkehr der Linien S46 und S8 **in der Zeit von ca. 01:30 Uhr bis vsl. 03:30 Uhr** zwischen Schöneweide bzw. Adlershof und Grünau unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen kurzfristiger Bauarbeiten bei der Fernbahn im Bereich Grünau ist der Zugverkehr der Linien S46 und S8 **bis vsl. 03:30 Uhr** zwischen Schöneweide bzw. Adlershof und Grünau unterbrochen.
 
-**Die betroffenen Linien fahren dann wie folgt:**
+**Die betroffenen Linien fahren wie folgt:**
 
 * **S46**: Südkreuz \<\> Altglienicke, *die Züge nach Altglienicke haben in Baumschulenweg einen Aufenthalt von ca. 5 Minuten und fahren hinter der Linie S9!*
 * **S8**: Blankenburg/ Pankow \<\> Schöneweide
 
 ---
 
-**Ein Ersatzverkehr mit Bussen wird im genannten Zeitraum zwischen Schöneweide und Grünau eingerichtet.**
+**Ein Ersatzverkehr mit Bussen zwischen Schöneweide und Grünau ist eingerichtet.**
 
 *Haltestellen des Ersatzverkehrs:*
 
