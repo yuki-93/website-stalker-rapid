@@ -2,44 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### kurzfristige Bauarbeiten im Bereich Grünau ###
-
- Letztes Update: 01:30 / 11.11.2023
-
-Information
-
-Wegen kurzfristiger Bauarbeiten bei der Fernbahn im Bereich Grünau ist der Zugverkehr der Linien S46 und S8 **bis vsl. 03:30 Uhr** zwischen Schöneweide bzw. Adlershof und Grünau unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S46**: Südkreuz \<\> Altglienicke, *die Züge nach Altglienicke haben in Baumschulenweg einen Aufenthalt von ca. 5 Minuten und fahren hinter der Linie S9!*
-* **S8**: Blankenburg/ Pankow \<\> Schöneweide
-
----
-
-**Ein Ersatzverkehr mit Bussen zwischen Schöneweide und Grünau ist eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Schöneweide: Michael-Brückner-Str. (wie Bus 165, N60, N65)
-* S-Bhf. Johannisthal: Adlergestell, in Höhe Fußgängerbrücke, **der Halt erfolgt nur in Richtung Schöneweide**
-* S-Bhf. Adlershof: Adlergestell, in Höhe Dörpfeldstr. (keine Haltestelle)
-* S-Bhf. Grünau: Adlergestell (wie Bus N68)
-
----
-
-**Beachten Sie bitte die planmäßigen Bauarbeiten zwischen Grünau und Königs Wusterhausen.**
-
-In Grünau ist zwischen beiden Ersatzverkehren ein Umstieg erforderlich.
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
