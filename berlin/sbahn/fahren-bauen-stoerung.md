@@ -8,13 +8,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz an der Strecke in Hirschgarten ###
 
- Letztes Update: 19:55 / 11.11.2023
+ Letztes Update: 21:03 / 11.11.2023
 
 Information
 
 Wegen eines Notarzteinsatzes an der Strecke in Hirschgarten ist der Zugverkehr der S3 zwischen Wuhlheide und Friedrichshagen unterbrochen.
 
-Bitte nutzen Sie zur Umfahrung zwischen Karlshorst und Friedrichshagen die Straßenbahnlinien M17, 60 und 61.
+**Ein Ersatzverkehr mit Bussen zwischen Karlhorst und Friedrichshagen über Wuhlheide, Köpenick und Hirschgarten ist eingerichtet.**
+
+* S-Bhf. Karlshorst: Treskowallee (wie Tram M17, 27, 37)
+* S-Bhf. Wuhlheide: Köpenicker Straße (wie Bus 190)
+* S-Bhf. Köpenick: Seelenbinderstraße (Haltestelle "Mandrellaplatz", wie Bus 169)
+* S-Bhf. Hirschgarten: Fürstenwalder Damm (Haltestelle "Westendsiedlung", wie Bus N65)
+* S-Bhf. Friedrichshagen: Bölschestraße (wie Tram 60, 61)
+
+Bitte nutzen Sie zur Umfahrung zwischen Karlshorst und Friedrichshagen auch die Straßenbahnlinien M17, 27, 60 und 61.
 
 Wir bitten um Verständnis.
 
