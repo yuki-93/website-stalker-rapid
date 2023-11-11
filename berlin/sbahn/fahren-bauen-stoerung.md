@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Notarzteinsatz an der Strecke in Hirschgarten ###
+
+ Letztes Update: 19:55 / 11.11.2023
+
+Information
+
+Wegen eines Notarzteinsatzes an der Strecke in Hirschgarten ist der Zugverkehr der S3 zwischen Wuhlheide und Friedrichshagen unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung zwischen Karlshorst und Friedrichshagen die Straßenbahnlinien M17, 60 und 61.
+
+Wir bitten um Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
