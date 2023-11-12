@@ -77,30 +77,6 @@ Information
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-Nur Wochenende
-
-### Wartenberg \<\> Nöldnerplatz \<\> Warschauer Straße ###
-
-10.11. (Fr), ca. 22 Uhr durchgehend bis 12.11. (So), ca. 23 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28185&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21317&tx_sbbconstructions_list%5Bperiod%5D=17379&type=5679&cHash=c742d3e8446edf86a74cb2cc11d04e8a)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Lichtenberg \<\> Ostkreuz S-Bahnverkehr nur im 2-/18-Minutentakt mit S5 und S7
-  * Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-lichtenberger-bruecken-demontage-ueberbau/#con-28185)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
  Nur Nachts
 
 ### Strausberg Nord / Ahrensfelde / Wartenberg \<\> Ostkreuz (\<\> Warschauer Straße) ###
