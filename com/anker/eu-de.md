@@ -75,11 +75,11 @@ Das Anker-Erlebnis entdecken
 
    ###
 
-  ### Bis zu 1.200€ Rabatt ###
+  ### Bis zu 1.500€ Rabatt ###
 
-  Bereit für Black Friday?
+  Hier sind sie, die Black Friday Rabatte
 
-  [Mehr erfahren Flash Sale ,Bis zu 1.200€ Rabatt](https://www.anker.com/eu-de/anker-solix/black-friday-pps?ref=productBanner4_3)
+  [Mehr erfahren Flash Sale ,Bis zu 1.500€ Rabatt](https://www.anker.com/eu-de/anker-solix/black-friday-pps?ref=productBanner4_3)
 
 * ### Anmelden und exklusive Benefits und 45% Rabatt sichern  ###
 

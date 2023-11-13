@@ -8,17 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Wuhlheide ###
 
- Letztes Update: 10:08 / 13.11.2023
+ Letztes Update: 10:57 / 13.11.2023
 
 Information
 
 Wegen der Reparatur an der Strecke im Bereich Wuhlheide ist die Linie S3 zwischen Köpenick und Wuhlheide unterbrochen.
 
-Fahrgäste nutzen bitte die Züge der Linie RE1
+Ein Ersatzverkehr mit Bussen ist zwischen Karlshorst und Köpenick eingerichtet.
+
+Haltestellen des Ersatzverkehrs:
+
+* S-Köpenick: Elcknerplatz, vor Bahnhof
+* S-Wuhlheide; Köpenicker Str. (Haltestelle Bus 190)
+* S-Karlshorst; Treskowallee (Haltestelle Tram M17, 27, 37
 
 Wir bitten um Entschuldigung
 
- fährt nicht  Verbindung unterbrochen
+ Ersatzverkehr  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
