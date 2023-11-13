@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Ostkreuz ###
+
+ Letztes Update: 19:06 / 13.11.2023
+
+Information
+
+Wegen eines Polizeieinsatzes in Ostkreuz ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Fankfurter Allee und Treptower Park unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  keine Verbindung
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Ostbahnhof ###
+
+ Letztes Update: 18:57 / 13.11.2023
+
+Information
+
+Nach einem Polizeieinsatz in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Ausfällen und Verspätungen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
