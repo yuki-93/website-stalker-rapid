@@ -6,13 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz in Ostkreuz ###
+### Polizeieinsatz in Ostkreuz beendet ###
 
- Letztes Update: 19:06 / 13.11.2023
+ Letztes Update: 19:39 / 13.11.2023
 
 Information
 
-Wegen eines Polizeieinsatzes in Ostkreuz ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Fankfurter Allee und Treptower Park unterbrochen.
+Nach einem Polizeieinsatz in Ostkreuz kommt es auf den Linien S41, S42, S8 und S85 noch zu Ausfällen und Verspätungen.
+
+**Linie S85** kommt nicht mehr zum Einsatz
 
 Wir bitten um Verständnis.
 
