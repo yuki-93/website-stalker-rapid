@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an der Strecke in Wildau ###
+
+ Letztes Update: 12:13 / 13.11.2023
+
+Information
+
+Wegen der Reparatur an der Strecke in Wildau kommt es auf der Linie S46 zu Verspätungen und Ausfällen.
+
+**In Zeuthen ist in beiden Fahrtrichtungen ein Umsteigen mit Bahnsteigseitenwechsel erforderlich.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### Reparatur an der Strecke im Bereich Wuhlheide ###
