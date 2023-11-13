@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an der Strecke in Wildau ###
-
- Letztes Update: 13:55 / 13.11.2023
-
-Information
-
-Wegen der Reparatur an der Strecke in Wildau kommt es auf der Linie S46 zu Verspätungen und Ausfällen.
-
-**In Zeuthen ist in beiden Fahrtrichtungen ein Umsteigen mit Bahnsteigseitenwechsel erforderlich.**
-
-**Linie S8** verkehrt Birkenwerder\<\>Grünau
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
