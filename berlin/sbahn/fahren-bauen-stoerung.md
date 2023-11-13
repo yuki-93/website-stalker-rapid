@@ -6,33 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz in Ostkreuz beendet ###
+### Polizeieinsätze in Ostkreuz und Westhafen beendet ###
 
- Letztes Update: 19:39 / 13.11.2023
-
-Information
-
-Nach einem Polizeieinsatz in Ostkreuz kommt es auf den Linien S41, S42, S8 und S85 noch zu Ausfällen und Verspätungen.
-
-**Linie S85** kommt nicht mehr zum Einsatz
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Ostbahnhof ###
-
- Letztes Update: 18:57 / 13.11.2023
+ Letztes Update: 21:10 / 13.11.2023
 
 Information
 
-Nach einem Polizeieinsatz in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Ausfällen und Verspätungen.
+Nach Polizeieinsätzen in Ostkreuz und Westhafen kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
 
-Wir bitten um Verständnis.
+Die **Linie S85** verkehrt nicht.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
