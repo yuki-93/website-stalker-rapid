@@ -58,25 +58,6 @@ Information
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
-Nur Wochenende
-
-### Königs Wusterhausen \<\> Grünau ###
-
-10.11. (Fr), ca. 22 Uhr durchgehend bis 13.11. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28110&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21248&tx_sbbconstructions_list%5Bperiod%5D=17321&type=5679&cHash=012ca8f353ebff0e25db7f823c4db8b4)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen zwischen Königs Wusterhausen und Grünau
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-8/#con-28110)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
 ### Königs Wusterhausen \<\> Wildau ###
 
 13.11. (Mo), ca. 4 Uhr durchgehend bis 17.11. (Fr), ca. 1.30 Uhr
@@ -144,31 +125,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-10/#con-28112)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Strausberg Nord / Ahrensfelde / Wartenberg \<\> Ostkreuz (\<\> Warschauer Straße) ###
-
-Nacht 12./13.11. (So/Mo), ca. 23 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21318&tx_sbbconstructions_list%5Bperiod%5D=17380&type=5679&cHash=39e1b95d907ec45d2567ef5929e58886)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S5: Strausberg Nord \<\> Ostkreuz
-  * Bus S7: Ahrensfelde \<\> Ostkreuz
-  * Bus S75: Wartenberg \<\> Ostkreuz
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/softwarewechsel-bei-der-db-netz-ag/#con-28186)
 
 Hinweis
 
