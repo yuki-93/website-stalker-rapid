@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke im Bereich Wuhlheide ###
-
- Letztes Update: 14:36 / 13.11.2023
-
-Information
-
-Nach einer Reparatur an der Strecke im Bereich Wuhlheide nommt es auf der Linie S3 noch zu Ausfällen und Verspätungen.
-
-Wir bitten um Entschuldigung
-
- Ersatzverkehr  Verbindung unregelmäßig
-
 [S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an der Strecke in Wildau ###
