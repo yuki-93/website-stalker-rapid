@@ -6,7 +6,7 @@ Black Friday für Frühbucher. Ab 2 Artikeln 25% Rabatt im gesamten Shop
 
 [Jetzt kaufen \>\>](https://www.anker.com/eu-de/black-friday-angebote?ref=topbanner)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| ⚡ Black Friday 72-Stunden Flash Sale. Jetzt sparen! ⚡](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Die Uhr tickt! Nicht mehr lange bis zu den Black Friday Deals](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=naviBar)
 
 Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Black Friday für Frühbucher](https://www.anker.com/eu-de/black-friday-angebote?ref=naviMenu)
 
