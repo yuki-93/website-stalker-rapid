@@ -6,31 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Ärztliche Versorgung eines Fahrgastes in Storkower Straße ###
+### Ärztliche Versorgung eines Fahrgastes in Storkower Straße beendet ###
 
- Letztes Update: 07:59 / 14.11.2023
-
-Information
-
-Wegen der ärztlichen Versorgung eines Fahrgastes in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Zug in Jannowitzbrücke ###
-
- Letztes Update: 07:30 / 14.11.2023
+ Letztes Update: 08:25 / 14.11.2023
 
 Information
 
-Wegen der Reparatur am Zug in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung verspätet
 
 [S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -1301,6 +1287,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhanben-dresner-bahn/#con-28407)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Südkreuz, Yorckstraße/Großgörschenstraße \<\> Gesundbrunnen ###
+
+05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28432&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17499&type=5679&cHash=24ecbf69d55ad7bd136e250cc1ce4235)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+   Linie S1A: Südkreuz \<\> Friedrichstraße
+   Linie S1B: Friedrichstraße \<\> Gesundbrunnen
+* Fahrplanänderung
+* Taktänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28432)
 
 ### Fahrplanänderungen ###
 
