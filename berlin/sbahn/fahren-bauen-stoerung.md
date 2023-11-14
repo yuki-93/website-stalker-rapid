@@ -6,21 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Kurzfristige Bauarbeiten in Treptower Park ###
+### kurzfristige Bauarbeiten Treptower Park ###
 
- Letztes Update: 17:42 / 14.11.2023
+ Letztes Update: 21:13 / 14.11.2023
 
 Information
 
-Sehr geehrte Fahrgäste,
+Wegen kurzfristiger Bauarbeiten in Treptower Park kommt es **heute** **Abend ab ca. 22:00 Uhr bis morgen früh ca. 01:30 Uhr** auf den Linien S41, S42, S8 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-wegen kurzfristigen Bauarbeiten in Treptower Park kommt heute ab ca. 22:00 Uhr zu Veränderungen im Zugverkehr.
+* **Linie S41**: verkehrt in **Ostkreuz abweichend von Gleis 12** (*wie S42*) sowie in **Treptower Park abweichend von Gleis 4***(Bahnsteig Richtung Ostkreuz/ Warschauer Straße)*
+* **Linie S8** fährt**:** Blankenburg \<\> Greifswalder Straße ***sowie*** Schöneweide \<\> Grünau, *bitte nutzen Sie zwischen Greifswalder Straße und Treptower Park die Linien S41 und S42 **sowie** zwischen Treptower Park und Schöneweide die Linie S9*
+* **Linie S9****:** die Züge nach Flughafen BER Terminal 1-2 verkehren **in Treptower Park abweichend von Gleis 4** (*Bahnsteig Richtung Ostkreuz/ Warschauer Straße*)
 
-Die Linie S 41 verkehrt in Ostkreuz abweichend von Gleis 12 und in Treptower Park abweichend von Gleis 2.
-
-Die Linie S 8 verkehrt zwischen Blankenburg und Greifswalder Straße sowie zwischen Grünau und Schöneweide.Die letzte durchgehende Zugfahrt von Grünau beginnt um 21:29 Uhr, Ankunft ist in Blankenburg um 22:12 Uhr. Von Blankenburg beginnt die letzte durchgehende Fahrt um 21:25 Uhr, Ankunft in Grünau ist um 22:07 Uhr.
-
-Die Züge der Linie S 9 in **Richtung Flughafen BER** fahren in Treptower Park abweichend vom Gleis 4.
+**Bitte beachten Sie, dass diese Bauarbeiten aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind.**
 
 Wir bitten um Entschuldigung.
 
