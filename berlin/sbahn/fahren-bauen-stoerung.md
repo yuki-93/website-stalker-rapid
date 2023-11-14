@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten Treptower Park ###
 
- Letztes Update: 21:13 / 14.11.2023
+ Letztes Update: 21:59 / 14.11.2023
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Treptower Park kommt es **heute** **Abend ab ca. 22:00 Uhr bis morgen früh ca. 01:30 Uhr** auf den Linien S41, S42, S8 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen kurzfristiger Bauarbeiten in Treptower Park kommt es **bis morgen früh ca. 01:30 Uhr** auf den Linien S41, S42, S8 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **Linie S41**: verkehrt in **Ostkreuz abweichend von Gleis 12** (*wie S42*) sowie in **Treptower Park abweichend von Gleis 4***(Bahnsteig Richtung Ostkreuz/ Warschauer Straße)*
-* **Linie S8** fährt**:** Blankenburg \<\> Greifswalder Straße ***sowie*** Schöneweide \<\> Grünau, *bitte nutzen Sie zwischen Greifswalder Straße und Treptower Park die Linien S41 und S42 **sowie** zwischen Treptower Park und Schöneweide die Linie S9*
-* **Linie S9****:** die Züge nach Flughafen BER Terminal 1-2 verkehren **in Treptower Park abweichend von Gleis 4** (*Bahnsteig Richtung Ostkreuz/ Warschauer Straße*)
+* **Linie S41**: verkehrt in **Ostkreuz abweichend von Gleis 12** (*wie S42*) sowie in **Treptower Park abweichend von Gleis 4***(Bahnsteig Richtung Ostkreuz/ Warschauer Straße).*
+* **Linie S8** fährt**:** Blankenburg \<\> Greifswalder Straße ***sowie*** Schöneweide \<\> Grünau, *bitte nutzen Sie zwischen Greifswalder Straße und Treptower Park die Linien S41 und S42 **sowie** zwischen Treptower Park und Schöneweide die Linie S9.*
+* **Linie S9****:** die Züge nach Flughafen BER Terminal 1-2 verkehren **in Treptower Park abweichend von Gleis 4** (*Bahnsteig Richtung Ostkreuz/ Warschauer Straße*).
 
 **Bitte beachten Sie, dass diese Bauarbeiten aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind.**
 
