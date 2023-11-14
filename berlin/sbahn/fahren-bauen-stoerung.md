@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Kurzfristige Bauarbeiten in Treptower Park ###
 
- Letztes Update: 17:01 / 14.11.2023
+ Letztes Update: 17:42 / 14.11.2023
 
 Information
 
