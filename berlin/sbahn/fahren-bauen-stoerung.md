@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Ärztliche Versorgung eines Fahrgastes in Storkower Straße ###
+
+ Letztes Update: 07:59 / 14.11.2023
+
+Information
+
+Wegen der ärztlichen Versorgung eines Fahrgastes in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur am Zug in Jannowitzbrücke ###
+
+ Letztes Update: 07:30 / 14.11.2023
+
+Information
+
+Wegen der Reparatur am Zug in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 [S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal Storkower Straße ###
