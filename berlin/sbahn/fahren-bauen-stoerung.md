@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Ärztliche Versorgung eines Fahrgastes in Storkower Straße beendet ###
 
- Letztes Update: 08:25 / 14.11.2023
+ Letztes Update: 09:54 / 14.11.2023
 
 Information
 
 Nach der ärztlichen Versorgung eines Fahrgastes in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+* Linien S41 und S42 verkehren im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
