@@ -2,40 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Ärztliche Versorgung eines Fahrgastes in Storkower Straße beendet ###
-
- Letztes Update: 09:54 / 14.11.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
-
-* Linien S41 und S42 verkehren im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal Storkower Straße ###
-
- Letztes Update: 06:11 / 14.11.2023
-
-Information
-
-Wegen der Reparatur an einem Signal Storkower Straße kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
-
-* Linie S85 verkehrt Schöneweide \<\> Grünau
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
