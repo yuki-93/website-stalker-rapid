@@ -1315,8 +1315,9 @@ Information
 Information
 
 * Ersatzverkehr mit Bussen
-   Linie S1A: Südkreuz \<\> Friedrichstraße
-   Linie S1B: Friedrichstraße \<\> Gesundbrunnen
+  * Linie S1A: Südkreuz \<\> Friedrichstraße
+  * Linie S1B: Friedrichstraße \<\> Gesundbrunnen
+
 * Fahrplanänderung
 * Taktänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
