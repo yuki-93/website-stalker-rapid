@@ -1297,7 +1297,7 @@ Nur Wochenende
 Information
 
 * Ersatzverkehr mit Bussen
-* Gleisänderung in Priesterweg
+* Bahnsteigänderung in Priesterweg
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhanben-dresner-bahn/#con-28407)
