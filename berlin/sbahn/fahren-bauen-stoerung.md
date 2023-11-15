@@ -2,28 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Bauarbeiten Treptower Park ###
-
- Letztes Update: 23:32 / 14.11.2023
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Treptower Park kommt es **bis morgen früh ca. 01:30 Uhr** auf den Linien S41, S42, S8 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* **S41**: verkehrt in **Ostkreuz abweichend von Gleis 12** (*wie S42*) sowie in **Treptower Park abweichend von Gleis 4***(Bahnsteig Richtung Ostkreuz/ Warschauer Straße).*
-* **S8** fährt**:** Blankenburg \<\> Greifswalder Straße ***sowie*** Schöneweide \<\> Grünau, *bitte nutzen Sie zwischen Greifswalder Straße und Treptower Park die Linien S41 und S42 **sowie** zwischen Treptower Park und Schöneweide die Linie S9.*
-* **S9****:** die Züge nach Flughafen BER Terminal 1-2 verkehren **in Treptower Park abweichend von Gleis 4** (*Bahnsteig Richtung Ostkreuz/ Warschauer Straße*).
-
-**Bitte beachten Sie, dass diese Bauarbeiten aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten sind.**
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
