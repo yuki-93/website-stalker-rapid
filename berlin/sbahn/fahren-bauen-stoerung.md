@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Warnstreik der Gewerkschaft GDL ###
 
- Letztes Update: 22:09 / 15.11.2023
+ Letztes Update: 22:44 / 15.11.2023
 
 Information
 
@@ -33,7 +33,7 @@ Ein Ersatzverkehr mit Bussen kann während dieser Zeit nicht eingerichtet werden
 
 Bitte nutzen Sie für Fahrten innerhalb Berlins die Verkehrsmittel der BVG (U-Bahn, Bus und Tram).
 
-Beachten Sie bitte, dass der Regional- und Fernverkehr der Deutschen Bahn ebenfalls von diesem Warnstreik betroffen ist.
+Beachten Sie bitte, dass der Regional- und Fernverkehr der Deutschen Bahn ebenfalls von diesem Warnstreik betroffen ist. Weitere Informationen erhalten Sie unter: <https://www.bahn.de/service/fahrplaene/aktuell>
 
 ---
 
