@@ -4,23 +4,46 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an der Strecke zwischen Köpenick und Wuhlheide ###
+### Warnstreik der Gewerkschaft GDL ###
 
- Letztes Update: 20:04 / 15.11.2023
+ Letztes Update: 22:09 / 15.11.2023
 
 Information
 
-Wegen einer Reparatur an der Strecke ist der Zugverkehr zwischen Köpenick und Wuhlheide eingestellt.
+Wegen eines Warnstreiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **bis einschließlich Donnerstag, den 16.11.2023 ca. 18:00 Uhr**, zu Ausfällen im gesamten S-Bahn-Netz.
 
-Die Linie S3 verkehrt Erkner \<\> Köpenick, sowie Wuhlheide \<\> Spandau/Ostbahnhof.
+Mit Streikbeginn ab 22:00 Uhr ist damit zu rechnen, dass nur noch einzelne Züge fahren werden.
 
-Bitte benutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+---
+
+Für **Donnerstag, den 16.11.2023**, strebt die S-Bahn Berlin zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt einen **Notfahrplan im 20-Minuten-Takt** auf den folgenden Linien an:
+
+* **S3**: Erkner \<\> Ostbahnhof
+* **S46**: Wildau \<\> Schöneberg, *aufgrund von planmäßigen Bauarbeiten besteht zwischen Wildau und Königs Wusterhausen noch bis Freitag, den 17.11.2023 ca. 01.30 Uhr, ein Ersatzverkehr mit Bussen.*
+* **S5**: Strausberg Nord \<\> Charlottenburg
+* **S9**: Flughafen BER Terminal 1-2 \<\> *Treptower Park \<\> Ostkreuz \<\> Frankfurter Allee \<\> Schönhauser Allee* \<\> Gesundbrunnen­
+
+**Auch der angestrebte Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
+
+---
+
+Ein Ersatzverkehr mit Bussen kann während dieser Zeit nicht eingerichtet werden.
+
+Bitte nutzen Sie für Fahrten innerhalb Berlins die Verkehrsmittel der BVG (U-Bahn, Bus und Tram).
+
+Beachten Sie bitte, dass der Regional- und Fernverkehr der Deutschen Bahn ebenfalls von diesem Warnstreik betroffen ist.
+
+---
+
+**Wir bitten alle Fahrgäste, sich vor Fahrtantritt in unseren Auskunftsmedien zu informieren.**
+
+**Diese Fahrzeiten sind in unserer Fahrplanauskunft und App bis zu 23 Stunden im Voraus enthalten! Für einen aktuellen Stand Ihrer Verbindung prüfen Sie diese bitte kurzfristig noch einmal.**
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  sonstige Einschränkungen
+ fährt nicht
 
 ### Baumaßnahmen ###
 
