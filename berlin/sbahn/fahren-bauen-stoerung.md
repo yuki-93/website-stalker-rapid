@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Strecke zwischen Köpenick und Wuhlheide ###
+
+ Letztes Update: 20:04 / 15.11.2023
+
+Information
+
+Wegen einer Reparatur an der Strecke ist der Zugverkehr zwischen Köpenick und Wuhlheide eingestellt.
+
+Die Linie S3 verkehrt Erkner \<\> Köpenick, sowie Wuhlheide \<\> Spandau/Ostbahnhof.
+
+Bitte benutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
