@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Warnstreik der Gewerkschaft GDL ###
+### GDL-Streik ###
 
- Letztes Update: 07:37 / 16.11.2023
+ Letztes Update: 08:42 / 16.11.2023
 
 Information
 
-Wegen eines Warnstreiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **heute bis 18:00 Uhr** zu Ausfällen im gesamten S-Bahn-Netz.
+Wegen eines Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **heute bis 18:00 Uhr** zu Ausfällen im gesamten S-Bahn-Netz.
 
 Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **auf den folgenden Linien** angeboten:
 
