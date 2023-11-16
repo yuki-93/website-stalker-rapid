@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Strecke im Bereich Köpenick ###
+
+ Letztes Update: 07:23 / 16.11.2023
+
+Information
+
+Wegen einer Reparatur an der Strecke im Bereich Köpenick ist der **Zugverkehr der Linie S3 zwischen Köpenick und Wuhlheide** unterbrochen.
+
+* Die Linie **S3 fährt**: Erkner \<\> Köpenick ***sowie*** Wuhlheide \<\> Ostbahnhof (*beachten Sie bitte den Notfahrplan wegen des Warnstreiks der GDL!*)
+
+Zur weiträumigen Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Warnstreik der Gewerkschaft GDL ###
@@ -40,32 +58,6 @@ Beachten Sie bitte, dass der Regional- und Fernverkehr der Deutschen Bahn ebenfa
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke im Bereich Köpenick ###
-
- Letztes Update: 02:52 / 16.11.2023
-
-Information
-
-Wegen einer Reparatur an der Strecke im Bereich Köpenick ist der **Zugverkehr der Linie S3 zwischen Köpenick und Wuhlheide** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
-
-* Die Linie **S3 fährt**: Erkner \<\> Köpenick ***sowie*** Wuhlheide \<\> Ostbahnhof (*beachten Sie bitte den Notfahrplan wegen des Warnstreiks der GDL!*)
-
-**Ein Ersatzverkehr mit einem Bus ist zwischen Köpenick und Karlshorst eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Köpenick: Elcknerplatz (keine Haltestelle)
-* S-Bhf. Wuhlheide: Köpenicker Str. (wie Bus 190)
-* S-Bhf. Karlshorst: Treskowallee (wie Tram M17, 27, 37)
-
-Zur weiträumigen Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
