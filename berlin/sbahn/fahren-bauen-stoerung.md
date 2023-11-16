@@ -8,11 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### GDL-Streik ###
 
- Letztes Update: 18:11 / 16.11.2023
+ Letztes Update: 19:00 / 16.11.2023
 
 Information
 
 Nach einem Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **auf allen Linien noch zu Verspätungen** und Ausfällen im gesamten S-Bahn-Netz.
+
+Es wird auf allen Linien ein 20-Minuten sukzessiv eingerichtet.
+
+* Linie S3 verkehrt Erkner \<\> Ostbahnhof
+* Linie S5 verkehrt Strausberg Nord \<\> Charlottenburg
 
 Wir bitten um Entschuldigung.
 
