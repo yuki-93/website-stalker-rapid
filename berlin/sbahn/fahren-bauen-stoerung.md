@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### GDL-Streik ###
 
- Letztes Update: 19:00 / 16.11.2023
+ Letztes Update: 21:17 / 16.11.2023
 
 Information
 
@@ -16,8 +16,8 @@ Nach einem Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **a
 
 Es wird auf allen Linien ein 20-Minuten sukzessiv eingerichtet.
 
-* Linie S3 verkehrt Erkner \<\> Ostbahnhof
 * Linie S5 verkehrt Strausberg Nord \<\> Charlottenburg
+* Linie S3 verkehr Erkner \<\> Olympiastadion
 
 Wir bitten um Entschuldigung.
 
