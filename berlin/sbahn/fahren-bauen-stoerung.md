@@ -8,24 +8,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Warnstreik der Gewerkschaft GDL ###
 
- Letztes Update: 23:48 / 15.11.2023
+ Letztes Update: 01:32 / 16.11.2023
 
 Information
 
-Wegen eines Warnstreiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **bis einschließlich Donnerstag, den 16.11.2023 ca. 18:00 Uhr**, zu Ausfällen im gesamten S-Bahn-Netz.
+Wegen eines Warnstreiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **heute bis 18:00 Uhr** zu Ausfällen im gesamten S-Bahn-Netz.
 
-Mit Streikbeginn ab 22:00 Uhr ist damit zu rechnen, dass nur noch einzelne Züge fahren werden.
+Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **auf den folgenden Linien** angeboten:
 
----
-
-Für **Donnerstag, den 16.11.2023**, strebt die S-Bahn Berlin zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt einen **Notfahrplan im 20-Minuten-Takt** auf den folgenden Linien an:
-
-* **S3**: Erkner \<\> Ostbahnhof
-* **S46**: Wildau \<\> Schöneberg, *aufgrund von planmäßigen Bauarbeiten besteht zwischen Wildau und Königs Wusterhausen noch bis Freitag, den 17.11.2023 ca. 01.30 Uhr, ein Ersatzverkehr mit Bussen.*
+* **S3**: Erkner \<\> Köpenick ***sowie*** Wuhlheide \<\> Ostbahnhof
+* **S46**: Wildau \<\> Schöneberg, *beachten Sie die planmäßigen Bauarbeiten zwischen Königs Wusterhausen und Wildau bis Freitag, den 17.11.2023 ca. 01.30 Uhr.*
 * **S5**: Strausberg Nord \<\> Charlottenburg
 * **S9**: Flughafen BER Terminal 1-2 \<\> Gesundbrunnen­, *über Ostkreuz und Schönhauser Allee*
 
-**Auch der angestrebte Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
+**Der angestrebte Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
 
 ---
 
@@ -116,29 +112,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenarbeiten-8/#con-28109)
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Wartenberg / Mahlsdorf / Ahrensfelde \<\> Warschauer Straße ###
-
-Nacht 15./16.11. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28253&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21392&tx_sbbconstructions_list%5Bperiod%5D=17417&type=5679&cHash=3e800f6f53f9c49e2b9c527cdb5a2a2a)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Friedrichsfelde Ost \<\> Ostkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S5 und S7
-  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
-  *  Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-lichtenberg-7/#con-28253)
-
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
@@ -169,24 +142,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-10/#con-28112)
 
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \> Grunewald ###
-
-16.11. (Do) und 17.11. (Fr) jeweils 1:37 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19235&tx_sbbconstructions_list%5Bperiod%5D=17434&type=5679&cHash=5a28620e4b99776f849ae3d4cff2b7cd)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:37 Uhr in Friedrichstraße.
-* Der Zug fällt von Friedrichstraße bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
