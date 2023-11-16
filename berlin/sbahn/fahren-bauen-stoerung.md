@@ -8,58 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### GDL-Streik ###
 
- Letztes Update: 14:16 / 16.11.2023
+ Letztes Update: 18:11 / 16.11.2023
 
 Information
 
-Wegen eines Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **heute bis 18:00 Uhr** zu Ausfällen im gesamten S-Bahn-Netz.
-
-Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **auf den folgenden Linien** angeboten:
-
-* **S1**: Gesundbrunnen (Gleis 4) \<\> Oranienburg.
-* **S3**: Erkner \<\> Köpenick ***sowie*** Wuhlheide \<\> Ostbahnhof (*beachten Sie bitte die* *Reparatur an der Strecke im Bereich Köpenick*).
-* **S46**: Wildau \<\> Schöneberg, *beachten Sie die planmäßigen Bauarbeiten zwischen Königs Wusterhausen und Wildau bis Freitag, den 17.11.2023 ca. 01.30 Uhr.*
-* **S5**: Strausberg Nord \<\> Charlottenburg (Gleis 8).
-* **S7:** Potsdam Hauptbahnhof\<\> Charlottenburg (Gleis 7).
-* **S9**: Flughafen BER Terminal 1-2 \<\> Friedrichstaße.
-
-**Der angestrebte Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
-
----
-
-Ein Ersatzverkehr mit Bussen kann während dieser Zeit nicht eingerichtet werden.
-
-Bitte nutzen Sie für Fahrten innerhalb Berlins die Verkehrsmittel der BVG (U-Bahn, Bus und Tram).
-
-Beachten Sie bitte, dass der Regional- und Fernverkehr der Deutschen Bahn ebenfalls von diesem Streik betroffen ist. Weitere Informationen erhalten Sie unter: <https://www.bahn.de/service/fahrplaene/aktuell>
-
----
-
-**Wir bitten alle Fahrgäste, sich vor Fahrtantritt in unseren Auskunftsmedien zu informieren.**
-
-**Diese Fahrzeiten sind in unserer Fahrplanauskunft und App bis zu 23 Stunden im Voraus enthalten! Für einen aktuellen Stand Ihrer Verbindung prüfen Sie diese bitte kurzfristig noch einmal.**
+Nach einem Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **auf allen Linien noch zu Verspätungen** und Ausfällen im gesamten S-Bahn-Netz.
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke im Bereich Köpenick ###
-
- Letztes Update: 07:23 / 16.11.2023
-
-Information
-
-Wegen einer Reparatur an der Strecke im Bereich Köpenick ist der **Zugverkehr der Linie S3 zwischen Köpenick und Wuhlheide** unterbrochen.
-
-* Die Linie **S3 fährt**: Erkner \<\> Köpenick ***sowie*** Wuhlheide \<\> Ostbahnhof (*beachten Sie bitte den Notfahrplan wegen des Warnstreiks der GDL!*)
-
-Zur weiträumigen Umfahrung nutzen Sie bitte auch die Verkehrsmittel der BVG.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
