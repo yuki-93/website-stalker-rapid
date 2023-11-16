@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Warnstreik der Gewerkschaft GDL ###
 
- Letztes Update: 01:32 / 16.11.2023
+ Letztes Update: 02:55 / 16.11.2023
 
 Information
 
@@ -16,7 +16,7 @@ Wegen eines Warnstreiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt 
 
 Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **auf den folgenden Linien** angeboten:
 
-* **S3**: Erkner \<\> Köpenick ***sowie*** Wuhlheide \<\> Ostbahnhof
+* **S3**: Erkner \<\> Köpenick ***sowie*** Wuhlheide \<\> Ostbahnhof (*beachten Sie bitte die* *Reparatur an der Strecke im Bereich Köpenick*)
 * **S46**: Wildau \<\> Schöneberg, *beachten Sie die planmäßigen Bauarbeiten zwischen Königs Wusterhausen und Wildau bis Freitag, den 17.11.2023 ca. 01.30 Uhr.*
 * **S5**: Strausberg Nord \<\> Charlottenburg
 * **S9**: Flughafen BER Terminal 1-2 \<\> Gesundbrunnen­, *über Ostkreuz und Schönhauser Allee*
@@ -142,60 +142,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-10/#con-28112)
 
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Ostbahnhof ###
-
-16.11. (Do) und 17.11. (Fr) jeweils 3:02 Uhr bis 3:24 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17436&type=5679&cHash=00b319d34736b83e7b5f5310e6ddc27e)
-
- fährt nicht
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) beginnt erst um 3:24 Uhr in Ostbahnhof.
-* Der Zug fällt von Charlottenburg bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Ostbahnhof ###
-
-16.11. (Do) und 17.11. (Fr) jeweils 3:05 Uhr bis 3:09 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26783&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19878&tx_sbbconstructions_list%5Bperiod%5D=17435&type=5679&cHash=bf7f9087816d6d4e24b1e6e242b73384)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:09 Uhr in Ostbahnhof.
-* Der Zug fällt von Alexanderplatz bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Friedrichstraße ###
-
-16.11. (Do) und 17.11. (Fr) jeweils 3:12 Uhr bis 3:28 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&tx_sbbconstructions_list%5Bperiod%5D=17437&type=5679&cHash=9fed936ac75e7d49b80bde49b6c899d0)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:28 Uhr in Friedrichstraße.
-* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
