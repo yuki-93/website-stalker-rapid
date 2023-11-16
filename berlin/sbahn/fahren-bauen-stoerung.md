@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### GDL-Streik ###
 
- Letztes Update: 10:22 / 16.11.2023
+ Letztes Update: 12:23 / 16.11.2023
 
 Information
 
@@ -21,7 +21,7 @@ Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und 
 * **S46**: Wildau \<\> Schöneberg, *beachten Sie die planmäßigen Bauarbeiten zwischen Königs Wusterhausen und Wildau bis Freitag, den 17.11.2023 ca. 01.30 Uhr.*
 * **S5**: Strausberg Nord \<\> Charlottenburg (Gleis 8).
 * **S7:** Potsdam Hauptbahn \<\> Charlottenburg (Gleis 7).
-* **S9**: Flughafen BER Terminal 1-2 \<\> Gesundbrunnen (Gleis 3)­, *über Ostkreuz und Schönhauser Allee.*
+* **S9**: Flughafen BER Terminal 1-2 \<\> Friedrichstaße.
 
 **Der angestrebte Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
 
