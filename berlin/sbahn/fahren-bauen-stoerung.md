@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### GDL-Streik ###
 
- Letztes Update: 08:42 / 16.11.2023
+ Letztes Update: 10:07 / 16.11.2023
 
 Information
 
@@ -16,11 +16,12 @@ Wegen eines Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es *
 
 Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **auf den folgenden Linien** angeboten:
 
-* **S1**: Gesundbrunnen \<\> Oranienburg.
+* **S1**: Gesundbrunnen (Gleis 4) \<\> Oranienburg.
 * **S3**: Erkner \<\> Köpenick ***sowie*** Wuhlheide \<\> Ostbahnhof (*beachten Sie bitte die* *Reparatur an der Strecke im Bereich Köpenick*).
 * **S46**: Wildau \<\> Schöneberg, *beachten Sie die planmäßigen Bauarbeiten zwischen Königs Wusterhausen und Wildau bis Freitag, den 17.11.2023 ca. 01.30 Uhr.*
-* **S5**: Strausberg Nord \<\> Charlottenburg.
-* **S9**: Flughafen BER Terminal 1-2 \<\> Gesundbrunnen­, *über Ostkreuz und Schönhauser Allee.*
+* **S5**: Strausberg Nord \<\> Charlottenburg (Gleis 8).
+* **S7:** Potsdam Hauptbahn \<\> Charlottenburg (Gleis 7).
+* **S9**: Flughafen BER Terminal 1-2 \<\> Gesundbrunnen (Gleis 3)­, *über Ostkreuz und Schönhauser Allee.*
 
 **Der angestrebte Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
 
