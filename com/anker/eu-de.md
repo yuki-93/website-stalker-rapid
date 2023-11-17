@@ -2,13 +2,13 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e
 
 []()
 
-Black Friday für Frühbucher. Ab 2 Artikeln 25% Rabatt im gesamten Shop
+Der ultimative Black Friday Sale. Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
 [Jetzt kaufen \>\>](https://www.anker.com/eu-de/black-friday-angebote?ref=topbanner)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Die Uhr tickt! Nicht mehr lange bis zu den Black Friday Deals](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=naviBar)
 
-Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Black Friday für Frühbucher](https://www.anker.com/eu-de/black-friday-angebote?ref=naviMenu)
+Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Energiegeladen in den Black Friday](https://www.anker.com/eu-de/black-friday-angebote?ref=naviMenu)
 
 Schwestermarken & Hilfe
 
@@ -77,7 +77,7 @@ Das Anker-Erlebnis entdecken
 
   ### Bis zu 1.500€ Rabatt ###
 
-  Hier sind sie, die Black Friday Rabatte
+  Black Friday Genuss-Angebote
 
   [Mehr erfahren Flash Sale ,Bis zu 1.500€ Rabatt](https://www.anker.com/eu-de/anker-solix/black-friday-pps?ref=productBanner4_3)
 
