@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im gesamten S-Bahn-Netz ###
 
- Letztes Update: 19:58 / 17.11.2023
+ Letztes Update: 20:51 / 17.11.2023
 
 Information
 
@@ -19,7 +19,6 @@ Einzelne Linien verkehren wie folgt:
 * S1 Oranienburg \<\> Wannsee, sowie Frohnau \<\> Potsdamer Platz, die Taktverdichtenden Züge zwischen Potsdamer Platz und Zehlendorf verkehren nicht.
 * S2 Bernau \<\> Blankenfelde im 20-Minutentakt
 * S26 verkehrt nicht
-* S5 Strausberg Nord/Hoppegarten \<\> Lichtenberg
 * S47 Schöneweide \<\> Spindlersfeld
 * S45 Tempelhof \<\> Grünau
 
@@ -29,21 +28,13 @@ Wir bitten um Verständnis
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Notarzteinsatz auf der Strecke in Planterwald ###
+### Notarzteinsatz auf der Strecke in Planterwald beendet ###
 
- Letztes Update: 17:41 / 17.11.2023
+ Letztes Update: 20:45 / 17.11.2023
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Plänterwald ist der Zugverkehr der Linien S8, S85 und S9 zwischen Treptower Park und Baumschulenweg unterbrochen.
-
-Die Linien verkehren wie folgt:
-
-* S8 Birkenwerder \<\> Greifswalder Straße, sowie Schöneweide \<\> Grünau/Wildau
-* S85 verkehrt nicht
-* S9 Spandau \<\> Ostbahnhof, sowie Schöneweide \<\> Flughafen BER T1-2.
-
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+Nach einen Notarzteinsatz auf der Strecke in Plänterwald kommt es auf den Linie S8 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis
 
