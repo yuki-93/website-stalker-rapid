@@ -6,7 +6,7 @@ Der ultimative Black Friday Sale. Mehr shoppen, mehr sparen! Gratisgeschenke ab 
 
 [Jetzt kaufen \>\>](https://www.anker.com/eu-de/black-friday-angebote?ref=topbanner)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Die Uhr tickt! Nicht mehr lange bis zu den Black Friday Deals](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Starte energiegeladen in den Black Friday. Bis zu 700€ Rabatt](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=naviBar)
 
 Produkte[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Energiegeladen in den Black Friday](https://www.anker.com/eu-de/black-friday-angebote?ref=naviMenu)
 
@@ -22,13 +22,13 @@ Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
 [Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/black-friday-angebote?ref=masterBanner1)
 
-Bester Preis
+Deal des Jahres
 
-Bis zu 700€ Rabatt
+Bis zu -700€ am Black Friday
 
-Starte energiegeladen in den Black Friday
+Bestseller zum absoluten Tiefpreis
 
-Die ultimative Solarstromlösung für dein Zuhause
+17.-27. November | Limitiertes Angebot
 
 [Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=masterBanner2)
 
@@ -71,7 +71,7 @@ Das Anker-Erlebnis entdecken
 
 * ###
 
-   Flash Sale
+   Deal des Jahres
 
    ###
 
@@ -79,17 +79,11 @@ Das Anker-Erlebnis entdecken
 
   Black Friday Genuss-Angebote
 
-  [Mehr erfahren Flash Sale ,Bis zu 1.500€ Rabatt](https://www.anker.com/eu-de/anker-solix/black-friday-pps?ref=productBanner4_3)
-
-* ### Anmelden und exklusive Benefits und 45% Rabatt sichern  ###
-
-  Anker SOLIX F3800 Tragbare Powerstation
-
-  [Mehr erfahrenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner4_4)
+  [Mehr erfahren Deal des Jahres ,Bis zu 1.500€ Rabatt](https://www.anker.com/eu-de/anker-solix/black-friday-pps?ref=productBanner4_3)
 
 * ###
 
-   Flash Sale
+   Black Friday
 
    ###
 
@@ -97,9 +91,15 @@ Das Anker-Erlebnis entdecken
 
   ### Spare bis zu 700€ ###
 
-  Anker SOLIX Balkonkraftwerk | Black Friday
+  Anker SOLIX Balkonkraftwerk | Tiefpreis
 
-  [Mehr erfahren Flash Sale ,1080W Leistung,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner4_5)
+  [Mehr erfahren Black Friday ,1080W Leistung,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner4_4)
+
+* ### Anmelden und exklusive Benefits und 45% Rabatt sichern  ###
+
+  Anker SOLIX F3800 Tragbare Powerstation
+
+  [Mehr erfahrenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner4_5)
 
 * ### Anker GaNPrime  ###
 

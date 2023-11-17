@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einer Weiche in Königs Wusterhausen ###
-
- Letztes Update: 04:18 / 17.11.2023
-
-Information
-
-Wegen der Reparatur an einer Weiche in Königs Wusterhausen kommt es auf der Linie S46 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
