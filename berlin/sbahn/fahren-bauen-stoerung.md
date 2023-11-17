@@ -2,6 +2,32 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz im gesamten S-Bahn-Netz ###
+
+ Letztes Update: 14:17 / 17.11.2023
+
+Information
+
+Wegen eines Polizeieinsatzes aufgrund des Staatsbesuches des türkischen Präsidenten kommt es im gesamten S-Bahn-Netz auf allen Linien zu Ausfällen und Verspätungen.
+
+Einzelne Linien verkehren wie folgt:
+
+* S1 Oranienburg \<\> Wannsee, sowie Frohnau \<\> Potsdamer Platz, die zusätzlichen Verstärkerzüge zwischen Potsdamer Platz und Zehlendorf verkehren nicht.
+* S2 Bernau \<\> Blankenfelde im 20-Minutentakt
+* S26 verkehrt nicht
+* S5 Strausberg Nord/Hoppegarten \<\> Lichtenberg
+* S45 Grünau \<\> Tempelhof
+* S47 Schöneweide \<\> Spindlersfeld
+* S7 Ahrensfelde \<\> Potsdam, dabei von Ahrensfelde \<\> Warschauer Straße und Charlottenburg \<\> Potsdam nur im 10-Minuten -Takt
+
+Wir bitten um Verständnis
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
