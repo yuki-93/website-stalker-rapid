@@ -6,39 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz im gesamten S-Bahn-Netz ###
+### Polizeieinsätze im gesamten S-Bahn-Netz beendet ###
 
- Letztes Update: 20:51 / 17.11.2023
+ Letztes Update: 22:13 / 17.11.2023
 
 Information
 
-Wegen eines Polizeieinsatzes aufgrund des Staatsbesuches des türkischen Präsidenten kommt es im gesamten S-Bahn-Netz auf allen Linien zu Ausfällen und Verspätungen.
+Nach Polizeieinsätzen aufgrund des Staatsbesuches des türkischen Präsidenten kommt es im gesamten S-Bahn-Netz auf allen Linien noch zu Ausfällen und Verspätungen.
 
-Einzelne Linien verkehren wie folgt:
-
-* S1 Oranienburg \<\> Wannsee, sowie Frohnau \<\> Potsdamer Platz, die Taktverdichtenden Züge zwischen Potsdamer Platz und Zehlendorf verkehren nicht.
-* S2 Bernau \<\> Blankenfelde im 20-Minutentakt
-* S26 verkehrt nicht
-* S47 Schöneweide \<\> Spindlersfeld
-* S45 Tempelhof \<\> Grünau
-
-Wir bitten um Verständnis
+Wir bitten um Verständnis.
 
  sonstige Einschränkungen
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Notarzteinsatz auf der Strecke in Planterwald beendet ###
-
- Letztes Update: 20:45 / 17.11.2023
-
-Information
-
-Nach einen Notarzteinsatz auf der Strecke in Plänterwald kommt es auf den Linie S8 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis
-
- fährt nicht  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
