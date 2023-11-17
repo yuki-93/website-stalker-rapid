@@ -14,11 +14,11 @@ Schwestermarken & Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
-Black Friday für Frühbucher
+Black Friday Gratisgeschenke
 
-Ab 2 Artikeln 25% Rabatt im gesamten Shop
+Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
-6.-16. November
+17. November - 3. Dezember
 
 [Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/black-friday-angebote?ref=masterBanner1)
 
