@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an der Strecke zwischen Gesundbrunnen und Wedding ###
+
+ Letztes Update: 14:56 / 17.11.2023
+
+Information
+
+Wegen einer Reparatur an der Strecke zwischen Gesundbrunnen und Wedding ist der Zugverkehr der Linie S41/S42 derzeit unterbrochen.
+
+Linie S41 verkehrt Gesundbrunnen \> Ostkreuz \> Südkreuz \> Westkreuz \> Wedding und wird S42
+
+Linie S42 verkehrt Wedding \> Westkreuz \> Südkreuz \> Ostkreuz \> Gesundbrunnen und wird S41
+
+Wir bitten um Verständnis
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz im gesamten S-Bahn-Netz ###
