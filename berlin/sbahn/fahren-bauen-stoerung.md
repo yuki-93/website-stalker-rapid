@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur am Signal ###
-
- Letztes Update: 05:52 / 17.11.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Neukölln kommt es auf den Linien S41, S45, S46 und S47 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einer Weiche in Königs Wusterhausen ###
-
- Letztes Update: 04:18 / 17.11.2023
-
-Information
-
-Wegen der Reparatur an einer Weiche in Königs Wusterhausen kommt es auf der Linie S46 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
