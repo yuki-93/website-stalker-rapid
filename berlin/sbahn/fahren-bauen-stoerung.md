@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im gesamten S-Bahn-Netz ###
 
- Letztes Update: 19:06 / 17.11.2023
+ Letztes Update: 19:58 / 17.11.2023
 
 Information
 
@@ -21,7 +21,7 @@ Einzelne Linien verkehren wie folgt:
 * S26 verkehrt nicht
 * S5 Strausberg Nord/Hoppegarten \<\> Lichtenberg
 * S47 Schöneweide \<\> Spindlersfeld
-*
+* S45 Tempelhof \<\> Grünau
 
 Wir bitten um Verständnis
 
