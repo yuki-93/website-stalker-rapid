@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsätze im gesamten S-Bahn-Netz beendet ###
+### Kurzfristige Personalausfälle Linie S75 ###
 
- Letztes Update: 22:13 / 17.11.2023
+ Letztes Update: 01:38 / 18.11.2023
 
 Information
 
-Nach Polizeieinsätzen aufgrund des Staatsbesuches des türkischen Präsidenten kommt es im gesamten S-Bahn-Netz auf allen Linien noch zu Ausfällen und Verspätungen.
+Wegen kurzfristigen Personalausfällen verkehrt die Linie S75 nur zwischen Wartenberg \<\> Springpfuhl.
 
-Wir bitten um Verständnis.
+Bitte benutzen Sie zwischen Springpfuhl \<\> Warschauer Straße die Linie S7.
 
- sonstige Einschränkungen
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
