@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S75](https://sbahn.berlin/fahren/s75/)
+[S75](https://sbahn.berlin/fahren/s75/)
 
-### kurzfristige Personalausfälle, Linie S1 und S75 ###
+### kurzfristiger Personalausfall, Linie S75 ###
 
- Letztes Update: 05:15 / 18.11.2023
+ Letztes Update: 06:10 / 18.11.2023
 
 Information
 
-Wegen kurzfristigen Personalausfällen kommt es auf der Linie S1 zwischen Zehlendorf und Wannsee, sowie auf der Linie S75 zwischen Wartenberg und Warschauer Straße zu Ausfällen.
+Wegen kurzfristigen Personalausfällen kommt es auf der Linie S75 zwischen Wartenberg und Warschauer Straße zu einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
