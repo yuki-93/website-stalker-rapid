@@ -114,14 +114,6 @@ sites:
       - css_select: article .content
       - css_remove: img
       - html_markdownify
-
-  - url: https://www.shelly.cloud/de/products/shop#unfiltered
-    ignore_error: true
-    editors:
-      - css_select: .product-box__info
-      - css_remove: .product-box__excl-tax
-      - html_url_canonicalize
-      - html_markdownify
       
   - url: https://sbahn.berlin/fahren/bauen-stoerung/
     ignore_error: true
