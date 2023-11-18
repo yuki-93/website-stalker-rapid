@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
+[S1](https://sbahn.berlin/fahren/s1/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Kurzfristige Personalausfälle Linie S75 ###
+### Kurzfristige Personalausfälle Linie S1 und S75 ###
 
- Letztes Update: 01:38 / 18.11.2023
+ Letztes Update: 03:19 / 18.11.2023
 
 Information
 
-Wegen kurzfristigen Personalausfällen verkehrt die Linie S75 nur zwischen Wartenberg \<\> Springpfuhl.
-
-Bitte benutzen Sie zwischen Springpfuhl \<\> Warschauer Straße die Linie S7.
+Wegen kurzfristigen Personalausfällen kommt es auf der Linie S1 zwischen Zehlendorf \<\> Wannsee sowie auf der Linie S75 zu Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
