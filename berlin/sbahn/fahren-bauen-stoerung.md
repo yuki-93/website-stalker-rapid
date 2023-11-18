@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### kurzfristiger Personalausfall, Linie S75 ###
-
- Letztes Update: 06:10 / 18.11.2023
-
-Information
-
-Wegen kurzfristigen Personalausfällen kommt es auf der Linie S75 zwischen Wartenberg und Warschauer Straße zu einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
