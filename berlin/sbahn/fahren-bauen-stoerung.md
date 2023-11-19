@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz Wildau \<\> Königs Wusterhausen beendet ###
-
- Letztes Update: 05:06 / 19.11.2023
-
-Information
-
-Der Polizeieinsatz zwischen Wildau und Königs Wusterhausen ist beendet. Die Linei S46 fährt wieder nach heute gültigem Fahrplan.
-
-Gute Fahrt!
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
