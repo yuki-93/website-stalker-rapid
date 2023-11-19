@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
-### Polizeieinsatz Wildau-Königs Wusterhausen ###
+### Polizeieinsatz Wildau \<\> Königs Wusterhausen beendet ###
 
- Letztes Update: 04:13 / 19.11.2023
+ Letztes Update: 05:06 / 19.11.2023
 
 Information
 
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S46 zwischen Wildau und Königs Wusterhausen unterbrochen.
+Der Polizeieinsatz zwischen Wildau und Königs Wusterhausen ist beendet. Die Linei S46 fährt wieder nach heute gültigem Fahrplan.
 
-Wir bitten um Verständnis.
+Gute Fahrt!
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
