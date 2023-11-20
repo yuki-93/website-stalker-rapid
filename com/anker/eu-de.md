@@ -28,25 +28,25 @@ Bis zu -700€ am Black Friday
 
 Bestseller zum absoluten Tiefpreis
 
-07
+06
 
 :
 
 Tagen
 
-00
+23
 
 :
 
 Std.
 
-38
+41
 
 :
 
 Min.
 
-24
+02
 
 Sek.
 
