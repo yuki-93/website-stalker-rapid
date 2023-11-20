@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an einer Weiche in Treptower Park ###
-
- Letztes Update: 23:30 / 19.11.2023
-
-Information
-
-Wegen der Reparatur an einer Weiche in Treptower Park verkehrt die Linie S45 nur zwischen Flughafen Terminal 1,2 \<\> Schöneweide.
-
-Bitte benutzen Sie zwischen Schöneweide \<\> Treptower Park die Linien S8 und S9.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
