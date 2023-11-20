@@ -697,27 +697,6 @@ Information
 
  Nur Nachts
 
-### Gleisänderung in Westkreuz \> Flughafen BER – Terminal 1-2 ###
-
-24.11. (Fr), 3:12 Uhr bis 3:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28282&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21418&tx_sbbconstructions_list%5Bperiod%5D=17439&type=5679&cHash=8409a99c9e8cd7202307b2fc41176215)
-
- Zugverkehr verändert
-
-Information
-
-* Die Züge
-  * Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2, an 4:16 Uhr und
-  * Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2, an 4.36 Uhr
-  * verkehren in Westkreuz von Gleise 2 (Bahnsteig stadtauswärts)
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Schöneweide \> Grünau ###
 
 27.11. (Mo) und 28.11. (Mi) jeweils 1:33 Uhr bis 1:42 Uhr
