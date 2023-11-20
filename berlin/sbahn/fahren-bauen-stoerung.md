@@ -2,6 +2,28 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz Blankenburg ###
+
+ Letztes Update: 07:51 / 20.11.2023
+
+Information
+
+Wegen eines Polizeieinsatzes in Blankenburg ist der Zugverkehr der Linien S2 und S8 zwischen Pankow und Karow bzw. Schönfließ unterbrochen.
+
+Zugverkehr wie folgt:
+
+* Linie S2: verkehrt Blankenfelde \<\> Pankow sowie Karow \<\> Bernau (ein 10-Minuten-Takt besteht zwischen Lichtenrade und Nordbahnhof ).
+* Linie S8: verkehrt Wildau/ Grünau \<\> Pankow sowie Schönfließ \<\> Birkenwerder
+* Linie S85: verkehrt nicht.
+
+Wir bitten um Verständnis.
+
+ Pendelverkehr  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)

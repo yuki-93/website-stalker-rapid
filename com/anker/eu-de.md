@@ -34,19 +34,19 @@ Bestseller zum absoluten Tiefpreis
 
 Tagen
 
-16
+15
 
 :
 
 Std.
 
-33
+42
 
 :
 
 Min.
 
-50
+52
 
 Sek.
 
@@ -60,7 +60,7 @@ Anker SOLIX F2000 (PowerHouse 767) 2048Wh | 2300W
 
 Power für alles. Power für überall.
 
-[Mehr erfahrenmasterBanner3](https://www.anker.com/eu-de/products/a1780?ref=masterBanner3)
+[Jetzt 300 Rabatt sichernmasterBanner3](https://www.anker.com/eu-de/products/a1780?ref=masterBanner3)
 
 Anker Nano
 
