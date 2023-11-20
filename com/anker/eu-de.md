@@ -34,19 +34,19 @@ Bestseller zum absoluten Tiefpreis
 
 Tagen
 
-17
+16
 
 :
 
 Std.
 
-39
+33
 
 :
 
 Min.
 
-35
+50
 
 Sek.
 
@@ -54,16 +54,13 @@ Sek.
 
 [Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=masterBanner2)
 
-Anker SOLIX C1000
+Bester Preis
 
-Schnelle Power, immer und überall.
+Anker SOLIX F2000 (PowerHouse 767) 2048Wh | 2300W
 
-UltraFast Netzaufladung, 100% in 58 Minuten
-Langlebige LiFeP04-Akkus mit InfiniPower™ Technologie
+Power für alles. Power für überall.
 
-[Jetzt 300 Rabatt sichernmasterBanner3](https://www.anker.com/eu-de/products/a1761?ref=masterBanner3)
-
-Mehr erfahren
+[Mehr erfahrenmasterBanner3](https://www.anker.com/eu-de/products/a1780?ref=masterBanner3)
 
 Anker Nano
 
