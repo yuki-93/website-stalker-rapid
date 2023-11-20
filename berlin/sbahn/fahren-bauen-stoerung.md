@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### ärztliche Versorgung eines Fahrgastes in Tiergarten ###
+### ärztliche Versorgung eines Fahrgastes in Westkreuz (Ringbahn) ###
 
- Letztes Update: 16:15 / 20.11.2023
+ Letztes Update: 17:25 / 20.11.2023
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen un einzelnen Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Westkreuz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Tiergarten beendet ###
+
+ Letztes Update: 16:23 / 20.11.2023
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Tiergarten kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen un einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
