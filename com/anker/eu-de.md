@@ -28,6 +28,28 @@ Bis zu -700€ am Black Friday
 
 Bestseller zum absoluten Tiefpreis
 
+07
+
+:
+
+Tagen
+
+17
+
+:
+
+Std.
+
+39
+
+:
+
+Min.
+
+35
+
+Sek.
+
 17.-27. November | Limitiertes Angebot
 
 [Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=masterBanner2)
