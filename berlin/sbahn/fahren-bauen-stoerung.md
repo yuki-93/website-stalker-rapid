@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz Blankenburg beendet ###
+### ärztliche Versorgung eines Fahrgastes in Tiergarten und Bellevue ###
 
- Letztes Update: 09:22 / 20.11.2023
+ Letztes Update: 13:10 / 20.11.2023
 
 Information
 
-Nach einem Polizeieinsatz in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Tiergarten und Bellevue kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
-* Linie S85: verkehrt nicht.
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
