@@ -4,18 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Wittenau ###
 
- Letztes Update: 19:13 / 21.11.2023
+ Letztes Update: 21:13 / 21.11.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Wittenau kommt es auf den Linien S1 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Wittenau kommt es auf den Linie S1 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Der 10-Minuten-Takt der Linie **S1** kann nur zwischen Wannsee und Gesundbrunnen angeboten werden.
-* Die Linie **S26** verkehrt nur zwischen Teltow Stadt und Nordbahnhof.
 
 Wir bitten um Entschuldigung.
 
