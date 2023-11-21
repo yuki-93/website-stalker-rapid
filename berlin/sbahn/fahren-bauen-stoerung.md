@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### ärztliche Versorgung eines Fahrgastes in Lichtenberg ###
+### Reparatur an einem Signal in Wittenau ###
 
- Letztes Update: 15:22 / 21.11.2023
+ Letztes Update: 16:05 / 21.11.2023
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Wittenau kommt es auf den Linien S1 und S26 zu Verspätungen und Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+* Die Linie S26 verkehrt nur zwischen Teltow Stadt und Nordbahnhof.
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
