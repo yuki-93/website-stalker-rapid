@@ -1151,7 +1151,7 @@ Information
 
 * Zugverkehr verändert
 * Taktänderung
-* Bahnsteigänderung in Charlottenburg und Westkreuz
+* Bahnsteigänderung in Charlottenburg, Westkreuz und Grunewald
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/inbetriebnahme-sicherungstechnik-nach-weichenerneuerung/#con-28466)
