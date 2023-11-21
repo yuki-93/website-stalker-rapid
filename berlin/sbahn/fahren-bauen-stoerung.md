@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Feuerwehreinsatz auf der Strecke im Bereich Olympiastadion ###
+
+ Letztes Update: 12:14 / 21.11.2023
+
+Information
+
+Wegen eines Feuerwehreinsatzes auf der Strecke im Bereich Olympiastadion kommt es auf den Linien S3 und S9 zu Verspätungen und Ausfällen.
+
+* die Linie S3 verkehrt Erkner \<\> Spandau (mit Umsteigen in Olympiastadion)
+* die Linie S9 verkehrt Flughafen BER Terminal 1-2 \<\> Charlottenburg
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
@@ -264,7 +283,7 @@ Nacht 21./22.11. (Di/Mi), ca. 0.25 Uhr - ca. 1.30 Uhr
 Information
 
 * Taktänderung:
-  * Bundesplatz \<\> Wedding S-Bahnverkehr nur im 20-Minutentakt mit Umsteigen in Halensee
+  * Bundesplatz \<\> Westend S-Bahnverkehr nur im 20-Minutentakt mit Umsteigen in Halensee
 
 * Zugverkehr verändert:
   * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um. Die Weiterfahrt erfolgt nach 15 Minuten (S41) bzw. nach 11 Minuten (S42) vom selben Gleis
