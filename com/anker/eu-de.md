@@ -34,19 +34,19 @@ Bestseller zum absoluten Tiefpreis
 
 Tagen
 
-13
+12
 
 :
 
 Std.
 
-40
+30
 
 :
 
 Min.
 
-39
+29
 
 Sek.
 
