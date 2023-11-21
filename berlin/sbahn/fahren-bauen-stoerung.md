@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Feuerwehreinsatz auf der Strecke im Bereich Olympiastadion ###
-
- Letztes Update: 12:14 / 21.11.2023
-
-Information
-
-Wegen eines Feuerwehreinsatzes auf der Strecke im Bereich Olympiastadion kommt es auf den Linien S3 und S9 zu Verspätungen und Ausfällen.
-
-* die Linie S3 verkehrt Erkner \<\> Spandau (mit Umsteigen in Olympiastadion)
-* die Linie S9 verkehrt Flughafen BER Terminal 1-2 \<\> Charlottenburg
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
@@ -85,7 +66,7 @@ Information
 
 ### Grunewald ###
 
-23.10. (Mo), ca. 4 Uhr durchgehend bis 18.12. (Mo), ca. 1.30 Uhr
+23.10. (Mo), ca. 4 Uhr durchgehend bis 17.12. (So), ca. 20 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21104&tx_sbbconstructions_list%5Bperiod%5D=17431&type=5679&cHash=85a522155f3dbb72eb1a078455fb6e5f)
 
@@ -187,7 +168,7 @@ Information
 
 ### Grunewald ###
 
-23.10. (Mo), ca. 4 Uhr durchgehend bis 18.12. (Mo), ca. 1.30 Uhr
+23.10. (Mo), ca. 4 Uhr durchgehend bis 17.12. (So), ca. 20 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21104&tx_sbbconstructions_list%5Bperiod%5D=17431&type=5679&cHash=85a522155f3dbb72eb1a078455fb6e5f)
 
@@ -338,7 +319,7 @@ Information
 
 ### Grunewald ###
 
-23.10. (Mo), ca. 4 Uhr durchgehend bis 18.12. (Mo), ca. 1.30 Uhr
+23.10. (Mo), ca. 4 Uhr durchgehend bis 17.12. (So), ca. 20 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21104&tx_sbbconstructions_list%5Bperiod%5D=17431&type=5679&cHash=85a522155f3dbb72eb1a078455fb6e5f)
 
@@ -1074,6 +1055,27 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/eisenbahnueberfuehrung-wiltbergstrasse/#con-28402)
 
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Nordbahnhof –) Bornholmer Straße – Birkenwerder (– Oranienburg) ###
+
+Nacht 12./13.12. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28465&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21622&tx_sbbconstructions_list%5Bperiod%5D=17506&type=5679&cHash=dedbdc76ef2800b6a986ef787fb9df96)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Fahrplanänderung
+* Bahnsteigänderung in Bornholmer Straße
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-wollankstrasse-2/#con-28465)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
  Nur Nachts
@@ -1132,6 +1134,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhanben-dresner-bahn/#con-28407)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Charlottenburg – Wannsee – Potsdam Hbf ###
+
+Nacht 17./18.12. (So/Mo) 20 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28466&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21623&tx_sbbconstructions_list%5Bperiod%5D=17507&type=5679&cHash=711b2d083e69a175722edfb96c4b2dad)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Taktänderung
+* Bahnsteigänderung in Charlottenburg und Westkreuz
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/inbetriebnahme-sicherungstechnik-nach-weichenerneuerung/#con-28466)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
