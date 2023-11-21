@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Wittenau ###
 
- Letztes Update: 21:13 / 21.11.2023
+ Letztes Update: 22:40 / 21.11.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Wittenau kommt es auf den Linie S1 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Der 10-Minuten-Takt der Linie **S1** kann nur zwischen Wannsee und Gesundbrunnen angeboten werden.
+Wegen der Reparatur an einem Signal in Wittenau kommt es auf den Linie S1 zu Verspätungen.
 
 Wir bitten um Entschuldigung.
 
