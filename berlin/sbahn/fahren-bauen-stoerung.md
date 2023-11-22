@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Störung am Fahrzeug Strausberg Nord ###
+
+ Letztes Update: 04:31 / 22.11.2023
+
+Information
+
+Wegen einer Störung am Fahrzeug in Strausberg Nord kommt es auf der Linie S5 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einem Signal in Wittenau ###
