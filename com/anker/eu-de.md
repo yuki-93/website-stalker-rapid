@@ -18,6 +18,28 @@ Black Friday Gratisgeschenke
 
 Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
+12
+
+:
+
+Days
+
+00
+
+:
+
+Hours
+
+34
+
+:
+
+Minutes
+
+10
+
+Seconds
+
 17. November - 3. Dezember
 
 [Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/black-friday-angebote?ref=masterBanner1)
@@ -34,19 +56,19 @@ Bestseller zum absoluten Tiefpreis
 
 Tagen
 
-17
+16
 
 :
 
 Std.
 
-38
+34
 
 :
 
 Min.
 
-35
+10
 
 Sek.
 

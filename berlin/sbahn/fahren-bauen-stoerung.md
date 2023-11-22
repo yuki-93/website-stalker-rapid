@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Pankow Heinersdorf ###
 
- Letztes Update: 06:04 / 22.11.2023
+ Letztes Update: 06:35 / 22.11.2023
 
 Information
 
@@ -16,7 +16,7 @@ Wegen der Reparatur an einem Signal in Pankow Heinersdorf kommt es auf den Lini
 
 Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Lichtenrade und Gesundbrunnen angeboten werden.
 
-* Linie S85 verkehrt nicht
+* Linie S85 verkehrt Grünau \<\> Treptower Park
 
 Wir bitten um Entschuldigung.
 
