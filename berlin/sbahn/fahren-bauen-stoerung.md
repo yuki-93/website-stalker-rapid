@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Pankow Heinersdorf ###
+### Reparatur an einem Signal in Pankow Heinersdorf behoben ###
 
- Letztes Update: 06:35 / 22.11.2023
+ Letztes Update: 08:58 / 22.11.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Pankow Heinersdorf kommt es auf den Linien S2, S8 und S85 zu Verspätungen und Ausfällen.
-
-Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Lichtenrade und Gesundbrunnen angeboten werden.
+Nach der Reparatur an einem Signal in Pankow Heinersdorf kommt es auf den Linien S2, S8 und S85 noch zu Verspätungen und Ausfällen.
 
 * Linie S85 verkehrt Grünau \<\> Treptower Park
 
@@ -1226,6 +1224,53 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-fussgaengerbruecke-adlergestell-einhub-ueberbau/#con-28437)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+Nur Wochenende
+
+### Friedrichsfelde Ost \<\> Wuhletal ###
+
+10.02. (Fr) 19:45 Uhr bis 12.02. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28474&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21635&tx_sbbconstructions_list%5Bperiod%5D=17511&type=5679&cHash=e433f020fbfd7247fd23a2381ac02962)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm/#con-28474)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Rahnsdorf \<\> Karlshorst ###
+
+16.02. (Fr) 21:45 Uhr bis 19.02. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28475&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21636&tx_sbbconstructions_list%5Bperiod%5D=17512&type=5679&cHash=fff7a2f1a54975627068eb4f7a4eba60)
+
+23.02. (Fr) 21:45 Uhr bis 26.02. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28475&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21636&tx_sbbconstructions_list%5Bperiod%5D=17513&type=5679&cHash=09cc7ff86d804de82c16aeea31b719ff)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28475&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21636&type=5679&cHash=22ae74c2cd14a344c0b0d7c7d5f708f9)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Rahnsdorf \<\> Karlshorst
+  * Friedrichshagen \<\> Karlshorst
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick/#con-28475)
 
 ### Fahrplanänderungen ###
 

@@ -22,23 +22,23 @@ Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
 :
 
-Days
+Tagen
 
-14
-
-:
-
-Hours
-
-42
+13
 
 :
 
-Minutes
+Stunden
 
-22
+34
 
-Seconds
+:
+
+Minuten
+
+46
+
+Sekunden
 
 17. November - 3. Dezember
 
@@ -56,19 +56,19 @@ Bestseller zum absoluten Tiefpreis
 
 Tagen
 
-15
+14
 
 :
 
 Std.
 
-42
+34
 
 :
 
 Min.
 
-22
+46
 
 Sek.
 
