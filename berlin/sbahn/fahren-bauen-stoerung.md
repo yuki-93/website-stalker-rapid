@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polizeieinsatz Karlshorst beendet ###
+
+ Letztes Update: 21:39 / 22.11.2023
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Karlshorst kann es auf der Linie S3 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur am Fahrzeug Hohenzollerndamm beendet ###
@@ -17,20 +31,6 @@ Nach einer Reparatur am Fahrzeug in Hohenzollerndamm kommt es auf den Linien S4
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Polizeieinsatz Karlshorst ###
-
- Letztes Update: 20:57 / 22.11.2023
-
-Information
-
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S3 zwischen Karlshorst und Rummelsburg unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
