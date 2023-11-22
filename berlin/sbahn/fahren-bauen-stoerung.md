@@ -2,46 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Wittenau ###
-
- Letztes Update: 22:40 / 21.11.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Wittenau kommt es auf den Linie S1 zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Attilastraße \<\> Südkreuz ###
-
-Nächte 20./21.11. (Mo/Di) und 21./22.11. (Di/Mi), jeweils ca. 22.20 Uhr - 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28112&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21250&tx_sbbconstructions_list%5Bperiod%5D=17324&type=5679&cHash=b45f767b9e835beffbae0c83687c5be2)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S2: Attilastraße und Südkreuz
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-10/#con-28112)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -141,52 +102,6 @@ Information
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bundesplatz-4/#con-28248)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Entfällt! Ahrensfelde \<\> Potsdam Hbf ###
-
-Nacht 21./22.11. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28255&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21393&tx_sbbconstructions_list%5Bperiod%5D=17419&type=5679&cHash=8a3af5773624f37ee7986f4d996be2fd)
-
- Zugverkehr verändert
-
-Information
-
-* **Diese Baumaßnahme entfällt!**
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-nikolassee-und-vegetationsarbeiten/#con-28255)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Bundesplatz \<\> Westkreuz \<\> Westend ###
-
-Nacht 21./22.11. (Di/Mi), ca. 0.25 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28326&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21471&tx_sbbconstructions_list%5Bperiod%5D=17442&type=5679&cHash=de1f54db6471437848994320cba3cab6)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Bundesplatz \<\> Westend S-Bahnverkehr nur im 20-Minutentakt mit Umsteigen in Halensee
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Halensee um. Die Weiterfahrt erfolgt nach 15 Minuten (S41) bzw. nach 11 Minuten (S42) vom selben Gleis
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-halensee-5/#con-28326)
 
 Hinweis
 
