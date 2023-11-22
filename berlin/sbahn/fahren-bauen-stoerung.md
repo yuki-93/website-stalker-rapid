@@ -4,15 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Störung am Fahrzeug Strausberg Nord ###
+### Reparatur an einem Signal in Pankow Heinersdorf ###
 
- Letztes Update: 04:31 / 22.11.2023
+ Letztes Update: 06:04 / 22.11.2023
 
 Information
 
-Wegen einer Störung am Fahrzeug in Strausberg Nord kommt es auf der Linie S5 zu Verspätungen und Zugausfällen.
+Wegen der Reparatur an einem Signal in Pankow Heinersdorf kommt es auf den Linien S2, S8 und S85 zu Verspätungen und Ausfällen.
+
+Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Lichtenrade und Gesundbrunnen angeboten werden.
+
+* Linie S85 verkehrt nicht
 
 Wir bitten um Entschuldigung.
 
@@ -1042,6 +1046,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-wollankstrasse-2/#con-28465)
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Nordbahnhof – Bornholmer Straße – Waidmannslust ###
+
+Nacht 13./14.12. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28470&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21631&tx_sbbconstructions_list%5Bperiod%5D=17508&type=5679&cHash=57505efbaaad5b4b611cbdd844634fbc)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bahnsteigänderung in Nordbahnhof, Gesundbrunnen und Bornholmer Straße
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-und-weichenarbeiten-in-gesundbrunnen/#con-28470)
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
  Nur Nachts
@@ -1121,6 +1145,46 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/inbetriebnahme-sicherungstechnik-nach-weichenerneuerung/#con-28466)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Nordbahnhof/Schönhauser Allee – Bornholmer Straße – Schönholz/Blankenburg (– Birkenwerder) ###
+
+Nacht 18./19.12. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28472&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21633&tx_sbbconstructions_list%5Bperiod%5D=17509&type=5679&cHash=800487b4d7d36cd0a4ac32b1c2c98469)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bahnsteigänderung in Nordbahnhof, Gesundbrunnen, Bornholmer Straße
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-gesundbrunnen/#con-28472)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Schlachtensee/Grunewald – Wannsee – Potsdam Hbf ###
+
+Nächte 20./21.12. (Mi/Do) und 21./22.12. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28473&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21634&tx_sbbconstructions_list%5Bperiod%5D=17510&type=5679&cHash=b4ac3b903c65548ad1e1b843e376a586)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung in Wannsee
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-und-stopfarbeiten-in-wannsee/#con-28473)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
