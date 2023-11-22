@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Wittenau ###
+
+ Letztes Update: 03:00 / 22.11.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Wittenau kommt es auf der Linie S1 zu Verspätungen.
+
+Die Linie S26 verkehrt nur zwischen Teltow Stadt und Nordbahnhof.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
