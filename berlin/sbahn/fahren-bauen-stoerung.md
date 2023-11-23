@@ -78,31 +78,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/beseitigung-eines-f1-fehlers-bei-der-fernbahn/#con-28325)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### (Tempelhof) Südkreuz \<\> Westend ###
-
-Nacht 22./23.11. (Mi/Do), ca. 22.10 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28248&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21387&tx_sbbconstructions_list%5Bperiod%5D=17414&type=5679&cHash=e065286a1747d9eebc7da9e809247422)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Bundesplatz um, die Weiterfahrt erfolgt nach 6 oder 16 Minuten (S41) bzw. nach 8 Minuten (S42) vom selben Gleis.
-
-* Fahrplanänderung
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-bundesplatz-4/#con-28248)
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
