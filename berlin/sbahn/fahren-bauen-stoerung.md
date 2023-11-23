@@ -18,20 +18,6 @@ Wir bitten um Verständnis.
 
  sonstige Einschränkungen
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Polizeieinsatz im Bereich Blankenfelde ###
-
- Letztes Update: 19:52 / 23.11.2023
-
-Information
-
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S2 zwischen Mahlow und Blankenfelde unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
