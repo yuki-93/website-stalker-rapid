@@ -8,17 +8,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz zwischen Bundesplatz und Halensee beendet ###
 
- Letztes Update: 18:17 / 23.11.2023
+ Letztes Update: 19:55 / 23.11.2023
 
 Information
 
-Nach einem Polizeieinsatz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
-
-* Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
+Nach einem Polizeieinsatz fahren die Linien S41 und S42 nur im 10-Minuten-Takt.
 
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Polizeieinsatz im Bereich Blankenfelde ###
+
+ Letztes Update: 19:52 / 23.11.2023
+
+Information
+
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S2 zwischen Mahlow und Blankenfelde unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
