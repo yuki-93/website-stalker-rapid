@@ -18,25 +18,25 @@ Black Friday Gratisgeschenke
 
 Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
-10
+09
 
 :
 
 Tagen
 
-00
+23
 
 :
 
 Stunden
 
-43
+39
 
 :
 
 Minuten
 
-50
+42
 
 Sekunden
 
@@ -56,19 +56,19 @@ Bestseller zum absoluten Tiefpreis
 
 Tagen
 
-01
+00
 
 :
 
 Std.
 
-43
+39
 
 :
 
 Min.
 
-50
+42
 
 Sek.
 
