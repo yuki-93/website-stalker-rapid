@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz zwischen Bundesplatz und Halensee ###
+
+ Letztes Update: 17:19 / 23.11.2023
+
+Information
+
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S41, S42 und S46 zwischen Bundesplatz und Halensee unterbrochen.
+
+Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
