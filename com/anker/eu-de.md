@@ -24,19 +24,19 @@ Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
 Tagen
 
-23
+22
 
 :
 
 Stunden
 
-39
+41
 
 :
 
 Minuten
 
-42
+34
 
 Sekunden
 
@@ -50,25 +50,25 @@ Bis zu -700€ am Black Friday
 
 Bestseller zum absoluten Tiefpreis
 
-04
+03
 
 :
 
 Tagen
 
-00
+23
 
 :
 
 Std.
 
-39
+41
 
 :
 
 Min.
 
-42
+34
 
 Sek.
 
