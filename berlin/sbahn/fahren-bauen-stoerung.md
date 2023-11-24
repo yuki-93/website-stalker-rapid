@@ -8,14 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Weichenstörung in Hermannstraße ###
 
- Letztes Update: 17:12 / 24.11.2023
+ Letztes Update: 17:29 / 24.11.2023
 
 Information
 
-Wegen einer Weichenstörung in Hermannstraße kommt es auf der **Linie S4**1 zu Verspätungen und vereinzelten Ausfällen.
+Wegen einer Weichenstörung in Hermannstraße kommt es auf der **Linie S41** zu Verspätungen.
 
-Die **Linie S47** verkehrt zwischen Spindlersfeld und Schöneweide.
-*Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
+* Die **Linie S41** fährt nur im 10-Minuten-Takt.
+* Die **Linie S47** verkehrt zwischen Spindlersfeld und Schöneweide.
+  *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
 
 Wir bitten um Entschuldigung.
 
