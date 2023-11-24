@@ -24,19 +24,19 @@ Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
 Tagen
 
-13
+12
 
 :
 
 Stunden
 
-36
+39
 
 :
 
 Minuten
 
-35
+56
 
 Sekunden
 
@@ -56,19 +56,19 @@ Bestseller zum absoluten Tiefpreis
 
 Tagen
 
-14
+13
 
 :
 
 Std.
 
-36
+39
 
 :
 
 Min.
 
-35
+56
 
 Sek.
 
@@ -97,6 +97,27 @@ Die Ladelösung für all deine Geräte gleichzeitig
 
 [Mehr erfahren](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homePageBanner)
 
+Power in jeder Situation
+----------
+
+Spaß ohne Ende. Power ohne Mühe.
+
+Tanke Energie für deine Reisen mit reisefreundlichem Ladezubehör
+
+[Mehr erfahren](https://www.anker.com/eu-de/collections/reisen?ref=homePageBanner)
+
+Power für die Arbeit
+
+Ladeleistung für den Schreibtisch war noch nie so einfach
+
+[Mehr erfahren](https://www.anker.com/eu-de/collections/buero?ref=homePageBanner)
+
+Unternehmens-programm
+
+Jetzt in großen Mengen bestellen und smartes Tech von Anker mit mächtigen Rabatten sichern.
+
+[Mehr erfahren](https://www.anker.com/eu-de/corporate-purchase?ref=homePageBanner)
+
 Die Anker-Essentials
 ----------
 
@@ -120,13 +141,13 @@ Entdecke Anker Innovations
 
   Entdecke USB-C Ladepower mit Anker
 
-  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner6_1)
+  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner7_1)
 
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner6_2)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner7_2)
 
 * ###
 
@@ -138,7 +159,7 @@ Entdecke Anker Innovations
 
   Black Friday Genuss-Angebote
 
-  [Mehr erfahren Deal des Jahres ,Bis zu 1.500€ Rabatt](https://www.anker.com/eu-de/anker-solix/black-friday-pps?ref=productBanner6_3)
+  [Mehr erfahren Deal des Jahres ,Bis zu 1.500€ Rabatt](https://www.anker.com/eu-de/anker-solix/black-friday-pps?ref=productBanner7_3)
 
 * ###
 
@@ -152,7 +173,7 @@ Entdecke Anker Innovations
 
   Anker SOLIX Balkonkraftwerk | Tiefpreis
 
-  [Mehr erfahren Black Friday ,1080W Leistung,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner6_4)
+  [Mehr erfahren Black Friday ,1080W Leistung,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
 
 Was macht Anker so besonders?
 ----------
