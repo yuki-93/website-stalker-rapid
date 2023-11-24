@@ -24,19 +24,19 @@ Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
 Tagen
 
-11
+10
 
 :
 
 Stunden
 
-36
+44
 
 :
 
 Minuten
 
-46
+48
 
 Sekunden
 
@@ -56,19 +56,19 @@ Bestseller zum absoluten Tiefpreis
 
 Tagen
 
-12
+11
 
 :
 
 Std.
 
-36
+44
 
 :
 
 Min.
 
-46
+48
 
 Sek.
 
