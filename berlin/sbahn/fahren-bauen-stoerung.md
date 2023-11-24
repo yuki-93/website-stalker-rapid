@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gegenstände auf der Strecke in Friedrichsfelde Ost ###
-
- Letztes Update: 06:10 / 24.11.2023
-
-Information
-
-Die Gegenständen auf der Strecke in Friedrichsfelde Ost sind beseitigt. Es kommt es auf den Linien S5, S7 und S75 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes ###
-
- Letztes Update: 06:09 / 24.11.2023
-
-Information
-
-Wegen der ärztlichen Versorgung eines Fahrgastes in Altglienicke kommt es auf den Linien S45 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
