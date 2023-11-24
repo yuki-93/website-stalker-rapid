@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Weichenstörung in Hermannstraße ###
 
- Letztes Update: 17:29 / 24.11.2023
+ Letztes Update: 18:20 / 24.11.2023
 
 Information
 
