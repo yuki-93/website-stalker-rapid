@@ -24,19 +24,19 @@ Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
 Tagen
 
-19
+18
 
 :
 
 Stunden
 
-31
+39
 
 :
 
 Minuten
 
-57
+52
 
 Sekunden
 
@@ -56,19 +56,19 @@ Bestseller zum absoluten Tiefpreis
 
 Tagen
 
-20
+19
 
 :
 
 Std.
 
-31
+39
 
 :
 
 Min.
 
-57
+52
 
 Sek.
 
@@ -94,21 +94,57 @@ Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
 [Apple-Zubehör entdecken \>\>](https://www.anker.com/eu-de/collections/apple-accessories)
 
-Das Anker-Erlebnis entdecken
+Entdecke innovative Ladelösungen
 ----------
 
-* ### Anker 3-in-1 Ladewürfel
-  mit MagSafe  ###
+* Entdecke hochqualitatives Ladezubehör für Apple-Geräte
 
-  Das perfekte Ladegerät für dein Apple-Ecosystem
+  Dein Tech-Upgrade mit Premium Apple-Zubehör
 
-  [Mehr erfahrenAnker 3-in-1 Ladewürfel mit MagSafe](https://www.anker.com/eu-de/products/y1811?ref=productBanner4_1)
+  [Mehr erfahren](https://www.anker.com/eu-de/collections/apple-accessories?ref=homePageBanner)
 
-* ### Exklusive Kollektion von Apple Zubehör ###
+Erlebe volle Power mit magnetischem Aufladen
 
-  Entdecken Sie erstklassiges Zubehör für Ihre Apple-Geräte.
+Die Anziehungskraft zum stressfreien Laden
 
-  [Mehr erfahren Exklusive Kollektion von Apple Zubehör](https://www.anker.com/eu-de/collections/apple-accessories?ref=productBanner4_2)
+[Mehr erfahren](https://www.anker.com/eu-de/collections/magnetic?ref=homePageBanner)
+
+Vielseitige Power mit Multi-Geräte-Ladeleistung
+
+Die Ladelösung für all deine Geräte gleichzeitig
+
+[Mehr erfahren](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homePageBanner)
+
+Die Anker-Essentials
+----------
+
+Neuerscheinungen
+
+Anker-Innovationen nach Kategorie filtern
+----------
+
+* [Ladegeräte](https://www.anker.com/eu-de/collections/wandladegerate?ref=homePageBanner)
+* [Powerbanks](https://www.anker.com/eu-de/collections/powerbanks?ref=homePageBanner)
+* [Kabellos](https://www.anker.com/eu-de/collections/kabelloses-zubehor?ref=homePageBanner)
+* [Kabel](https://www.anker.com/eu-de/collections/kabel?ref=homePageBanner)
+* [Hubs & Docks](https://www.anker.com/eu-de/collections/adapter-hubs?ref=homePageBanner)
+* [Balkonkraftwerk](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=homePageBanner)
+* [Ladestationen](https://www.anker.com/eu-de/ankerpower?ref=homePageBanner)
+
+Entdecke Anker Innovations
+----------
+
+* ### Starte durch mit USB-C ###
+
+  Entdecke USB-C Ladepower mit Anker
+
+  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner8_1)
+
+* ### Anker GaNPrime  ###
+
+  Unsere beste Multi-Geräte-Ladeserie
+
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner8_2)
 
 * ###
 
@@ -120,7 +156,7 @@ Das Anker-Erlebnis entdecken
 
   Black Friday Genuss-Angebote
 
-  [Mehr erfahren Deal des Jahres ,Bis zu 1.500€ Rabatt](https://www.anker.com/eu-de/anker-solix/black-friday-pps?ref=productBanner4_3)
+  [Mehr erfahren Deal des Jahres ,Bis zu 1.500€ Rabatt](https://www.anker.com/eu-de/anker-solix/black-friday-pps?ref=productBanner8_3)
 
 * ###
 
@@ -134,96 +170,26 @@ Das Anker-Erlebnis entdecken
 
   Anker SOLIX Balkonkraftwerk | Tiefpreis
 
-  [Mehr erfahren Black Friday ,1080W Leistung,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner4_4)
+  [Mehr erfahren Black Friday ,1080W Leistung,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner8_4)
 
-* ### Anmelden und exklusive Benefits und 45% Rabatt sichern  ###
-
-  Anker SOLIX F3800 Tragbare Powerstation
-
-  [Mehr erfahrenAnmelden und exklusive Benefits und 45% Rabatt sichern](https://www.anker.com/eu-de/anker-solix/a1790-pps?ref=productBanner4_5)
-
-* ### Anker GaNPrime  ###
-
-  Unsere beste Multi-Geräte-Ladeserie
-
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner4_6)
-
-* ### Anker Nano 3 ###
-
-  Das Tech für jedes iPhone
-
-  [Jetzt kaufenAnker Nano 3](https://www.anker.com/eu-de/nano3?ref=productBanner4_7)
-
-* ### Starte durch mit USB-C ###
-
-  Entdecke USB-C Ladepower mit Anker
-
-  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner4_8)
-
-Unentschlossen?
-
-Unsere Empfehlungen
+Was macht Anker so besonders?
 ----------
 
-Alle Kategorien entdecken
+Verlängerte Rückgabefrist für die Feiertage
 
-Das Zubehör für cleveres Laden
-----------
+Shoppe zwischen dem 1. November und 31. Dezember 2023 und genieße Rückgaberechte bis zum 31. Januar 2024.
 
-[Balkonkraftwerk](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=homePageBanner)[Ladestationen](https://www.anker.com/eu-de/ankerpower?ref=homePageBanner)[Ladegeräte](https://www.anker.com/eu-de/collections/wandladegerate?ref=homePageBanner)[Powerbanks](https://www.anker.com/eu-de/collections/powerbanks?ref=homePageBanner)[Ladekabel](https://www.anker.com/eu-de/collections/kabel?ref=homePageBanner)[Ladepads](https://www.anker.com/eu-de/collections/kabelloses-zubehor?ref=homePageBanner)[Hubs & Docks](https://www.anker.com/eu-de/collections/adapter-hubs?ref=homePageBanner)
+Schnelle, kostenlose Lieferung
 
-Du suchst mehr?
+Kostenloser Versand für alle Artikel. Geliefert in 3-7 Werktagen.
 
-Entdecke unsere Ladeserien!
-----------
+30-Tage-Bestpreisgarantie
 
-Serie 7
+Hast du innerhalb von 30 Tagen einen niedrigeren Preis auf unserer Website gefunden? Wir erstatten dir den Unterschied.
 
-Serie 7
+Einfach bezahlen
 
-Technologie der Zukunft
-
-Technologie der Zukunft
-
-Leistung und Funktionalität auf dem neuesten Stand.
-
-Leistung und Funktionalität auf dem neuesten Stand.
-
-[Mehr erfahrenSerie 7](https://www.anker.com/eu-de/series7?ref=homePageBanner)
-
-[Mehr erfahrenSerie 7](https://www.anker.com/eu-de/series7?ref=homePageBanner)
-
-Serie 6
-
-Serie 6
-
- Einzigartige Erfahrungen
-
- Einzigartige Erfahrungen
-
-Smartes Tech-Zubehör mit fortschrittlicher Funktionalität.
-
-Smartes Tech-Zubehör mit fortschrittlicher Funktionalität.
-
-[Mehr erfahrenSerie 6](https://www.anker.com/eu-de/series6?ref=homePageBanner)
-
-[Mehr erfahrenSerie 6](https://www.anker.com/eu-de/series6?ref=homePageBanner)
-
-Serie 5
-
-Serie 5
-
-Der Genuss von Qualität
-
-Der Genuss von Qualität
-
-Smartes Tech-Zubehör mit Premium-Design und mächtiger Leistung.
-
-Smartes Tech-Zubehör mit Premium-Design und mächtiger Leistung.
-
-[Mehr erfahrenSerie 5](https://www.anker.com/eu-de/series5?ref=homePageBanner)
-
-[Mehr erfahrenSerie 5](https://www.anker.com/eu-de/series5?ref=homePageBanner)
+Zahle heute den vollen Betrag oder teile deine Zahlungen mit Klarna auf.
 
 Live Charged.
 
