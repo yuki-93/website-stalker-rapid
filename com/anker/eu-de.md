@@ -12,19 +12,19 @@ Der ultimative Black Friday Sale. Mehr shoppen, mehr sparen! Gratisgeschenke ab 
 
 Tagen
 
-08
+07
 
 :
 
 Std.
 
-39
+41
 
 :
 
 Min.
 
-52
+29
 
 Sek.
 
@@ -46,19 +46,19 @@ Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
 Tagen
 
-08
+07
 
 :
 
 Stunden
 
-39
+41
 
 :
 
 Minuten
 
-52
+29
 
 Sekunden
 
@@ -78,19 +78,19 @@ Bestseller zum absoluten Tiefpreis
 
 Tagen
 
-08
+07
 
 :
 
 Std.
 
-39
+41
 
 :
 
 Min.
 
-52
+29
 
 Sek.
 
@@ -169,7 +169,7 @@ Entdecke Anker Innovations
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/ganprime?ref=productBanner7_2)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_2)
 
 * ###
 
