@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Weichenstörung in Hermannstraße ###
+
+ Letztes Update: 17:12 / 24.11.2023
+
+Information
+
+Wegen einer Weichenstörung in Hermannstraße kommt es auf der **Linie S4**1 zu Verspätungen und vereinzelten Ausfällen.
+
+Die **Linie S47** verkehrt zwischen Spindlersfeld und Schöneweide.
+*Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
