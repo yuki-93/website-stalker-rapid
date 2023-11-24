@@ -8,18 +8,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Gegenstände auf der Strecke in Friedrichsfelde Ost ###
 
- Letztes Update: 04:36 / 24.11.2023
+ Letztes Update: 06:10 / 24.11.2023
 
 Information
 
-Wegen Gegenständen auf der Strecke in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Der 10-Minuten-Takt der Linie **S5** kann nicht angeboten werden.
-* Die Linie **S75** verkehrt nur zwischen Wartenberg und Springpfuhl.
+Die Gegenständen auf der Strecke in Friedrichsfelde Ost sind beseitigt. Es kommt es auf den Linien S5, S7 und S75 zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes ###
+
+ Letztes Update: 06:09 / 24.11.2023
+
+Information
+
+Wegen der ärztlichen Versorgung eines Fahrgastes in Altglienicke kommt es auf den Linien S45 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
