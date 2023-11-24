@@ -6,6 +6,28 @@ Der ultimative Black Friday Sale. Mehr shoppen, mehr sparen! Gratisgeschenke ab 
 
 [Jetzt kaufen \>\>](https://www.anker.com/eu-de/black-friday-angebote?ref=topbanner)
 
+03
+
+:
+
+Tagen
+
+17
+
+:
+
+Std.
+
+37
+
+:
+
+Min.
+
+00
+
+Sek.
+
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Deal des Jahres. Bis zu -700€ am Black Friday](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=naviBar)
 
 ProdukteNach Kategorie[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Black Friday Sale](https://www.anker.com/eu-de/black-friday-angebote?ref=naviMenu)
@@ -24,19 +46,19 @@ Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
 Tagen
 
-09
+08
 
 :
 
 Stunden
 
-24
+37
 
 :
 
 Minuten
 
-09
+00
 
 Sekunden
 
@@ -56,19 +78,19 @@ Bestseller zum absoluten Tiefpreis
 
 Tagen
 
-10
+09
 
 :
 
 Std.
 
-24
+37
 
 :
 
 Min.
 
-09
+00
 
 Sek.
 
