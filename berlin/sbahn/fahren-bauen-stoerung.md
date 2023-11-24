@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S47](https://sbahn.berlin/fahren/s47/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Weichenstörung in Hermannstraße ###
+### technische Untersuchung am Zug in Ostkreuz beendet ###
 
- Letztes Update: 18:20 / 24.11.2023
+ Letztes Update: 19:54 / 24.11.2023
 
 Information
 
-Wegen einer Weichenstörung in Hermannstraße kommt es auf der **Linie S41** zu Verspätungen.
+Nach einer technischen Untersuchung an einem Zug in Ostkreuz kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S41](https://sbahn.berlin/fahren/s41/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an einer Weiche in Hermannstraße beendet ###
+
+ Letztes Update: 19:36 / 24.11.2023
+
+Information
+
+Nach der Reparatur an einer Weiche in Hermannstraße kommt es auf den **Linien S41 und S47** noch zu folgenden Einschränkungen:
 
 * Die **Linie S41** fährt nur im 10-Minuten-Takt.
 * Die **Linie S47** verkehrt zwischen Spindlersfeld und Schöneweide.
@@ -20,7 +34,7 @@ Wegen einer Weichenstörung in Hermannstraße kommt es auf der **Linie S41** zu 
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
