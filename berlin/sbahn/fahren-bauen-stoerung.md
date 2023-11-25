@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Oranienburger Straße ###
 
- Letztes Update: 13:23 / 25.11.2023
+ Letztes Update: 13:53 / 25.11.2023
 
 Information
 
@@ -17,8 +17,8 @@ Wegen einer Reparatur an der Strecke in Oranienburger Straße kommt es auf den 
 Die Linien verkehren wie folgt:
 
 * S1 verkehrt Oranienburg \<\> Friedenau im 20-Minutentakt.
-* S2 verkehrt Bernau/Buch \<\> Nordbahnhof sowie Potsdamer Platz \<\> Blankenfelde/Lichtenrade
-* S25 verkehrt Hennigsdorf \<\> Nordbahhof, sowie Potsdamer Platz \<\> Teltow Stadt im, 20-Minutentakt
+* S2 verkehrt Bernau \<\> Nordbahnhof, Buch \<\> Gesundbrunnen im 10-Minutentakt, sowie Potsdamer Platz \<\> Blankenfelde/Lichtenrade
+* S25 verkehrt Hennigsdorf \<\> Oranienburger Straße, sowie Potsdamer Platz \<\> Teltow Stadt im 20-Minutentakt
 * S26 verkehrt nicht
 
 Wir bitten um Verständnis.
