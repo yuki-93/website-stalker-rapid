@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einem Signal in Oranienburger Straße ###
+
+ Letztes Update: 11:05 / 25.11.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Oranienburger Straße kommt es auf den Linien S1, S2 und S25 zu Verspätungn und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
