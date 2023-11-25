@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Oranienburger Straße beendet ###
 
- Letztes Update: 15:13 / 25.11.2023
+ Letztes Update: 16:14 / 25.11.2023
 
 Information
 
@@ -17,7 +17,6 @@ Nach einer Reparatur an der Strecke in Oranienburger Straße kommt es auf den L
 Die Linien verkehren wie folgt:
 
 * S1 verkehrt Oranienburg \<\> Friedenau im 20-Minutentakt.
-* S26 verkehrt nicht
 
 Wir bitten um Verständnis.
 
