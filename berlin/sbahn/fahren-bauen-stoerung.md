@@ -6,13 +6,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Reparatur an einem Signal in Oranienburger Straße ###
+### Reparatur an der Strecke in Oranienburger Straße ###
 
- Letztes Update: 11:05 / 25.11.2023
+ Letztes Update: 13:23 / 25.11.2023
 
 Information
 
-Wegen einer Reparatur an einem Signal in Oranienburger Straße kommt es auf den Linien S1, S2 und S25 zu Verspätungn und Ausfällen.
+Wegen einer Reparatur an der Strecke in Oranienburger Straße kommt es auf den Linien S1,S2, S25 und S26 zu Verspätungen und Ausfällen.
+
+Die Linien verkehren wie folgt:
+
+* S1 verkehrt Oranienburg \<\> Friedenau im 20-Minutentakt.
+* S2 verkehrt Bernau/Buch \<\> Nordbahnhof sowie Potsdamer Platz \<\> Blankenfelde/Lichtenrade
+* S25 verkehrt Hennigsdorf \<\> Nordbahhof, sowie Potsdamer Platz \<\> Teltow Stadt im, 20-Minutentakt
+* S26 verkehrt nicht
+
+Wir bitten um Verständnis.
 
 Wir bitten um Verständnis.
 
