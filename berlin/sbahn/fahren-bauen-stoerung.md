@@ -2,28 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an der Strecke in Oranienburger Straße beendet ###
-
- Letztes Update: 16:14 / 25.11.2023
-
-Information
-
-Nach einer Reparatur an der Strecke in Oranienburger Straße kommt es auf den Linien S1,S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Die Linien verkehren wie folgt:
-
-* S1 verkehrt Oranienburg \<\> Friedenau im 20-Minutentakt.
-
-Wir bitten um Verständnis.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
