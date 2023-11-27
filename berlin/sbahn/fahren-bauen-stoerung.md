@@ -4,31 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz Flughafen BER T1-2 ###
+### Reparatur am Fahrzeug Eichwalde ###
 
- Letztes Update: 16:09 / 27.11.2023
-
-Information
-
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S45 und S9 zwischen Flughafen BER T1-2 und Flughafen BER T5 unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz Alexanderplatz beendet ###
-
- Letztes Update: 15:49 / 27.11.2023
+ Letztes Update: 16:32 / 27.11.2023
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Alexanderplatz kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einer Reparatur am Fahrzeug in Eichwalde kommt es auf den Linien S46 und S8 zu Verspätungen und Zugausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
