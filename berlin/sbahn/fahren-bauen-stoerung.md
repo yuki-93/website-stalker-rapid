@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Gegenstände auf der Strecke Eichwalde ###
+
+ Letztes Update: 19:58 / 27.11.2023
+
+Information
+
+Wegen Gegenständen auf der Strecke in Eichwalde kommt es auf den Linien S46 und S8 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Versändnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
