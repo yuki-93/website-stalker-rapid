@@ -6,19 +6,19 @@ Der ultimative Black Friday Sale. Mehr shoppen, mehr sparen! Gratisgeschenke ab 
 
 [Jetzt kaufen \>\>](https://www.anker.com/eu-de/black-friday-angebote?ref=topbanner)
 
-21
+20
 
 :
 
 Std.
 
-36
+32
 
 :
 
 Min.
 
-07
+41
 
 Sek.
 
@@ -40,19 +40,19 @@ Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
 Tagen
 
-21
+20
 
 :
 
 Stunden
 
-36
+32
 
 :
 
 Minuten
 
-07
+41
 
 Sekunden
 
@@ -72,19 +72,19 @@ Bestseller zum absoluten Tiefpreis
 
 Tagen
 
-21
+20
 
 :
 
 Std.
 
-36
+32
 
 :
 
 Min.
 
-07
+41
 
 Sek.
 
