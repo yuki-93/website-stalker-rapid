@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Polizeieinsatz Oberspree ###
+
+ Letztes Update: 15:21 / 27.11.2023
+
+Information
+
+Wegen eines Polizeieinsatzes (Munitionsfund) in Oberspree ist der Zugverkehr der Linie S47 zwischen Spindlersfeld und Schöneweide unterbrochen.
+*Bitte nutzen Sie zur Umfahrung zwischen Spindlersfeld - Oberspree - Schöneweide die BVG-Buslinie 165 oder zwischen Spindlersfeld - Adlershof die Tram-Linien 61 und 63.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
