@@ -2,30 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an einer Weiche zwischen Wollankstraße und Schönholz ###
-
- Letztes Update: 23:26 / 26.11.2023
-
-Information
-
-Wegen der Reparatur an einer Weiche muss der Zugverkehr der Linien S1 und S25 verändert durchgeführt werden.
-
-Die betroffenen Linien fahren wie folgt:
-
-* **S1:** Zugverkehr zwischen Gesundbrunnen und Schönholz unterbrochen
-* **S25:** fährt Teltoe Stadt \<\> Gesundbrunnen sowie Wollankstraße \<\> Hennigsdorf
-* **S1, S25:** zwischen Bornholmer Straße und Wollankstraße besteht S-Bahn-Pendelverkehr
-
-Bitte nutzen Sie zwischen Gesundbrunnen und Bornholmer Straße die Linie S2.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -80,50 +56,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-Nur Wochenende
-
-### Zehlendorf \<\> Schöneberg ###
-
-24.11. (Fr), ca. 22 Uhr durchgehend bis 27.11. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28224&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21363&tx_sbbconstructions_list%5Bperiod%5D=17403&type=5679&cHash=67b257e56911eba9012b220fcb16117d)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr:
-  * Zehlendorf \<\> Friedenau
-
-* Ersatzverkehr mit Bussen:
-  * Bus S1: Zehlendorf \<\> Schöneberg
-
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-der-moltkestrassenbruecke-1/#con-28224)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts Nur Wochenende
-
-### (Bornhomer Straße) - Pankow \<\> Blankenburg ###
-
-Nacht 26./27.11. (So/Mo), ca. 23 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28494&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21659&tx_sbbconstructions_list%5Bperiod%5D=17526&type=5679&cHash=1bf528442e0fa522740c47938a405859)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Zugverkehr verändert
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-in-blankenburg/#con-28494)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
@@ -167,30 +99,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-baumschulenweg-1/#con-28343)
 
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schöneweide \> Grünau ###
-
-27.11. (Mo) und 28.11. (Mi) jeweils 1:33 Uhr bis 1:42 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17432&type=5679&cHash=51de4e3f46d66b55dac4cdfd84ec5e63)
-
-05.12. (Di) und 06.12. (Mi) jeweils 1:33 Uhr bis 1:42 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17473&type=5679&cHash=209fb238abae82eb05bf67a799e8bb27)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&type=5679&cHash=f5aa06d7c0abcf6dcbb35849b8758f51)
-
- fährt nicht
-
-Information
-
-* Der Zug Spandau ab 0:38 Uhr nach Grünau (an 1:42 Uhr) endet bereits um 1:33 Uhr in Schöneweide.
-* Der Zug fällt von Schöneweide bis Grünau aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
