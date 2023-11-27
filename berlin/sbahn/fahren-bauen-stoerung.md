@@ -8,13 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Gegenstände auf der Strecke Eichwalde ###
 
- Letztes Update: 19:58 / 27.11.2023
+ Letztes Update: 20:48 / 27.11.2023
 
 Information
 
 Wegen Gegenständen auf der Strecke in Eichwalde kommt es auf den Linien S46 und S8 zu Verspätungen und Zugausfällen.
 
-Wir bitten um Ihr Versändnis.
+*Die Linie S46 verkehrt zwischen Westend und Grünau im 20-Minuten-Takt sowie zwischen Grünau und Königs Wusterhausen im 40-Minuten-Takt.
+ In Grünau ist ein Bahnsteigwechsel erforderlich.*
+
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
