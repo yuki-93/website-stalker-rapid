@@ -4,22 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Gegenstände auf der Strecke Eichwalde ###
 
- Letztes Update: 20:48 / 27.11.2023
+ Letztes Update: 21:56 / 27.11.2023
 
 Information
 
-Wegen Gegenständen auf der Strecke in Eichwalde kommt es auf den Linien S46 und S8 zu Verspätungen und Zugausfällen.
+Wegen Gegenständen auf der Strecke in Eichwalde kommt es auf der Linie S46 zu Verspätungen und folgenden Einschränkungen:
 
-*Die Linie S46 verkehrt zwischen Westend und Grünau im 20-Minuten-Takt sowie zwischen Grünau und Königs Wusterhausen im 40-Minuten-Takt.
+*Die Linie S46 verkehrt zwischen zwischen Grünau und Königs Wusterhausen nur im 40-Minuten-Takt.
  In Grünau ist ein Bahnsteigwechsel erforderlich.*
+
+**Bitte beachten Sie auch die planmäßigen Bauarbeiten zwischen Baumschulenweg und Schöneweide.**
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
