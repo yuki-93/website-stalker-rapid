@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz im Zug in Adlershof ###
+### Polizeieinsatz im Zug in Adlershof beendet ###
 
- Letztes Update: 15:20 / 28.11.2023
+ Letztes Update: 15:48 / 28.11.2023
 
 Information
 
-wegen eines Polizeieinsatzes im Zug in Adlershof kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz im Zug in Adlershof kann es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
@@ -308,7 +308,7 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#con-28264)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#c30325)
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
  Nur Nachts Nur Wochenende
 
