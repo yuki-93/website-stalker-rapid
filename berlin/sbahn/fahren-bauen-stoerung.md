@@ -6,6 +6,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
+ Nur Nachts
+
+### Wartenberg \<\> Springpfuhl ###
+
+Nächte 27./28.11. (Mo/Di) bis 30.11./01.12. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28337&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21483&tx_sbbconstructions_list%5Bperiod%5D=17453&type=5679&cHash=fda625981e1030de9a30f4dd883f6022)
+
+ Ersatzverkehr
+
+Information
+
+* Zwischen Wartenberg \<\> Springpfuhl besteht Ersatzverkehr mit Bussen
+* S75 fährt nur Springpfuhl \<\> Warschauer Straße
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-35-2-1/#con-28337)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
 ### Gehrenseestraße ###
 
 19.06. (Mo) ca. 4 Uhr bis auf Weiteres
@@ -55,26 +75,6 @@ Information
   * Die Züge in Richtung stadteinwärts (Ahrensfelde) fahren von Gleis 2, Bahnsteig stadtauswärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wartenberg \<\> Springpfuhl ###
-
-Nächte 27./28.11. (Mo/Di) bis 30.11./01.12. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28337&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21483&tx_sbbconstructions_list%5Bperiod%5D=17453&type=5679&cHash=fda625981e1030de9a30f4dd883f6022)
-
- Ersatzverkehr
-
-Information
-
-* Zwischen Wartenberg \<\> Springpfuhl besteht Ersatzverkehr mit Bussen
-* S75 fährt nur Springpfuhl \<\> Warschauer Straße
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-35-2-1/#con-28337)
 
 ### Fahrplanänderungen ###
 
@@ -110,6 +110,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
+ Nur Nachts
+
+### Wartenberg \<\> Springpfuhl ###
+
+Nächte 27./28.11. (Mo/Di) bis 30.11./01.12. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28337&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21483&tx_sbbconstructions_list%5Bperiod%5D=17453&type=5679&cHash=fda625981e1030de9a30f4dd883f6022)
+
+ Ersatzverkehr
+
+Information
+
+* Zwischen Wartenberg \<\> Springpfuhl besteht Ersatzverkehr mit Bussen
+* S75 fährt nur Springpfuhl \<\> Warschauer Straße
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-35-2-1/#con-28337)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
 ### Gehrenseestraße ###
 
 19.06. (Mo) ca. 4 Uhr bis auf Weiteres
@@ -159,26 +179,6 @@ Information
   * Die Züge in Richtung stadteinwärts (Ahrensfelde) fahren von Gleis 2, Bahnsteig stadtauswärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wartenberg \<\> Springpfuhl ###
-
-Nächte 27./28.11. (Mo/Di) bis 30.11./01.12. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28337&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21483&tx_sbbconstructions_list%5Bperiod%5D=17453&type=5679&cHash=fda625981e1030de9a30f4dd883f6022)
-
- Ersatzverkehr
-
-Information
-
-* Zwischen Wartenberg \<\> Springpfuhl besteht Ersatzverkehr mit Bussen
-* S75 fährt nur Springpfuhl \<\> Warschauer Straße
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-35-2-1/#con-28337)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -218,6 +218,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
+ Nur Nachts
+
+### Wartenberg \<\> Springpfuhl ###
+
+Nächte 27./28.11. (Mo/Di) bis 30.11./01.12. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28337&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21483&tx_sbbconstructions_list%5Bperiod%5D=17453&type=5679&cHash=fda625981e1030de9a30f4dd883f6022)
+
+ Ersatzverkehr
+
+Information
+
+* Zwischen Wartenberg \<\> Springpfuhl besteht Ersatzverkehr mit Bussen
+* S75 fährt nur Springpfuhl \<\> Warschauer Straße
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-35-2-1/#con-28337)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
 ### Gehrenseestraße ###
 
 19.06. (Mo) ca. 4 Uhr bis auf Weiteres
@@ -267,26 +287,6 @@ Information
   * Die Züge in Richtung stadteinwärts (Ahrensfelde) fahren von Gleis 2, Bahnsteig stadtauswärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wartenberg \<\> Springpfuhl ###
-
-Nächte 27./28.11. (Mo/Di) bis 30.11./01.12. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28337&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21483&tx_sbbconstructions_list%5Bperiod%5D=17453&type=5679&cHash=fda625981e1030de9a30f4dd883f6022)
-
- Ersatzverkehr
-
-Information
-
-* Zwischen Wartenberg \<\> Springpfuhl besteht Ersatzverkehr mit Bussen
-* S75 fährt nur Springpfuhl \<\> Warschauer Straße
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-35-2-1/#con-28337)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 

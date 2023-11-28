@@ -6,7 +6,29 @@ Der ultimative Black Friday Sale. Mehr shoppen, mehr sparen! Gratisgeschenke ab 
 
 [Jetzt kaufen \>\>](https://www.anker.com/eu-de/black-friday-angebote?ref=topbanner)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Deal des Jahres. Bis zu -700€ am Black Friday](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=naviBar)
+05
+
+:
+
+Tagen
+
+20
+
+:
+
+Std.
+
+30
+
+:
+
+Min.
+
+47
+
+Sek.
+
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Verlängerter Black Friday. Bis zu 600€ Rabatt](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=naviBar)
 
 ProdukteNach Kategorie[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Black Friday Sale](https://www.anker.com/eu-de/black-friday-angebote?ref=naviMenu)
 
@@ -18,17 +40,61 @@ Black Friday Gratisgeschenke
 
 Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
-17. November - 27. November
+05
+
+:
+
+Tagen
+
+20
+
+:
+
+Stunden
+
+30
+
+:
+
+Minuten
+
+47
+
+Sekunden
+
+17. November - 3. Dezember
 
 [Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/black-friday-angebote?ref=masterBanner1)
 
-Deal des Jahres
+Letzte Chance auf Deals
 
-Bis zu -700€ am Black Friday
+Black Friday geht weiter!Neue Deals. Endloser Nervenkitzel.
 
-Bestseller zum absoluten Tiefpreis
+Bis zu 600€ Rabatt
 
-17.-27. November | Limitiertes Angebot
+05
+
+:
+
+Tagen
+
+20
+
+:
+
+Std.
+
+30
+
+:
+
+Min.
+
+47
+
+Sek.
+
+28. November - 3. Dezember
 
 [Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=masterBanner2)
 
@@ -119,17 +185,17 @@ Entdecke Anker Innovations
 
 * ###
 
-   Black Friday
+  Verlängerter Black Friday
 
    ###
 
-  ### 1080W Leistung ###
+  ### Anker SOLIX Balkonkraftwerk ###
 
-  ### Spare bis zu 700€ ###
+  ### Spare bis zu 600€ ###
 
-  Anker SOLIX Balkonkraftwerk | Tiefpreis
+  600W Mikroinverter, erweiterbar auf 800W | Letzte Chance auf Deals
 
-  [Mehr erfahren Black Friday ,1080W Leistung,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
+  [Mehr erfahren Verlängerter Black Friday ,Anker SOLIX Balkonkraftwerk,Spare bis zu 600€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
 
 Was macht Anker so besonders?
 ----------
