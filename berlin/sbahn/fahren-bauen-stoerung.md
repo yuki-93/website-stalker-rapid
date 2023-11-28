@@ -6,17 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Grünauer Kreuz ###
+### Reparatur an einem Signal in Grünauer Kreuz behoben ###
 
- Letztes Update: 08:07 / 28.11.2023
+ Letztes Update: 09:21 / 28.11.2023
 
 Information
 
-Wegen einer Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
-
-* Die Linie S8 verkehrt nur zwischen Birkenwerder und Grünau.
-* Die Linie S85 verkehrt nur zwischen Pankow und Schöneweide.
-  *Bitte nutzen Sie zwischen Schöneweide und Grünau die Linie S46 und S8.*
+Nach einer Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu einzelnen Verspätungen und Ausfällen.
 
 *Wir bitten um Entschuldigung.*
 
