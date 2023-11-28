@@ -2,6 +2,45 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an mehreren Weichen in Grünau ###
+
+ Letztes Update: 04:17 / 28.11.2023
+
+Information
+
+Wegen der Reparatur an mehreren Weichen in Grünau kann es auf den **Linien S46 und S8** zu Verspätungen kommen.
+
+* Die **Linie S85** verkehrt nur zwischen Pankow und Schöneweide.
+  *Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an mehreren Weichen in Lichterfelde Süd ###
+
+ Letztes Update: 04:05 / 28.11.2023
+
+Information
+
+Wegen der Reparatur an mehreren Weichen in Lichterfelde Süd kommt es auf den Linien S25 und S26 zu folgenden Einschränkungen:
+
+* **Linie S25:** verkehrt Teltow Stadt \<\> Lichterfelde sowie Lichterfelde Süd \<\> Hennigsdorf
+  *Somit ist in Lichterfelde Süd ist in beiden Fahrtrichtungen ein Umstieg (Wechsel der Bahnsteigseite) erforderlich.*
+* **Linie S26:** verkehrt Lichterfelde Ost \<\> Waidmannslust
+
+Auf beiden Linien kann es zu Verspätungen und vereinzelten Ausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -75,32 +114,6 @@ Information
   * Die Züge in Richtung stadteinwärts (Ahrensfelde) fahren von Gleis 2, Bahnsteig stadtauswärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Grünau \> Schöneweide ###
-
-27.11. (Mo) und 28.11. (Mi) jeweils 3:41 Uhr bis 3:53 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&tx_sbbconstructions_list%5Bperiod%5D=17433&type=5679&cHash=824a92ab0b8db1be69db9794f5f83b99)
-
-05.12. (Di) und 06.12. (Mi) jeweils 3:41 Uhr bis 3:53 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&tx_sbbconstructions_list%5Bperiod%5D=17476&type=5679&cHash=4b044170bd1dcc02302197b94ccff2dc)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&type=5679&cHash=7c576016b85a2e0fb0d9a4eb0a8d4903)
-
- fährt nicht
-
-Information
-
-* Der Zug Grünau ab 3:41 Uhr nach Spandau (an 4:47 Uhr) beginnt erst um 3:53 Uhr in Schöneweide.
-* Der Zug fällt von Grünau bis Schöneweide aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -892,15 +905,9 @@ Information
 
 ### Grünau \> Schöneweide ###
 
-27.11. (Mo) und 28.11. (Mi) jeweils 3:41 Uhr bis 3:53 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&tx_sbbconstructions_list%5Bperiod%5D=17433&type=5679&cHash=824a92ab0b8db1be69db9794f5f83b99)
-
 05.12. (Di) und 06.12. (Mi) jeweils 3:41 Uhr bis 3:53 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&tx_sbbconstructions_list%5Bperiod%5D=17476&type=5679&cHash=4b044170bd1dcc02302197b94ccff2dc)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&type=5679&cHash=7c576016b85a2e0fb0d9a4eb0a8d4903)
 
  fährt nicht
 
