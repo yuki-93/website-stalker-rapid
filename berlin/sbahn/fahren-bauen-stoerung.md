@@ -4,24 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einer Weichen in Grünau ###
-
- Letztes Update: 09:50 / 28.11.2023
-
-Information
-
-Wegen Reparatur an einer Weiche in Grünau kommt es auf den **Linien S46, S8 und S85** zu Verspätungen und Ausfällen.
-
-* Die Linie S8 verkehrt zwischen Birkenwerder und Zeuthen.
-* Die Linie S85 verkehrt nur zwischen Pankow und Schöneweide.
-   Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an mehreren Weichen in Lichterfelde Süd ###
