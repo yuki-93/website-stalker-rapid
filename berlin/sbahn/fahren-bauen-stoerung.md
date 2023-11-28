@@ -4,19 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an mehreren Weichen in Grünau behoben ###
+### Reparatur an einem Signal in Grünauer Kreuz ###
 
- Letztes Update: 05:45 / 28.11.2023
+ Letztes Update: 08:07 / 28.11.2023
 
 Information
 
-Nach der Reparatur an mehreren Weichen in Grünau kann es auf den **Linien S46 und S8** noch zu einzelnen Verspätungen und Ausfällen kommen.
+Wegen einer Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
 
-Wir bitten um Entschuldigung.
+* Die Linie S8 verkehrt nur zwischen Birkenwerder und Grünau.
+* Die Linie S85 verkehrt nur zwischen Pankow und Schöneweide.
+  *Bitte nutzen Sie zwischen Schöneweide und Grünau die Linie S46 und S8.*
 
- Zugverkehr verändert
+*Wir bitten um Entschuldigung.*
+
+ Takt geändert
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
