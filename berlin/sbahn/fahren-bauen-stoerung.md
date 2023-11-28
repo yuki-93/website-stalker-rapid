@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur am Fahrzeug Südkreuz ###
-
- Letztes Update: 20:06 / 28.11.2023
-
-Information
-
-Nach einer Reparatur am Fahrzeug in Südkreuz verkehrt die Linie S42 nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
