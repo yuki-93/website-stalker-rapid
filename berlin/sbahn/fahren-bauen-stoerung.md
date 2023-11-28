@@ -4,19 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Grünauer Kreuz behoben ###
+### Reparatur an einer Weichen in Grünau ###
 
- Letztes Update: 09:21 / 28.11.2023
+ Letztes Update: 09:50 / 28.11.2023
 
 Information
 
-Nach einer Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu einzelnen Verspätungen und Ausfällen.
+Wegen Reparatur an einer Weiche in Grünau kommt es auf den **Linien S46, S8 und S85** zu Verspätungen und Ausfällen.
 
-*Wir bitten um Entschuldigung.*
+* Die Linie S8 verkehrt zwischen Birkenwerder und Zeuthen.
+* Die Linie S85 verkehrt nur zwischen Pankow und Schöneweide.
+   Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.
 
- Takt geändert
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
@@ -327,6 +331,26 @@ Information
 * Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#con-28264)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#c30325)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts Nur Wochenende
+
+### (Bornhomer Straße) - Pankow \<\> Blankenburg ###
+
+Nacht 30.11../01.12. (Do/Fr), ca. 23 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28494&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21659&tx_sbbconstructions_list%5Bperiod%5D=17526&type=5679&cHash=1bf528442e0fa522740c47938a405859)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Zugverkehr verändert
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-in-blankenburg/#con-28494)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
