@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Grünauer Kreuz ###
-
- Letztes Update: 12:12 / 28.11.2023
-
-Information
-
-Wegen einer Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
-
-*Wir bitten um Entschuldigung.*
-
- Takt geändert
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an mehreren Weichen in Lichterfelde Süd behoben ###
-
- Letztes Update: 11:54 / 28.11.2023
-
-Information
-
-Nach der Reparatur an mehreren Weichen in Lichterfelde Süd kommt es auf den Linien S25 und S26 noch zu einzelnen Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
