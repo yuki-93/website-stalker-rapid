@@ -12,7 +12,7 @@ Der ultimative Black Friday Sale. Mehr shoppen, mehr sparen! Gratisgeschenke ab 
 
 Tagen
 
-19
+18
 
 :
 
@@ -24,7 +24,7 @@ Std.
 
 Min.
 
-33
+51
 
 Sek.
 
@@ -46,7 +46,7 @@ Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
 Tagen
 
-19
+18
 
 :
 
@@ -58,7 +58,7 @@ Stunden
 
 Minuten
 
-33
+51
 
 Sekunden
 
@@ -68,9 +68,9 @@ Sekunden
 
 Letzte Chance auf Deals
 
-Black Friday geht weiter!Neue Deals. Endloser Nervenkitzel.
+Black Friday geht weiter!Bis zu 600€ Rabatt
 
-Bis zu 600€ Rabatt
+Neue Deals. Endloser Nervenkitzel.
 
 05
 
@@ -78,7 +78,7 @@ Bis zu 600€ Rabatt
 
 Tagen
 
-19
+18
 
 :
 
@@ -90,7 +90,7 @@ Std.
 
 Min.
 
-33
+51
 
 Sek.
 
@@ -179,7 +179,7 @@ Entdecke Anker Innovations
 
   ### Bis zu 1.500€ Rabatt ###
 
-  Black Friday Genuss-Angebote
+  Verlängerter Black Friday Noch mehr spannende Deals
 
   [Mehr erfahren Deal des Jahres ,Bis zu 1.500€ Rabatt](https://www.anker.com/eu-de/anker-solix/black-friday-pps?ref=productBanner7_3)
 

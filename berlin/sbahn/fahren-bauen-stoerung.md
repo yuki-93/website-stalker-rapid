@@ -4,6 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an mehreren Weichen in Lichterfelde Süd ###
+
+ Letztes Update: 05:21 / 28.11.2023
+
+Information
+
+Wegen der Reparatur an mehreren Weichen in Lichterfelde Süd kommt es auf den Linien S25 und S26 zu folgenden Einschränkungen:
+
+* **Linie S25:** verkehrt Teltow Stadt \<\> Lichterfelde Süd sowie Lichterfelde Süd \<\> Hennigsdorf
+  *Somit ist in Lichterfelde Süd ist in beiden Fahrtrichtungen ein Umstieg (Wechsel der Bahnsteigseite) erforderlich.*
+* **Linie S26:** verkehrt Priesterweg \<\> Waidmannslust
+
+Auf beiden Linien kann es zu Verspätungen und vereinzelten Ausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an mehreren Weichen in Grünau ###
@@ -16,26 +36,6 @@ Wegen der Reparatur an mehreren Weichen in Grünau kann es auf den **Linien S46 
 
 * Die **Linie S85** verkehrt nur zwischen Pankow und Schöneweide.
   *Bitte nutzen Sie zwischen Schöneweide und Grünau die Linien S46 und S8.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an mehreren Weichen in Lichterfelde Süd ###
-
- Letztes Update: 04:05 / 28.11.2023
-
-Information
-
-Wegen der Reparatur an mehreren Weichen in Lichterfelde Süd kommt es auf den Linien S25 und S26 zu folgenden Einschränkungen:
-
-* **Linie S25:** verkehrt Teltow Stadt \<\> Lichterfelde sowie Lichterfelde Süd \<\> Hennigsdorf
-  *Somit ist in Lichterfelde Süd ist in beiden Fahrtrichtungen ein Umstieg (Wechsel der Bahnsteigseite) erforderlich.*
-* **Linie S26:** verkehrt Lichterfelde Ost \<\> Waidmannslust
-
-Auf beiden Linien kann es zu Verspätungen und vereinzelten Ausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
