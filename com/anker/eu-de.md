@@ -12,19 +12,19 @@ Der ultimative Black Friday Sale. Mehr shoppen, mehr sparen! Gratisgeschenke ab 
 
 Tagen
 
-17
+16
 
 :
 
 Std.
 
-39
+33
 
 :
 
 Min.
 
-08
+54
 
 Sek.
 
@@ -46,19 +46,19 @@ Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
 Tagen
 
-17
+16
 
 :
 
 Stunden
 
-39
+33
 
 :
 
 Minuten
 
-08
+54
 
 Sekunden
 
@@ -78,19 +78,19 @@ Neue Deals. Endloser Nervenkitzel.
 
 Tagen
 
-17
+16
 
 :
 
 Std.
 
-39
+33
 
 :
 
 Min.
 
-08
+54
 
 Sek.
 
