@@ -4,15 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einer Weiche in Buch ###
+### Reparatur an einem Signal in Jannowitzbrücke ###
 
- Letztes Update: 17:05 / 29.11.2023
+ Letztes Update: 18:54 / 29.11.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Buch kommt es auf der Linie S2 zu Verspätungen.
+Wegen der Reparatur an einem Signal in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
+
+Der 10-Minuten-Takt auf der Linie S5 kann derzeit nur zwischen Hoppegarten \<\> Ostbahnhof angeboten werden.
 
 Wir bitten um Entschuldigung.
 
