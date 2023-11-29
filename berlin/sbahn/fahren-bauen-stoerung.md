@@ -8,17 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Jannowitzbrücke ###
 
- Letztes Update: 18:54 / 29.11.2023
+ Letztes Update: 21:18 / 29.11.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
-
-Der 10-Minuten-Takt auf der Linie S5 kann derzeit nur zwischen Hoppegarten \<\> Ostbahnhof angeboten werden.
+Wegen der Reparatur an einem Signal in Jannowitzbrücke kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen kommen.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung verspätet
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
