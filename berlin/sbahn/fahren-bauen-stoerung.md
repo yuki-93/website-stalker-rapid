@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Gegenstände auf der Strecke in Alexanderplatz ###
+
+ Letztes Update: 17:18 / 30.11.2023
+
+Information
+
+Wegen Gegenstände auf der Strecke in Alexanderplatz kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
+
+Zwischen Warschauer Straße \<\> Zoologischer Garten besteht ein 20-Minuten-Takt mit Umstieg in Alexanderplatz.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
