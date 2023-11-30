@@ -8,15 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Gegenstände auf der Strecke in Alexanderplatz entfernt ###
 
- Letztes Update: 17:31 / 30.11.2023
+ Letztes Update: 18:26 / 30.11.2023
 
 Information
 
 Nach Gegenstände auf der Strecke in Alexanderplatz kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
-
-\* Linie S5 verkehrt Strausberg Nord/Hoppegarten \<\> Warschauer Straße.
-
-\* Linie S75 verkehrt Wartenberg \<\> Lichtenberg.
 
 Wir bitten um Verständnis.
 
@@ -126,11 +122,11 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#con-28264)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#c30325)
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts Nur Wochenende
 
-### (Bornhomer Straße) - Pankow \<\> Blankenburg ###
+### (Bornhomer Straße) - Pankow \<\> Blankenburg/Birkenwerder ###
 
 Nacht 30.11../01.12. (Do/Fr), ca. 23 Uhr - ca. 1.30 Uhr
 
@@ -254,11 +250,11 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#con-28264)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#c30325)
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts Nur Wochenende
 
-### (Bornhomer Straße) - Pankow \<\> Blankenburg ###
+### (Bornhomer Straße) - Pankow \<\> Blankenburg/Birkenwerder ###
 
 Nacht 30.11../01.12. (Do/Fr), ca. 23 Uhr - ca. 1.30 Uhr
 
