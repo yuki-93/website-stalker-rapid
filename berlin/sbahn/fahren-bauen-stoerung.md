@@ -132,24 +132,6 @@ Information
 
  Nur Nachts
 
-### Zoologischer Garten \> Grunewald ###
-
-30.11. (Do) und 01.12. (Fr) jeweils 1:46 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28159&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21292&tx_sbbconstructions_list%5Bperiod%5D=17469&type=5679&cHash=4397d9ec5d3603a82755c22731cd2e9e)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:46 Uhr in Zoologischer Garten.
-* Der Zug fällt von Zoologischer Garten bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Charlottenburg \> Zoologischer Garten ###
 
 30.11. (Do) und 01.12. (Fr) jeweils 3:02 Uhr bis 3:06 Uhr
