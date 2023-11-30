@@ -132,24 +132,6 @@ Information
 
  Nur Nachts
 
-### Charlottenburg \> Zoologischer Garten ###
-
-30.11. (Do) und 01.12. (Fr) jeweils 3:02 Uhr bis 3:06 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28384&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21529&tx_sbbconstructions_list%5Bperiod%5D=17470&type=5679&cHash=43e9e53f5d1e2f24977e7489fcfd9141)
-
- fährt nicht
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) beginnt erst um 3:06 Uhr in Zoologischer Garten.
-* Der Zug fällt von Charlottenburg bis Zoologischer Garten aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Westkreuz \> Zoologischer Garten ###
 
 30.11. (Do) und 01.12. (Fr) jeweils 3:32 Uhr bis 3:38 Uhr
@@ -1444,24 +1426,4 @@ Nur Wochenende
 Information
 
 * Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Zoologischer Garten ###
-
-30.11. (Do) und 01.12. (Fr) jeweils 3:12 Uhr bis 3:18 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28385&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21530&tx_sbbconstructions_list%5Bperiod%5D=17471&type=5679&cHash=478da7bd9eb7e3b0d5d6a6c1c01a6951)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:18 Uhr in Zoologischer Garten.
-* Der Zug fällt von Westkreuz bis Zoologischer Garten aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
