@@ -2,23 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einem Signal in Karow ###
-
- Letztes Update: 21:33 / 30.11.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Karow kommt es auf der Linie S2 zu Verspätungen und Zugausfällen.
-*Der 10-Minuten-Takt kann nur zwischen Priesterweg und Gesundbrunnen angeboten werden.*
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
