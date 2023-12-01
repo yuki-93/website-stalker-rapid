@@ -6,26 +6,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
- Nur Nachts
-
-### Wartenberg \<\> Springpfuhl ###
-
-Nächte 27./28.11. (Mo/Di) bis 30.11./01.12. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28337&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21483&tx_sbbconstructions_list%5Bperiod%5D=17453&type=5679&cHash=fda625981e1030de9a30f4dd883f6022)
-
- Ersatzverkehr
-
-Information
-
-* Zwischen Wartenberg \<\> Springpfuhl besteht Ersatzverkehr mit Bussen
-* S75 fährt nur Springpfuhl \<\> Warschauer Straße
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-35-2-1/#con-28337)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
 ### Gehrenseestraße ###
 
 19.06. (Mo) ca. 4 Uhr bis auf Weiteres
@@ -106,26 +86,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#con-28264)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#c30325)
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts Nur Wochenende
-
-### (Bornhomer Straße) - Pankow \<\> Blankenburg/Birkenwerder ###
-
-Nacht 30.11../01.12. (Do/Fr), ca. 23 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28494&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21659&tx_sbbconstructions_list%5Bperiod%5D=17526&type=5679&cHash=1bf528442e0fa522740c47938a405859)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Zugverkehr verändert
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-in-blankenburg/#con-28494)
-
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 Nur Wochenende
@@ -193,24 +153,6 @@ Information
 
 * Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:38 Uhr in Zoologischer Garten
 * Der Zug fällt von Westkreuz bis Zoologischer Garten aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Zoologischer Garten \> Grunewald ###
-
-30.11. (Do) und 01.12. (Fr) jeweils 1:46 Uhr bis 1:55 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28159&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21292&tx_sbbconstructions_list%5Bperiod%5D=17469&type=5679&cHash=4397d9ec5d3603a82755c22731cd2e9e)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:46 Uhr in Zoologischer Garten.
-* Der Zug fällt von Zoologischer Garten bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
