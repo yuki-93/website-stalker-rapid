@@ -135,26 +135,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#con-28331)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#c30325)
 
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Zoologischer Garten ###
-
-30.11. (Do) und 01.12. (Fr) jeweils 3:32 Uhr bis 3:38 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23052&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=16961&tx_sbbconstructions_list%5Bperiod%5D=17472&type=5679&cHash=a10dc752dad070bd94e549aad1ed120a)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:38 Uhr in Zoologischer Garten
-* Der Zug fällt von Westkreuz bis Zoologischer Garten aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -861,24 +841,6 @@ Information
 
 * Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:37 Uhr in Ostbahnhof.
 * Der Zug fällt von Westkreuz bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Geänderte Abfahrtzeit Schöneweide \> Flughafen BER – Terminal 1-2 ###
-
-05.12. (Di) und 06.12. (Mi) jeweils 3:23 Uhr bis 3:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28386&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21531&tx_sbbconstructions_list%5Bperiod%5D=17474&type=5679&cHash=52a04acafcedd08b706372137cf753d9)
-
- Zugverkehr verändert
-
-Information
-
-* Der Zug Schöneweide ab 3:23 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) fährt in Schönweide von Gleis 6 (Bahnsteig stadteinwärts).
-* Der Zug fährt von Schöneweide bis Flughafen BER – Terminal 1-2 8 bis 11 Minuten später (Schöneweide ab 3:31 Uhr - Flughafen BER – Terminal 1-2 an 3:56 Uhr).
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
