@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Notarzteinsatz auf der Strecke Jungfernheide ###
+
+ Letztes Update: 02:14 / 02.12.2023
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke im Bereich Jungfernheide ist der Zugverkehr der Linien S41 und S42 zwischen Beusselstraße und Westend unterbrochen.
+*Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
