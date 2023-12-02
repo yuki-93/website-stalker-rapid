@@ -21,20 +21,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur am Zug in Buch ###
-
- Letztes Update: 09:09 / 02.12.2023
-
-Information
-
-Wegen der Reparatur an einem Zug in Buch kann der 10-Minuten-Takt auf der S2 nur zwischen Südkreuz und Blankenburg angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
