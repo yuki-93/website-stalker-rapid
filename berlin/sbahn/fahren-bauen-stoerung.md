@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an einem Signal in Baumschulenweg ###
-
- Letztes Update: 09:40 / 02.12.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Baumschulenweg kommt es auf den **Linien S45 und S46** zu Verspätungen und Ausfällen.
-
-* Die **Linie S47** fährt nur zwischen Spindlersfeld und Schöneweide
-  *Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
