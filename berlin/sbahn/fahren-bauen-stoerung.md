@@ -2,6 +2,29 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### kurzfristiger Personalausfall Fahrdienstleiter Schönfließ ###
+
+ Letztes Update: 23:30 / 02.12.2023
+
+Information
+
+Wegen einem kurzfristigen Personalausfall des Fahrdienstleiters in Schönfließ verkehrt die Linie S8 am **Sonntag, den 03.12.2023 von ca. 06:00 Uhr bis 18:00 Uhr** zwischen Grünau und Blankenburg.
+
+Daher wird der planmäßig verkehrende Ersatzverkehr mit Bussen zwischen Birkenwerder und Mühlenbeck-Mönchmühle nach Pankow-Heinersdorf verlängert.
+ Bitte beachten Sie, dass der Umstieg zwischen der Linie S8 und dem Ersatzverkehr mit Bussen in Pankow-Heinersdorf erfolgt.
+*In Blankenburg besteht **kein** direkter Übergang zum SEV.*
+
+Die Haltestelle des Ersatzverkehrs in Pankow-Heinersdorf befindet sich in "Am Feuchten Winkel".
+*Ein zusätzlicher Halt und Umstieg zum Bus 150 erfolgt in der Pasewalker Str./ Blankenburger Weg.*
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -104,6 +127,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#con-28331)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#c30325)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Westkreuz ###
+
+Nacht 03./04.12. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28332&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21478&tx_sbbconstructions_list%5Bperiod%5D=17448&type=5679&cHash=a1e1686d71de9ffa520e70c0e2240431)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Friedrichstraße \<\>Tiergarten S-Bahnverkehr nur im 7-/13-Minutentakt mit S7 und S9
+  * Tiergarten \<\> Charlottenburg S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/auswechseln-von-weichenverschluessen-in-zoologischer-garten/#con-28332)
 
 Hinweis
 
@@ -235,6 +281,52 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/auswechseln-von-weichenverschluessen-in-zoologischer-garten/#con-28332)
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Blankenfelde \<\> Priesterweg ###
+
+04.12. (Mo), ca. 4 Uhr durchgehend bis 09.12. (Sa), ca. 23.59 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28264&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21402&tx_sbbconstructions_list%5Bperiod%5D=17445&type=5679&cHash=270ae3690bc0afd7b60514f43a267c9d)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S2X: Blankenfelde \<\> Priesterweg (Hält nur an ausgewählten Bahnhöfen)
+     diese Linie fährt Montag bis Freitag, 5 bis 21 Uhr und Samstag, 8 bis 21 Uhr
+  * Bus S2A: Blankenfelde \<\> Priesterweg
+  * Bus S2B: Lichtenrade \<\> Lankwitz
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#con-28264)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#c30325)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### (Heerstraße) Olympiastadion \<\> Spandau ###
+
+Nächte 04./05.12. (Mo/Di) bis 07./08.12. (Do/Fr), jeweils ca. 22 Uhr - ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28333&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21479&tx_sbbconstructions_list%5Bperiod%5D=17449&type=5679&cHash=0780a3ab4d98a679ab2a28b86c16990b)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Olympiastadion \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/restleistungen-nach-schwellenwechsel/#con-28333)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -292,78 +384,6 @@ Information
   * Die Züge in Richtung stadteinwärts (Ahrensfelde) fahren von Gleis 2, Bahnsteig stadtauswärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Frohnau/Mühlenbeck-Mönchmühle \<\> Birkenwerder (Oranienburg) ###
-
-01.12. (Fr), ca. 22 Uhr durchgehend bis 04.12. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28328&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21473&tx_sbbconstructions_list%5Bperiod%5D=17443&type=5679&cHash=22f3fc08f1480cebf50676215f7bf487)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S1: Frohnau \<\> Birkenwerder
-  * Bus S8: Mühlenbeck-Mönchmühle \<\> Birkenwerder
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s1-1-1/#con-28328)
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-Nur Wochenende
-
-### Blankenfelde/Teltow Stadt \<\> Südkreuz (Potsdamer Platz) ###
-
-01.12. (Fr), ca. 22 Uhr durchgehend bis 04.12. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28331&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21402&tx_sbbconstructions_list%5Bperiod%5D=17447&type=5679&cHash=1a264bea7c516090aa3d237d2ee0dd31)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S2X: Blankenfelde \<\> Südkreuz (Halt nur an ausgewählten Bahnhöfen)
-     Diese Linie fährt Sa ca. 8 bis 21 Uhr und So ca. 9 bis 21 Uhr.
-  * Bus S2A: Blankenfelde \<\> Südkreuz
-  * Bus S2B: Lichtenrade \<\> Südkreuz
-  * Bus S25: Teltow Stadt \<\> Südkreuz
-
-* Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#con-28331)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#c30325)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ostbahnhof \<\> Westkreuz ###
-
-Nacht 03./04.12. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28332&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21478&tx_sbbconstructions_list%5Bperiod%5D=17448&type=5679&cHash=a1e1686d71de9ffa520e70c0e2240431)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Friedrichstraße \<\>Tiergarten S-Bahnverkehr nur im 7-/13-Minutentakt mit S7 und S9
-  * Tiergarten \<\> Charlottenburg S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/auswechseln-von-weichenverschluessen-in-zoologischer-garten/#con-28332)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -697,6 +717,47 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/inbetriebnahme-sicherungstechnik-nach-weichenerneuerung/#con-28466)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Nordbahnhof/Schönhauser Allee – Bornholmer Straße – Schönholz/Blankenburg (– Birkenwerder) ###
+
+Nacht 18./19.12. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28472&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21633&tx_sbbconstructions_list%5Bperiod%5D=17509&type=5679&cHash=800487b4d7d36cd0a4ac32b1c2c98469)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Bahnsteigänderung in Nordbahnhof, Gesundbrunnen, Bornholmer Straße
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-gesundbrunnen/#con-28472)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof – Spandau ###
+
+Nächte 18./19.12. (Mo/Di) und 19./20.12. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28485&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21649&tx_sbbconstructions_list%5Bperiod%5D=17520&type=5679&cHash=5bb383038e591ec0310b6ef625a28655)
+
+ Takt geändert
+
+Information
+
+* Taktänderung
+* Fahrplanänderung
+* Bahnsteigänderung in Charlottenburg und Westkreuz
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-schleif-und-stopfarbeiten/#con-28485)
 
 ### Fahrplanänderungen ###
 
@@ -1051,26 +1112,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-und-schienenfraesarbeiten/#con-28486)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Nordbahnhof/Schönhauser Allee – Bornholmer Straße – Schönholz/Blankenburg (– Birkenwerder) ###
-
-Nacht 18./19.12. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28472&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21633&tx_sbbconstructions_list%5Bperiod%5D=17509&type=5679&cHash=800487b4d7d36cd0a4ac32b1c2c98469)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Bahnsteigänderung in Nordbahnhof, Gesundbrunnen, Bornholmer Straße
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-gesundbrunnen/#con-28472)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
