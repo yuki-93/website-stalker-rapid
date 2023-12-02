@@ -4,15 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Grünauer Kreuz ###
+### Notarzteinsatz auf der Strecke Storkower Straße ###
 
- Letztes Update: 19:21 / 02.12.2023
+ Letztes Update: 19:58 / 02.12.2023
 
 Information
 
-Wegen einer Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen und Zugausfällen.
+Wegen eines Notarzteinsatzes auf der Strecke in Storkower Straße ist der Zugverkehr zwischen Frankfurter Allee und Landsberger Allee unterbrochen.
+*Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.*
+
+Der Zugverkehr wird wie folgt durchgeführt:
+
+* S41 verkehrt zwischen Frankfurter Allee und Landsberger Allee
+* S42 verkehrt zwischen Landsberger Allee und Frankfurter Allee
+* S8 verkehrt zwischen Schönfließ und Greifswalder Straße
+* S85 verkehrt nicht
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Grünauer Kreuz ###
+
+ Letztes Update: 19:33 / 02.12.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Zugausfällen.
 
 Wir bitten um Entschuldigung.
 
