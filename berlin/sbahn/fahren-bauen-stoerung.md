@@ -2,30 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Notarzteinsatz auf der Strecke Jungfernheide ###
-
- Letztes Update: 03:41 / 02.12.2023
-
-Information
-
-Wegen eines Notarzteinsatzes auf der Strecke im Bereich Jungfernheide ist der Zugverkehr der Linien S41 und S42 zwischen Beusselstraße und Westend unterbrochen.
-*Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.*
-
- Ein Ersatzverkehr mit einem Bus ist zwischen Westend \<\> Jungfernheide \<\> Beusselstraße eingerichtet.
-**Haltestellen des Ersatzverkehrs:**
-
-* S Westend: Spandauer Damm (Haltestelle Bus M45)
-* S Jungfernheide: Tegeler Weg (Haltestelle Bus 109)
-* S Beusselstraße: Beusselstraße, auf der Brücke (Haltestelle Bus 106, 123, N26)
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
