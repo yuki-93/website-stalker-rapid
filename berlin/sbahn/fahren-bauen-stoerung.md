@@ -4,27 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Grünauer Kreuz ###
-
- Letztes Update: 09:08 / 03.12.2023
-
-Information
-
-Wegen der Reparatur an einem Signal zwischen Adlershof und Grünau/ Altglienicke kann es auf den Linien S46,S8 und S9 zu Verspätungen kommen.
-
-* Die Linie S45 fährt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### kurzfristiger Personalausfall Fahrdienstleiter Schönfließ ###
 
- Letztes Update: 07:57 / 03.12.2023
+ Letztes Update: 11:54 / 03.12.2023
 
 Information
 
@@ -34,6 +18,15 @@ Bitte nutzen sie folgende Umfahrungsmöglichkeiten:
 
 * zwischen Bornholmer Straße und Hohen Neuendorf die S1 und den Ersatzverkehr mit Bussen für die S1
 * zwischen Hohen Neuendorf und Mühlenbeck-Mönchmühle den planmäßigen Ersatzverkehr mit Bussen für die Linie S8
+
+---
+
+Zwischen Pankow-Heinersdorf und Mühlenbeck-Mönchmühle besteht ein eingeschränkter Ersatzverkehr mit 1 Bus.
+
+Haltestellen dieses Ersatzverkehrs:
+
+* S-Bhf. Pankow-Heinersdorf: in der Straße "Am Feuchten Winkel"
+* S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
 
 Wir bitten um Entschuldigung.
 
