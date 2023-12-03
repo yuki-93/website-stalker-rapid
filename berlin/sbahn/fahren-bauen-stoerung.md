@@ -8,18 +8,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall Fahrdienstleiter Schönfließ ###
 
- Letztes Update: 23:30 / 02.12.2023
+ Letztes Update: 06:27 / 03.12.2023
 
 Information
 
-Wegen einem kurzfristigen Personalausfall des Fahrdienstleiters in Schönfließ verkehrt die Linie S8 am **Sonntag, den 03.12.2023 von ca. 06:00 Uhr bis 18:00 Uhr** zwischen Grünau und Blankenburg.
+Wegen eines kurzfristigen Personalausfalls des Fahrdienstleiters in Schönfließ verkehrt die Linie S8 **bis ca. 18:00 Uhr** nur zwischen Grünau und Blankenburg.
 
-Daher wird der planmäßig verkehrende Ersatzverkehr mit Bussen zwischen Birkenwerder und Mühlenbeck-Mönchmühle nach Pankow-Heinersdorf verlängert.
- Bitte beachten Sie, dass der Umstieg zwischen der Linie S8 und dem Ersatzverkehr mit Bussen in Pankow-Heinersdorf erfolgt.
-*In Blankenburg besteht **kein** direkter Übergang zum SEV.*
+**Der planmäßig bestehende Ersatzverkehr mit Bussen für die Linie S8 zwischen Birkenwerder und Mühlenbeck-Mönchmühle wird von/ nach Pankow-Heinersdorf verlängert.**
+Aufgrund der außerplanmäßigen Verlängerung kann es zu vereinzelten Fahrtausfällen kommen.
 
-Die Haltestelle des Ersatzverkehrs in Pankow-Heinersdorf befindet sich in "Am Feuchten Winkel".
-*Ein zusätzlicher Halt und Umstieg zum Bus 150 erfolgt in der Pasewalker Str./ Blankenburger Weg.*
+**Vom Busersatzverkehr werden folgende Haltstellen zusätzlich bedient:**
+
+* **Zusatzhalt:** Pasewalker Straße/ Blankenburger Weg (wie Bus 150)
+* **S-Bhf. Pankow-Heinersdorf**: in der Straße "Am Feuchten Winkel"
+
+**Bitte beachten Sie**, dass der Umstieg zwischen der Linie S8 und dem Ersatzverkehr mit Bussen in Pankow-Heinersdorf erfolgt.
+*In Blankenburg besteht **kein** direkter Übergang zum Ersatzverkehr mit Bussen.*
 
 Wir bitten um Entschuldigung.
 
