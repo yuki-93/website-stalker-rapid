@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Bus S2X - Änderung der Haltestelle am U-Bhf. Alt-Mariendorf ###
-
- Letztes Update: 12:39 / 03.12.2023
-
-Information
-
-Wegen ständiger Falschparker halten für die Busse der Linie Bus S2X des Ersatzverkehrs der Linie S2 zwischen Priesterweg und Blankenfelde am U-Bhf. Alt-Mariendorf **neu** an folgenden Positionen:
-
-* in Richtung Blankenfelde: Friedenstraße, BVG-Haltestelle Pos.4 (wie Bus M76, X76, 179)
-* in Fahrtrichtung Priesterweg: Mariendorfer Damm, BVG-Haltestelle Pos.3 (wie Bus M76, X76, 179)
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
