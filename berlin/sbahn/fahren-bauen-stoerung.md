@@ -8,26 +8,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall Fahrdienstleiter Schönfließ ###
 
- Letztes Update: 06:27 / 03.12.2023
+ Letztes Update: 07:57 / 03.12.2023
 
 Information
 
 Wegen eines kurzfristigen Personalausfalls des Fahrdienstleiters in Schönfließ verkehrt die Linie S8 **bis ca. 18:00 Uhr** nur zwischen Grünau und Blankenburg.
 
-**Der planmäßig bestehende Ersatzverkehr mit Bussen für die Linie S8 zwischen Birkenwerder und Mühlenbeck-Mönchmühle wird von/ nach Pankow-Heinersdorf verlängert.**
-Aufgrund der außerplanmäßigen Verlängerung kann es zu vereinzelten Fahrtausfällen kommen.
+Bitte nutzen sie folgende Umfahrungsmöglichkeiten:
 
-**Vom Busersatzverkehr werden folgende Haltstellen zusätzlich bedient:**
-
-* **Zusatzhalt:** Pasewalker Straße/ Blankenburger Weg (wie Bus 150)
-* **S-Bhf. Pankow-Heinersdorf**: in der Straße "Am Feuchten Winkel"
-
-**Bitte beachten Sie**, dass der Umstieg zwischen der Linie S8 und dem Ersatzverkehr mit Bussen in Pankow-Heinersdorf erfolgt.
-*In Blankenburg besteht **kein** direkter Übergang zum Ersatzverkehr mit Bussen.*
+* zwischen Bornholmer Straße und Hohen Neuendorf die S1 und den Ersatzverkehr mit Bussen für die S1
+* zwischen Hohen Neuendorf und Mühlenbeck-Mönchmühle den planmäßigen Ersatzverkehr mit Bussen für die Linie S8
 
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  Verbindung unterbrochen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Grünauer Kreuz ###
+
+ Letztes Update: 07:57 / 03.12.2023
+
+Information
+
+Wegen einer Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linien S45, S46 und S9 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
