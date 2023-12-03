@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Grünauer Kreuz ###
+
+ Letztes Update: 09:08 / 03.12.2023
+
+Information
+
+Wegen der Reparatur an einem Signal zwischen Adlershof und Grünau/ Altglienicke kann es auf den Linien S46,S8 und S9 zu Verspätungen kommen.
+
+* Die Linie S45 fährt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### kurzfristiger Personalausfall Fahrdienstleiter Schönfließ ###
@@ -22,20 +38,6 @@ Bitte nutzen sie folgende Umfahrungsmöglichkeiten:
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  Verbindung unterbrochen
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Grünauer Kreuz ###
-
- Letztes Update: 07:57 / 03.12.2023
-
-Information
-
-Wegen einer Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linien S45, S46 und S9 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
