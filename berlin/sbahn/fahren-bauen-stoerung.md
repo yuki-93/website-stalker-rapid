@@ -21,34 +21,6 @@ Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr
 
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### kurzfristiger Personalausfall Fahrdienstleiter Schönfließ ###
-
- Letztes Update: 11:54 / 03.12.2023
-
-Information
-
-Wegen eines kurzfristigen Personalausfalls des Fahrdienstleiters in Schönfließ verkehrt die Linie S8 **bis ca. 18:00 Uhr** nur zwischen Grünau und Blankenburg.
-
-Bitte nutzen sie folgende Umfahrungsmöglichkeiten:
-
-* zwischen Bornholmer Straße und Hohen Neuendorf die S1 und den Ersatzverkehr mit Bussen für die S1
-* zwischen Hohen Neuendorf und Mühlenbeck-Mönchmühle den planmäßigen Ersatzverkehr mit Bussen für die Linie S8
-
----
-
-Zwischen Pankow-Heinersdorf und Mühlenbeck-Mönchmühle besteht ein eingeschränkter Ersatzverkehr mit 1 Bus.
-
-Haltestellen dieses Ersatzverkehrs:
-
-* S-Bhf. Pankow-Heinersdorf: in der Straße "Am Feuchten Winkel"
-* S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
