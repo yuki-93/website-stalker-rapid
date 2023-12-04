@@ -18,20 +18,6 @@ Wir bitten um Verständnis.
 
  Zugverkehr verändert
 
-[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur am Zug in Innsbrucker Platz ###
-
- Letztes Update: 13:15 / 04.12.2023
-
-Information
-
-Nach einer Reparatur am Zug in Innsbrucker Platz kommt es auf den Linien S42, S45 und S46 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
