@@ -2,9 +2,9 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e
 
 []()
 
-Der ultimative Black Friday Sale. Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
+Heute bis zu 50% Rabatt. 14 Tage, 14 Deals im Countdown.
 
-[Jetzt kaufen \>\>](https://www.anker.com/eu-de/black-friday-angebote?ref=topbanner)
+[Jetzt kaufen \>\>](https://www.anker.com/eu-de/christmas-sale?ref=topbanner)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Verlängerter Black Friday. Bis zu 700€ Rabatt](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=naviBar)
 
@@ -14,13 +14,12 @@ Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
-Black Friday Gratisgeschenke
+Tägliche Spezialangebote
+für deine Feiertage
 
-Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
+Jeden Tag neue Rabatte!
 
-17. November - 3. Dezember
-
-[Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/black-friday-angebote?ref=masterBanner1)
+[Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/christmas-sale?ref=masterBanner1)
 
 Limitiertes Angebot
 
