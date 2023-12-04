@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### ärztliche Versorgung eines Fahrgastes in Rummelsburg - beendet ###
+
+ Letztes Update: 08:01 / 04.12.2023
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfallen.
+
+Wir bitten um Entschulduígung
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
