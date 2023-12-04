@@ -22,15 +22,13 @@ Mehr shoppen, mehr sparen! Gratisgeschenke ab 100€-Bestellwert.
 
 [Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/black-friday-angebote?ref=masterBanner1)
 
-Letzte Chance auf Deals
+Limitiertes Angebot
 
-Black Friday geht weiter!Bis zu 700€ Rabatt
+Die ultimative Solarstromlösungfür dein Zuhause
 
-Neue Deals. Endloser Nervenkitzel.
+Anker SOLIX Balkonkraftwerk mit Speicher
 
-28. November - 3. Dezember
-
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=masterBanner2)
+[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/products/b17c0?ref=masterBanner2)
 
 Entdecke innovative Ladelösungen
 ----------
@@ -119,17 +117,17 @@ Entdecke Anker Innovations
 
 * ###
 
-  Verlängerter Black Friday
+  Limitiertes Angebot
 
    ###
 
   ### Anker SOLIX Balkonkraftwerk ###
 
-  ### Spare bis zu 700€ ###
+  ### Spare bis zu 400€ ###
 
-  600W Mikroinverter, erweiterbar auf 800W | Letzte Chance auf Deals
+  600W Mikroinverter, erweiterbar auf 800W
 
-  [Mehr erfahren Verlängerter Black Friday ,Anker SOLIX Balkonkraftwerk,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
+  [Mehr erfahren Limitiertes Angebot ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
 
 Was macht Anker so besonders?
 ----------
