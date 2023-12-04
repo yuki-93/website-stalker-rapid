@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Frankfurter Allee ###
-
- Letztes Update: 16:59 / 04.12.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Frankfurter Allee kommt es auf den Linien S41, S8 und S85 zu Verspätungen.
-
-* Die **Linie S41** fährt nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
