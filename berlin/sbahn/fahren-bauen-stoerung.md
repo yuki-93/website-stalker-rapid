@@ -413,6 +413,30 @@ Information
 
  Nur Nachts
 
+### Friedrichstraße \> Grunewald ###
+
+05.12. (Di) bis 07.12. (Do) jeweils 1:17 Uhr bis 1:35 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20721&tx_sbbconstructions_list%5Bperiod%5D=17477&type=5679&cHash=b3ce49e4725f4027f5f3ef2991a5ea01)
+
+08.12. (Fr) jeweils 1:17 Uhr bis 1:35 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20721&tx_sbbconstructions_list%5Bperiod%5D=17486&type=5679&cHash=8597ca0e6c3eb9275006580e5f216ea6)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20721&type=5679&cHash=c1dd67f804b3db4b342e8857a683579c)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER – Terminal 1-2 ab 0:29 Uhr nach Grunewald (an 1:35 Uhr) endet bereits um 1:17 Uhr in Friedrichstraße.
+* Der Zug fällt von Friedrichstraße bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
 ### Westkreuz \> Charlottenburg ###
 
 05.12. (Di) bis 07.12. (Do) jeweils 3:32 Uhr bis 4:46 Uhr
@@ -432,30 +456,6 @@ Information
 * Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:34 Uhr in Charlottenburg
 * Der Zug fällt von Westkreuz bis Charlottenburg aus.
 * Dieser Zug fährt von Charlottenburg bis Friedrichstraße ca. 10 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Friedrichstraße \> Grunewald ###
-
-05.12. (Di) bis 07.12. (Do) jeweils 1:17 Uhr bis 1:35 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20721&tx_sbbconstructions_list%5Bperiod%5D=17477&type=5679&cHash=b3ce49e4725f4027f5f3ef2991a5ea01)
-
-08.12. (Fr) jeweils 1:17 Uhr bis 1:35 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20721&tx_sbbconstructions_list%5Bperiod%5D=17486&type=5679&cHash=8597ca0e6c3eb9275006580e5f216ea6)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20721&type=5679&cHash=c1dd67f804b3db4b342e8857a683579c)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER – Terminal 1-2 ab 0:29 Uhr nach Grunewald (an 1:35 Uhr) endet bereits um 1:17 Uhr in Friedrichstraße.
-* Der Zug fällt von Friedrichstraße bis Grunewald aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
@@ -985,31 +985,6 @@ Information
 
  Nur Nachts
 
-### Westkreuz \> Charlottenburg ###
-
-05.12. (Di) bis 07.12. (Do) jeweils 3:32 Uhr bis 4:46 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28390&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21535&tx_sbbconstructions_list%5Bperiod%5D=17484&type=5679&cHash=8a15c1dc1f087cd68a661c6fe56487d0)
-
-08.12. (Fr) jeweils 3:32 Uhr bis 4:46 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28390&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21535&tx_sbbconstructions_list%5Bperiod%5D=17485&type=5679&cHash=dbafee5b7a535fe1fad675609b268dcc)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28390&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21535&type=5679&cHash=70d77860cf1ef6f1c5861eb0154f074f)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:34 Uhr in Charlottenburg
-* Der Zug fällt von Westkreuz bis Charlottenburg aus.
-* Dieser Zug fährt von Charlottenburg bis Friedrichstraße ca. 10 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Friedrichstraße \> Grunewald ###
 
 05.12. (Di) bis 07.12. (Do) jeweils 1:17 Uhr bis 1:35 Uhr
@@ -1136,6 +1111,31 @@ Information
 
 * Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:39 Uhr in Warschauer Straße.
 * Der Zug fällt von Westkreuz bis Warschauer Straße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Charlottenburg ###
+
+05.12. (Di) bis 07.12. (Do) jeweils 3:32 Uhr bis 4:46 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28390&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21535&tx_sbbconstructions_list%5Bperiod%5D=17484&type=5679&cHash=8a15c1dc1f087cd68a661c6fe56487d0)
+
+08.12. (Fr) jeweils 3:32 Uhr bis 4:46 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28390&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21535&tx_sbbconstructions_list%5Bperiod%5D=17485&type=5679&cHash=dbafee5b7a535fe1fad675609b268dcc)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28390&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21535&type=5679&cHash=70d77860cf1ef6f1c5861eb0154f074f)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:34 Uhr in Charlottenburg
+* Der Zug fällt von Westkreuz bis Charlottenburg aus.
+* Dieser Zug fährt von Charlottenburg bis Friedrichstraße ca. 10 Minuten später.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
