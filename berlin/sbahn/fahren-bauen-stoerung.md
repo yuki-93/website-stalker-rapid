@@ -8,11 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Zug in Hermannstraße ###
 
- Letztes Update: 16:18 / 05.12.2023
+ Letztes Update: 16:37 / 05.12.2023
 
 Information
 
-Wegen der Reparatur an einem Zug in Hermannstraße kommt es auf den Linien S41, S45, S46 und S47 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Zug in Hermannstraße kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
+
+* Die Linie S45 fährt nicht.
+* Die Linie S47 fährt Spindlersfeld \<\> Schöneweide.
 
 Wir bitten um Entschuldigung.
 
