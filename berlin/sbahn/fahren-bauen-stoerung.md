@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einem Zug in Hermannstraße beendet ###
-
- Letztes Update: 20:28 / 05.12.2023
-
-Information
-
-Nach der Reparatur an einem Zug in Hermannstraße kommt es auf den Linien S41 und S42 noch zu folgenden Einschränkungen:
-
-* Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
