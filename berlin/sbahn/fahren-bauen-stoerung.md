@@ -4,19 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an einem Zug in Hermannstraße beendet ###
 
- Letztes Update: 18:17 / 05.12.2023
+ Letztes Update: 18:51 / 05.12.2023
 
 Information
 
-Nach der Reparatur an einem Zug in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen folgenden Einschränkungen:
+Nach der Reparatur an einem Zug in Hermannstraße kommt es auf den Linien S41, S42 und S47 noch zu Verspätungen folgenden Einschränkungen:
 
 * Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
-* Die Linie S45 fährt nicht.
-* Die Linie S47 fährt Spindlersfeld \<\> Schöneweide.
 
 Wir bitten um Entschuldigung.
 
