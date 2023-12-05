@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Zug in Hermannstraße beendet ###
 
- Letztes Update: 18:51 / 05.12.2023
+ Letztes Update: 20:28 / 05.12.2023
 
 Information
 
-Nach der Reparatur an einem Zug in Hermannstraße kommt es auf den Linien S41, S42 und S47 noch zu Verspätungen folgenden Einschränkungen:
+Nach der Reparatur an einem Zug in Hermannstraße kommt es auf den Linien S41 und S42 noch zu folgenden Einschränkungen:
 
 * Die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
 
