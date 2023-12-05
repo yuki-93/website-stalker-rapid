@@ -6,7 +6,7 @@ Heute bis zu 50% Rabatt. 14 Tage, 14 Deals im Countdown.
 
 [Jetzt kaufen \>\>](https://www.anker.com/eu-de/christmas-sale?ref=topbanner)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Verlängerter Black Friday. Bis zu 700€ Rabatt](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix/black-friday-bms?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Entdecke Energielösungen](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
 ProdukteNach Kategorie[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Winter-Sale](https://www.anker.com/eu-de/christmas-sale?ref=naviMenu)
 
