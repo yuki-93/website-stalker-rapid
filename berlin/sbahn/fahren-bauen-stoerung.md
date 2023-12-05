@@ -114,24 +114,6 @@ Information
 
  Nur Nachts
 
-### Westkreuz \> Ostbahnhof ###
-
-05.12. (Di) bis 07.12. (Do) jeweils 1:15 Uhr bis 4 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26785&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19880&tx_sbbconstructions_list%5Bperiod%5D=17483&type=5679&cHash=9c0cef1859bb093b684daa932c53f93f)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:37 Uhr in Ostbahnhof.
-* Der Zug fällt von Westkreuz bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Westkreuz \> Charlottenburg ###
 
 05.12. (Di) bis 07.12. (Do) jeweils 3:32 Uhr bis 4:46 Uhr
@@ -152,41 +134,6 @@ Information
 * Der Zug fällt von Westkreuz bis Charlottenburg aus.
 * Dieser Zug fährt von Charlottenburg bis Friedrichstraße ca. 10 Minuten später.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Geänderte Abfahrtzeit Schöneweide \> Flughafen BER – Terminal 1-2 ###
-
-05.12. (Di) und 06.12. (Mi) jeweils 3:38 Uhr bis 4:13 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28387&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21532&tx_sbbconstructions_list%5Bperiod%5D=17475&type=5679&cHash=c0a716be37e10dbac73202f44aeda874)
-
- Zugverkehr verändert
-
-Information
-
-* Der Zug Schöneweide ab 3:38 Uhr nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) fährt von Schöneweide bis Flughafen BER – Terminal 1-2 13 Minuten später (Schöneweide ab 3:51 Uhr - Flughafen BER – Terminal 1-2 an 4:13 Uhr).
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Grünau \> Schöneweide ###
-
-05.12. (Di) und 06.12. (Mi) jeweils 3:41 Uhr bis 3:53 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25963&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19059&tx_sbbconstructions_list%5Bperiod%5D=17476&type=5679&cHash=4b044170bd1dcc02302197b94ccff2dc)
-
- fährt nicht
-
-Information
-
-* Der Zug Grünau ab 3:41 Uhr nach Spandau (an 4:47 Uhr) beginnt erst um 3:53 Uhr in Schöneweide.
-* Der Zug fällt von Grünau bis Schöneweide aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
@@ -367,6 +314,24 @@ Information
 
  Nur Nachts
 
+### Alexanderplatz \> Treptower Park ###
+
+05.12. (Di) bis 07.12. (Do) jeweils 3:05 Uhr bis 3:14 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19432&tx_sbbconstructions_list%5Bperiod%5D=17481&type=5679&cHash=c69aaf2257180e2297920cd78e808824)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
+* Der Zug fällt von Alexanderplatz bis Treptower Park aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
 ### Ostbahnhof \> Grunewald ###
 
 05.12. (Di) bis 07.12. (Do) jeweils 1:29 Uhr bis 1:55 Uhr
@@ -417,24 +382,6 @@ Information
 * Der Zug fällt von Charlottenburg bis Treptower Park aus.
 * In den Nächten 04./05.12. (Mo/Di) und 05./06.12. (Di/Mi) fährt dieser Zug von Schöneweide bis Flughafen BER – Terminal 1-2 ca. 12 Minuten später.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Treptower Park ###
-
-05.12. (Di) bis 07.12. (Do) jeweils 3:05 Uhr bis 3:14 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19432&tx_sbbconstructions_list%5Bperiod%5D=17481&type=5679&cHash=c69aaf2257180e2297920cd78e808824)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
-* Der Zug fällt von Alexanderplatz bis Treptower Park aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
@@ -992,6 +939,24 @@ Information
 
  Nur Nachts
 
+### Alexanderplatz \> Treptower Park ###
+
+05.12. (Di) bis 07.12. (Do) jeweils 3:05 Uhr bis 3:14 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19432&tx_sbbconstructions_list%5Bperiod%5D=17481&type=5679&cHash=c69aaf2257180e2297920cd78e808824)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
+* Der Zug fällt von Alexanderplatz bis Treptower Park aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
 ### Ostbahnhof \> Grunewald ###
 
 05.12. (Di) bis 07.12. (Do) jeweils 1:29 Uhr bis 1:55 Uhr
@@ -1024,24 +989,6 @@ Information
 * Der Zug fällt von Charlottenburg bis Treptower Park aus.
 * In den Nächten 04./05.12. (Mo/Di) und 05./06.12. (Di/Mi) fährt dieser Zug von Schöneweide bis Flughafen BER – Terminal 1-2 ca. 12 Minuten später.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Treptower Park ###
-
-05.12. (Di) bis 07.12. (Do) jeweils 3:05 Uhr bis 3:14 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19432&tx_sbbconstructions_list%5Bperiod%5D=17481&type=5679&cHash=c69aaf2257180e2297920cd78e808824)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
-* Der Zug fällt von Alexanderplatz bis Treptower Park aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
