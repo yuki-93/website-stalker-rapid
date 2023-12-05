@@ -2,20 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### ärztliche Versorgung eines Fahrgastes in Wuhlheide beendet ###
-
- Letztes Update: 09:57 / 05.12.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Wuhlheide kann der 10-Minuten-Takt auf der Linie S3 zwischen Erkner und Ostbahnhof nicht angeboten werden.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
