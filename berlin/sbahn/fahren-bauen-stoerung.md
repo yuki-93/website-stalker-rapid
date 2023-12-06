@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### defektes Stellwerk Schöneweide ###
-
- Letztes Update: 05:47 / 06.12.2023
-
-Information
-
-Wegen eines defekten Stellwerks in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
-
-* Linie S47: Spindlersfeld \<\> Schöneweide.
-* Linie S85: verkehrt nicht.
-* Linie S9: Spandau \<\> Treptower Park (Gleis 4) sowie Flughafen BER Terminal 1-2 \<\> Schöneweide.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
