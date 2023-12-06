@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur an einem anderen Zug ###
+
+ Letztes Update: 13:58 / 06.12.2023
+
+Information
+
+Wegen der Reparatur an einem anderen Zug entfallen in der Zeit von ca. 14 Uhr bis 19 Uhr die zusätzlichen Züge (Mahlsdorf ab 16, 36, 56 nach Ostbahnhof sowie Ostbahnhof ab 07, 27, 47 nach Mahlsdorf) auf der Linie S5.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
