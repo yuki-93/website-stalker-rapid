@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an Signalen in Bornholmer Straße ###
+
+ Letztes Update: 04:37 / 06.12.2023
+
+Information
+
+Wegen der Reparatur an Signalen in Bornholmer Straße kommt es auf den Linien S2, S8 und S85 zu Verspätungen und Ausfällen.
+
+Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Priesterweg \<\> Nordbahnhof angeboten werden.
+
+Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -111,33 +131,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-landsberger-allee/#con-28336)
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Charlottenburg ###
-
-05.12. (Di) bis 07.12. (Do) jeweils 3:32 Uhr bis 4:46 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28390&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21535&tx_sbbconstructions_list%5Bperiod%5D=17484&type=5679&cHash=8a15c1dc1f087cd68a661c6fe56487d0)
-
-08.12. (Fr) jeweils 3:32 Uhr bis 4:46 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28390&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21535&tx_sbbconstructions_list%5Bperiod%5D=17485&type=5679&cHash=dbafee5b7a535fe1fad675609b268dcc)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28390&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21535&type=5679&cHash=70d77860cf1ef6f1c5861eb0154f074f)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER – Terminal 1-2 (an 4:36 Uhr) beginnt erst um 3:34 Uhr in Charlottenburg
-* Der Zug fällt von Westkreuz bis Charlottenburg aus.
-* Dieser Zug fährt von Charlottenburg bis Friedrichstraße ca. 10 Minuten später.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
