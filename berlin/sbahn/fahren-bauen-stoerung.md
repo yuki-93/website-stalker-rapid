@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur am Signal in Südkreuz ###
-
- Letztes Update: 09:02 / 06.12.2023
-
-Information
-
-Wegen der Reparatur am Signal in Südkreuz kommt es auf den Linien S41, S45 und S46 zu Verspätungen und folgender Einschränkung.
-
-* Linie S45 verkehrt Flughafen BER Terminal 1-2 \<\> Tempelhof.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
