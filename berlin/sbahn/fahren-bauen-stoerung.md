@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an einem Signal in Südende ###
+
+ Letztes Update: 18:13 / 06.12.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Südende kommt es auf der Linie S25 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung verspätet
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz Brandenburger Tor - (Personen im Gleis) - beendet ###
+
+ Letztes Update: 18:10 / 06.12.2023
+
+Information
+
+Nach einem Polizeieinsatz (Personen im Gleis) im Bereich Brandenburger Tor verkehrt die Linie S26 nicht.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Personen haben die Strecke verlassen ###
@@ -34,22 +62,6 @@ Wegen der Reparatur an einem Signal in Jannowitzbrücke kann es auf den Linien S
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz Brandenburger Tor - (Personen im Gleis) - beendet ###
-
- Letztes Update: 16:19 / 06.12.2023
-
-Information
-
-Nach einem Polizeieinsatz (Personen im Gleis) im Bereich Brandenburger Tor kommt es auf den Linien S1, S2, S25 & S26 noch zu Verspätungen und Ausfällen.
-
-* Linie S26 verkehrt nicht
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung verspätet
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
