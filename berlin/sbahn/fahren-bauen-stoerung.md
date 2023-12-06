@@ -4,21 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz Bornholmer Straße - beendet ###
 
- Letztes Update: 18:32 / 06.12.2023
+ Letztes Update: 20:08 / 06.12.2023
 
 Information
 
-Nach einem Polizeieinsatz in Bornholmer Straße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und eizelnen Ausfällen.
-
-* Linie S26 verkehrt nicht
+Nach einem Polizeieinsatz in Bornholmer Straße verkehrt die Linie S26 nicht.
 
 Wir bitten um Entschguldigung
 
  sonstige Einschränkungen  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Personen haben die Strecke verlassen ###
+
+ Letztes Update: 20:04 / 06.12.2023
+
+Information
+
+Nach unbefugten Personen auf der Strecke zwischen Frankfurter Allee \<\> Ostkreuz verkehren die Linien S41 und S42 im 10-Minuten-Takt.
+
+* Linie S85 verkehrt nicht
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung unterbrochen
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
@@ -33,23 +47,6 @@ Wegen der Reparatur an einem Signal in Südende kommt es auf der Linie S25 zu Ve
 Wir bitten um Entschuldigung
 
  sonstige Einschränkungen  Verbindung verspätet
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Personen haben die Strecke verlassen ###
-
- Letztes Update: 16:54 / 06.12.2023
-
-Information
-
-Nach unbefugten Personen auf der Strecke zwischen Frankfurter Allee \<\> Ostkreuz kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-* Linien S41 / S42 verkehren im 10-Minuten-Takt
-* Linie S85 verkehrt nicht
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung unterbrochen
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
