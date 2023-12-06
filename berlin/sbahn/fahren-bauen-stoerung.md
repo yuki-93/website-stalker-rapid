@@ -4,23 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an Signalen in Bornholmer Straße ###
+### defektes Stellwerk Schöneweide ###
 
- Letztes Update: 04:37 / 06.12.2023
+ Letztes Update: 05:47 / 06.12.2023
 
 Information
 
-Wegen der Reparatur an Signalen in Bornholmer Straße kommt es auf den Linien S2, S8 und S85 zu Verspätungen und Ausfällen.
+Wegen eines defekten Stellwerks in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
 
-Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Priesterweg \<\> Nordbahnhof angeboten werden.
-
-Die Linie S85 verkehrt nicht.
+* Linie S47: Spindlersfeld \<\> Schöneweide.
+* Linie S85: verkehrt nicht.
+* Linie S9: Spandau \<\> Treptower Park (Gleis 4) sowie Flughafen BER Terminal 1-2 \<\> Schöneweide.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
