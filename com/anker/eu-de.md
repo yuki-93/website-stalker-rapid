@@ -104,18 +104,6 @@ Entdecke Anker Innovations
 
 * ###
 
-   Deal des Jahres
-
-   ###
-
-  ### Bis zu 1.500€ Rabatt ###
-
-  Verlängerter Black Friday Noch mehr spannende Deals
-
-  [Mehr erfahren Deal des Jahres ,Bis zu 1.500€ Rabatt](https://www.anker.com/eu-de/anker-solix/black-friday-pps?ref=productBanner7_3)
-
-* ###
-
   Limitiertes Angebot
 
    ###
@@ -126,7 +114,7 @@ Entdecke Anker Innovations
 
   600W Mikroinverter, erweiterbar auf 800W
 
-  [Mehr erfahren Limitiertes Angebot ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
+  [Mehr erfahren Limitiertes Angebot ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_3)
 
 Was macht Anker so besonders?
 ----------
