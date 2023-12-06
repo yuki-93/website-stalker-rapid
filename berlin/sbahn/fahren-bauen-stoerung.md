@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Personen haben die Strecke verlassen ###
-
- Letztes Update: 20:27 / 06.12.2023
-
-Information
-
-Nach unbefugten Personen auf der Strecke zwischen Frankfurter Allee \<\> Ostkreuz verkehren die Linien S41 und S42 im 10-Minuten-Takt.
-
-* Linie S85 verkehrt nicht
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Reparatur an einem Signal in Südende ###
