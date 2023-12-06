@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz Bornholmer Straße - beendet ###
-
- Letztes Update: 20:08 / 06.12.2023
-
-Information
-
-Nach einem Polizeieinsatz in Bornholmer Straße verkehrt die Linie S26 nicht.
-
-Wir bitten um Entschguldigung
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Personen haben die Strecke verlassen ###
 
- Letztes Update: 20:04 / 06.12.2023
+ Letztes Update: 20:27 / 06.12.2023
 
 Information
 
@@ -32,7 +18,7 @@ Nach unbefugten Personen auf der Strecke zwischen Frankfurter Allee \<\> Ostkreu
 
 Wir bitten um Entschuldigung
 
- sonstige Einschränkungen  Verbindung unterbrochen
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
