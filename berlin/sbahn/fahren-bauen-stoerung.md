@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz Bornholmer Straße - beendet ###
+
+ Letztes Update: 18:32 / 06.12.2023
+
+Information
+
+Nach einem Polizeieinsatz in Bornholmer Straße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und eizelnen Ausfällen.
+
+* Linie S26 verkehrt nicht
+
+Wir bitten um Entschguldigung
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Reparatur an einem Signal in Südende ###
@@ -13,20 +29,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 Wegen der Reparatur an einem Signal in Südende kommt es auf der Linie S25 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz Brandenburger Tor - (Personen im Gleis) - beendet ###
-
- Letztes Update: 18:10 / 06.12.2023
-
-Information
-
-Nach einem Polizeieinsatz (Personen im Gleis) im Bereich Brandenburger Tor verkehrt die Linie S26 nicht.
 
 Wir bitten um Entschuldigung
 
@@ -62,20 +64,6 @@ Wegen der Reparatur an einem Signal in Jannowitzbrücke kann es auf den Linien S
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an einem anderen Zug ###
-
- Letztes Update: 13:58 / 06.12.2023
-
-Information
-
-Wegen der Reparatur an einem anderen Zug entfallen in der Zeit von ca. 14 Uhr bis 19 Uhr die zusätzlichen Züge (Mahlsdorf ab 16, 36, 56 nach Ostbahnhof sowie Ostbahnhof ab 07, 27, 47 nach Mahlsdorf) auf der Linie S5.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
