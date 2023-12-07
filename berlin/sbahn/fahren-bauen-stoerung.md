@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Bahnsteigschäden in Olympiastadion Fahrtrichtung Erkner/Flughafen BER Terminal 1,2 ###
+
+ Letztes Update: 01:55 / 07.12.2023
+
+Information
+
+Wegen Bahnsteigschäden in Olympiastadion entfällt der Verkehrshalt auf den Linien S3 und S9 in Richtung Erkner/Flughafen BER Terminal 1-2.
+
+Fahrgäste aus Richtung Spandau nach Olympiastadion fahren bis Heerstraße und benutzen die Züge der Gegenrichtung. (Bahnsteigseitenwechsel)
+
+Fahrgäste mit Zustieg in Olympiastadion fahren in Richtung Spandau bis Pichelsberg und steigen dort um. (Bahnsteigseitenwechsel)
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -106,24 +126,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/restleistungen-nach-schwellenwechsel-1/#con-28483)
 
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Ostbahnhof ###
-
-05.12. (Di) bis 07.12. (Do) jeweils 1:15 Uhr bis 4 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26785&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19880&tx_sbbconstructions_list%5Bperiod%5D=17483&type=5679&cHash=9c0cef1859bb093b684daa932c53f93f)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:37 Uhr in Ostbahnhof.
-* Der Zug fällt von Westkreuz bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
