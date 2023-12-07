@@ -4,27 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Warnstreik der GDL ###
-
- Letztes Update: 20:13 / 07.12.2023
-
-Information
-
-Wegen eines Warnstreiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es aktuell zu nachfolgenden Einschränkungen im Zugverkehr:
-
-* Die Linien S41 und S42 verkehren im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Reparatur am Stellwerk in Bernau ###
 
- Letztes Update: 20:10 / 07.12.2023
+ Letztes Update: 21:15 / 07.12.2023
 
 Information
 
@@ -39,7 +23,7 @@ Wir bitten um Entschuldigung.
 
 ### Bahnsteigschäden in Olympiastadion Fahrtrichtung Erkner/Flughafen BER Terminal 1-2 ###
 
- Letztes Update: 18:54 / 07.12.2023
+ Letztes Update: 21:15 / 07.12.2023
 
 Information
 
