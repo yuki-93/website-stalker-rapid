@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Bahnsteigschäden in Olympiastadion Fahrtrichtung Erkner/Flughafen BER Terminal 1-2 ###
 
- Letztes Update: 04:26 / 07.12.2023
+ Letztes Update: 14:07 / 07.12.2023
 
 Information
 
