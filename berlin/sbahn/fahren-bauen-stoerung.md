@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur am Signal in Tempelhof ###
-
- Letztes Update: 05:46 / 07.12.2023
-
-Information
-
-Wegen einer Reparatur am Signal in Tempelhof kommt es auf den Linien S42, S45 und S46 zu Verspätungen und folgender Einschränkung:
-
-* Linie S42 verkehrt im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Bahnsteigschäden in Olympiastadion Fahrtrichtung Erkner/Flughafen BER Terminal 1-2 ###
