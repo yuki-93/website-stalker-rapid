@@ -8,21 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivfüher (GDL) ###
 
- Letztes Update: 22:05 / 07.12.2023
+ Letztes Update: 23:17 / 07.12.2023
 
 Information
 
 Wegen des Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **bis einschließlich Freitag, den 08.12.2023 ca. 22:00 Uhr**, zu Zugausfällen im gesamten S-Bahn-Netz.
 
+**Wir versuchen**, je nach dem wieviel Personal tatsächlich zur Verfügung steht, auf einigen Strecken einen Zugverkehr anzubieten und werden dies an dieser Stelle veröffentlichen.
+
 **Aktuell können folgende Linien/ Strecken bedient werden:**
 
-* **Zugverkehr im gesamten S-Bahn-Netz eingestellt**
-
-**Wir versuchen**, je nach dem wieviel Personal tatsächlich zur Verfügung steht, auf einigen Strecken einen Zugverkehr anzubieten und werden dies an dieser Stelle veröffentlichen.
+* **S46:** verkehrt Königs Wusterhausen \<\> Schöneberg, *dabei in Fahrtrichtung Schöneberg ab Baumschulenweg umgeleitet über Treptower Park.*
+* **S5:** verkehrt Strausberg Nord \<\> Ostbahnhof, mit Umsteigen in Mahlsdorf
+* **S9:** verkehrt Flughafen BER Terminal 1-2 \<\> Friedrichstraße
 
 ---
 
-Für Freitag, den 08.12.2023 versuchen wir einen **Notfahrplan im 20-Minuten-Takt** zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **auf den folgenden Linien** einzurichten:
+**Für Freitag, den 08.12.2023** versuchen wir einen **Notfahrplan im 20-Minuten-Takt** zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **auf den folgenden Linien** einzurichten:
 
 * **Linie S3:** Erkner \<\> Ostbahnhof
 * **Linie S46:** Königs Wusterhausen \<\> Schöneberg
