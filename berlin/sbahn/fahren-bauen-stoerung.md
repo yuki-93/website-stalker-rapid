@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Bahnsteigschäden in Olympiastadion Fahrtrichtung Erkner/Flughafen BER Terminal 1-2 ###
+
+ Letztes Update: 18:54 / 07.12.2023
+
+Information
+
+Wegen Bahnsteigschäden in Olympiastadion entfällt der Verkehrshalt auf den Linien S3 und S9 in Richtung Erkner/Flughafen BER Terminal 1-2.
+
+Fahrgäste aus Richtung Spandau nach Olympiastadion fahren bis Heerstraße und benutzen die Züge der Gegenrichtung. (Bahnsteigseitenwechsel)
+
+Fahrgäste mit Zustieg in Olympiastadion fahren in Richtung Spandau bis Pichelsberg und steigen dort um. (Bahnsteigseitenwechsel)
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Reparatur am Stellwerk in Bernau ###
@@ -18,24 +36,6 @@ Wegen einer Reparatur am Stellwerk in Bernau kommt es auf der Linie S2 zu Versp
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Bahnsteigschäden in Olympiastadion Fahrtrichtung Erkner/Flughafen BER Terminal 1-2 ###
-
- Letztes Update: 14:07 / 07.12.2023
-
-Information
-
-Wegen Bahnsteigschäden in Olympiastadion entfällt der Verkehrshalt auf den Linien S3 und S9 in Richtung Erkner/Flughafen BER Terminal 1-2.
-
-Fahrgäste aus Richtung Spandau nach Olympiastadion fahren bis Heerstraße und benutzen die Züge der Gegenrichtung. (Bahnsteigseitenwechsel)
-
-Fahrgäste mit Zustieg in Olympiastadion fahren in Richtung Spandau bis Pichelsberg und steigen dort um. (Bahnsteigseitenwechsel)
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
