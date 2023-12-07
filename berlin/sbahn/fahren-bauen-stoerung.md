@@ -111,24 +111,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Treptower Park ###
-
-05.12. (Di) bis 07.12. (Do) jeweils 3:05 Uhr bis 3:14 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19432&tx_sbbconstructions_list%5Bperiod%5D=17481&type=5679&cHash=c69aaf2257180e2297920cd78e808824)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER – Terminal 1-2 (an 3:45 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
-* Der Zug fällt von Alexanderplatz bis Treptower Park aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Westkreuz \> Ostbahnhof ###
 
 05.12. (Di) bis 07.12. (Do) jeweils 1:15 Uhr bis 4 Uhr
@@ -141,25 +123,6 @@ Information
 
 * Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:37 Uhr in Ostbahnhof.
 * Der Zug fällt von Westkreuz bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Treptower Park ###
-
-05.12. (Di) bis 07.12. (Do) jeweils 3:02 Uhr bis 3:29 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28389&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21534&tx_sbbconstructions_list%5Bperiod%5D=17482&type=5679&cHash=65aa443af263b4cabd1bc1a30e0d1523)
-
- fährt nicht
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER – Terminal 1-2 (an 4:00 Uhr) beginnt erst um 3:29 Uhr in Treptower Park.
-* Der Zug fällt von Charlottenburg bis Treptower Park aus.
-* In den Nächten 04./05.12. (Mo/Di) und 05./06.12. (Di/Mi) fährt dieser Zug von Schöneweide bis Flughafen BER – Terminal 1-2 ca. 12 Minuten später.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
