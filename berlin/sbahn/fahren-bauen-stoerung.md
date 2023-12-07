@@ -8,11 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Stellwerk in Bernau ###
 
- Letztes Update: 17:22 / 07.12.2023
+ Letztes Update: 17:42 / 07.12.2023
 
 Information
 
 Wegen einer Reparatur am Stellwerk in Bernau kommt es auf der Linie S2 zu Verspätungen und Zugausfällen.
+*In Zepernick ist ein Umstieg mit Bahnsteigseitenwechsel erforderlich.*
 
 Wir bitten um Entschuldigung.
 
