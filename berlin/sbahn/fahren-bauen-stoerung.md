@@ -4,28 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Bahnsteigschäden in Olympiastadion Fahrtrichtung Erkner/Flughafen BER Terminal 1-2 ###
-
- Letztes Update: 22:13 / 08.12.2023
-
-Information
-
-Wegen Bahnsteigschäden in Olympiastadion entfällt für die Linien S3 (in Richtung Erkner) und S9 (in Richtung Flughafen BER Terminal 1-2) der halt in Olympiastadion.
-
-* Fahrgäste aus Richtung Spandau nach Olympiastadion fahren bis Heerstraße und benutzen ab dort die Züge der Gegenrichtung.
-* Fahrgäste ab Olympiastadion in Fahrtrichtung Westkreuz fahren in Richtung Spandau bis Pichelsberg und steigen dort in die Züge der Gegenrichtung um.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Streik der Gewerkschaft Deutscher Lokomotivfüher (GDL) beendet ###
 
- Letztes Update: 22:10 / 08.12.2023
+ Letztes Update: 23:19 / 08.12.2023
 
 Information
 
@@ -33,17 +16,37 @@ Information
 
 **Es kommt aber weiterhin** zu Verspätungen und Ausfällen, da unsere Triebfahrzeugführer und Triebfahrzeugführerinnen erst zu den abgestellten Züge gebracht und die Züge anschließend noch für den Einsatz vorbereitet werden müssen.
 
-**Aktuell fahren Züge auf folgenden Linien:**
+**Aktuell sind noch folgende Linien betroffen :**
 
-* **Linie S1**: Oranienburg \<\> Wannsee
-* **Linie S3:** Erkner \<\> Spandau
-* **Linie S46:** Königs Wusterhausen \<\> Westend
-* **Linie S5:** Strausberg Nord \<\> Ostbahnhof
-* **Linie S9:** Flughafen BER Terminal 1-2 \<\> Spandau
+* **Linie S2:** größere Ausfälle
+* **Linie S25:** größere Ausfälle
+* **Linie S41/ S42**: vereinzelte Ausfälle
+* **Linie S45:** fährt nicht
+* **Linie S5:** größere Ausfälle
+* **Linie S7:** größere Ausfälle
+* **Linie S75:** größere Ausfälle
+* **Linie S8:** größere Ausfälle
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Bahnsteigschäden in Olympiastadion Fahrtrichtung Erkner/Flughafen BER Terminal 1-2 ###
+
+ Letztes Update: 22:20 / 08.12.2023
+
+Information
+
+Wegen Bahnsteigschäden in Olympiastadion entfällt für die Linien S3 (in Richtung Erkner) und S9 (in Richtung Flughafen BER Terminal 1-2) der Halt in Olympiastadion.
+
+* Fahrgäste aus Richtung Spandau nach Olympiastadion fahren bis Heerstraße und benutzen ab dort die Züge der Gegenrichtung.
+* Fahrgäste ab Olympiastadion in Fahrtrichtung Westkreuz fahren in Richtung Spandau bis Pichelsberg und steigen dort in die Züge der Gegenrichtung um.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
