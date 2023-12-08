@@ -21,13 +21,35 @@ Jeden Tag neue Rabatte!
 
 [Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/christmas-sale?ref=masterBanner1)
 
-Limitiertes Angebot
+Gratis Geschenk
 
-Die ultimative Solarstromlösungfür dein Zuhause
+Power für deine Festtagstimmung
 
-Anker SOLIX Balkonkraftwerk mit Speicher
+Mach die Festtage zu etwas Besonderem mit bis zu 700€ Rabatt und gratis Geschenk.
 
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/products/b17c0?ref=masterBanner2)
+02
+
+:
+
+Tagen
+
+18
+
+:
+
+Std.
+
+35
+
+:
+
+Min.
+
+53
+
+Sek.
+
+[Je commandemasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner2)
 
 Entdecke innovative Ladelösungen
 ----------
