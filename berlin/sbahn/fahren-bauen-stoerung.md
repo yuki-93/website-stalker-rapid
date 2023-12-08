@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivfüher (GDL) ###
 
- Letztes Update: 15:15 / 08.12.2023
+ Letztes Update: 17:27 / 08.12.2023
 
 Information
 
@@ -20,7 +20,7 @@ Wegen des Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) **bis heute
 * **Linie S3:** Erkner \<\> Ostbahnhof
 * **Linie S46:** Königs Wusterhausen \<\> Schöneberg
 * **Linie S5:** Strausberg Nord \<\> Ostbahnhof
-* **Linie S9:** Flughafen BER Terminal 1-2 \< Ostbahnhof \> Friedrichstraße
+* **Linie S9:** Flughafen BER Terminal 1-2 \<\> Ostbahnhof \<\> Friedrichstraße
 
 **Dieser Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
 
