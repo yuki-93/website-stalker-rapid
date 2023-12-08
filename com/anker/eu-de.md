@@ -33,19 +33,19 @@ Mach die Festtage zu etwas Besonderem mit bis zu 700€ Rabatt und gratis Gesche
 
 Tagen
 
-18
+17
 
 :
 
 Std.
 
-35
+39
 
 :
 
 Min.
 
-53
+12
 
 Sek.
 
