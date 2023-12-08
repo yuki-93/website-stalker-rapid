@@ -4,11 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S45](https://sbahn.berlin/fahren/s45/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Streik der Gewerkschaft Deutscher Lokomotivfüher (GDL) beendet ###
 
- Letztes Update: 23:19 / 08.12.2023
+ Letztes Update: 00:10 / 09.12.2023
 
 Information
 
@@ -19,34 +19,13 @@ Information
 **Aktuell sind noch folgende Linien betroffen :**
 
 * **Linie S2:** größere Ausfälle
-* **Linie S25:** größere Ausfälle
-* **Linie S41/ S42**: vereinzelte Ausfälle
+* **Linie S25:** vereinzelte Ausfälle
 * **Linie S45:** fährt nicht
-* **Linie S5:** größere Ausfälle
-* **Linie S7:** größere Ausfälle
-* **Linie S75:** größere Ausfälle
-* **Linie S8:** größere Ausfälle
+* **Linie S7:** vereinzelte Ausfälle
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Bahnsteigschäden in Olympiastadion Fahrtrichtung Erkner/Flughafen BER Terminal 1-2 ###
-
- Letztes Update: 22:20 / 08.12.2023
-
-Information
-
-Wegen Bahnsteigschäden in Olympiastadion entfällt für die Linien S3 (in Richtung Erkner) und S9 (in Richtung Flughafen BER Terminal 1-2) der Halt in Olympiastadion.
-
-* Fahrgäste aus Richtung Spandau nach Olympiastadion fahren bis Heerstraße und benutzen ab dort die Züge der Gegenrichtung.
-* Fahrgäste ab Olympiastadion in Fahrtrichtung Westkreuz fahren in Richtung Spandau bis Pichelsberg und steigen dort in die Züge der Gegenrichtung um.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -150,29 +129,28 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Blankenfelde \<\> Priesterweg ###
+ Nur Nachts
 
-04.12. (Mo), ca. 4 Uhr durchgehend bis 09.12. (Sa), ca. 23.59 Uhr
+### Ostbahnhof \<\> Spandau ###
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28264&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21402&tx_sbbconstructions_list%5Bperiod%5D=17445&type=5679&cHash=270ae3690bc0afd7b60514f43a267c9d)
+Nächte 10./11.12. (So/Mo) und 11./12.12. (Mo/Di); jeweils ca. 22 Uhr -ca. 1.30 Uhr
 
- Ersatzverkehr
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28334&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21480&tx_sbbconstructions_list%5Bperiod%5D=17450&type=5679&cHash=5eb51bd635952755c544f1579aac8735)
+
+ Takt geändert
 
 Information
 
-* Ersatzverkehr mit Bussen
-  * Bus S2X: Blankenfelde \<\> Priesterweg (Hält nur an ausgewählten Bahnhöfen)
-     diese Linie fährt Montag bis Freitag, 5 bis 21 Uhr und Samstag, 8 bis 21 Uhr
-  * Bus S2A: Blankenfelde \<\> Priesterweg
-  * Bus S2B: Lichtenrade \<\> Lankwitz
+* Taktänderung:
+  * Ostbahnhof \<\> Westkreuz S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
 
-* Fahrplanänderung
 * Bahnsteigänderung
-* Bitte nutzen vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#con-28264)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#c30325)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/wechsel-weichenverschluesse-in-charlottenburg/#con-28334)
 
 Hinweis
 
