@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivfüher (GDL) ###
 
- Letztes Update: 06:37 / 08.12.2023
+ Letztes Update: 11:11 / 08.12.2023
 
 Information
 
@@ -16,6 +16,7 @@ Wegen des Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) **bis heute
 
 **Aktuell bieten** wir einen **Notfahrplan im 20-Minuten-Takt** zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **auf den folgenden Linien** an:
 
+* **Linie S1**: Oranienburg \<\> Wannsee (mit vereinzelten Ausfällen)
 * **Linie S3:** Erkner \<\> Ostbahnhof
 * **Linie S46:** Königs Wusterhausen \<\> Schöneberg
 * **Linie S5:** Strausberg Nord \<\> Ostbahnhof
