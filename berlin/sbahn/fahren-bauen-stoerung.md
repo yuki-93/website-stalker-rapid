@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivfüher (GDL) ###
 
- Letztes Update: 19:40 / 08.12.2023
+ Letztes Update: 20:59 / 08.12.2023
 
 Information
 
 Wegen des Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) **bis heute Abend 22:00 Uhr**, kommt es im gesamten S-Bahn-Netz zu Zugausfällen.
+
+**Bitte rechnen Sie auch nach Streikende um 22 Uhr** noch mit Verspätungen und Ausfällen, da unsere Triebfahrzeugführer und Triebfahrzeugführerinnen erst zu den abgestellten Züge gebracht und die Züge anschließend noch für den Einsatz vorbereitet werden müssen.
 
 **Aktuell bieten** wir einen **Notfahrplan im 20-Minuten-Takt** zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **auf den folgenden Linien** an:
 
