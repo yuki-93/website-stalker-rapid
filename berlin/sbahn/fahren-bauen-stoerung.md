@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivfüher (GDL) ###
 
- Letztes Update: 11:11 / 08.12.2023
+ Letztes Update: 15:15 / 08.12.2023
 
 Information
 
@@ -45,7 +45,7 @@ Beim Ersatzverkehr mit Bussen, Bus S2A zwischen Blankenfelde und Priesterweg, **
 * S Teltow Stadt: Gonfrevillestr. (wie Bus X10, 620, 625, N13)
 * S Lichterfelde Süd: Fürstenstr. (wie Bus M85)
 * S Osdorfer Straße: Osdorfer Str. (wie Bus 112, 186, N88)
-* S Lichterfelde Ost: Lankwirtzer Straße (wie Bus M11, X11, 184, 284)
+* S Lichterfelde Ost: Lankwitzer Straße (wie Bus M11, X11, 184, 284)
 
 **Haltestellen des Ersatzverkehrs zwischen Hennigsdorf und Tegel:**
 
