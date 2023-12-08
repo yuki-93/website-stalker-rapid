@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivfüher (GDL) ###
 
- Letztes Update: 03:32 / 08.12.2023
+ Letztes Update: 04:01 / 08.12.2023
 
 Information
 
@@ -25,7 +25,7 @@ Wegen des Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) **bis heute
 
 ---
 
-**Der planmäßige Schienenersatzverkehr (wegen laufender Bauarbeiten) fährt auch während des Streiks:**
+**Der planmäßige Schienenersatzverkehr auf der Linie S2 (wegen laufender Bauarbeiten) fährt auch während des Streiks:**
 
 * **Bus S2X:** Blankenfelde \<\> Priesterweg (Halt nur an ausgewählten Bahnhöfen, diese Linie fährt Montag bis Freitag, 5 bis 21 Uhr und Samstag, 8 bis 21 Uhr)
 * **Bus S2A:** Blankenfelde \<\> Priesterweg (zusätzlicher Halt Ecke Ring-/Rathausstr. zur Anbindung an die U6 in Alt-Mariendorf)
@@ -131,24 +131,6 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#con-28264)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-13/#c30325)
 
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Warschauer Straße ###
-
-08.12. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&tx_sbbconstructions_list%5Bperiod%5D=17492&type=5679&cHash=8a719361559320d232f7a9910612612e)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER – Terminal 1-2 (an 4:16 Uhr) beginnt erst um 3:39 Uhr in Warschauer Straße.
-* Der Zug fällt von Westkreuz bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
