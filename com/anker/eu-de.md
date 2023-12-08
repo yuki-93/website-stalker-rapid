@@ -6,7 +6,7 @@ Heute bis zu 50% Rabatt. 14 Tage, 14 Deals im Countdown.
 
 [Jetzt kaufen \>\>](https://www.anker.com/eu-de/christmas-sale?ref=topbanner)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Entdecke Energielösungen](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Mehr erfahren \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Power für deine Festtagstimmung](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=naviBar)
 
 ProdukteNach Kategorie[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Winter-Sale](https://www.anker.com/eu-de/christmas-sale?ref=naviMenu)
 
@@ -33,19 +33,19 @@ Mach die Festtage zu etwas Besonderem mit bis zu 700€ Rabatt und gratis Gesche
 
 Tagen
 
-17
+16
 
 :
 
 Std.
 
-39
+36
 
 :
 
 Min.
 
-12
+27
 
 Sek.
 
@@ -124,19 +124,25 @@ Entdecke Anker Innovations
 
   [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_2)
 
+* ### Genieße rundum gemütliche Festtage ###
+
+  Bis zu 1.700€ Rabatt + gratis Produkte
+
+  [Mehr erfahren Genieße rundum gemütliche Festtage](https://www.anker.com/eu-de/anker-solix/tragbare-powerstation-angebote-pps?ref=productBanner7_3)
+
 * ###
 
-  Limitiertes Angebot
+  Gratis Geschenk
 
    ###
 
   ### Anker SOLIX Balkonkraftwerk ###
 
-  ### Spare bis zu 400€ ###
+  ### Spare bis zu 700€ ###
 
   600W Mikroinverter, erweiterbar auf 800W
 
-  [Mehr erfahren Limitiertes Angebot ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_3)
+  [Mehr erfahren Gratis Geschenk ,Anker SOLIX Balkonkraftwerk,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
 
 Was macht Anker so besonders?
 ----------
