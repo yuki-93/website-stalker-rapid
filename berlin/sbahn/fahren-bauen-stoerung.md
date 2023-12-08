@@ -4,69 +4,42 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Streik der Gewerkschaft Deutscher Lokomotivfüher (GDL) ###
+### Bahnsteigschäden in Olympiastadion Fahrtrichtung Erkner/Flughafen BER Terminal 1-2 ###
 
- Letztes Update: 20:59 / 08.12.2023
+ Letztes Update: 22:13 / 08.12.2023
 
 Information
 
-Wegen des Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) **bis heute Abend 22:00 Uhr**, kommt es im gesamten S-Bahn-Netz zu Zugausfällen.
+Wegen Bahnsteigschäden in Olympiastadion entfällt für die Linien S3 (in Richtung Erkner) und S9 (in Richtung Flughafen BER Terminal 1-2) der halt in Olympiastadion.
 
-**Bitte rechnen Sie auch nach Streikende um 22 Uhr** noch mit Verspätungen und Ausfällen, da unsere Triebfahrzeugführer und Triebfahrzeugführerinnen erst zu den abgestellten Züge gebracht und die Züge anschließend noch für den Einsatz vorbereitet werden müssen.
+* Fahrgäste aus Richtung Spandau nach Olympiastadion fahren bis Heerstraße und benutzen ab dort die Züge der Gegenrichtung.
+* Fahrgäste ab Olympiastadion in Fahrtrichtung Westkreuz fahren in Richtung Spandau bis Pichelsberg und steigen dort in die Züge der Gegenrichtung um.
 
-**Aktuell bieten** wir einen **Notfahrplan im 20-Minuten-Takt** zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **auf den folgenden Linien** an:
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Streik der Gewerkschaft Deutscher Lokomotivfüher (GDL) beendet ###
+
+ Letztes Update: 22:10 / 08.12.2023
+
+Information
+
+**Der Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ist beendet.**
+
+**Es kommt aber weiterhin** zu Verspätungen und Ausfällen, da unsere Triebfahrzeugführer und Triebfahrzeugführerinnen erst zu den abgestellten Züge gebracht und die Züge anschließend noch für den Einsatz vorbereitet werden müssen.
+
+**Aktuell fahren Züge auf folgenden Linien:**
 
 * **Linie S1**: Oranienburg \<\> Wannsee
-* **Linie S3:** Erkner \<\> Ostbahnhof
-* **Linie S46:** Königs Wusterhausen \<\> Schöneberg
+* **Linie S3:** Erkner \<\> Spandau
+* **Linie S46:** Königs Wusterhausen \<\> Westend
 * **Linie S5:** Strausberg Nord \<\> Ostbahnhof
-* **Linie S9:** Flughafen BER Terminal 1-2 \<\> Ostbahnhof \<\> Friedrichstraße
-
-**Dieser Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
-
----
-
-**Der planmäßige Schienenersatzverkehr auf der Linie S2 (wegen laufender Bauarbeiten) fährt auch während des Streiks:**
-
-* **Bus S2X:** Blankenfelde \<\> Priesterweg (Halt nur an ausgewählten Bahnhöfen, diese Linie fährt Montag bis Freitag, 5 bis 21 Uhr und Samstag, 8 bis 21 Uhr)
-* **Bus S2A:** Blankenfelde \<\> Priesterweg (zusätzlicher Halt Ecke Ring-/Rathausstr. zur Anbindung an die U6 in Alt-Mariendorf)
-* **Bus S2B:** Lichtenrade \<\> Lankwitz
-
-Beim Ersatzverkehr mit Bussen, Bus S2A zwischen Blankenfelde und Priesterweg, **ist ein zusätzlicher Halt Ringstraße, Ecke Rathausstraße** zum Umstieg zur U6 in Alt-Mariendorf eingerichtet.
-
----
-
-**Zusätzlich wird ein Ersatzverkehr mit Bussen auf folgenden Linien angeboten:**
-
-* **Linie S25:** zwischen Teltow Stadt und Lichterfelde Ost sowie zwischen Tegel und Hennigsdorf
-
-**Haltestellen des Ersatzverkehrs zwischen Teltow Stadt und Lichterfelde Ost:**
-
-* S Teltow Stadt: Gonfrevillestr. (wie Bus X10, 620, 625, N13)
-* S Lichterfelde Süd: Fürstenstr. (wie Bus M85)
-* S Osdorfer Straße: Osdorfer Str. (wie Bus 112, 186, N88)
-* S Lichterfelde Ost: Lankwitzer Straße (wie Bus M11, X11, 184, 284)
-
-**Haltestellen des Ersatzverkehrs zwischen Hennigsdorf und Tegel:**
-
-* S Hennigsdorf: Zum Busbahnhof (wie Bus 136, 651, 659, 807, 811, 824)
-* S Heiligensee: Ruppiner Chaussee (wie Bus 124, N24)
-* S Schulzendorf: Ruppiner Chaussee (wie Bus 124, N24)
-* S Tegel: Buddestr. (wie Bus 133, N25)
-
----
-
-Bitte nutzen Sie für Fahrten innerhalb Berlins die Verkehrsmittel der BVG (U-Bahn, Bus und Tram).
-
-Beachten Sie bitte, dass der Regional- und Fernverkehr der Deutschen Bahn ebenfalls von diesem Warnstreik betroffen ist. Weitere Informationen erhalten Sie unter: <https://www.bahn.de/service/fahrplaene/aktuell>
-
----
-
-**Wir bitten alle Fahrgäste, sich vor Fahrtantritt in unseren Auskunftsmedien zu informieren.**
-
-**Diese Fahrzeiten sind in unserer Fahrplanauskunft und App bis zu 23 Stunden im Voraus enthalten! Für einen aktuellen Stand Ihrer Verbindung prüfen Sie diese bitte kurzfristig noch einmal.**
+* **Linie S9:** Flughafen BER Terminal 1-2 \<\> Spandau
 
 Wir bitten um Entschuldigung.
 
