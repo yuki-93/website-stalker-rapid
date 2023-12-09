@@ -4,33 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke) beendet ###
-
- Letztes Update: 14:19 / 09.12.2023
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Rummelsburg kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Reparatur am Signal in Alt-Reinickendorf ###
 
- Letztes Update: 13:51 / 09.12.2023
+ Letztes Update: 15:16 / 09.12.2023
 
 Information
 
 Wegen der Reparatur an einem Signal ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen \<\> Alt-Reinickendorf unterbrochen.
 
-Fahrgäste benutzen bitte zwischen Geundbrunnen und Schönholz die Linie S1.
+Ein Ersatzverkehr mit Bussen ist zwischen Schönholz \<\> Alt-Reinickendorf eingerichtet.
 
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+*Haltestellen des Ersatzverkehrs:*
+
+*\* S Alt-Reinickendorf: Roedernallee/ Lindauer Allee (Haltestelle "U Paracelsusbad", wie Bus 120, 320, N20)*
+
+\* *S Schönholz: Residenzstr. (wie Bus 150, N52)*
+
+Fahrgäste benutzen bitte zwischen Gesundbrunnen und Schönholz die Linie S1.
 
 Wir bitten um Entschuldigung.
 
