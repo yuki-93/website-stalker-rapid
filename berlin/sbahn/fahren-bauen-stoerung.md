@@ -4,54 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur am Signal in Alt-Reinickendorf ###
+### Reparatur an mehreren Signalen zwischen Bornholmer Straße und Pankow ###
 
- Letztes Update: 17:45 / 09.12.2023
-
-Information
-
-Wegen der Reparatur an einem Signal ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen \<\> Alt-Reinickendorf unterbrochen.
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz \<\> Alt-Reinickendorf eingerichtet.**
-
-**Haltestellen des Ersatzverkehrs:**
-
-* S Alt-Reinickendorf: Roedernallee/ Lindauer Allee (Haltestelle "U Paracelsusbad", wie Bus 120, 320, N20)
-* S Schönholz: Provinzstr. (wie Bus 150, N52)
-
-Bitte nutzen Sie zwischen Gesundbrunnen und Schönholz die Linie S1.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Zug in Greifswalder Straße beendet ###
-
- Letztes Update: 17:17 / 09.12.2023
+ Letztes Update: 18:55 / 09.12.2023
 
 Information
 
-Nach einer Reparatur am Zug in Greifswsalder Straße kommt es auf den Linien S41, S 8 und S85 noch zu Verspätungen.
+Wegen der Reparatur an mehreren Signalen zwischen Bornholmer Straße und Pankow kommt es auf den Linien S2 und S8 zu Verspätungen und vereinzelten Ausfällen.
+
+* Die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an Signalen zwischen Schönholz - Bornholmer Straße ###
+### Reparatur an Signalen zwischen Schönholz - Waidmannslust ###
 
- Letztes Update: 15:42 / 09.12.2023
+ Letztes Update: 18:51 / 09.12.2023
 
 Information
 
-Wegen der Reparatur an Signalen zwischen Schönholz - Bornholmer Straße kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an Signalen zwischen Schönholz - Waidmannslust kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
 
-*Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Nordbahnhof und Wannsee angeboten werden.*
+* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Nordbahnhof und Wannsee angeboten werden.
 
 Wir bitten um Entschuldigung.
 
