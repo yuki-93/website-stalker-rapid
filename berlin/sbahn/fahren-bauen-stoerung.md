@@ -8,33 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an mehreren Signalen zwischen Bornholmer Straße und Pankow ###
 
- Letztes Update: 18:55 / 09.12.2023
+ Letztes Update: 19:58 / 09.12.2023
 
 Information
 
-Wegen der Reparatur an mehreren Signalen zwischen Bornholmer Straße und Pankow kommt es auf den Linien S2 und S8 zu Verspätungen und vereinzelten Ausfällen.
+Wegen der Reparatur an mehreren Signalen kommt es auf den **Linien S2 und S8** zu Verspätungen und vereinzelten Ausfällen.
 
-* Die Linie S85 verkehrt nicht.
+* Die **Linie S85** verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an Signalen zwischen Schönholz - Waidmannslust ###
-
- Letztes Update: 18:51 / 09.12.2023
-
-Information
-
-Wegen der Reparatur an Signalen zwischen Schönholz - Waidmannslust kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
-
-* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Nordbahnhof und Wannsee angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
