@@ -4,6 +4,43 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur am Signal in Alt-Reinickendorf ###
+
+ Letztes Update: 17:19 / 09.12.2023
+
+Information
+
+Wegen der Reparatur an einem Signal ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen \<\> Alt-Reinickendorf unterbrochen.
+
+**Ein Ersatzverkehr mit Bussen ist zwischen Schönholz \<\> Alt-Reinickendorf eingerichtet.**
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S Alt-Reinickendorf: Roedernallee/ Lindauer Allee (Haltestelle "U Paracelsusbad", wie Bus 120, 320, N20)
+* S Schönholz: Residenzstr. (wie Bus 150, N52)
+
+Bitte nutzen Sie zwischen Gesundbrunnen und Schönholz die Linie S1.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur am Zug in Greifswalder Straße beendet ###
+
+ Letztes Update: 17:17 / 09.12.2023
+
+Information
+
+Nach einer Reparatur am Zug in Greifswsalder Straße kommt es auf den Linien S41, S 8 und S85 noch zu Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an Signalen zwischen Schönholz - Bornholmer Straße ###
@@ -15,30 +52,6 @@ Information
 Wegen der Reparatur an Signalen zwischen Schönholz - Bornholmer Straße kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
 
 *Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Nordbahnhof und Wannsee angeboten werden.*
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur am Signal in Alt-Reinickendorf ###
-
- Letztes Update: 15:16 / 09.12.2023
-
-Information
-
-Wegen der Reparatur an einem Signal ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen \<\> Alt-Reinickendorf unterbrochen.
-
-Ein Ersatzverkehr mit Bussen ist zwischen Schönholz \<\> Alt-Reinickendorf eingerichtet.
-
-*Haltestellen des Ersatzverkehrs:*
-
-*\* S Alt-Reinickendorf: Roedernallee/ Lindauer Allee (Haltestelle "U Paracelsusbad", wie Bus 120, 320, N20)*
-
-\* *S Schönholz: Residenzstr. (wie Bus 150, N52)*
-
-Fahrgäste benutzen bitte zwischen Gesundbrunnen und Schönholz die Linie S1.
 
 Wir bitten um Entschuldigung.
 
