@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur am Signal in Alt-Reinickendorf ###
+
+ Letztes Update: 12:11 / 09.12.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Alt-Reinickendorf kommt es auf den Linien S1 und S25 zu Verspätungen und Ausfällen.
+
+Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Wannsee \<\> Nordbahnhof angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
