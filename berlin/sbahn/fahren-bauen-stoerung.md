@@ -4,17 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Polöizeieinsatz (unbefugte Personen auf der Strecke) beendet ###
+
+ Letztes Update: 13:22 / 09.12.2023
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) in Rummelsburg kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Reparatur am Signal in Alt-Reinickendorf ###
 
- Letztes Update: 12:11 / 09.12.2023
+ Letztes Update: 12:33 / 09.12.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Alt-Reinickendorf kommt es auf den Linien S1 und S25 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal ist der Zugverkehr der Linie S25 zwischen Schönholz \<\> Alt-Reinickendorf unterbrochen.
 
-Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Wannsee \<\> Nordbahnhof angeboten werden.
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
 
 Wir bitten um Entschuldigung.
 
