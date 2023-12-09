@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an Signalen zwischen Schönholz - Bornholmer Straße ###
+
+ Letztes Update: 15:42 / 09.12.2023
+
+Information
+
+Wegen der Reparatur an Signalen zwischen Schönholz - Bornholmer Straße kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+
+*Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Nordbahnhof und Wannsee angeboten werden.*
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S25](https://sbahn.berlin/fahren/s25/)
 
 ### Reparatur am Signal in Alt-Reinickendorf ###
