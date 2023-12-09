@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Signal in Alt-Reinickendorf ###
 
- Letztes Update: 17:19 / 09.12.2023
+ Letztes Update: 17:45 / 09.12.2023
 
 Information
 
@@ -19,7 +19,7 @@ Wegen der Reparatur an einem Signal ist der Zugverkehr der Linie S25 zwischen Ge
 **Haltestellen des Ersatzverkehrs:**
 
 * S Alt-Reinickendorf: Roedernallee/ Lindauer Allee (Haltestelle "U Paracelsusbad", wie Bus 120, 320, N20)
-* S Schönholz: Residenzstr. (wie Bus 150, N52)
+* S Schönholz: Provinzstr. (wie Bus 150, N52)
 
 Bitte nutzen Sie zwischen Gesundbrunnen und Schönholz die Linie S1.
 
