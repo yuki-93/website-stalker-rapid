@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Polöizeieinsatz (unbefugte Personen auf der Strecke) beendet ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke) beendet ###
 
- Letztes Update: 13:22 / 09.12.2023
+ Letztes Update: 14:19 / 09.12.2023
 
 Information
 
@@ -22,11 +22,13 @@ Wir bitten um Verständnis.
 
 ### Reparatur am Signal in Alt-Reinickendorf ###
 
- Letztes Update: 12:33 / 09.12.2023
+ Letztes Update: 13:51 / 09.12.2023
 
 Information
 
-Wegen der Reparatur an einem Signal ist der Zugverkehr der Linie S25 zwischen Schönholz \<\> Alt-Reinickendorf unterbrochen.
+Wegen der Reparatur an einem Signal ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen \<\> Alt-Reinickendorf unterbrochen.
+
+Fahrgäste benutzen bitte zwischen Geundbrunnen und Schönholz die Linie S1.
 
 Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
 
