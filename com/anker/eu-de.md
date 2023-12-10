@@ -27,22 +27,6 @@ Power für deine Festtagstimmung
 
 Mach die Festtage zu etwas Besonderem mit bis zu 700€ Rabatt und gratis Geschenk.
 
-00
-
-:
-
-Std.
-
-39
-
-:
-
-Min.
-
-48
-
-Sek.
-
 [Je commandemasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner2)
 
 Entdecke innovative Ladelösungen
