@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an Signalen im Bereich Schönholz - Waidmannslust beendet ###
-
- Letztes Update: 19:39 / 10.12.2023
-
-Information
-
-Nach der Reparatur an Signalen im Bereich Schönholz - Waidmannslust kann der 10-Minuten-Takt auf der S1 nur zwischen Wannsee und Nordbahnhof angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Vorabinformation: verkürzte Linienführung S26 ab Montag, den 11.12.2023 ###
@@ -33,22 +19,6 @@ Wegen der Reparatur an mehreren Signalen zwischen Bornholmer Straße und Pankow 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an mehreren Signalen zwischen Bornholmer Straße und Pankow ###
-
- Letztes Update: 09:21 / 10.12.2023
-
-Information
-
-Wegen der Reparatur an mehreren Signalen kann es auf den **Linien S2 und S8** zu Verspätungen kommen.
-
-* Die **Linie S85** verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
