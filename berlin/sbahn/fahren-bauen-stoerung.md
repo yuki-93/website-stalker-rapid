@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### unbefugte Personen auf der Strecke Westkreuz \<\> Messe Süd ###
+
+ Letztes Update: 16:15 / 10.12.2023
+
+Information
+
+Wegen unbefugter Personen auf der Strecke Westkreuz \<\> Messe Süd kommt es auf den Linien S3 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an mehreren Signalen zwischen Bornholmer Straße und Pankow ###
