@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur an Signalen im Bereich Schönholz - Waidmannslust beendet ###
+
+ Letztes Update: 19:19 / 10.12.2023
+
+Information
+
+Nach der Reparatur an Signalen im Bereich Schönholz - Waidmannslust kann der 10-Minuten-Takt auf der S1 nur zwischen Wannsee und Nordbahnhof angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an einem Signal in Bundesplatz ###
@@ -15,22 +29,6 @@ Information
 Wegen der Reparatur an einem Signal in Bundesplatz kommt es auf der Linie S42 zu Verspätungen.
 
 * Die Linie S42 fährt nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur an Signalen im Bereich Schönholz - Waidmannslust ###
-
- Letztes Update: 17:43 / 10.12.2023
-
-Information
-
-Wegen der Reparatur an Signalen im Bereich Schönholz - Waidmannslust kommt es auf den **Linien S1 und S25** zu Verspätungen und vereinzelten Ausfällen.
-
-* Der 10-Minuten-Takt auf der S1 kann nur zwischen Wannsee und Nordbahnhof angeboten werden.
 
 Wir bitten um Entschuldigung.
 
