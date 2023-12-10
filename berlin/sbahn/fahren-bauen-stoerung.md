@@ -6,24 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Notarzteinsatz an der Strecke in Warschauer Straße ###
+### Notarzteinsatz an der Strecke in Warschauer Straße beendet ###
 
- Letztes Update: 04:38 / 10.12.2023
+ Letztes Update: 05:32 / 10.12.2023
 
 Information
 
-Wegen eines Notarzteinsatzes an der Strecke in Warschauer Straße ist der Zugverkehr:
+Nach einem Notarzteinsatz an der Strecke in Warschauer Straße kann es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen kommen.
 
-* der Linien S3, S5, S7 und S75 zwischen Ostkreuz und Ostbahnhof
-* der Linie S9 zwischen Treptower Park und Ostbahnhof
+Wir bitten um Verständnis
 
-unterbrochen.
-
-Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
-
-Wir bitten um Verständnis.
-
- fährt nicht
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
