@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an mehreren Signalen zwischen Bornholmer Straße und Pankow ###
+
+ Letztes Update: 09:21 / 10.12.2023
+
+Information
+
+Wegen der Reparatur an mehreren Signalen kann es auf den **Linien S2 und S8** zu Verspätungen kommen.
+
+* Die **Linie S85** verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
