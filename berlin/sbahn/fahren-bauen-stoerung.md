@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+[S26](https://sbahn.berlin/fahren/s26/)
 
-### unbefugte Personen auf der Strecke Westkreuz \<\> Messe Süd ###
+### Vorabinformation: verkürzte Linienführung S26 ab Montag, den 11.12.2023 ###
 
- Letztes Update: 16:15 / 10.12.2023
+ Letztes Update: 17:13 / 10.12.2023
 
 Information
 
-Wegen unbefugter Personen auf der Strecke Westkreuz \<\> Messe Süd kommt es auf den Linien S3 und S9 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an mehreren Signalen zwischen Bornholmer Straße und Pankow verkehrt **die Linie S26 ab Montag, den 11.12.2023 bis vsl. Donnerstag, den 14.12.2023** nur zwischen Teltow Stadt und Nordbahnhof.
 
-Wir bitten um Verständnis.
+*Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.*
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
