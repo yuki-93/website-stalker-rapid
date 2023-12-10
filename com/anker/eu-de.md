@@ -27,19 +27,19 @@ Power für deine Festtagstimmung
 
 Mach die Festtage zu etwas Besonderem mit bis zu 700€ Rabatt und gratis Geschenk.
 
-14
+13
 
 :
 
 Std.
 
-38
+44
 
 :
 
 Min.
 
-17
+08
 
 Sek.
 
