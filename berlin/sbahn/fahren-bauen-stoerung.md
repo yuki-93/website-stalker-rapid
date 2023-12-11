@@ -587,11 +587,17 @@ Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sin
 Information
 
 * Ersatzverkehr mit Bussen
-  * Linie S1A: Südkreuz \<\> Friedrichstraße
+  * Linie S1A: Südkreuz \<\> Schöneberg \<\> Friedrichstraße
   * Linie S1B: Friedrichstraße \<\> Gesundbrunnen
 
+* Taktänderung:
+  * Auf der S1 kann der 5-Minutentakt (Zehlendorf \<\> Potsdamer Platz) nicht angeboten werden.
+  * Gesundbrunnen \<\> Schönhauser Allee S-Bahnverkehr nur im 5-/5-/10-Minutentakt (Die Verdichtung auf einen 5-Minutentakt Mo-Fr während der Hauptverkehrszeiten entfällt).
+  * Schönholz \<\> Frohnau S-Bahnverkehr nur im 10-Minutentakt mit S1
+  * Bornholmer Straße \<\> Blankenburg S-Bahnverkehr nur im ungefähren 5-/5-/10-Minutentakt mit S2, S8 und S85
+
 * Fahrplanänderung
-* Taktänderung
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28432)
