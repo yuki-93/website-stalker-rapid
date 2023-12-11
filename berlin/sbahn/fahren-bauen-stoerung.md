@@ -4,6 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### unbefugte Personen auf der Strecke ###
+
+ Letztes Update: 15:13 / 11.12.2023
+
+Information
+
+Wegen unbefugter Personen auf der Strecke ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Oranienburger Straße \<\> Potsdamer Platz unterbrochen.
+
+ \* Linie S26 verkehrt nicht.
+
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### ärztliche Versorgung eines Fahrgastes in Köllnische Heide beendet ###
+
+ Letztes Update: 15:10 / 11.12.2023
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Köllnische Heide kommt es auf den Linien S45, S46 und S47 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### verkürzte Linienführung S26 bis vsl. Donnerstag, den 14.12.2023 ###
