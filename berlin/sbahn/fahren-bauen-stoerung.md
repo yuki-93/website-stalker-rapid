@@ -6,21 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### unbefugte Personen auf der Strecke ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke) ###
 
- Letztes Update: 15:13 / 11.12.2023
+ Letztes Update: 15:54 / 11.12.2023
 
 Information
 
-Wegen unbefugter Personen auf der Strecke ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Oranienburger Straße \<\> Potsdamer Platz unterbrochen.
-
- \* Linie S26 verkehrt nicht.
-
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke Oranienburger Straße \<\> Potsdamer Platz) kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
