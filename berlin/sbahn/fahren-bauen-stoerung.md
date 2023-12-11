@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke) ###
-
- Letztes Update: 17:49 / 11.12.2023
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke Oranienburger Straße \<\> Potsdamer Platz) kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### verkürzte Linienführung S26 bis vsl. Donnerstag, den 14.12.2023 ###
