@@ -112,7 +112,7 @@ Entdecke Anker Innovations
 
 * ###
 
-  Flash Sale
+  Holiday Flash Sale
 
    ###
 
@@ -122,7 +122,7 @@ Entdecke Anker Innovations
 
   600W Mikroinverter, erweiterbar auf 800W
 
-  [Mehr erfahren Flash Sale ,Anker SOLIX Balkonkraftwerk,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
+  [Mehr erfahren Holiday Flash Sale ,Anker SOLIX Balkonkraftwerk,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
 
 Was macht Anker so besonders?
 ----------
