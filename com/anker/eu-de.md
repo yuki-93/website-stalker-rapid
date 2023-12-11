@@ -21,7 +21,7 @@ Jeden Tag neue Rabatte!
 
 [Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/christmas-sale?ref=masterBanner1)
 
- Flash Sale
+Holiday Flash Sale
 
 Power für deine Festtagstimmung
 
