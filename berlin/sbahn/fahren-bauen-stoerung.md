@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz (unbefugte Personen auf der Strecke) ###
 
- Letztes Update: 15:54 / 11.12.2023
+ Letztes Update: 17:49 / 11.12.2023
 
 Information
 
