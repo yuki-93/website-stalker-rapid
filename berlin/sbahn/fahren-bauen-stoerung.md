@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S26](https://sbahn.berlin/fahren/s26/)
 
-### Vorabinformation: verkürzte Linienführung S26 ab Montag, den 11.12.2023 ###
+### verkürzte Linienführung S26 bis vsl. Donnerstag, den 11.12.2023 ###
 
- Letztes Update: 17:13 / 10.12.2023
+ Letztes Update: 00:40 / 11.12.2023
 
 Information
 
-Wegen der Reparatur an mehreren Signalen zwischen Bornholmer Straße und Pankow verkehrt **die Linie S26 ab Montag, den 11.12.2023 bis vsl. Donnerstag, den 14.12.2023** nur zwischen Teltow Stadt und Nordbahnhof.
+Wegen der Reparatur an mehreren Signalen zwischen Bornholmer Straße und Pankow verkehrt **die Linie S26 bis vsl. Donnerstag, den 14.12.2023** nur zwischen Teltow Stadt und Nordbahnhof.
 
 *Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.*
 
@@ -21,6 +21,29 @@ Wir bitten um Entschuldigung.
  Zugverkehr verändert
 
 ### Baumaßnahmen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Spandau ###
+
+Nächte 10./11.12. (So/Mo) und 11./12.12. (Mo/Di); jeweils ca. 22 Uhr -ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28334&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21480&tx_sbbconstructions_list%5Bperiod%5D=17450&type=5679&cHash=5eb51bd635952755c544f1579aac8735)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Ostbahnhof \<\> Westkreuz S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/wechsel-weichenverschluesse-in-charlottenburg/#con-28334)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -56,29 +79,6 @@ Information
   * Die Züge in Richtung stadteinwärts (Ahrensfelde) fahren von Gleis 2, Bahnsteig stadtauswärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof \<\> Spandau ###
-
-Nächte 10./11.12. (So/Mo) und 11./12.12. (Mo/Di); jeweils ca. 22 Uhr -ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28334&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21480&tx_sbbconstructions_list%5Bperiod%5D=17450&type=5679&cHash=5eb51bd635952755c544f1579aac8735)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Ostbahnhof \<\> Westkreuz S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
-  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/wechsel-weichenverschluesse-in-charlottenburg/#con-28334)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -138,6 +138,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Spandau ###
+
+Nächte 10./11.12. (So/Mo) und 11./12.12. (Mo/Di); jeweils ca. 22 Uhr -ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28334&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21480&tx_sbbconstructions_list%5Bperiod%5D=17450&type=5679&cHash=5eb51bd635952755c544f1579aac8735)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Ostbahnhof \<\> Westkreuz S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/wechsel-weichenverschluesse-in-charlottenburg/#con-28334)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -172,29 +195,6 @@ Information
   * Die Züge in Richtung stadteinwärts (Ahrensfelde) fahren von Gleis 2, Bahnsteig stadtauswärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof \<\> Spandau ###
-
-Nächte 10./11.12. (So/Mo) und 11./12.12. (Mo/Di); jeweils ca. 22 Uhr -ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28334&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21480&tx_sbbconstructions_list%5Bperiod%5D=17450&type=5679&cHash=5eb51bd635952755c544f1579aac8735)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Ostbahnhof \<\> Westkreuz S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
-  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/wechsel-weichenverschluesse-in-charlottenburg/#con-28334)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
