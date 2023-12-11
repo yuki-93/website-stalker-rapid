@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Bornholmer Straße beendet ###
+
+ Letztes Update: 22:03 / 11.12.2023
+
+Information
+
+Nach einem Polizeieinsatz in Bornholmer Straße kommt es auf den Linien S1, S2, S25, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### verkürzte Linienführung S26 bis vsl. Donnerstag, den 14.12.2023 ###
