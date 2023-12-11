@@ -18,20 +18,6 @@ Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### ärztliche Versorgung eines Fahrgastes in Köllnische Heide beendet ###
-
- Letztes Update: 15:10 / 11.12.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Köllnische Heide kommt es auf den Linien S45, S46 und S47 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### verkürzte Linienführung S26 bis vsl. Donnerstag, den 14.12.2023 ###
