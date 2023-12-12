@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### verkürzte Linienführung S26 bis vsl. Donnerstag, den 14.12.2023 ###
 
- Letztes Update: 04:47 / 11.12.2023
+ Letztes Update: 05:16 / 12.12.2023
 
 Information
 
