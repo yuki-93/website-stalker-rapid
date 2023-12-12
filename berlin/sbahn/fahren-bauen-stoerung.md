@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### kurzfristige Personalausfälle Linie S75 ###
+
+ Letztes Update: 21:01 / 12.12.2023
+
+Information
+
+Wegen kurzfristigen Personalausfällen verkehrt die Linie S75 nur zwischen Wartenberg und Springpfuhl.
+
+*Bitte nutzen Sie zwischen Springpfuhl und Warschauer Straße die Linie S7.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### verkürzte Linienführung S26 bis vsl. Donnerstag, den 14.12.2023 ###
