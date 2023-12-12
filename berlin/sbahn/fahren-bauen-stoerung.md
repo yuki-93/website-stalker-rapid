@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz (unbefugte Personen auf der Strecke) Friedrichstraße beendet ###
+
+ Letztes Update: 11:44 / 12.12.2023
+
+Information
+
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich Friedrichstraße kann es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### verkürzte Linienführung S26 bis vsl. Donnerstag, den 14.12.2023 ###
