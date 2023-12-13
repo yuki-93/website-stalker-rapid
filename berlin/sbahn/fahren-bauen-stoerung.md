@@ -4,35 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz Ostkreuz Ringbahn beendet ###
 
- Letztes Update: 15:28 / 13.12.2023
+ Letztes Update: 18:03 / 13.12.2023
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Ostkreuz kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz im Zug in Ostkreuz kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### verkürzte Linienführung S26 bis vsl. Donnerstag, den 14.12.2023 ###
-
- Letztes Update: 14:50 / 13.12.2023
-
-Information
-
-Wegen der Reparatur an mehreren Signalen zwischen Bornholmer Straße und Pankow verkehrt **die Linie S26 bis vsl. Donnerstag, den 14.12.2023** nur zwischen Teltow Stadt und Nordbahnhof.
-
-*Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
