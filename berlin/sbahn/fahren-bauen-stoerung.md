@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz Ostkreuz Ringbahn beendet ###
 
- Letztes Update: 18:03 / 13.12.2023
+ Letztes Update: 20:02 / 13.12.2023
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Ostkreuz kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einem Polizeieinsatz im Zug in Ostkreuz verkehren die Linien S41 und S42 nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
