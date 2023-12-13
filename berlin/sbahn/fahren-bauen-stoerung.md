@@ -4,19 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz Ostkreuz Ringbahn beendet ###
+### technische Untersuchung am Zug in Lichtenberg beendet ###
 
- Letztes Update: 20:02 / 13.12.2023
+ Letztes Update: 21:50 / 13.12.2023
 
 Information
 
-Nach einem Polizeieinsatz im Zug in Ostkreuz verkehren die Linien S41 und S42 nur im 10-Minuten-Takt.
+Nach einer technischen Untersuchung am Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### kurzfristiger Personalausfall S46 zwischen Grünau und Königs Wusterhausen ###
+
+ Letztes Update: 21:37 / 13.12.2023
+
+Information
+
+Wegen eines kurzfristigen Personalausfall betseht auf der Linie S46 zwischen Grünau und Königs Wusterhausen ab ca. 22:00 Uhr nur ein 40-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
