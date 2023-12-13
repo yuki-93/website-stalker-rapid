@@ -8,7 +8,7 @@ Heute bis zu 50% Rabatt. 14 Tage, 14 Deals im Countdown.
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Power für deine Festtagstimmung](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=naviBar)
 
-ProdukteNach Kategorie[Mobile Powerstationen](https://www.anker.com/eu-de/anker-solix?ref=naviMenu)NeuerscheinungenAngebote[Winter-Sale](https://www.anker.com/eu-de/christmas-sale?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Winter-Sale](https://www.anker.com/eu-de/christmas-sale?ref=naviMenu)
 
 Hilfe
 
