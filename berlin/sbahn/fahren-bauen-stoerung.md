@@ -98,6 +98,32 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-tempelhof-neukoelln/#con-28490)
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Ahrensfelde/Mahlsdorf \<\> Warschauer Straße ###
+
+Nacht 13./14.12. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28589&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21767&tx_sbbconstructions_list%5Bperiod%5D=17552&type=5679&cHash=343de837bdc98df33559692e1d6223db)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
+  * Friedrichsfelde Ost \<\> Lichtenberg S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt (stadteinwärts) bzw. im ungefähren 2-/18-Minutentakt (stadtauswärts) mit S7 und S75
+  * Lichtenberg \<\> Nöldnerplatz S-Bahnverkehr nur im ungefähren 2-/18-Minutentakt mit S5 und S7
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-und-stopfarbeiten-in-lichtenberg/#con-28589)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -179,6 +205,32 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-tempelhof-neukoelln/#con-28490)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Ahrensfelde/Mahlsdorf \<\> Warschauer Straße ###
+
+Nacht 13./14.12. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28589&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21767&tx_sbbconstructions_list%5Bperiod%5D=17552&type=5679&cHash=343de837bdc98df33559692e1d6223db)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt
+  * Friedrichsfelde Ost \<\> Lichtenberg S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt (stadteinwärts) bzw. im ungefähren 2-/18-Minutentakt (stadtauswärts) mit S7 und S75
+  * Lichtenberg \<\> Nöldnerplatz S-Bahnverkehr nur im ungefähren 2-/18-Minutentakt mit S5 und S7
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-und-stopfarbeiten-in-lichtenberg/#con-28589)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
