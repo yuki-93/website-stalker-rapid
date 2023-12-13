@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### kurzfristige Personalausfälle Linie S75 ###
-
- Letztes Update: 21:01 / 12.12.2023
-
-Information
-
-Wegen kurzfristigen Personalausfällen verkehrt die Linie S75 nur zwischen Wartenberg und Springpfuhl.
-
-*Bitte nutzen Sie zwischen Springpfuhl und Warschauer Straße die Linie S7.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### verkürzte Linienführung S26 bis vsl. Donnerstag, den 14.12.2023 ###
@@ -72,27 +56,6 @@ Information
   * Die Züge in Richtung stadteinwärts (Ahrensfelde) fahren von Gleis 2, Bahnsteig stadtauswärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Nordbahnhof –) Bornholmer Straße – Birkenwerder (– Oranienburg) ###
-
-Nacht 12./13.12. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28465&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21622&tx_sbbconstructions_list%5Bperiod%5D=17506&type=5679&cHash=dedbdc76ef2800b6a986ef787fb9df96)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Fahrplanänderung
-* Bahnsteigänderung in Bornholmer Straße
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-wollankstrasse-2/#con-28465)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
