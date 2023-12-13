@@ -90,8 +90,14 @@ Nacht 13./14.12. (Mi/Do) 22 Uhr bis 1:30 Uhr
 Information
 
 * Zugverkehr verändert
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Hermannstraße um, die Weiterfahrt erfolgt nach 7 oder 18 Minuten (S41) bzw. nach 6 Minuten (S42) vom selben Gleis
+  * Fahrgäste der S46 steigen bitte in beiden Fahrtrichtungen in Grünau um, die Weiterfahrt erfolgt in Richtung Hermannstraße vom Nachbarbahnsteig und in Fahrtrichtung Königs Wusterhausen vom selben Bahnsteig am Gleis gegenüber.
+
+* Taktänderung:
+  * Hermannstraße \<\> Tempelhof S-Bahnverkehr nur im 20-Minutentakt mit der S41/S42
+
 * Fahrplanänderung
-* Bahnsteigänderung in Treptower Park
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-tempelhof-neukoelln/#con-28490)
@@ -198,8 +204,14 @@ Nacht 13./14.12. (Mi/Do) 22 Uhr bis 1:30 Uhr
 Information
 
 * Zugverkehr verändert
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Hermannstraße um, die Weiterfahrt erfolgt nach 7 oder 18 Minuten (S41) bzw. nach 6 Minuten (S42) vom selben Gleis
+  * Fahrgäste der S46 steigen bitte in beiden Fahrtrichtungen in Grünau um, die Weiterfahrt erfolgt in Richtung Hermannstraße vom Nachbarbahnsteig und in Fahrtrichtung Königs Wusterhausen vom selben Bahnsteig am Gleis gegenüber.
+
+* Taktänderung:
+  * Hermannstraße \<\> Tempelhof S-Bahnverkehr nur im 20-Minutentakt mit der S41/S42
+
 * Fahrplanänderung
-* Bahnsteigänderung in Treptower Park
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schienenfraesarbeiten-tempelhof-neukoelln/#con-28490)
