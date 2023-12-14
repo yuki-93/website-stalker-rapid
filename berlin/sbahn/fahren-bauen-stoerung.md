@@ -539,7 +539,7 @@ Information
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Birkenwerder \<\> Oraninburg ###
+### Birkenwerder \<\> Oranienburg ###
 
 17.02. (Sa), ca. 11:45 Uhr durchgehend bis 28.03. (Fr), ca. 22 Uhr
 
