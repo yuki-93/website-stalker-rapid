@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### kurzfristiger Personalausfall S46 zwischen Grünau und Königs Wusterhausen ###
-
- Letztes Update: 21:37 / 13.12.2023
-
-Information
-
-Wegen eines kurzfristigen Personalausfall betseht auf der Linie S46 zwischen Grünau und Königs Wusterhausen ab ca. 22:00 Uhr nur ein 40-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
