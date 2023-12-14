@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz (unbefugte Personen auf der Strecke) Potsdamer Platz beendet ###
+
+ Letztes Update: 00:07 / 15.12.2023
+
+Information
+
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke im Bereich Potsdamer Platz kann es auf den Linien S1, S2 und S25 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S46](https://sbahn.berlin/fahren/s46/)
 
 ### kurzfristige Bauarbeiten in Grünau ###
@@ -108,6 +122,45 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bf-koepenick/#con-28403)
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+Nur Wochenende
+
+### Grünau \<\> Königs Wusterhausen ###
+
+15.12. (Fr) 21:45 Uhr bis 18.12. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28411&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21562&tx_sbbconstructions_list%5Bperiod%5D=17498&type=5679&cHash=3bbb3e255b536ecda6bf68bcae4962e0)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/personentunnel-eichwalde-zeuthen/#con-28411)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Marienfelde \<\> Priesterweg ###
+
+15.12. (Fr) 22 Uhr bis 18.12. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28407&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21558&tx_sbbconstructions_list%5Bperiod%5D=17497&type=5679&cHash=4835bc617b6c49603718ab0083a30897)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+* Bahnsteigänderung in Priesterweg
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhanben-dresner-bahn/#con-28407)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -148,45 +201,6 @@ Information
   * Die Züge in Richtung stadteinwärts (Ahrensfelde) fahren von Gleis 2, Bahnsteig stadtauswärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
- Nur Nachts
-
-### Karow \<\> Bernau ###
-
-Nacht 14./15.12. (Do/Fr), ca. 21:45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28402&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21551&tx_sbbconstructions_list%5Bperiod%5D=17495&type=5679&cHash=e104122248c5809156c7c3654d15057a)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/eisenbahnueberfuehrung-wiltbergstrasse/#con-28402)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Friedrichshagen \<\> Karlshorst ###
-
-14.12. (Do) 21:45 Uhr bis 15.12. (Fr) 01:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28403&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21553&tx_sbbconstructions_list%5Bperiod%5D=17496&type=5679&cHash=713a6692ea26c64d85e43e48b9c9b82b)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Gleisänderung in Wuhlheide
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bf-koepenick/#con-28403)
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
