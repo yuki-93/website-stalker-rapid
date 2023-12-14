@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Grünau ###
 
- Letztes Update: 07:34 / 14.12.2023
+ Letztes Update: 10:13 / 14.12.2023
 
 Information
 
-Wegen kurzfrsitiger Bauarbeiten muss der Zugverkehr der **Linie S46** in der **heutigen Nacht (14./15.12.2023) von ca. 22:00 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
+Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der **Linie S46** in der **heutigen Nacht (14./15.12.2023) von ca. 22:00 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
 
 Zugverkehr:
 
@@ -23,7 +23,7 @@ Zugverkehr:
 
 Gleisänderung in Grünau:
 
-* in **Fahrtrichtung Westend** erfolgt die Weiterfahrt in Grünau vom Nachbarbahnsteig stadteinwährts (Gleis 3 und 4),
+* in **Fahrtrichtung Westend** erfolgt die Weiterfahrt in Grünau vom Nachbarbahnsteig stadteinwärts (Gleis 3 und 4),
 * in **Fahrtrichtung Königs Wusterhausen** erfolgt die Weiterfahrt in Grünau vom selben Bahnsteig am Gleis direkt gegenüber.
 
 Achten Sie bitte in Grünau auf die örtlichen Lautsprecheransagen und Anzeiger auf den Bahnsteigen.
@@ -31,6 +31,20 @@ Achten Sie bitte in Grünau auf die örtlichen Lautsprecheransagen und Anzeiger 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### technischer Defekt an einem Bahnübergang in Zeuthen ###
+
+ Letztes Update: 10:04 / 14.12.2023
+
+Information
+
+Wegen eines technischen Defekts an einem Bahnübergang in Zeuthen kommt es auf der S46 zu Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
