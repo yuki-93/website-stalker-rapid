@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### kurzfristige Bauarbeiten in Grünau ###
+
+ Letztes Update: 07:34 / 14.12.2023
+
+Information
+
+Wegen kurzfrsitiger Bauarbeiten muss der Zugverkehr der **Linie S46** in der **heutigen Nacht (14./15.12.2023) von ca. 22:00 Uhr bis ca. 01:30 Uhr** verändert durchgeführt werden.
+
+Zugverkehr:
+
+* Linie S46 fährt:
+  * Westend \<\> Grünau **sowie** Grünau \<\> Königs Wusterhausen
+
+---
+
+Gleisänderung in Grünau:
+
+* in **Fahrtrichtung Westend** erfolgt die Weiterfahrt in Grünau vom Nachbarbahnsteig stadteinwährts (Gleis 3 und 4),
+* in **Fahrtrichtung Königs Wusterhausen** erfolgt die Weiterfahrt in Grünau vom selben Bahnsteig am Gleis direkt gegenüber.
+
+Achten Sie bitte in Grünau auf die örtlichen Lautsprecheransagen und Anzeiger auf den Bahnsteigen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
