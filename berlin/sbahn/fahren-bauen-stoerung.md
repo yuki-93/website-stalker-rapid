@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einer Weiche in Teltow Stadt ###
 
- Letztes Update: 14:35 / 16.12.2023
+ Letztes Update: 15:30 / 16.12.2023
 
 Information
 
-Wegen der Reparatur an einer Weiche in Teltow Stadt kommt es auf den Linien S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einer Weiche in Teltow Stadt verkehrt die Linie S26 nur zwischen Potsdamer Platz und Lichterfelde Süd.
 
-* die Linie S26 verkehrt nur zwischen Potsdamer Platz und Lichterfelde Süd, *bitte nutzen Sie zwischen Lichterfelde Süd und Teltow Stadt die Linie S25*.
+Bitte nutzen Sie zwischen Lichterfelde Süd und Teltow Stadt die Linie S25.
 
 Wir bitten um Entschuldigung.
 
