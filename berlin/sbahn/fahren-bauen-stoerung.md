@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus in Treptower Park ###
 
- Letztes Update: 08:32 / 17.12.2023
+ Letztes Update: 14:20 / 17.12.2023
 
 Information
 
-Wegen einer Beeinträchtigung durch Vandalismus in Treptower Park (Kabeldiebstahl) verkehrt die Linie S85 **ab ca. 10:00 Uhr** nur **zwischen Pankow und** **Ostkreuz.**
+Wegen einer Beeinträchtigung durch Vandalismus in Treptower Park (Kabeldiebstahl) verkehrt die **Linie S85** nur **zwischen Pankow und** **Ostkreuz.**
 
 Bitte nutzen Sie zwischen Ostkreuz und Schöneweide die Linie S8.
 
