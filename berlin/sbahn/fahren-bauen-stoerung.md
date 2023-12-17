@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Lichterfelde Ost beendet ###
+
+ Letztes Update: 11:47 / 17.12.2023
+
+Information
+
+Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Lichterfelde Ost kommt es auf den Linien S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### Beeinträchtigung durch Vandalismus in Treptower Park ###
