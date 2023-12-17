@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Beeinträchtigung durch Vandalismus in Treptower Park ###
+
+ Letztes Update: 07:56 / 17.12.2023
+
+Information
+
+Wegen einer Beeinträchtigung durch Vandalismus in Treptower Park (Kabeldiebstahl) kommt es auf den Linien S8, S85 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linie **S85 fährt ab ca. 10:00 Uhr** nur **zwischen Pankow und** **Ostkreuz**, *bitte nutzen Sie zwischen Ostkreuz und Schöneweide die Linie S8*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
