@@ -27,19 +27,19 @@ Volle Power für deine Festtage:mit bis zu 785€ Rabatt
 
 Unsere Bestseller zum Bestpreis
 
-09
+08
 
 :
 
 Std.
 
-39
+41
 
 :
 
 Min.
 
-50
+29
 
 Sek.
 
