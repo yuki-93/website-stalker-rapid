@@ -6,17 +6,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Bauarbeiten in Grunewald ###
+### Bauarbeiten in Grunewald beendet ###
 
- Letztes Update: 03:53 / 18.12.2023
+ Letztes Update: 08:06 / 18.12.2023
 
 Information
 
-Wegen Bauarbeiten verkehren die Züge der Linie S7 in Grunewald Richtung Ahrensfelde von Gleis 2 (Bahnsteig stadtauswärts).
+Nach Bauarbeiten verkehren die Züge der Linie S7 in Grunewald wieder planmäßig.
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### ärztliche Versorgung eines Fahrgastes im Zug in Springpfuhl beendet ###
+
+ Letztes Update: 07:42 / 18.12.2023
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Springpfuhl kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
 
 ### Baumaßnahmen ###
 
