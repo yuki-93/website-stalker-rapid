@@ -22,11 +22,13 @@ Hilfe
 
 [Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/christmas-sale?ref=masterBanner1)
 
-72 Stunden Flash Sale
+Festtagsangebote
 
-Volle Power für deine Festtage:mit bis zu 785€ Rabatt
+Genug Power für die Feiertage?
 
-Unsere Bestseller zum Bestpreis
+Mach Weihnachten zu etwas Besonderemmit bis zu 700€ Rabatt auf Balkonsolarsysteme
+
+Von 18. bis 24. Dezember
 
 [Jetzt bestellenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner2)
 
@@ -111,17 +113,17 @@ Entdecke Anker Innovations
 
 * ###
 
-  Holiday Flash Sale
+  Festtagsangebote
 
    ###
 
   ### Anker SOLIX Balkonkraftwerk ###
 
-  ### Spare bis zu 785€ ###
+  ### Spare bis zu 700€ ###
 
   600W Mikroinverter, erweiterbar auf 800W
 
-  [Mehr erfahren Holiday Flash Sale ,Anker SOLIX Balkonkraftwerk,Spare bis zu 785€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
+  [Mehr erfahren Festtagsangebote ,Anker SOLIX Balkonkraftwerk,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
 
 Was macht Anker so besonders?
 ----------
