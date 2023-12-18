@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### ärztliche Versorgung eines Fahrgastes in Westend beendet ###
+
+ Letztes Update: 13:55 / 18.12.2023
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Westend kommt es auf den Linien S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
