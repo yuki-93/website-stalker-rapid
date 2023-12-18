@@ -4,37 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technischer Defekt an einem Bahnübergang in Fredersdorf behoben ###
-
- Letztes Update: 17:02 / 18.12.2023
-
-Information
-
-Nach einem technischen Defekt an einem Bahnübergang in Fredersdorf kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### ärztliche Versorgung eines Fahrgastes in Zoologischer Garten beendet ###
 
- Letztes Update: 17:01 / 18.12.2023
+ Letztes Update: 18:19 / 18.12.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Zoologischer Garten kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Zoologischer Garten und einem Polizeieinsatz im Bereich Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Die zusätzlichen Züge der Linie S3 zwischen Karlshorst und Ostbahnhof fahren nicht.
 
-Die zusätzlichen Züge der Linie S5 zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht
-
-Die Linie S75 fährt nur zwischen Wartenberg und Lichtenberg.
+Die zusätzlichen Züge der Linie S5 zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht.
 
 Wir bitten um um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Wollankstraße ###
+
+ Letztes Update: 18:17 / 18.12.2023
+
+Information
+
+Wegen eines Polizeieinsatzes im Zug in Wollankstraße kommt es auf den Linien S1, S25 und S85 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
