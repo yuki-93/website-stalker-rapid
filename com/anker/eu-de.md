@@ -2,7 +2,7 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e
 
 []()
 
-Heute bis zu 50% Rabatt. 14 Tage, 14 Deals im Countdown.
+100€ Bestellwert = 20€ Rabatt | 200€ Bestellwert = 40€ Rabatt
 
 [Jetzt kaufen \>\>](https://www.anker.com/eu-de/christmas-sale?ref=topbanner)
 
@@ -14,10 +14,11 @@ Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
-Tägliche Spezialangebote
-für deine Feiertage
+ Mehr bestellen, mehr sparen!
 
-Jeden Tag neue Rabatte!
+100€ Bestellwert = 20€ Rabatt | 200€ Bestellwert = 40€ Rabatt
+
+18. Dezember - 27. Dezember
 
 [Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/christmas-sale?ref=masterBanner1)
 
