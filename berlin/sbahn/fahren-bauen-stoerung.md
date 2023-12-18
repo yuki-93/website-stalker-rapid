@@ -2,42 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Wollankstraße beendet ###
-
- Letztes Update: 18:34 / 18.12.2023
-
-Information
-
-Nach einem Polizeieinsatz im Zug in Wollankstraße kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die Linie S85 verkehrt zwischen Grünau und Nordbahnhof.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Zoologischer Garten beendet ###
-
- Letztes Update: 18:23 / 18.12.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Zoologischer Garten und einem Polizeieinsatz im Bereich Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die zusätzlichen Züge der Linie S3 zwischen Karlshorst und Ostbahnhof fahren nicht.
-
-Die zusätzlichen Züge der Linie S5 zwischen Mahlsdorf und Warschauer Straße/ Ostbahnhof fahren nicht.
-
-Wir bitten um um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
