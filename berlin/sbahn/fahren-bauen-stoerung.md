@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Bauarbeiten in Grunewald ###
+
+ Letztes Update: 03:53 / 18.12.2023
+
+Information
+
+Wegen Bauarbeiten verkehren die Züge der Linie S7 in Grunewald Richtung Ahrensfelde von Gleis 2 (Bahnsteig stadtauswärts).
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)

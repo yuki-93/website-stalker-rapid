@@ -18,7 +18,7 @@ Hilfe
 
 100€ Bestellwert = 20€ Rabatt | 200€ Bestellwert = 40€ Rabatt
 
-18. Dezember - 27. Dezember
+18. Dezember - 26. Dezember
 
 [Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/christmas-sale?ref=masterBanner1)
 
