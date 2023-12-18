@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Polizeieinsatz im Bereich Tegel ###
+### technischer Defekt an einem Bahnübergang in Fredersdorf ###
 
- Letztes Update: 14:45 / 18.12.2023
+ Letztes Update: 16:17 / 18.12.2023
 
 Information
 
-Wegen eines Polizeieinsatzes im Bereich zwischen Eichborndamm und Tegel kommt es auf der Linie S25 zu Verspätungen und einzelnen Ausfällen.
+Wegen eines technischen Defekts an einem Bahnübergang in Fredersdorf kommt es auf der Linie S5 zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+* In Fredersorf ist zur Weiterfahrt in beiden Fahrtrichtungen ein Bahnsteigseitenwechsel erforderlich.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
