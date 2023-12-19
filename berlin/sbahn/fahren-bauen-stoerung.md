@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### ärztliche Versorgung eines Fahrgastes in Landsberger Allee beendet ###
 
- Letztes Update: 16:47 / 19.12.2023
+ Letztes Update: 17:32 / 19.12.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Landsberger Allee kommt es auf den Linien S41, S42 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Landsberger Allee kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
 
 Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
