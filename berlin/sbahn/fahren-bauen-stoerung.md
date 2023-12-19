@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### ärztliche Versorgung eines Fahrgastes in einem Zug in Lichtenberg beendet ###
-
- Letztes Update: 11:07 / 19.12.2023
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Lichtenberg kommt es auf der Linien S5, S7 und S75 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -293,6 +277,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-stresow/#con-28614)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Stresow \<\> Spandau ###
+
+Nacht 25./26.01. (Do/Fr), ca. 23 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28615&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21796&tx_sbbconstructions_list%5Bperiod%5D=17554&type=5679&cHash=4ecaaa4a8213127853480b859f8a95de)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S3 und die S9 nach Spandau haben in Stresow 4 Minuten Aufenthalt und fahren von Stresow bis Spandau 4 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
 
