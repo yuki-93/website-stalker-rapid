@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### ärztliche Versorgung eines Fahrgastes in einem Zug in Lichtenberg beendet ###
+
+ Letztes Update: 11:07 / 19.12.2023
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Lichtenberg kommt es auf der Linien S5, S7 und S75 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
@@ -257,6 +273,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-lichtenberg-8/#con-28579)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### (Olympiastadion) Pichelsberg \<\> Spandau ###
+
+Nacht 16./17.01. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28614&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21794&tx_sbbconstructions_list%5Bperiod%5D=17553&type=5679&cHash=019e2e17d726a3443c1c359e2cbd2928)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Pichelsberg \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-in-stresow/#con-28614)
 
 [S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
 

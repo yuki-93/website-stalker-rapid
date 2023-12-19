@@ -34,19 +34,19 @@ Mach Weihnachten zu etwas Besonderemmit bis zu 700€ Rabatt auf Balkonsolarsyst
 
 Tagen
 
-13
+12
 
 :
 
 Std.
 
-41
+36
 
 :
 
 Min.
 
-03
+32
 
 Sek.
 
