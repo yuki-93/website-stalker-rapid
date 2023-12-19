@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung eines Fahrgastes in Landsberger Allee beendet ###
 
- Letztes Update: 17:32 / 19.12.2023
+ Letztes Update: 18:26 / 19.12.2023
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Landsberger Allee kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Landsberger Allee verkehren die Linien S41 und S42 nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
