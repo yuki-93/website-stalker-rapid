@@ -116,35 +116,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Schlachtensee/Grunewald \<\> Wannsee \<\> Potsdam Hbf ###
-
-Nächte 20./21.12. (Mi/Do) und 21./22.12. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28473&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21634&tx_sbbconstructions_list%5Bperiod%5D=17510&type=5679&cHash=b4ac3b903c65548ad1e1b843e376a586)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S7 steigen bitte in beiden Fahrtrichtungen in Wannsee um, die Weiterfahrt erfolgt nach 10 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei).
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-und-stopfarbeiten-in-wannsee/#con-28473)
-
-Hinweis
-
-Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Südkreuz, Yorckstraße/Großgörschenstraße \<\> Gesundbrunnen ###
@@ -172,6 +143,12 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28432)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
+
+Hinweis
+
+Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
