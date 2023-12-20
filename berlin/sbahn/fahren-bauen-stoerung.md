@@ -4,27 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof – Spandau ###
-
-Nächte 18./19.12. (Mo/Di) und 19./20.12. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28485&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21649&tx_sbbconstructions_list%5Bperiod%5D=17520&type=5679&cHash=5bb383038e591ec0310b6ef625a28655)
-
- Takt geändert
-
-Information
-
-* Taktänderung
-* Fahrplanänderung
-* Bahnsteigänderung in Charlottenburg und Westkreuz
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-schleif-und-stopfarbeiten/#con-28485)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -42,27 +21,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Hermannstraße – Westend ###
-
-Nacht 19./20.12. (Di/Mi) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28486&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21650&tx_sbbconstructions_list%5Bperiod%5D=17522&type=5679&cHash=0161b005a62f20541733407e097936ac)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Taktänderung
-* Gleisänderung in Südkreuz
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-und-schienenfraesarbeiten/#con-28486)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
 
