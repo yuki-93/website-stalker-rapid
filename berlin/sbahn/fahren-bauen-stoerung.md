@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Polizeieinsatz (unbefugte Personen auf der Strecke Storkower Straße) ###
+### Streckensperrung Strausberg Nord-Strausberg ###
 
- Letztes Update: 10:18 / 21.12.2023
+ Letztes Update: 13:32 / 21.12.2023
 
 Information
 
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke im Bereich Storkower Straße) kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+Wegen einer Streckensperrung zwischen Strausberg Nord und Strausberg ist der Zugverkehr der Linie S5 zwischen Strausberg Nord und Strausberg unterbrochen.
 
-Wir bitten um Verständnis.
+Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Takt geändert
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
