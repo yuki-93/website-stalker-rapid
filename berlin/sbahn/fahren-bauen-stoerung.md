@@ -4,15 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### technische Untersuchung am Zug in Schönhauser Allee ###
+### Reparatur am Signal in Gesundbrunnen ###
 
- Letztes Update: 06:09 / 21.12.2023
+ Letztes Update: 06:57 / 21.12.2023
 
 Information
 
-Wegen einer technischen Untersuchung am Zug in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+
+*\* Die Linie S26 verkehrt nur zwischen Teltow Stadt und Nordbahnhof.*
+
+Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### technische Untersuchung am Zug in Schönhauser Allee beendet ###
+
+ Letztes Update: 06:26 / 21.12.2023
+
+Information
+
+Nach einer technischen Untersuchung am Zug in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
