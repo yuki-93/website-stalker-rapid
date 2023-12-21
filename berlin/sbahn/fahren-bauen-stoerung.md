@@ -8,29 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Signal in Gesundbrunnen ###
 
- Letztes Update: 06:57 / 21.12.2023
+ Letztes Update: 09:08 / 21.12.2023
 
 Information
 
 Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
 
+\* *Auf der Linie S2 kann der 10-Minuten-Takt nur zwischen Lichtenrade und Nordbahnhof angeboten werden.*
+
 *\* Die Linie S26 verkehrt nur zwischen Teltow Stadt und Nordbahnhof.*
 
 Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### technische Untersuchung am Zug in Schönhauser Allee beendet ###
-
- Letztes Update: 06:26 / 21.12.2023
-
-Information
-
-Nach einer technischen Untersuchung am Zug in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
