@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Streckensperrung Strausberg Nord-Strausberg ###
+### Streckensperrung Strausberg Nord-Strausberg aufgehoben ###
 
- Letztes Update: 13:32 / 21.12.2023
+ Letztes Update: 14:31 / 21.12.2023
 
 Information
 
-Wegen einer Streckensperrung zwischen Strausberg Nord und Strausberg ist der Zugverkehr der Linie S5 zwischen Strausberg Nord und Strausberg unterbrochen.
+Nach einer Streckensperrung zwischen Strausberg Nord und Strausberg kommt es auf der Linie S5 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
