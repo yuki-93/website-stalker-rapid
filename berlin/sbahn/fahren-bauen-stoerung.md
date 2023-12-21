@@ -8,17 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Signal in Gesundbrunnen ###
 
- Letztes Update: 09:08 / 21.12.2023
+ Letztes Update: 19:50 / 21.12.2023
 
 Information
 
 Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
 
-\* *Auf der Linie S2 kann der 10-Minuten-Takt nur zwischen Lichtenrade und Nordbahnhof angeboten werden.*
+\* *Die Linie S2 verkehrt zwischen Blankenfelde und Bernau nur im 20-Minuten-Takt.*
 
-*\* Die Linie S26 verkehrt nur zwischen Teltow Stadt und Nordbahnhof.*
-
-Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.
+*\* Die Linie S26 verkehrt nicht.*
 
 Wir bitten um Entschuldigung.
 
