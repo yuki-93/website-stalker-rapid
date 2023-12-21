@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Signalstörung in Treptower Park ###
+### Reparatur an einem Signal in Treptower Park ###
 
- Letztes Update: 16:09 / 21.12.2023
+ Letztes Update: 17:16 / 21.12.2023
 
 Information
 
-Wegen einer Signalstörung in Treptower Park kommt es auf den Linien S41, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S8, S85 und S9 zu Verspätungen und Ausfällen.
 
 * die Linie S85 verkehrt nicht
 
@@ -168,33 +168,46 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Südkreuz, Yorckstraße/Großgörschenstraße \<\> Gesundbrunnen ###
 
 05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28432&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17499&type=5679&cHash=24ecbf69d55ad7bd136e250cc1ce4235)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28432&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=051b7b40bd97c6b3ba1ffed11d322e62)
 
  Ersatzverkehr
 
 Information
 
-* Ersatzverkehr mit Bussen
+* Sperrung des Streckenabschnittes zwischen Gesundbrunnen und Südkreuz/Yorckstraße (Großgörschenstraße)
+* Als Ersatz fahren Busse
   * Linie S1A: Südkreuz \<\> Schöneberg \<\> Friedrichstraße
   * Linie S1B: Friedrichstraße \<\> Gesundbrunnen
 
-* Taktänderung:
-  * Auf der S1 kann der 5-Minutentakt (Zehlendorf \<\> Potsdamer Platz) nicht angeboten werden.
-  * Gesundbrunnen \<\> Schönhauser Allee S-Bahnverkehr nur im 5-/5-/10-Minutentakt (Die Verdichtung auf einen 5-Minutentakt Mo-Fr während der Hauptverkehrszeiten entfällt).
-  * Schönholz \<\> Frohnau S-Bahnverkehr nur im 10-Minutentakt mit S1
-  * Bornholmer Straße \<\> Blankenburg S-Bahnverkehr nur im ungefähren 5-/5-/10-Minutentakt mit S2, S8 und S85
-
-* Fahrplanänderung
-* Bahnsteigänderung
+* Bitte beachten Sie zahlreiche Takt-/Fahrplan- und Bahnsteigänderungen
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28432)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Ring ###
+
+05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28630&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=8bfdfd77aa4cde1ef5c5c5eb95d1ad97)
+
+ Takt geändert
+
+Information
+
+* Die Linien S41/42 fahren Mo-Fr während der Hauptverkehrszeiten statt im durchgehenden 5-Minutentakt in einem 5-/5-/10-Minutentakt.
+  * Das bedeutet: Innerhalb von 20 Minuten fahren drei Züge nacheinander im Abstand von 5 und 5 und 10 Minuten.
+
+* Die Züge auf der S42 fahren auf dem gesamten Ring um 10 Minuten versetzt
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28630)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
 
 Hinweis
 
