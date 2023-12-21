@@ -6,31 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Treptower Park ###
+### Reparatur an einem Signal in Treptower Park behoben ###
 
- Letztes Update: 17:16 / 21.12.2023
+ Letztes Update: 18:10 / 21.12.2023
 
 Information
 
-Wegen einer Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S8, S85 und S9 zu Verspätungen und Ausfällen.
-
-* die Linie S85 verkehrt nicht
+Nach einer Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Bellevue beendet ###
-
- Letztes Update: 15:46 / 21.12.2023
-
-Information
-
-Nach einem Polizeieinsatz in Bellevue kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
 
  Takt geändert
 
@@ -190,6 +174,55 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28432)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
 
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Schöneweide \<\> Herrmannstraße ###
+
+05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28631&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=755a7be37e1f2d36b0bfebe93f282cfc)
+
+ fährt nicht
+
+Information
+
+* Die S47 fährt im Abend- und Nachtverkehr Fr/Sa und Sa/So nur Schöneweide \<\> Spindlersfeld.
+* Im Tagesverkehr nutzen Fahrgäste bitte die umgeleitete S1 zwischen Spindlersfeld und Hermannstraße.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28631)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Südkreuz \<\> Westend ###
+
+05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28632&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=f26978ab50aecae0d8fc5cb7e5e53b47)
+
+ fährt nicht
+
+Information
+
+* Die S46 fährt im Nachtverkehr Fr/Sa+Sa/So nur zwischen Königs Wusterhausen \<\> Südkreuz
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28632)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Bornholmer Straße \<\> Waidmannslust ###
+
+05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28633&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=1294b6510a71ec19771c6daebdb70556)
+
+ fährt nicht
+
+Information
+
+* S85 fährt nicht Bornholmer Straße \<\> Waidmannslust, sondern nach Buch
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28633)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Ring ###
@@ -205,7 +238,7 @@ Information
 * Die Linien S41/42 fahren Mo-Fr während der Hauptverkehrszeiten statt im durchgehenden 5-Minutentakt in einem 5-/5-/10-Minutentakt.
   * Das bedeutet: Innerhalb von 20 Minuten fahren drei Züge nacheinander im Abstand von 5 und 5 und 10 Minuten.
 
-* Die Züge auf der S42 fahren auf dem gesamten Ring um 10 Minuten versetzt
+* Einzelne Züge auf der S42 fahren auf dem gesamten Ring um 10 Minuten versetzt
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28630)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
 
