@@ -4,18 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Reparatur am Zug in Beusselstraße beendet ###
+
+ Letztes Update: 23:10 / 22.12.2023
+
+Information
+
+Nach einer Reparatur am Zug in Beusselstraße kommt es auf der Linie S41 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
 
 ### Reparatur an Signalen im Bereich Gesundbrunnen beendet ###
 
- Letztes Update: 22:06 / 22.12.2023
+ Letztes Update: 22:56 / 22.12.2023
 
 Information
 
-Nach der Reparatur an Signalen im Bereich Gesundbrunnen kommt es auf den Linien S1 und S2 noch zu Verspätungen und nachfolgenden Einschränkungen:
-
-* **Linie S1:** verkehrt nur im 20-Minuten-Takt
-* **Linie S2:** verkehrt nur im 20-Minuten-Takt
+Nach der Reparatur an Signalen im Bereich Gesundbrunnen kommt es auf den Linien S1 und S2 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
