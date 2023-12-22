@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Reparatur an einem Signal in Schöneberg ###
+
+ Letztes Update: 07:23 / 22.12.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Schöneberg kommt es auf der Linien S41 zu Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einem Signal in Gesundbrunnen ###
 
- Letztes Update: 06:20 / 22.12.2023
+ Letztes Update: 07:16 / 22.12.2023
 
 Information
 
@@ -16,26 +30,13 @@ Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1,
 
 * **S1** verkehrt im 20-Minuten-Takt
 * **S2** verkehrt im 20-Minuten-Takt
+* **S25** verkehrt zwischen Teltow Stadt und Nordbahnhof sowie Schönholz und Hennigsdorf
 * **S26** fährt nur zwischen Teltow Stadt und Nordbahnhof
 * **S85** verkehrt nicht
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Signal in Schöneberg ###
-
- Letztes Update: 05:15 / 22.12.2023
-
-Information
-
-Wegen der Reparatur an einem Signal in Schöneberg kommt es auf den Linien S41 und S46 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
