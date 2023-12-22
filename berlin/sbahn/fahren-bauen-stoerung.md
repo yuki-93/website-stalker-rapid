@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an Signalen im Bereich Gesundbrunnen ###
 
- Letztes Update: 13:23 / 22.12.2023
+ Letztes Update: 14:00 / 22.12.2023
 
 Information
 
@@ -17,10 +17,14 @@ Wegen der Reparatur an Signalen im Bereich Gesundbrunnen kommt es auf den Linien
 * **Linie S1:** verkehrt nur im 20-Minuten-Takt
 * **Linie S2:** verkehrt nur im 20-Minuten-Takt
 * **Linie S25:** verkehrt Teltow Stadt \<\> Nordbahnhof **sowie** Schönholz \<\> Hennigsdorf
-* **Linie S26:** fährt nur zwischen Teltow Stadt und Nordbahnhof
+* **Linie S26:** verkehrt nicht
 * **Linie S41:** fährt nur im 10-Minuten-Takt
 * **Linie S42:** fährt nur im 10-Minuten-Takt
 * **Linie S85:** verkehrt nicht
+
+**Bitte beachten Sie**, dass es im Zuge der Reparatur an den Signalen im Bereich Gesundbrunnen im Laufe des Nachmittags zur teilweisen Einstellung des Zugverkehrs auf den Linien S1, S2, S25, S26, S41, S42 und S8 kommen kann, da die betroffenen elektronischen Stellwerke heruntergefahren und anschließend neu gestartet werden müssen.
+
+**Hierüber informieren wir Sie umgehend, sobald uns dazu Informationen vorliegen.**
 
 Wir bitten um Entschuldigung.
 
