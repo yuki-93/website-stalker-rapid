@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Gesundbrunnen ###
+
+ Letztes Update: 06:20 / 22.12.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* **S1** verkehrt im 20-Minuten-Takt
+* **S2** verkehrt im 20-Minuten-Takt
+* **S26** fährt nur zwischen Teltow Stadt und Nordbahnhof
+* **S85** verkehrt nicht
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Reparatur an einem Signal in Schöneberg ###
@@ -18,22 +37,22 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur an einem Signal in Gesundbrunnen ###
+### Ausfall wegen verspäteter Bereitstellung von Zügen, Linie S5 ###
 
- Letztes Update: 05:13 / 22.12.2023
+ Letztes Update: 03:31 / 22.12.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der verspäteten Bereitstellung von Zügen fallen **von ca. 06:00 Uhr bis vsl. 09:00 Uhr** folgende Fahrten auf der Linie S5 aus:
 
-* **S2**: der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
-* **S26** fährt nur zwischen Teltow Stadt und Nordbahnhof
+* ab Mahlsdorf jeweils zur Minute 16, 36 und 56
+* ab Ostbahnhof jeweils zur Minute 07, 27 und 47
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
