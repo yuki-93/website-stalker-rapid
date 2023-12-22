@@ -4,37 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### ärztliche Versorgung eines Fahrgastes in Hohenzollerndamm beendet ###
-
- Letztes Update: 19:08 / 22.12.2023
-
-Information
-
-Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Hohenzollerndamm kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an Signalen im Bereich Gesundbrunnen beendet ###
 
- Letztes Update: 18:03 / 22.12.2023
+ Letztes Update: 21:08 / 22.12.2023
 
 Information
 
-Nach der Reparatur an Signalen im Bereich Gesundbrunnen kommt es auf den Linien S1, S2, und S26, zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur an Signalen im Bereich Gesundbrunnen kommt es auf den Linien S1, S2 und S26 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
 * **Linie S1:** verkehrt nur im 20-Minuten-Takt
 * **Linie S2:** verkehrt nur im 20-Minuten-Takt
-* **Linie S26:** verkehrt nicht
+* **Linie S26:** verkehrt nicht, *bitte nutzen Sie zwischen Teltow Stadt und Bornholmer Straße die Linie S25 **sowie** zwischen Bornholmer Straße und Blankenburg die Linie S2*
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz Hermsdorf beendet ###
+
+ Letztes Update: 20:43 / 22.12.2023
+
+Information
+
+Nach einem Polizeieinsatz in Hermsdorf kommt es auf der Linie S1 noch zu einzelnen Verspätungen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
 
 ### Baumaßnahmen ###
 
