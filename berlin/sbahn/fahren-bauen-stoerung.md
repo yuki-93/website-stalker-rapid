@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an Signalen im Bereich Gesundbrunnen ###
+### Reparatur an Signalen im Bereich Gesundbrunnen beendet ###
 
- Letztes Update: 16:30 / 22.12.2023
+ Letztes Update: 18:03 / 22.12.2023
 
 Information
 
-Wegen der Reparatur an Signalen im Bereich Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Reparatur an Signalen im Bereich Gesundbrunnen kommt es auf den Linien S1, S2, und S26, zu Verspätungen und nachfolgenden Einschränkungen:
 
 * **Linie S1:** verkehrt nur im 20-Minuten-Takt
 * **Linie S2:** verkehrt nur im 20-Minuten-Takt
