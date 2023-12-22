@@ -4,35 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technischer Defekt an anderen Zügen ###
-
- Letztes Update: 12:10 / 22.12.2023
-
-Information
-
-Wegen technischer Defekte an anderen Zügen kann der 10-Minuten-Takt auf der Linie S5 nur zwischen Westkreuz und Mahlsdorf angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an Signalen im Bereich Gesundbrunnen ###
 
- Letztes Update: 11:33 / 22.12.2023
+ Letztes Update: 13:23 / 22.12.2023
 
 Information
 
-Wegen der Reparatur an Signalen im Bereich Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an Signalen im Bereich Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41, S42 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **S1** verkehrt im 20-Minuten-Takt
-* **S2** verkehrt im 20-Minuten-Takt
-* **S25** verkehrt zwischen Teltow Stadt und Nordbahnhof sowie Schönholz und Hennigsdorf
-* **S26** fährt nur zwischen Teltow Stadt und Nordbahnhof
-* **S85** verkehrt nicht
+* **Linie S1:** verkehrt nur im 20-Minuten-Takt
+* **Linie S2:** verkehrt nur im 20-Minuten-Takt
+* **Linie S25:** verkehrt Teltow Stadt \<\> Nordbahnhof **sowie** Schönholz \<\> Hennigsdorf
+* **Linie S26:** fährt nur zwischen Teltow Stadt und Nordbahnhof
+* **Linie S41:** fährt nur im 10-Minuten-Takt
+* **Linie S42:** fährt nur im 10-Minuten-Takt
+* **Linie S85:** verkehrt nicht
 
 Wir bitten um Entschuldigung.
 
@@ -140,7 +128,7 @@ Information
 
 Information
 
-* Die S47 fährt im Abend- und Nachtverkehr Fr/Sa und Sa/So nur Schöneweide \<\> Spindlersfeld.
+* Die S47 fährt im Abend- und Nachtverkehr Fr/Sa und Sa/So immer nur Spindlersfeld \<\> Schöneweide.
 * Im Tagesverkehr nutzen Fahrgäste bitte die umgeleitete S1 zwischen Spindlersfeld und Hermannstraße.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28631)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
@@ -157,7 +145,7 @@ Information
 
 Information
 
-* Die S46 fährt im Nachtverkehr Fr/Sa+Sa/So nur zwischen Königs Wusterhausen \<\> Südkreuz
+* Die S46 fährt im Nachtverkehr Fr/Sa+Sa/So immer nur zwischen Königs Wusterhausen \<\> Südkreuz
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28632)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
 
@@ -173,7 +161,10 @@ Information
 
 Information
 
-* S85 fährt nicht Bornholmer Straße \<\> Waidmannslust, sondern nach Buch
+* S85 fährt nicht Bornholmer Straße \<\> Waidmannslust, sondern Bornholmer Straße \<\> Buch
+* gegenüber der dort sonst verkehrenden S2, fährt die S85
+  * nach Buch von Bornholmer Straße bis Blankenburg 3 bis 4 Minuten früher
+  * in der Gegenrichtung nach Grünau 4 bis 5 Minuten später
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28633)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
 
@@ -307,25 +298,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schöneweide \<\> Grünau/Grünbergallee ###
-
-28.01. (So), ca. 0:45 Uhr - ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28437&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21590&tx_sbbconstructions_list%5Bperiod%5D=17500&type=5679&cHash=9b07a7fbcd4d8a19764569cb45dd7a0c)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-fussgaengerbruecke-adlergestell-einhub-ueberbau/#con-28437)
-
 [S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
@@ -401,18 +373,22 @@ Information
 
 ### Birkenwerder \<\> Oranienburg ###
 
-17.02. (Sa), ca. 11:45 Uhr durchgehend bis 28.03. (Fr), ca. 22 Uhr
+17.02. (Sa), 12 Uhr durchgehend bis 28.03. (Do), ca 22 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28489&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21653&tx_sbbconstructions_list%5Bperiod%5D=17524&type=5679&cHash=baf69b16ac00c479d33f333be8fc42bf)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28645&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21824&tx_sbbconstructions_list%5Bperiod%5D=17563&type=5679&cHash=ed0531ade96c0c2bf721d177c9c62d2e)
 
  Ersatzverkehr
 
 Information
 
 * Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+  * Bus S1X: Birkenwerder \<\> Oranienburg (Linie fährt Mo-Fr 5 bis 21 Uhr, Sa 7 bis 21 Uhr und So 9 bis 21 Uhr)
+  * Bus S1A: Birkenwerder \<\> Oranienburg
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-9500-m/#con-28489)
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28645)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
