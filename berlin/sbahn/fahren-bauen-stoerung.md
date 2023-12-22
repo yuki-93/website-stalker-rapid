@@ -4,29 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur an einem Signal in Schöneberg ###
+### technischer Defekt an anderen Zügen ###
 
- Letztes Update: 07:23 / 22.12.2023
+ Letztes Update: 12:10 / 22.12.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Schöneberg kommt es auf der Linien S41 zu Ausfällen.
+Wegen technischer Defekte an anderen Zügen kann der 10-Minuten-Takt auf der Linie S5 nur zwischen Westkreuz und Mahlsdorf angeboten werden.
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Gesundbrunnen ###
+### Reparatur an Signalen im Bereich Gesundbrunnen ###
 
- Letztes Update: 07:16 / 22.12.2023
+ Letztes Update: 11:33 / 22.12.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an Signalen im Bereich Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * **S1** verkehrt im 20-Minuten-Takt
 * **S2** verkehrt im 20-Minuten-Takt
@@ -37,23 +37,6 @@ Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1,
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Ausfall wegen verspäteter Bereitstellung von Zügen, Linie S5 ###
-
- Letztes Update: 03:31 / 22.12.2023
-
-Information
-
-Wegen der verspäteten Bereitstellung von Zügen fallen **von ca. 06:00 Uhr bis vsl. 09:00 Uhr** folgende Fahrten auf der Linie S5 aus:
-
-* ab Mahlsdorf jeweils zur Minute 16, 36 und 56
-* ab Ostbahnhof jeweils zur Minute 07, 27 und 47
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -242,6 +225,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-lichtenberg-8/#con-28579)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Mahlsdorf \<\> Lichtenberg ###
+
+Nacht 15./16.01. (Mo/Di) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28644&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21823&tx_sbbconstructions_list%5Bperiod%5D=17562&type=5679&cHash=9e5f03386218a815694fd07e268e7117)
+
+ Takt geändert
+
+Information
+
+* Taktänderung S5:
+  * Mahlsdorf \<\> Lichtenberg S-Bahnverkehr nur im 20-Minutentakt
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-mahlsdorf-3/#con-28644)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
