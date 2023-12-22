@@ -4,20 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einem Signal in Gesundbrunnen ###
+### Reparatur an einem Signal in Schöneberg ###
 
- Letztes Update: 04:11 / 22.12.2023
+ Letztes Update: 05:15 / 22.12.2023
 
 Information
 
-Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41, S42 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Schöneberg kommt es auf den Linien S41 und S46 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal in Gesundbrunnen ###
+
+ Letztes Update: 05:13 / 22.12.2023
+
+Information
+
+Wegen der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * **S2**: der 10-Minuten-Takt kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
-* **S26** fährt nur zwischen Teltow Stadt und Nordbahnhof,
-* die **Linien S41 und S42** verkehren nur im 10-Minuten-Takt,
-* **S85**: verkehrt nicht.
+* **S26** fährt nur zwischen Teltow Stadt und Nordbahnhof
 
 Wir bitten um Entschuldigung.
 
