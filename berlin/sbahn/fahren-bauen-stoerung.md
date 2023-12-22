@@ -147,7 +147,7 @@ Information
 
 [S47](https://sbahn.berlin/fahren/s47/)
 
-### Schöneweide \<\> Herrmannstraße ###
+### Schöneweide \<\> Hermannstraße ###
 
 05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
 
