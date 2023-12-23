@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz in Südkreuz und Reparatur am Zug in Neukölln beendet ###
-
- Letztes Update: 01:28 / 23.12.2023
-
-Information
-
-Nach einem Polizeieinsatz im Zug in Südkreuz und einer Reparatur am Zug in Neukölln kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
