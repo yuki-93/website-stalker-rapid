@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Feuerwehreinsatz auf der Strecke Südende ###
+
+ Letztes Update: 12:10 / 24.12.2023
+
+Information
+
+Wegen eines Feuerwehreinsatzes auf der Strecke ist der Zugverkehr der Linien S25 und S26 zwischen Südende und Priesterweg unterbrochen.
+*Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
