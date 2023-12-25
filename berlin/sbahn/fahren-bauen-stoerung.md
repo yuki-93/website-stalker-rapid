@@ -2,6 +2,30 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Notarzteinsatz am Gleis in Johannisthal ###
+
+ Letztes Update: 15:19 / 25.12.2023
+
+Information
+
+Wegen eines Notarzteinsatzes am Gleis in Johannisthal ist der Zugverkehr auf den Linien S45, S46, S8, S85 und S9 unterbrochen.
+
+Die Linien verkehren wie folgt:
+
+* S45 verkehrt Südkreuz \<\> Schöneweide
+* S46 verkehrt Grünau \<\> Königs Wusterhausen
+* S8 verkehrt Birkenwerder \<\> Schöneweide
+* 85 verkehrt Pankow \<\> Ostkreuz
+* S9 verkehrt Spandau \<\> Schöneweide sowie Altglienicke \<\> Flughafen BER
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
