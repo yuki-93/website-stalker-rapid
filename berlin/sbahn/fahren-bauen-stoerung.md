@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz im Bereich Gesundbrunnen beendet ###
+
+ Letztes Update: 11:23 / 25.12.2023
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Gesundbrunnen kommt es auf den Linien S1, S2, S25, S26, S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Friedrichsfelde Ost beendet ###
+
+ Letztes Update: 11:02 / 25.12.2023
+
+Information
+
+Nach einem Polizeieinsatz in Friedrichsfelde Ost (unbefugte Personen auf der Strecke) kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
