@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### witterungsbedingte Beeinträchtigungen im Bereich Wannsee behoben ###
+### Polizeieinsatz in Frankfurter Allee beendet ###
 
- Letztes Update: 08:07 / 25.12.2023
+ Letztes Update: 09:10 / 25.12.2023
 
 Information
 
-Nach witterungsbedingte Beeinträchtigungen (Kollision mit einem Baum) im Bereich Wannsee kommt es auf der Linie S7 noch zu einzelnen Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Frankfurter Allee (unbefugte Personen auf der Strecke) kommt es auf den Linien S41, S42 und S8 noch zu einzelnen Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
