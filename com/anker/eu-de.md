@@ -24,7 +24,7 @@ Hilfe
 
 Festtagsangebote
 
-Genug Power für die Feiertage?
+Die letzten Festtagsangebote
 
 Mach Weihnachten zu etwas Besonderemmit bis zu 700€ Rabatt auf Balkonsolarsysteme
 
@@ -34,19 +34,19 @@ Mach Weihnachten zu etwas Besonderemmit bis zu 700€ Rabatt auf Balkonsolarsyst
 
 Tagen
 
-14
+13
 
 :
 
 Std.
 
-36
+41
 
 :
 
 Min.
 
-42
+26
 
 Sek.
 
