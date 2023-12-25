@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### witterungsbedingte Beeinträchtigungen im Bereich Wannsee ###
+### witterungsbedingte Beeinträchtigungen im Bereich Wannsee behoben ###
 
- Letztes Update: 05:12 / 25.12.2023
+ Letztes Update: 08:07 / 25.12.2023
 
 Information
 
-Wegen witterungsbedingte Beeinträchtigungen (Kollision mit einem Baum) im Bereich Wannsee ist der Zugverkehr der Linie S7 zwischen Wannsee und Griebnitzsee unterbrochen.
-
-*Bitte nutzen Sie zur Umfahrung zwischen Wannsee und Potsdam Hbf die Regionalbahnlinie RE1.*
+Nach witterungsbedingte Beeinträchtigungen (Kollision mit einem Baum) im Bereich Wannsee kommt es auf der Linie S7 noch zu einzelnen Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
