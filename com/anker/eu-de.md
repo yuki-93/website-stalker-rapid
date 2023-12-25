@@ -34,19 +34,19 @@ Mach Weihnachten zu etwas Besonderemmit bis zu 700€ Rabatt auf Balkonsolarsyst
 
 Tagen
 
-17
+16
 
 :
 
 Std.
 
-39
+36
 
 :
 
 Min.
 
-16
+24
 
 Sek.
 
@@ -127,11 +127,11 @@ Entdecke Anker Innovations
 
   [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_2)
 
-* ### Genieße rundum gemütliche Festtage ###
+* ### Deine letzte Chance auf Festtagsangebote ###
 
-  Bis zu 1.700€ Rabatt + gratis Produkte
+  Spare bis zu 1.700€
 
-  [Mehr erfahren Genieße rundum gemütliche Festtage](https://www.anker.com/eu-de/anker-solix/tragbare-powerstation-angebote-pps?ref=productBanner7_3)
+  [Mehr erfahren Deine letzte Chance auf Festtagsangebote](https://www.anker.com/eu-de/anker-solix/tragbare-powerstation-angebote-pps?ref=productBanner7_3)
 
 * ###
 

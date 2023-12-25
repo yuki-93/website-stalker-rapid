@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz in Königs Wusterhausen beendet ###
-
- Letztes Update: 06:12 / 25.12.2023
-
-Information
-
-Nach einem Polizeieinsatz in Königs Wusterhausen kommt es auf der Linie S46 noch zu einzelnen Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### witterungsbedingte Beeinträchtigungen im Bereich Wannsee ###
