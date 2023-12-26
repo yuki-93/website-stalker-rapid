@@ -2,6 +2,53 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### kurzfristiger Personalausfall im Stellwerk Hohen Neuendorf ###
+
+ Letztes Update: 08:09 / 26.12.2023
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls im Stellwerk Hohen Neuendorf muss der Zugverkehr der Linien S1 und S8 **von ca. 15:00 Uhr bis ca. 18:00 Uhr** wie folgt unterbrochen werden:
+
+* **S1:** zwischen Frohnau und Birkenwerder
+* **S8:** zwischen Schönfließ und Birkenwerder
+
+---
+
+**Ein Ersatzverkehr mit Bussen wird in diesem Zeitraum wie folgt eingerichtet:**
+
+* **Bus S1:** zwischen Frohnau und Birkenwerder mit Halt in Hohen Neuendorf - im 20-Minuten-Takt
+* **Bus S8:** zwischen Mühlen-Mönchmühle und Birkenwerder mit Halt in Schönfließ Dorf, Bergfelde, Hohen Neuendorf - im 20-Minuten-Takt
+
+**Haltestellen des Ersatzverkehrs (Bus S1):**
+
+* S Frohnau: Frohnauer Brücke (wie Bus 125, 220, N20)
+* S Hohen Neuendorf: Schönfließer Straße (wie Bus 809)
+* S Birkenwerder: Clara-Zetkin-Straße (wie Bus 822)
+
+**Haltestellen des Ersatzverkehrs (Bus S8):**
+
+* S Mühlenbeck-Mönchmühle:Kastanienallee (wie Bus 806, 810)
+* S Schönfließ: Ersatzhalt Schildow Kirche (Haltestelle Bus 107, 806, 810)
+* S Bergfelde: Paulstraße (wie Bus 809)
+* S Hohen Neuendorf: Schönfließer Straße (wie Bus 809)
+* S Birkenwerder: Clara-Zetkin-Straße (wie Bus 822)
+
+---
+
+Bitte nutzen Sie zusätzlich folgende Umfahrungsmöglichkeiten:
+
+* zwischen Gesundbrunnen und Oranienburg die Züge des RE5
+* zwischen Ostkreuz/ Lichtenberg und Oranienburg die Züge der RB12
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
