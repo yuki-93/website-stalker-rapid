@@ -28,22 +28,6 @@ Die letzten Festtagsangebote
 
 Mach Weihnachten zu etwas Besonderemmit bis zu 700€ Rabatt auf Balkonsolarsysteme
 
-00
-
-:
-
-Std.
-
-41
-
-:
-
-Min.
-
-15
-
-Sek.
-
 Von 18. bis 26. Dezember
 
 [Jetzt bestellenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner2)
