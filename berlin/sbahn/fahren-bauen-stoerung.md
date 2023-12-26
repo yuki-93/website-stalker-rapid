@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Gesundbrunnen beendet ###
+
+ Letztes Update: 13:22 / 26.12.2023
+
+Information
+
+Nach einem Polizeieinsatz in Gesundbrunnen kommt es auf den Linien S1, S2, S25, S41,S42, S8 und S85 noch zu Ausfällen und Verspätungen.
+
+Wir bitten um Verständnis
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### kurzfristiger Personalausfall im Stellwerk Hohen Neuendorf ###
 
- Letztes Update: 08:09 / 26.12.2023
+ Letztes Update: 12:49 / 26.12.2023
 
 Information
 
@@ -22,7 +36,7 @@ Wegen eines kurzfristigen Personalausfalls im Stellwerk Hohen Neuendorf muss der
 **Ein Ersatzverkehr mit Bussen wird in diesem Zeitraum wie folgt eingerichtet:**
 
 * **Bus S1:** zwischen Frohnau und Birkenwerder mit Halt in Hohen Neuendorf - im 20-Minuten-Takt
-* **Bus S8:** zwischen Mühlen-Mönchmühle und Birkenwerder mit Halt in Schönfließ Dorf, Bergfelde, Hohen Neuendorf - im 20-Minuten-Takt
+* **Bus S8:** zwischen Mühlenbeck-Mönchmühle und Birkenwerder mit Halt in Schönfließ Dorf, Bergfelde, Hohen Neuendorf - im 20-Minuten-Takt
 
 **Haltestellen des Ersatzverkehrs (Bus S1):**
 
@@ -34,7 +48,7 @@ Wegen eines kurzfristigen Personalausfalls im Stellwerk Hohen Neuendorf muss der
 
 * S Mühlenbeck-Mönchmühle:Kastanienallee (wie Bus 806, 810)
 * S Schönfließ: Ersatzhalt Schildow Kirche (Haltestelle Bus 107, 806, 810)
-* S Bergfelde: Paulstraße (wie Bus 809)
+* S Bergfelde: Schulstraße Ecke Ahornallee (wie Bus 809)
 * S Hohen Neuendorf: Schönfließer Straße (wie Bus 809)
 * S Birkenwerder: Clara-Zetkin-Straße (wie Bus 822)
 
