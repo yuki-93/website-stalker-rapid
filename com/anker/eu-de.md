@@ -28,19 +28,19 @@ Die letzten Festtagsangebote
 
 Mach Weihnachten zu etwas Besonderemmit bis zu 700€ Rabatt auf Balkonsolarsysteme
 
-05
+04
 
 :
 
 Std.
 
-42
+38
 
 :
 
 Min.
 
-08
+09
 
 Sek.
 
