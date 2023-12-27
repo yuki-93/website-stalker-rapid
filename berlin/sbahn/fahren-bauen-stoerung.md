@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Blankenburg ###
 
- Letztes Update: 07:53 / 27.12.2023
+ Letztes Update: 08:20 / 27.12.2023
 
 Information
 
@@ -21,7 +21,7 @@ Wegen kurzfristiger Bauarbeiten in Blankenburg wird der Zugverkehr der Linien S2
 
 ---
 
-**Ein Ersatzverkehr mit Bussen wird zwischen Pankow und Blankenburg (S2) *sowie* zwischen Pankow und Hohen Neuendorf (S8) eingerichtet.**
+**Ein Ersatzverkehr mit Bussen wird zwischen Pankow und Blankenburg (S2) sowie zwischen Pankow und Hohen Neuendorf (S8) eingerichtet.**
 
 *Haltestellen des Ersatzverkehrs, Bus S2:*
 
