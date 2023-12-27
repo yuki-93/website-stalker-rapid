@@ -2,13 +2,13 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e
 
 []()
 
-100€ Bestellwert = 20€ Rabatt | 200€ Bestellwert = 40€ Rabatt
+Sichere dir die Chance auf Gewinne im Wert von bis zu 300€!
 
-[Jetzt kaufen \>\>](https://www.anker.com/eu-de/christmas-sale?ref=topbanner)
+[Zum Angebot \>\>](https://www.anker.com/eu-de/neujahr-sale)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Power für deine Festtagstimmung](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=naviBar)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Winter-Sale](https://www.anker.com/eu-de/christmas-sale?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Neujahrs-Sale](https://www.anker.com/eu-de/neujahr-sale?ref=naviMenu)
 
 Hilfe
 
@@ -16,11 +16,11 @@ Hilfe
 
  Mehr bestellen, mehr sparen!
 
-100€ Bestellwert = 20€ Rabatt | 200€ Bestellwert = 40€ Rabatt
+Sichere dir die Chance auf Gewinne im Wert von bis zu 300€!
 
-18. Dezember - 26. Dezember
+27. Dezember - 8. Januar
 
-[Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/christmas-sale?ref=masterBanner1)
+[Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/neujahr-sale?ref=masterBanner1)
 
 Festtagsangebote
 

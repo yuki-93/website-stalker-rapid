@@ -2,6 +2,57 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### kurzfristige Bauarbeiten in Blankenburg ###
+
+ Letztes Update: 07:53 / 27.12.2023
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Blankenburg wird der Zugverkehr der Linien S2 und S8 **ab ca. 23:00 Uhr bis morgen früh ca. 04:00 Uhr** zwischen Pankow und Blankenburg bzw. Birkenwerder unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+
+**Die betroffenen Linien fahren dann wie folgt:**
+
+* **S2**: Blankenfelde \<\> Pankow *und* Blankenburg \<\> Bernau
+* **S8**: Grünau \<\> Pankow
+
+---
+
+**Ein Ersatzverkehr mit Bussen wird zwischen Pankow und Blankenburg (S2) *sowie* zwischen Pankow und Hohen Neuendorf (S8) eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs, Bus S2:*
+
+* S+U Bhf. Pankow: Berliner Straße (wie Bus 155, 250, Tram M1, 50)
+* S-Bhf. Pankow-Heinersdorf: Damerowstraße (wie Bus N50)
+* S-Bhf. Blankenburg: Bahnhofstraße (wie Bus 150, 154)
+
+---
+
+*Haltestellen des Ersatzverkehrs, Bus S8:*
+
+* S+U-Bhf. Pankow: Berliner Straße (wie Bus 155, 250, Tram M1, 50)
+* S-Bhf. Pankow-Heinersdorf: Damerowstraße (wie Bus N50)
+* S-Bhf. Blankenburg: Pasewalker Straße (BVG-Haltestelle "Pasewalker Str./ Blankenburger Weg", wie Bus 150, N50)
+* S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
+* S-Bhf. Schönfließ: Ersatzhalt in Schönfließ Dorf in Höhe Kirche
+* S-Bhf. Bergfelde: Paulstraße (wie Bus 809)
+* S-Bhf. Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
+
+**Zwischen Hohen Neuendorf und Birkenwerder nutzen Sie bitte die Linie S1.**
+
+---
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte:**
+
+* zwischen Bornholmer Straße und Birkenwerder die Linie S1
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
