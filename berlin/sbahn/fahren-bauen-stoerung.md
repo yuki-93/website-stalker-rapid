@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Blankenburg ###
 
- Letztes Update: 09:36 / 27.12.2023
+ Letztes Update: 12:38 / 27.12.2023
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Blankenburg wird der Zugverkehr der Linien S2 und S8 **ab ca. 23:00 Uhr bis morgen früh ca. 04:00 Uhr** zwischen Pankow und Blankenburg bzw. Birkenwerder unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen kurzfristiger Bauarbeiten in Blankenburg **ab ca. 23:00 Uhr bis morgen früh ca. 04:00 Uhr** wird der Zugverkehr der Linie S2 zwischen Pankow und Blankenburg sowie der Linie S8 zwischen Pankow und Birkenwerder unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
 **Die betroffenen Linien fahren dann wie folgt:**
 
