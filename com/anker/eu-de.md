@@ -105,11 +105,11 @@ Entdecke Anker Innovations
 
   [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_2)
 
-* ### Deine letzte Chance auf Festtagsangebote ###
+* ### Powervoll ins neue Jahr! ###
 
-  Spare bis zu 1.700€
+  Bis zu 1.700€ sparen
 
-  [Mehr erfahren Deine letzte Chance auf Festtagsangebote](https://www.anker.com/eu-de/anker-solix/tragbare-powerstation-angebote-pps?ref=productBanner7_3)
+  [Jetzt einkaufenPowervoll ins neue Jahr!](https://www.anker.com/eu-de/anker-solix/tragbare-powerstation-angebote-pps?ref=productBanner7_3)
 
 * ###
 
@@ -304,7 +304,7 @@ Lebenslanger technischer Support
 
 Deutschland / Deutsch
 
-[](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.instagram.com/anker_official/?ref=footer)[](https://www.tiktok.com/@ankerofficial?ref=footer)
+[](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.linkedin.com/showcase/anker-solix/?viewAsMember=true?ref=footer)[](https://www.tiktok.com/@ankerofficial?ref=footer)
 
 Amazon American Express Apple Pay Diners Club Discover Google Pay Klarna Mastercard PayPal Shop Pay Venmo Visa
 
@@ -383,7 +383,7 @@ Support
 
 [PowerHouse-Händler werden](https://www.anker.com/eu-de/anker-solix?ref=footer)
 
-[](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.instagram.com/anker_official/?ref=footer)[](https://www.tiktok.com/@ankerofficial?ref=footer)
+[](https://www.facebook.com/Anker.fans?ref=footer)[](https://twitter.com/AnkerOfficial?ref=footer)[](https://www.youtube.com/user/AnkerOceanwing?ref=footer)[](https://www.linkedin.com/showcase/anker-solix/?viewAsMember=true?ref=footer)[](https://www.tiktok.com/@ankerofficial?ref=footer)
 
 Deutschland / Deutsch
 
