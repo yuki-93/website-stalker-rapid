@@ -22,13 +22,15 @@ Sichere dir die Chance auf Gewinne im Wert von bis zu 300€!
 
 [Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/neujahr-sale?ref=masterBanner1)
 
-Festtagsangebote
+Limitierter Deal
 
-Die letzten Festtagsangebote
+Starte das Jahr mit eigener Solarpower
 
-Mach Weihnachten zu etwas Besonderemmit bis zu 400€ Rabatt auf Balkonsolarsysteme
+Bis zu 400€ Rabatt
 
-[Jetzt bestellenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner2)
+Nur von 27. Dezember bis 7. Januar
+
+[Jetzt einkaufenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner2)
 
 Entdecke innovative Ladelösungen
 ----------

@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Blankenburg ###
 
- Letztes Update: 08:20 / 27.12.2023
+ Letztes Update: 09:36 / 27.12.2023
 
 Information
 
@@ -38,7 +38,7 @@ Wegen kurzfristiger Bauarbeiten in Blankenburg wird der Zugverkehr der Linien S2
 * S-Bhf. Blankenburg: Pasewalker Straße (BVG-Haltestelle "Pasewalker Str./ Blankenburger Weg", wie Bus 150, N50)
 * S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
 * S-Bhf. Schönfließ: Ersatzhalt in Schönfließ Dorf in Höhe Kirche
-* S-Bhf. Bergfelde: Paulstraße (wie Bus 809)
+* S-Bhf. Bergfelde: Schulstr./ Ahornallee (wie Bus 809)
 * S-Bhf. Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
 
 **Zwischen Hohen Neuendorf und Birkenwerder nutzen Sie bitte die Linie S1.**
