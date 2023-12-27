@@ -26,7 +26,7 @@ Festtagsangebote
 
 Die letzten Festtagsangebote
 
-Mach Weihnachten zu etwas Besonderemmit bis zu 700€ Rabatt auf Balkonsolarsysteme
+Mach Weihnachten zu etwas Besonderemmit bis zu 400€ Rabatt auf Balkonsolarsysteme
 
 Von 18. bis 26. Dezember
 
@@ -119,11 +119,11 @@ Entdecke Anker Innovations
 
   ### Anker SOLIX Balkonkraftwerk ###
 
-  ### Spare bis zu 700€ ###
+  ### Spare bis zu 400€ ###
 
   600W Mikroinverter, erweiterbar auf 800W
 
-  [Mehr erfahren Festtagsangebote ,Anker SOLIX Balkonkraftwerk,Spare bis zu 700€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
+  [Mehr erfahren Festtagsangebote ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
 
 Was macht Anker so besonders?
 ----------
