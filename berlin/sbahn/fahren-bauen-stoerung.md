@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal zwischen Bornholmer Straße und Pankow beendet ###
+
+ Letztes Update: 08:16 / 28.12.2023
+
+Information
+
+Die Reparatur an einem Signal zwischen Bornholmer Straße und Pankow ist beendet.
+
+Die Linie S26 verkehrt wieder planmäßig zwischen Teltow Stadt und Blankenburg.
+
+Gute Fahrt!
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einem Signal in Schlachtensee ###
@@ -13,22 +29,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 Information
 
 Wegen der Reparatur an einem Signal in Schlachtensee kommt es auf der Linie S1 zu Verspätungen und eventuellen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal zwischen Bornholmer Straße und Pankow ###
-
- Letztes Update: 06:05 / 28.12.2023
-
-Information
-
-Wegen der Reparatur an einem Signal zwischen Bornholmer Straße und Pankow verkehrt die Linie S26 nur zwischen Teltow Stadt und Nordbahnhof.
-
-*Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.*
 
 Wir bitten um Entschuldigung.
 
