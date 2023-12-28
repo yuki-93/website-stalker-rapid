@@ -14,13 +14,14 @@ Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
- Mehr bestellen, mehr sparen!
+ Frischer Start. Große Einsparungen.
 
-Sichere dir die Chance auf Gewinne im Wert von bis zu 300€!
+Starte ins Neue Jahr mit Glück! Gewinne bis zu
+300€ in unserer Verlosung.
 
 27. Dezember - 8. Januar
 
-[Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/neujahr-sale?ref=masterBanner1)
+[Zum Angebot masterBanner1](https://www.anker.com/eu-de/neujahr-sale?ref=masterBanner1)
 
 Limitierter Deal
 
