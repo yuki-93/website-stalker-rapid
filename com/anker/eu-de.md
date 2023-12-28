@@ -19,7 +19,7 @@ Hilfe
 Starte ins Neue Jahr mit Glück! Gewinne bis zu
 300€ in unserer Verlosung.
 
-27. Dezember - 8. Januar
+**27. Dezember - 8. Januar**
 
 [Zum Angebot masterBanner1](https://www.anker.com/eu-de/neujahr-sale?ref=masterBanner1)
 
