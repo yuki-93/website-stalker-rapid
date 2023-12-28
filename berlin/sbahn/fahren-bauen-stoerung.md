@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal zwischen Bornholmer Straße und Pankow ###
 
- Letztes Update: 05:23 / 28.12.2023
+ Letztes Update: 06:05 / 28.12.2023
 
 Information
 
 Wegen der Reparatur an einem Signal zwischen Bornholmer Straße und Pankow verkehrt die Linie S26 nur zwischen Teltow Stadt und Nordbahnhof.
 
-*Bitte nutzen Sie zwischen Nordbahnhof und Waidmannslust die Linie S1.*
+*Bitte nutzen Sie zwischen Nordbahnhof und Blankenburg die Linie S2.*
 
 Wir bitten um Entschuldigung.
 
