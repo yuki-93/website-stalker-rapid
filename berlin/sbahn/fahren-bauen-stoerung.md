@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur an einem Signal zwischen Bornholmer Straße und Pankow ###
+
+ Letztes Update: 05:23 / 28.12.2023
+
+Information
+
+Wegen der Reparatur an einem Signal zwischen Bornholmer Straße und Pankow verkehrt die Linie S26 nur zwischen Teltow Stadt und Nordbahnhof.
+
+*Bitte nutzen Sie zwischen Nordbahnhof und Waidmannslust die Linie S1.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
