@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Technischer Defekt an einem Bahnübergang im Grünauer Kreuz ###
 
- Letztes Update: 16:08 / 29.12.2023
+ Letztes Update: 16:51 / 29.12.2023
 
 Information
 
 Wegen eines technischen Defektes an einem Bahnübergang im Grünauer Kreuz kommt es auf den Linien S 45, S 46, S47, S8, S85 und S9 in diesem Bereich zu Ausfällen und Verspätungen.
+
+**Linie S85** verkehrt Waidmannslust\<\>Schöneweide
 
 Wir bitten um Entschuldigung.
 
