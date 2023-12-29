@@ -4,32 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur am Zug in Bundesplatz beendet ###
-
- Letztes Update: 08:51 / 29.12.2023
-
-Information
-
-Nach der Reparatur an einem Zug in Bundesplatz kommt es auf den Linien S41 und S46 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+[S46](https://sbahn.berlin/fahren/s46/)
 
 ### technischer Defekt an einem Bahnübergang in Zeuthen ###
 
- Letztes Update: 06:34 / 29.12.2023
+ Letztes Update: 09:30 / 29.12.2023
 
 Information
 
-Wegen eines technischen Defekts an einem Bahnübergang in Zeuthen kommt es auf den Linien S46 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie **S46** verkehrt zwischen Westend und Zeuthen *sowie* zwischen Zeuthen und Königs Wusterhausen, **in Zeuthen ist zur Weiterfahrt in beiden Fahrtrichtungen ein Umstieg erforderlich**.
-* Die Linie **S8** verkehrt nur zwischen Birkenwerder und Grünau.
+Wegen eines technischen Defekts an einem Bahnübergang in Zeuthen kommt es auf der Linie S46 zu Verspätungen und eventuellen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
