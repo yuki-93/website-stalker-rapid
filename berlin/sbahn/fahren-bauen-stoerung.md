@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur am Zug in Bundesplatz beendet ###
+
+ Letztes Update: 08:51 / 29.12.2023
+
+Information
+
+Nach der Reparatur an einem Zug in Bundesplatz kommt es auf den Linien S41 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### technischer Defekt an einem Bahnübergang in Zeuthen ###
