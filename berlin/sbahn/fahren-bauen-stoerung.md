@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Technischer Defekt an einem Bahnübergang im Grünauer Kreuz ###
+
+ Letztes Update: 16:08 / 29.12.2023
+
+Information
+
+Wegen eines technischen Defektes an einem Bahnübergang im Grünauer Kreuz kommt es auf den Linien S 45, S 46, S47, S8, S85 und S9 in diesem Bereich zu Ausfällen und Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### kurzfristiger Personalausfall im Stellwerk Hohen Neuendorf am 30.12.2023 ###
