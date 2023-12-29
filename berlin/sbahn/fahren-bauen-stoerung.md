@@ -8,13 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### technischer Defekt an einem Bahnübergang in Zeuthen ###
 
- Letztes Update: 05:34 / 29.12.2023
+ Letztes Update: 06:34 / 29.12.2023
 
 Information
 
 Wegen eines technischen Defekts an einem Bahnübergang in Zeuthen kommt es auf den Linien S46 und S8 zu Verspätungen und nachfolgenden Einschränkungen:
 
-Die Linie S8 verkehrt nur zwischen Birkenwerder und Grünau, *bitte nutzen Sie zwischen Grünau und Wildau die Linie S46*.
+* Die Linie **S46** verkehrt zwischen Westend und Zeuthen *sowie* zwischen Zeuthen und Königs Wusterhausen, **in Zeuthen ist zur Weiterfahrt in beiden Fahrtrichtungen ein Umstieg erforderlich**.
+* Die Linie **S8** verkehrt nur zwischen Birkenwerder und Grünau.
 
 Wir bitten um Entschuldigung.
 
