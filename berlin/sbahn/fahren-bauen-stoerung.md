@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### technischer Defekt an einem Bahnübergang in Zeuthen ###
 
- Letztes Update: 05:13 / 29.12.2023
+ Letztes Update: 05:34 / 29.12.2023
 
 Information
 
