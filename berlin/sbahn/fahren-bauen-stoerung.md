@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz in Westkreuz (Ringbahn) ###
-
- Letztes Update: 20:22 / 29.12.2023
-
-Information
-
-Nach einem Polizeieinsatz in Westkreuz kommt es auf den Ringbahnlinien S41, S42 und S46 noch zu Ausfällen und Verspätungen.
-
-Wir bitten um Verständnis
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### kurzfristiger Personalausfall im Stellwerk Hohen Neuendorf am 30.12.2023 ###
 
- Letztes Update: 12:03 / 29.12.2023
+ Letztes Update: 00:13 / 30.12.2023
 
 Information
 
-Wegen eines kurzfristigen Personalausfalls im Stellwerk Hohen Neuendorf wird der Zugverkehr der Linie S1 zwischen Frohnau und Birkenwerder sowie der Linie S8 zwischen Schönfließ und Birkenwerder **am Samstag, den 30.12.2023, in der Zeit von ca. 06:00 Uhr bis vsl. 09:00 Uhr** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen eines kurzfristigen Personalausfalls im Stellwerk Hohen Neuendorf wird der Zugverkehr der Linie S1 zwischen Frohnau und Birkenwerder sowie der Linie S8 zwischen Schönfließ und Birkenwerder **in der Zeit von ca. 06:00 Uhr bis vsl. 09:00 Uhr** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
 **Die betroffenen Linien fahren dann wie folgt:**
 
