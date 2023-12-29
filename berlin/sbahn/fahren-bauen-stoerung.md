@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Westkreuz (Ringbahn) ###
 
- Letztes Update: 20:12 / 29.12.2023
+ Letztes Update: 20:22 / 29.12.2023
 
 Information
 
-Wegen eines Polizeieinsatzes in Westkreuz kommt es auf den Ringbahnlinien S41, S42 und S46 zu Ausfällen und Verspätungen.
+Nach einem Polizeieinsatz in Westkreuz kommt es auf den Ringbahnlinien S41, S42 und S46 noch zu Ausfällen und Verspätungen.
 
 Wir bitten um Verständnis
 
@@ -64,20 +64,6 @@ Wegen eines kurzfristigen Personalausfalls im Stellwerk Hohen Neuendorf wird der
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### technischer Defekt an einem Bahnübergang in Zeuthen ###
-
- Letztes Update: 09:30 / 29.12.2023
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Zeuthen kommt es auf der Linie S46 zu Verspätungen und eventuellen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
