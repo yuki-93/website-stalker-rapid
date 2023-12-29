@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Westkreuz (Ringbahn) ###
+
+ Letztes Update: 20:12 / 29.12.2023
+
+Information
+
+Wegen eines Polizeieinsatzes in Westkreuz kommt es auf den Ringbahnlinien S41, S42 und S46 zu Ausfällen und Verspätungen.
+
+Wir bitten um Verständnis
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### kurzfristiger Personalausfall im Stellwerk Hohen Neuendorf am 30.12.2023 ###
