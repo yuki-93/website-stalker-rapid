@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Gegenstände auf der Strecke in Springpfuhl ###
+### Gegenstände auf der Strecke in Springpfuhl beendet ###
 
- Letztes Update: 19:45 / 30.12.2023
+ Letztes Update: 21:56 / 30.12.2023
 
 Information
 
-Wegen Gegenstände auf der Strecke in Springpfuhl kommt es auf der Linie S7 und S75 zu Verspätungen und Ausfällen.
+Nach Gegenstände auf der Strecke in Springpfuhl kommt es auf der Linie S7 und S75 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
