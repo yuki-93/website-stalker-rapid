@@ -8,20 +8,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall im Stellwerk Hohen Neuendorf am 30.12.2023 ###
 
- Letztes Update: 00:13 / 30.12.2023
+ Letztes Update: 05:59 / 30.12.2023
 
 Information
 
-Wegen eines kurzfristigen Personalausfalls im Stellwerk Hohen Neuendorf wird der Zugverkehr der Linie S1 zwischen Frohnau und Birkenwerder sowie der Linie S8 zwischen Schönfließ und Birkenwerder **in der Zeit von ca. 06:00 Uhr bis vsl. 09:00 Uhr** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen eines kurzfristigen Personalausfalls im Stellwerk Hohen Neuendorf ist der Zugverkehr der Linie S1 zwischen Frohnau und Birkenwerder sowie der Linie S8 zwischen Schönfließ und Birkenwerder **bis vsl. 9:00 Uhr** unterbrochen.
 
-**Die betroffenen Linien fahren dann wie folgt:**
+**Die betroffenen Linien fahren wie folgt:**
 
 * **S1:** Wannsee \<\> Frohnau *sowie* Birkenwerder \<\> Oranienburg
 * **S8:** Grünau \<\> Schönfließ
 
 ---
 
-**Ein Ersatzverkehr mit Bussen wird in diesem Zeitraum wie folgt eingerichtet:**
+**Ein Ersatzverkehr mit Bussen ist wie folgt eingerichtet:**
 
 * **Bus S1:** zwischen Frohnau und Birkenwerder mit Halt in Hohen Neuendorf
 * **Bus S8:** zwischen Mühlenbeck-Mönchmühle und Birkenwerder mit Halt in Schönfließ Dorf, Bergfelde, Hohen Neuendorf
