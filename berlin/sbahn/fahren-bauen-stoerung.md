@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Notarzteinsatz auf der Strecke im Bereich Humboldthain ###
 
- Letztes Update: 17:23 / 01.01.2024
+ Letztes Update: 17:43 / 01.01.2024
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke im Bereich Humboldthain ist der Zugverkehr der Linien S1, S2 und S25 zwischen Nordbahnhof und Gesundbrunneb unterbrochen.
+Wegen eines Notarzteinsatzes auf der Strecke im Bereich Humboldthain ist der Zugverkehr der Linien S1, S2 und S25 zwischen Nordbahnhof und Gesundbrunnen unterbrochen.
 
+* die Linie S2 verkehrt nur im 20-Minuten Takt
 * die Linie S26 verkehrt nicht
+* die Linie S85 verkehrt nur zwischen Schöneweide \<\> Treptower Park
 
 Fahrgäste nutzen zur Umfahrung bitte die Verkehrsmittel der BVG.
 
