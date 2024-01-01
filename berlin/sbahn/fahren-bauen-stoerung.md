@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Notarzteinsatz auf der Strecke im Bereich Humboldthain beendet ###
-
- Letztes Update: 19:20 / 01.01.2024
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke im Bereich Humboldthain kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
-
-* die Linie S2 verkehrt nur im 20-Minuten Takt
-* die Linie S26 verkehrt nicht
-* die Linie S85 verkehrt nur zwischen Schöneweide \<\> Treptower Park
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
