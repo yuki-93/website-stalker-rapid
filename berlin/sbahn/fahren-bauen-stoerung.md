@@ -2,31 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Silvesterparty - Ausfall des Haltes am Bhf. Brandenburger Tor ###
-
- Letztes Update: 15:57 / 31.12.2023
-
-Information
-
-Wegen der Silversterparty am Brandenburger Tor entfällt für die Linien S1, S2 und S25 der Halt am Bhf. Brandenburger Tor.
-
-Bitte weichen Sie auf die Bahnhöfe:
-
-* Potsdamer Platz (S1, S2, S25, S26, U2, Regionalverkehr)
-* Friedrichstraße (S1, S2, S25, S3, S5, S7, S9, U6, Regionalverkehr)
-* Hauptbahnhof (S3, S5, S7, S9 U5, Regionalverkehr)
-* Tiergarten (S3, S5, S7, S9)
-
-aus.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
