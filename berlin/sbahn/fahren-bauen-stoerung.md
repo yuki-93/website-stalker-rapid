@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Notarzteinsatz auf der Strecke im Bereich Humboldthain ###
+
+ Letztes Update: 17:23 / 01.01.2024
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke im Bereich Humboldthain ist der Zugverkehr der Linien S1, S2 und S25 zwischen Nordbahnhof und Gesundbrunneb unterbrochen.
+
+* die Linie S26 verkehrt nicht
+
+Fahrgäste nutzen zur Umfahrung bitte die Verkehrsmittel der BVG.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
