@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### ärztliche Versorgung eines Fahrgastes in einem Zug in Lichtenberg beendet ###
+### ärztliche Versorgung eines Fahrgastes in einem Zug in Lichtenberg und Reparatur an einem Zug in Poelchaustraße beendet ###
 
- Letztes Update: 18:09 / 02.01.2024
+ Letztes Update: 18:50 / 02.01.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und vereinzelten Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Lichtenberg und einer Reparatur am Zug in Poelchaustraße kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
