@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### ärztliche Versorgung eines Fahrgastes in einem Zug in Lichtenberg und Reparatur an einem Zug in Poelchaustraße beendet ###
+### Reparatur am Zug in Petershagen Nord ###
 
- Letztes Update: 18:50 / 02.01.2024
+ Letztes Update: 20:17 / 02.01.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Lichtenberg und einer Reparatur am Zug in Poelchaustraße kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und vereinzelten Ausfällen.
+Wegen der Reparatur an einem Zug in Petershagen Nord ist der Zugverkehr der Linie S5 zwischen Fredersdorf und Strausberg unterbrochen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen
+ fährt nicht
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
