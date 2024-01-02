@@ -2,6 +2,34 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### kurzfristige Bauarbeiten zwischen Rahnsdorf und Friedrichshagen ###
+
+ Letztes Update: 13:51 / 02.01.2024
+
+Information
+
+Wegen kurzfrsitiger Bauarbeiten zwischen Rahnsdorf und Friedrichshagen muss der Zugverkehr der Linie S3 **in der heutigen Nacht (02./03.01.2024 (Di/Mi)) in der Zeit von ca. 22:00 Uhr bis 04:00 Uhr** verändert durchgeführt werden.
+
+**Zugverkehr:**
+
+* **Linie S3** fährt:
+  * Spandau \<\> Friedrichshagen sowie Friedrichshagen \<\> Erkner
+    *Damit ist in beiden Fahrtrichtungen ein Umstieg (Wechsel der Bahnsteigseite) in Friedrichshagen erforderlich.*
+
+**Taktänderung:**
+
+* der 10-Minuten-Takt kann in der zeit von ca. 22:00 Uhr bis ca. 00:00 Uhr nur zwischen Ostbahnhof und Köpenick angeboten werden
+
+Bitte nutzen Sie die Fahrplanauskunft.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
