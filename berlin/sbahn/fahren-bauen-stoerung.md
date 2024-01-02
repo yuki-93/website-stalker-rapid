@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur am Zug in Petershagen Nord ###
-
- Letztes Update: 20:17 / 02.01.2024
-
-Information
-
-Wegen der Reparatur an einem Zug in Petershagen Nord ist der Zugverkehr der Linie S5 zwischen Fredersdorf und Strausberg unterbrochen.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### kurzfristige Bauarbeiten zwischen Rahnsdorf und Friedrichshagen ###
