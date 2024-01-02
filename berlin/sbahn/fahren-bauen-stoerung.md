@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten zwischen Rahnsdorf und Friedrichshagen ###
 
- Letztes Update: 13:51 / 02.01.2024
+ Letztes Update: 15:16 / 02.01.2024
 
 Information
 
@@ -22,7 +22,7 @@ Wegen kurzfrsitiger Bauarbeiten zwischen Rahnsdorf und Friedrichshagen muss der 
 
 **Taktänderung:**
 
-* der 10-Minuten-Takt kann in der zeit von ca. 22:00 Uhr bis ca. 00:00 Uhr nur zwischen Ostbahnhof und Köpenick angeboten werden
+* der 10-Minuten-Takt kann in der Zeit von ca. 22:00 Uhr bis ca. 00:00 Uhr nur zwischen Ostbahnhof und Köpenick angeboten werden
 
 Bitte nutzen Sie die Fahrplanauskunft.
 
