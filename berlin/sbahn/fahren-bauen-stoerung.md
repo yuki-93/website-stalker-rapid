@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### ärztliche Versorgung Fahrgast Pankow beendet ###
-
- Letztes Update: 09:13 / 03.01.2024
-
-Information
-
-Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Pankow kann es auf den Linien S2, S26 und S8 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### kurzfristige Bauarbeiten zwischen Rahnsdorf und Friedrichshagen ###
