@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten zwischen Rahnsdorf und Friedrichshagen ###
 
- Letztes Update: 15:16 / 02.01.2024
+ Letztes Update: 05:22 / 03.01.2024
 
 Information
 
-Wegen kurzfrsitiger Bauarbeiten zwischen Rahnsdorf und Friedrichshagen muss der Zugverkehr der Linie S3 **in der heutigen Nacht (02./03.01.2024 (Di/Mi)) in der Zeit von ca. 22:00 Uhr bis 04:00 Uhr** verändert durchgeführt werden.
+Wegen kurzfristiger Bauarbeiten zwischen Rahnsdorf und Friedrichshagen muss der Zugverkehr der Linie S3 **in der heutigen Nacht (03./04.01.2024 (Mi/Do)) in der Zeit von ca. 22:00 Uhr bis 04:00 Uhr** verändert durchgeführt werden.
 
 **Zugverkehr:**
 
