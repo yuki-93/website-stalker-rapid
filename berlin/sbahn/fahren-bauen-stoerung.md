@@ -4,34 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Ärztliche Versorgung eines Fahrgastes in Johannisthal beendet ###
-
- Letztes Update: 17:10 / 03.01.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Johannisthal kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur am Zug in Friedrichsfelde Ost beendet ###
-
- Letztes Update: 17:10 / 03.01.2024
-
-Information
-
-Nach der Reparatur an einem Zug in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### kurzfristige Bauarbeiten zwischen Rahnsdorf und Friedrichshagen ###
