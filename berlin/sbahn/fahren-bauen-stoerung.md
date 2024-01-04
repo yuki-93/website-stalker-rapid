@@ -8,24 +8,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten zwischen Greifswalder Straße und Landsberger Allee ###
 
- Letztes Update: 12:58 / 04.01.2024
+ Letztes Update: 20:55 / 04.01.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten zwischen Greifswalder Straße und Landsberger Allee ist der Zugverkehr der Linien S41, S42 und S8 in der heutigen Nacht (04./05.01.2024 (Do/Fr)) in der Zeit von ca. 21:45 Uhr bis 03:35 Uhr in diesem Bereich unterbrochen.
+Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der Linien S41, S42 und S8 **in der heutigen Nacht (04./05.01.2024 (Do/Fr)) in der Zeit von ca. 21:45 Uhr bis 03:35 Uhr** zwischen Landsberger Allee und Greifswalder Straße unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet werden.
 
-**\- Linie S41** verkehrt Landsberger Allee \> Südkreuz \> Beusselstraße \> Greifswalder Straße
+Deie betroffenen Linien fahren wie folgt:
 
-**\- Linie S42** verkehrt Greifswalder Straße \> Beusselstraße \> Südkreuz \> Landsberger Allee
+* **Linie S41** verkehrt Landsberger Allee \> Südkreuz \> Beusselstraße \> Greifswalder Straße
+* **Linie S42** verkehrt Greifswalder Straße \> Beusselstraße \> Südkreuz \> Landsberger Allee
+* **Linie S8** verkehrt Birkenwerder/ Blankenburg \<\> Schönhauser Allee sowie Grünau \<\> Ostbahnhof
 
-**\- Linie S8** verkehrt Birkenwerder/ Blankenburg \<\> Schönhauser Allee sowie Grünau \<\> Ostbahnhof
-
-Zwischen Greifswalder Straße und Landsberger Allee besteht Ersatzverkehr mit Bussen.
+**Zwischen Greifswalder Straße und Landsberger Allee besteht Ersatzverkehr mit Bussen.**
 
 **Haltestellen des Ersatzverkehrs:**
 
-* S Landsberger Allee (Storkower Straße (wie Bus 156))
-* S Greifswalder Straße (Storkower Straße (wie Bus 158))
+* S Landsberger Allee: Storkower Straße (wie Bus 156)
+* S Greifswalder Straße: Storkower Straße (wie Bus 158)
 
 Wir bitten um Entschuldigung.
 
