@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Stellwerkstörung Stadtbahn behoben ###
+
+ Letztes Update: 07:34 / 04.01.2024
+
+Information
+
+Nach einer Stellwerkstörung auf der Stadtbahn kann es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### kurzfristige Bauarbeiten zwischen Greifswalder Straße und Landsberger Allee ###
