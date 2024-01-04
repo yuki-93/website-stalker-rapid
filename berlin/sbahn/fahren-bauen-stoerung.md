@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten zwischen Greifswalder Straße und Landsberger Allee ###
 
- Letztes Update: 05:11 / 04.01.2024
+ Letztes Update: 12:58 / 04.01.2024
 
 Information
 
@@ -24,7 +24,7 @@ Zwischen Greifswalder Straße und Landsberger Allee besteht Ersatzverkehr mit Bu
 
 **Haltestellen des Ersatzverkehrs:**
 
-* S Landsberger Alle (Storkower Straße (wie Bus 156))
+* S Landsberger Allee (Storkower Straße (wie Bus 156))
 * S Greifswalder Straße (Storkower Straße (wie Bus 158))
 
 Wir bitten um Entschuldigung.
