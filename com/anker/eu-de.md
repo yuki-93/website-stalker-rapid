@@ -29,7 +29,21 @@ Starte das Jahr mit eigener Solarpower
 
 Bis zu 400€ Rabatt
 
-Nur von 27. Dezember bis 7. Januar
+92
+
+:
+
+Std.
+
+31
+
+:
+
+Min.
+
+54
+
+Sek.
 
 [Jetzt einkaufenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner2)
 

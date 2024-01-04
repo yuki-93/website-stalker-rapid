@@ -4,31 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### kurzfristige Bauarbeiten zwischen Rahnsdorf und Friedrichshagen ###
+### kurzfristige Bauarbeiten zwischen Greifswalder Straße und Landsberger Allee ###
 
- Letztes Update: 05:22 / 03.01.2024
+ Letztes Update: 03:27 / 04.01.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten zwischen Rahnsdorf und Friedrichshagen muss der Zugverkehr der Linie S3 **in der heutigen Nacht (03./04.01.2024 (Mi/Do)) in der Zeit von ca. 22:00 Uhr bis 04:00 Uhr** verändert durchgeführt werden.
+Wegen kurzfristiger Bauarbeiten zwischen Greifswalder Straße und Landsberger Allee ist der Zugverkehr der Linien S41, S42 und S8 in der heutigen Nacht (04./05.01.2024 (Do/Fr)) in der Zeit von ca. 21:45 Uhr bis 03:35 Uhr in diesem Bereich unterbrochen.
 
-**Zugverkehr:**
+**\- Linie S41** verkehrt Landsberger Allee\>Südkreuz\>Beusselstraße\>Greifswalder Straße
 
-* **Linie S3** fährt:
-  * Spandau \<\> Friedrichshagen sowie Friedrichshagen \<\> Erkner
-    *Damit ist in beiden Fahrtrichtungen ein Umstieg (Wechsel der Bahnsteigseite) in Friedrichshagen erforderlich.*
+**\- Linie S42** verkehrt Greifswalder Straße\>Beusselstraße\>Südkreuz\>Landsberger Allee
 
-**Taktänderung:**
+**\- Linie S8** verkehrt Birkenwerder/Blankenburg\<\>Schönhauser Allee und Grünau\<\>Ostbahnhof
 
-* der 10-Minuten-Takt kann in der Zeit von ca. 22:00 Uhr bis ca. 00:00 Uhr nur zwischen Ostbahnhof und Köpenick angeboten werden
+zwischen Greifswalder Straße und Landsberger Allee besteht Ersatzverkehr mit Bussen,
 
-Bitte nutzen Sie die Fahrplanauskunft.
+**\- Haltestelle der Busse:**
+
+S Bahnhof Landsberger Alle (Storkower Straße (wie Bus 156))
+
+S Bahnhof Greifswalder Straße (Storkower Straße (wie Bus 158))
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
