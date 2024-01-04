@@ -29,19 +29,19 @@ Starte das Jahr mit eigener Solarpower
 
 Bis zu 400€ Rabatt
 
-87
+86
 
 :
 
 Std.
 
-43
+35
 
 :
 
 Min.
 
-12
+50
 
 Sek.
 
