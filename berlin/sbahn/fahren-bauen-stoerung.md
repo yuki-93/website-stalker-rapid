@@ -8,19 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an Signalen in Adlershof ###
 
- Letztes Update: 13:27 / 08.01.2024
+ Letztes Update: 14:11 / 08.01.2024
 
 Information
 
 Wegen der Reparatur an Signalen im Bereich Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
 
+\* *Die Linie S46 verkehrt nur zwischen Westend \<\> Baumschulenweg sowie Grünau \<\> Königs Wusterhausen.*
+
+ *Fahrgäste benutzen bitte ab Baumschulenweg die Linie S8*
+
 \* *Die Linie S85 verkehrt nur zwischen Bornholmer Straße \<\> Schöneweide.*
 
- Fahrgäste benutzen bitte ab Schöneweide die Linien S46 und S8.
+ *Fahrgäste benutzen bitte ab Schöneweide die Linie S8.*
 
 \* *Die Linie S9 verkehrt nur zwischen Spandau \<\> Schöneweide.*
 
- Fahrgäste benutzen bitte ab Schöneweide die Linie S45.
+ *Fahrgäste benutzen bitte ab Schöneweide die Linie S45.*
 
 Wir bitten um Entschuldigung.
 
