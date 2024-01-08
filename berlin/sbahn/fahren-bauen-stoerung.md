@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Zug beendet ###
-
- Letztes Update: 08:37 / 08.01.2024
-
-Information
-
-Nach einer Reparatur am Zug in Bellevue kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einer Weiche in Ahrensfelde ###
