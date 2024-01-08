@@ -4,19 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an Signalen in Adlershof ###
 
- Letztes Update: 14:11 / 08.01.2024
+ Letztes Update: 15:49 / 08.01.2024
 
 Information
 
-Wegen der Reparatur an Signalen im Bereich Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
-
-\* *Die Linie S46 verkehrt nur zwischen Westend \<\> Baumschulenweg sowie Grünau \<\> Königs Wusterhausen.*
-
- *Fahrgäste benutzen bitte ab Baumschulenweg die Linie S8*
+Wegen der Reparatur an Signalen im Bereich Adlershof kommt es auf den Linien S41, S42, S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
 
 \* *Die Linie S85 verkehrt nur zwischen Bornholmer Straße \<\> Schöneweide.*
 
