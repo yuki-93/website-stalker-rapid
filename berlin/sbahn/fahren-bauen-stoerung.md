@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Personalausfälle ###
 
- Letztes Update: 19:44 / 08.01.2024
+ Letztes Update: 20:18 / 08.01.2024
 
 Information
 
@@ -21,20 +21,6 @@ Wegen kurzfristigen Personalausfällen kommt es zu folgenden Einschränkungen:
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an Signalen in Adlershof beendet ###
-
- Letztes Update: 17:49 / 08.01.2024
-
-Information
-
-Nach der Reparatur an Signalen im Bereich Adlershof kommt es auf den Linien S41 und S42 noch zu einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
