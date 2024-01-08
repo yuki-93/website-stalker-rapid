@@ -6,7 +6,7 @@ Sichere dir die Chance auf Gewinne im Wert von bis zu 300€!
 
 [Zum Angebot \>\>](https://www.anker.com/eu-de/neujahr-sale)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Power für deine Festtagstimmung](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
 ProdukteNach KategorieNeuerscheinungenAngebote[Neujahrs-Sale](https://www.anker.com/eu-de/neujahr-sale?ref=naviMenu)
 
@@ -112,7 +112,7 @@ Entdecke Anker Innovations
 
 * ###
 
-  Festtagsangebote
+  Limitierter Deal
 
    ###
 
@@ -122,7 +122,7 @@ Entdecke Anker Innovations
 
   600W Mikroinverter, erweiterbar auf 800W
 
-  [Mehr erfahren Festtagsangebote ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
+  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
 
 Was macht Anker so besonders?
 ----------
