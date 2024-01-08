@@ -23,13 +23,13 @@ Starte ins Neue Jahr mit Glück! Gewinne bis zu
 
 [Zum Angebot masterBanner1](https://www.anker.com/eu-de/neujahr-sale?ref=masterBanner1)
 
-Limitierter Deal
+Limitiertes Angebot
 
-Starte das Jahr mit eigener Solarpower
+Die ultimative Solarstromlösungfür dein Zuhause
 
-Bis zu 400€ Rabatt
+Anker SOLIX Balkonkraftwerk mit Speicher
 
-[Jetzt einkaufenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner2)
+[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/products/b17c0?ref=masterBanner2)
 
 Entdecke innovative Ladelösungen
 ----------
