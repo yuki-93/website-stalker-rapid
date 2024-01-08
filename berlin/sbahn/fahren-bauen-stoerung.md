@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### kurzfristige Personalausfälle ###
+
+ Letztes Update: 19:44 / 08.01.2024
+
+Information
+
+Wegen kurzfristigen Personalausfällen kommt es zu folgenden Einschränkungen:
+
+*Linie S1 verkehrt zwischen Oranienburg \<\> Halensee im 20-Minuten-Takt.*
+
+*Linie S47 verkehrt nur zwischen Spindlersfeld \<\> Tempelhof.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an Signalen in Adlershof beendet ###
@@ -17,24 +35,6 @@ Nach der Reparatur an Signalen im Bereich Adlershof kommt es auf den Linien S41 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### kurzfristige Personalausfälle ###
-
- Letztes Update: 16:25 / 08.01.2024
-
-Information
-
-Wegen kurzfristigen Personalausfällen kommt es zu folgenden Einschränkungen:
-
-*Linie S1 verkehrt zwischen Oranienburg \<\> Gesundbrunnen im 20-Minuten-Takt.*
-
-*Linie S47 verkehrt nur zwischen Spindlersfeld \<\> Tempelhof.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
