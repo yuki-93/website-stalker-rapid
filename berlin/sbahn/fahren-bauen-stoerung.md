@@ -4,19 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an Signalen in Adlershof beendet ###
 
- Letztes Update: 17:13 / 08.01.2024
+ Letztes Update: 17:49 / 08.01.2024
 
 Information
 
-Nach der Reparatur an Signalen im Bereich Adlershof kommt es auf den Linien S41, S42, S45, S46, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
-
-\* *Die Linie S85 verkehrt nur zwischen Bornholmer Straße \<\> Schöneweide.*
-
- *Fahrgäste benutzen bitte ab Schöneweide die Linie S8.*
+Nach der Reparatur an Signalen im Bereich Adlershof kommt es auf den Linien S41 und S42 noch zu einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
