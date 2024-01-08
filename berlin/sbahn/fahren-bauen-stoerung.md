@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einer Weiche in Ahrensfelde ###
-
- Letztes Update: 04:16 / 08.01.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Ahrensfelde kommt es auf der Linie S7 zu Verspätungen.
-
-Der 10-Minuten-Takt auf der S7 kann nur zwischen Potsdam Hbf. und Marzahn angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
