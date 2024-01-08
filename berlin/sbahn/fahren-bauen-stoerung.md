@@ -6,25 +6,39 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an Signalen in Adlershof ###
+### Reparatur an Signalen in Adlershof beendet ###
 
- Letztes Update: 15:49 / 08.01.2024
+ Letztes Update: 17:13 / 08.01.2024
 
 Information
 
-Wegen der Reparatur an Signalen im Bereich Adlershof kommt es auf den Linien S41, S42, S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Nach der Reparatur an Signalen im Bereich Adlershof kommt es auf den Linien S41, S42, S45, S46, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
 
 \* *Die Linie S85 verkehrt nur zwischen Bornholmer Straße \<\> Schöneweide.*
 
  *Fahrgäste benutzen bitte ab Schöneweide die Linie S8.*
 
-\* *Die Linie S9 verkehrt nur zwischen Spandau \<\> Schöneweide.*
-
- *Fahrgäste benutzen bitte ab Schöneweide die Linie S45.*
-
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### kurzfristige Personalausfälle ###
+
+ Letztes Update: 16:25 / 08.01.2024
+
+Information
+
+Wegen kurzfristigen Personalausfällen kommt es zu folgenden Einschränkungen:
+
+*Linie S1 verkehrt zwischen Oranienburg \<\> Gesundbrunnen im 20-Minuten-Takt.*
+
+*Linie S47 verkehrt nur zwischen Spindlersfeld \<\> Tempelhof.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
