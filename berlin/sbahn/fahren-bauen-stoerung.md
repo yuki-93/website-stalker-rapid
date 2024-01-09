@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### kurzfristige Personalausfälle ###
+
+ Letztes Update: 15:25 / 09.01.2024
+
+Information
+
+Wegen kurzfristigen Personalausfällen kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Ausfall wegen verspäteter Bereitstellung von Zügen der Linie S5 ###
@@ -40,20 +54,6 @@ Nach einem Notarzteinsatz auf der Strecke in Ostkreuz kommt es auf den Linien S1
 \* Linie S85: verkehrt nicht.
 
 Wir bitten um Verständnis
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur am Zug in Lichtenberg beendet ###
-
- Letztes Update: 12:32 / 09.01.2024
-
-Information
-
-Nach der Reparatur am Zug in Lichtenberg kommt es auf den Linien S5, S7und S75 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
