@@ -8,20 +8,21 @@ Sichere dir die Chance auf Gewinne im Wert von bis zu 300€!
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Neujahrs-Sale](https://www.anker.com/eu-de/neujahr-sale?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote
 
 Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
- Frischer Start. Große Einsparungen.
+Anker Nano
 
-Starte ins Neue Jahr mit Glück! Gewinne bis zu
-300€ in unserer Verlosung.
+ C-ing is Believing
 
-**27. Dezember - 8. Januar**
+Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
-[Zum Angebot masterBanner1](https://www.anker.com/eu-de/neujahr-sale?ref=masterBanner1)
+[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner1)
+
+[Apple-Zubehör entdecken \>\>](https://www.anker.com/eu-de/collections/apple-accessories)
 
 Limitiertes Angebot
 

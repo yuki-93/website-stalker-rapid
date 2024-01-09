@@ -4,15 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S41](https://sbahn.berlin/fahren/s41/)
+[S1](https://sbahn.berlin/fahren/s1/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur am Signal in Wedding ###
 
- Letztes Update: 09:13 / 09.01.2024
+ Letztes Update: 11:19 / 09.01.2024
 
 Information
 
-Wegen einer Reparatur am Signal in Wedding kommt es auf den Linien S1 und S41 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur am Signal in Wedding kommt es auf den Linien S1, S41 und S42 zu Verspätungen und folgenden Einschränkungen.
+
+* Linie S1: zwischen Frohnau und Bornholmer Straße kann nur ein 20-Minuten-Takt angeboten werden.
 
 Wir bitten um Entschuldigung
 
@@ -20,27 +22,13 @@ Wir bitten um Entschuldigung
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur am Zug in Jannowitzbrücke beendet ###
+### ärztliche Versorgung eines Fahrgastes in Hauptbahnhof beendet ###
 
- Letztes Update: 09:11 / 09.01.2024
-
-Information
-
-Nach einer Reparatur am Zug in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur an Zügen in Halensee und Sonnenallee beendet ###
-
- Letztes Update: 08:24 / 09.01.2024
+ Letztes Update: 11:09 / 09.01.2024
 
 Information
 
-Nach Reparaturen an Zügen in Sonnenallee und Halensee kommt es auf den Linien S1, S41, S42, 45, S46 und S47 zu Verspätungen und Ausfällen
+Nach einer ärztlichen Versorgung eines Fahrgastes in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
