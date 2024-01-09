@@ -98,17 +98,23 @@ Entdecke Anker Innovations
 
   [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner7_1)
 
+* ### Anker SOLIX C800 Plus Tragbare Powerstation ###
+
+  März erhältlich. Pünktlich zum Frühjahr.
+
+  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner7_2)
+
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_2)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_3)
 
 * ### Powervoll ins neue Jahr! ###
 
   Bis zu 1.700€ sparen
 
-  [Jetzt einkaufenPowervoll ins neue Jahr!](https://www.anker.com/eu-de/anker-solix/tragbare-powerstation-angebote-pps?ref=productBanner7_3)
+  [Jetzt einkaufenPowervoll ins neue Jahr!](https://www.anker.com/eu-de/anker-solix/tragbare-powerstation-angebote-pps?ref=productBanner7_4)
 
 * ###
 
@@ -122,7 +128,7 @@ Entdecke Anker Innovations
 
   600W Mikroinverter, erweiterbar auf 800W
 
-  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
+  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_5)
 
 Was macht Anker so besonders?
 ----------
