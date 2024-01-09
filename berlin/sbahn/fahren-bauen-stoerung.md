@@ -4,22 +4,47 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S1](https://sbahn.berlin/fahren/s1/)[S41](https://sbahn.berlin/fahren/s41/)
 
-### Ausfall wegen verspäteter Bereitstellung von Zügen der Linie S5 ###
+### Reparatur am Signal in Wedding ###
 
- Letztes Update: 05:40 / 09.01.2024
+ Letztes Update: 09:13 / 09.01.2024
 
 Information
 
-Wegen der verspäteten Bereitstellung von Zügen fallen von ca. 06:00 Uhr bis vsl. 09:00 Uhr folgende Fahrten auf der Linie S5 aus:
+Wegen einer Reparatur am Signal in Wedding kommt es auf den Linien S1 und S41 zu Verspätungen und Ausfällen.
 
-* von Mahlsdorf (jeweils zur Minute 16, 36 und 56) nach Ostbahnhof.
-* ab Ostbahnhof (jeweils zur Minute 07, 27 und 47) nach Mahlsdorf.
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur am Zug in Jannowitzbrücke beendet ###
+
+ Letztes Update: 09:11 / 09.01.2024
+
+Information
+
+Nach einer Reparatur am Zug in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert  sonstige Einschränkungen
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur an Zügen in Halensee und Sonnenallee beendet ###
+
+ Letztes Update: 08:24 / 09.01.2024
+
+Information
+
+Nach Reparaturen an Zügen in Sonnenallee und Halensee kommt es auf den Linien S1, S41, S42, 45, S46 und S47 zu Verspätungen und Ausfällen
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
