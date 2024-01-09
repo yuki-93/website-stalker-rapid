@@ -4,23 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S47](https://sbahn.berlin/fahren/s47/)
 
-### Notarzteinsatz auf der Strecke beendet ###
+### kurzfristige Personalausfälle ###
 
- Letztes Update: 17:01 / 09.01.2024
+ Letztes Update: 20:01 / 09.01.2024
 
 Information
 
-Nach einem Notarzteinsatz auf der Strecke in Ostkreuz kommt es auf den Linien S1, S2, S41, S42, S47, S8 und S85 zu Verspätungen, Ausfällen und folgenden Einschränkungen.
+Wegen kurzfristigen Personalausfällen verkehrt die Linie S47 nur zwischen Spindlersfeld \<\> Schöneweide.
 
-\* Linie S1: zwischen Frohnau und Halensee kann nur ein 20-Minuten-Takt angeboten werden.
+Fahrgäste benutzen bitte ab Schöneweide die Linie S46.
 
-\* Linie S47: verkehrt nur zwischen Spindlersfeld \<\> Tempelhof.
+Wir bitten um Verständnis.
 
-Wir bitten um Verständnis
-
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
