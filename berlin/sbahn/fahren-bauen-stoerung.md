@@ -8,15 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Ausfall wegen verspäteter Bereitstellung von Zügen der Linie S5 ###
 
- Letztes Update: 04:51 / 09.01.2024
+ Letztes Update: 05:40 / 09.01.2024
 
 Information
 
 Wegen der verspäteten Bereitstellung von Zügen fallen von ca. 06:00 Uhr bis vsl. 09:00 Uhr folgende Fahrten auf der Linie S5 aus:
 
-ab Mahlsdorf jeweils zur Minute 16, 36 und 56
-
-ab Ostbahnhof jeweils zur Minute 07, 27 und 47
+* von Mahlsdorf (jeweils zur Minute 16, 36 und 56) nach Ostbahnhof.
+* ab Ostbahnhof (jeweils zur Minute 07, 27 und 47) nach Mahlsdorf.
 
 Wir bitten um Entschuldigung.
 
