@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### kurzfristige Personalausfälle ###
-
- Letztes Update: 20:18 / 08.01.2024
-
-Information
-
-Wegen kurzfristigen Personalausfällen kommt es zu folgenden Einschränkungen:
-
-*Linie S1 verkehrt zwischen Oranienburg \<\> Halensee im 20-Minuten-Takt.*
-
-*Linie S47 verkehrt nur zwischen Spindlersfeld \<\> Tempelhof.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
