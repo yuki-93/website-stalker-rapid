@@ -4,6 +4,42 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Notarzteinsatz auf der Strecke ###
+
+ Letztes Update: 12:15 / 09.01.2024
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Ostkreuz ist der Zugverkehr der Linien S2, S41, S42, S8 und S85 zwischen Frankfurter Allee und Treptower Park unterbrochen.
+
+Zugverkehr wie folgt:
+
+Linie S2: Greifswalder Straße \<\> Bernau
+ Linie S41: Treptower Park \<\> Frankfurter Allee, wird S42
+ Linie S42: Frankfurter Allee, \<\> Treptower Park wird S41
+ Linie S8: Grünau \<\> Schöneweide sowie Birkenwerder \<\> Greifswalder Straße
+ Linie S85: verkehrt nicht
+
+Wir bitten um Verständnis
+
+ fährt nicht  Verbindung unterbrochen
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur am Zug in Lichtenberg ###
+
+ Letztes Update: 11:48 / 09.01.2024
+
+Information
+
+Wegen der Reparatur am Zug in Lichtenberg kommt es auf den Linien S5, S7und S75 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur am Signal in Wedding ###
