@@ -4,17 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### kurzfristige Personalausfälle ###
+### Notarzteinsatz auf der Strecke beendet ###
 
- Letztes Update: 15:25 / 09.01.2024
+ Letztes Update: 17:01 / 09.01.2024
 
 Information
 
-Wegen kurzfristigen Personalausfällen kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und Ausfällen.
+Nach einem Notarzteinsatz auf der Strecke in Ostkreuz kommt es auf den Linien S1, S2, S41, S42, S47, S8 und S85 zu Verspätungen, Ausfällen und folgenden Einschränkungen.
 
-Wir bitten um Verständnis.
+\* Linie S1: zwischen Frohnau und Halensee kann nur ein 20-Minuten-Takt angeboten werden.
+
+\* Linie S47: verkehrt nur zwischen Spindlersfeld \<\> Tempelhof.
+
+Wir bitten um Verständnis
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
@@ -34,28 +38,6 @@ Wegen der verspäteten Bereitstellung von Zügen fallen von ca. 14:00 Uhr bis
 Wir bitten um Entschuldigung.
 
  Takt geändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Notarzteinsatz auf der Strecke beendet ###
-
- Letztes Update: 13:40 / 09.01.2024
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Ostkreuz kommt es auf den Linien S1, S2, S41, S42, S47, S8 und S85 zu Verspätungen, Ausfällen und folgenden Einschränkungen.
-
-\* Linie S1: zwischen Frohnau und Halensee kann nur ein 20-Minuten-Takt angeboten werden.
-
-\* Linie S47: verkehrt nur zwischen Spindlersfeld \<\> Tempelhof.
-
-\* Linie S2: zwischen Buch und Bornholmer Straße kann nur ein 20-Minuten-Takt angeboten werden.
-
-\* Linie S85: verkehrt nicht.
-
-Wir bitten um Verständnis
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
