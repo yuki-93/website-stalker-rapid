@@ -4,15 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Ausfall wegen verspäteter Bereitstellung von Zügen der Linie S5 ###
+
+ Letztes Update: 13:55 / 09.01.2024
+
+Information
+
+Wegen der verspäteten Bereitstellung von Zügen fallen von ca. 14:00 Uhr bis vsl. 18:30 Uhr folgende Fahrten auf der Linie S5 aus:
+
+* von Mahlsdorf (jeweils zur Minute 16, 36 und 56) nach Ostbahnhof.
+* ab Ostbahnhof (jeweils zur Minute 07, 27 und 47) nach Mahlsdorf.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Notarzteinsatz auf der Strecke beendet ###
 
- Letztes Update: 13:35 / 09.01.2024
+ Letztes Update: 13:40 / 09.01.2024
 
 Information
 
-Nach einem Notarzteinsatz auf der Strecke in Ostkreuz kommt es auf den Linien S1, S2, S41, S42, S47, S8 und S85 zu Verspätungen und folgenden Einschränkungen.
+Nach einem Notarzteinsatz auf der Strecke in Ostkreuz kommt es auf den Linien S1, S2, S41, S42, S47, S8 und S85 zu Verspätungen, Ausfällen und folgenden Einschränkungen.
 
 \* Linie S1: zwischen Frohnau und Halensee kann nur ein 20-Minuten-Takt angeboten werden.
 
@@ -39,114 +56,6 @@ Nach der Reparatur am Zug in Lichtenberg kommt es auf den Linien S5, S7und S75 z
 Wir bitten um Entschuldigung
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur am Signal in Wedding ###
-
- Letztes Update: 11:19 / 09.01.2024
-
-Information
-
-Wegen einer Reparatur am Signal in Wedding kommt es auf den Linien S1, S41 und S42 zu Verspätungen und folgenden Einschränkungen.
-
-* Linie S1: zwischen Frohnau und Bornholmer Straße kann nur ein 20-Minuten-Takt angeboten werden.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Hauptbahnhof beendet ###
-
- Letztes Update: 11:09 / 09.01.2024
-
-Information
-
-Nach einer ärztlichen Versorgung eines Fahrgastes in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Streik GDL ###
-
- Letztes Update: 08:00 / 09.01.2024
-
-Information
-
-Wegen eines Warnstreiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **Mittwoch, den 10.01.2024 ca. 03:30 Uhr bis einschließlich Freitag, den 12.01.2024 ca.18:00 Uhr**, zu Ausfällen im gesamten S-Bahn-Netz.
-
-(Ausführliche Informationen zum Zugverkehr der einzelnen Linien werden hier detailiert folgen.)
-
-Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **auf den folgenden Linien** angeboten:
-
-* Linie S3: Erkner \<\> Ostbahnhof
-* Linie S46: Königs Wusterhausen \<\> Schöneberg
-* Linie S5: Strausberg Nord \<\> Ostbahnhof
-* Linie S9: Flughafen BER \<\> Friedrichstraße
-
-**Dieser angestrebte Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
-
----
-
-**Der planmäßige Schienenersatzverkehr auf der Linie S1, S2, S25, S26 (wegen laufender Bauarbeiten) zwischen Gesundbrunnen und Südkreuz/Yorckstraße (Großgörschenstraße) fährt auch während des Streiks:**
-
-* Linie S1A: Südkreuz \<\> Schöneberg \<\> Friedrichstraße
-* Linie S1B: Friedrichstraße \<\> Gesundbrunnen
-
----
-
-**Zusätzlich wird ein Ersatzverkehr mit Bussen auf folgenden Linien angeboten:**
-
-* **Linie S2:** Blankenfelde \<\> Priesterweg im 10-Minuten-Takt.
-
-**Haltestellen des Ersatzverkehrs zwischen Blankenfelde und Priesterweg .**
-
-* S Blankenfelde: Mozartstraße (wie Bus 704, 792, 793, 794, 797)
-* S Mahlow: Heimstättenstr. (wie Bus 600, 794, 797)
-* S Lichtenrade: Bahnhofstr. (wie Bus M76, 172, 175, 275, 743)
-* S Schichauweg: Schichauweg (wie Bus X83)
-* S Buckower Chaussee: Buckower Chaussee (wie Bus M11, 277, 710, 711)
-* S Marienfelde: Bahnhofstr. (wie Bus 283)
-* *(zusätzlicher Halt Ecke Ring-/Rathausstr. zur Anbindung an die U6 in Alt-Mariendorf)*
-* S Attilastraße: Steglitzer Damm (wie Bus 282)
-* S Priesterweg: Prellerweg (wie Bus M76, X76, 170, 246)
-
-* **Linie S25:** zwischen Teltow Stadt und Lichterfelde Ost (im 10-Minuten-Takt) sowie zwischen Tegel und Hennigsdorf (im 20-Minuten-Takt).
-
-**Haltestellen des Ersatzverkehrs zwischen Teltow Stadt und Lichterfelde Ost:**
-
-* S Teltow Stadt: Gonfrevillestr. (wie Bus X10, 620, 625, N13)
-* S Lichterfelde Süd: Fürstenstr. (wie Bus M85)
-* S Osdorfer Straße: Osdorfer Str. (wie Bus 112, 186, N88)
-* S Lichterfelde Ost: Lankwirtzer Straße (wie Bus M11, X11, 184, 284)
-
-**Haltestellen des Ersatzverkehrs zwischen Hennigsdorf und Tegel:**
-
-* S Hennigsdorf: Zum Busbahnhof (wie Bus 136, 651, 659, 807, 811, 824)
-* S Heiligensee: Ruppiner Chaussee (wie Bus 124, N24)
-* S Schulzendorf: Ruppiner Chaussee (wie Bus 124, N24)
-* S Tegel: Buddestr. (wie Bus 133, N25)
-
----
-
-Bitte nutzen Sie für Fahrten innerhalb Berlins die Verkehrsmittel der BVG (U-Bahn, Bus und Tram).
-
-Beachten Sie bitte, dass der Regional- und Fernverkehr der Deutschen Bahn ebenfalls von diesem Warnstreik betroffen ist. Weitere Informationen erhalten Sie unter: <https://www.bahn.de/service/fahrplaene/aktuell>
-
----
-
-Wir bitten alle Fahrgäste, sich vor Fahrtantritt in unseren Auskunftsmedien zu informieren.
-
-**Diese Fahrzeiten sind in unserer Fahrplanauskunft und App bis zu 23 Stunden im Voraus enthalten! Für einen aktuellen Stand Ihrer Verbindung prüfen Sie diese bitte kurzfristig noch einmal.**
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
