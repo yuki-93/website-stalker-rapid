@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Ausfall wegen verspäteter Bereitstellung von Zügen der Linie S5 ###
+
+ Letztes Update: 04:51 / 09.01.2024
+
+Information
+
+Wegen der verspäteten Bereitstellung von Zügen fallen von ca. 06:00 Uhr bis vsl. 09:00 Uhr folgende Fahrten auf der Linie S5 aus:
+
+ab Mahlsdorf jeweils zur Minute 16, 36 und 56
+
+ab Ostbahnhof jeweils zur Minute 07, 27 und 47
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
