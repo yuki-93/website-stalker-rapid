@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik GDL ###
 
- Letztes Update: 14:57 / 10.01.2024
+ Letztes Update: 16:13 / 10.01.2024
 
 Information
 
@@ -16,10 +16,12 @@ Wegen eines Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es *
 
 Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **aktuell auf den folgenden Linien** angeboten:
 
-* Linie S3: Erkner \<\> Ostbahnhof
-* Linie S46: Königs Wusterhausen \<\> Schöneberg
-* Linie S5: Strausberg Nord \<\> Ostbahnhof
-* Linie S9: Flughafen BER \<\> Friedrichstraße
+* **Linie S3:** Erkner \<\> Ostbahnhof (\*)
+* **Linie S46:** Königs Wusterhausen \<\> Schöneberg
+* **Linie S5:** Strausberg Nord \<\> Ostbahnhof (\*)
+* **Linie S9:** Flughafen BER \<\> Friedrichstraße
+
+(\*) Die Linien S3 und S5 fahren ab ca. 21 Uhr nur noch im 40-Minuten-Takt.
 
 **Dieser angestrebte Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
 
