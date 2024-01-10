@@ -8,15 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik GDL ###
 
- Letztes Update: 04:33 / 10.01.2024
+ Letztes Update: 12:46 / 10.01.2024
 
 Information
 
-Wegen eines Warnstreiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **bis einschließlich Freitag, den 12.01.2024 ca.18:00 Uhr**, zu Ausfällen im gesamten S-Bahn-Netz.
+Wegen eines Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **bis einschließlich Freitag, den 12.01.2024 ca.18:00 Uhr**, zu Ausfällen im gesamten S-Bahn-Netz.
 
-(Ausführliche Informationen zum Zugverkehr der einzelnen Linien werden hier detailiert folgen.)
-
-Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **auf den folgenden Linien** angeboten:
+Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **aktuell auf den folgenden Linien** angeboten:
 
 * Linie S3: Erkner \<\> Ostbahnhof
 * Linie S46: Königs Wusterhausen \<\> Schöneberg
@@ -49,6 +47,8 @@ Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und 
 * *(zusätzlicher Halt Ecke Ring-/Rathausstr. zur Anbindung an die U6 in Alt-Mariendorf)*
 * S Attilastraße: Steglitzer Damm (wie Bus 282)
 * S Priesterweg: Prellerweg (wie Bus M76, X76, 170, 246)
+
+---
 
 * **Linie S25:** zwischen Teltow Stadt und Lichterfelde Ost (im 10-Minuten-Takt) sowie zwischen Tegel und Hennigsdorf (im 20-Minuten-Takt).
 
