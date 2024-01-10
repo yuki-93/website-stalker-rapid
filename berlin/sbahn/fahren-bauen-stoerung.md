@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik GDL ###
 
- Letztes Update: 16:13 / 10.01.2024
+ Letztes Update: 18:06 / 10.01.2024
 
 Information
 
@@ -27,7 +27,7 @@ Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und 
 
 ---
 
-**Der planmäßige Schienenersatzverkehr auf der Linie S1, S2, S25, S26 (wegen laufender Bauarbeiten) zwischen Gesundbrunnen und Südkreuz/Yorckstraße (Großgörschenstraße) fährt auch während des Streiks:**
+**Der planmäßige Ersatzverkehr mit Bussen auf den Linien S1, S2, S25, S26 (wegen laufender Bauarbeiten) zwischen Gesundbrunnen und Südkreuz/ Yorckstraße (Großgörschenstraße) fährt auch während des Streiks:**
 
 * Linie S1A: Südkreuz \<\> Schöneberg \<\> Friedrichstraße
 * Linie S1B: Friedrichstraße \<\> Gesundbrunnen
