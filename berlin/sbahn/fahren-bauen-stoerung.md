@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik GDL ###
 
- Letztes Update: 08:00 / 09.01.2024
+ Letztes Update: 04:33 / 10.01.2024
 
 Information
 
-Wegen eines Warnstreiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **Mittwoch, den 10.01.2024 ca. 03:30 Uhr bis einschließlich Freitag, den 12.01.2024 ca.18:00 Uhr**, zu Ausfällen im gesamten S-Bahn-Netz.
+Wegen eines Warnstreiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **bis einschließlich Freitag, den 12.01.2024 ca.18:00 Uhr**, zu Ausfällen im gesamten S-Bahn-Netz.
 
 (Ausführliche Informationen zum Zugverkehr der einzelnen Linien werden hier detailiert folgen.)
 
