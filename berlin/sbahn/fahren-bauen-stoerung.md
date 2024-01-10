@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik GDL ###
 
- Letztes Update: 18:06 / 10.01.2024
+ Letztes Update: 20:13 / 10.01.2024
 
 Information
 
@@ -59,7 +59,7 @@ Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und 
 * S Teltow Stadt: Gonfrevillestr. (wie Bus X10, 620, 625, N13)
 * S Lichterfelde Süd: Fürstenstr. (wie Bus M85)
 * S Osdorfer Straße: Osdorfer Str. (wie Bus 112, 186, N88)
-* S Lichterfelde Ost: Lankwirtzer Straße (wie Bus M11, X11, 184, 284)
+* S Lichterfelde Ost: Lankwitzer Straße (wie Bus M11, X11, 184, 284)
 
 **Haltestellen des Ersatzverkehrs zwischen Hennigsdorf und Tegel:**
 
