@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik GDL ###
 
- Letztes Update: 12:46 / 10.01.2024
+ Letztes Update: 14:23 / 10.01.2024
 
 Information
 
@@ -19,7 +19,8 @@ Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und 
 * Linie S3: Erkner \<\> Ostbahnhof
 * Linie S46: Königs Wusterhausen \<\> Schöneberg
 * Linie S5: Strausberg Nord \<\> Ostbahnhof
-* Linie S9: Flughafen BER \<\> Friedrichstraße
+* Linie S9: Flughafen BER \<\> Alexanderplatz
+  * **Zugverkehr S9 zwischen Alexanderplatz und Friedrichstraße wegen eines Polizeieinsatzes unterbrochen.**
 
 **Dieser angestrebte Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
 
