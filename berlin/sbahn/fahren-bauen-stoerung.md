@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik GDL ###
 
- Letztes Update: 01:52 / 11.01.2024
+ Letztes Update: 04:20 / 11.01.2024
 
 Information
 
