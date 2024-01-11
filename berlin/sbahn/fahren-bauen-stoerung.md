@@ -603,6 +603,51 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einhub-des-ueberbaus-fuer-die-neue-fussgaengerbruecke-ueber-das-adlergestell/#con-28616)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Westkreuz \<\> Spandau ###
+
+Nacht 07./08.02. (Mi/Do), ca. 23.25 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28716&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21908&tx_sbbconstructions_list%5Bperiod%5D=17570&type=5679&cHash=fc5a4989db7558aab6fc4a6d337132f9)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Friedrichstraße \<\> Tiergarten S-Bahnverkehr im ungefähren 5-/15-Minutentakt mit S7 und S9
+  * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 20-Minutentakt mit S9
+  * Zoologischer Garten \<\> Charlottenburg S-Bahnverkehr im ungefähren 10-Minutentakt mit S3 und S9
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleissperrung-fuer-arbeiten-bei-der-fernbahn-1/#con-28716)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Erkner \<\> Rummelsburg ###
+
+Nacht 09./10.02. (Fr/Sa), ca. 22.40 Uhr - ca. 4.50 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28715&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21907&tx_sbbconstructions_list%5Bperiod%5D=17569&type=5679&cHash=a1a24b55efe1644027a5be43762c63c0)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Friedrichshagen \<\> Karlshorst S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleissperrung-fuer-arbeiten-bei-der-fernbahn/#con-28715)
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 Nur Wochenende
