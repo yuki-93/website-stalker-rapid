@@ -22,7 +22,7 @@ Wir bitten um Verständnis.
 
 ### Streik GDL ###
 
- Letztes Update: 15:28 / 11.01.2024
+ Letztes Update: 21:20 / 11.01.2024
 
 Information
 
@@ -32,7 +32,7 @@ Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und 
 
 * **Linie S3:** Erkner \<\> Ostbahnhof (\*)
 * **Linie S46:** Königs Wusterhausen \<\> Schöneberg
-* **Linie S5:** Strausberg Nord \<\> Ostbahnhof (\*)
+* **Linie S5:** Strausberg Nord \<\> Ostbahnhof (\*) *Zugverkehr zur Zeit wegen eines Polizeieinsatzes zwischen Fredersdorf \<\> Strausberg Nord unterbrochen.*
 * **Linie S9:** Flughafen BER \<\> Friedrichstraße
 
 (\*) Die Linien S3 und S5 fahren ab ca. 21 Uhr nur noch im 40-Minuten-Takt.
