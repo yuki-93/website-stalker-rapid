@@ -648,21 +648,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleissperrung-fuer-arbeiten-bei-der-fernbahn/#con-28715)
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
 Nur Wochenende
 
-### Friedrichsfelde Ost \<\> Wuhletal ###
+### Kaulsdorf/Wartenberg \<\> Warschauer Straße ###
 
-10.02. (Fr) 19:45 Uhr bis 12.02. (Mo) 1:30 Uhr
+10.02. (Sa), ca. 20 Uhr bis 12.02. (Mo), ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28474&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21635&tx_sbbconstructions_list%5Bperiod%5D=17511&type=5679&cHash=e433f020fbfd7247fd23a2381ac02962)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28474&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21635&tx_sbbconstructions_list%5Bperiod%5D=17571&type=5679&cHash=019ded64a7e2a8245969150d9905d789)
 
  Ersatzverkehr
 
 Information
 
 * Ersatzverkehr mit Bussen
+  * Bus S5: Wuhletal \<\> Friedrichsfelde Ost
+     Bitte steigen Sie zwischen der S5 (Strausberg Nord/Mahlsdorf \<\> Wuhletal) und dem Bus S5 (Wuhletal \<\> Friedrichsfelde Ost) in beiden Fahrtrichtungen in Kaulsdorf um, im Abschnitt Kaulsdorf \<\> Wuhletal fahren die S5 und der Bus S5 nahezu parallel.
+
+* Fahrplanänderung
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm/#con-28474)
