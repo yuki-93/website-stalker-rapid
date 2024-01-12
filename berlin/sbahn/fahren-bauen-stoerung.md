@@ -4,11 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Streik der Gewerkschaft Deutscher Lokomotivfüher (GDL) beendet ###
 
- Letztes Update: 20:13 / 12.01.2024
+ Letztes Update: 20:42 / 12.01.2024
 
 Information
 
@@ -25,9 +25,8 @@ Information
 * **Linien S41/ S42:** verkehren **nur im 10-Minuten-Takt**
 * **Linie S45:** verkehrt nicht
 * **Linie S47:** verkehrt nur Spindlersfeld \<\> Schöneweide
-* **Linie S5:** verkehrt nur Strausberg Nord \<\> Ostbahnhof **im 20-Minuten-Takt**
-* **Linie S7:** verkehrt Potsdam Hbf. \<\> Ahrensfelde, **nur im****20-Minuten-Takt**
-* **Linie S75:** verkehrt Wartenberg \<\> Warschauer Straße, **nur im 20-Minuten-Takt**
+* **Linie S5:** verkehrt nur Strausberg Nord \<\> Ostbahnhof **im 20-Minuten-Takt, mit Umstieg in Mahlsdorf**
+* **Linie S7:** verkehrt Potsdam Hbf. \<\> Ahrensfelde, **nur im** **20-Minuten-Takt**
 * **Linie S85:** verkehrt nicht
 
 Wir bitten um Entschuldigung.
