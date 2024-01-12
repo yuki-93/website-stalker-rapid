@@ -328,7 +328,7 @@ Land/Region auswählen
 * [United States English](https://www.anker.com/?ref=bottom_eu-de)
 * [Canada English](https://www.anker.com/ca?ref=bottom_eu-de)
 * Naher Osten
-* [Vereinigte Arabische Emirate English](https://ae.anker.com/?ref=bottom_eu-de)
+* [United Arab Emirates English](https://ae.anker.com/?ref=bottom_eu-de)
 
 Produkte
 
