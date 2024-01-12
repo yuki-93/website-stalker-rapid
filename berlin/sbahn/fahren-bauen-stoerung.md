@@ -2,151 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S3](https://sbahn.berlin/fahren/s3/)[S45](https://sbahn.berlin/fahren/s45/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Streik der Gewerkschaft Deutscher Lokomotivfüher (GDL) beendet ###
-
- Letztes Update: 23:04 / 12.01.2024
-
-Information
-
-**Der Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ist beendet.**
-
-**Es kommt aber weiterhin** zu Verspätungen und Ausfällen, da unsere Triebfahrzeugführer und Triebfahrzeugführerinnen erst zu den abgestellten Züge gebracht und die Züge anschließend noch für den Einsatz vorbereitet werden müssen.
-
-**Aktuell kommt es noch zu folgenden Einschränkungen:**
-
-* **Linie S1:** verkehrt Oranienburg \<\> Gesundbrunnen \<\> Westkreuz \<\> Halensee und Yorckstraße (Großgörschenstraße) \<\> Wannsee, **jeweils nur im 20-Minuten-Takt**
-* **Linie S2:** Bernau \<\> Bornholmer Straße \<\> Ostkreuz \<\> Hermannstraße und Südkreuz \<\> Blankenfelde, **jeweils nur im 20-Minuten-Takt**
-* **Linie S3:** verkehrt Erkner \<\> Spandau, der 10-Minuten-Takt zwischen Friedrichshagen und Ostbahnhof entfällt.
-* **Linie S45:** verkehrt nicht
-* **Linie S47:** verkehrt nur Spindlersfeld \<\> Schöneweide
-* **Linie S5:** verkehrt nur Strausberg Nord \<\> Ostbahnhof **im 20-Minuten-Takt, mit Umstieg in Mahlsdorf**
-* **Linie S7:** verkehrt Potsdam Hbf. \<\> Ahrensfelde, **nur im** **20-Minuten-Takt**
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
-### Baumaßnahmen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gehrenseestraße ###
-
-19.06. (Mo) ca. 4 Uhr bis auf Weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
-
- Zugverkehr verändert
-
-Information
-
-* kein Halt in Gehrenseestraße
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Südkreuz, Yorckstraße/Großgörschenstraße \<\> Gesundbrunnen ###
-
-05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28432&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=051b7b40bd97c6b3ba1ffed11d322e62)
-
- Ersatzverkehr
-
-Information
-
-* Sperrung des Streckenabschnittes zwischen Gesundbrunnen und Südkreuz/Yorckstraße (Großgörschenstraße)
-* Als Ersatz fahren Busse
-  * Linie S1A: Südkreuz \<\> Schöneberg \<\> Friedrichstraße
-  * Linie S1B: Friedrichstraße \<\> Gesundbrunnen
-
-* Bitte beachten Sie zahlreiche Takt-/Fahrplan- und Bahnsteigänderungen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28432)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Schöneweide \<\> Hermannstraße ###
-
-05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28631&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=755a7be37e1f2d36b0bfebe93f282cfc)
-
- fährt nicht
-
-Information
-
-* Die S47 fährt im Abend- und Nachtverkehr Fr/Sa und Sa/So immer nur Spindlersfeld \<\> Schöneweide.
-* Im Tagesverkehr nutzen Fahrgäste bitte die umgeleitete S1 zwischen Spindlersfeld und Hermannstraße.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28631)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Südkreuz \<\> Westend ###
-
-05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28632&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=f26978ab50aecae0d8fc5cb7e5e53b47)
-
- fährt nicht
-
-Information
-
-* Die S46 fährt im Nachtverkehr Fr/Sa+Sa/So immer nur zwischen Königs Wusterhausen \<\> Südkreuz
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28632)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Bornholmer Straße \<\> Waidmannslust ###
-
-05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28633&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=1294b6510a71ec19771c6daebdb70556)
-
- fährt nicht
-
-Information
-
-* S85 fährt nicht Bornholmer Straße \<\> Waidmannslust, sondern Bornholmer Straße \<\> Buch
-* gegenüber der dort sonst verkehrenden S2, fährt die S85
-  * nach Buch von Bornholmer Straße bis Blankenburg 3 bis 4 Minuten früher
-  * in der Gegenrichtung nach Grünau 4 bis 5 Minuten später
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28633)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Ring ###
-
-05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28630&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=8bfdfd77aa4cde1ef5c5c5eb95d1ad97)
-
- Takt geändert
-
-Information
-
-* Die Linien S41/42 fahren Mo-Fr während der Hauptverkehrszeiten statt im durchgehenden 5-Minutentakt in einem 5-/5-/10-Minutentakt.
-  * Das bedeutet: Innerhalb von 20 Minuten fahren drei Züge nacheinander im Abstand von 5 und 5 und 10 Minuten.
-
-* Einzelne Züge auf der S42 fahren auf dem gesamten Ring um 10 Minuten versetzt
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28630)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -381,6 +236,146 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-pichelsberg-2/#con-28714)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Ring ###
+
+05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28630&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=8bfdfd77aa4cde1ef5c5c5eb95d1ad97)
+
+ Takt geändert
+
+Information
+
+* Die Linien S41/42 fahren Mo-Fr während der Hauptverkehrszeiten statt im durchgehenden 5-Minutentakt in einem 5-/5-/10-Minutentakt.
+  * Das bedeutet: Innerhalb von 20 Minuten fahren drei Züge nacheinander im Abstand von 5 und 5 und 10 Minuten.
+
+* Einzelne Züge auf der S42 fahren auf dem gesamten Ring um 10 Minuten versetzt
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28630)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Gehrenseestraße ###
+
+19.06. (Mo) ca. 4 Uhr bis auf Weiteres
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Halt in Gehrenseestraße
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Südkreuz, Yorckstraße/Großgörschenstraße \<\> Gesundbrunnen ###
+
+05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28432&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=051b7b40bd97c6b3ba1ffed11d322e62)
+
+ Ersatzverkehr
+
+Information
+
+* Sperrung des Streckenabschnittes zwischen Gesundbrunnen und Südkreuz/Yorckstraße (Großgörschenstraße)
+* Als Ersatz fahren Busse
+  * Linie S1A: Südkreuz \<\> Schöneberg \<\> Friedrichstraße
+  * Linie S1B: Friedrichstraße \<\> Gesundbrunnen
+
+* Bitte beachten Sie zahlreiche Takt-/Fahrplan- und Bahnsteigänderungen
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28432)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
+
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Schöneweide \<\> Hermannstraße ###
+
+05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28631&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=755a7be37e1f2d36b0bfebe93f282cfc)
+
+ fährt nicht
+
+Information
+
+* Die S47 fährt im Abend- und Nachtverkehr Fr/Sa und Sa/So immer nur Spindlersfeld \<\> Schöneweide.
+* Im Tagesverkehr nutzen Fahrgäste bitte die umgeleitete S1 zwischen Spindlersfeld und Hermannstraße.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28631)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Südkreuz \<\> Westend ###
+
+05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28632&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=f26978ab50aecae0d8fc5cb7e5e53b47)
+
+ fährt nicht
+
+Information
+
+* Die S46 fährt im Nachtverkehr Fr/Sa+Sa/So immer nur zwischen Königs Wusterhausen \<\> Südkreuz
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28632)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Bornholmer Straße \<\> Waidmannslust ###
+
+05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28633&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=1294b6510a71ec19771c6daebdb70556)
+
+ fährt nicht
+
+Information
+
+* S85 fährt nicht Bornholmer Straße \<\> Waidmannslust, sondern Bornholmer Straße \<\> Buch
+* gegenüber der dort sonst verkehrenden S2, fährt die S85
+  * nach Buch von Bornholmer Straße bis Blankenburg 3 bis 4 Minuten früher
+  * in der Gegenrichtung nach Grünau 4 bis 5 Minuten später
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28633)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Olympiastadion \<\> Spandau ###
+
+Nacht 14./15.01. (So/Mo), ca. 21.30 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28714&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21906&tx_sbbconstructions_list%5Bperiod%5D=17568&type=5679&cHash=334fc7c74b1a8c04f9109b857a23aaa1)
+
+ Takt geändert
+
+Information
+
+* Taktänderung
+  *  Olympiastadion \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-pichelsberg-2/#con-28714)
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
  Nur Nachts
@@ -462,6 +457,30 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Grünau/Schönefeld/Spindlersfeld \<\> Schöneweide ###
+
+Nacht 27./28.01. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28616&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21798&tx_sbbconstructions_list%5Bperiod%5D=17555&type=5679&cHash=0ef5e97c1c15a7c4b2c07d2acb012641)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S46: Grünau \<\> Schöneweide
+  * Bus S9: Grünbergallee \<\> Schöneweide
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einhub-des-ueberbaus-fuer-die-neue-fussgaengerbruecke-ueber-das-adlergestell/#con-28616)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Ring ###
@@ -486,30 +505,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Grünau/Schönefeld/Spindlersfeld \<\> Schöneweide ###
-
-Nacht 27./28.01. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28616&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21798&tx_sbbconstructions_list%5Bperiod%5D=17555&type=5679&cHash=0ef5e97c1c15a7c4b2c07d2acb012641)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S46: Grünau \<\> Schöneweide
-  * Bus S9: Grünbergallee \<\> Schöneweide
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einhub-des-ueberbaus-fuer-die-neue-fussgaengerbruecke-ueber-das-adlergestell/#con-28616)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
