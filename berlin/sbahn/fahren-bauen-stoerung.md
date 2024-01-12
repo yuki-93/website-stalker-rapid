@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik GDL ###
 
- Letztes Update: 10:10 / 12.01.2024
+ Letztes Update: 17:23 / 12.01.2024
 
 Information
 
@@ -16,9 +16,11 @@ Wegen eines Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es *
 
 Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **aktuell auf den folgenden Linien** angeboten:
 
+* **Linie S25:** Teltow Stadt \<\> Priesterweg
 * **Linie S3:** Erkner \<\> Ostbahnhof
 * **Linie S46:** Königs Wusterhausen \<\> Schöneberg
 * **Linie S5:** Strausberg Nord \<\> Ostbahnhof
+* **Linie S7:** vereinzelte Züge zwischen Ahrensfelde \<\> Potsdam Hbf.
 * **Linie S9:** Flughafen BER \<\> Friedrichstraße
 
 **Dieser angestrebte Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
