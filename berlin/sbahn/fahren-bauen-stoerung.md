@@ -4,11 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Streik der Gewerkschaft Deutscher Lokomotivfüher (GDL) beendet ###
 
- Letztes Update: 18:16 / 12.01.2024
+ Letztes Update: 19:21 / 12.01.2024
 
 Information
 
@@ -16,31 +16,20 @@ Information
 
 **Es kommt aber weiterhin** zu Verspätungen und Ausfällen, da unsere Triebfahrzeugführer und Triebfahrzeugführerinnen erst zu den abgestellten Züge gebracht und die Züge anschließend noch für den Einsatz vorbereitet werden müssen.
 
-**Aktuell verkehren S-Bahnen auf folgenden Linien/ Streckenabschnitten/ mit folgenden Einschränkungen:**
+**Aktuell kommt es noch zu folgenden Einschränkungen:**
 
-* **Linie S1:** Oranienburg \<\> Gesundbrunnen \<\> Westkreuz \<\> Halensee und Yorckstraße (Großgörschenstraße) \<\> Wannsee **im 20-Minuten-Takt**
-* **Linie S2:** Bernau \<\> Bornholmer Straße \<\> Ostkreuz \<\> Hermannstraße
-* **Linie S25:** verkehrt Teltow Stadt \<\> Priesterweg
+* **Linie S1:** verkehrt Oranienburg \<\> Gesundbrunnen \<\> Westkreuz \<\> Halensee und Yorckstraße (Großgörschenstraße) \<\> Wannsee, **jeweils nur im 20-Minuten-Takt**
+* **Linie S2:** Bernau \<\> Bornholmer Straße \<\> Ostkreuz \<\> Hermannstraße und Südkreuz \<\> Blankenfelde, **jeweils nur im 20-Minuten-Takt**
 * **Linie S26:** verkehrt nicht
-* **Linie S3:** verkehrt Erkner \<\> Ostbahnhof im **20-Minuten-Takt**
-* **Linien S41/ S42:** verkehren im **20-Minuten-Takt**
+* **Linie S3:** verkehrt nur Erkner \<\> Ostbahnhof **im 20-Minuten-Takt**
+* **Linie S41:** verkehrt **nur im 20-Minuten-Takt**
 * **Linie S45:** fährt nicht
-* **Linie S46:** verkehrt Königs Wusterhausen \<\> Westend
-* **Linie S47:** verkehrt Spindlersfeld \<\> Schöneweide
-* **Linie S7:** verkehrt Potsdam Hbf. \<\> Ahrensfelde **im****20-Minuten-Takt**
-* **Linie S75:** verkehrt Wartenberg \<\> Warschauer Straße **im****20-Minuten-Takt**
-* **Linie S8:** verkehrt Grünau \<\> Birkenwerder, es kommt zu vereinzelten Ausfällen
+* **Linie S47:** verkehrt nur Spindlersfeld \<\> Schöneweide
+* **Linie S5:** verkehrt nur Strausberg Nord \<\> Ostbahnhof **im 20-Minuten-Takt**
+* **Linie S7:** verkehrt Potsdam Hbf. \<\> Ahrensfelde, **nur im****20-Minuten-Takt**
+* **Linie S75:** verkehrt Wartenberg \<\> Warschauer Straße, **nur im 20-Minuten-Takt**
 * **Linie S85:** verkehrt nicht
 * **Linie S9:** verkehrt Flughafen BER \<\> Spandau, es kommt zu vereinzelten Ausfällen
-
----
-
-Der**planmäßige Ersatzverkehr** mit Bussen auf den Linien S1, S2, S25, S26 (wegen laufender Bauarbeiten) zwischen Gesundbrunnen und Südkreuz/ Yorckstraße (Großgörschenstraße) fährt regulär.
-
-* **Linie Bus S1A:** Südkreuz \<\> Schöneberg \<\> Friedrichstraße
-* **Linie Bus S1B:** Friedrichstraße \<\> Gesundbrunnen
-
----
 
 Wir bitten um Entschuldigung.
 
