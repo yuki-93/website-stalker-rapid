@@ -2,10 +2,6 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e
 
 []()
 
-Sichere dir die Chance auf Gewinne im Wert von bis zu 300€!
-
-[Zum Angebot \>\>](https://www.anker.com/eu-de/neujahr-sale)
-
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
 ProdukteNach KategorieNeuerscheinungenAngebote
