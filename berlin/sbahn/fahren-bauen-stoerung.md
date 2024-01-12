@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivfüher (GDL) beendet ###
 
- Letztes Update: 19:21 / 12.01.2024
+ Letztes Update: 20:13 / 12.01.2024
 
 Information
 
@@ -21,15 +21,14 @@ Information
 * **Linie S1:** verkehrt Oranienburg \<\> Gesundbrunnen \<\> Westkreuz \<\> Halensee und Yorckstraße (Großgörschenstraße) \<\> Wannsee, **jeweils nur im 20-Minuten-Takt**
 * **Linie S2:** Bernau \<\> Bornholmer Straße \<\> Ostkreuz \<\> Hermannstraße und Südkreuz \<\> Blankenfelde, **jeweils nur im 20-Minuten-Takt**
 * **Linie S26:** verkehrt nicht
-* **Linie S3:** verkehrt nur Erkner \<\> Ostbahnhof **im 20-Minuten-Takt**
-* **Linie S41:** verkehrt **nur im 20-Minuten-Takt**
-* **Linie S45:** fährt nicht
+* **Linie S3:** verkehrt Erkner \<\> Spandau, der 10-Minuten-Takt zwischen Friedrichshagen und Ostbahnhof entfällt.
+* **Linien S41/ S42:** verkehren **nur im 10-Minuten-Takt**
+* **Linie S45:** verkehrt nicht
 * **Linie S47:** verkehrt nur Spindlersfeld \<\> Schöneweide
 * **Linie S5:** verkehrt nur Strausberg Nord \<\> Ostbahnhof **im 20-Minuten-Takt**
 * **Linie S7:** verkehrt Potsdam Hbf. \<\> Ahrensfelde, **nur im****20-Minuten-Takt**
 * **Linie S75:** verkehrt Wartenberg \<\> Warschauer Straße, **nur im 20-Minuten-Takt**
 * **Linie S85:** verkehrt nicht
-* **Linie S9:** verkehrt Flughafen BER \<\> Spandau, es kommt zu vereinzelten Ausfällen
 
 Wir bitten um Entschuldigung.
 
