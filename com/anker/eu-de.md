@@ -316,15 +316,6 @@ Amazon American Express Apple Pay Diners Club Discover Google Pay Klarna Masterc
 
 Land/Region wählen
 
-* [United States English](https://us.anker.com/?ref=footer)
-* [United Kingdom English](https://uk.anker.com/?ref=footer)
-* [Deutschland Deutsch](https://de.anker.com/?ref=footer)
-* [Europe English](https://www.anker.com/eu-en?ref=footer)
-* [Canada English](https://ca.anker.com/?ref=footer)
-* [France Français](https://www.anker.com/fr?ref=footer)
-* [India English](https://www.ankerindia.com/?ref=footer)
-* [AUnited Arab Emirates English](https://ae.anker.com/?ref=footer)
-
 Produkte
 
 [Neuerscheinungen](https://www.anker.com/eu-de/collections/new-releases?ref=footer)
