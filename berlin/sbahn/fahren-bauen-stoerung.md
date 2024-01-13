@@ -8,15 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Zug in Bornholmer Straße beendet ###
 
- Letztes Update: 17:18 / 13.01.2024
+ Letztes Update: 17:30 / 13.01.2024
 
 Information
 
 Nach der Reparatur an einem Zug in Bornholmer Straße kommt es auf den Linien S1, S2, S25, S41 und S85 zu Verspätungen, Ausfällen und nachfolgenden Änderungen:
 
-Die Linie S1 kann zwischen Wollankstraße \<\> Oranienburg nur im 20-Minuten-Takt angeboten werden.
-
-Die Linie S25 verkehrt in Bornholmer Straße nur vom Gleis 1 (Bahnsteig in Richtung Gesundbrunnen).
+Die Linie S1 verkehrt zwischen Halensee \<\> Oranienburg im 20-Minuten-Takt.
 
 Die Linie S47 verkehrt derzeit nur Spindlersfeld \<\> Tempelhof.
 
