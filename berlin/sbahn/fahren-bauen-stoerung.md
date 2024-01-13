@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Tiere auf der Strecke Wassmannsdorf ###
+
+ Letztes Update: 21:03 / 13.01.2024
+
+Information
+
+Wegen Tiere auf der Strecke in Wassmannsdorf ist der Zugverkehr der Linien S45 und S9 zwischen Schönefeld und Flughafen BER unterbrochen.
+
+Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur am Zug in Bornholmer Straße beendet ###
