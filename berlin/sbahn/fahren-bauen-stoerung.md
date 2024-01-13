@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur am Zug in Bornholmer Straße beendet ###
-
- Letztes Update: 22:16 / 13.01.2024
-
-Information
-
-Nach der Reparatur an einem Zug in Bornholmer Straße verkehrt die Linie S47 nur zwischen Spindlersfeld \<\> Tempelhof.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
