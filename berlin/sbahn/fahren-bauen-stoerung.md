@@ -2,6 +2,30 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur am Zug in Bornholmer Straße ###
+
+ Letztes Update: 16:08 / 13.01.2024
+
+Information
+
+Wegen der Reparatur an einem Zug in Bornholmer Straße ist die Linie S1 zwischen Südkreuz \<\> Schönholz unterbrochen.
+
+Die Linie S1 kann zwischen Schönholz \<\> Oranienburg nur im 20-Minuten-Takt angeboten werden.
+
+Es kommt auf den Linien S1, S2, S25, S41 und S85 zu Verspätungen und Ausfällen.
+
+Die Linie S25 verkehrt in Bornholmer Straße nur vom Gleis 1 (Bahnsteig in Richtung Gesundbrunnen).
+
+Die Linie S47 verkehrt derzeit nur Spindlersfeld \<\> Tempelhof.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
