@@ -6,17 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur am Zug in Bornholmer Straße ###
+### Reparatur am Zug in Bornholmer Straße beendet ###
 
- Letztes Update: 16:08 / 13.01.2024
+ Letztes Update: 17:18 / 13.01.2024
 
 Information
 
-Wegen der Reparatur an einem Zug in Bornholmer Straße ist die Linie S1 zwischen Südkreuz \<\> Schönholz unterbrochen.
+Nach der Reparatur an einem Zug in Bornholmer Straße kommt es auf den Linien S1, S2, S25, S41 und S85 zu Verspätungen, Ausfällen und nachfolgenden Änderungen:
 
-Die Linie S1 kann zwischen Schönholz \<\> Oranienburg nur im 20-Minuten-Takt angeboten werden.
-
-Es kommt auf den Linien S1, S2, S25, S41 und S85 zu Verspätungen und Ausfällen.
+Die Linie S1 kann zwischen Wollankstraße \<\> Oranienburg nur im 20-Minuten-Takt angeboten werden.
 
 Die Linie S25 verkehrt in Bornholmer Straße nur vom Gleis 1 (Bahnsteig in Richtung Gesundbrunnen).
 
