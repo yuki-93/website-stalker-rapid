@@ -4,39 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Tiere auf der Strecke Wassmannsdorf ###
-
- Letztes Update: 21:03 / 13.01.2024
-
-Information
-
-Wegen Tiere auf der Strecke in Wassmannsdorf ist der Zugverkehr der Linien S45 und S9 zwischen Schönefeld und Flughafen BER unterbrochen.
-
-Zur Umfahrung bitte die Verkehrsmittel der BVG benutzen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S85](https://sbahn.berlin/fahren/s85/)
+[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Reparatur am Zug in Bornholmer Straße beendet ###
 
- Letztes Update: 17:30 / 13.01.2024
+ Letztes Update: 22:16 / 13.01.2024
 
 Information
 
-Nach der Reparatur an einem Zug in Bornholmer Straße kommt es auf den Linien S1, S2, S25, S41 und S85 zu Verspätungen, Ausfällen und nachfolgenden Änderungen:
-
-Die Linie S1 verkehrt zwischen Halensee \<\> Oranienburg im 20-Minuten-Takt.
-
-Die Linie S47 verkehrt derzeit nur Spindlersfeld \<\> Tempelhof.
+Nach der Reparatur an einem Zug in Bornholmer Straße verkehrt die Linie S47 nur zwischen Spindlersfeld \<\> Tempelhof.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
