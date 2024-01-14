@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Bauarbeiten im Bereich Pichelsberg ###
 
- Letztes Update: 04:01 / 14.01.2024
+ Letztes Update: 05:01 / 14.01.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Pichelsberg muss der Zugverkehr der **Linie S3** in der **Nacht 14./15.01.2024 (So/Mo) in der Zeit von von ca. 21:30 Uhr bis ca. 04:00 Uhr** verändert durchgeführt werden.
+Wegen kurzfristiger Bauarbeiten im Bereich Pichelsberg muss der Zugverkehr der **Linie S3** in der **Nacht 14./15.01.2024 (So/Mo) in der Zeit von ca. 21:30 Uhr bis ca. 04:00 Uhr** verändert durchgeführt werden.
 
 **Zugverkehr wie folgt:**
 
