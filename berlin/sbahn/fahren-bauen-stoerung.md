@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz zwischen Storkower Straße und Frankfurter Allee ###
+
+ Letztes Update: 21:18 / 14.01.2024
+
+Information
+
+Wegen eines Polizeieinsatzes zwischen Storkower Straße und Frankfurter Allee ist der Zugverkehr zwischen Landberger Allee und Frankfurter Straße unterbrochen.
+
+Wir bitten um Verstndnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### kurzfristiger Bauarbeiten im Bereich Pichelsberg ###
