@@ -2,6 +2,28 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### kurzfristiger Bauarbeiten im Bereich Pichelsberg ###
+
+ Letztes Update: 01:18 / 14.01.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten im Bereich Pichelsberg muss der Zugverkehr der **Linie S3** in der **Nacht 14./15.01.2024 (So/Mo) in der Zeit von von ca. 21:30 Uhr bis ca. 04:00 Uhr** verändert durchgeführt werden.
+
+**Zugverkehr wie folgt:**
+
+* **Linie S3:** verkehrt Erkner \<\> Grunewald/ Olympiastadion
+
+Bitte nutzen Sie zwischen Westkreuz/ Olympiastadion und Spandau die Züge der Linie S9.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
