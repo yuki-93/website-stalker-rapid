@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz zwischen Storkower Straße und Frankfurter Allee ###
+### Polizeieinsatz zwischen Storkower Straße und Frankfurter Allee beendet ###
 
- Letztes Update: 21:18 / 14.01.2024
+ Letztes Update: 21:49 / 14.01.2024
 
 Information
 
-Wegen eines Polizeieinsatzes zwischen Storkower Straße und Frankfurter Allee ist der Zugverkehr zwischen Landberger Allee und Frankfurter Straße unterbrochen.
+Nach einem Polizeieinsatz zwischen Storkower Straße und Frankfurter Allee kommt es auf den Linien S2, S41, S42, S8 und S85 noch zu Ausfällen und Verspätungen.
 
 Wir bitten um Verstndnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
