@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Bauarbeiten im Bereich Pichelsberg ###
 
- Letztes Update: 02:53 / 14.01.2024
+ Letztes Update: 04:01 / 14.01.2024
 
 Information
 
