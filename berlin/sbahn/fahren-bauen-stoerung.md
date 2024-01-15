@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung eines Fahrgastes in Neukölln beendet ###
 
- Letztes Update: 13:46 / 15.01.2024
+ Letztes Update: 14:45 / 15.01.2024
 
 Information
 
 Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Neukölln kommt es auf den Linien S1, S2, S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
+
+Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
