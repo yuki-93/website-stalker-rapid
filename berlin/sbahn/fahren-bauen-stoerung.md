@@ -4,39 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Einschränkungen beim Ersatzverkehr mit Bussen (Linie S1A) beendet ###
+
+ Letztes Update: 16:02 / 15.01.2024
+
+Information
+
+Die Großdemonstration in der Innenstadt ist beendet. Die SEV-Linie S1A nimmt ihren Verkehr zwischen Südkreuz \<\> Schöneberg \<\> Friedrichstraße wieder auf.
+
+Es kommt aber noch zu Verspätungen und eventuellen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### ärztliche Versorgung eines Fahrgastes in Neukölln beendet ###
 
- Letztes Update: 14:45 / 15.01.2024
+ Letztes Update: 16:00 / 15.01.2024
 
 Information
 
 Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Neukölln kommt es auf den Linien S1, S2, S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
 
-Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Einschränkungen beim Ersatzverkehr mit Bussen (Linie S1A) ###
-
- Letztes Update: 12:56 / 15.01.2024
-
-Information
-
-Wegen zahlreicher Behinderungen im öffentlichen Straßenland durch die Großdemonstration in der Innenstadt musste der planmäßige Ersatzverkehr mit Bussen zwischen Südkreuz \<\> Schöneberg \<\> Friedrichstraße (**Linie S1A**) **eingestellt** werden.
-
-**Bitte beachten Sie**, dass es auch auf der Ersatzverkehrslinie (Bus S1B) zu Verspätungen und weiteren kurzfristigen Einschränkungen kommen kann.
-
-Bitte nutzen Sie zur weíträumigen Umfahrung in der Innenstadt andere S-Bahnlinien sowie die U-Bahnlinien der BVG.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
