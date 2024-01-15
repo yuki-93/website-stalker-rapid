@@ -4,33 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S2](https://sbahn.berlin/fahren/s2/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### Einschränkungen beim Ersatzverkehr mit Bussen (Linie S1A) beendet ###
+### Reparatur an einem Signal in Sonnenallee ###
 
- Letztes Update: 16:02 / 15.01.2024
-
-Information
-
-Die Großdemonstration in der Innenstadt ist beendet. Die SEV-Linie S1A nimmt ihren Verkehr zwischen Südkreuz \<\> Schöneberg \<\> Friedrichstraße wieder auf.
-
-Es kommt aber noch zu Verspätungen und eventuellen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### ärztliche Versorgung eines Fahrgastes in Neukölln beendet ###
-
- Letztes Update: 16:00 / 15.01.2024
+ Letztes Update: 16:26 / 15.01.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Neukölln kommt es auf den Linien S1, S2, S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Sonnenallee kommt es auf den Linien S2 und S42 zu Verspätungen und Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+* Die Linie **S2** verkehrt nur zwischen Bernau und Ostkreuz.
+* Die Linie **S42** verkehrt nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
