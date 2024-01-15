@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Einschränkungen beim Ersatzverkehr mit Bussen (Linie S1A) ###
 
- Letztes Update: 06:09 / 15.01.2024
+ Letztes Update: 06:59 / 15.01.2024
 
 Information
 
-Wegen zahlreicher Behinderungen im öffentlichen Straßenland durch die Großdemonstration in der Innenstadt muss der planmäßige Ersatzverkehr mit Bussen (Linie S1A) aus der Innenstadt zurückgezogen werden.
+Wegen zahlreicher Behinderungen im öffentlichen Straßenland durch die Großdemonstration in der Innenstadt musste der planmäßige Ersatzverkehr mit Bussen zwsichen Südkreuz \<\> Schöneberg \<\> Friedrichstraße (**Linie S1A**) **eingestellt** werden.
 
-Die betroffene Linie fährt wie folgt:
+**Bitte beachten Sie**, dass es auch auf der Ersatzverkehrslinie (Bus S1B) zu Verspätungen und weiteren kurzfristigen Einschränkungen kommen kann.
 
-* **Bus S1A**: fährt nur Südkreuz \<\> Schöneberg \<\> Anhalter Bahnhof
+Bitte nutzen Sie zur weíträumigen Umfahrung in der Innenstadt andere S-Bahnlinien sowie die U-Bahnlinien der BVG.
 
 Wir bitten um Ihr Verständnis.
 

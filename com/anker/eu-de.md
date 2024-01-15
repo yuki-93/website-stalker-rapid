@@ -320,8 +320,8 @@ Land/Region auswählen
 * [Deutschland Deutsch](https://www.anker.com/eu-de?ref=bottom_eu-de)
 * [Europe English](https://www.anker.com/eu-en?ref=bottom_eu-de)
 * [France Français](https://www.anker.com/fr?ref=bottom_eu-de)
-* [Italia Italiano](https://www.anker.com/it?ref=bottom_eu-de)
-* [España Español](https://www.anker.com/es?ref=bottom_eu-de)
+* [Italia Italiano](https://www.anker.com/eu-de?ref=bottom_eu-de)
+* [España Español](https://www.anker.com/eu-de?ref=bottom_eu-de)
 * Nordamerika
 * [United States English](https://www.anker.com/?ref=bottom_eu-de)
 * [Canada English](https://www.anker.com/ca?ref=bottom_eu-de)
