@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einem Signal in Sonnenallee beendet ###
-
- Letztes Update: 19:13 / 15.01.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Sonnenallee kommt es auf den Linien S2 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
