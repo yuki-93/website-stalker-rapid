@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Einschränkungen beim Ersatzverkehr mit Bussen (Linie S1A) ###
+
+ Letztes Update: 06:09 / 15.01.2024
+
+Information
+
+Wegen zahlreicher Behinderungen im öffentlichen Straßenland durch die Großdemonstration in der Innenstadt muss der planmäßige Ersatzverkehr mit Bussen (Linie S1A) aus der Innenstadt zurückgezogen werden.
+
+Die betroffene Linie fährt wie folgt:
+
+* **Bus S1A**: fährt nur Südkreuz \<\> Schöneberg \<\> Anhalter Bahnhof
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
