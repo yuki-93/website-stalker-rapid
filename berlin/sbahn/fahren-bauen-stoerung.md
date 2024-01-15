@@ -2,42 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz zwischen Storkower Straße und Frankfurter Allee beendet ###
-
- Letztes Update: 21:49 / 14.01.2024
-
-Information
-
-Nach einem Polizeieinsatz zwischen Storkower Straße und Frankfurter Allee kommt es auf den Linien S2, S41, S42, S8 und S85 noch zu Ausfällen und Verspätungen.
-
-Wir bitten um Verstndnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### kurzfristiger Bauarbeiten im Bereich Pichelsberg ###
-
- Letztes Update: 05:01 / 14.01.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten im Bereich Pichelsberg muss der Zugverkehr der **Linie S3** in der **Nacht 14./15.01.2024 (So/Mo) in der Zeit von ca. 21:30 Uhr bis ca. 04:00 Uhr** verändert durchgeführt werden.
-
-**Zugverkehr wie folgt:**
-
-* **Linie S3:** verkehrt Erkner \<\> Grunewald/ Olympiastadion
-
-Bitte nutzen Sie zwischen Westkreuz/ Olympiastadion und Spandau die Züge der Linie S9.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -131,29 +95,6 @@ Information
   * in der Gegenrichtung nach Grünau 4 bis 5 Minuten später
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28633)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Olympiastadion \<\> Spandau ###
-
-Nacht 14./15.01. (So/Mo), ca. 21.30 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28714&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21906&tx_sbbconstructions_list%5Bperiod%5D=17568&type=5679&cHash=334fc7c74b1a8c04f9109b857a23aaa1)
-
- Takt geändert
-
-Information
-
-* Taktänderung
-  *  Olympiastadion \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-pichelsberg-2/#con-28714)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
