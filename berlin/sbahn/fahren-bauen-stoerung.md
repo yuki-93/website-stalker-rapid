@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in einem Zug in Adlershof ###
-
- Letztes Update: 09:04 / 15.01.2024
-
-Information
-
-Wegen der ärztlichen Versorgung eines Fahrgastes in einem Zug in Adleshof ist der Zugverkehr der Linien S45 und S9 zwischen Schöneweide und Altglienicke und der Linien S46, S8 und S85 zwischen Schöneweide und Grünau unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Einschränkungen beim Ersatzverkehr mit Bussen (Linie S1A) ###
