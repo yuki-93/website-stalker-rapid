@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einer Weiche in Ostbahnhof ###
+### ärztliche Versorgung eines Fahrgastes in einem Zug in Adlershof ###
 
- Letztes Update: 07:36 / 15.01.2024
+ Letztes Update: 09:04 / 15.01.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Ostbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und vereinzelten Ausfällen.
+Wegen der ärztlichen Versorgung eines Fahrgastes in einem Zug in Adleshof ist der Zugverkehr der Linien S45 und S9 zwischen Schöneweide und Altglienicke und der Linien S46, S8 und S85 zwischen Schöneweide und Grünau unterbrochen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
- sonstige Einschränkungen
+ fährt nicht
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
