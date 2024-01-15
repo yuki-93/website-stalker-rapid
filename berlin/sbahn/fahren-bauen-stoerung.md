@@ -6,23 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### ärztliche Versorgung eines Fahrgastes in Neukölln ###
+### ärztliche Versorgung eines Fahrgastes in Neukölln beendet ###
 
- Letztes Update: 13:36 / 15.01.2024
+ Letztes Update: 13:46 / 15.01.2024
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Neukölln ist der Zugverkehr der Linien S1, S2, S41, S42, S45, S46 und S47 zwischen Treptower Park \<\> Neukölln **sowie** Baumschulenweg \<\> Köllnische heide \<\> Neukölln unterbrochen.
-
-* Die Linie **S1** verkehrt nur zwischen Oranienburg und Bundesplatz.
-* Die Linie **S41** fährt Neukölln \> Südkreuz \> Gesundbrunnen \> Ostkreuz \> Treptower Park.
-* Die Linie **S42** fährt Treptower Park \> Ostkreuz \> Gesundbrunnen \> Südkreuz \> Neukölln
-* Die Linie **S47** verkehrt nur zwischen Spindlersfeld und Schöneweide.
-* Die Linie **S45** verkehrt nur zwischen Flughafen BER und Schöneweide.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Neukölln kommt es auf den Linien S1, S2, S41, S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
