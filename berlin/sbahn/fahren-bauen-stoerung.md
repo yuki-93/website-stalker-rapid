@@ -4,21 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### ärztliche Versorgung eines Fahrgastes in Jannowitzbrücke beendet ###
+### Gegenstände auf der Strecke in Lankwitz ###
 
- Letztes Update: 14:30 / 16.01.2024
+ Letztes Update: 15:45 / 16.01.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen Gegenständen auf der Strecke in Lankwitz ist der Zugverkehr der Linien S25 und S26 zwischen Lichterfelde Ost und Südende unterbrochen.
 
-Die zusätzlichen Züge der Linie S3 zwischen Ostbahnhof und Karlshorst **sowie** der Linie S5 zwischen Ostbahnhof/ Warschauer Straße und Mahlsdorf fahren nicht.
+**Zur weiträumigen Umfahrung nutzen Sie bitte**
+
+* zwischen Lichterfelde Ost \<\> Lankwitz Kirche \<\> Attilastr. die BVG-Buslinie 184,
+* zwischen Lichterfelde Ost und Lankwitz die BVG-Buslinie 284,
+* zwischen Südende und Attliastr. die BVG-Buslinie 282,
+* zwischen Lichterfelde Ost und Südkreuz die Regionalbahnlinien RE3, RE4 und RE8,
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
