@@ -6,13 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Jannowitzbrücke ###
+### ärztliche Versorgung eines Fahrgastes in Jannowitzbrücke beendet ###
 
- Letztes Update: 14:17 / 16.01.2024
+ Letztes Update: 14:30 / 16.01.2024
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Die zusätzlichen Züge der Linie S3 zwischen Ostbahnhof und Karlshorst **sowie** der Linie S5 zwischen Ostbahnhof/ Warschauer Straße und Mahlsdorf fahren nicht.
 
 Wir bitten um Ihr Verständnis.
 
