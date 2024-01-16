@@ -6,17 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Polizeieinsatz zwischen Südkreuz und Schöneberg ###
+### Polizeieinsatz zwischen Südkreuz und Schöneberg beendet ###
 
- Letztes Update: 18:04 / 16.01.2024
+ Letztes Update: 18:21 / 16.01.2024
 
 Information
 
-Wegen eines Polizeieinsatzes zwischen Südkreuz und Schöneberg kommt es auf den Linien S1, S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz zwischen Südkreuz und Schöneberg kommt es auf den Linien S1, S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
 
-* Die **Linie S1** fährt nur zwischen Oranienburg und **Bundesplatz,** *der 10-Minuten-Takt besteht planmäßig zwischen Frohnau und Halensee.*
-* Die **Linien S41 und S42** verkehren nur im 10-Minuten-Takt.
-* Die **Linie S47** fährt nur zwischen Spindlersfeld \<\> Schöneweide.
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
