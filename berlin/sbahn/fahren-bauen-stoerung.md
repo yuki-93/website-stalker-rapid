@@ -20,22 +20,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unterbrochen
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur am Bahnübergang Eichwalde ###
-
- Letztes Update: 04:34 / 16.01.2024
-
-Information
-
-Wegen einer Reparatur am Bahnübergang in Eichwalde kommt es auf der Linie S46 zu Verspätungen und folgenden Einschränkungen:
-
-* Die Linie S8 verkehrt nur zwischen Birkenwerder und Grünau.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
