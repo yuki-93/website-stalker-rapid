@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz zwischen Südkreuz und Schöneberg beendet ###
 
- Letztes Update: 18:21 / 16.01.2024
+ Letztes Update: 20:09 / 16.01.2024
 
 Information
 
-Nach einem Polizeieinsatz zwischen Südkreuz und Schöneberg kommt es auf den Linien S1, S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+Nach einem Polizeieinsatz zwischen Südkreuz und Schöneberg verkehren die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
