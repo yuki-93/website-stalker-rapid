@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### Reparatur am Zug in Oberspree ###
-
- Letztes Update: 04:47 / 16.01.2024
-
-Information
-
-Wegen einer Reparatur am Zug in Oberspree ist der Zugverkehr der Linie S1 (S47) zwischen Spindlersfeld und Schöneweide unterbrochen.
-
-*Bitte nutzen Sie zur Umfahrung zwischen Schöneweide und Adlershof die Linien S45, S46, S8 und S9 sowie zwischen Adlershof und Spindlersfeld die Tram-Linien 61 und 63.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
