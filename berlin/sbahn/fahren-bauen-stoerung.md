@@ -6,24 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Gegenstände auf der Strecke in Lankwitz ###
+### Gegenstände auf der Strecke in Lankwitz beseitigt ###
 
- Letztes Update: 15:45 / 16.01.2024
+ Letztes Update: 16:51 / 16.01.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke in Lankwitz ist der Zugverkehr der Linien S25 und S26 zwischen Lichterfelde Ost und Südende unterbrochen.
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte**
-
-* zwischen Lichterfelde Ost \<\> Lankwitz Kirche \<\> Attilastr. die BVG-Buslinie 184,
-* zwischen Lichterfelde Ost und Lankwitz die BVG-Buslinie 284,
-* zwischen Südende und Attliastr. die BVG-Buslinie 282,
-* zwischen Lichterfelde Ost und Südkreuz die Regionalbahnlinien RE3, RE4 und RE8,
+Nach Gegenständen auf der Strecke in Lankwitz kommt es auf den Linien S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
