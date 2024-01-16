@@ -4,19 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Gegenstände auf der Strecke in Lankwitz beseitigt ###
+### Polizeieinsatz zwischen Südkreuz und Schöneberg ###
 
- Letztes Update: 16:51 / 16.01.2024
+ Letztes Update: 18:04 / 16.01.2024
 
 Information
 
-Nach Gegenständen auf der Strecke in Lankwitz kommt es auf den Linien S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes zwischen Südkreuz und Schöneberg kommt es auf den Linien S1, S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
+
+* Die **Linie S1** fährt nur zwischen Oranienburg und **Bundesplatz,** *der 10-Minuten-Takt besteht planmäßig zwischen Frohnau und Halensee.*
+* Die **Linien S41 und S42** verkehren nur im 10-Minuten-Takt.
+* Die **Linie S47** fährt nur zwischen Spindlersfeld \<\> Schöneweide.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung verspätet
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
