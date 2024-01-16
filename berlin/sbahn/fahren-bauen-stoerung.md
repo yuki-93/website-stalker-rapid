@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### kurzfristiger Personalausfall S2 (südlicher Teil) ###
-
- Letztes Update: 10:11 / 16.01.2024
-
-Information
-
-Wegen kurzfristigen Personalausfall besteht auf der Linie S2 (südlicher Teil) nur ein 20 Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)

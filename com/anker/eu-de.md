@@ -107,12 +107,6 @@ Entdecke Anker Innovations
 
   [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_3)
 
-* ### Powervoll ins neue Jahr! ###
-
-  Bis zu 1.700€ sparen
-
-  [Jetzt einkaufenPowervoll ins neue Jahr!](https://www.anker.com/eu-de/anker-solix/tragbare-powerstation-angebote-pps?ref=productBanner7_4)
-
 * ###
 
   Limitierter Deal
@@ -125,7 +119,7 @@ Entdecke Anker Innovations
 
   600W Mikroinverter, erweiterbar auf 800W
 
-  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_5)
+  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
 
 Was macht Anker so besonders?
 ----------
