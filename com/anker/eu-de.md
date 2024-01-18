@@ -83,7 +83,7 @@ Anker-Innovationen nach Kategorie filtern
 * [Kabellos](https://www.anker.com/eu-de/collections/kabelloses-zubehor?ref=homePageBanner)
 * [Kabel](https://www.anker.com/eu-de/collections/kabel?ref=homePageBanner)
 * [Hubs & Docks](https://www.anker.com/eu-de/collections/adapter-hubs?ref=homePageBanner)
-* [Balkonkraftwerk](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=homePageBanner)
+* [Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-800-watt-erlaubt?ref=homePageBanner)
 * [Ladestationen](https://www.anker.com/eu-de/ankerpower?ref=homePageBanner)
 
 Entdecke Anker Innovations
@@ -155,7 +155,7 @@ Entdecke das neueste Tech-Zubehör
 
   800W Mikro-Wechselrichter Auswirkungen auf die Verbraucherperspektive, sowie zukünftige Entwicklungen einzelner Solarmodule.
 
-  [Mehr erfahren \>\>](https://www.anker.com/eu-de/blogs/balkonkraftwerk/800w-politik-und-ihre-auswirkungen-auf-die-verbraucherperspektive-sowie-zukuenftige-entwicklungen?ref=homePageBanner)
+  [Mehr erfahren \>\>](https://www.anker.com/eu-de/blogs/balkonkraftwerk-mit-speicher/endlich-eine-leistung-von-800w?ref=homePageBanner)
 
 * Die Technologie hinter Anker Plug and Play Balkonkraftwerken verstehen
 
