@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten im Bereich Schöneweide ###
 
- Letztes Update: 23:05 / 18.01.2024
+ Letztes Update: 23:57 / 18.01.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Schöneweide wird der Zugverkehr der Linien S45, S46, S8 und S9 **ab ca. 23:45 Uhr bis morgen früh ca. 04:00 Uhr** zwischen Schöneweide und Grünau bzw. Altglienicke unterbrochen und ein **Ersatzverkehr mit Bussen** eingerichtet.
+Wegen kurzfristiger Bauarbeiten in Schöneweide ist der Zugverkehr der Linien S45, S46, S8 und S9 **bis morgen früh ca. 04:00 Uhr** zwischen Schöneweide und Grünau bzw. Altglienicke unterbrochen und ein **Ersatzverkehr mit Bussen** eingerichtet.
 
 **Die betroffenen Linien verkehren wie folgt:**
 
@@ -20,22 +20,6 @@ Wegen kurzfristiger Bauarbeiten in Schöneweide wird der Zugverkehr der Linien 
 * **Linie S46:** Westend \<\> Schöneweide *sowie* Grünau \<\> Königs Wusterhausen
 * **Linie S8**: Birkenwerder/ Blankenburg \<\> Schöneweide
 * **Linie S9:** Spandau \<\> Schöneweide *sowie* Altglienicke \<\> Flughafen BER
-
----
-
-**letzte durchfahrende Züge:**
-
-* **Linie S46:**
-  * ​​​​Königs Wusterhausen ab 23:01 Uhr \> Westend an 23:59 Uhr
-  * Westend ab 22:36 Uhr \> Königs Wusterhausen an 23:36 Uhr
-
-* **Linie S8:**
-  * Birkenwerder ab 22:24 Uhr \> Grünau an 23:27 Uhr
-  * Grünau ab 23:29 Uhr \> Blankenburg an 20:12 Uhr
-
-* **Linie S9:**
-  * Flughafen BER ab 23:09 Uhr \> Spandau an 00:27 Uhr
-  * Spandau ab 22:18 Uhr \> Flughafen BER an 23:36 Uhr
 
 ---
 
@@ -48,13 +32,13 @@ Wegen kurzfristiger Bauarbeiten in Schöneweide wird der Zugverkehr der Linien 
 * S-Bhf. Grünau: Richterstraße
 * S-Bhf. Altglienicke: P+R Parkplatz (Paradiesstraße)
 
-**Beachten Sie bitte: wegen Bauarbeiten im öffentlichen Straßenland auf dem Adlergestell kann der Halt am S-Bahf. Johannisthal nicht angeboten werden.**
+**Beachten Sie bitte: wegen Bauarbeiten im öffentlichen Straßenland auf dem Adlergestell kann der Halt am S-Bhf. Johannisthal nicht angeboten werden.**
 
 ---
 
 **Diese Bauarbeiten sind aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten.**
 
-Wir bitten um Entschuldigung
+Wir bitten um Entschuldigung.
 
  fährt nicht  Verbindung unterbrochen
 
