@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten im Bereich Schöneweide ###
 
- Letztes Update: 21:50 / 18.01.2024
+ Letztes Update: 23:05 / 18.01.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Schöneweide muss der Zugverkehr der Linien S45, S46, S8 und S9 **in der heutigen Nacht (18./19.01.2024 (Do/Fr)), in der Zeit von ca. 23:45 Uhr bis ca. 04:00 Uhr** zwischen Schöneweide und Grünau bzw. Altglienicke unterbrochen und ein **Ersatzverkehr mit Bussen** eingerichtet werden.
+Wegen kurzfristiger Bauarbeiten in Schöneweide wird der Zugverkehr der Linien S45, S46, S8 und S9 **ab ca. 23:45 Uhr bis morgen früh ca. 04:00 Uhr** zwischen Schöneweide und Grünau bzw. Altglienicke unterbrochen und ein **Ersatzverkehr mit Bussen** eingerichtet.
 
 **Die betroffenen Linien verkehren wie folgt:**
 
@@ -24,10 +24,6 @@ Wegen kurzfristiger Bauarbeiten in Schöneweide muss der Zugverkehr der Linien 
 ---
 
 **letzte durchfahrende Züge:**
-
-* **Line S45:**
-  * Südkreuz ab 22:08 Uhr \> Flughafen BER an 22:46 Uhr
-  * Flughafen BER ab 21:57 Uhr \> Südkreuz an 22:37 Uhr
 
 * **Linie S46:**
   * ​​​​Königs Wusterhausen ab 23:01 Uhr \> Westend an 23:59 Uhr
