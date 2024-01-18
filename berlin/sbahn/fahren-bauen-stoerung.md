@@ -2,6 +2,64 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### kurzfristige Bauarbeiten im Bereich Schöneweide ###
+
+ Letztes Update: 15:12 / 18.01.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Schöneweide muss der Zugverkehr der Linien S45, S46, S8 und S9 **in der heutigen Nacht (18./19.01.2024 (Do/Fr)), in der Zeit von ca. 23:45 Uhr bis ca. 04:00 Uhr** zwischen Schöneweide und Grünau bzw. Altglienicke unterbrochen und ein **Ersatzverkehr mit Bussen** eingerichtet werden.
+
+**Die betroffenen Linien verkehren wie folgt:**
+
+* **Linie S45:** verkehrt nicht
+* **Linie S46:** Westend \<\> Baumschulenweg sowie Grünau \<\> Königs Wusterhausen
+* **Linie S8**: Birkenwerder/ Blankenburg \<\> Schöneweide
+* **Linie S9:** Spandau \<\> Schöneweide sowie Altglienicke \<\> Flughafen BER
+
+---
+
+**letzte durchfahrende Züge:**
+
+* **Line S45:**
+  * Südkreuz ab 22:08 Uhr \> Flughafen BER an 22:46 Uhr
+  * Flughafen BER ab 21:57 Uhr \> Südkreuz an 22:37 Uhr
+
+* **Linie S46:**
+  * ​​​​Königs Wusterhausen ab 23:01 Uhr \> Westend an 23:59 Uhr
+  * Westend ab 22:36 Uhr \> Königs Wusterhausen an 23:36 Uhr
+
+* **Linie S8:**
+  * Birkenwerder ab 22:24 Uhr \> Grünau an 23:27 Uhr
+  * Grünau ab 23:29 Uhr \> Blankenburg an 20:12 Uhr
+
+* **Linie S9:**
+  * Flughafen BER ab 23:09 Uhr \> Spandau an 00:27 Uhr
+  * Spandau ab 22:18 Uhr \> Flughafen BER an 23:36 Uhr
+
+---
+
+**Ersatzverkehr mit Bussen besteht zwischen Schöneweide und Altglienicke, über Adlershof und Grünau.**
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S Schöneweide: Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)
+* S Adlershof: Adlergestell in Höhe Dörpfeldstraße
+* S Grünau: Richterstraße
+* S Altglienicke: P+R Parkplatz (Paradiesstraße)
+
+---
+
+**Diese Bauarbeiten sind aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten.**
+
+Wir bitten um Entschuldigung
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
