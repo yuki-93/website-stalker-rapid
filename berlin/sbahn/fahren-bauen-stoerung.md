@@ -2,46 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Bauarbeiten im Bereich Schöneweide ###
-
- Letztes Update: 23:57 / 18.01.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Schöneweide ist der Zugverkehr der Linien S45, S46, S8 und S9 **bis morgen früh ca. 04:00 Uhr** zwischen Schöneweide und Grünau bzw. Altglienicke unterbrochen und ein **Ersatzverkehr mit Bussen** eingerichtet.
-
-**Die betroffenen Linien verkehren wie folgt:**
-
-* **Linie S45:** verkehrt nicht
-* **Linie S46:** Westend \<\> Schöneweide *sowie* Grünau \<\> Königs Wusterhausen
-* **Linie S8**: Birkenwerder/ Blankenburg \<\> Schöneweide
-* **Linie S9:** Spandau \<\> Schöneweide *sowie* Altglienicke \<\> Flughafen BER
-
----
-
-**Ein Ersatzverkehr mit Bussen besteht zwischen Schöneweide und Altglienicke, über Adlershof und Grünau.**
-
-**Haltestellen des Ersatzverkehrs:**
-
-* S-Bhf. Schöneweide: Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)
-* S-Bhf. Adlershof: Adlergestell in Höhe Dörpfeldstraße
-* S-Bhf. Grünau: Richterstraße
-* S-Bhf. Altglienicke: P+R Parkplatz (Paradiesstraße)
-
-**Beachten Sie bitte: wegen Bauarbeiten im öffentlichen Straßenland auf dem Adlergestell kann der Halt am S-Bhf. Johannisthal nicht angeboten werden.**
-
----
-
-**Diese Bauarbeiten sind aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten.**
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
