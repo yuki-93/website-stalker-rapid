@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsatz im Bereich Strausberg Stadt ###
-
- Letztes Update: 23:15 / 19.01.2024
-
-Information
-
-Wegen eines Polizeieinsatzes im Bereich Strausberg Stadt ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
