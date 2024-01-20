@@ -4,17 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz zwischen Baumschulenweg und Treptower Park bzw. Neukölln ###
+### Polizeieinsatz zwischen Baumschulenweg und Treptower Park bzw. Neukölln beendet ###
 
- Letztes Update: 22:02 / 20.01.2024
+ Letztes Update: 23:13 / 20.01.2024
 
 Information
 
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S45, S46 und S47 zwischen Baumschulenweg und Neukölln **sowie** der Linien S8, S85 und S9 zwischen Baumschulenweg und Treptower Park unterbrochen.
+Nach einem Polizeieinsatz zwischen Baumschulenweg und Neukölln bzw. Treptower Park kommt es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz in Zeuthen ###
+
+ Letztes Update: 23:11 / 20.01.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Zeuthen ist der Zugverkehr der Linie S46 zwischen Zeuthen \<\> Königs Wusterhausen unterbrochen.
+
+Wir bitten um Verständnis.
 
  fährt nicht  Verbindung unterbrochen
 
