@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Einschränkungen beim Ersatzverkehr mit Bussen (Linie S1A) ###
+
+ Letztes Update: 11:47 / 20.01.2024
+
+Information
+
+Wegen einer Demonstration kommt es beim Ersatzverkehr mit Bussen (Linie S1A) zwischen Südkreuz und Friedrichstraße zu Verspätungen und Fahrtausfällen.
+*Die Bahnhöfe Yorckstraße und Großgörschenstraße sowie Anhalter Bahnhof können aktuell nicht angefahren werden.*
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
