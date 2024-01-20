@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an der Strecke Ahrensfelde ###
-
- Letztes Update: 07:21 / 20.01.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke im Bereich Ahrensfelde kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Potsdam Hbf und Marzahn angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
