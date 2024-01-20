@@ -4,20 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Tiergarten beendet ###
+
+ Letztes Update: 12:48 / 20.01.2024
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Tiergarten kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Einschränkungen beim Ersatzverkehr mit Bussen (Linie S1A) ###
 
- Letztes Update: 11:47 / 20.01.2024
+ Letztes Update: 12:32 / 20.01.2024
 
 Information
 
-Wegen einer Demonstration kommt es beim Ersatzverkehr mit Bussen (Linie S1A) zwischen Südkreuz und Friedrichstraße zu Verspätungen und Fahrtausfällen.
-*Die Bahnhöfe Yorckstraße und Großgörschenstraße sowie Anhalter Bahnhof können aktuell nicht angefahren werden.*
+Wegen einer Demonstration ist der Ersatzverkehr mit Bussen (Linie S1A) zwischen Südkreuz und Friedrichstraße unterbrochen.
+*Bitte nutzen Sie zur weiträumigen Umfahrung ab Friedrichstraße die Linien S3, S5, S7 und S9 über Westkreuz oder Ostkreuz und zwischen Westkreuz/ Ostkreuz und Südkreuz/ Schöneberg die Ringbahnlinien S41 und S42.*
 
 Wir bitten um Ihr Verständnis.
 
- Ersatzverkehr  Verbindung unregelmäßig
+ Ersatzverkehr  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
