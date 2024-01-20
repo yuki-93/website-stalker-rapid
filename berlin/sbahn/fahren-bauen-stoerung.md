@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Polizeieinsatz in Lichtenrade beendet ###
+
+ Letztes Update: 21:15 / 20.01.2024
+
+Information
+
+Nach einem Polizeieinsatz in Lichtenrade kann es auf der Linie S2 noch zu Verspätungen und eventuellen Ausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
