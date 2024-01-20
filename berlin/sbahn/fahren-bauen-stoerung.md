@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Lichtenrade beendet ###
+### Polizeieinsatz zwischen Baumschulenweg und Treptower Park bzw. Neukölln ###
 
- Letztes Update: 21:15 / 20.01.2024
+ Letztes Update: 22:02 / 20.01.2024
 
 Information
 
-Nach einem Polizeieinsatz in Lichtenrade kann es auf der Linie S2 noch zu Verspätungen und eventuellen Ausfällen kommen.
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S45, S46 und S47 zwischen Baumschulenweg und Neukölln **sowie** der Linien S8, S85 und S9 zwischen Baumschulenweg und Treptower Park unterbrochen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
