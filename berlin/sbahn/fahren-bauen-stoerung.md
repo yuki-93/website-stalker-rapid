@@ -4,33 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz zwischen Baumschulenweg und Treptower Park bzw. Neukölln beendet ###
-
- Letztes Update: 23:13 / 20.01.2024
-
-Information
-
-Nach einem Polizeieinsatz zwischen Baumschulenweg und Neukölln bzw. Treptower Park kommt es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S46](https://sbahn.berlin/fahren/s46/)
 
-### Polizeieinsatz in Zeuthen ###
+### Polizeieinsatz in Zeuthen beendet ###
 
- Letztes Update: 23:11 / 20.01.2024
+ Letztes Update: 00:07 / 21.01.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Zeuthen ist der Zugverkehr der Linie S46 zwischen Zeuthen \<\> Königs Wusterhausen unterbrochen.
+Nach einem Polizeieinsatz in Zeuthen kommt es auf der Linie S46 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung verspätet
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Schöneweide ###
+
+ Letztes Update: 23:41 / 20.01.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Schöneweide kommt es auf den Linien S45, S46, S47, S8 und S9 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -242,6 +242,26 @@ Information
   * in der Gegenrichtung nach Grünau 4 bis 5 Minuten später
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28633)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Wannsee \<\> Griebnitzsee ###
+
+Nacht 22./23.01. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28643&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21822&tx_sbbconstructions_list%5Bperiod%5D=17561&type=5679&cHash=1110b447139c0ed2a9fc2eb44946e007)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen: Wannsee \<\> Griebnitzsee
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-wannsee-5/#con-28643)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
