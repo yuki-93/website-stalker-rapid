@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz Grünau ###
+### Polizeieinsatz Grünau beendet ###
 
- Letztes Update: 15:05 / 20.01.2024
+ Letztes Update: 15:26 / 20.01.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Grünau ist der Zugverkehr der Linien S46 und S8 in diesem Bereich unterbrochen.
+Nach einem Polizeieinsatz in Grünau kann es auf den Linien S46 und S8 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
