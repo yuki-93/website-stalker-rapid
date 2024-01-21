@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Einschränkungen beim Ersatzverkehr mit Bussen, Linien S1A und S1B ###
+
+ Letztes Update: 17:24 / 21.01.2024
+
+Information
+
+Wegen einer Demonstration im Innenstadtbereich ist der Ersatzverkehr mit Bussen der **Linie S1A** zwischen Anhalter Bahnhof und Friedrichstraße **sowie** der **Linie S1B** zwischen Friedrichstraße und Gesundbrunnen eingestellt.
+
+*Bitte nutzen Sie zur weiträumigen Umfahrung ab Friedrichstraße die Linien S3, S5, S7 und S9 über Westkreuz oder Ostkreuz und zwischen Westkreuz/ Ostkreuz und Südkreuz/ Schöneberg die Ringbahnlinien S41 und S42.*
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
