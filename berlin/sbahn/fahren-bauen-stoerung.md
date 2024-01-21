@@ -4,18 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an der Strecke Pichelsberg ###
+### Tiere auf der Strecke in Treptower Park ###
 
- Letztes Update: 10:14 / 21.01.2024
+ Letztes Update: 10:26 / 21.01.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke im Bereich Pichelsberg verkehrt die Linie S3 nur zwischen Erkner und Pichelsberg.
-*Bitte nutzen Sie zwischen Pichelsberg und Spandau die Linie S9.*
+Wegen Tieren auf der Strecke in Treptower Park kommt es auf den Linien S2, S41, S42, S8, S85 und S9 zu Verspätungen und Zugausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
