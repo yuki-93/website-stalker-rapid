@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Einschränkungen beim Ersatzverkehr mit Bussen Linie S1A beendet ###
-
- Letztes Update: 19:16 / 21.01.2024
-
-Information
-
-Der Ersatzverkehr mit Bussen der **Linie S1A** verkehrt wieder zwischen Südkreuz und Friedrichstraße, es kann noch zu Verspätungen und einzelnen Ausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
