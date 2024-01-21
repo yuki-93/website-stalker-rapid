@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Weichenstörung Schöneweide ###
+
+ Letztes Update: 09:00 / 21.01.2024
+
+Information
+
+Wegen einer Reparatur an einer Weiche in Schöneweide kommt es auf den Linien S1, S2, S45, S46, S47, S8, S85 und S9 zu Verspätungen und Zugausfällen sowie folgenden Einschränkungen:
+
+* Linie S1 (S47) verkehrt zwischen Oranienburg/ Frohnau und Halensee/ Südkreuz sowie zwischen Schöneweide und Spindlerfeld
+* Linie S2 (S85) verkehrt zwischen Buch und Greifswalder Straße
+* Linie S8 verkehrt zwischen Birkenwerder und Ostkreuz
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
