@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Tiere auf der Strecke in Treptower Park ###
 
- Letztes Update: 10:26 / 21.01.2024
+ Letztes Update: 11:55 / 21.01.2024
 
 Information
 
-Wegen Tieren auf der Strecke in Treptower Park kommt es auf den Linien S2, S41, S42, S8, S85 und S9 zu Verspätungen und Zugausfällen.
+Wegen Tieren auf der Strecke in Treptower Park verkehren die Linien S41 und S42 nur im 10-Minuten-Takt.
 
 Wir bitten um Ihr Verständnis.
 
