@@ -4,6 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an der Strecke Pichelsberg ###
+
+ Letztes Update: 10:14 / 21.01.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke im Bereich Pichelsberg verkehrt die Linie S3 nur zwischen Erkner und Pichelsberg.
+*Bitte nutzen Sie zwischen Pichelsberg und Spandau die Linie S9.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Weichenstörung Schöneweide ###
