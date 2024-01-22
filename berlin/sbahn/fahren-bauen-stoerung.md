@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Notarzteinsatz auf der Strecke im Bereich Grünbergallee ###
+
+ Letztes Update: 00:17 / 23.01.2024
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke im Bereich Grünbergallee ist der Zugverkehr der Linien S45 und S9 zwischen Altglienicke und Schönefeld unterbrochen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -232,26 +248,6 @@ Information
   * in der Gegenrichtung nach Grünau 4 bis 5 Minuten später
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28633)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Wannsee \<\> Griebnitzsee ###
-
-Nacht 22./23.01. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28643&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21822&tx_sbbconstructions_list%5Bperiod%5D=17561&type=5679&cHash=1110b447139c0ed2a9fc2eb44946e007)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen: Wannsee \<\> Griebnitzsee
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-wannsee-5/#con-28643)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
@@ -413,31 +409,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einhub-des-ueberbaus-fuer-die-neue-fussgaengerbruecke-ueber-das-adlergestell/#con-28616)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Ring ###
-
-05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28630&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=8bfdfd77aa4cde1ef5c5c5eb95d1ad97)
-
- Takt geändert
-
-Information
-
-* Die Linien S41/42 fahren Mo-Fr während der Hauptverkehrszeiten statt im durchgehenden 5-Minutentakt in einem 5-/5-/10-Minutentakt.
-  * Das bedeutet: Innerhalb von 20 Minuten fahren drei Züge nacheinander im Abstand von 5 und 5 und 10 Minuten.
-
-* Einzelne Züge auf der S42 fahren auf dem gesamten Ring um 10 Minuten versetzt
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28630)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
-
-Hinweis
-
-Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
@@ -462,6 +433,31 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleissperrung-fuer-arbeiten-bei-der-fernbahn-1/#con-28716)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Ring ###
+
+05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28630&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=8bfdfd77aa4cde1ef5c5c5eb95d1ad97)
+
+ Takt geändert
+
+Information
+
+* Die Linien S41/42 fahren Mo-Fr während der Hauptverkehrszeiten statt im durchgehenden 5-Minutentakt in einem 5-/5-/10-Minutentakt.
+  * Das bedeutet: Innerhalb von 20 Minuten fahren drei Züge nacheinander im Abstand von 5 und 5 und 10 Minuten.
+
+* Einzelne Züge auf der S42 fahren auf dem gesamten Ring um 10 Minuten versetzt
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28630)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
+
+Hinweis
+
+Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
