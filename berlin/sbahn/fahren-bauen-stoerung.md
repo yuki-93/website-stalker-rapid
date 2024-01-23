@@ -8,14 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Baumschulenweg und Schöneweide ###
 
- Letztes Update: 13:10 / 23.01.2024
+ Letztes Update: 14:35 / 23.01.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke im Bereich Baumschulenweg und Schöneweide kommt es auf den Linien S1, S2, S45 ,S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
+Wegen einer Reparatur an der Strecke im Bereich Baumschulenweg und Schöneweide kann es auf den Linien S1, S2, S45 ,S46, S47, S8, S85 und S9 zu Verspätungen kommen.
 
-* Linie S2 verkehrt nur im 20-Minuten-Takt
-* Linie S85 verkehrt nicht
+* Die Linie S85 verkehrt nicht zwischen Greifswalder Straße und Grünau.
 
 Wir bitten um Entschuldigung.
 
@@ -435,6 +434,80 @@ Information
 * Einzelne Züge auf der S42 fahren auf dem gesamten Ring um 10 Minuten versetzt
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28630)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
+
+### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Friedrichstraße \> Grunewald ###
+
+26.01.(Fr), 1:36 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26186&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19235&tx_sbbconstructions_list%5Bperiod%5D=17584&type=5679&cHash=f83e8d2fdf43af066e52d849966febba)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:36 Uhr in Friedrichstraße.
+* Der Zug fällt von Friedrichstraße bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \> Ostbahnhof ###
+
+26.01. (Fr), 3:02 Uhr bis 3:24 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26784&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19879&tx_sbbconstructions_list%5Bperiod%5D=17585&type=5679&cHash=7bc1cf4ba9c8f06f4858580c6ab4a795)
+
+ fährt nicht
+
+Information
+
+* Der Zug Charlottenburg ab 3:02 nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:24 Uhr in Ostbahnhof.
+* Der Zug fällt von Charlottenburg bis Ostbahnhof aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Friedrichstraße ###
+
+26.01. (Fr), 3:12 bis 3:28 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=15793&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=13068&tx_sbbconstructions_list%5Bperiod%5D=17586&type=5679&cHash=2058e2cf36bc8e48209d4fde77840893)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:28 Uhr in Friedrichstraße.
+* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \> Friedrichstraße ###
+
+26.01. (Fr), 3:32 Uhr bis 3:48 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=17822&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=14045&tx_sbbconstructions_list%5Bperiod%5D=17587&type=5679&cHash=1599d1db5c1a787293a9924f3a818584)
+
+ fährt nicht
+
+Information
+
+* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER (an 4:36 Uhr) beginnt erst um 3:48 Uhr in Friedrichstraße.
+* Der Zug fällt von Westkreuz bis Friedrichstraße aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
 
 Hinweis
 
