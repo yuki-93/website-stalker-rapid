@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an der Strecke im Bereich Baumschulenweg und Schöneweide ###
+
+ Letztes Update: 10:35 / 23.01.2024
+
+Information
+
+Wegen der Reparatur an der Strecke im Bereich Baumschulenweg und Schöneweide kommt es auf den Linien S1, S2, S45 ,S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
+
+* Linie S2 verkehrt nur im 20-Minuten-Takt
+* Linie S45 verkehrt nicht
+* Linie S85 verkehrt nicht
+
+ Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
