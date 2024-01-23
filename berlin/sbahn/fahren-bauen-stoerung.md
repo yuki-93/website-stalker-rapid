@@ -8,16 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Baumschulenweg und Schöneweide ###
 
- Letztes Update: 11:55 / 23.01.2024
+ Letztes Update: 13:10 / 23.01.2024
 
 Information
 
-Wegen der Reparatur an der Strecke im Bereich Baumschulenweg und Schöneweide kommt es auf den Linien S1, S2, S45 ,S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
+Wegen einer Reparatur an der Strecke im Bereich Baumschulenweg und Schöneweide kommt es auf den Linien S1, S2, S45 ,S46, S47, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
 
 * Linie S2 verkehrt nur im 20-Minuten-Takt
 * Linie S85 verkehrt nicht
 
- Wir bitten um Entschuldigung.
+Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung unregelmäßig
 
