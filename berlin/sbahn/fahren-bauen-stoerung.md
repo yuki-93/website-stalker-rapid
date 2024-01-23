@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an der Strecke im Bereich Baumschulenweg und Schöneweide ###
+### Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide ###
 
- Letztes Update: 14:35 / 23.01.2024
+ Letztes Update: 22:06 / 23.01.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke im Bereich Baumschulenweg und Schöneweide kann es auf den Linien S1, S2, S45 ,S46, S47, S8, S85 und S9 zu Verspätungen kommen.
-
-* Die Linie S85 verkehrt nicht zwischen Greifswalder Straße und Grünau.
+Wegen einer Reparatur an der Strecke zwischen Baumschulenweg und Schöneweide kann es auf den Linien S1, S2, S45 ,S46, S8 und S9 zu Verspätungen kommen.
 
 Wir bitten um Entschuldigung.
 
