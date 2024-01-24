@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
 
- Letztes Update: 02:32 / 24.01.2024
+ Letztes Update: 02:37 / 24.01.2024
 
 Information
 
@@ -21,7 +21,7 @@ Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke un
 * **Linie S5:** Strausberg Nord \<\> Ostbahnhof (\*)
 * **Linie S9:** Flughafen BER \<\> Friedrichstraße
 
-(\*) Diese Linie ab ca. 21 Uhr bis Betriebsschluss jeweils im 40-Minuten-Takt. Ausnahme: Freitag auf Samstag und Samstag auf Sonntag bis ca. 1 Uhr nachts im 20-Minuten-Takt, danach 30-Minuten-Takt.
+(\*) Diese Linie fährt ab ca. 21 Uhr bis Betriebsschluss (ca. 01:30 Uhr) jeweils im 40-Minuten-Takt. Ausnahme: von Freitag auf Samstag und von Samstag auf Sonntag bis ca. 1 Uhr nachts im 20-Minuten-Takt, danach bis ca. 5 Uhr (Samstag) bzw. ca. 7 Uhr (Sonntag) im 30-Minuten-Takt.
 
 **Dieser angestrebte Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
 
