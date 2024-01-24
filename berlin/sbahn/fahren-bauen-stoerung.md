@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
 
- Letztes Update: 21:18 / 24.01.2024
+ Letztes Update: 22:09 / 24.01.2024
 
 Information
 
@@ -23,7 +23,7 @@ Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke un
 
 (\*) Diese Linie fährt ab ca. 21 Uhr bis Betriebsschluss (ca. 01:30 Uhr) jeweils im 40-Minuten-Takt. Ausnahme: von Freitag auf Samstag und von Samstag auf Sonntag bis ca. 1 Uhr nachts im 20-Minuten-Takt, danach bis ca. 5 Uhr (Samstag) bzw. ca. 7 Uhr (Sonntag) im 30-Minuten-Takt.
 
-**Dieser angestrebte Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
+**Dieser Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
 
 ---
 
