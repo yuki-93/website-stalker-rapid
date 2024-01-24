@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Umgestürzter Baum im Bereich Hegermühle ###
+### Umgestürzter Baum im Bereich Hegermühle beräumt ###
 
- Letztes Update: 15:17 / 24.01.2024
+ Letztes Update: 19:13 / 24.01.2024
 
 Information
 
-Wegen eines umgestürzten Baumes im Bereich Hegermühle ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
-
-Zur Umfahrung nutzen Sie bitte die Tram 89 sowie die örtlichen Buslinien.
+Die Strecke im Bereich Hegermühle ist beräumt. Es kann auf der Linie S5 noch zu Verspätungen und Ausfällen kommen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
