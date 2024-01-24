@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
 
- Letztes Update: 02:37 / 24.01.2024
+ Letztes Update: 04:01 / 24.01.2024
 
 Information
 
 Wegen des Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **bis einschließlich Montag, den 29.01.2024, ca.18:00 Uhr**, zu Ausfällen im gesamten S-Bahn-Netz.
 
-Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **ab Betriebsbeginn (ca. 4 Uhr)** auf den folgenden Linien angeboten:
+Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **aktuell** auf den folgenden Linien angeboten:
 
 * **Linie S3:** Erkner \<\> Ostbahnhof (\*)
 * **Linie S46:** Königs Wusterhausen \<\> Schöneberg
@@ -35,8 +35,9 @@ Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke un
 ---
 
 **Zusätzlich wird ein Ersatzverkehr mit Bussen auf folgenden Linien angeboten.**
+ (Diese Busse fahren wochentags jeweils von ca. 4:00 Uhr bis 01:30 Uhr, in den Nächten Freitag/ Samstag und Samstag/ Sonntag auch im Nachtverkehr)
 
-**Bus S2:** Blankenfelde \<\> Südkreuz, im 10-Minuten-Takt.
+**Bus S2:** Blankenfelde \<\> Südkreuz, im 10-Minuten-Takt (im Nachtverkehr Fr/Sa und Sa/So im 30-Minuten-Takt)
 
 **Haltestellen des Ersatzverkehrs zwischen Blankenfelde \<\> Südkreuz:**
 
@@ -55,7 +56,7 @@ Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke un
 
 ---
 
-**Bus S25 (Süd):** zwischen Teltow Stadt und Lichterfelde Ost, im 10-Minuten-Takt
+**Bus S25 (Süd):** zwischen Teltow Stadt und Lichterfelde Ost, im 10-Minuten-Takt (im Nachtverkehr Fr/Sa und Sa/So im 30-Minuten-Takt)
 
 **Haltestellen des Ersatzverkehrs zwischen Teltow Stadt \<\> Lichterfelde Ost:**
 
@@ -66,7 +67,7 @@ Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke un
 
 ---
 
-**Bus S25 (Nord):** zwischen Hennigsdorf \<\> U Paracelsus-Bad (U8), im 20-Minuten-Takt
+**Bus S25 (Nord):** zwischen Hennigsdorf \<\> U Paracelsus-Bad (U8), im 20-Minuten-Takt (im Nachtverkehr Fr/Sa und Sa/So im 30-Minuten-Takt)
 
 **Haltestellen des Ersatzverkehrs zwischen Hennigsdorf \<\> U Paracelsus-Bad:**
 
