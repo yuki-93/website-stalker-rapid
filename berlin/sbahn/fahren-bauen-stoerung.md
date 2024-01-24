@@ -2,6 +2,101 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
+
+ Letztes Update: 02:32 / 24.01.2024
+
+Information
+
+Wegen des Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **bis einschließlich Montag, den 29.01.2024, ca.18:00 Uhr**, zu Ausfällen im gesamten S-Bahn-Netz.
+
+Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **ab Betriebsbeginn (ca. 4 Uhr)** auf den folgenden Linien angeboten:
+
+* **Linie S3:** Erkner \<\> Ostbahnhof (\*)
+* **Linie S46:** Königs Wusterhausen \<\> Schöneberg
+* **Linie S5:** Strausberg Nord \<\> Ostbahnhof (\*)
+* **Linie S9:** Flughafen BER \<\> Friedrichstraße
+
+(\*) Diese Linie ab ca. 21 Uhr bis Betriebsschluss jeweils im 40-Minuten-Takt. Ausnahme: Freitag auf Samstag und Samstag auf Sonntag bis ca. 1 Uhr nachts im 20-Minuten-Takt, danach 30-Minuten-Takt.
+
+**Dieser angestrebte Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
+
+---
+
+**Der planmäßige Ersatzverkehr mit Bussen auf den Linien S1, S2, S25, S26 (wegen laufender Bauarbeiten) zwischen Gesundbrunnen und Südkreuz/ Yorckstraße (Großgörschenstraße) fährt auch während des Streiks:**
+
+* **Bus S1A:** Südkreuz \<\> Schöneberg \<\> Friedrichstraße
+* **Bus S1B:** Friedrichstraße \<\> Gesundbrunnen
+
+---
+
+**Zusätzlich wird ein Ersatzverkehr mit Bussen auf folgenden Linien angeboten.**
+
+**Bus S2:** Blankenfelde \<\> Südkreuz, im 10-Minuten-Takt.
+
+**Haltestellen des Ersatzverkehrs zwischen Blankenfelde \<\> Südkreuz:**
+
+* S Blankenfelde: Karl-Marx-Straße (SEV-Haltestelle)
+* S Mahlow: Am Bahnhof (wie Bus 600, 794, 797)
+* *Zusatzhalt Kolonie Märkische Heide*: Kirchhainer Damm (wie Bus 275)
+* S Lichtenrade: Lichtenrader Damm/ Goltzstraße (BVG-Haltestelle "Goltzstraße/ Lichtenrader Damm", wie Bus 275)
+* S Schichauweg: Schichauweg (wie Bus X83, 275)
+* S Buckower Chaussee: Namitzer Damm/ Motzener Straße (BVG-Haltestelle "Gutspark Marienfelde", wie Bus X83)
+* S Marienfelde: Bahnhofstr. (wie Bus 283)
+* *Zusatzhalt zur Anbindung an die U6 in Alt-Mariendorf:* Ring-/ Rathausstr. (wie Bus M76)
+* S Attilastraße: Steglitzer Damm (wie Bus 282)
+* *Zusatzhalt S Südende:* Steglitzer Damm (wie Bus 282)
+* S Priesterweg: Prellerweg (wie Bus M76, X76, 170, 246)
+* S Südkreuz: Hildegard-Knef-Platz (SEV Haltestelle)
+
+---
+
+**Bus S25 (Süd):** zwischen Teltow Stadt und Lichterfelde Ost, im 10-Minuten-Takt
+
+**Haltestellen des Ersatzverkehrs zwischen Teltow Stadt \<\> Lichterfelde Ost:**
+
+* S Teltow Stadt: Gonfrevillestr. (wie Bus X10, 620, 625, N13)
+* S Lichterfelde Süd: Ostpreußendamm (BVG-Haltestelle "Ostpreußendamm Süd". wie Bus M85, 184)
+* S Osdorfer Straße: Ostpreußendamm (BVG-Haltestelle "Ostpreußendamm/ Osdorfer Straße", wie Bus 112, 184, N84)
+* S Lichterfelde Ost: Lankwitzer Straße (wie Bus M11, X11, 184, 284)
+
+---
+
+**Bus S25 (Nord):** zwischen Hennigsdorf \<\> U Paracelsus-Bad (U8), im 20-Minuten-Takt
+
+**Haltestellen des Ersatzverkehrs zwischen Hennigsdorf \<\> U Paracelsus-Bad:**
+
+* S Hennigsdorf: Poststraße (SEV-Haltestelle)
+* S Heiligensee: Ruppiner Chaussee (wie Bus 124, N24)
+* S Schulzendorf: Ruppiner Chaussee (wie Bus 124, N24)
+* Zusatzhalt U Alt-Tegel: Karolinenstraße (wie Bus 124, 125, 133, 222, N6, N24)
+* S Tegel: Berliner Straße (BVG-Haltestelle "Veitstraße", wie Bus 133, N6)
+* S Eichborndamm: Waldstraße (SEV-Haltestelle)
+* S+U Karl-Bonhoeffer-Nervenklinik: Waldstraße/ Lindauer Allee (wie Bus 322, N8)
+* Zusatzhalt U Paracelsus-Bad: Lindauer Allee (wie Bus 322, N8)
+
+---
+
+Bitte nutzen Sie für Fahrten innerhalb Berlins die Verkehrsmittel der BVG (U-Bahn, Bus und Tram).
+
+Beachten Sie bitte, dass der Regional- und Fernverkehr der Deutschen Bahn ebenfalls von diesem Warnstreik betroffen ist. Weitere Informationen erhalten Sie unter: [https://www.bahn.de/service/fahrplaene/aktuel](https://www.bahn.de/service/fahrplaene/aktuell)l
+
+---
+
+Wir bitten alle Fahrgäste, sich vor Fahrtantritt in unseren Auskunftsmedien zu informieren.
+
+**Achtung:** Hier auf [sbahn.berlin](http://www.sbahn.berlin/), [vbb.de](http://www.vbb.de/), [bvg.de](http://www.bvg.de/) sowie in der S-Bahn-App, in der BVG-Fahrinfo-App und in der VBB-App erscheinen die Ausfallmeldungen bzw. **Echtzeitdaten nur ca. 23 Stunden im Voraus**.
+
+Oberstes Ziel ist es, nach Streikende allen Fahrgästen so schnell wie möglich wieder das volle Zugangebot verfügbar zu machen. Dennoch rechnen Sie bitte auch nach Ende des Streiks am Montagabend noch mit Einschränkungen im S-Bahnverkehr, da unser Personal zu den abgestellten Zügen gebracht werden muss und die Züge anschließend noch für den Einsatz vorbereitet werden müssen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
