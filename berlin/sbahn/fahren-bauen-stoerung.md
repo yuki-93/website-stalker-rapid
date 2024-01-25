@@ -731,9 +731,9 @@ Information
 
 ### Birkenwerder \<\> Oranienburg ###
 
-17.02. (Sa), 12 Uhr durchgehend bis 28.03. (Do), ca 22 Uhr
+17.02. (Sa) 12 Uhr bis 28.03. (Do) 22 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28645&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21824&tx_sbbconstructions_list%5Bperiod%5D=17563&type=5679&cHash=ed0531ade96c0c2bf721d177c9c62d2e)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28645&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21824&tx_sbbconstructions_list%5Bperiod%5D=17591&type=5679&cHash=c2c9f8ede7bcb2fa2d215e1f2683fc5b)
 
  Ersatzverkehr
 
