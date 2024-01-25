@@ -8,20 +8,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
 
- Letztes Update: 03:44 / 25.01.2024
+ Letztes Update: 18:13 / 25.01.2024
 
 Information
 
 Wegen des Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **bis einschließlich Montag, den 29.01.2024, ca.18:00 Uhr**, zu Ausfällen im gesamten S-Bahn-Netz.
 
-Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **aktuell** auf den folgenden Linien angeboten:
+Ein **Notfahrplan** wird zur Anbindung der Außenbezirke und Umlandgemeinden an die Innenstadt **aktuell** auf den folgenden Linien angeboten:
 
-* **Linie S3:** Erkner \<\> Ostbahnhof (\*)
-* **Linie S46:** Königs Wusterhausen \<\> Schöneberg
-* **Linie S5:** Strausberg Nord \<\> Ostbahnhof (\*)
-* **Linie S9:** Flughafen BER \<\> Friedrichstraße
+**Tagesverkehr bis ca. 21 Uhr:**
 
-(\*) Diese Linie fährt ab ca. 21 Uhr bis Betriebsschluss (ca. 01:30 Uhr) jeweils im 40-Minuten-Takt. Ausnahme: von Freitag auf Samstag und von Samstag auf Sonntag bis ca. 1 Uhr nachts im 20-Minuten-Takt, danach bis ca. 5 Uhr (Samstag) bzw. ca. 7 Uhr (Sonntag) im 30-Minuten-Takt.
+* **Linie S3:** Erkner – Ostbahnhof (**20-Minuten-Takt**)
+* **Linie S46:** Königs Wusterhausen – Schöneberg (**20-Minuten-Takt**)
+* **Linie S5:** Strausberg Nord – Ostbahnhof (**20-Minuten-Takt**)
+* **Linie S9:** Friedrichstraße – Schöneweide – Flughafen BER (**20-Minuten-Takt**)
+
+**Abendverkehr von ca. 21 Uhr bis ca. 1 Uhr:**
+
+* **Linie S3:** Erkner – Ostbahnhof (**40-Minuten-Takt\***)
+* **Linie S46:** Königs Wusterhausen – Schöneberg (**20-Minuten-Takt**)
+* **Linie S5:** Strausberg Nord – Ostbahnhof (**40-Minuten-Takt\***)
+* **Linie S9:** Friedrichstraße – Schöneweide – Flughafen BER (**20-Minuten-Takt**)
+
+\* Ausnahme: **Fr auf Sa und Sa auf So** von ca. 21 Uhr bis ca. 1 Uhr im **20-Minuten-Takt**
+
+**Nachtverkehr, nur Fr auf Sa von ca. 1 Uhr bis ca. 5 Uhr und Sa auf So von ca. 1 Uhr bis ca. 7 Uhr:**
+
+* **Linie S3:** Erkner – Ostbahnhof (**30-Minuten-Takt**)
+* **Linie S46:** Königs Wusterhausen – **Südkreuz** (**30-Minuten-Takt**)
+* **Linie S5:** Strausberg Nord – Mahlsdorf (**60-Minuten Takt**) und Mahlsdorf – Ostbahnhof (**30-Minuten-Takt**)
+* **Linie S9:** Friedrichstraße – Schöneweide – Flughafen BER (**30-Minuten-Takt**)
+
+Download: [Streikfahrplan als Übersichtsgrafik (JPG)](https://sbahn.berlin/fileadmin/user_upload/Bauarbeiten/Grafiken/2024/Streik_programm_quadratt.jpg)
 
 **Dieser Notfahrplan ist davon abhängig, wie viel Personal tatsächlich zur Verfügung steht.**
 
@@ -60,7 +78,7 @@ Ein **Notfahrplan im 20-Minuten-Takt** wird zur Anbindung der Außenbezirke un
 
 **Haltestellen des Ersatzverkehrs zwischen Teltow Stadt \<\> Lichterfelde Ost:**
 
-* S Teltow Stadt: Mahlower Straße (wie Bus X1, 601)
+* S Teltow Stadt: Mahlower Straße Ecke Gonfrevillestraße
 * S Lichterfelde Süd: Ostpreußendamm (BVG-Haltestelle "Ostpreußendamm Süd". wie Bus M85, 184)
 * S Osdorfer Straße: Ostpreußendamm (BVG-Haltestelle "Ostpreußendamm/ Osdorfer Straße", wie Bus 112, 184, N84)
 * S Lichterfelde Ost: Lankwitzer Straße (wie Bus M11, X11, 184, 284)
