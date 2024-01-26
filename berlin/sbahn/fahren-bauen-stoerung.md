@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße (SEV Linie S1A, S1B) ###
+
+ Letztes Update: 12:09 / 26.01.2024
+
+Information
+
+Wegen einer Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße ist der Ersatzverkehr mit Bussen, zwischen Südkreuz \<\> Friedrichstraße \<\> Nordbahnhof für die Linien S1, S2 und S25 (Linie S1A, S1B), unterbrochen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
@@ -450,7 +464,7 @@ Information
 
 ### Grünau/Schönefeld/Spindlersfeld \<\> Schöneweide ###
 
-Nacht 27./28.01. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
+Nacht 28.01. (So), ca. 1 Uhr - ca. 7 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28616&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21798&tx_sbbconstructions_list%5Bperiod%5D=17555&type=5679&cHash=0ef5e97c1c15a7c4b2c07d2acb012641)
 
