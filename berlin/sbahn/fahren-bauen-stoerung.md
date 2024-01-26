@@ -462,8 +462,7 @@ Information
   * Bus S46: Grünau \<\> Schöneweide
   * Bus S9: Grünbergallee \<\> Schöneweide
 
-* Fahrplanänderung
-* Bahnsteigänderung
+* Änderungen aufgrund des Streikfahrplans
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einhub-des-ueberbaus-fuer-die-neue-fussgaengerbruecke-ueber-das-adlergestell/#con-28616)
