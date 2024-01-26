@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
 
- Letztes Update: 13:53 / 26.01.2024
+ Letztes Update: 16:26 / 26.01.2024
 
 Information
 
@@ -70,7 +70,7 @@ Download: [Streikfahrplan als Übersichtsgrafik (JPG)](https://sbahn.berlin/file
 
 **Haltestellen des Ersatzverkehrs zwischen Blankenfelde \<\> Südkreuz:**
 
-* S Blankenfelde: Karl-Marx-Straße (SEV-Haltestelle)
+* S Blankenfelde: Karl-Marx-Straße Ecke Moselstraße (SEV-Haltestelle)
 * S Mahlow: Am Bahnhof (wie Bus 600, 794, 797)
 * *Zusatzhalt Kolonie Märkische Heide*: Kirchhainer Damm (wie Bus 275)
 * S Lichtenrade: Lichtenrader Damm/ Goltzstraße (BVG-Haltestelle "Goltzstraße/ Lichtenrader Damm", wie Bus 275)
