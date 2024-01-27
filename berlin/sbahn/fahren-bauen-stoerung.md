@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
 
- Letztes Update: 16:26 / 26.01.2024
+ Letztes Update: 05:36 / 27.01.2024
 
 Information
 
@@ -32,14 +32,7 @@ Ein **Notfahrplan** wird zur Anbindung der Außenbezirke und Umlandgemeinden an
 * **Linie S5:** Strausberg Nord – Ostbahnhof (**40-Minuten-Takt\***)
 * **Linie S9:** Friedrichstraße – Schöneweide – Flughafen BER (**20-Minuten-Takt**)
 
-\* Ausnahme: **Fr auf Sa und Sa auf So** von ca. 21 Uhr bis ca. 1 Uhr im **20-Minuten-Takt**
-
-**Nachtverkehr, Fr auf Sa von ca. 1 Uhr bis ca. 5 Uhr:**
-
-* **Linie S3:** Erkner – Ostbahnhof (**30-Minuten-Takt**)
-* **Linie S46:** Königs Wusterhausen – **Südkreuz** (**30-Minuten-Takt**)
-* **Linie S5:** Strausberg Nord – Mahlsdorf (**60-Minuten Takt**) und Mahlsdorf – Ostbahnhof (**30-Minuten-Takt**)
-* **Linie S9:** Friedrichstraße – Schöneweide – Flughafen BER (**30-Minuten-Takt**)
+**\*** Ausnahme: **Sa auf So** von ca. 21 Uhr bis ca. 1 Uhr im **20-Minuten-Takt**
 
 **Nachtverkehr, Sa auf So von ca. 1 Uhr bis ca. 7 Uhr (inkl. [Bauarbeiten](https://sbahn.berlin/fahren/bauen-stoerung/detail/einhub-des-ueberbaus-fuer-die-neue-fussgaengerbruecke-ueber-das-adlergestell/)!):**
 
@@ -47,8 +40,8 @@ Ein **Notfahrplan** wird zur Anbindung der Außenbezirke und Umlandgemeinden an
 * **Linie S46:** **Königs Wusterhausen – Grünau** und **Schöneweide – Südkreuz (30-Minuten-Takt)**;
    zwischen Grünau und Schöneweide ist ein **Ersatzverkehr mit Bussen** eingerichtet!
 * **Linie S5:** Strausberg Nord – Mahlsdorf (**60-Minuten Takt**) und Mahlsdorf – Ostbahnhof (**30-Minuten-Takt)**
-* **Linie S9: Friedrichstraße – Schöneweide** und **Altglienicke – Flughafen BER (30-Minuten-Takt)**;
-   zwischen Schöneweide und Grünbergallee ist ein **Ersatzverkehr mit Bussen** eingerichtet!
+* **Linie S9: Flughafen BER - Altglienicke** und **Schöneweide** **- Friedrichstraße** **(30-Minuten-Takt)**;
+   zwischen Grünbergallee und Schöneweide ist ein **Ersatzverkehr mit Bussen** eingerichtet!
 
 Download: [Streikfahrplan als Übersichtsgrafik (JPG)](https://sbahn.berlin/fileadmin/user_upload/Bauarbeiten/Grafiken/2024/Streik_programm_quadratt.jpg)
 
