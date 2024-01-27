@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) wird vorzeitig beendet ###
 
- Letztes Update: 16:31 / 27.01.2024
+ Letztes Update: 21:34 / 27.01.2024
 
 Information
 
@@ -38,10 +38,10 @@ Ein **Notfahrplan** wird zur Anbindung der Außenbezirke und Umlandgemeinden an
 
 **Nachtverkehr, Sa auf So von ca. 1 Uhr bis ca. 7 Uhr (inkl. [Bauarbeiten](https://sbahn.berlin/fahren/bauen-stoerung/detail/einhub-des-ueberbaus-fuer-die-neue-fussgaengerbruecke-ueber-das-adlergestell/)!):**
 
-* **Linie S3:** Erkner – Ostbahnhof **(30-Minuten-Takt)**
-* **Linie S46:** **Königs Wusterhausen – Grünau** und **Schöneweide – Südkreuz (30-Minuten-Takt)**;
+* **Linie S3:** Erkner - Ostbahnhof **(30-Minuten-Takt)**
+* **Linie S46:** **Königs Wusterhausen - Grünau** und **Baumschulenweg - Südkreuz (30-Minuten-Takt)**;
    zwischen Grünau und Schöneweide ist ein **Ersatzverkehr mit Bussen** eingerichtet!
-* **Linie S5:** Strausberg Nord – Mahlsdorf (**60-Minuten Takt**) und Mahlsdorf – Ostbahnhof (**30-Minuten-Takt)**
+* **Linie S5:** Strausberg Nord - Mahlsdorf (**60-Minuten Takt**) und Mahlsdorf - Ostbahnhof (**30-Minuten-Takt)**
 * **Linie S9: Flughafen BER - Altglienicke** und **Schöneweide** **- Friedrichstraße** **(30-Minuten-Takt)**;
    zwischen Grünbergallee und Schöneweide ist ein **Ersatzverkehr mit Bussen** eingerichtet!
 
