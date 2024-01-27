@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße (SEV Linie S1A, S1B) ###
-
- Letztes Update: 14:05 / 27.01.2024
-
-Information
-
-Wegen einer Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße ist der **Ersatzverkehr mit Bussen (Linie S1A und S1B)** zwischen Südkreuz \<\> Friedrichstraße \<\> Nordbahnhof unterbrochen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unterbrochen
-
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
+### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) wird vorzeitig beendet ###
 
- Letztes Update: 10:47 / 27.01.2024
+ Letztes Update: 16:15 / 27.01.2024
 
 Information
 
-Wegen des Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **bis einschließlich Montag, den 29.01.2024, ca.18:00 Uhr**, zu Ausfällen im gesamten S-Bahn-Netz.
+Wegen des Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **bis einschließlich Montag, den 29.01.2024, ca. 2:00 Uhr**, zu Ausfällen im gesamten S-Bahn-Netz.
 
 **Achtung:** Hier auf [sbahn.berlin](http://www.sbahn.berlin/), [vbb.de](http://www.vbb.de/), [bvg.de](http://www.bvg.de/) sowie in der S-Bahn-App, in der BVG-Fahrinfo-App und in der VBB-App erscheinen die Ausfallmeldungen bzw. **Echtzeitdaten nur ca. 23 Stunden im Voraus**.
 
@@ -131,6 +117,20 @@ Oberstes Ziel ist es, nach Streikende allen Fahrgästen so schnell wie möglich 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße (SEV Linie S1A, S1B) ###
+
+ Letztes Update: 14:05 / 27.01.2024
+
+Information
+
+Wegen einer Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße ist der **Ersatzverkehr mit Bussen (Linie S1A und S1B)** zwischen Südkreuz \<\> Friedrichstraße \<\> Nordbahnhof unterbrochen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
