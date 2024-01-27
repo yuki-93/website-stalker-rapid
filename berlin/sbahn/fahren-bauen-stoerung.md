@@ -120,20 +120,6 @@ Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße (SEV Linie S1A, S1B) ###
-
- Letztes Update: 14:05 / 27.01.2024
-
-Information
-
-Wegen einer Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße ist der **Ersatzverkehr mit Bussen (Linie S1A und S1B)** zwischen Südkreuz \<\> Friedrichstraße \<\> Nordbahnhof unterbrochen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
