@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
 
- Letztes Update: 05:36 / 27.01.2024
+ Letztes Update: 10:47 / 27.01.2024
 
 Information
 
@@ -82,7 +82,7 @@ Download: [Streikfahrplan als Übersichtsgrafik (JPG)](https://sbahn.berlin/file
 
 **Haltestellen des Ersatzverkehrs zwischen Teltow Stadt \<\> Lichterfelde Ost:**
 
-* S Teltow Stadt: Mahlower Straße Ecke Gonfrevillestraße
+* S Teltow Stadt: Gonfrevillestraße (wie Bus 620, 621, 625, 626, N13)
 * S Lichterfelde Süd: Ostpreußendamm (BVG-Haltestelle "Ostpreußendamm Süd". wie Bus M85, 184)
 * S Osdorfer Straße: Ostpreußendamm (BVG-Haltestelle "Ostpreußendamm/ Osdorfer Straße", wie Bus 112, 184, N84)
 * S Lichterfelde Ost: Lankwitzer Straße (wie Bus M11, X11, 184, 284)
