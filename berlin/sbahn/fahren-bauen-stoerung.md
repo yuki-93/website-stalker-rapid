@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) wird vorzeitig beendet ###
 
- Letztes Update: 16:15 / 27.01.2024
+ Letztes Update: 16:31 / 27.01.2024
 
 Information
 
-Wegen des Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **bis einschließlich Montag, den 29.01.2024, ca. 2:00 Uhr**, zu Ausfällen im gesamten S-Bahn-Netz.
+Der Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) wird **vorzeitig zum Montag, den 29.01.2024, 2:00 Uhr beendet.**
+
+**Bis dahin kommt es weiterhin zu massiven Beeinträchtigungen im gesamten S-Bahn-Netz.**
 
 **Achtung:** Hier auf [sbahn.berlin](http://www.sbahn.berlin/), [vbb.de](http://www.vbb.de/), [bvg.de](http://www.bvg.de/) sowie in der S-Bahn-App, in der BVG-Fahrinfo-App und in der VBB-App erscheinen die Ausfallmeldungen bzw. **Echtzeitdaten nur ca. 23 Stunden im Voraus**.
 
@@ -112,7 +114,7 @@ Beachten Sie bitte, dass der Regional- und Fernverkehr der Deutschen Bahn ebenfa
 
 Wir bitten alle Fahrgäste, sich vor Fahrtantritt in unseren Auskunftsmedien zu informieren.
 
-Oberstes Ziel ist es, nach Streikende allen Fahrgästen so schnell wie möglich wieder das volle Zugangebot verfügbar zu machen. Dennoch rechnen Sie bitte auch nach Ende des Streiks am Montagabend noch mit Einschränkungen im S-Bahnverkehr, da unser Personal zu den abgestellten Zügen gebracht werden muss und die Züge anschließend noch für den Einsatz vorbereitet werden müssen.
+Oberstes Ziel ist es, nach Streikende allen Fahrgästen so schnell wie möglich wieder das volle Zugangebot verfügbar zu machen. Dennoch rechnen Sie bitte auch nach Ende des Streiks am Montagmorgen noch mit Einschränkungen im S-Bahnverkehr, da unser Personal zu den abgestellten Zügen gebracht werden muss und die Züge anschließend noch für den Einsatz vorbereitet werden müssen.
 
 Wir bitten um Entschuldigung.
 
