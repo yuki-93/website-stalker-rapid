@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) wird vorzeitig beendet ###
 
- Letztes Update: 21:34 / 27.01.2024
+ Letztes Update: 20:24 / 28.01.2024
 
 Information
 
