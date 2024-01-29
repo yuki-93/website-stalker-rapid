@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Schönhauser Allee ###
 
- Letztes Update: 17:04 / 29.01.2024
+ Letztes Update: 17:52 / 29.01.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Schönhauser Allee kommt es auf den Linien S2, S41, S8 und S85 zu Verspätungen.
+Wegen der Reparatur an einer Weiche in Schönhauser Allee kann es auf den Linien S2, S41, S8 und S85 zu Verspätungen kommen.
 
 Die Linie S41 verkehrt nur im 10-Minuten-Takt.
 
