@@ -2,6 +2,62 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Vorabinformation: kurzfristige Bauarbeiten in der Nacht 30./31.01.2024 (Do/Fr) von ca. 21:45 Uhr bis 03:30 Uhr ###
+
+ Letztes Update: 15:12 / 29.01.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten zwischen Baumschulenweg und Schöneweide muss der Zugverkehr der Linien S45 und S46 zwischen Baumschulenweg und Schöneweide und der Linien S8 und S9 zwischen Treptower Park und Schöneweide unterbrochen werden.
+
+**Die betroffen Linien fahren wie folgt:**
+
+* **S45:** Südkreuz \<\> Baumschulenweg
+* **S46:** Westend \<\> Baumschulenweg und Schöneweide \<\> Königs Wusterhausen
+* **S8:** Birkenwerder/ Blankenburg \<\> Ostkreuz und Schöneweide \<\> Grünau
+* **S9:** Spandau \<\> Treptower Park und Schöneweide \<\> Flughafen BER
+
+---
+
+**Zwischen Treptower Park \<\> Plänterwald \<\> Baumschulenweg \<\> Schöneweide wird in dieser Zeit ein Ersatzverkehr mit Bussen eingerichtet.**
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S Treptower Park: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
+* S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
+* S Baumschulenweg: Köpenicker Landstraße (BVG-Haltestelle "Baumschulenstr./ Köpenicker Landstr., wie Bus 165, N60, N65)
+* S Schöneweide: Michael-Brückner-Str. (wie Bus 165, N60)
+
+---
+
+letzte durchfahrende Züge:
+
+* S45:
+  * Südkreuz ab 20:28 Uhr \> Flughafen BER an 21:06 Uhr
+  * Flughafen BER ab 20:57Uhr \> Südkreuz an 21:37 Uhr
+
+* S46:
+  * Westend ab 20:56 Uhr \> Königs Wusterhausen an 21:56 Uhr
+  * Königs Wusterhausen ab 21:01 Uhr \> Westend an 21:59 Uhr
+
+* S8:
+  * Birkenwerder ab 20:44 Uhr \> Grünau an 21:47 Uhr
+  * Grünau ab 21:29 Uhr \> Blankenburg an 22:12 Uhr
+
+* S9:
+  * Spandau ab 20:38 Uhr \> Flughafen BER an 21:56 Uhr
+  * Flughafen BER ab 21:09 Uhr \> Spandau an 22:27 Uhr
+
+Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft berücksichtigt ist.
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
