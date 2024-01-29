@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Jannowitzbrücke beendet ###
+
+ Letztes Update: 10:09 / 29.01.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -442,6 +458,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm/#con-28474)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Erkner – Ostkreuz – Ostbahnhof ###
+
+Nächte 12./13.02. (Mo/Di) bis 14./15.02. (Mi/Do) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28802&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21986&tx_sbbconstructions_list%5Bperiod%5D=17620&type=5679&cHash=9bdff8d3d1065fda84051e4a4ca1623a)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung
+* Bahnsteigänderung in Ostkreuz
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schutzsperrung-fuer-arbeiten-bei-der-fernbahn-1/#con-28802)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Ring ###
@@ -504,6 +540,26 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Erkner – Ostkreuz – Ostbahnhof ###
+
+Nächte 12./13.02. (Mo/Di) bis 14./15.02. (Mi/Do) jeweils 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28802&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21986&tx_sbbconstructions_list%5Bperiod%5D=17620&type=5679&cHash=9bdff8d3d1065fda84051e4a4ca1623a)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung
+* Bahnsteigänderung in Ostkreuz
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schutzsperrung-fuer-arbeiten-bei-der-fernbahn-1/#con-28802)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
@@ -603,7 +659,7 @@ Nur Wochenende
 
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28781&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21971&type=5679&cHash=b7d5fc2b5f44d8f5463cc2d09eb92909)
 
- Zugverkehr verändert
+ Pendelverkehr
 
 Information
 
