@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)
 
-### Reparatur an einer Weiche in Schönhauser Allee ###
+### Reparatur an einer Weiche in Schönhauser Allee beendet ###
 
- Letztes Update: 17:52 / 29.01.2024
+ Letztes Update: 18:37 / 29.01.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Schönhauser Allee kann es auf den Linien S2, S41, S8 und S85 zu Verspätungen kommen.
-
-Die Linie S41 verkehrt nur im 10-Minuten-Takt.
+Nach der Reparatur an einer Weiche in Schönhauser Allee verkehrt die Linie S41 nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
