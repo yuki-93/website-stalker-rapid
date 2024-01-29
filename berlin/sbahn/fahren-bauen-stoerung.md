@@ -58,20 +58,6 @@ Wir bitten um Entschuldigung.
 
  Ersatzverkehr
 
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Reparatur an einer Weiche in Schönhauser Allee beendet ###
-
- Letztes Update: 18:37 / 29.01.2024
-
-Information
-
-Nach der Reparatur an einer Weiche in Schönhauser Allee verkehrt die Linie S41 nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
