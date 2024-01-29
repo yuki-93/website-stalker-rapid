@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)
-
-### Reparatur an einer Weiche in Schönhauser Allee beendet ###
-
- Letztes Update: 18:37 / 29.01.2024
-
-Information
-
-Nach der Reparatur an einer Weiche in Schönhauser Allee verkehrt die Linie S41 nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Vorabinformation: kurzfristige Bauarbeiten in der Nacht 30./31.01.2024 (Do/Fr) von ca. 21:45 Uhr bis 03:30 Uhr ###
+### Vorabinformation: kurzfristige Bauarbeiten in der Nacht 30./31.01.2024 (Di/Mi) von ca. 21:45 Uhr bis 03:30 Uhr ###
 
- Letztes Update: 15:12 / 29.01.2024
+ Letztes Update: 20:33 / 29.01.2024
 
 Information
 
@@ -71,6 +57,20 @@ Bitte beachten Sie, dass diese Baumaßnahme aufgrund der Kurzfristigkeit nicht i
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### Reparatur an einer Weiche in Schönhauser Allee beendet ###
+
+ Letztes Update: 18:37 / 29.01.2024
+
+Information
+
+Nach der Reparatur an einer Weiche in Schönhauser Allee verkehrt die Linie S41 nur im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
