@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz im Bereich Heiligensee ###
+
+ Letztes Update: 14:56 / 30.01.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Heiligensee ist der Zugverkehr der Linie S25 zwischen Tegel und Hennigsdorf unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung andere Verkehrsnmittel.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten zwischen Baumschulenweg und Schöneweide ###
