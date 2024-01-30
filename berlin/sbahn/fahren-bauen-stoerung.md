@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzzeitiger Polizeieinsatz im Bereich Ostbahnhof ###
-
- Letztes Update: 16:22 / 30.01.2024
-
-Information
-
-Nach einem kurzzeitigen Polizeieinsatz im Bereich Ostbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten zwischen Baumschulenweg und Schöneweide ###
