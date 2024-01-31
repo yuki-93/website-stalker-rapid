@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Verlängerung der kurzfristigen Bauarbeiten zwischen Baumschulenweg und Schöneweide ###
 
- Letztes Update: 02:19 / 31.01.2024
+ Letztes Update: 03:30 / 31.01.2024
 
 Information
 
@@ -37,6 +37,8 @@ S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
 S Baumschulenweg: Köpenicker Landstraße (BVG-Haltestelle "Baumschulenstr./ Köpenicker Landstr., wie Bus 165, N60, N65)
 
 S Schöneweide: Michael-Brückner-Str. (wie Bus 165, N60)
+
+* **Der Flughafen-Express (FEX) hält zusätzlich in Schöneweide.**
 
 Wir bitten um Entschuldigung.
 
