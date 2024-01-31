@@ -2,6 +2,46 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Verlängerung der kurzfristigen Bauarbeiten zwischen Baumschulenweg und Schöneweide ###
+
+ Letztes Update: 02:19 / 31.01.2024
+
+Information
+
+Wegen Verlängerung der kurzfristigen Bauarbeiten muss der Zugverkehr der Linien S45 und S46 zwischen Baumschulenweg und Schöneweide und der Linien S8 und S9 zwischen Treptower Park und Schöneweide am heutigen Morgen bis vsl. 05:00 Uhr unterbrochen werden.
+
+***Die betroffen Linien fahren wie folgt:***
+
+**S45:** Südkreuz \<\> Baumschulenweg
+
+**S46:** Westend \<\> Baumschulenweg und Schöneweide \<\> Königs Wusterhausen
+
+**S8:** Birkenwerder/ Blankenburg \<\> Ostkreuz und Schöneweide \<\> Grünau
+
+**S9:** Spandau \<\> Treptower Park und Schöneweide \<\> Flughafen BER
+
+---
+
+**Zwischen Treptower Park \<\> Plänterwald \<\> Baumschulenweg \<\> Schöneweide ist ein Ersatzverkehr mit Bussen eingerichtet.**
+
+***Haltestellen des Ersatzverkehrs:***
+
+S Treptower Park: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
+
+S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
+
+S Baumschulenweg: Köpenicker Landstraße (BVG-Haltestelle "Baumschulenstr./ Köpenicker Landstr., wie Bus 165, N60, N65)
+
+S Schöneweide: Michael-Brückner-Str. (wie Bus 165, N60)
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
