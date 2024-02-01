@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Gegenstände auf der Strecke in Mehrower Allee ###
+### Gegenstände auf der Strecke in Mehrower Allee beseitigt ###
 
- Letztes Update: 13:15 / 01.02.2024
+ Letztes Update: 14:03 / 01.02.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke in Mehrower Allee kann der **10-Minuten-Takt** der Linie S7 nur **zwischen Potsdam Hbf und Marzahn** angeboten werden.
+Nach Gegenständen auf der Strecke in Mehrower Allee kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
