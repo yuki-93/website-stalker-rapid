@@ -2,6 +2,10 @@ Anker | Live Charged. - Anker Deutschlandhtml{font-family:'\_\_DINNextLT\_df760e
 
 []()
 
+Dein perfektes Valentinstagsset - Bis zu 23% Rabatt
+
+[Mehr erfahren\>\>](https://www.anker.com/eu-de/valentinstag)
+
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
 ProdukteNach KategorieNeuerscheinungenAngebote
@@ -10,23 +14,13 @@ Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
-Anker Nano
-
- C-ing is Believing
-
-Höchste Ladegeschwindigkeiten für dein USB-C iPhone
-
-[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner1)
-
-[Apple-Zubehör entdecken \>\>](https://www.anker.com/eu-de/collections/apple-accessories)
-
 Limitiertes Angebot
 
 Die ultimative Solarstromlösungfür dein Zuhause
 
 Anker SOLIX Balkonkraftwerk mit Speicher
 
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/products/b17c0?ref=masterBanner2)
+[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/products/b17c0?ref=masterBanner1)
 
 Entdecke innovative Ladelösungen
 ----------
@@ -89,23 +83,24 @@ Anker-Innovationen nach Kategorie filtern
 Entdecke Anker Innovations
 ----------
 
-* ### Starte durch mit USB-C ###
+* ### Valentinstagsgeschenke zum Verlieben ###
 
-  Entdecke USB-C Ladepower mit Anker
+  Bis zu 22% Rabatt
+  1. - 14. Februar
 
-  [Mehr erfahren Starte durch mit USB-C](https://www.anker.com/eu-de/usb-c-ladegeraet?ref=productBanner7_1)
+  [Jetzt bestellenValentinstagsgeschenke zum Verlieben](https://www.anker.com/eu-de/valentinstag?ref=productBanner6_1)
 
 * ### Anker SOLIX C800 Plus Tragbare Powerstation ###
 
   März erhältlich. Pünktlich zum Frühjahr.
 
-  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner7_2)
+  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner6_2)
 
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_3)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner6_3)
 
 * ###
 
@@ -119,7 +114,7 @@ Entdecke Anker Innovations
 
   600W Mikroinverter, erweiterbar auf 800W
 
-  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
+  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner6_4)
 
 Was macht Anker so besonders?
 ----------
