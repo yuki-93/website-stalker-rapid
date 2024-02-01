@@ -970,6 +970,27 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-poelnitzweg-in-buch-1/#con-28819)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Hermannstraße – Südkreuz – Westend ###
+
+Nacht 22./23.02. (Do/Fr) 23 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28822&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22004&tx_sbbconstructions_list%5Bperiod%5D=17637&type=5679&cHash=328006452d8469ffb282c64a44e7d917)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert
+* Taktänderung
+* Gleisänderung in Südkreuz
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-suedkreuz-8/#con-28822)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### (Waidmannslust –) Frohnau/Mühlenbeck-Mönchmühle – Birkenwerder – Oranienburg ###
