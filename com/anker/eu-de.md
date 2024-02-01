@@ -8,11 +8,19 @@ Dein perfektes Valentinstagsset - Bis zu 23% Rabatt
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-ProdukteNach KategorieNeuerscheinungenAngebote
+ProdukteNach KategorieNeuerscheinungenAngebote[Valentinstag](https://www.anker.com/eu-de/valentinstag?ref=naviMenu)
 
 Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
+
+Valentinstagsgeschenke zum Verlieben
+
+Bis zu 23% Rabatt
+
+1. - 14. Februar
+
+[Jetzt bestellen masterBanner1](https://www.anker.com/eu-de/valentinstag?ref=masterBanner1)
 
 Limitiertes Angebot
 
@@ -20,7 +28,7 @@ Die ultimative Solarstromlösungfür dein Zuhause
 
 Anker SOLIX Balkonkraftwerk mit Speicher
 
-[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/products/b17c0?ref=masterBanner1)
+[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/products/b17c0?ref=masterBanner2)
 
 Entdecke innovative Ladelösungen
 ----------
@@ -88,19 +96,19 @@ Entdecke Anker Innovations
   Bis zu 22% Rabatt
   1. - 14. Februar
 
-  [Jetzt bestellenValentinstagsgeschenke zum Verlieben](https://www.anker.com/eu-de/valentinstag?ref=productBanner6_1)
+  [Jetzt bestellenValentinstagsgeschenke zum Verlieben](https://www.anker.com/eu-de/valentinstag?ref=productBanner7_1)
 
 * ### Anker SOLIX C800 Plus Tragbare Powerstation ###
 
   März erhältlich. Pünktlich zum Frühjahr.
 
-  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner6_2)
+  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner7_2)
 
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner6_3)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_3)
 
 * ###
 
@@ -114,7 +122,7 @@ Entdecke Anker Innovations
 
   600W Mikroinverter, erweiterbar auf 800W
 
-  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner6_4)
+  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
 
 Was macht Anker so besonders?
 ----------
