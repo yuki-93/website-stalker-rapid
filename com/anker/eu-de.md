@@ -135,7 +135,7 @@ Schnelle, kostenlose Lieferung
 
 Kostenloser Versand für alle Artikel. Geliefert in 3-7 Werktagen.
 
-30-Tage-Bestpreisgarantie
+30 Tage Geld-Zurück-Garantie
 
 Hast du innerhalb von 30 Tagen einen niedrigeren Preis auf unserer Website gefunden? Wir erstatten dir den Unterschied.
 
