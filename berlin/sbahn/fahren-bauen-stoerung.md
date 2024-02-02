@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### technischer Defekt an einem Bahnübergang in Zeuthen ###
-
- Letztes Update: 04:29 / 02.02.2024
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Zeuthen kommt es auf der Linie S46 zu Verspätungen.
-
-Die Linie S8 verkehrt nur zwischen Birkenwerder und Grünau.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
