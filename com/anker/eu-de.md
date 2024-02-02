@@ -16,7 +16,7 @@ Hilfe
 
 Valentinstagsgeschenke zum Verlieben
 
-Bis zu 23% Rabatt
+Bis zu 20% Rabatt auf Ladesets
 
 1. - 14. Februar
 
@@ -93,7 +93,7 @@ Entdecke Anker Innovations
 
 * ### Valentinstagsgeschenke zum Verlieben ###
 
-  Bis zu 23% Rabatt
+  Bis zu 20% Rabatt auf Ladesets
   1. - 14. Februar
 
   [Jetzt bestellenValentinstagsgeschenke zum Verlieben](https://www.anker.com/eu-de/valentinstag?ref=productBanner7_1)
