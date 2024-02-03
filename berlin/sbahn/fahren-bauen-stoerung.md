@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Weichenstörung in Griebnitzsee ###
+
+ Letztes Update: 16:13 / 03.02.2024
+
+Information
+
+Nach einer Weichenstörung in Griebnitzsee kommt es auf der Linie S7 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße (SEV Linie S1A, S1B) ###
@@ -17,20 +31,6 @@ Wegen einer Demonstration im öffentlichen Straßenland im Bereich Friedrichstra
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Weichenstörung in Griebnitzsee ###
-
- Letztes Update: 13:18 / 03.02.2024
-
-Information
-
-Wegen einer Weichenstörung in Griebnitzsee kann der 10-Minuten-Takt der Linie S7 nur zwischen Ahrensfelde und Grunewald angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
