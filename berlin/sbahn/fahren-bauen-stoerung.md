@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße (SEV Linie S1A, S1B) ###
 
- Letztes Update: 13:30 / 03.02.2024
+ Letztes Update: 15:15 / 03.02.2024
 
 Information
 
-Wegen einer Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße kommt es beim **Ersatzverkehr mit Bussen (Linie S1A und S1B)** zwischen Südkreuz \<\> Friedrichstraße \<\> Gesundbrunnen zu Verspätungen und Ausfällen.
+Wegen einer Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße ist der **Ersatzverkehr mit Bussen (Linie S1A und S1B)** zwischen Südkreuz \<\> Friedrichstraße \<\> Gesundbrunnen unterbrochen.
 
 Wir bitten um Verständnis.
 
