@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Polizeieinsatz in Köpenick ###
-
- Letztes Update: 19:06 / 03.02.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in Köpenick ist der Zugverkehr der Linie S3 zwischen Wuhlheide und Köpenick unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
-[S1](https://sbahn.berlin/fahren/s1/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### ärztliche Versorgung eines Fahrgastes in einem Zug in Jungfernheide beendet ###
-
- Letztes Update: 18:59 / 03.02.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Jungfernheide kommt es auf den Linien S1, S41, S42 und S46 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
