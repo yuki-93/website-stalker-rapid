@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße (SEV Linie S1A, S1B) ###
+
+ Letztes Update: 12:13 / 03.02.2024
+
+Information
+
+Wegen einer Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße kommt es beim **Ersatzverkehr mit Bussen (Linie S1A und S1B)** zwischen Südkreuz \<\> Friedrichstraße \<\> Nordbahnhof zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Weichenstörung in Griebnitzsee ###
