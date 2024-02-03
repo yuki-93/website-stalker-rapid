@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Gegenstände auf der Strecke in Hohenschönhausen ###
+### Weichenstörung in Griebnitzsee ###
 
- Letztes Update: 04:38 / 03.02.2024
+ Letztes Update: 07:11 / 03.02.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke in Hohenschönhausen verkehrt die Linie S75 nur zwischen Wartenberg und Springpfuhl.
-
-Bitte nutzen Sie zwischen Springpfuhl und Warschauer Straße die Linie S7.
+Wegen einer Weichenstörung in Griebnitzsee kann der 10-Minuten-Takt der Linie S7 nur zwischen Ahrensfelde und Wannsee angeboten werden.
 
 Wir bitten um Entschuldigung.
 
