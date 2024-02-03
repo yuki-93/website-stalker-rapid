@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Gegenstände auf der Strecke in Hohenschönhausen ###
+
+ Letztes Update: 04:38 / 03.02.2024
+
+Information
+
+Wegen Gegenständen auf der Strecke in Hohenschönhausen verkehrt die Linie S75 nur zwischen Wartenberg und Springpfuhl.
+
+Bitte nutzen Sie zwischen Springpfuhl und Warschauer Straße die Linie S7.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
