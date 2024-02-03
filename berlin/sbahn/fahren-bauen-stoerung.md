@@ -8,25 +8,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße (SEV Linie S1A, S1B) ###
 
- Letztes Update: 12:13 / 03.02.2024
+ Letztes Update: 13:30 / 03.02.2024
 
 Information
 
-Wegen einer Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße kommt es beim **Ersatzverkehr mit Bussen (Linie S1A und S1B)** zwischen Südkreuz \<\> Friedrichstraße \<\> Nordbahnhof zu Verspätungen und Ausfällen.
+Wegen einer Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße kommt es beim **Ersatzverkehr mit Bussen (Linie S1A und S1B)** zwischen Südkreuz \<\> Friedrichstraße \<\> Gesundbrunnen zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- sonstige Einschränkungen  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Weichenstörung in Griebnitzsee ###
 
- Letztes Update: 07:11 / 03.02.2024
+ Letztes Update: 13:18 / 03.02.2024
 
 Information
 
-Wegen einer Weichenstörung in Griebnitzsee kann der 10-Minuten-Takt der Linie S7 nur zwischen Ahrensfelde und Wannsee angeboten werden.
+Wegen einer Weichenstörung in Griebnitzsee kann der 10-Minuten-Takt der Linie S7 nur zwischen Ahrensfelde und Grunewald angeboten werden.
 
 Wir bitten um Entschuldigung.
 
