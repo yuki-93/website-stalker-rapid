@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Weichenstörung in Griebnitzsee ###
-
- Letztes Update: 16:13 / 03.02.2024
-
-Information
-
-Nach einer Weichenstörung in Griebnitzsee kommt es auf der Linie S7 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße (SEV Linie S1A, S1B) ###
-
- Letztes Update: 15:15 / 03.02.2024
-
-Information
-
-Wegen einer Demonstration im öffentlichen Straßenland im Bereich Friedrichstraße ist der **Ersatzverkehr mit Bussen (Linie S1A und S1B)** zwischen Südkreuz \<\> Friedrichstraße \<\> Gesundbrunnen unterbrochen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
