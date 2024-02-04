@@ -6,25 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Personalausfall Stellwerk Schöneweide ###
+### Personalausfall Stellwerk Schöneweide behoben ###
 
- Letztes Update: 08:11 / 04.02.2024
+ Letztes Update: 08:51 / 04.02.2024
 
 Information
 
-Wegen eines Personalausfalls im Stellwerk in Schöneweide kommt es zu folgenden Einschränkungen im Zugverkehr:
-
-\* Linie S8 verkehrt zwischen Birkenwerder \<\> Greifswalder Straße
-
-\* Linie S9 verkehrt zwischen Spandau \<\> Ostbahnhof sowie Flughafen BER \<\> Altglienicke
-
-\* Linie S46 verkehrt zwischen Westend \<\> Baumschulenweg sowie Königs Wusterhausen \<\> Grünau
-
-\* Linie S47 verkehrt nicht
-
-\* Linie S45 verkehrt nicht
-
-Fahrgäste benutzen zur Umfahrung die BVG.
+Nach einem Personalausfall im Stellwerk in Schöneweide kommt es auf den Linien **S8,S85,S45,S46,S47** und **S9** zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
