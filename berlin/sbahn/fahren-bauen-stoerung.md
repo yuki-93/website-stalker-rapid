@@ -2,6 +2,34 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Personalausfall Stellwerk Schöneweide ###
+
+ Letztes Update: 08:11 / 04.02.2024
+
+Information
+
+Wegen eines Personalausfalls im Stellwerk in Schöneweide kommt es zu folgenden Einschränkungen im Zugverkehr:
+
+\* Linie S8 verkehrt zwischen Birkenwerder \<\> Greifswalder Straße
+
+\* Linie S9 verkehrt zwischen Spandau \<\> Ostbahnhof sowie Flughafen BER \<\> Altglienicke
+
+\* Linie S46 verkehrt zwischen Westend \<\> Baumschulenweg sowie Königs Wusterhausen \<\> Grünau
+
+\* Linie S47 verkehrt nicht
+
+\* Linie S45 verkehrt nicht
+
+Fahrgäste benutzen zur Umfahrung die BVG.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
