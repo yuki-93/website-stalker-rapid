@@ -355,6 +355,8 @@ Programme
 
 [Community](https://community.anker.com/?ref=footer)
 
+[Angebote](https://www.anker.com/eu-de/angebote?ref=footer)
+
 [10% Bargeldprämie](https://www.anker.com/eu-de/empfehlungsprogramm?ref=footer)
 
 [Studenten- & Lehrerrabatte](https://connect.studentbeans.com/v4/hosted/anker/de?ref=footer)
