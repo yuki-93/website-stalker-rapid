@@ -828,6 +828,24 @@ Information
   * Flughafen BER \<\> Schönefeld \<\> S Adlershof \<\> S Schöneweide \<\> S Plänterwald \<\> S Treptower Park \<\> U Schlesisches Tor \<\> S+U Jannowitzbrücke \<\> S+U Alexanderplatz/Memhardstraße
      die BVG-Nachtbuslinie N60.
 
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Grunewald ###
+
+20.02. (Di) bis 23.02. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=17662&type=5679&cHash=e3ac9900e9a9b2ee489d232b69b2b5e5)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
+* Der Zug fällt von Alexanderplatz bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
 Hinweis
 
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
@@ -1326,6 +1344,24 @@ Information
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenwechsel-und-manuelle-stopfarbeiten/#con-28817)
 
 ### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Grunewald ###
+
+20.02. (Di) bis 23.02. (Fr) jeweils 1:32 Uhr bis 1:55 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27554&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20675&tx_sbbconstructions_list%5Bperiod%5D=17662&type=5679&cHash=e3ac9900e9a9b2ee489d232b69b2b5e5)
+
+ fährt nicht
+
+Information
+
+* Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
+* Der Zug fällt von Alexanderplatz bis Grunewald aus.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
