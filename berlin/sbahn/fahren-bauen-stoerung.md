@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Gegenstände auf der Strecke Sonnenallee ###
+
+ Letztes Update: 12:11 / 05.02.2024
+
+Information
+
+Wegen Gegenständen auf der Strecke im Bereich Sonnenallee ist der Zugverkehr der Linien S2, S41 und S42 zwischen Treptower Park und Neukölln unterbrochen.
+*Bitte nutzen Sie zur Umfahrung zwischen Treptower Park und Baumschulenweg die Linien S8, S85 und S9 sowie zwischen Baumschulenweg und Neukölln die Linien S1 (S47), S45 und S46.*
+
+* Die Linien S41 und S42 verkehren im 10-Minuten-Takt.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
