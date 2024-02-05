@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### ärztliche Versorgung eines Fahrgastes in einem Zug in Greifswalder Straße ###
+### ärztliche Versorgung eines Fahrgastes im Zug in Greifswalder Straße beendet ###
 
- Letztes Update: 17:09 / 05.02.2024
+ Letztes Update: 17:32 / 05.02.2024
 
 Information
 
-Wegen der ärztliche Versorgung eines Fahrgastes in einem Zug in Greifswalder Straße kommt es auf den Linien S41, S42, S2, S8 und S85 zu Verspätungen und Ausfällen.
+Nach der ärztliche Versorgung eines Fahrgastes in einem Zug in Greifswalder Straße kommt es auf den Linien S41, S42, S2, S8 und S85 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
