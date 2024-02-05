@@ -22,13 +22,13 @@ Bis zu 20% Rabatt auf Ladesets
 
 [Jetzt bestellen masterBanner1](https://www.anker.com/eu-de/valentinstag?ref=masterBanner1)
 
-Limitiertes Angebot
+Mehr sparen, mehr Verngügen zum Valentinstag
 
-Die ultimative Solarstromlösungfür dein Zuhause
+Zusätzlich -10% auf ausgewählte Produkte.
 
-Anker SOLIX Balkonkraftwerk mit Speicher
+Nur vom 5. bis zum 18. Februar
 
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/products/b17c0?ref=masterBanner2)
+[Jetzt einkaufenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner2)
 
 Entdecke innovative Ladelösungen
 ----------
@@ -98,17 +98,23 @@ Entdecke Anker Innovations
 
   [Jetzt bestellenValentinstagsgeschenke zum Verlieben](https://www.anker.com/eu-de/valentinstag?ref=productBanner7_1)
 
+* ### Anker SOLIX C1000 ###
+
+  Schnelle Power, immer und überall.
+
+  [Mehr erfahrenAnker SOLIX C1000](https://www.anker.com/eu-de/products/a1761?ref=productBanner7_2)
+
 * ### Anker SOLIX C800 Plus Tragbare Powerstation ###
 
   März erhältlich. Pünktlich zum Frühjahr.
 
-  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner7_2)
+  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner7_3)
 
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_3)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_4)
 
 * ###
 
@@ -122,7 +128,7 @@ Entdecke Anker Innovations
 
   600W Mikroinverter, erweiterbar auf 800W
 
-  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
+  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_5)
 
 Was macht Anker so besonders?
 ----------
