@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Gegenstände auf der Strecke im Bereich Sonnenallee beseitigt ###
+### ärztliche Versorgung eines Fahrgastes in einem Zug in Greifswalder Straße ###
 
- Letztes Update: 14:41 / 05.02.2024
+ Letztes Update: 17:09 / 05.02.2024
 
 Information
 
-Die Gegenstände auf der Strecke im Bereich Sonnenallee wurden beseitigt. Auf den Linien S41 und S42 kommt es noch zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der ärztliche Versorgung eines Fahrgastes in einem Zug in Greifswalder Straße kommt es auf den Linien S41, S42, S2, S8 und S85 zu Verspätungen und Ausfällen.
 
-* Die Linien S41 und S42 verkehren im 10-Minuten-Takt.
+Wir bitten um Verständnis.
 
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
