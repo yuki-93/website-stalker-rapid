@@ -4,22 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Gegenstände auf der Strecke Sonnenallee ###
+### Gegenstände auf der Strecke im Bereich Sonnenallee beseitigt ###
 
- Letztes Update: 12:11 / 05.02.2024
+ Letztes Update: 12:44 / 05.02.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke im Bereich Sonnenallee ist der Zugverkehr der Linien S2, S41 und S42 zwischen Treptower Park und Neukölln unterbrochen.
-*Bitte nutzen Sie zur Umfahrung zwischen Treptower Park und Baumschulenweg die Linien S8, S85 und S9 sowie zwischen Baumschulenweg und Neukölln die Linien S1 (S47), S45 und S46.*
+Die Gegenstände auf der Strecke im Bereich Sonnenallee wurden beseitigt. Auf den Linien S1 (S47), S2, S41, S42, S45, S46, S8 und S85 kommt es noch zu Verspätungen und nachfolgenden Einschränkungen:
 
+* Die Linie S2 verkehrt nur im 20-Minuten-Takt zwischen Bernau und Hermannstraße.
 * Die Linien S41 und S42 verkehren im 10-Minuten-Takt.
+* Die Linie S85 verkehrt nicht.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
