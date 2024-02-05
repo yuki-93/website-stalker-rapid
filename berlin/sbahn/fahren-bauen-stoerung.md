@@ -4,23 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Gegenstände auf der Strecke im Bereich Sonnenallee beseitigt ###
 
- Letztes Update: 14:05 / 05.02.2024
+ Letztes Update: 14:41 / 05.02.2024
 
 Information
 
-Die Gegenstände auf der Strecke im Bereich Sonnenallee wurden beseitigt. Auf den Linien S1 (S47), S2, S41, S42, S45, S46, S8 und S85 kommt es noch zu Verspätungen und nachfolgenden Einschränkungen:
+Die Gegenstände auf der Strecke im Bereich Sonnenallee wurden beseitigt. Auf den Linien S41 und S42 kommt es noch zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Die Linie S2 verkehrt nur im 20-Minuten-Takt zwischen Bernau und Hermannstraße.
 * Die Linien S41 und S42 verkehren im 10-Minuten-Takt.
-* Die Linie S85 verkehrt nicht.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
