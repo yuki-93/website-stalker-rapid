@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Gegenstände auf der Strecke im Bereich Sonnenallee beseitigt ###
 
- Letztes Update: 12:44 / 05.02.2024
+ Letztes Update: 14:05 / 05.02.2024
 
 Information
 
