@@ -2,6 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Personen auf der Strecke Schönfließ ###
+
+ Letztes Update: 11:21 / 06.02.2024
+
+Information
+
+Wegen Personen auf der Strecke im Bereich Schönfließ ist der Zugverkehr der Linie S8 zwischen Blankenburg und Schönfließ unterbrochen.
+*Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Hohen Neuendorf die Linie S1.*
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
