@@ -16,7 +16,7 @@ Hilfe
 
 Valentinstagsgeschenke zum Verlieben
 
-Bis zu 20% Rabatt auf Ladesets
+Bis zu 23% Rabatt auf Ladesets
 
 1. - 14. Februar
 
