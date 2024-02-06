@@ -2,6 +2,38 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Hauptbahnhof beendet ###
+
+ Letztes Update: 23:12 / 06.02.2024
+
+Information
+
+Nach einem Polizeieinsatz im Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung verspätet
+
+[S2](https://sbahn.berlin/fahren/s2/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Signal in Frankfurter Allee ###
+
+ Letztes Update: 22:50 / 06.02.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Frankfurter Allee kommt es auf den Linien S2, S42 und S8 zu Verspätungen und eventuellen Ausfällen.
+
+* Die Linie **S2** verkehrt nur zwischen Bernau und Greifswalder Straße, *bitte nutzen Sie zwischen Greifswalder Straße und Hermannstraße die Linien S41 und S42*.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
