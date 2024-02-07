@@ -2,6 +2,29 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Beeinträchtigung durch Vandalismus im Bereich Frankfurter Allee ###
+
+ Letztes Update: 02:30 / 07.02.2024
+
+Information
+
+Wegen einer Beeinträchtigung durch Vandalismus (Kabeldiebstahl) im Bereich Frankfurter Allee kommt es auf den Linien S2, S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S2**: Bernau \<\> Greifswalder Straße, *der 10-Minuten-Takt zwischen Buch und Bornholmer Straße verkehrt nicht*
+* **S42**: verkehrt im 10-Minuten-Takt
+* **S8**: Birkenwerder \<\> Blankenburg ***sowie*** Treptower Park \<\> Grünau/ Wildau, *bitte nutzen Sie zwischen Blankenburg \<\> Greifswalder Straße \<\> Treptower Park die Linien S2, S41 und S42*
+* **S85**: verkehrt nicht
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
