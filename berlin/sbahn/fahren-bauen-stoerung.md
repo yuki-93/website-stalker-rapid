@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Beeinträchtigung durch Vandalismus im Bereich Frankfurter Allee behoben ###
-
- Letztes Update: 10:12 / 07.02.2024
-
-Information
-
-Nach einer Beeinträchtigung durch Vandalismus (Kabeldiebstahl) im Bereich Frankfurter Allee kommt es auf den Linien S2, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S42**: verkehrt im 10-Minuten-Takt
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
