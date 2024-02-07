@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus im Bereich Frankfurter Allee behoben ###
 
- Letztes Update: 09:14 / 07.02.2024
+ Letztes Update: 10:12 / 07.02.2024
 
 Information
 
@@ -17,25 +17,10 @@ Nach einer Beeinträchtigung durch Vandalismus (Kabeldiebstahl) im Bereich Frank
 **Die betroffenen Linien fahren wie folgt:**
 
 * **S42**: verkehrt im 10-Minuten-Takt
-* **S85**: verkehrt nicht
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Johannisthal ###
-
- Letztes Update: 09:09 / 07.02.2024
-
-Information
-
-Wegen einer ärztlichen Versorgung eines Fahrgastes im Zug in Johannisthal kommt es auf den Linien S45, S46, S47, S8 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
 
 ### Baumaßnahmen ###
 
