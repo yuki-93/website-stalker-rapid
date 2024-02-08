@@ -9,7 +9,7 @@ Dein perfektes Valentinstagsset - Bis zu 23% Rabatt
 
 [Mehr erfahren\>\>](https://www.anker.com/eu-de/valentinstag)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Valentinstags-Sale](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=naviBar)
 
 ProdukteNach KategorieNeuerscheinungenAngebote[Valentinstag](https://www.anker.com/eu-de/valentinstag?ref=naviMenu)
 
