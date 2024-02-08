@@ -8,15 +8,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Halensee (Ausfall Fahrstrom) ###
 
- Letztes Update: 12:12 / 08.02.2024
+ Letztes Update: 13:14 / 08.02.2024
 
 Information
 
-Wegen der Reparatur an der Strecke im Bereich Halensee (Ausfall Fahrstrom) kommt es auf den Linien S1, S2, S3, S5, S7, S9, S41, S42, S45 und S46 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an der Strecke im Bereich Halensee (Ausfall Fahrstrom) kommt es auf den Linien S1, S2, S3, S41, S42, S45, S46, S5, S7 und S9 zu Verspätungen sowie nachfolgenden Einschränkungen:
 
-Wir bitten um Entschuldigung
+* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+* Die Linie S5 verkehrt nur im 10-Minuten-Takt.
 
- sonstige Einschränkungen  Verbindung unterbrochen
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
