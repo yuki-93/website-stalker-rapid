@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S5](https://sbahn.berlin/fahren/s5/)
 
 ### Reparatur an der Strecke im Bereich Halensee (Ausfall Fahrstrom) ###
 
- Letztes Update: 13:14 / 08.02.2024
+ Letztes Update: 14:07 / 08.02.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke im Bereich Halensee (Ausfall Fahrstrom) kommt es auf den Linien S1, S2, S3, S41, S42, S45, S46, S5, S7 und S9 zu Verspätungen sowie nachfolgenden Einschränkungen:
+Wegen einer Reparatur an der Strecke im Bereich Halensee (Ausfall Fahrstrom) kommt es auf den Linien S41, S42 und S5 zu Verspätungen sowie nachfolgenden Einschränkungen:
 
 * Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 * Die Linie S5 verkehrt nur im 10-Minuten-Takt.
