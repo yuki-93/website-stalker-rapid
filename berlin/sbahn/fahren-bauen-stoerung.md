@@ -2,6 +2,50 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Personen auf der Strecke in Strausberg ###
+
+ Letztes Update: 19:22 / 08.02.2024
+
+Information
+
+Wegen Personen auf der Strecke in Strausberg kommt es auf der Linie S5 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Personen auf der Strecke in Hauptbahnhof ###
+
+ Letztes Update: 18:53 / 08.02.2024
+
+Information
+
+Nach einem Polizeieinsatz wegen Personen auf der Strecke in Hauptbahnhof kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur am Signal in Blankenburg ###
+
+ Letztes Update: 18:27 / 08.02.2024
+
+Information
+
+Wegen einer Reparatur am Signal in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
