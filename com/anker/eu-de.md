@@ -9,6 +9,28 @@ Dein perfektes Valentinstagsset - Bis zu 23% Rabatt
 
 [Mehr erfahren\>\>](https://www.anker.com/eu-de/valentinstag)
 
+06
+
+:
+
+Tagen
+
+13
+
+:
+
+Std.
+
+42
+
+:
+
+Min.
+
+14
+
+Sek.
+
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Valentinstags-Sale](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=naviBar)
 
 ProdukteNach KategorieNeuerscheinungenAngebote[Valentinstag](https://www.anker.com/eu-de/valentinstag?ref=naviMenu)
@@ -21,7 +43,27 @@ Valentinstagsgeschenke zum Verlieben
 
 Bis zu 23% Rabatt auf Ladesets
 
-1. - 14. Februar
+06
+
+:
+
+Tagen
+
+13
+
+:
+
+Stunden
+
+42
+
+:
+
+Minuten
+
+14
+
+Sekunden
 
 [Jetzt bestellen masterBanner1](https://www.anker.com/eu-de/valentinstag?ref=masterBanner1)
 
