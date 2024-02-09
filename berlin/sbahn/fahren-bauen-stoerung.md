@@ -96,49 +96,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28633)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
 
-[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Hermannstraße / Baumschulenweg – Treptower Park – Greifswalder Straße ###
-
-Nacht 08./09.02. (Do/Fr), ca. 23 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28772&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21967&tx_sbbconstructions_list%5Bperiod%5D=17588&type=5679&cHash=658054f6fd0db1347136e99f6022d6a5)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr
-   Treptower Park \<\> Frankfurter Allee
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-65642fa2b0/#con-28772)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Treptower Park \<\> Frankfurter Allee ###
-
-Nacht 08./09.02. (Do/Fr), ca. 23 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28773&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21967&tx_sbbconstructions_list%5Bperiod%5D=17589&type=5679&cHash=3919fad2e47ecd5dd1500ce52db6d06c)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-   Treptower Park \<\> Frankfurter Allee (im 20-Minutentakt)
-* Abfahrt:
-   Treptower Park ab 17, 37, 57; Frankfurter Allee ab 05, 25, 45
-* Beim Umstieg zwischen dem Pendelzug (Treptower Park \<\> Frankfurter Allee) und der S41/S42 in/aus Richtung Neukölln/Südkreuz ist lediglich ein Bahnsteigseitenwechsel erforderlich.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
  Nur Nachts
