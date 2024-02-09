@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur am Zug in Tiergarten ###
+### Reparatur am Zug in Tiergarten beendet ###
 
- Letztes Update: 06:06 / 09.02.2024
+ Letztes Update: 06:24 / 09.02.2024
 
 Information
 
-Wegen einer Reparatur am Zug in Tiergarten kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
+Nach einer Reparatur am Zug in Tiergarten kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
 
 * Linie S5: zwischen Mahlsdorf und Ostbahnhof kann nur ein 10-Minuten-Takt angeboten werden.
 * Linie S75: verkehrt Wartenberg \<\> Lichtenberg.
