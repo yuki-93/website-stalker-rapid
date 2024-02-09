@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Personen auf der Strecke in Blankenburg ###
+
+ Letztes Update: 20:06 / 09.02.2024
+
+Information
+
+Wegen eines Polizeieinsatzes (Personen auf der Strecke) in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
