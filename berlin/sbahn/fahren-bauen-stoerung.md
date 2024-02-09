@@ -116,6 +116,30 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleissperrung-fuer-arbeiten-bei-der-fernbahn/#con-28715)
 
+[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Kaulsdorf/Wartenberg \<\> Warschauer Straße ###
+
+10.02. (Sa), ca. 20 Uhr bis 12.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28474&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21635&tx_sbbconstructions_list%5Bperiod%5D=17571&type=5679&cHash=019ded64a7e2a8245969150d9905d789)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S5: Wuhletal \<\> Friedrichsfelde Ost
+     Bitte steigen Sie zwischen der S5 (Strausberg Nord/Mahlsdorf \<\> Wuhletal) und dem Bus S5 (Wuhletal \<\> Friedrichsfelde Ost) in beiden Fahrtrichtungen in Kaulsdorf um, im Abschnitt Kaulsdorf \<\> Wuhletal fahren die S5 und der Bus S5 nahezu parallel.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm/#con-28474)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Ring ###
@@ -134,6 +158,25 @@ Information
 * Einzelne Züge auf der S42 fahren auf dem gesamten Ring um 10 Minuten versetzt
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28630)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Waßmannsdorf ###
+
+Nacht 09./10.02. (Fr/Sa), ca. 1.05 Uhr - ca. 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28721&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21911&tx_sbbconstructions_list%5Bperiod%5D=17577&type=5679&cHash=6db18bb0a358f9b5e514120c326d228d)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung:
+  * In Waßmannsdorf fährt die S45 und die S9 nach Flughafen BER von Gleis 2, Bahnsteig stadteinwärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 Hinweis
 
@@ -233,26 +276,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28633)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Erkner \<\> Rummelsburg ###
-
-Nacht 09./10.02. (Fr/Sa), ca. 22.40 Uhr - ca. 4.50 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28715&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21907&tx_sbbconstructions_list%5Bperiod%5D=17569&type=5679&cHash=a1a24b55efe1644027a5be43762c63c0)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Friedrichshagen \<\> Karlshorst S-Bahnverkehr nur im 20-Minutentakt
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleissperrung-fuer-arbeiten-bei-der-fernbahn/#con-28715)
-
 [S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
 
 Nur Wochenende
@@ -296,22 +319,22 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28630)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
 
 ### Waßmannsdorf ###
 
-Nacht 09./10.02. (Fr/Sa), ca. 1.05 Uhr - ca. 5 Uhr
+Nacht 10./11.02. (Sa/So), ca. 1.05 Uhr - ca. 7 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28721&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21911&tx_sbbconstructions_list%5Bperiod%5D=17577&type=5679&cHash=6db18bb0a358f9b5e514120c326d228d)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21911&tx_sbbconstructions_list%5Bperiod%5D=17576&type=5679&cHash=12f7c91dc9d8d1231888854ebf309813)
 
  Zugverkehr verändert
 
 Information
 
 * Bahnsteigänderung:
-  * In Waßmannsdorf fährt die S45 und die S9 nach Flughafen BER von Gleis 2, Bahnsteig stadteinwärts.
+  * In Waßmannsdorf fährt die S9 nach Spandau von Gleis 1, Bahnsteig stadtauswärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -825,25 +848,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenwechsel-und-manuelle-stopfarbeiten/#con-28817)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Waßmannsdorf ###
-
-Nacht 10./11.02. (Sa/So), ca. 1.05 Uhr - ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21911&tx_sbbconstructions_list%5Bperiod%5D=17576&type=5679&cHash=12f7c91dc9d8d1231888854ebf309813)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung:
-  * In Waßmannsdorf fährt die S9 nach Spandau von Gleis 1, Bahnsteig stadtauswärts.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 ### Fahrplanänderungen ###
 
