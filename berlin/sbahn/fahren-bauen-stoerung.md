@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur am Zug in Tiergarten beendet ###
+### Reparatur am Zug in Grunewald ###
 
- Letztes Update: 07:43 / 09.02.2024
+ Letztes Update: 09:57 / 09.02.2024
 
 Information
 
-Nach einer Reparatur am Zug in Tiergarten kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
-
-* Linie S5: zwischen Mahlsdorf und Ostbahnhof kann nur ein 10-Minuten-Takt angeboten werden.
+Nach einer Reparatur am Zug in Grunewald kommt es auf der Linie S7 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
@@ -1224,25 +1222,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a06a3b9f31/#con-28867)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Greifswalder Straße \<\> Wedding ###
-
-08.03. (Fr) 21:45 Uhr bis 11.03. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28812&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21994&tx_sbbconstructions_list%5Bperiod%5D=17631&type=5679&cHash=ccf77a2801a270c42489361bfe43fc8c)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-09d6460d77/#con-28812)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
