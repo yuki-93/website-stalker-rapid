@@ -15,19 +15,19 @@ Dein perfektes Valentinstagsset - Bis zu 23% Rabatt
 
 Tagen
 
-05
+04
 
 :
 
 Std.
 
-41
+38
 
 :
 
 Min.
 
-03
+53
 
 Sek.
 
@@ -49,19 +49,19 @@ Bis zu 23% Rabatt auf Ladesets
 
 Tagen
 
-05
+04
 
 :
 
 Stunden
 
-41
+38
 
 :
 
 Minuten
 
-03
+53
 
 Sekunden
 

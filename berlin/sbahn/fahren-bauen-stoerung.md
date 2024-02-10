@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Bauarbeiten in Priesterweg, Gl. 4 ###
-
- Letztes Update: 16:50 / 10.02.2024
-
-Information
-
-Wegen Bauarbeiten in Priesterweg, Gl. 4 verkehrt die Linie S25 derzeit Teltow Stadt \<\> Südende, sowie Gesundbrunnen \<\> Hennigsdorf.
-
-Bitte nutzen Sie zwischen Südende \<\> Priesterweg, Gl. 3 die Linie S26.
-
-Für die Weiterfahrt nach Südkreuz ist in Priesterweg ein Bahnsteigwechsel erforderlich.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
