@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Signalstörung in Wollankstraße ###
 
- Letztes Update: 11:31 / 11.02.2024
+ Letztes Update: 13:40 / 11.02.2024
 
 Information
 
@@ -19,6 +19,20 @@ Die Linie S25 verkehrt in Gesundbrunnen und Bornholmer Straße jeweils von Gl. 1
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### kurzfristiger Personalausfall S2 (südlicher Teil) ###
+
+ Letztes Update: 10:11 / 16.01.2024
+
+Information
+
+Wegen kurzfristigen Personalausfall besteht auf der Linie S2 (südlicher Teil) nur ein 20 Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -459,13 +473,17 @@ Nur Wochenende
 
 ### Rahnsdorf \<\> Karlshorst ###
 
-16.02. (Fr) 21:45 Uhr bis 19.02. (Mo) 1:30 Uhr
+16.02. (Fr), ca. 22 Uhr durchgehend bis 19.02. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28475&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21636&tx_sbbconstructions_list%5Bperiod%5D=17512&type=5679&cHash=fff7a2f1a54975627068eb4f7a4eba60)
 
-23.02. (Fr) 21:45 Uhr bis 26.02. (Mo) 1:30 Uhr
+23.02. (Fr), ca. 22 Uhr durchgehend bis 26.02. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28475&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21636&tx_sbbconstructions_list%5Bperiod%5D=17513&type=5679&cHash=09cc7ff86d804de82c16aeea31b719ff)
+
+07.03. (Do), ca. 22 Uhr durchgehend bis 11.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28475&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21636&tx_sbbconstructions_list%5Bperiod%5D=17681&type=5679&cHash=39bdb8d84c87adf4f7a926a9f9e4757c)
 
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28475&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21636&type=5679&cHash=22ae74c2cd14a344c0b0d7c7d5f708f9)
 
@@ -477,40 +495,10 @@ Information
   * Rahnsdorf \<\> Karlshorst
   * Friedrichshagen \<\> Karlshorst
 
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick/#con-28475)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-Nur Wochenende
-
-### Rahnsdorf \<\> Wuhlheide ###
-
-16.02. (Fr) 22 Uhr bis 19.02. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28810&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21636&tx_sbbconstructions_list%5Bperiod%5D=17627&type=5679&cHash=f67473727098e531ff780d6b8f257f01)
-
-23.02. (Fr) 22 Uhr bis 26.02. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28810&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21636&tx_sbbconstructions_list%5Bperiod%5D=17628&type=5679&cHash=418858f28f80f9addd3bfef46bdfb17d)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28810&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21636&type=5679&cHash=27c229c5e77717eec8c902cde364e097)
-
- Zugverkehr verändert
-
-Information
-
-* kein S-Bahnverkehr Rahnsdorf \<\> Wuhlheide
-* Ersatzverkehr mit Bussen
-* Bus S3
-  * Friedrichshagen \<\> Karlshorst
-  * Rahnsdorf \<\> Karlshorst
-
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick/#con-28810)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick/#con-28475)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
@@ -697,7 +685,7 @@ Information
 
 Nur Wochenende
 
-### Marienfelde \<\> Priesterweg ###
+### (Lichtenrade) Marienfelde \<\> Priesterweg ###
 
 23.02. (Fr), ca. 21:45 Uhr bis 26.02. (Mo), ca. 1.30 Uhr
 
@@ -714,7 +702,10 @@ Nur Wochenende
 Information
 
 * Ersatzverkehr mit Bussen
-* Bahnsteigänderung in Priesterweg
+  * Bus S2: Marienfelde \<\> Priesterweg
+
+* Fahrplanänderung
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhanben-dresner-bahn-1/#con-28487)
@@ -1018,6 +1009,39 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/baumassnahmen/#con-28780)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Rahnsdorf \<\> Karlshorst ###
+
+16.02. (Fr), ca. 22 Uhr durchgehend bis 19.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28475&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21636&tx_sbbconstructions_list%5Bperiod%5D=17512&type=5679&cHash=fff7a2f1a54975627068eb4f7a4eba60)
+
+23.02. (Fr), ca. 22 Uhr durchgehend bis 26.02. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28475&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21636&tx_sbbconstructions_list%5Bperiod%5D=17513&type=5679&cHash=09cc7ff86d804de82c16aeea31b719ff)
+
+07.03. (Do), ca. 22 Uhr durchgehend bis 11.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28475&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21636&tx_sbbconstructions_list%5Bperiod%5D=17681&type=5679&cHash=39bdb8d84c87adf4f7a926a9f9e4757c)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28475&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21636&type=5679&cHash=22ae74c2cd14a344c0b0d7c7d5f708f9)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Rahnsdorf \<\> Karlshorst
+  * Friedrichshagen \<\> Karlshorst
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick/#con-28475)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
@@ -1100,7 +1124,7 @@ Information
 
 Nur Wochenende
 
-### Marienfelde \<\> Priesterweg ###
+### (Lichtenrade) Marienfelde \<\> Priesterweg ###
 
 23.02. (Fr), ca. 21:45 Uhr bis 26.02. (Mo), ca. 1.30 Uhr
 
@@ -1117,7 +1141,10 @@ Nur Wochenende
 Information
 
 * Ersatzverkehr mit Bussen
-* Bahnsteigänderung in Priesterweg
+  * Bus S2: Marienfelde \<\> Priesterweg
+
+* Fahrplanänderung
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhanben-dresner-bahn-1/#con-28487)
@@ -1191,7 +1218,7 @@ Information
 
 Nur Wochenende
 
-### Karow \<\> Bernau ###
+### (Pankow) Karow \<\> Bernau ###
 
 01.03. (Fr) 21:45 Uhr bis 04.03. (Mo) 1:30 Uhr
 
@@ -1348,6 +1375,32 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-09d6460d77/#con-28812)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts Nur Wochenende
+
+### Gesundbrunnen \<\> Nordbahnhof ###
+
+in der Nacht 08./09.03. (Fr/Sa), ca. 1 Uhr - 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28879&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21972&tx_sbbconstructions_list%5Bperiod%5D=17679&type=5679&cHash=d29314a39a6e6512f0c2028facf93c33)
+
+in der Nacht 09./10.03. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28879&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21972&tx_sbbconstructions_list%5Bperiod%5D=17680&type=5679&cHash=82773caec8bc0aa24dc3976d7b78a42a)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28879&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21972&type=5679&cHash=8d8a79a26208d1ce602758626d229ed8)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S2 nach Blankenfelde fährt von Gesundbrunnen bis Nordbahnhof ca. 7 Minuten früher.
+  * Fahrgäste der S25 (aus Richtung Hennigsdorf) steigen zur S2 (in Richtung Blankenfelde) bitte erst in Nordbahnhof (anstatt in Gesundbrunnen) um.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
