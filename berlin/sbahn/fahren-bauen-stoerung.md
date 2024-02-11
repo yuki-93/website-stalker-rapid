@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### kurzfristiger Personalausfall S2 (südlicher Teil) ###
+
+ Letztes Update: 14:23 / 11.02.2024
+
+Information
+
+Wegen kurzfristigen Personalausfällen besteht auf der Linie S2 (südlicher Teil) nur ein 20 Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Signalstörung in Wollankstraße ###
@@ -19,20 +33,6 @@ Die Linie S25 verkehrt in Gesundbrunnen und Bornholmer Straße jeweils von Gl. 1
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### kurzfristiger Personalausfall S2 (südlicher Teil) ###
-
- Letztes Update: 10:11 / 16.01.2024
-
-Information
-
-Wegen kurzfristigen Personalausfall besteht auf der Linie S2 (südlicher Teil) nur ein 20 Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -504,7 +504,7 @@ Information
 
 ### Birkenwerder \<\> Oranienburg ###
 
-17.02. (Sa) 12 Uhr bis 28.03. (Do) 22 Uhr
+17.02. (Sa), ca. 12 Uhr durchgehend bis 28.03. (Do), ca. 22 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28645&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21824&tx_sbbconstructions_list%5Bperiod%5D=17591&type=5679&cHash=c2c9f8ede7bcb2fa2d215e1f2683fc5b)
 
@@ -1303,6 +1303,26 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8905823ff4/#con-28878)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Grunewald \<\> Wannsee \<\> Potsdam Hbf ###
+
+Nächte 04./05.03. (Mo/Di) und 05./06.03. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28880&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22065&tx_sbbconstructions_list%5Bperiod%5D=17682&type=5679&cHash=fa775ab51d6308aed5977e3be725382a)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-wannsee-6/#con-28880)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
