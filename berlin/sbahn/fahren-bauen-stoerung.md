@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### kurzfristiger Personalausfall S2 (südlicher Teil) ###
-
- Letztes Update: 14:23 / 11.02.2024
-
-Information
-
-Wegen kurzfristigen Personalausfällen besteht auf der Linie S2 (südlicher Teil) nur ein 20 Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Signalstörung in Wollankstraße ###
