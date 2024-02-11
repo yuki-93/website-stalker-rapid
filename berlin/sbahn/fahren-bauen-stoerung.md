@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Signalstörung in Wollankstraße ###
+
+ Letztes Update: 08:56 / 11.02.2024
+
+Information
+
+Wegen einer Signalstörung in Wollankstraße verkehrt die Linie S1 zwischen Gesundbrunnen \<\> Frohnau derzeit im 20 Minuten-Takt.
+
+Die Linie S25 verkehrt in Gesundbrunnen und Bornholmer Straße jeweils von Gl. 1 nach Hennigsdorf.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
