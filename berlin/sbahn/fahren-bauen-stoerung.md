@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Tiere auf der Strecke im Bereich Alexanderplatz ###
 
- Letztes Update: 16:18 / 11.02.2024
+ Letztes Update: 16:29 / 11.02.2024
 
 Information
 
-Wegen Tieren auf der Strecke im Bereich Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
+Nach Tieren auf der Strecke im Bereich Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
