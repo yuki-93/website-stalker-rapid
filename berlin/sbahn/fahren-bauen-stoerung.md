@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Signalstörung in Wollankstraße ###
 
- Letztes Update: 08:56 / 11.02.2024
+ Letztes Update: 11:31 / 11.02.2024
 
 Information
 
-Wegen einer Signalstörung in Wollankstraße verkehrt die Linie S1 zwischen Gesundbrunnen \<\> Frohnau derzeit im 20 Minuten-Takt.
+Wegen einer Signalstörung in Wollankstraße verkehrt die Linie S1 zwischen Gesundbrunnen \<\> Frohnau derzeit im 20-Minuten-Takt.
 
 Die Linie S25 verkehrt in Gesundbrunnen und Bornholmer Straße jeweils von Gl. 1 nach Hennigsdorf.
 
