@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Kurzfristige Bauarbeiten in Pichelsberg ###
+### kurzfristige Bauarbeiten in Pichelsberg ###
 
- Letztes Update: 16:36 / 12.02.2024
+ Letztes Update: 21:35 / 12.02.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Pichelsberg muss der Zugverkehr der Linie S3 in der heutigen Nacht, in der Zeit von ca. 21:30 Uhr bis ca. 04:00 Uhr verändert durchgeführt werden.
+Wegen kurzfristiger Bauarbeiten in Pichelsberg muss der Zugverkehr der Linie S3 in der heutigen Nacht bis ca. 01:30 Uhr verändert durchgeführt werden.
 
-Zugverkehr wie folgt:
+* Die Linie S3 verkehrt zwischen Erkner/ Karlshorst und Olympiastadion.
 
-Linie S3: verkehrt Karlshorst \<\> Grunewald/ Olympiastadion
-
-Bitte nutzen Sie zwischen Westkreuz/ Olympiastadion und Spandau die Züge der Linie S9.
+*Bitte nutzen Sie zwischen Olympiastadion und Spandau die Züge der Linie S9.*
 
 Wir bitten um Entschuldigung.
 
