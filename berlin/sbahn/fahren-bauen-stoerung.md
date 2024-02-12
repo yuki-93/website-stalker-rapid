@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Neukölln \<\> Treptower Park / Baumschulenweg beendet ###
-
- Letztes Update: 18:08 / 12.02.2024
-
-Information
-
-Nach unbefugten Personen auf der Strecke im Bereich Neukölln \<\> Treptower Park / Baumschulenweg kommt es auf den Linie S1, S 2, S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen..
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
