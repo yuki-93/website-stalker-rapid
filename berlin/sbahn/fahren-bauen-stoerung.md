@@ -2,40 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Personen auf der Strecke Westkreuz ###
-
- Letztes Update: 22:54 / 12.02.2024
-
-Information
-
-Nach einem Polizeieinsatz wegen Personen auf der Strecke im Bereich Westkreuz kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Bauarbeiten in Pichelsberg ###
-
- Letztes Update: 21:35 / 12.02.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Pichelsberg muss der Zugverkehr der Linie S3 in der heutigen Nacht bis ca. 01:30 Uhr verändert durchgeführt werden.
-
-* Die Linie S3 verkehrt zwischen Erkner/ Karlshorst und Olympiastadion.
-
-*Bitte nutzen Sie zwischen Olympiastadion und Spandau die Züge der Linie S9.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
