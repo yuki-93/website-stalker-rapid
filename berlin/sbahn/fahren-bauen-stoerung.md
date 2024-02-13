@@ -135,6 +135,47 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28630)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
 
+### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Altglienicke \> Ostbahnhof ###
+
+14.02. (Mi) bis 16.02. (Fr) jeweils 1:43 Uhr bis 2:08 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20913&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15588&tx_sbbconstructions_list%5Bperiod%5D=17639&type=5679&cHash=44ee66d48ef204cfddad4cb11b2130a5)
+
+ fährt nicht  keine Verbindung
+
+Information
+
+* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet abweichend in Altglienicke (an 1:43 Uhr).
+  * Der Zug fällt zwischen Altglienicke und Ostbahnhof aus.
+
+* In Altglienicke besteht keine Übergangsmöglichkeit zum BVG-Nachtverkehr.
+* Bitte benutzen Sie zwischen:
+  * Flughafen BER \<\> Schönefeld \<\> S Adlershof \<\> S Schöneweide \<\> S Plänterwald \<\> S Treptower Park \<\> U Schlesisches Tor \<\> S+U Jannowitzbrücke \<\> S+U Alexanderplatz/Memhardstraße
+     die BVG-Nachtbuslinie N60.
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Alexanderplatz \> Altglienicke ###
+
+14.02. (Mi) bis 16.02. (Fr) jeweils 3:05 Uhr bis 3:32 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17640&type=5679&cHash=2ff461ad361eb9a979315e0bda899f0f)
+
+ fährt nicht
+
+Information
+
+* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr) beginnt abweichend um 3:32 Uhr in Altglienicke
+* Der Zug fällt von Alexanderplatz bis Altglienicke aus.
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -318,26 +359,6 @@ Hinweis
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Erkner – Ostkreuz – Ostbahnhof ###
-
-Nächte 12./13.02. (Mo/Di) bis 14./15.02. (Mi/Do) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28802&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21986&tx_sbbconstructions_list%5Bperiod%5D=17620&type=5679&cHash=9bdff8d3d1065fda84051e4a4ca1623a)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung
-* Bahnsteigänderung in Ostkreuz
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schutzsperrung-fuer-arbeiten-bei-der-fernbahn-1/#con-28802)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -1600,61 +1621,3 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenwechsel-und-manuelle-stopfarbeiten/#con-28817)
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Schöneweide ###
-
-27.02. (Di) und 28.02. (Mi) jeweils 3:05 Uhr bis 3:23 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25446&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=18599&tx_sbbconstructions_list%5Bperiod%5D=17669&type=5679&cHash=909a46b9bd9a02cf68f40e328307ff3f)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr) beginnt abweichend in Schöneweide ab 3:23 Uhr.
-* Der Zug fällt von Alexanderplatz bis Schöneweide aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Treptower Park \> Neukölln \> Baumschulenweg \> Flughafen BER ###
-
-27.02. (Di) und 28.02. (Mi) jeweils 3:05 Uhr bis 4:20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28849&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22029&tx_sbbconstructions_list%5Bperiod%5D=17670&type=5679&cHash=a0cc392b063aef88545a798728502330)
-
- Zugverkehr verändert
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) wird von Treptower Park (ab 3:29 Uhr) über Neukölln
-   (mit Fahrtrichtungswechsel an 3:34 Uhr / ab 3:39 Uhr) bis Baumschulenweg umgeleitet.
-* Der Halt in Plänterwald entfällt.
-* Von Baumschulenweg bis Flughafen BER fährt der Zug 12 bis 13 Minuten später, die neue Ankunftszeit in Flughafen BER ist 4:13 Uhr.
-* Bitte benutzen Sie zwischen S+U Alexanderplatz/Memhardstraße \<\> Elsenstraße/S Treptower Park \<\> S Plänterwald \<\> S Schöneweide \<\>
-   S Adlershof \<\> S Schönefeld \<\> Flughafen BER auch die Nachtbuslinie N60.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
-### Treptower Park \> Flughafen BER ###
-
-27.02. (Di) und 28.02. (Mi) jeweils 3:43 Uhr bis 4:17 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26449&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19522&tx_sbbconstructions_list%5Bperiod%5D=17671&type=5679&cHash=4b5a010ea8d8fe94a8389815d41de472)
-
- Takt geändert
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) fährt von Treptower Park bis Flughafen BER ca. 1 bis 3 Minuten später,
-   die neue Ankunftszeit in Flughafen BER ist 4:17 Uhr.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
