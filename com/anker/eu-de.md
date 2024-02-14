@@ -9,19 +9,19 @@ Dein perfektes Valentinstagsset - Bis zu 23% Rabatt
 
 [Mehr erfahren\>\>](https://www.anker.com/eu-de/valentinstag)
 
-21
+20
 
 :
 
 Std.
 
-42
+38
 
 :
 
 Min.
 
-27
+14
 
 Sek.
 
@@ -43,19 +43,19 @@ Bis zu 23% Rabatt auf Ladesets
 
 Tagen
 
-21
+20
 
 :
 
 Stunden
 
-42
+38
 
 :
 
 Minuten
 
-27
+14
 
 Sekunden
 
