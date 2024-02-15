@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur am Bahnübergang im Bereich Hegermühle ###
+
+ Letztes Update: 18:55 / 15.02.2024
+
+Information
+
+Wegen einem technischen Defekt an einem Bahnübergang im Bereich Hegermühle verkehrt die Linie S5 nur zwischen Westkreuz \<\> Strausberg.
+
+Zwischen Strausberg \<\> Strausberg/Nord besteht S-Bahn Pendelverkehr im 40-Minuten Takt.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
