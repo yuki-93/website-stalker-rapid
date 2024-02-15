@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an einer Weiche in Hermannstraße ###
+### Polizeieinsatz zwischen Grunewald und Nikolassee ###
 
- Letztes Update: 11:17 / 15.02.2024
+ Letztes Update: 12:15 / 15.02.2024
 
 Information
 
-Wegen einer Reparatur an einer Weiche in Hermannstraße verkehrt die Linie S2 nur zwischen Bernau und Ostkreuz.
+Wegen Personen auf der Strecke ist der Zugverkehr der Linie S7 zwischen Grunewald und Nikolassee unterbrochen.
 
-Wir bitten um Entschuldigung
+Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
