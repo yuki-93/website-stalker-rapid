@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Tiere auf der Strecke ###
+
+ Letztes Update: 05:47 / 15.02.2024
+
+Information
+
+Wegen Tieren auf der Strecke ist der Zugverkehr der Linie S1 zwischen Schönholz und Waidmannslust unterbrochen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
