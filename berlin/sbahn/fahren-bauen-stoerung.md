@@ -4,26 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Erkner – Ostkreuz – Ostbahnhof ###
-
-Nächte 12./13.02. (Mo/Di) bis 14./15.02. (Mi/Do) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28802&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21986&tx_sbbconstructions_list%5Bperiod%5D=17620&type=5679&cHash=9bdff8d3d1065fda84051e4a4ca1623a)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung
-* Bahnsteigänderung in Ostkreuz
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schutzsperrung-fuer-arbeiten-bei-der-fernbahn-1/#con-28802)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
