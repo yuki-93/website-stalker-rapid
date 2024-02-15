@@ -13,19 +13,15 @@ Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
-Valentinstagsgeschenke zum Verlieben
+Anker Nano
 
-Bis zu 23% Rabatt auf Ladesets
+ C-ing is Believing
 
-[Jetzt bestellen masterBanner1](https://www.anker.com/eu-de/valentinstag?ref=masterBanner1)
+Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
-Mehr sparen, mehr Verngügen zum Valentinstag
+[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner1)
 
-Zusätzlich -10% auf ausgewählte Produkte.
-
-Nur vom 5. bis zum 18. Februar
-
-[Jetzt einkaufenmasterBanner2](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner2)
+[Apple-Zubehör entdecken \>\>](https://www.anker.com/eu-de/collections/apple-accessories)
 
 Entdecke innovative Ladelösungen
 ----------
@@ -92,19 +88,19 @@ Entdecke Anker Innovations
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_1)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner6_1)
 
 * ### Anker SOLIX C1000 ###
 
   Schnelle Power, immer und überall.
 
-  [Mehr erfahrenAnker SOLIX C1000](https://www.anker.com/eu-de/products/a1761?ref=productBanner7_2)
+  [Mehr erfahrenAnker SOLIX C1000](https://www.anker.com/eu-de/products/a1761?ref=productBanner6_2)
 
 * ### Anker SOLIX C800 Plus Tragbare Powerstation ###
 
   März erhältlich. Pünktlich zum Frühjahr.
 
-  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner7_3)
+  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner6_3)
 
 * ###
 
@@ -118,7 +114,7 @@ Entdecke Anker Innovations
 
   600W Mikroinverter, erweiterbar auf 800W
 
-  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_4)
+  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner6_4)
 
 Was macht Anker so besonders?
 ----------
@@ -257,16 +253,6 @@ JerryRigEverything
 
 Vorgestellt in
 ----------
-
-Anker Nano
-
- C-ing is Believing
-
-Höchste Ladegeschwindigkeiten für dein USB-C iPhone
-
-[Mehr erfahrenmasterBanner15](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner15)
-
-[Apple-Zubehör entdecken \>\>](https://www.anker.com/eu-de/collections/apple-accessories)
 
 &lt;img alt="" loading="lazy" width="1" height="1" decoding="async" data-nimg="1" style="color:transparent;display:none" srcSet="/\_next/image?url=https%3A%2F%2Fwww.facebook.com%2Ftr%3Fid%3D759876867455653%26ev%3DPageView%26noscript%3D1&amp;amp;w=16&amp;amp;q=75 1x" src="/\_next/image?url=https%3A%2F%2Fwww.facebook.com%2Ftr%3Fid%3D759876867455653%26ev%3DPageView%26noscript%3D1&amp;amp;w=16&amp;amp;q=75"/&gt;
 
