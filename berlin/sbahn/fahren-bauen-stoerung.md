@@ -4,19 +4,72 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### technische Defekt an einem Bahnübergang ###
+
+ Letztes Update: 07:14 / 15.02.2024
+
+Information
+
+Wegen eines technische Defekts an einem Bahnübergang kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+
+Linie S5: der 10-Minuten-Takt kann nur zwischen Mahlsdorf und Westkreuz angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Tiere auf der Strecke ###
 
- Letztes Update: 05:47 / 15.02.2024
+ Letztes Update: 07:05 / 15.02.2024
 
 Information
 
 Wegen Tieren auf der Strecke ist der Zugverkehr der Linie S1 zwischen Schönholz und Waidmannslust unterbrochen.
 
+Ein Ersatzverkehr mit Bussen ist zwischen Waidmannslust und Schönholz (über Wittenau und Wilhelmruh) eingerichtet.
+
+**Haltestellen des Ersatzverkehrs:**
+
+* **S Waidmannslust:** Jean-Jaures-Str. (wie Bus 322)
+* **S+U Wittenau:** Göschenplatz (wie Bus 120, 122, 220, N20)
+* **S Wilhelmsruh:** Kopenhagener Str. (wieBus 122)
+* **S Schönholz:** Residenzstr. (wie Bus 150, N52)
+
 Wir bitten um Entschuldigung.
 
  fährt nicht  Verbindung unterbrochen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Savignyplatz beendet ###
+
+ Letztes Update: 06:54 / 15.02.2024
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur am Signal ###
+
+ Letztes Update: 06:41 / 15.02.2024
+
+Information
+
+Wegen einer Reparatur am Signal in Johannistal kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
