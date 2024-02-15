@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Polizeieinsatz zwischen Grunewald und Nikolassee ###
-
- Letztes Update: 12:15 / 15.02.2024
-
-Information
-
-Wegen Personen auf der Strecke ist der Zugverkehr der Linie S7 zwischen Grunewald und Nikolassee unterbrochen.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
