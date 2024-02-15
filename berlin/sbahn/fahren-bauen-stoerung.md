@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur am Signal ###
+### Reparatur an einer Weiche in Hermannstraße ###
 
- Letztes Update: 06:41 / 15.02.2024
+ Letztes Update: 11:17 / 15.02.2024
 
 Information
 
-Wegen einer Reparatur am Signal in Johannistal kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einer Weiche in Hermannstraße verkehrt die Linie S2 nur zwischen Bernau und Ostkreuz.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Entschuldigung
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
