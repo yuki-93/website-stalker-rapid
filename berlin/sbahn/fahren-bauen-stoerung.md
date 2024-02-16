@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) beendet ###
 
- Letztes Update: 17:22 / 16.02.2024
+ Letztes Update: 17:38 / 16.02.2024
 
 Information
 
-Nach einem Polizeieinsatz im Raum Berlin (Staatsbesuch) kommt es auf allen Linien noch zu Verspätungen sowie Zugausfällen.
+Nach einem Polizeieinsatz im Raum Berlin (Staatsbesuch) kann es auf allen Linien noch zu Verspätungen sowie Zugausfällen kommen.
 
 Es kommt noch zu nachfolgenden Einschränkungen im Zugverkehr:
 
@@ -22,7 +22,6 @@ Es kommt noch zu nachfolgenden Einschränkungen im Zugverkehr:
 * Linie S3 verkehrt Erkner\<\>Spandau (Erkner\<\>Ostbahnhof im 10 Minuten-Takt)
 * Linie S41 verkehrt im 10 Minuten-Takt
 * Linie S42 verkehrt im 10 Minuten-Takt
-* Linie S5 verkehrt Strausberg Nord\<\>Olympiastadion (Mahlsdorf\<\>Warschauer Straße im 10-Minuten-Takt)
 * Wir bitten um Verständnis
 
  Zugverkehr verändert  sonstige Einschränkungen
