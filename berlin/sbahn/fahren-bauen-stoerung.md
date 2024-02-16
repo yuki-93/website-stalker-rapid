@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 09:17 / 16.02.2024
+ Letztes Update: 09:22 / 16.02.2024
 
 Information
 
@@ -24,6 +24,7 @@ Es kommt zu nachfolgenden Einschränkungen im Zugverkehr:
 * Linie S41 verkehrt im 10 Minuten-Takt
 * Linie S42 verkehrt im 10 Minuten-Takt
 * Linie S45 verkehrt nicht
+* Linie S47 verkehrt Schöneweide\<\>Spindlersfeld
 * Linie S85 verkehrt nicht
 
 Wir bitten um Ihr Verständnis.
@@ -1235,7 +1236,7 @@ Information
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### (Waidmannslust –) Frohnau/Mühlenbeck-Mönchmühle – Birkenwerder – Oranienburg ###
+### Frohnau/Mühlenbeck-Mönchmühle – Birkenwerder – Oranienburg ###
 
 28.03. (Do) 22 Uhr bis 09.05. (Do) 1 Uhr
 
@@ -1304,11 +1305,31 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28778)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31016)
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### (Schönfließ) - Schönholz \<\> Oranienburg und Blankenburg \<\> Bernau ###
+
+Nacht 01./02.05. (Mi/Do), ca. 21:40 bis 1:30
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28915&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21824&tx_sbbconstructions_list%5Bperiod%5D=17700&type=5679&cHash=3027a986c6c8af1135f10d23e6cb35b3)
+
+ fährt nicht
+
+Information
+
+* Kein Zugverkehr
+   Schönholz \<\> Oranienburg
+   Schönfließ \<\> Birkenwerder
+   Blankenburg \<\> Bernau
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28915)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31016)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
 
  Nur Nachts
 
-### Schönholz \<\> Oranienburg und Blankenburg \<\> Bernau ###
+### Schönfließ/Schönholz \<\> Oranienburg und Blankenburg \<\> Bernau ###
 
 Nacht 01./02.05. (Mi/Do), ca. 21:40 bis 1:30
 
@@ -1321,6 +1342,7 @@ Information
 * Ersatzverkehr mit Bussen
   * Bus S1 Schönholz \<\> Oranienburg
   * Bus S2 Blankenburg \<\> Bernau
+  * Bus S8 Mühlenbeck Mönchmühle \<\> Birkenwerder
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
