@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 09:22 / 16.02.2024
+ Letztes Update: 10:51 / 16.02.2024
 
 Information
 
@@ -16,16 +16,18 @@ Wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) kann es auf allen Li
 
 Es kommt zu nachfolgenden Einschränkungen im Zugverkehr:
 
-**der** **Zugverkehr der Linien S3,S5,S7 und S9 ist zwischen Ostbahnhof\<\>Alexanderplatz unterbrochen**
-
 * Linie S1 verkehrt im 20 Minuten-Takt
 * Linie S2 verkehrt im 20 Minuten-Takt
 * Linie S26 verkehrt nicht
+* Linie S3 verkehrt Erkner\<\>Ostbahnhof(Friedrichshagen\<\>Karlshorst im 10 Minuten-Takt) und Spandau\<\>Zoologischer Garten
 * Linie S41 verkehrt im 10 Minuten-Takt
 * Linie S42 verkehrt im 10 Minuten-Takt
 * Linie S45 verkehrt nicht
 * Linie S47 verkehrt Schöneweide\<\>Spindlersfeld
+* Linie S5 verkehrt Strausberg Nord\<\>Warschauer Straße(Mahlsdorf\<\>Warschauer Straße) im 10 Minuten-Takt
+* Linie S75 verkehrt Wartenberg\<\>Lichtenberg im 10 Minuten-Takt
 * Linie S85 verkehrt nicht
+* Linie S9 verkehrt Ostbahnhof\<\>Flughafen BER Terminal 1/2 und Spandau\<\>Zoologischer Garten
 
 Wir bitten um Ihr Verständnis.
 
