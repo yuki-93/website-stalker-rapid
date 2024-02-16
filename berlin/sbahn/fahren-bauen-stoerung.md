@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 10:51 / 16.02.2024
+ Letztes Update: 11:48 / 16.02.2024
 
 Information
 
@@ -27,7 +27,6 @@ Es kommt zu nachfolgenden Einschränkungen im Zugverkehr:
 * Linie S5 verkehrt Strausberg Nord\<\>Warschauer Straße(Mahlsdorf\<\>Warschauer Straße) im 10 Minuten-Takt
 * Linie S75 verkehrt Wartenberg\<\>Lichtenberg im 10 Minuten-Takt
 * Linie S85 verkehrt nicht
-* Linie S9 verkehrt Ostbahnhof\<\>Flughafen BER Terminal 1/2 und Spandau\<\>Zoologischer Garten
 
 Wir bitten um Ihr Verständnis.
 
