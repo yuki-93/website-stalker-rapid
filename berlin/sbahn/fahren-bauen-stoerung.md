@@ -4,6 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
+
+ Letztes Update: 07:53 / 16.02.2024
+
+Information
+
+Wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) kann es auf allen Linien zu Verspätungen sowie Zugausfällen kommen.
+
+Es kommt zu nachfolgenden Einschränkungen im Zugverkehr:
+
+* Linie S1 verkehrt zwischen Zehlendorf \<\> Potsdamer Platz nur im 10 Minuten-Takt
+* Linie S3 verkehrt zwischen Karlshorst \<\> Ostbahnhof nur im 10 Minuten-Takt
+* Linie S41 verkehrt im 10 Minuten-Takt
+* Linie S42 verkehrt im 10 Minuten-Takt
+* Linie S5 verkehrt zwischen Mahlsdorf \<\> Ostbahnhof nur im 10 Minuten-Takt
+* Linie S26 verkehrt ab ca.08:00 Uhr nicht mehr
+* Linie S2 verkehrt ab ca. 08:00 Uhr im 20 Minuten-Takt
+* Linie S85 verkehrt ab ca. 08:00 Uhr nicht mehr
+* Linie S1 verkehrt ab ca. 08:00 Uhr nicht mehr
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Gegenstände auf der Strecke in Ostbahnhof ###
@@ -17,28 +43,6 @@ Wegen Gegenständen auf der Strecke in Ostbahnhof ist der Zugverkehr der Linien
 Wir bitten um Verständnis.
 
  fährt nicht  Verbindung unterbrochen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
-
- Letztes Update: 04:33 / 16.02.2024
-
-Information
-
-Wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) kann es auf allen Linien zu Verspätungen sowie Zugausfällen kommen.
-
-Es kommt zu nachfolgenden Einschränkungen im Zugverkehr:
-
-* Linie S1 verkehrt zwischen Zehlendorf \<\> Potsdamer Platz nur im 10 Minuten-Takt
-* Linie S3 verkehrt zwischen Karlshorst \<\> Ostbahnhof nur im 10 Minuten-Takt
-* Linie S41 verkehrt im 10 Minuten-Takt
-* Linie S42 verkehrt im 10 Minuten-Takt
-* Linie S5 verkehrt zwischen Mahlsdorf \<\> Ostbahnhof nur im 10 Minuten-Takt
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
