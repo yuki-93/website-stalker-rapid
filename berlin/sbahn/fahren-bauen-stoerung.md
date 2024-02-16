@@ -4,24 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) beendet ###
 
- Letztes Update: 20:29 / 16.02.2024
+ Letztes Update: 21:32 / 16.02.2024
 
 Information
 
-Nach einem Polizeieinsatz im Raum Berlin (Staatsbesuch) kann es auf den Linien S1, S2, S25, S26, S41 und S42 noch zu Verspätungen und Zugausfällen kommen.
+Nach einem Polizeieinsatz im Raum Berlin (Staatsbesuch) kann es auf den Linien S1 und S2 noch zu Verspätungen und Zugausfällen kommen.
 
 Es kommt noch zu nachfolgenden Einschränkungen im Zugverkehr:
 
 * Linie S1 verkehrt im 20 Minuten-Takt
 * Linie S2 verkehrt im 20 Minuten-Takt
-* Linie S26 verkehrt nicht
-* Linie S41 verkehrt im 10 Minuten-Takt
-* Linie S42 verkehrt im 10 Minuten-Takt
-* Wir bitten um Verständnis.
+
+Wir bitten um Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
