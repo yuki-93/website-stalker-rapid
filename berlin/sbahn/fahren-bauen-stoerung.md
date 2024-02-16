@@ -39,80 +39,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Südkreuz, Yorckstraße/Großgörschenstraße \<\> Gesundbrunnen ###
-
-05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28432&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=051b7b40bd97c6b3ba1ffed11d322e62)
-
- Ersatzverkehr
-
-Information
-
-* Sperrung des Streckenabschnittes zwischen Gesundbrunnen und Südkreuz/Yorckstraße (Großgörschenstraße)
-* Als Ersatz fahren Busse
-  * Linie S1A: Südkreuz \<\> Schöneberg \<\> Friedrichstraße
-  * Linie S1B: Friedrichstraße \<\> Gesundbrunnen
-
-* Bitte beachten Sie zahlreiche Takt-/Fahrplan- und Bahnsteigänderungen
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28432)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Schöneweide \<\> Hermannstraße ###
-
-05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28631&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=755a7be37e1f2d36b0bfebe93f282cfc)
-
- fährt nicht
-
-Information
-
-* Die S47 fährt im Abend- und Nachtverkehr Fr/Sa und Sa/So immer nur Spindlersfeld \<\> Schöneweide.
-* Im Tagesverkehr nutzen Fahrgäste bitte die umgeleitete S1 zwischen Spindlersfeld und Hermannstraße.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28631)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
-
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### Südkreuz \<\> Westend ###
-
-05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28632&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=f26978ab50aecae0d8fc5cb7e5e53b47)
-
- fährt nicht
-
-Information
-
-* Die S46 fährt im Nachtverkehr Fr/Sa+Sa/So immer nur zwischen Königs Wusterhausen \<\> Südkreuz
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28632)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Bornholmer Straße \<\> Waidmannslust ###
-
-05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28633&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=1294b6510a71ec19771c6daebdb70556)
-
- fährt nicht
-
-Information
-
-* S85 fährt nicht Bornholmer Straße \<\> Waidmannslust, sondern Bornholmer Straße \<\> Buch
-* gegenüber der dort sonst verkehrenden S2, fährt die S85
-  * nach Buch von Bornholmer Straße bis Blankenburg 3 bis 4 Minuten früher
-  * in der Gegenrichtung nach Grünau 4 bis 5 Minuten später
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28633)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 Nur Wochenende
@@ -142,48 +68,7 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick/#con-28475)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Ring ###
-
-05.01. (Fr) 22 Uhr bis 16.02. (Fr) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28630&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21583&tx_sbbconstructions_list%5Bperiod%5D=17559&type=5679&cHash=8bfdfd77aa4cde1ef5c5c5eb95d1ad97)
-
- Takt geändert
-
-Information
-
-* Die Linien S41/42 fahren Mo-Fr während der Hauptverkehrszeiten statt im durchgehenden 5-Minutentakt in einem 5-/5-/10-Minutentakt.
-  * Das bedeutet: Innerhalb von 20 Minuten fahren drei Züge nacheinander im Abstand von 5 und 5 und 10 Minuten.
-
-* Einzelne Züge auf der S42 fahren auf dem gesamten Ring um 10 Minuten versetzt
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#con-28630)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-nord-sued-s-bahn-tunnel/#c30516)
-
 ### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Altglienicke \> Ostbahnhof ###
-
-14.02. (Mi) bis 16.02. (Fr) jeweils 1:43 Uhr bis 2:08 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20913&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15588&tx_sbbconstructions_list%5Bperiod%5D=17639&type=5679&cHash=44ee66d48ef204cfddad4cb11b2130a5)
-
- fährt nicht  keine Verbindung
-
-Information
-
-* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet abweichend in Altglienicke (an 1:43 Uhr).
-  * Der Zug fällt zwischen Altglienicke und Ostbahnhof aus.
-
-* In Altglienicke besteht keine Übergangsmöglichkeit zum BVG-Nachtverkehr.
-* Bitte benutzen Sie zwischen:
-  * Flughafen BER \<\> Schönefeld \<\> S Adlershof \<\> S Schöneweide \<\> S Plänterwald \<\> S Treptower Park \<\> U Schlesisches Tor \<\> S+U Jannowitzbrücke \<\> S+U Alexanderplatz/Memhardstraße
-     die BVG-Nachtbuslinie N60.
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
