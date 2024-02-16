@@ -92,25 +92,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick/#con-28475)
 
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Altglienicke ###
-
-14.02. (Mi) bis 16.02. (Fr) jeweils 3:05 Uhr bis 3:32 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=21297&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15849&tx_sbbconstructions_list%5Bperiod%5D=17640&type=5679&cHash=2ff461ad361eb9a979315e0bda899f0f)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr) beginnt abweichend um 3:32 Uhr in Altglienicke
-* Der Zug fällt von Alexanderplatz bis Altglienicke aus.
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
