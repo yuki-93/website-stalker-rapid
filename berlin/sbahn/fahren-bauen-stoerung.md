@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 11:48 / 16.02.2024
+ Letztes Update: 12:18 / 16.02.2024
 
 Information
 
@@ -19,7 +19,7 @@ Es kommt zu nachfolgenden Einschränkungen im Zugverkehr:
 * Linie S1 verkehrt im 20 Minuten-Takt
 * Linie S2 verkehrt im 20 Minuten-Takt
 * Linie S26 verkehrt nicht
-* Linie S3 verkehrt Erkner\<\>Ostbahnhof(Friedrichshagen\<\>Karlshorst im 10 Minuten-Takt) und Spandau\<\>Zoologischer Garten
+* Linie S3 verkehrt Erkner\<\>Spandau(Friedrichshagen\<\>Karlshorst im 10 Minuten-Takt)
 * Linie S41 verkehrt im 10 Minuten-Takt
 * Linie S42 verkehrt im 10 Minuten-Takt
 * Linie S45 verkehrt nicht
