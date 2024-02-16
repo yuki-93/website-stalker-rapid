@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 07:53 / 16.02.2024
+ Letztes Update: 09:17 / 16.02.2024
 
 Information
 
@@ -16,33 +16,19 @@ Wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) kann es auf allen Li
 
 Es kommt zu nachfolgenden Einschränkungen im Zugverkehr:
 
-* Linie S1 verkehrt zwischen Zehlendorf \<\> Potsdamer Platz nur im 10 Minuten-Takt
-* Linie S3 verkehrt zwischen Karlshorst \<\> Ostbahnhof nur im 10 Minuten-Takt
-* Linie S41 verkehrt im 10 Minuten-Takt
-* Linie S42 verkehrt im 10 Minuten-Takt
-* Linie S5 verkehrt zwischen Mahlsdorf \<\> Ostbahnhof nur im 10 Minuten-Takt
-* Linie S26 verkehrt ab ca.08:00 Uhr nicht mehr
-* Linie S2 verkehrt ab ca. 08:00 Uhr im 20 Minuten-Takt
-* Linie S85 verkehrt ab ca. 08:00 Uhr nicht mehr
-* Linie S1 verkehrt ab ca. 08:00 Uhr nicht mehr
+**der** **Zugverkehr der Linien S3,S5,S7 und S9 ist zwischen Ostbahnhof\<\>Alexanderplatz unterbrochen**
+
+* Linie S1 verkehrt im 20 Minuten-Takt
+* Linie S2 verkehrt im 20 Minuten-Takt
+* Linie S26 verkehrt nicht
+* Linie S41 verkehrt im 10 Minuten-Takt
+* Linie S42 verkehrt im 10 Minuten-Takt
+* Linie S45 verkehrt nicht
+* Linie S85 verkehrt nicht
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Gegenstände auf der Strecke in Ostbahnhof ###
-
- Letztes Update: 05:57 / 16.02.2024
-
-Information
-
-Wegen Gegenständen auf der Strecke in Ostbahnhof ist der Zugverkehr der Linien S3, S5, S7, S75 und S9 zwischen Ostbahnhof und Alexanderplatz unterbrochen,nutzen sie zur Umfahrung auch die BVG.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
