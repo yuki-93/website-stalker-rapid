@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Raum Berlin (Staatsbesuch) ###
 
- Letztes Update: 12:18 / 16.02.2024
+ Letztes Update: 14:01 / 16.02.2024
 
 Information
 
@@ -16,13 +16,16 @@ Wegen eines Polizeieinsatzes im Raum Berlin (Staatsbesuch) kann es auf allen Li
 
 Es kommt zu nachfolgenden Einschränkungen im Zugverkehr:
 
+Zugverkehr der Linien S41, S42 und S46 zwischen Hermannstraße \<\> Bundesplatz unterbrochen.
+
 * Linie S1 verkehrt im 20 Minuten-Takt
 * Linie S2 verkehrt im 20 Minuten-Takt
 * Linie S26 verkehrt nicht
 * Linie S3 verkehrt Erkner\<\>Spandau(Friedrichshagen\<\>Karlshorst im 10 Minuten-Takt)
-* Linie S41 verkehrt im 10 Minuten-Takt
-* Linie S42 verkehrt im 10 Minuten-Takt
+* Linie S41 verkehrt im 10 Minuten-Takt zwischen Bundesplatz \> Gesundbrunnen \> Schönhauser Alee \> Ostkreuz \> Hermannstraße
+* Linie S42 verkehrt im 10 Minuten-Takt zwischen Hermannstraße \> Ostkreuz \> Schönhauser Allee \> Gesundbrunnen \> Bundesplatz
 * Linie S45 verkehrt nicht
+* Linie S46 verkehrt zwischen Königs Wusterhausen\<\> Hermannstraße
 * Linie S47 verkehrt Schöneweide\<\>Spindlersfeld
 * Linie S5 verkehrt Strausberg Nord\<\>Warschauer Straße(Mahlsdorf\<\>Warschauer Straße) im 10 Minuten-Takt
 * Linie S75 verkehrt Wartenberg\<\>Lichtenberg im 10 Minuten-Takt
