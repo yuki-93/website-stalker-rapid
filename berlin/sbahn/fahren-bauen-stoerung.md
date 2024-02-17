@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Schienenerstzverkehr Linie S1 ###
 
- Letztes Update: 22:09 / 17.02.2024
+ Letztes Update: 22:52 / 17.02.2024
 
 Information
 
-Wegen eines Feuerwehreinsatzes in Birkenwerder verkehrt der Ersatzverkehr mit Bussen der Linie S1 derzeit nicht.
+Wegen eines Feuerwehreinsatzes in Birkenwerder verkehrt der Ersatzverkehr mit Bussen der Linie S1 derzeit unregelmäßig.
 
 Wir bitten um Verständnis.
 
- Ersatzverkehr  Verbindung unterbrochen
+ Ersatzverkehr  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
