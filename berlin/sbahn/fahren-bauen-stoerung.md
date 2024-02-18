@@ -2,20 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### betriebliche Störung beendet ###
-
- Letztes Update: 13:05 / 18.02.2024
-
-Information
-
-Nach einer betrieblichen Störung verkehrt die Linie S75 nur im 20-Minuten-Takt.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
