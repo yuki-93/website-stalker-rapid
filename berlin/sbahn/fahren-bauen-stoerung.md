@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall InfrGo ###
 
- Letztes Update: 07:41 / 18.02.2024
+ Letztes Update: 09:49 / 18.02.2024
 
 Information
 
