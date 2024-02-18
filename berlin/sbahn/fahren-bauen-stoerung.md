@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### kurzfristiger Personalausfall InfrGo ###
+### kurzfristiger Personalausfall InfraGo ###
 
- Letztes Update: 09:49 / 18.02.2024
+ Letztes Update: 10:24 / 18.02.2024
 
 Information
 
