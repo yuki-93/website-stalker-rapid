@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)
+
+### Gegenstände auf der Strecke im Bereich Alt Reinickendorf ###
+
+ Letztes Update: 19:48 / 18.02.2024
+
+Information
+
+Wegen Gegenständen auf der Strecke im Bereich Alt Reinickendorf ist die Linie S25 derzeit zwischen Schönholz \<\> Tegel unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
