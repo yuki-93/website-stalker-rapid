@@ -2,6 +2,30 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Personalmangel InfraGo ###
+
+ Letztes Update: 06:58 / 18.02.2024
+
+Information
+
+Aus betrieblichen Gründen (Personalmangel InfraGo) ist der Zugverkehr auf den Linien S3, S5, S7 und S75 stark eingeschränkt.
+
+Die Linie S3 verkehrt zwischen Rahnsdorf und Erkner sowie zwischen Wuhlheide und Spandau nur im 20-Minuten-Takt. Bitte beachten Sie den planmäßigen Schienenersatzverkehr zwischen Rahnsdorf und Karlshorst
+
+Die Linie S5 verkehrt zwischen Strausberg Nord und Westkreuz nur im 20-Minuten-Takt
+
+Die Linie S7 verkehrt zwischen Ahrensfelde und Potsdam im 20-Minuten-Takt. Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Lichtenberg sowie zwischen Charlottenburg und Potsdam angeboten werden.
+
+Die Linie S75 verkehrt nur zwischen Wartenberg und Lichtenberg im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung
+
+ Takt geändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
