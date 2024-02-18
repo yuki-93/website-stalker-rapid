@@ -4,21 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S75](https://sbahn.berlin/fahren/s75/)
 
 ### betriebliche Störung beendet ###
 
- Letztes Update: 11:34 / 18.02.2024
+ Letztes Update: 13:05 / 18.02.2024
 
 Information
 
-Nach einer betrieblichen Störung ist der Zugverkehr auf den Linien S3, S5, S7 und S75 noch unregelmäßig. Es kommt weiterhin noch zu Verspätungen und Ausfällen.
-
-Die Linie S3 verkehrt zwischen Wuhlheide und Spandau nur im 20-Minuten-Takt.
-
-Die Linie S5 verkehrt zwischen Strausberg Nord und Westkreuz nur im 20-Minuten-Takt
-
-Die Linie S75 verkehrt nur im 20-Minuten-Takt.
+Nach einer betrieblichen Störung verkehrt die Linie S75 nur im 20-Minuten-Takt.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
