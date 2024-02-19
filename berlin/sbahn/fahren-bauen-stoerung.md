@@ -8,11 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Gegenstände auf der Strecke in Alt-Reinickendorf ###
 
- Letztes Update: 20:30 / 19.02.2024
+ Letztes Update: 21:58 / 19.02.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke in Alt-Reinickendorf ist der Zugverkehr der Linie S25 zwischen Schönholz und Tegel unterbrochen.
+Wegen Gegenständen auf der Strecke in Alt-Reinickendorf ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen und Tegel unterbrochen.
+
+**Zwischen Schönholz und Tegel ist ein Ersatzverkehr mit Bussen eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S Schönholz: Residenzstr. (wie Bus 150)
+* S Alt-Reinickendorf: Roedernallee/ Lindauer Str. (Haltestelle U Paracelsus-Bad, wie Bus 322)
+* S+U Karl-Bonhoeffer-Nervenklinik: Oranienburger Straße (wie Bus M21, X21)
+* S Eichborndamm: Eichborndamm (wie Bus 221, 322)
+* S Tegel: Buddestr. (wie Bus 133, N25)
+
+Bitte nutzen Sie zusätzlich zur Umfahrung auch die Verkehrsmittel der BVG.
 
 Wir bitten um Verständnis.
 
