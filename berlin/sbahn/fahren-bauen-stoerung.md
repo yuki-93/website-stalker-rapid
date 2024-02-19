@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal Friedrichstraße (Stadtbahn) ###
+### Polizeieinsatz Greifswalder Straße ###
 
- Letztes Update: 07:19 / 19.02.2024
+ Letztes Update: 09:13 / 19.02.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
+Wegen eines Polizeieinsatzes in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal Friedrichstraße (Stadtbahn) beendet ###
+
+ Letztes Update: 08:44 / 19.02.2024
+
+Information
+
+Nach der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
 
 * Linie S3 verkehrt im 10-Minuten-Takt nur zwischen Erkner \<\> Ostbahnhof sowie zwischen Ostbahnhof \<\> Spandau im 20-Minuten-Takt.
 * Linie S5 verkehrt im 10-Minuten-Takt zwischen Strausberg Nord/ Hoppegarten \<\> Warschauer Straße.
@@ -1482,6 +1496,27 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-eisenbahnbruecke-marzahn-landsberger-allee-1/#con-28928)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Grünau \<\> Adlershof ###
+
+20.03. (Mi) 22 Uhr bis 21.03. (Do) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28931&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22110&tx_sbbconstructions_list%5Bperiod%5D=17703&type=5679&cHash=3c46770b44c644e7e6cb3910f4e376c1)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S46 Grünau \<\> Adlershof
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-schoeneweide-3/#con-28931)
+
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 Nur Wochenende
@@ -1497,6 +1532,8 @@ Nur Wochenende
 Information
 
 * Ersatzverkehr mit Bussen
+  * Bus S9 Treptower Park \<\> Baumschulenweg
+
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s9-sued/#con-28824)
