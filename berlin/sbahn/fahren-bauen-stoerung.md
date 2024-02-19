@@ -777,6 +777,8 @@ Information
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-eisenbahnbruecke-marzahn-landsberger-allee-2/#con-28937)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
