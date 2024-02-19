@@ -22,25 +22,6 @@ Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung verspätet
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Schienenersatzverkehr Linie S1 ###
-
- Letztes Update: 23:45 / 18.02.2024
-
-Information
-
-Feuerwehreinsatz in Birkenwerder
-
-Der Ersatzverkehr mit Bussen kann derzeit den Bahnhof Birkenwerder nicht anfahren.
-
-Die Busse des Ersatzverkehrs fahren zwischen Oranienburg \<\> Birkenwerder (JET-Tankstelle).
- Zusätzlich verkehren Shuttle-Busse zwischen Birkenwerder (JET-Tankstelle) \<\> S-Bf Birkenwerder.
-
-Wir bitten um Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1479,6 +1460,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg/#con-28926)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Wartenberg \<\> Springpfuhl ###
+
+20.03. (Mi) 21:45 Uhr bis 21.03. (Do) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28928&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22108&tx_sbbconstructions_list%5Bperiod%5D=17702&type=5679&cHash=50967bcede078da695aadced0282973b)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Springpfuhl \<\> Wartenberg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-eisenbahnbruecke-marzahn-landsberger-allee-1/#con-28928)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
