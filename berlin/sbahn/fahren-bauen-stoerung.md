@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz Gesundbrunnen (unbefugte Personen auf der Strecke ) beendet ###
+### Gegenstände auf der Strecke in Alt-Reinickendorf ###
 
- Letztes Update: 19:03 / 19.02.2024
+ Letztes Update: 20:30 / 19.02.2024
 
 Information
 
-Nach einem Polizeieinsatz in Gesundbrunnen (unbefugte Personen auf der Strecke ) kommt es auf den Linien Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+Wegen Gegenständen auf der Strecke in Alt-Reinickendorf ist der Zugverkehr der Linie S25 zwischen Schönholz und Tegel unterbrochen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Verständnis.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
