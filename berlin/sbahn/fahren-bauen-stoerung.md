@@ -8,19 +8,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal Friedrichstraße (Stadtbahn) ###
 
- Letztes Update: 05:30 / 19.02.2024
+ Letztes Update: 07:19 / 19.02.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
 
-* Linie S3 verkehrt im 10-Minuten-Takt nur zwischen Erkner \<\> Ostbahnhof
+* Linie S3 verkehrt im 10-Minuten-Takt nur zwischen Erkner \<\> Ostbahnhof sowie zwischen Ostbahnhof \<\> Spandau im 20-Minuten-Takt.
 * Linie S5 verkehrt im 10-Minuten-Takt zwischen Strausberg Nord/ Hoppegarten \<\> Warschauer Straße.
 * Linie S75 verkehrt Wartenberg \<\> Lichtenberg.
 
 Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung verspätet
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Schienenersatzverkehr Linie S1 ###
+
+ Letztes Update: 23:45 / 18.02.2024
+
+Information
+
+Feuerwehreinsatz in Birkenwerder
+
+Der Ersatzverkehr mit Bussen kann derzeit den Bahnhof Birkenwerder nicht anfahren.
+
+Die Busse des Ersatzverkehrs fahren zwischen Oranienburg \<\> Birkenwerder (JET-Tankstelle).
+ Zusätzlich verkehren Shuttle-Busse zwischen Birkenwerder (JET-Tankstelle) \<\> S-Bf Birkenwerder.
+
+Wir bitten um Verständnis.
+
+ Ersatzverkehr  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -1437,6 +1456,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-poelnitzweg-in-buch-1/#con-28819)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Neukölln/Baumschulenweg ###
+
+18.03. (Mo) 21:45 Uhr bis 19.03. (Di) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28926&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22107&tx_sbbconstructions_list%5Bperiod%5D=17701&type=5679&cHash=dc340c05f9023bbed2695464617ca9fe)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Linie S41 Ostkreuz \> Neukölln
+  * Linie S42 Neukölln \> Ostkreuz
+  * Linie S9 Ostkreuz \<\> Baumschulenweg
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg/#con-28926)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
