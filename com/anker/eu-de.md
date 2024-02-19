@@ -23,6 +23,82 @@ Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
 [Apple-Zubehör entdecken \>\>](https://www.anker.com/eu-de/collections/apple-accessories)
 
+Neuerscheinungen
+
+Das erste 2000W-Balkonkraftwerk
+mit Speicher der Welt
+
+Limitiertes Angebot: 15. - 29. Februar
+
+[Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/products/solarbank-dual-system-b17c0?ref=masterBanner2)
+
+Mehr erfahren
+
+Unentschlossen?
+
+Unsere Empfehlungen
+----------
+
+Alle Kategorien entdecken
+
+Das Zubehör für cleveres Laden
+----------
+
+[Balkonkraftwerk](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=homePageBanner)[Ladestationen](https://www.anker.com/eu-de/ankerpower?ref=homePageBanner)[Ladegeräte](https://www.anker.com/eu-de/collections/wandladegerate?ref=homePageBanner)[Powerbanks](https://www.anker.com/eu-de/collections/powerbanks?ref=homePageBanner)[Ladekabel](https://www.anker.com/eu-de/collections/kabel?ref=homePageBanner)[Ladepads](https://www.anker.com/eu-de/collections/kabelloses-zubehor?ref=homePageBanner)[Hubs & Docks](https://www.anker.com/eu-de/collections/adapter-hubs?ref=homePageBanner)
+
+Du suchst mehr?
+
+Entdecke unsere Ladeserien!
+----------
+
+Serie 7
+
+Serie 7
+
+Technologie der Zukunft
+
+Technologie der Zukunft
+
+Leistung und Funktionalität auf dem neuesten Stand.
+
+Leistung und Funktionalität auf dem neuesten Stand.
+
+[Mehr erfahrenSerie 7](https://www.anker.com/eu-de/series7?ref=homePageBanner)
+
+[Mehr erfahrenSerie 7](https://www.anker.com/eu-de/series7?ref=homePageBanner)
+
+Serie 6
+
+Serie 6
+
+ Einzigartige Erfahrungen
+
+ Einzigartige Erfahrungen
+
+Smartes Tech-Zubehör mit fortschrittlicher Funktionalität.
+
+Smartes Tech-Zubehör mit fortschrittlicher Funktionalität.
+
+[Mehr erfahrenSerie 6](https://www.anker.com/eu-de/series6?ref=homePageBanner)
+
+[Mehr erfahrenSerie 6](https://www.anker.com/eu-de/series6?ref=homePageBanner)
+
+Serie 5
+
+Serie 5
+
+Der Genuss von Qualität
+
+Der Genuss von Qualität
+
+Smartes Tech-Zubehör mit Premium-Design und mächtiger Leistung.
+
+Smartes Tech-Zubehör mit Premium-Design und mächtiger Leistung.
+
+[Mehr erfahrenSerie 5](https://www.anker.com/eu-de/series5?ref=homePageBanner)
+
+[Mehr erfahrenSerie 5](https://www.anker.com/eu-de/series5?ref=homePageBanner)
+
 Entdecke innovative Ladelösungen
 ----------
 
@@ -88,19 +164,19 @@ Entdecke Anker Innovations
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner6_1)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner10_1)
 
 * ### Anker SOLIX C1000 ###
 
   Schnelle Power, immer und überall.
 
-  [Mehr erfahrenAnker SOLIX C1000](https://www.anker.com/eu-de/products/a1761?ref=productBanner6_2)
+  [Mehr erfahrenAnker SOLIX C1000](https://www.anker.com/eu-de/products/a1761?ref=productBanner10_2)
 
 * ### Anker SOLIX C800 Plus Tragbare Powerstation ###
 
   März erhältlich. Pünktlich zum Frühjahr.
 
-  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner6_3)
+  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner10_3)
 
 * ###
 
@@ -114,7 +190,7 @@ Entdecke Anker Innovations
 
   600W Mikroinverter, erweiterbar auf 800W
 
-  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner6_4)
+  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner10_4)
 
 Was macht Anker so besonders?
 ----------

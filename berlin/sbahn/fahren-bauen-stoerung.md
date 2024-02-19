@@ -4,37 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz Greifswalder Straße ###
-
- Letztes Update: 09:13 / 19.02.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal Friedrichstraße (Stadtbahn) beendet ###
 
- Letztes Update: 08:44 / 19.02.2024
+ Letztes Update: 09:29 / 19.02.2024
 
 Information
 
 Nach der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
 
-* Linie S3 verkehrt im 10-Minuten-Takt nur zwischen Erkner \<\> Ostbahnhof sowie zwischen Ostbahnhof \<\> Spandau im 20-Minuten-Takt.
-* Linie S5 verkehrt im 10-Minuten-Takt zwischen Strausberg Nord/ Hoppegarten \<\> Warschauer Straße.
 * Linie S75 verkehrt Wartenberg \<\> Lichtenberg.
 
 Wir bitten um Entschuldigung.
 
  Takt geändert  Verbindung verspätet
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz Greifswalder Straße beendet ###
+
+ Letztes Update: 09:24 / 19.02.2024
+
+Information
+
+Nach einem Polizeieinsatz in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -1540,7 +1538,7 @@ Information
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### (Strausberg Nord) Hoppegarten \<\> Kaulsdorf ###
+### Hoppegarten \<\> Kaulsdorf ###
 
 vom 22.03. (Fr), ca. 22 Uhr bis 25.03. (Mo), ca. 1.30 Uhr
 
@@ -1558,6 +1556,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28881)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+Nur Wochenende
+
+### (Strausberg Nord) Hoppegarten \<\> Mahlsdorf ###
+
+22.03. (Fr), ca. 22 Uhr bis 25.03. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17704&type=5679&cHash=c5c7f965d4ea837a6d1cc3013e9797fb)
+
+ Zugverkehr verändert
+
+Information
+
+* Kein Zugverkehr Mahlsdorf \<\> Kaulsdorf
+  * zeitweise Fredersdorf \<\> Kaulsdorf
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28933)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
