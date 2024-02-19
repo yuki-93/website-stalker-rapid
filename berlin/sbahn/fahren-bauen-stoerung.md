@@ -4,24 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Schienenersatzverkehr Linie S1 ###
+### Reparatur an einem Signal Friedrichstraße (Stadtbahn) ###
 
- Letztes Update: 23:45 / 18.02.2024
+ Letztes Update: 05:30 / 19.02.2024
 
 Information
 
-Feuerwehreinsatz in Birkenwerder
+Wegen der Reparatur an einem Signal in Friedrichstraße kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und Ausfällen.
 
-Der Ersatzverkehr mit Bussen kann derzeit den Bahnhof Birkenwerder nicht anfahren.
+* Linie S3 verkehrt im 10-Minuten-Takt nur zwischen Erkner \<\> Ostbahnhof
+* Linie S5 verkehrt im 10-Minuten-Takt zwischen Strausberg Nord/ Hoppegarten \<\> Warschauer Straße.
+* Linie S75 verkehrt Wartenberg \<\> Lichtenberg.
 
-Die Busse des Ersatzverkehrs fahren zwischen Oranienburg \<\> Birkenwerder (JET-Tankstelle).
- Zusätzlich verkehren Shuttle-Busse zwischen Birkenwerder (JET-Tankstelle) \<\> S-Bf Birkenwerder.
+Wir bitten um Entschuldigung.
 
-Wir bitten um Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
+ Takt geändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
