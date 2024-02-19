@@ -2,6 +2,27 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Schienenersatzverkehr Linie S1 ###
+
+ Letztes Update: 23:45 / 18.02.2024
+
+Information
+
+Feuerwehreinsatz in Birkenwerder
+
+Der Ersatzverkehr mit Bussen kann derzeit den Bahnhof Birkenwerder nicht anfahren.
+
+Die Busse des Ersatzverkehrs fahren zwischen Oranienburg \<\> Birkenwerder (JET-Tankstelle).
+ Zusätzlich verkehren Shuttle-Busse zwischen Birkenwerder (JET-Tankstelle) \<\> S-Bf Birkenwerder.
+
+Wir bitten um Verständnis.
+
+ Ersatzverkehr  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
