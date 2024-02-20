@@ -183,7 +183,7 @@ Jetzt in großen Mengen bestellen und smartes Tech von Anker mit mächtigen Raba
 Die Anker-Essentials
 ----------
 
-NeuerscheinungenSets
+NeuerscheinungenBestsellerSets
 
 Anker-Innovationen nach Kategorie filtern
 ----------
