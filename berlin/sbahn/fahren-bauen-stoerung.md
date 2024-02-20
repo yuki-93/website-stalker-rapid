@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Stellwerk in Baumschulenweg ###
-
- Letztes Update: 12:08 / 20.02.2024
-
-Information
-
-Wegen der Reparatur an einem Stellwerk in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S9 und S85 zu Verspätungen und Ausfällen.
-
-* Linie S47 verkehrt Spindlersfeld \<\> Schöneweide.
-* Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
