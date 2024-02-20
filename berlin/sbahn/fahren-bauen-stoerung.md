@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz Westhafen beendet ###
+### Reparatur am Zug in Zoologischer Garten und ärztliche Versorgung eines Fahrgastes in Hauptbahnhof beendet ###
 
- Letztes Update: 16:05 / 20.02.2024
+ Letztes Update: 19:24 / 20.02.2024
 
 Information
 
-Nach einem Polizeieinsatz in Westhafen kommt es auf den Linien S41 und S42 zu Verspätungen und Ausfällen.
+Nach der Reparatur an einem Zug in Zoologischer Garten und einer ärztlichen Versorgung eines Fahrgastes in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
