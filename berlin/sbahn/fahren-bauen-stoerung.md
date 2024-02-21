@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### unbefugte Personen auf der Strecke zwischen Schönholz und Tegel ###
-
- Letztes Update: 16:55 / 21.02.2024
-
-Information
-
-Wegen unbefugter Personen auf der Strecke ist der Zugverkehr der Linie S25 zwischen Schönholz und Tegel unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
