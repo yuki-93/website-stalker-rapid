@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### unbefugte Personen auf der Strecke zwischen Messe Nord und Westend ###
+### unbefugte Personen auf der Strecke zwischen Schönholz und Tegel ###
 
- Letztes Update: 15:41 / 21.02.2024
+ Letztes Update: 16:55 / 21.02.2024
 
 Information
 
-Nach dem unbefugte Personen auf der Strecke waren kommt es auf den Linien S41, S42 und S46 zu Ausfällen und Verspätungen.
+Wegen unbefugter Personen auf der Strecke ist der Zugverkehr der Linie S25 zwischen Schönholz und Tegel unterbrochen.
 
 Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
