@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### ärztliche Versorgung eines Fahrgastes in Nikolassee ###
-
- Letztes Update: 18:42 / 21.02.2024
-
-Information
-
-Wegen einer ärtzlichen Versorgung eines Fahrgastes in Nikolassee kommt es auf der Linie S7 zu Ausfällen und Verspätungen.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
