@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Bauarbeiten in Spandau ###
-
- Letztes Update: 04:46 / 21.02.2024
-
-Information
-
-Wegen Bauarbeiten an einer Weiche in Spandau verkehrt die Linie S3 nur zwischen Erkner und Olympiastadion, dabei zwischen Erkner und Charlottenburg planmäßig im 10-Minuten-Takt.
-
-Bitte nutzen Sie zwischen Olympiastadion und Spandau die Linie S9.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### technische Störung an einem Bahnübergang in Zeuthen ###
@@ -62,7 +46,7 @@ Information
 
 ### Waidmannslust – Frohnau ###
 
-16.02. (Fr) bis 28.03.2024 (Do) jeweils Mo-Fr 5 bis 20 Uhr
+16.02. (Fr) bis 28.03. (Do) jeweils Mo-Fr 5 bis 20 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28780&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21970&tx_sbbconstructions_list%5Bperiod%5D=17598&type=5679&cHash=7321b96152336c1c8785694a9f128322)
 
@@ -353,7 +337,7 @@ Information
 
 ### Waidmannslust – Frohnau ###
 
-16.02. (Fr) bis 28.03.2024 (Do) jeweils Mo-Fr 5 bis 20 Uhr
+16.02. (Fr) bis 28.03. (Do) jeweils Mo-Fr 5 bis 20 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28780&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21970&tx_sbbconstructions_list%5Bperiod%5D=17598&type=5679&cHash=7321b96152336c1c8785694a9f128322)
 
@@ -644,7 +628,7 @@ Information
 
 ### Waidmannslust – Frohnau ###
 
-16.02. (Fr) bis 28.03.2024 (Do) jeweils Mo-Fr 5 bis 20 Uhr
+16.02. (Fr) bis 28.03. (Do) jeweils Mo-Fr 5 bis 20 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28780&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21970&tx_sbbconstructions_list%5Bperiod%5D=17598&type=5679&cHash=7321b96152336c1c8785694a9f128322)
 
@@ -1411,7 +1395,7 @@ Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sin
 
 ### Waidmannslust – Frohnau ###
 
-16.02. (Fr) bis 28.03.2024 (Do) jeweils Mo-Fr 5 bis 20 Uhr
+16.02. (Fr) bis 28.03. (Do) jeweils Mo-Fr 5 bis 20 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28780&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21970&tx_sbbconstructions_list%5Bperiod%5D=17598&type=5679&cHash=7321b96152336c1c8785694a9f128322)
 
@@ -1614,6 +1598,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg/#con-28926)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Zehlendorf \<\> Friedenau ###
+
+Nächte 18./19.03. (Mo/Di) bis 21./22.03. (Do/Fr) jeweils 22 bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28975&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22139&tx_sbbconstructions_list%5Bperiod%5D=17739&type=5679&cHash=2c87835d33a40c138f3ab9d9e6d24896)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-der-moltkebruecke-am-s-bf-botanischer-garten-2/#con-28975)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
