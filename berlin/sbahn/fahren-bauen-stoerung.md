@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### defektes Stellwerk im Bereich Rahnsdorf ###
+
+ Letztes Update: 15:05 / 21.02.2024
+
+Information
+
+Wegen eines defekten Stellwerkes im Bereich Rahnsdorf kommt es auf der Linie S3 zu Ausfällen und Verspätungen.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
