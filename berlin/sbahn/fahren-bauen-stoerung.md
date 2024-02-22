@@ -115,52 +115,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Frankfurter Allee – Greifswalder Straße – Bornholmer Straße (– Birkenwerder) ###
-
-Nacht 21./22.02. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28818&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22000&tx_sbbconstructions_list%5Bperiod%5D=17635&type=5679&cHash=c493fde5203bf3923a5ccc9fd571f23b)
-
- Zugverkehr verändert
-
-Information
-
-* kein S-Bahnverkehr: Schönhauser Allee \<\> Bornholmer Straße
-* Taktänderung
-* Bahnsteigänderung in Bornholmer Straße
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-greifswalder-strasse/#con-28818)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Erkner – Ostkreuz – Ostbahnhof ###
-
-Nächte 20./21.02. (Di/Mi) und 21./22.02. (Mi/Do)
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28809&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21993&tx_sbbconstructions_list%5Bperiod%5D=17625&type=5679&cHash=c10609e7d32b3213f3a35a35fb4d141c)
-
-Nächte 26./27.02. (Mo/Di) und 27./28.02. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28809&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21993&tx_sbbconstructions_list%5Bperiod%5D=17626&type=5679&cHash=a699b106702094e93a2bbbed8bfe33c4)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28809&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21993&type=5679&cHash=5ed28516975428485d75980269c01588)
-
- Takt geändert
-
-Information
-
-* Taktänderung
-* Fahrplanänderung
-* Bahnsteigänderung in Ostkreuz
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schutzsperrung-fuer-arbeiten-bei-der-fernbahn-2/#con-28809)
-
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -842,15 +796,9 @@ Information
 
 ### Erkner – Ostkreuz – Ostbahnhof ###
 
-Nächte 20./21.02. (Di/Mi) und 21./22.02. (Mi/Do)
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28809&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21993&tx_sbbconstructions_list%5Bperiod%5D=17625&type=5679&cHash=c10609e7d32b3213f3a35a35fb4d141c)
-
 Nächte 26./27.02. (Mo/Di) und 27./28.02. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28809&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21993&tx_sbbconstructions_list%5Bperiod%5D=17626&type=5679&cHash=a699b106702094e93a2bbbed8bfe33c4)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28809&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21993&type=5679&cHash=5ed28516975428485d75980269c01588)
 
  Takt geändert
 
