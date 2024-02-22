@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur am Zug in Lichtenberg beendet ###
+
+ Letztes Update: 07:19 / 22.02.2024
+
+Information
+
+Nach der Reparatur am Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 derzeit noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -1588,7 +1604,7 @@ Nur Wochenende
 
 Information
 
-* Kein Zugverkehr Hoppearten \<\> Mahlsdorf
+* Kein Zugverkehr Hoppegarten \<\> Mahlsdorf
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28933)
@@ -1615,6 +1631,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s9-sued/#con-28993)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Fredersdorf \<\> Kaulsdorf ###
+
+23.03. (Sa) 1 Uhr bis 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28995&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17756&type=5679&cHash=2a6447f01b8448cebedf3a69246b3bff)
+
+ Zugverkehr verändert
+
+Information
+
+* Ersatzverkehr
+  * Fredersdorf - Kaulsdorf
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28995)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
@@ -1652,6 +1690,38 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28934)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Fredersdorf \<\> Mahlsdorf ###
+
+26.03. (Di) 0 bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28994&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17753&type=5679&cHash=cf66afa2afb553b856d02fcad2d385bb)
+
+30.03. (Sa) 1 bis 5 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28994&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17754&type=5679&cHash=de2ba234a11e0630ff81a956c7d89808)
+
+02.04. (Di) 0 bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28994&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17755&type=5679&cHash=36d3cbb5cba87a8dd663e8497e6dd422)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28994&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&type=5679&cHash=e9c1b919987a7c26b363a1d9eac2d1bc)
+
+ Zugverkehr verändert
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Fredersdorf - Mahlsdorf
+
+* Bahnsteigänderung in Mahlsdorf
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28994)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
