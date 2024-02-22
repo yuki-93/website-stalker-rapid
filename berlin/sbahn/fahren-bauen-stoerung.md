@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur am Zug in Lichtenberg beendet ###
+### Reparatur am Zug in Gesundbrunnen beendet ###
 
- Letztes Update: 07:19 / 22.02.2024
+ Letztes Update: 10:13 / 22.02.2024
 
 Information
 
-Nach der Reparatur am Zug in Lichtenberg kommt es auf den Linien S5, S7 und S75 derzeit noch zu Verspätungen und einzelnen Ausfällen.
+Nach der Reparatur am Zug in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 derzeit noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
