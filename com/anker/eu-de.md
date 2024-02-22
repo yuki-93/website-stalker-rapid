@@ -5,7 +5,7 @@ Anker | Live Charged.
 
 []()
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Valentinstags-Sale](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
 ProdukteNach KategorieNeuerscheinungenAngebote
 
