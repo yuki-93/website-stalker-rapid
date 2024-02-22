@@ -43,18 +43,6 @@ Entdecke Anker Innovations
 
   [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner2_1)
 
-* ### Anker SOLIX C1000 ###
-
-  Schnelle Power, immer und überall.
-
-  [Mehr erfahrenAnker SOLIX C1000](https://www.anker.com/eu-de/products/a1761?ref=productBanner2_2)
-
-* ### Anker SOLIX C800 Plus Tragbare Powerstation ###
-
-  März erhältlich. Pünktlich zum Frühjahr.
-
-  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner2_3)
-
 * ###
 
   Limitierter Deal
@@ -63,11 +51,23 @@ Entdecke Anker Innovations
 
   ### Anker SOLIX Balkonkraftwerk ###
 
-  ### Spare bis zu 400€ ###
+  ### Spare bis zu 500€ ###
 
   600W Mikroinverter, erweiterbar auf 800W
 
-  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 400€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_4)
+  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 500€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_2)
+
+* ### Anker SOLIX C1000 ###
+
+  Schnelle Power, immer und überall.
+
+  [Mehr erfahrenAnker SOLIX C1000](https://www.anker.com/eu-de/products/a1761?ref=productBanner2_3)
+
+* ### Anker SOLIX C800 Plus Tragbare Powerstation ###
+
+  März erhältlich. Pünktlich zum Frühjahr.
+
+  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner2_4)
 
 Unentschlossen?
 
