@@ -338,14 +338,6 @@ Vorgestellt in
 
 &lt;img alt="" loading="lazy" width="1" height="1" decoding="async" data-nimg="1" style="color:transparent;display:none" srcSet="/\_next/image?url=https%3A%2F%2Fwww.facebook.com%2Ftr%3Fid%3D5901378619981639%26ev%3DPageView%26noscript%3D1&amp;amp;w=16&amp;amp;q=75 1x" src="/\_next/image?url=https%3A%2F%2Fwww.facebook.com%2Ftr%3Fid%3D5901378619981639%26ev%3DPageView%26noscript%3D1&amp;amp;w=16&amp;amp;q=75"/&gt;
 
-Jetzt abonnieren und mit der ersten Bestellung ein Gratisgeschenk sichern!
-
-Exklusiver 10%-Rabatt für Erstbestellungen
-
-Abonnieren
-
-Ich stimme den[Nutzungsbedingungen](https://de.anker.com/policies/terms-of-service) und [Datenschutzrechten](https://de.anker.com/policies/privacy-policy)zu.
-
 Kontakt
 
 [](https://www.anker.com/eu-de)
