@@ -4,15 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Wittenau ###
+### Reparatur an einem Signal im Grünauer Kreuz ###
 
- Letztes Update: 17:09 / 23.02.2024
+ Letztes Update: 17:56 / 23.02.2024
 
 Information
 
-Wegen eiens Polizeieinsatzes in Wttenau kommt es auf den Linien S1 und S85 zu Ausfällen und Verspätungen.
+Wegen einer Reparatur an einem Signal im Bereich Grünauer Kreuz kommt es auf den Linien S 45, S46, S8, S85 und S9 zu Ausfällen und Verspätungen.
+
+**Linie S 85** verkehrt Waidmannslust\<\>Schöneweide
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Wittenau beendet ###
+
+ Letztes Update: 17:30 / 23.02.2024
+
+Information
+
+Nach eiem Polizeieinsatz in Wttenau kommt es auf den Linien S1 und S85 noch zu Ausfällen und Verspätungen.
 
 Wir bitten um Verständnis.
 
