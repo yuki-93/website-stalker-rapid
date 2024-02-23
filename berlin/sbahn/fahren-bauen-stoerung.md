@@ -154,24 +154,6 @@ Information
 
  Nur Nachts
 
-### Alexanderplatz \> Treptower Park ###
-
-20.02. (Di) bis 23.02. (Fr) jeweils 3:05 Uhr bis 3:14 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26368&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19432&tx_sbbconstructions_list%5Bperiod%5D=17665&type=5679&cHash=45f7a89c7ffe47e62fdb4c3a8dbe91c6)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr) beginnt erst um 3:14 Uhr in Treptower Park.
-* Der Zug fällt von Alexanderplatz bis Treptower Park aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Westkreuz \> Treptower Park ###
 
 20.02. (Di) bis 23.02. (Fr) jeweils 3:12 Uhr bis 3:43 Uhr
