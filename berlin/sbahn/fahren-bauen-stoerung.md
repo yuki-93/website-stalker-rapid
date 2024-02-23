@@ -4,25 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Notarzteinsatz auf der Strecke Priesterweg \<\> Südkreuz ###
+### Tiere auf der Strecke zwischen Strausberg Nord \<\> Strausberg ###
 
- Letztes Update: 06:35 / 23.02.2024
+ Letztes Update: 08:03 / 23.02.2024
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke ist der Zugverkehr der Linien S2, S25 und S26 zwischen Priesterweg \<\> Südkreuz unterbrochen.
-
-* Linie S2 verkehrt zwischen Blankenfelde \<\> Südkreuz bzw. Potsdamer Platz \<\> Buch / Bernau
-* Linie S25 verkehrt zwischen Teltow Stadt \<\> Priesterweg bzw. Südkreuz \<\> Hennigsdorf
-* Linie S26 verkehrt zwischen Nordbahnhof \<\> Blankenburg
-
-Fahrgäste nutzen bitte zur Umfahrung die Verkehrsmittel der BVG.
+Wegen Tieren auf der Strecke ist der Zugbetrieb auf der Linie S5 zwischen Strausberg Nord \<\> Strausberg unterbrochen.
 
 Wir bitten um Entschuldigung
 
- Zugverkehr verändert  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unterbrochen
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Notarzteinsatz auf der Strecke Priesterweg \<\> Südkreuz - beendet ###
+
+ Letztes Update: 07:32 / 23.02.2024
+
+Information
+
+Nach einem Notarzteinsatz auf der Strecke kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
