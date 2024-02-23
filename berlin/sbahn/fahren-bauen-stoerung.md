@@ -18,20 +18,6 @@ Wir bitten um Entschuldigung
 
  sonstige Einschränkungen  Verbindung unterbrochen
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Notarzteinsatz auf der Strecke Priesterweg \<\> Südkreuz - beendet ###
-
- Letztes Update: 07:32 / 23.02.2024
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
