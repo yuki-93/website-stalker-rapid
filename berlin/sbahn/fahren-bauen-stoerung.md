@@ -20,20 +20,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Wittenau beendet ###
-
- Letztes Update: 17:30 / 23.02.2024
-
-Information
-
-Nach eiem Polizeieinsatz in Wttenau kommt es auf den Linien S1 und S85 noch zu Ausfällen und Verspätungen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
