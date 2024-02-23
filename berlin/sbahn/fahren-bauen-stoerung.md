@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Tiere auf der Strecke zwischen Strausberg Nord \<\> Strausberg ###
+### Reparatur am Zug in Strausberg ###
 
- Letztes Update: 08:03 / 23.02.2024
+ Letztes Update: 10:03 / 23.02.2024
 
 Information
 
-Wegen Tieren auf der Strecke ist der Zugbetrieb auf der Linie S5 zwischen Strausberg Nord \<\> Strausberg unterbrochen.
+Wegen der Reparatur am Zug in Strausberg ist der Zugbetrieb der Linie S5 zwischen Strausberg Nord \<\> Strausberg unterbrochen.
 
 Wir bitten um Entschuldigung
 
- sonstige Einschränkungen  Verbindung unterbrochen
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
