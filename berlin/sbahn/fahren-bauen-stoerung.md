@@ -1382,9 +1382,15 @@ Nur Wochenende
 
 ### (Strausberg Nord) Hoppegarten \<\> Mahlsdorf ###
 
-22.03. (Fr), ca. 22 Uhr bis 25.03. (Mo), ca. 1.30 Uhr
+22.03. (Fr), ca. 22 Uhr bis 23.03. (Sa), ca. 1 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17704&type=5679&cHash=c5c7f965d4ea837a6d1cc3013e9797fb)
+
+23.03. (Sa), ca. 5 Uhr bis 25.03. (Mo), ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17768&type=5679&cHash=30dbc7b5249ccf0c194d0220259ba1b5)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&type=5679&cHash=f47bb37a30b52989947f294be3abaf35)
 
  Zugverkehr verändert
 
