@@ -1084,6 +1084,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-6/#con-28977)
 
+[S47](https://sbahn.berlin/fahren/s47/)
+
+ Nur Nachts
+
+### Schöneweide ###
+
+Nacht 12./13.03. (Di/Mi) 22:15 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29000&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22155&tx_sbbconstructions_list%5Bperiod%5D=17757&type=5679&cHash=27cdd78cdf26d2b62922d87cd31f432b)
+
+ sonstige Einschränkungen
+
+Information
+
+* Bahnsteigänderung in Schöneweide
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-schoeneweide-4/#con-29000)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
@@ -1415,7 +1434,11 @@ Information
 
 * Ersatzverkehr mit Bussen
   * Bus S5: Hoppegarten \<\> Mahlsdorf
-  * Achtung: In den Nächten 25./26.03. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr, 29./30.03. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr und 01./02.04. (Mo/Di), ca. 0 - ca. 1.30 Uhr wird der Ersatzverkehr zwischen Fredersdorf \<\> Mahlsdorf erweitert.
+  * Achtung: In den Nächten
+    * 25./26.03. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr,
+    * 29./30.03. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr und
+    * 01./02.04. (Mo/Di), ca. 0 - ca. 1.30 Uhr
+       ​​​​​​​wird der Ersatzverkehr zwischen Fredersdorf \<\> Mahlsdorf erweitert.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
