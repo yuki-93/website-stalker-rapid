@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### unbefugte Personen auf der Strecke im Bereich Bellevue ###
 
- Letztes Update: 14:49 / 23.02.2024
+ Letztes Update: 15:24 / 23.02.2024
 
 Information
 
-Wegen unbefugter Personen auf der Strecke im Bereich Bellevue kommt es auf den Linien S3, S5, S7 und S9 zu Ausfallen und Verspätungen.
+Nach dem unbefugte Personen auf der Strecke waren, kommt es auf den Linien S3, S5, S7 und S9 noch zu Ausfallen und Verspätungen.
 
 Wir bitten um Verständnis.
 
