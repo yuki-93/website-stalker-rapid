@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur am Zug in Strausberg ###
-
- Letztes Update: 10:03 / 23.02.2024
-
-Information
-
-Wegen der Reparatur am Zug in Strausberg ist der Zugbetrieb der Linie S5 zwischen Strausberg Nord \<\> Strausberg unterbrochen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1474,7 +1458,7 @@ Information
     * 25./26.03. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr,
     * 29./30.03. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr und
     * 01./02.04. (Mo/Di), ca. 0 - ca. 1.30 Uhr
-       ​​​​​​​wird der Ersatzverkehr zwischen Fredersdorf \<\> Mahlsdorf erweitert.
+       wird der Ersatzverkehr zwischen Fredersdorf \<\> Mahlsdorf erweitert.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
