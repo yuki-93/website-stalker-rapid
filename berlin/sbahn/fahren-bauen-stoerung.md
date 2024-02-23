@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### unbefugte Personen auf der Strecke im Bereich Bellevue ###
+### Polizeieinsatz in Wittenau ###
 
- Letztes Update: 15:24 / 23.02.2024
+ Letztes Update: 17:09 / 23.02.2024
 
 Information
 
-Nach dem unbefugte Personen auf der Strecke waren, kommt es auf den Linien S3, S5, S7 und S9 noch zu Ausfallen und Verspätungen.
+Wegen eiens Polizeieinsatzes in Wttenau kommt es auf den Linien S1 und S85 zu Ausfällen und Verspätungen.
 
 Wir bitten um Verständnis.
 
