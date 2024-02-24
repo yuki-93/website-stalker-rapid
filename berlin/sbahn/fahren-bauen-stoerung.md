@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Jannowitzbrücke beendet ###
+
+ Letztes Update: 21:50 / 24.02.2024
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
