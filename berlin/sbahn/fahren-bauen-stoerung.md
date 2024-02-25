@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einer Weiche in Zehlendorf ###
+
+ Letztes Update: 09:19 / 25.02.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Zehlendorf kann es auf der Linie S1 zu Verspätungen kommen.
+
+Der 10-Minuten-Takt kann nur zwischen Schöneberg und Waidmannslust angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1323,6 +1341,8 @@ Information
 * Bahnsteigänderung in Treptower Park, Baumschulenweg und Schöneweide
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-baumschulenweg-2/#con-29018)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
  Nur Nachts
@@ -1408,6 +1428,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-schoeneweide-3/#con-28980)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Ostkreuz – Ostbahnhof ###
+
+22.03. (Fr) 4 Uhr bis 28.03. (Do) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29019&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22170&tx_sbbconstructions_list%5Bperiod%5D=17772&type=5679&cHash=852539da28da965c4e68e7b87fac393f)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung: Mahlsdorf \<\> Friedrichsfelde Ost
+* Fahrplanänderung
+* Bahnsteigänderung in Warschauer Straße
+* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof/#con-29019)
 
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
