@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Gegenstände auf der Strecke im Bereich Hegermühle ###
-
- Letztes Update: 14:07 / 25.02.2024
-
-Information
-
-Wegen Gegenständen auf der Strecke im Bereich Hegermühle ist der Zugverkehr der Linie S5 zwischen Strausberg und Strausberg Nord unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### kurzzeitiger Polizeieinsatz im Bereich Gesundbrunnen ###
-
- Letztes Update: 13:31 / 25.02.2024
-
-Information
-
-Nach einem kurzzeitigen Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Gesundbrunnnen kommt es auf den Linien S1, S2, S25, S26 sowie S41, S42 und S8 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
