@@ -1155,6 +1155,51 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-7/#con-28978)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### (Olympiastadion –) Pichelsberg – Spandau ###
+
+Nacht 13./14.03. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29016&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22167&tx_sbbconstructions_list%5Bperiod%5D=17769&type=5679&cHash=0390bd312a827ee50cd68d0971aafc20)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung
+  * Pichelsberg \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-spandau-4/#con-29016)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### (Ostbahnhof –) Charlottenburg – Spandau ###
+
+Nacht 14./15.03. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29017&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22168&tx_sbbconstructions_list%5Bperiod%5D=17770&type=5679&cHash=8a29fdc564ac307e6bf4f854a3834a72)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung:
+  * Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S7 und S9
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bahnsteigänderung in Ostbahnhof, Charlottenburg, Westkreuz und Grunewald
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-westkreuz-10/#con-29017)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
@@ -1255,6 +1300,28 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-ostkreuz-baumschulenweg/#con-28979)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Grünau/Spindlersfeld – Schöneweide – Westend/Ostkreuz – Ostbahnhof ###
+
+Nacht 19./20.03. (Di/Mi) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29018&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22169&tx_sbbconstructions_list%5Bperiod%5D=17771&type=5679&cHash=255ddfa9eca382f8fd5f2901a7b42c06)
+
+ Zugverkehr verändert
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * Schöneweide \<\> Plänterwald (im 20-Minutentakt)
+  * Plänterwald \<\> Treptower Park (im 10-Minutentakt)
+
+* kein S-Bahnverkehr: Treptower Park \<\> Warschauer Straße (S9-Kurve), bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen
+* Bahnsteigänderung in Treptower Park, Baumschulenweg und Schöneweide
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
