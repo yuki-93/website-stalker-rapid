@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einer Weiche in Zehlendorf ###
-
- Letztes Update: 09:19 / 25.02.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Zehlendorf kann es auf der Linie S1 zu Verspätungen kommen.
-
-Der 10-Minuten-Takt kann nur zwischen Schöneberg und Waidmannslust angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
