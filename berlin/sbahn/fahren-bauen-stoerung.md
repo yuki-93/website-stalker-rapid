@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### technische Untersuchung an einem Zug in Fredersdorf ###
+### technische Untersuchung an einem Zug in Fredersdorf beendet ###
 
- Letztes Update: 16:18 / 26.02.2024
+ Letztes Update: 16:59 / 26.02.2024
 
 Information
 
-Wegen der technischen Untersuchung an einem Zug in Fredersdorf ist der Zugverkehr der S5 zwischen Hoppergarten und Strausberg unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung zwischen Mahlsdorf und Strausberg die Regionalzüge der RB26 sowie örtliche Verkehrsmittel.
+Nach der technischen Untersuchung an einem Zug in Fredersdorf kommt es auf der Linie S5 noch zu Verspätungen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht
+ Zugverkehr verändert
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
