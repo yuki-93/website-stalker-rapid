@@ -6,15 +6,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Vorabinformation: kurzfristiger Bauarbeiten im Bereich Pichelsberg ###
+### kurzfristiger Bauarbeiten im Bereich Pichelsberg ###
 
- Letztes Update: 10:53 / 26.02.2024
+ Letztes Update: 15:15 / 26.02.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Pichelsberg wird der Zugverkehr der **Linie S3** **heute Abend von ca. 21:30 Uhr bis ca. 04:00 Uhr** verändert durchgeführt werden.
+Wegen kurzfristiger Bauarbeiten im Bereich Pichelsberg muss der Zugverkehr der **Linie S3** **in** **der heutigen Nacht (26./27.02.2024 (Mo/Di)) von ca. 21:30 Uhr bis ca. 04:00 Uhr** verändert durchgeführt werden.
 
-**Zugverkehr dann wie folgt:**
+**Zugverkehr wie folgt:**
 
 * **Linie S3:** verkehrt Erkner \<\> Grunewald/ Olympiastadion
 
