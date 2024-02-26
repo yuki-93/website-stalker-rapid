@@ -7,21 +7,20 @@ Anker | Live Charged.
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-ProdukteNach KategorieNeuerscheinungenAngebote
+ProdukteNach KategorieNeuerscheinungenAngebote[Anker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
 
 Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
-Anker Nano
+Anker MagGo
 
- C-ing is Believing
+Click it, Charge it - Doppelter Speed.
 
-Höchste Ladegeschwindigkeiten für dein USB-C iPhone
+Die kabellose 15W-Ladeserie für
+blitzschnelle magnetische Power
 
-[Mehr erfahrenmasterBanner1](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner1)
-
-[Apple-Zubehör entdecken \>\>](https://www.anker.com/eu-de/collections/apple-accessories)
+[BestellenmasterBanner1](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner1)
 
 Neuerscheinungen
 
@@ -33,110 +32,6 @@ Limitiertes Angebot: 15. - 29. Februar
 [Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/products/solarbank-dual-system-b17c0?ref=masterBanner2)
 
 Mehr erfahren
-
-Entdecke Anker Innovations
-----------
-
-* ### Anker GaNPrime  ###
-
-  Unsere beste Multi-Geräte-Ladeserie
-
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner2_1)
-
-* ###
-
-  Limitierter Deal
-
-   ###
-
-  ### Anker SOLIX Balkonkraftwerk ###
-
-  ### Spare bis zu 500€ ###
-
-  600W Mikroinverter, erweiterbar auf 800W
-
-  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 500€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner2_2)
-
-* ### Anker SOLIX C1000 ###
-
-  Schnelle Power, immer und überall.
-
-  [Mehr erfahrenAnker SOLIX C1000](https://www.anker.com/eu-de/products/a1761?ref=productBanner2_3)
-
-* ### Anker SOLIX C800 Plus Tragbare Powerstation ###
-
-  März erhältlich. Pünktlich zum Frühjahr.
-
-  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner2_4)
-
-Unentschlossen?
-
-Unsere Empfehlungen
-----------
-
-Alle Kategorien entdecken
-
-Das Zubehör für cleveres Laden
-----------
-
-[Balkonkraftwerk](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=homePageBanner)[Ladestationen](https://www.anker.com/eu-de/ankerpower?ref=homePageBanner)[Ladegeräte](https://www.anker.com/eu-de/collections/wandladegerate?ref=homePageBanner)[Powerbanks](https://www.anker.com/eu-de/collections/powerbanks?ref=homePageBanner)[Ladekabel](https://www.anker.com/eu-de/collections/kabel?ref=homePageBanner)[Ladepads](https://www.anker.com/eu-de/collections/kabelloses-zubehor?ref=homePageBanner)[Hubs & Docks](https://www.anker.com/eu-de/collections/adapter-hubs?ref=homePageBanner)
-
-Du suchst mehr?
-
-Entdecke unsere Ladeserien!
-----------
-
-Serie 7
-
-Serie 7
-
-Technologie der Zukunft
-
-Technologie der Zukunft
-
-Leistung und Funktionalität auf dem neuesten Stand.
-
-Leistung und Funktionalität auf dem neuesten Stand.
-
-[Mehr erfahrenSerie 7](https://www.anker.com/eu-de/series7?ref=homePageBanner)
-
-[Mehr erfahrenSerie 7](https://www.anker.com/eu-de/series7?ref=homePageBanner)
-
-Serie 6
-
-Serie 6
-
- Einzigartige Erfahrungen
-
- Einzigartige Erfahrungen
-
-Smartes Tech-Zubehör mit fortschrittlicher Funktionalität.
-
-Smartes Tech-Zubehör mit fortschrittlicher Funktionalität.
-
-[Mehr erfahrenSerie 6](https://www.anker.com/eu-de/series6?ref=homePageBanner)
-
-[Mehr erfahrenSerie 6](https://www.anker.com/eu-de/series6?ref=homePageBanner)
-
-Serie 5
-
-Serie 5
-
-Der Genuss von Qualität
-
-Der Genuss von Qualität
-
-Smartes Tech-Zubehör mit Premium-Design und mächtiger Leistung.
-
-Smartes Tech-Zubehör mit Premium-Design und mächtiger Leistung.
-
-[Mehr erfahrenSerie 5](https://www.anker.com/eu-de/series5?ref=homePageBanner)
-
-[Mehr erfahrenSerie 5](https://www.anker.com/eu-de/series5?ref=homePageBanner)
-
-Live Charged.
-
-Zum Video
 
 Entdecke innovative Ladelösungen
 ----------
@@ -196,6 +91,41 @@ Anker-Innovationen nach Kategorie filtern
 * [Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-800-watt-erlaubt?ref=homePageBanner)
 * [Ladestationen](https://www.anker.com/eu-de/ankerpower?ref=homePageBanner)
 
+Entdecke Anker Innovations
+----------
+
+* ### Anker GaNPrime  ###
+
+  Unsere beste Multi-Geräte-Ladeserie
+
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_1)
+
+* ###
+
+  Limitierter Deal
+
+   ###
+
+  ### Anker SOLIX Balkonkraftwerk ###
+
+  ### Spare bis zu 500€ ###
+
+  600W Mikroinverter, erweiterbar auf 800W
+
+  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 500€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_2)
+
+* ### Anker SOLIX C1000 ###
+
+  Schnelle Power, immer und überall.
+
+  [Mehr erfahrenAnker SOLIX C1000](https://www.anker.com/eu-de/products/a1761?ref=productBanner7_3)
+
+* ### Anker SOLIX C800 Plus Tragbare Powerstation ###
+
+  März erhältlich. Pünktlich zum Frühjahr.
+
+  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner7_4)
+
 Was macht Anker so besonders?
 ----------
 
@@ -214,6 +144,10 @@ Hast du innerhalb von 30 Tagen einen niedrigeren Preis auf unserer Website gefun
 Einfach bezahlen
 
 Zahle heute den vollen Betrag oder teile deine Zahlungen mit Klarna auf.
+
+Live Charged.
+
+Zum Video
 
 Blogs und Neuheiten
 
