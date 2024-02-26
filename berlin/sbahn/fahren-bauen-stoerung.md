@@ -4,15 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### technische Untersuchung an einem Zug in Fredersdorf beendet ###
+### Reparatur an einem Signal zwischen Sundgauer Straße und Zehlendorf ###
 
- Letztes Update: 16:59 / 26.02.2024
+ Letztes Update: 19:15 / 26.02.2024
 
 Information
 
-Nach der technischen Untersuchung an einem Zug in Fredersdorf kommt es auf der Linie S5 noch zu Verspätungen.
+Wegen der Reparatur an einem Signal zwischen Sundgauer Straße und Zehlendorf kommt es auf der S1 zu Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Reparatur an einem Signal in Attilastraße ###
+
+ Letztes Update: 18:49 / 26.02.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Attilastraße kommt es auf der Linie S2 zu Verspätungen und Ausfällen.
+
+Der 10-Minuten-Takt kann nur zwischen Potsdamer Platz und Buch angeboten werden.
 
 Wir bitten um Entschuldigung.
 
