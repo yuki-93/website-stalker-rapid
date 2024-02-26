@@ -4,33 +4,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur an der Strecke zwischen Stresow und Pichelsberg ###
-
- Letztes Update: 05:48 / 26.02.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke zwischen Stresow und Pichelsberg besteht zwischen Olympiastadion und Spandau nur ein **20-Minuten-Takt mit der Linie S9.**
-
-* Die Linie **S3** fährt: Erkner \<\> Olympiastadion, *der 10-Minuten-Takt verkehrt planmäßig zwischen Erkner und Charlottenburg.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an einer Weiche in Zehlendorf ###
 
- Letztes Update: 05:35 / 26.02.2024
+ Letztes Update: 06:54 / 26.02.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einer Weiche in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und nachfolgenden Einschränkungen:
 
-Der 10-Minuten-Takt kann nur zwischen Frohnau und Zehlendorf angeboten werden.
+* Der 10-Minuten-Takt der Linie S1 kann nur zwischen Frohnau und Zehlendorf angeboten werden.
+* Die zusätzlichen Züge zwischen Potsdamer Platz und Zehlendorf fahren nicht, somit besteht zwischen Potsdamer Platz und Zehlendorf nur ein 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
