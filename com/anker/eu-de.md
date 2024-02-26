@@ -40,11 +40,11 @@ Mehr erfahren
 Entdecke innovative Ladelösungen
 ----------
 
-* Entdecke hochqualitatives Ladezubehör für Apple-Geräte
+* Ultraschnelle Ladepower für all deine Apple-Geräte
 
-  Dein Tech-Upgrade mit Premium Apple-Zubehör
+  Ultraschnelle Ladepower für all deine Apple-Geräte
 
-  [Mehr erfahren](https://www.anker.com/eu-de/collections/apple-accessories?ref=homePageBanner)
+  [Mehr erfahren](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homePageBanner)
 
 Erlebe volle Power mit magnetischem Aufladen
 
@@ -61,17 +61,18 @@ Die Ladelösung für all deine Geräte gleichzeitig
 Power in jeder Situation
 ----------
 
+Schnelle Power. Doppelter Speed.
+
+Lade dein iPhone kabellose
+2× so schnell
+
+[Mehr erfahren](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
+
 Spaß ohne Ende. Power ohne Mühe.
 
 Tanke Energie für deine Reisen mit reisefreundlichem Ladezubehör
 
 [Mehr erfahren](https://www.anker.com/eu-de/collections/reisen?ref=homePageBanner)
-
-Power für die Arbeit
-
-Ladeleistung für den Schreibtisch war noch nie so einfach
-
-[Mehr erfahren](https://www.anker.com/eu-de/collections/buero?ref=homePageBanner)
 
 Unternehmens-programm
 
