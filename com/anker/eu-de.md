@@ -42,7 +42,7 @@ Entdecke innovative Ladelösungen
 
 * Ultraschnelle Ladepower für all deine Apple-Geräte
 
-  Ultraschnelle Ladepower für all deine Apple-Geräte
+  Schnelligkeit in Kombination mit Sicherheit.
 
   [Mehr erfahren](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homePageBanner)
 
