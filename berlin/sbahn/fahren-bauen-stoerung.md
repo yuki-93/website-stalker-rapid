@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an der Strecke zwischen Stresow und Pichelsberg ###
+
+ Letztes Update: 04:19 / 26.02.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke zwischen Stresow und Pichelsberg verkehrt die Linie S 3 nur bis Olympiastadion.
+
+Fahrgäste von sowie nach Spandau nutzen bitte die Linie S9.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
