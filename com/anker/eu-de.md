@@ -20,7 +20,7 @@ Click it, Charge it - Doppelter Speed.
 Die kabellose 15W-Ladeserie für
 blitzschnelle magnetische Power
 
-[BestellenmasterBanner1](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner1)
+[Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner1)
 
 Neuerscheinungen
 
@@ -94,37 +94,23 @@ Anker-Innovationen nach Kategorie filtern
 Entdecke Anker Innovations
 ----------
 
+* ### Anker MagGo ###
+
+  Click it, Charge it - Doppelter Speed.
+
+  [Jetzt kaufen](https://www.anker.com/undefined?ref=productBanner7_1)
+
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_1)
-
-* ###
-
-  Limitierter Deal
-
-   ###
-
-  ### Anker SOLIX Balkonkraftwerk ###
-
-  ### Spare bis zu 500€ ###
-
-  600W Mikroinverter, erweiterbar auf 800W
-
-  [Mehr erfahren Limitierter Deal ,Anker SOLIX Balkonkraftwerk,Spare bis zu 500€](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=productBanner7_2)
-
-* ### Anker SOLIX C1000 ###
-
-  Schnelle Power, immer und überall.
-
-  [Mehr erfahrenAnker SOLIX C1000](https://www.anker.com/eu-de/products/a1761?ref=productBanner7_3)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_2)
 
 * ### Anker SOLIX C800 Plus Tragbare Powerstation ###
 
   März erhältlich. Pünktlich zum Frühjahr.
 
-  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner7_4)
+  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner7_3)
 
 Was macht Anker so besonders?
 ----------
