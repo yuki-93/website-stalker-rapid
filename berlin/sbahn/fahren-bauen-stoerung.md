@@ -4,25 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### kurzfristiger Bauarbeiten im Bereich Pichelsberg ###
+### Gegenstände auf der Strecke Prenzlauer Allee \> Schönhauser Allee ###
 
- Letztes Update: 15:15 / 26.02.2024
+ Letztes Update: 05:08 / 27.02.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Pichelsberg muss der Zugverkehr der **Linie S3** **in** **der heutigen Nacht (26./27.02.2024 (Mo/Di)) von ca. 21:30 Uhr bis ca. 04:00 Uhr** verändert durchgeführt werden.
+Wegen Gegenstände auf der Strecke zwischen Prenzlauer Allee und Schönhauser Allee kommt es auf den Linien S41, S42 und S8 zu Ausfällen und Verspätungen.
 
-**Zugverkehr wie folgt:**
+Wir bitten um Verständnis.
 
-* **Linie S3:** verkehrt Erkner \<\> Grunewald/ Olympiastadion
-
-Bitte nutzen Sie zwischen Westkreuz/ Olympiastadion und Spandau die Züge der Linie S9.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -427,6 +421,22 @@ Information
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
+### Treptower Park \> Flughafen BER ###
+
+27.02. (Di) und 28.02. (Mi) jeweils 3:43 Uhr bis 4:17 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26449&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19522&tx_sbbconstructions_list%5Bperiod%5D=17671&type=5679&cHash=4b5a010ea8d8fe94a8389815d41de472)
+
+ Takt geändert
+
+Information
+
+* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) fährt von Treptower Park bis Flughafen BER ca. 1 bis 3 Minuten später,
+   die neue Ankunftszeit in Flughafen BER ist 4:17 Uhr.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
  Nur Nachts
 
 ### Charlottenburg \> Treptower Park \> Neukölln \> Baumschulenweg \> Flughafen BER ###
@@ -446,22 +456,6 @@ Information
 * Bitte benutzen Sie zwischen S+U Alexanderplatz/Memhardstraße \<\> Elsenstraße/S Treptower Park \<\> S Plänterwald \<\> S Schöneweide \<\>
    S Adlershof \<\> S Schönefeld \<\> Flughafen BER auch die Nachtbuslinie N60.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
-### Treptower Park \> Flughafen BER ###
-
-27.02. (Di) und 28.02. (Mi) jeweils 3:43 Uhr bis 4:17 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26449&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19522&tx_sbbconstructions_list%5Bperiod%5D=17671&type=5679&cHash=4b5a010ea8d8fe94a8389815d41de472)
-
- Takt geändert
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) fährt von Treptower Park bis Flughafen BER ca. 1 bis 3 Minuten später,
-   die neue Ankunftszeit in Flughafen BER ist 4:17 Uhr.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 Hinweis
 
