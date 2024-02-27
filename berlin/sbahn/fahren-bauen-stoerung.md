@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Gegenstände auf der Strecke Prenzlauer Allee \> Schönhauser Allee ###
-
- Letztes Update: 05:08 / 27.02.2024
-
-Information
-
-Wegen Gegenstände auf der Strecke zwischen Prenzlauer Allee und Schönhauser Allee kommt es auf den Linien S41, S42 und S8 zu Ausfällen und Verspätungen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
