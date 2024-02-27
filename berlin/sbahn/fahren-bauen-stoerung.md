@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal zwischen Sundgauer Straße und Zehlendorf ###
-
- Letztes Update: 19:15 / 26.02.2024
-
-Information
-
-Wegen der Reparatur an einem Signal zwischen Sundgauer Straße und Zehlendorf kommt es auf der S1 zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### kurzfristiger Bauarbeiten im Bereich Pichelsberg ###
