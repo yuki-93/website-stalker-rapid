@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Umgestürzter Baum auf der Strecke im Bereich Frohnau ###
+
+ Letztes Update: 17:20 / 28.02.2024
+
+Information
+
+Wegen eines umgestürzten Baum auf der Strecke im Bereich Frohnau ist der Zugverkehr der Linie S1 zwischen Waidmannslust und Frohnau unterbrochen.
+
+Wir bitten um Verständnis
+
+ Zugverkehr verändert
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Polizeieinsatz zwischen Schöneberg/Yorckstraße\<\>Friedrichstraße beendet ###
