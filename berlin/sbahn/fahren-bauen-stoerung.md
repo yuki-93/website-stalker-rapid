@@ -46,24 +46,6 @@ Wir bitten um Verständnis
 
  Zugverkehr verändert
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz zwischen Schöneberg/Yorckstraße\<\>Friedrichstraße beendet ###
-
- Letztes Update: 17:55 / 28.02.2024
-
-Information
-
-Nach einem Polizeieinsatz zwischen Schöneberg/Yorckstraße und Friedrichstraße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-die Linie S26 verkehrt nicht
-
-die Linie S85 verkehrt nicht
-
-Wir bitten um Verständnis
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
