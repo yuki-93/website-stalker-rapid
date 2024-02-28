@@ -8,11 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Umgestürzter Baum auf der Strecke im Bereich Frohnau ###
 
- Letztes Update: 17:20 / 28.02.2024
+ Letztes Update: 18:05 / 28.02.2024
 
 Information
 
 Wegen eines umgestürzten Baum auf der Strecke im Bereich Frohnau ist der Zugverkehr der Linie S1 zwischen Waidmannslust und Frohnau unterbrochen.
+
+Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+
+* zwischen Waidmannslust und Frohnau die Buslinien 220 und 222
+* ab Bornholmer Straße nach Hohen Neuendorf die Linie S8
 
 Wir bitten um Verständnis
 
@@ -22,13 +27,11 @@ Wir bitten um Verständnis
 
 ### Polizeieinsatz zwischen Schöneberg/Yorckstraße\<\>Friedrichstraße beendet ###
 
- Letztes Update: 15:27 / 28.02.2024
+ Letztes Update: 17:55 / 28.02.2024
 
 Information
 
 Nach einem Polizeieinsatz zwischen Schöneberg/Yorckstraße und Friedrichstraße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-die Linie S2 verkehrt nur im 20-Minuten-Takt zwischen Blankenfelde\<\>Bernau
 
 die Linie S26 verkehrt nicht
 
