@@ -139,46 +139,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenwechsel-und-manuelle-stopfarbeiten/#con-28817)
 
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
-### Treptower Park \> Flughafen BER ###
-
-27.02. (Di) und 28.02. (Mi) jeweils 3:43 Uhr bis 4:17 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=26449&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=19522&tx_sbbconstructions_list%5Bperiod%5D=17671&type=5679&cHash=4b5a010ea8d8fe94a8389815d41de472)
-
- Takt geändert
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) fährt von Treptower Park bis Flughafen BER ca. 1 bis 3 Minuten später,
-   die neue Ankunftszeit in Flughafen BER ist 4:17 Uhr.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Treptower Park \> Neukölln \> Baumschulenweg \> Flughafen BER ###
-
-27.02. (Di) und 28.02. (Mi) jeweils 3:05 Uhr bis 4:20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28849&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22029&tx_sbbconstructions_list%5Bperiod%5D=17670&type=5679&cHash=a0cc392b063aef88545a798728502330)
-
- Zugverkehr verändert
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) wird von Treptower Park (ab 3:29 Uhr) über Neukölln
-   (mit Fahrtrichtungswechsel an 3:34 Uhr / ab 3:39 Uhr) bis Baumschulenweg umgeleitet.
-* Der Halt in Plänterwald entfällt.
-* Von Baumschulenweg bis Flughafen BER fährt der Zug 12 bis 13 Minuten später, die neue Ankunftszeit in Flughafen BER ist 4:13 Uhr.
-* Bitte benutzen Sie zwischen S+U Alexanderplatz/Memhardstraße \<\> Elsenstraße/S Treptower Park \<\> S Plänterwald \<\> S Schöneweide \<\>
-   S Adlershof \<\> S Schönefeld \<\> Flughafen BER auch die Nachtbuslinie N60.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
