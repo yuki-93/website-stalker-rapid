@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### ärztliche Versorgung eines Fahrgastes in Hauptbahnhof beendet ###
+### Polizeieinsatz zwischen Schöneberg/Yorckstraße\<\>Friedrichstraße ###
 
- Letztes Update: 13:23 / 28.02.2024
+ Letztes Update: 14:11 / 28.02.2024
 
 Information
 
-Nach einer ärztliche Versorgung eines Fahrgastes in Hauptbahnhof im Zug kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+Wegen eines Polizeieinsatzes zwischen Schöneberg/Yorckstraße und Friedrichstraße ist der Zugverkehr der Linien S1, S2 und S26 zwischen Schöneberg/Yorckstraße und Oranienburger Straße unterbrochen.
 
-Wir bitten um Verständnis.
+Wir bitten um Verständnis
 
  Takt geändert
 
