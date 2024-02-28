@@ -4,11 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Reparatur am Zug im Bereich Yorckstraße ###
+
+ Letztes Update: 19:48 / 28.02.2024
+
+Information
+
+Wegen einer Reparatur am Zug im Bereich Yorckstraße ist der Zugverkehr der Linie S2 und S25 zwischen Yorckstraße und Anhalter Bahnhof unterbrochen.
+
+Zur Umfahrung nutzen Sie die Linie S1 zwischen Anhalter Bahnhof und Großgörschenstraße.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Umgestürzter Baum auf der Strecke im Bereich Frohnau ###
 
- Letztes Update: 19:19 / 28.02.2024
+ Letztes Update: 19:39 / 28.02.2024
 
 Information
 
