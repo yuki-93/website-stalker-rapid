@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Zeuthen ###
+### ärztliche Versorgung eines Fahrgastes in Hauptbahnhof beendet ###
 
- Letztes Update: 11:55 / 28.02.2024
+ Letztes Update: 13:23 / 28.02.2024
 
 Information
 
-Wegen der ärztliche Versorgung eines Fahrgastes im Zug in Zeuthen, kommt es auf der Linie S46 zu Verspätungen und Ausfällen.
+Nach einer ärztliche Versorgung eines Fahrgastes in Hauptbahnhof im Zug kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Takt geändert
 
 ### Baumaßnahmen ###
 
