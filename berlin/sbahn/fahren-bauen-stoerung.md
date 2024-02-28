@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz zwischen Schöneberg/Yorckstraße\<\>Friedrichstraße beendet ###
 
- Letztes Update: 14:40 / 28.02.2024
+ Letztes Update: 15:27 / 28.02.2024
 
 Information
 
@@ -16,7 +16,7 @@ Nach einem Polizeieinsatz zwischen Schöneberg/Yorckstraße und Friedrichstraße
 
 die Linie S2 verkehrt nur im 20-Minuten-Takt zwischen Blankenfelde\<\>Bernau
 
-die LinieS26 verkehrt nicht
+die Linie S26 verkehrt nicht
 
 die Linie S85 verkehrt nicht
 
