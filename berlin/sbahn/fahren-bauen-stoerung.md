@@ -8,15 +8,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Umgestürzter Baum auf der Strecke im Bereich Frohnau ###
 
- Letztes Update: 18:05 / 28.02.2024
+ Letztes Update: 19:19 / 28.02.2024
 
 Information
 
-Wegen eines umgestürzten Baum auf der Strecke im Bereich Frohnau ist der Zugverkehr der Linie S1 zwischen Waidmannslust und Frohnau unterbrochen.
+Wegen eines umgestürzten Baum auf der Strecke im Bereich Frohnau ist der Zugverkehr der Linie S1 zwischen Waidmannslust und Hohen Neuendorf unterbrochen.
 
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+**Ein Ersatzverkehr mit Bussen ist zwischen Waidmannslust und Hohen Neuendorf eingerichtet.**
 
-* zwischen Waidmannslust und Frohnau die Buslinien 220 und 222
+Haltestellen des Ersatzverkehrs:
+
+* S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
+* S-Bhf. Hermsdorf: Hermsdorfer Damm Ecke Schloßstraße
+* S-Bhf. Frohnau: Frohnauer Brücke (wie Bus 125,220,N20)
+* S-Bhf. Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
+
+Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
+
+* zwischen Waidmannslust und Hohen Neuendorf die Buslinien 220, 222 und 809
 * ab Bornholmer Straße nach Hohen Neuendorf die Linie S8
 
 Wir bitten um Verständnis
