@@ -2,50 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur am Zug im Bereich Yorckstraße behoben ###
-
- Letztes Update: 21:08 / 28.02.2024
-
-Information
-
-Nach einer Reparatur am Zug im Bereich Yorckstraße kommt es auf den Linien S2 und S25 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Umgestürzter Baum auf der Strecke im Bereich Frohnau ###
-
- Letztes Update: 19:39 / 28.02.2024
-
-Information
-
-Wegen eines umgestürzten Baum auf der Strecke im Bereich Frohnau ist der Zugverkehr der Linie S1 zwischen Waidmannslust und Hohen Neuendorf unterbrochen.
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Waidmannslust und Hohen Neuendorf eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S-Bhf. Waidmannslust: Jean-Jaures-Str. (wie Bus 322)
-* S-Bhf. Hermsdorf: Hermsdorfer Damm Ecke Schloßstraße
-* S-Bhf. Frohnau: Frohnauer Brücke (wie Bus 125,220,N20)
-* S-Bhf. Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
-
-Bitte nutzen Sie auch folgende Umfahrungsmöglichkeiten:
-
-* zwischen Waidmannslust und Hohen Neuendorf die Buslinien 220, 222 und 809
-* ab Bornholmer Straße nach Hohen Neuendorf die Linie S8
-
-Wir bitten um Verständnis
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
