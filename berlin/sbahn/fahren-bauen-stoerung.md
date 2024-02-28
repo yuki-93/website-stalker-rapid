@@ -6,13 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz zwischen Schöneberg/Yorckstraße\<\>Friedrichstraße ###
+### Polizeieinsatz zwischen Schöneberg/Yorckstraße\<\>Friedrichstraße beendet ###
 
- Letztes Update: 14:11 / 28.02.2024
+ Letztes Update: 14:40 / 28.02.2024
 
 Information
 
-Wegen eines Polizeieinsatzes zwischen Schöneberg/Yorckstraße und Friedrichstraße ist der Zugverkehr der Linien S1, S2 und S26 zwischen Schöneberg/Yorckstraße und Oranienburger Straße unterbrochen.
+Nach einem Polizeieinsatz zwischen Schöneberg/Yorckstraße und Friedrichstraße kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
+
+die Linie S2 verkehrt nur im 20-Minuten-Takt zwischen Blankenfelde\<\>Bernau
+
+die LinieS26 verkehrt nicht
+
+die Linie S85 verkehrt nicht
 
 Wir bitten um Verständnis
 
