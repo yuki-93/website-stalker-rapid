@@ -143,24 +143,6 @@ Information
 
 [S9](https://sbahn.berlin/fahren/s9/)
 
- Nur Nachts
-
-### Alexanderplatz \> Schöneweide ###
-
-27.02. (Di) und 28.02. (Mi) jeweils 3:05 Uhr bis 3:23 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=25446&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=18599&tx_sbbconstructions_list%5Bperiod%5D=17669&type=5679&cHash=909a46b9bd9a02cf68f40e328307ff3f)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr) beginnt abweichend in Schöneweide ab 3:23 Uhr.
-* Der Zug fällt von Alexanderplatz bis Schöneweide aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
 ### Treptower Park \> Flughafen BER ###
 
 27.02. (Di) und 28.02. (Mi) jeweils 3:43 Uhr bis 4:17 Uhr
