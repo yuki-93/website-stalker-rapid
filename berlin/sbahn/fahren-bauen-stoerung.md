@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Reparatur am Bahnübergang in Strausberg ###
+### Reparatur am Bahnübergang in Strausberg beendet ###
 
- Letztes Update: 05:40 / 28.02.2024
+ Letztes Update: 08:38 / 28.02.2024
 
 Information
 
-Wegen der Reparatur am Bahnübergang in Strausberg kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
+Nach der Reparatur am Bahnübergang in Strausberg kann es auf der Linie S5 noch zu Verspätungen und Ausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
