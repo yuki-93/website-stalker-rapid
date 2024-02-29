@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### ärztliche Versorgung eines Fahrgastes im Zug in Schönhauser Allee beendet ###
+
+ Letztes Update: 15:45 / 29.02.2024
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+
+wir bitten um Verständnis.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
