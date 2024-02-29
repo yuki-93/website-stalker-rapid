@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### ärztliche Versorgung eines Fahrgastes im Zug in Schönhauser Allee beendet ###
 
- Letztes Update: 15:45 / 29.02.2024
+ Letztes Update: 19:42 / 29.02.2024
 
 Information
 
 Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
 
-wir bitten um Verständnis.
+Wir bitten um Verständnis.
 
  Takt geändert
 
