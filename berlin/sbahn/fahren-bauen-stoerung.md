@@ -58,29 +58,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28775)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31016)
 
-[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Ahrensfelde / Wartenberg \<\> Warschauer Straße ###
-
-Nächte 28./29.02. (Mi/Do) und 29.02./01.03. (Do/Fr), jeweils ca. 22 Uhr - ca. 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28873&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22060&tx_sbbconstructions_list%5Bperiod%5D=17673&type=5679&cHash=234e9d4182a730d2a76df235b6b6e833)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-  * Springpfuhl \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt mit S7
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b9041975c8/#con-28873)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -191,27 +168,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-1/#con-28953)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
- Nur Nachts
-
-### Treptower Park – Hermannstraße und gesamter Ring ###
-
-Nächte 28./29.02. (Mi/Do) und 29.02./01.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28817&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21999&tx_sbbconstructions_list%5Bperiod%5D=17634&type=5679&cHash=3727d2b3f9366718b7b69ac24b046627)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert
-* Taktänderung
-* Bahnsteigänderung in Treptower Park
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenwechsel-und-manuelle-stopfarbeiten/#con-28817)
 
 Hinweis
 
