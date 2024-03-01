@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Bereich Potsdamer Platz beendet ###
 
- Letztes Update: 13:17 / 01.03.2024
+ Letztes Update: 13:52 / 01.03.2024
 
 Information
 
