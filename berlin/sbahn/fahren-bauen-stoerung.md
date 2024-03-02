@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Polizeieinsatz im Bereich Köpenick - Wuhlheide ###
-
- Letztes Update: 18:03 / 02.03.2024
-
-Information
-
-Wegen eines Polizeieinsatzes (Abreise der Fußballfans) fahren des Busse (Bus S3) des Ersatzverkehrs zwischen Karlshorst und Rahnsdorf unregelmäßig und verspätet.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
