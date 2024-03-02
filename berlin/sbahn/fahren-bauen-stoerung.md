@@ -18,25 +18,6 @@ Wir bitten um Ihr Verständnis.
 
  sonstige Einschränkungen
 
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz in Spindlersfeld ###
-
- Letztes Update: 17:28 / 02.03.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in Spindlersfeld ist der Zugverkehr der Linie S47 zwischen Schöneweide und Spindlersfeld unterbrochen.
-
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
-
-* zwischen Schöneweide und Spindlersfeld die Buslinie 165
-* zwischen Schöneweide und Adlershof die S-Bahnlinien S45, S46, S8, S9 und zwischen Adlershof und Spindlersfeld die Straßenbahnlinien 61, 63.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
