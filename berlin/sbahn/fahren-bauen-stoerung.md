@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Bereich Treptower Park beendet ###
-
- Letztes Update: 09:17 / 03.03.2024
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Treptower Park kommt es auf den Linien S41, S42, S8 und S9 noch zu Verspätungen und Ausfällen.
-
-Zur Umfahrung nutzen sie bitte die BVG.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Tiergarten ###
