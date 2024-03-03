@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Tiergarten ###
+
+ Letztes Update: 08:10 / 03.03.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Tiergarten kommt es auf den Linien S 3, S5, S7 und S9 zu Ausfällen und Verspätungen.
+
+**Linie S5** verkehrt Strausberg Nord/Mahlsdorf\<\>Warschauer Straße.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Polizeieinsatz im Bereich Treptower Park ###
