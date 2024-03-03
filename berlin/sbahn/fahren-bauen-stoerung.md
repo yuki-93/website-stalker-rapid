@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz im Bereich Treptower Park ###
+
+ Letztes Update: 07:14 / 03.03.2024
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Treptower Park ist der Zugverkehr der Linien S41, S42, S8 und S9 zwischen Treptower Park und Ostkreuz/Warschauer Straße unterbrochen.
+
+Zur Umfahrung nutzen sie bitte die BVG.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  keine Verbindung
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -168,27 +186,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-1/#con-28953)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts Nur Wochenende
-
-### Friedrichstraße \<\> Zoologischer Garten ###
-
-Nacht 02./03.03. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28875&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22061&tx_sbbconstructions_list%5Bperiod%5D=17675&type=5679&cHash=cc565a95129530a3f9b0c7d5e6109a66)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Friedrichstraße \<\> Zoologischer Garten S-Bahnverkehr nur im 30-Minutentakt mit S7
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-ce19e18d1f/#con-28875)
 
 Hinweis
 
