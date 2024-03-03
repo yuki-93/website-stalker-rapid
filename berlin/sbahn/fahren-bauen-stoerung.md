@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Tiergarten ###
-
- Letztes Update: 08:10 / 03.03.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Tiergarten kommt es auf den Linien S 3, S5, S7 und S9 zu Ausfällen und Verspätungen.
-
-**Linie S5** verkehrt Strausberg Nord/Mahlsdorf\<\>Warschauer Straße.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
