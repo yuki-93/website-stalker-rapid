@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten im Bereich Griebnitzsee ###
 
- Letztes Update: 21:12 / 04.03.2024
+ Letztes Update: 21:56 / 04.03.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Griebnitzsee wird der Zugverkehr der Linie S7 **in der heutigen Nacht (04./05.03.2024 (Mo/Di)) von ca. 00:00 Uhr bis morgen früh ca. 04:00 Uhr** zwischen Wannsee und Potsdam Hauptbahnhof unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen kurzfristiger Bauarbeiten im Bereich Griebnitzsee wird der Zugverkehr der Linie S7 **in der heutigen Nacht von ca. 00:00 Uhr bis morgen früh ca. 04:00 Uhr** zwischen Potsdam Hauptbahnhof und Wannsee unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
 ***Haltestellen des Ersatzverkehrs:***
 
@@ -27,19 +27,17 @@ Wir bitten um Entschuldigung.
 
  fährt nicht  Verbindung unterbrochen
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Wollankstraße beendet ###
 
- Letztes Update: 20:58 / 04.03.2024
+ Letztes Update: 21:55 / 04.03.2024
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Wollankstraße kommt es auf den Linien S1, S2, S25, S26, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Wollankstraße verkehren die Linien **S26 und S85** nicht.
 
-*  Die Linien **S26 und S85** verkehren nicht.
-
-Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
