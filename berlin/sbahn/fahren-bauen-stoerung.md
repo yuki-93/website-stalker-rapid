@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Kurzfristige Bauarbeiten im Bereich Griebnitzsee ###
 
- Letztes Update: 18:03 / 04.03.2024
+ Letztes Update: 18:53 / 04.03.2024
 
 Information
 
 Wegen kurzfristiger Bauarbeiten im Bereich Griebnitzsee wird der Zugverkehr **der Linie S7 in der heutigen Nacht (04/05.03.2024(Mo/Di)) von ca.00:00 Uhr bis ca. 04:00 Uhr von Wannsee bis Potsdam unterbrochen.**
 
-Es wird ein Busersatzverkehr eingerichtet,
+Es wird ein Busersatzverkehr wird eingerichtet,
 
-Haltestellen: **- Potsdam: Busbahnhf**
+Haltestellen: **- Potsdam: Busbahnhof**
 
  **\- Babelsberg: Karl-Liebknecht-Str. Höhe S-Bahn Brücke (Haltestelle Bus 690)**
 
@@ -32,11 +32,15 @@ Wir bitten um Entschuldigung.
 
 ### unbefugte Personen auf der Strecke im Bereich Wollankstraße ###
 
- Letztes Update: 17:38 / 04.03.2024
+ Letztes Update: 18:32 / 04.03.2024
 
 Information
 
-Wegen unbefugte Personen auf der Strecke kommt es auf den Linien S1, S2, S25, S26, S85 und S85 zu Ausfällen und Verspätungen.
+Nach dem die unbefugten Personen von der Strecke sind, kommt es auf den Linien S1, S2, S25, S26, S85 und S85 noch zu Ausfällen und Verspätungen,
+
+ **Linie S 85** bleibt abgestellt,
+
+**Linie S 26** bleibt abgestellt
 
 Wir bitten um Verständnis.
 
