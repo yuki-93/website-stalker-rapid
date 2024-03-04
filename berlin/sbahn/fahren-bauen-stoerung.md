@@ -4,15 +4,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### defektes Stellwerk zwischen Erkner und Friedrichshagen ###
+
+ Letztes Update: 05:52 / 04.03.2024
+
+Information
+
+Wegen eines defekten Stellwerks kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
+
+* zwischen Friedrichshagen und Erkner verkehrt die Linie S3 nur im 30-Minuten-Takt
+
+Bitte nutzen Sie zur Umfahrung zwischen Erkner und Ostkreuz/ Ostbahnhof die Züge des RE1 sowie örtliche Verkehrsmittel.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht
+
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Unfall an einem Bahnübergang in Neuenhagen ###
 
- Letztes Update: 04:48 / 04.03.2024
+ Letztes Update: 04:59 / 04.03.2024
 
 Information
 
 Wegen eines Unfalls an einem Bahnübergang ist der Zugverkehr der Linie S5 zwischen Federsdorf und Hoppegarten unterbrochen.
+
+**Änderungen im Zugverkehr:**
+
+* die zusätzlichen Züge der Linie S5 in der Hauptverkehrszeit (von ca. 6 Uhr bis 7 Uhr) zwischen Mahlsdorf und Ostbahnhof fahren nicht.
+* zwischen Fredersdorf und Strausberg Nord verkehrt die S5 nur im 40-Minuten-Takt
 
 **Ein Ersatzverkehr mit Bussen zwischen Fredersdorf und Hoppegarten ist ab ca. 5:15 Uhr eingerichtet.**
 
@@ -22,38 +45,11 @@ Haltestellen des Ersatzverkehrs:
 * S Neuenhagen: Rosa-Luxemburg-Str. (örtliche Bushaltestelle)
 * S Hoppegarten: Bahnhofstraße (örtliche Bushaltestelle)
 
-Die zusätzlichen Züge der Linie S5 in der Hauptverkehrszeit (von ca. 6 Uhr bis 7 Uhr) zwischen Mahlsdorf und Ostbahnhof fahren nicht.
-
 Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel.
 
 Wir bitten um Entschuldigung.
 
  fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### defektes Stellwerk zwischen Erkner und Friedrichshagen ###
-
- Letztes Update: 04:44 / 04.03.2024
-
-Information
-
-Wegen eines defekten Stellwerks ist der Zugverkehr der Linie S3 zwischen Erkner und Friedrichshagen unterbrochen.
-
-**Ein Ersatzverkehr mit Bussen zwischen Erkner und Friedrichshagen ist ab ca. 5:30 Uhr eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S Erkner: Bahnhofsvorplatz, ZOB (wie Bus 161)
-* S Wilhelmshagen: Schönblicker Straße (wie Bus 161)
-* S Rahsdorf: Ingeborg-Hunzinger-Straße (wie Bus 161)
-* S Friedrichshagen: Bölschestr. (wie Tram 60, 61)
-
- Bitte nutzen Sie zur Umfahrung zwischen Erkner und Ostkreuz/ Ostbahnhof die Züge des RE1 sowie örtliche Verkehrsmittel.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht
 
 ### Baumaßnahmen ###
 
