@@ -8,58 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Unfall an einem Bahnübergang in Neuenhagen ###
 
- Letztes Update: 08:09 / 04.03.2024
+ Letztes Update: 11:14 / 04.03.2024
 
 Information
 
-Wegen eines Unfalls an einem Bahnübergang ist der Zugverkehr der Linie S5 zwischen Fredersdorf und Hoppegarten unterbrochen.
-
-**Änderungen im Zugverkehr:**
-
-* die zusätzlichen Züge der Linie S5 in der Hauptverkehrszeit (von ca. 6 Uhr bis 7 Uhr) zwischen Mahlsdorf und Ostbahnhof fahren nicht.
-* zwischen Fredersdorf und Strausberg Nord verkehrt die S5 nur im 40-Minuten-Takt
-
-**Ein Ersatzverkehr mit Bussen zwischen Fredersdorf und Hoppegarten wurde eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* S Fredersdorf: südlicher Bahnhofsvorplatz (örtl. Bushaltestelle)
-* S Neuenhagen: Rosa-Luxemburg-Damm (örtliche Bushaltestelle)
-* S Hoppegarten: Bahnhofstraße (örtliche Bushaltestelle)
-
-Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel.
+Nach einem Unfall an einem Bahnübergang kommt es auf der Linie S5 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### defektes Stellwerk zwischen Erkner und Friedrichshagen behoben ###
-
- Letztes Update: 07:57 / 04.03.2024
-
-Information
-
-Nach einem defekten Stellwerks kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einem Signal in Gesundbrunnen ###
-
- Letztes Update: 07:46 / 04.03.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Gesundbrunnen kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 

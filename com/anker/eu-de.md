@@ -7,7 +7,7 @@ Anker | Live Charged.
 
 Anker MagGo, Click it, Charge it - Doppelter Speed.
 
-[Shop Now \>\>](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
+[Jetzt kaufen\>\>](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
@@ -28,12 +28,12 @@ blitzschnelle magnetische Power
 
 [Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner1)
 
-Neuerscheinungen
+NEU
 
 Das erste 2000W-Balkonkraftwerk
 mit Speicher der Welt
 
-Limitiertes Angebot: 15. - 29. Februar
+Solarpower maximierenheißt Tag und Nacht sparen
 
 [Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/products/solarbank-dual-system-b17c0?ref=masterBanner2)
 
@@ -307,8 +307,6 @@ Land/Region auswählen
 * Nordamerika
 * [United States English](https://www.anker.com/?ref=bottom_eu-de)
 * [Canada English](https://www.anker.com/ca?ref=bottom_eu-de)
-* Naher Osten
-* [United Arab Emirates English](https://ae.anker.com/?ref=bottom_eu-de)
 
 Produkte
 
