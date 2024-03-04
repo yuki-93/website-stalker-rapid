@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### defektes Stellwerk zwischen Erkner und Friedrichshagen ###
+
+ Letztes Update: 03:50 / 04.03.2024
+
+Information
+
+Wegen eines defekten Stellwerks ist der Zugverkehr der Linie S3 zwischen Erkner und Friedrichshagen unterbrochen.
+
+Bitte nutzen Sie zur Umfahrung zwischen Erkner und Ostkreuz/ Ostbahnhof die Züge des RE1 sowie örtliche Verkehrsmittel.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
