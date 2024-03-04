@@ -4,29 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### defektes Stellwerk zwischen Erkner und Friedrichshagen ###
-
- Letztes Update: 06:21 / 04.03.2024
-
-Information
-
-Wegen eines defekten Stellwerks kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
-
-* zwischen Friedrichshagen und Erkner verkehrt die Linie S3 nur im 30-Minuten-Takt (gesonderter Wagenzug)
-
-Bitte nutzen Sie zur Umfahrung zwischen Erkner und Ostkreuz/ Ostbahnhof die Züge des RE1 sowie örtliche Verkehrsmittel.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Unfall an einem Bahnübergang in Neuenhagen ###
 
- Letztes Update: 06:14 / 04.03.2024
+ Letztes Update: 08:09 / 04.03.2024
 
 Information
 
@@ -42,7 +24,7 @@ Wegen eines Unfalls an einem Bahnübergang ist der Zugverkehr der Linie S5 zwisc
 Haltestellen des Ersatzverkehrs:
 
 * S Fredersdorf: südlicher Bahnhofsvorplatz (örtl. Bushaltestelle)
-* S Neuenhagen: Rosa-Luxemburg-Str. (örtliche Bushaltestelle)
+* S Neuenhagen: Rosa-Luxemburg-Damm (örtliche Bushaltestelle)
 * S Hoppegarten: Bahnhofstraße (örtliche Bushaltestelle)
 
 Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel.
@@ -50,6 +32,34 @@ Bitte nutzen Sie zur Umfahrung die örtlichen Verkehrsmittel.
 Wir bitten um Entschuldigung.
 
  fährt nicht  Verbindung unterbrochen
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### defektes Stellwerk zwischen Erkner und Friedrichshagen behoben ###
+
+ Letztes Update: 07:57 / 04.03.2024
+
+Information
+
+Nach einem defekten Stellwerks kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an einem Signal in Gesundbrunnen ###
+
+ Letztes Update: 07:46 / 04.03.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Gesundbrunnen kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
 
 ### Baumaßnahmen ###
 
