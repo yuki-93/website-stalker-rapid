@@ -6,25 +6,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Kurzfristige Bauarbeiten im Bereich Griebnitzsee ###
+### kurzfristige Bauarbeiten im Bereich Griebnitzsee ###
 
- Letztes Update: 19:49 / 04.03.2024
+ Letztes Update: 21:12 / 04.03.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Griebnitzsee wird der Zugverkehr **der Linie S7 in der heutigen Nacht (04/05.03.2024(Mo/Di)) von ca.00:00 Uhr bis ca. 04:00 Uhr von Wannsee bis Potsdam unterbrochen.**
+Wegen kurzfristiger Bauarbeiten im Bereich Griebnitzsee wird der Zugverkehr der Linie S7 **in der heutigen Nacht (04./05.03.2024 (Mo/Di)) von ca. 00:00 Uhr bis morgen früh ca. 04:00 Uhr** zwischen Wannsee und Potsdam Hauptbahnhof unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
-**Bitte nutzen sie auch den Regionalverkehr Potsdam\<\>Wannsee.**
+***Haltestellen des Ersatzverkehrs:***
 
-Es wird ein Busersatzverkehr wird eingerichtet,
+* S-Bhf. Potsdam Hbf: Busbahnhof
+* S-Bhf. Babelsberg: Karl-Liebknecht-Str. in Höhe S-Bahn Brücke (Haltestelle Bus 690)
+* S-Bhf. Griebnitzsee: Rudolf-Breitscheid-Str.(Bahnhofsvorplatz)
+* S-Bhf. Wannsee: Kronprinzessinnenweg (Haltestelle Bus 114,118, 620)
 
-Haltestellen: **- Potsdam: Busbahnhof**
-
- **\- Babelsberg: Karl-Liebknecht-Str. Höhe S-Bahn Brücke (Haltestelle Bus 690)**
-
- **\- Griebnitzsee: Rudolf-Breitscheitstr.(Bahnhofsvorplatz)**
-
- **\- Wannsee: Kronprinzessinnenweg (Haltestelle Bus 114,118,620)**
+Zur weiträumigen Umfahrung zwischen Wannsee und Potsdam Hbf nutzen Sie bitte auch die Züge des Regionalverkehrs.
 
 Wir bitten um Entschuldigung.
 
@@ -32,17 +29,15 @@ Wir bitten um Entschuldigung.
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### unbefugte Personen auf der Strecke im Bereich Wollankstraße ###
+### Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Wollankstraße beendet ###
 
- Letztes Update: 18:32 / 04.03.2024
+ Letztes Update: 20:58 / 04.03.2024
 
 Information
 
-Nach dem die unbefugten Personen von der Strecke sind, kommt es auf den Linien S1, S2, S25, S26, S85 und S85 noch zu Ausfällen und Verspätungen,
+Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Wollankstraße kommt es auf den Linien S1, S2, S25, S26, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
- **Linie S 85** bleibt abgestellt,
-
-**Linie S 26** bleibt abgestellt
+*  Die Linien **S26 und S85** verkehren nicht.
 
 Wir bitten um Verständnis.
 
