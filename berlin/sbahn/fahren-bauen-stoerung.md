@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Kurzfristige Bauarbeiten im Bereich Griebnitzsee ###
 
- Letztes Update: 18:53 / 04.03.2024
+ Letztes Update: 19:49 / 04.03.2024
 
 Information
 
 Wegen kurzfristiger Bauarbeiten im Bereich Griebnitzsee wird der Zugverkehr **der Linie S7 in der heutigen Nacht (04/05.03.2024(Mo/Di)) von ca.00:00 Uhr bis ca. 04:00 Uhr von Wannsee bis Potsdam unterbrochen.**
+
+**Bitte nutzen sie auch den Regionalverkehr Potsdam\<\>Wannsee.**
 
 Es wird ein Busersatzverkehr wird eingerichtet,
 
