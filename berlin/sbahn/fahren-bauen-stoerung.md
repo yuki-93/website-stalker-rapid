@@ -4,17 +4,41 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur am Zug in Schönfließ ###
+### Kurzfristige Bauarbeiten im Bereich Griebnitzsee ###
 
- Letztes Update: 14:57 / 04.03.2024
+ Letztes Update: 18:03 / 04.03.2024
 
 Information
 
-Wegen einer Reparatur am Zug in Schönfließ kommt es auf der Linie S 8 zu Ausfällen und Verspätugen.
+Wegen kurzfristiger Bauarbeiten im Bereich Griebnitzsee wird der Zugverkehr **der Linie S7 in der heutigen Nacht (04/05.03.2024(Mo/Di)) von ca.00:00 Uhr bis ca. 04:00 Uhr von Wannsee bis Potsdam unterbrochen.**
+
+Es wird ein Busersatzverkehr eingerichtet,
+
+Haltestellen: **- Potsdam: Busbahnhf**
+
+ **\- Babelsberg: Karl-Liebknecht-Str. Höhe S-Bahn Brücke (Haltestelle Bus 690)**
+
+ **\- Griebnitzsee: Rudolf-Breitscheitstr.(Bahnhofsvorplatz)**
+
+ **\- Wannsee: Kronprinzessinnenweg (Haltestelle Bus 114,118,620)**
 
 Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### unbefugte Personen auf der Strecke im Bereich Wollankstraße ###
+
+ Letztes Update: 17:38 / 04.03.2024
+
+Information
+
+Wegen unbefugte Personen auf der Strecke kommt es auf den Linien S1, S2, S25, S26, S85 und S85 zu Ausfällen und Verspätungen.
+
+Wir bitten um Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
