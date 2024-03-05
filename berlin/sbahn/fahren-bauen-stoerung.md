@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S26](https://sbahn.berlin/fahren/s26/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Wollankstraße beendet ###
+### technischer Defekt an einem Bahnübergang in Wuhletal ###
 
- Letztes Update: 19:16 / 05.03.2024
+ Letztes Update: 21:39 / 05.03.2024
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Wollankstraße verkeht die Linie **S26** nicht.
+Wegen eines technischen Defekts an einem Bahnübergang in Wuhletal kommt es auf der Linie S5 zu Verspätungen.
 
-Wir bitten um Ihr Verständnis.
+Der 10-Minuten-Takt zwischen Mahlsdorf und Ostbahnhof kann nicht angeboten werden.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
