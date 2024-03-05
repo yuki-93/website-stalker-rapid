@@ -4,39 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz wegen unbefugter Personen im Gleis im Bereich Wollankstraße beendet ###
+### Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Wollankstraße beendet ###
 
- Letztes Update: 18:11 / 05.03.2024
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugter Personen im Gleis im Bereich Wollankstraße kommt es auf den Linien S1,S2,S25,S26,S8 und S85 noch zu Ausfällen und Verspätungen,
-
- **\-Verstärkerzüge der Linie S1 zischen Zehlendorf\<\>Potsdamer Platz verkehren nicht,**
-
- **\- Linie S 26 verkehrt nicht,**
-
- **\- Linie S85 verkehrt Warschauer Strße\<\>Grünau.**
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technischer Defekt an einem Bahnübergang in Wuhletal ###
-
- Letztes Update: 18:07 / 05.03.2024
+ Letztes Update: 19:16 / 05.03.2024
 
 Information
 
-Wegen einem technischen Defekt an einem Bahnübergang in Wuhletal kommt es auf der Linie S5 zu Ausfällen und Verspätungen.
+Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Wollankstraße verkeht die Linie **S26** nicht.
 
-Die zusätzlichen Verstärkerzüge zwischen Mahlsdorf und Warschauer Straße verkehren nicht.
-
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
