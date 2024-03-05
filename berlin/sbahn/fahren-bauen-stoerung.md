@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
-
-### technischer Defekt an einem Bahnübergang in Eichwalde ###
-
- Letztes Update: 19:42 / 05.03.2024
-
-Information
-
-Wegen einem technischen Defekt an einem Bahnübergang in Eichwalde kommt es auf der Linie S46 zu Ausfällen und Verspätungen.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Wollankstraße beendet ###
