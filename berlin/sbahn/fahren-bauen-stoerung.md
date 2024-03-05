@@ -4,19 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### technischer Defekt an einem Bahnübergang in Wuhletal ###
+### ärztliche Versorgung eines Fahrgastes in Savignyplatz beendet ###
 
- Letztes Update: 21:39 / 05.03.2024
+ Letztes Update: 23:02 / 05.03.2024
 
 Information
 
-Wegen eines technischen Defekts an einem Bahnübergang in Wuhletal kommt es auf der Linie S5 zu Verspätungen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Savignyplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
-Der 10-Minuten-Takt zwischen Mahlsdorf und Ostbahnhof kann nicht angeboten werden.
-
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
