@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### technischer Defekt an einem Bahnübergang in Wuhletal ###
+
+ Letztes Update: 16:11 / 05.03.2024
+
+Information
+
+Wegen einem technischen Defekt an einem Bahnübergang in Wuhletal kommt es auf der Linie S5 zu Ausfällen und Verspätungen.
+
+Die zusätzlichen Verstärkerzüge zwischen Mahlsdorf und Warschauer Straße verkehren nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
