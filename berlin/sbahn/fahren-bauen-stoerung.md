@@ -6,20 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Beschädigung einer Brücke in Wittenau ###
+### Polizeieinsatz wegen Beschädigung einer Brücke in Wittenau beendet ###
 
- Letztes Update: 19:10 / 06.03.2024
+ Letztes Update: 20:36 / 06.03.2024
 
 Information
 
-Wegen einer Beschädigung einer Brücke in Wittenau (Brückenanfahrt) ist der Zugverkehr der Linie S1 zwischen Schönholz und Waidmannslust unterbrochen.
-*Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Birkenwerder die Linie S8.*
+Nach einem Polizeieinsatz wegen der Beschädigung einer Brücke in Wittenau kann es auf der Linie S1 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 * Die Linie S85 verkehrt nicht.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
