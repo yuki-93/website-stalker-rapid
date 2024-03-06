@@ -8,14 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal im Bereich Baumschulenweg beendet ###
 
- Letztes Update: 08:44 / 06.03.2024
+ Letztes Update: 10:02 / 06.03.2024
 
 Information
 
 Nach der Reparatur an einem Signal im Bereich Baumschulenweg kommt es auf den Linien S46, S8 und S9 noch zu Verspätungen und vereinzelten Ausfällen.
 
-* Linie S45 verkehrt nicht
-* Linie S47 verkehrt nur zwischen Schöneweide und Spindlersfeld
 * Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
