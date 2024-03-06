@@ -525,7 +525,7 @@ Information
 
 Information
 
-* Mögliche Entschärfung einer Weltkriegsbombe in Oranienburg, OT Lehnitz
+* **Mögliche Entschärfung einer Weltkriegsbombe in Oranienburg, OT Lehnitz.**
 * Kein Halt der verkehrenden Ersatzverkehrslinien am S-Bf Lehnitz
   * Bus S1X: Birkenwerder \<\> Oranienburg (Linie fährt Mo-Fr 5 bis 21 Uhr, Sa 7 bis 21 Uhr und So 9 bis 21 Uhr)
   * Bus S1A: Birkenwerder \<\> Oranienburg
