@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Beschädigung einer Brücke in Wittenau ###
+
+ Letztes Update: 19:10 / 06.03.2024
+
+Information
+
+Wegen einer Beschädigung einer Brücke in Wittenau (Brückenanfahrt) ist der Zugverkehr der Linie S1 zwischen Schönholz und Waidmannslust unterbrochen.
+*Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Birkenwerder die Linie S8.*
+
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
