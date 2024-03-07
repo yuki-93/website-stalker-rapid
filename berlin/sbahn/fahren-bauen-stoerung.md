@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
 
- Letztes Update: 04:26 / 07.03.2024
+ Letztes Update: 12:20 / 07.03.2024
 
 Information
 
@@ -43,7 +43,7 @@ Wegen eines Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es�
 
 **Die Busse fahren auf beiden Linien in folgendem Takt:**
 
-* von ca. 04:00 bis 22:00 Uhr **im 10-Minten-Takt**
+* von ca. 04:00 bis 22:00 Uhr **im 10-Minuten-Takt**
 * von ca. 22:00 bis 01:00 Uhr **im 20-Minuten-Takt**
 * von ca. 01:00 bis 06:00 Uhr **im 30-Minuten-Takt**
 
