@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
 
- Letztes Update: 02:02 / 07.03.2024
+ Letztes Update: 02:17 / 07.03.2024
 
 Information
 
@@ -22,7 +22,7 @@ Wegen eines Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es�
 * **S3**: Erkner \<\> Ostbahnhof **im 60-Minuten-Takt**, *bitte beachten Sie die planmäßigen Bauarbeiten ab 07.03.2024 ca. 21:45 bis 11.03.2024 ca. 01:30 Uhr*
 * **S46**: Königs Wusterhausen \<\> Bundesplatz **im 60-Minuten-Takt**
 * **S5**: Strausberg Nord \<\> Ostbahnhof **im 40-Minuten-Takt**, *von ca. 01:00 bis ca. 04:00 Uhr im 60-Minuten-Takt*
-* **S9**: Flughafen BER \<\> Schöneweide \<\> Friedrichstraße **im 20-Minuten-Takt**, *von ca. 01:00 bis ca. 04:00 Uhr im 30-Minuten-Takt*
+* **S9**: Flughafen BER \<\> Friedrichstraße **im 20-Minuten-Takt**, *von ca. 01:00 bis ca. 04:00 Uhr im 30-Minuten-Takt*
 
 **Die Linien S26, S41, S42, S45, S47, S7, S75, S8 und S85 verkehren nicht.**
 
