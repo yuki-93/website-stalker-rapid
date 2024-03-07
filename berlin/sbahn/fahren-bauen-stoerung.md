@@ -2,6 +2,84 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
+
+ Letztes Update: 02:02 / 07.03.2024
+
+Information
+
+Wegen eines Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **ab heute früh Betriebsbeginn ca. 03:30 Uhr bis Freitag, den 08.03.2024 um 13:00 Uhr** zu massiven Beeinträchtigungen des S-Bahn Verkehrs.
+
+**Ein Notfahrplan ist auf folgenden Linien eingerichtet:**
+
+* **S1**: Birkenwerder \<\> Nordbahnhof **im 60-Minuten-Takt**
+* **S2**: Bernau \<\> Anhalter Bahnhof **im 60-Minuten-Takt**
+* **S25:** Hennigsdorf \<\> Nordbahnhof **im 60-Minuten-Takt**
+* **S3**: Erkner \<\> Ostbahnhof **im 60-Minuten-Takt**, *bitte beachten Sie die planmäßigen Bauarbeiten ab 07.03.2024 ca. 21:45 bis 11.03.2024 ca. 01:30 Uhr*
+* **S46**: Königs Wusterhausen \<\> Bundesplatz **im 60-Minuten-Takt**
+* **S5**: Strausberg Nord \<\> Ostbahnhof **im 40-Minuten-Takt**, *von ca. 01:00 bis ca. 04:00 Uhr im 60-Minuten-Takt*
+* **S9**: Flughafen BER \<\> Schöneweide \<\> Friedrichstraße **im 20-Minuten-Takt**, *von ca. 01:00 bis ca. 04:00 Uhr im 30-Minuten-Takt*
+
+**Die Linien S26, S41, S42, S45, S47, S7, S75, S8 und S85 verkehren nicht.**
+
+---
+
+**Der planmäßige Ersatzverkehr mit Bussen (SEV) für die Linien S1 und S3 fährt auch während des Streiks:**
+
+* **Bus S1A und S1X**: Birkenwerder \<\> Oranienburg
+* **Bus S3**: Rahnsdorf \<\> Friedrichshagen \<\> Karlshorst
+  *(unter Berücksichtigung der planmäßigen Bauarbeiten auf der Linie S3 ab 07.03.2024 ca. 21:45 Uhr bis 11.03.2024 ca. 01:30 Uhr)*
+
+---
+
+**Zusätzlich wird ein Ersatzverkehr mit Bussen für die Linien S2 und S25 im südlichen Abschnitt angeboten.**
+
+* **Bus S2**: Blankenfelde \<\> Südkreuz
+* **Bus S25**: Teltow Stadt \<\> Lichterfelde Ost
+
+**Die Busse fahren auf beiden Linien in folgendem Takt:**
+
+* von ca. 04:00 bis 22:00 Uhr **im 10-Minten-Takt**
+* von ca. 22:00 bis 01:00 Uhr **im 20-Minuten-Takt**
+* von ca. 01:00 bis 06:00 Uhr **im 30-Minuten-Takt**
+
+**Haltestellen des Ersatzverkehrs für die Linie S2:**
+
+* S-Bhf. Blankenfelde: Moselstraße (SEV Haltestelle)
+* S-Bhf. Mahlow: Heimstättenstr. (wie Bus 600, 794, 797)
+* S-Bhf. Lichtenrade: Bahnhofstr. (wie Bus M76, 172, 175, 275, 743)
+* S-Bhf. Schichauweg: Schichauweg (wie Bus X83)
+* S-Bhf. Buckower Chaussee: Buckower Chaussee (wie Bus M11, 277, 710, 711)
+* S-Bhf. Marienfelde: Bahnhofstr. (wie Bus 283)
+* S-Bhf. Attilastr: Steglitzer Damm (wie Bus 282)
+* S-Bhf. Priesterweg: Prellerweg (wie Bus M76, X76, 170, 246)
+* S-Bhf. Südkreuz: Hildegard-Knef-Platz (wie Bus M46, 106, 204)
+
+**Haltestellen des Ersatzverkehrs für die Linie S25:**
+
+* S-Bhf. Teltow Stadt: Gonfrevillestr. (wie Bus X10, 620, 625, N13)
+* S-Bhf. Lichterfelde Süd: Fürstenstr. (wie Bus M85)
+* S-Bhf. Osdorfer Str.: Osdorfer Str. (wie Bus 112, 186, N88)
+* S-Bhf. Lichterfelde Ost: Lankwitzer Str. (wie Bus M11, X11, 184, 284)
+
+---
+
+**Bitte informieren Sie sich kurz vor Fahrtantritt in den elektronischen Auskunftsmedien, ob Ihre Verbindung angeboten wird.**
+
+**Nutzen Sie bitte alternative Verkehrsmittel: die BVG ist vom Streik nicht betroffen.**
+
+**Die Züge des Fern- und Regionalverkehrs der Deutschen Bahn sind ebenfalls vom Streik betroffen.**
+
+---
+
+Oberstes Ziel ist es, nach Streikende allen Fahrgästen so schnell wie möglich wieder das volle Zugangebot verfügbar zu machen. Dennoch rechnen Sie bitte auch nach Ende des Streiks mit Einschränkungen im S-Bahnverkehr, da unser Personal zu den abgestellten Zügen gebracht werden muss und die Züge anschließend noch für den Einsatz vorbereitet werden müssen.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -75,26 +153,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
- Nur Nachts
-
-### Erkner \<\> Karlshorst \<\> Rummelsburg ###
-
-Nacht 06./07.03. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28867&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22054&tx_sbbconstructions_list%5Bperiod%5D=17672&type=5679&cHash=77bcf4ce5101419cbd646096f41827e9)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Friedrichshagen \<\> Karlshorst S-Bahnverkehr nur im 20-Minutentakt
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a06a3b9f31/#con-28867)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
