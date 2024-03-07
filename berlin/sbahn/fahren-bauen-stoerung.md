@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
 
- Letztes Update: 02:17 / 07.03.2024
+ Letztes Update: 04:26 / 07.03.2024
 
 Information
 
-Wegen eines Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **ab heute früh Betriebsbeginn ca. 03:30 Uhr bis Freitag, den 08.03.2024 um 13:00 Uhr** zu massiven Beeinträchtigungen des S-Bahn Verkehrs.
+Wegen eines Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **bis Freitag, den 08.03.2024 um 13:00 Uhr** zu massiven Beeinträchtigungen des S-Bahn Verkehrs.
 
 **Ein Notfahrplan ist auf folgenden Linien eingerichtet:**
 
