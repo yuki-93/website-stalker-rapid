@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz wegen unbefugter Personen im Gleis beendet ###
 
- Letztes Update: 22:07 / 08.03.2024
+ Letztes Update: 23:16 / 08.03.2024
 
 Information
 
@@ -16,7 +16,21 @@ Nach einem Polizeieinsatz wegen unbefugter Personen im Gleis kommt es auf den Li
 
 Wir bitten um Verständnis
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### verspätete Bereitstellung eines Zuges in Potsdamer Platz ###
+
+ Letztes Update: 22:32 / 08.03.2024
+
+Information
+
+Wegen Verspäteter Bereitstellung eines Zuges in Potsdamer Platz kommt es auf den Linie S1, S2 und S 25 zu Ausfällen und Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
