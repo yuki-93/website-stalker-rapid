@@ -40,19 +40,19 @@ Auf alle ausgegebenen 70€ gibt es 5€ Rabatt.
 
 Tagen
 
-13
+12
 
 :
 
 Std.
 
-43
+28
 
 :
 
 Min.
 
-35
+06
 
 Sek.
 

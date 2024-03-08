@@ -6,46 +6,38 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
+### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) beendet. ###
 
- Letztes Update: 05:56 / 08.03.2024
+ Letztes Update: 13:00 / 08.03.2024
 
 Information
 
-Wegen eines Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es **bis Freitag, den 08.03.2024 um 13:00 Uhr** zu massiven Beeinträchtigungen des S-Bahn Verkehrs.
+**Der Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ist beendet.**
 
-**Ein Notfahrplan ist auf folgenden Linien eingerichtet:**
+**Es kommt aber weiterhin zu Verspätungen und Ausfällen, da unser Personal erst zu den abgestellten Züge gebracht werden muss und die Züge anschließend noch für den Einsatz vorbereitet werden müssen.**
 
-* **S1**: Birkenwerder \<\> Nordbahnhof **im 60-Minuten-Takt**
-* **S2**: Bernau \<\> Anhalter Bahnhof **im 60-Minuten-Takt**
-* **S25:** Hennigsdorf \<\> Nordbahnhof **im 60-Minuten-Takt**
-* **S3**: Erkner \<\> Rahnsdorf sowie Wuhlheide \<\> Ostbahnhof **im 60-Minuten-Takt**, *bitte beachten Sie die planmäßigen Bauarbeiten ab 07.03.2024 ca. 21:45 bis 11.03.2024 ca. 01:30 Uhr*
-* **S46**: Königs Wusterhausen \<\> Bundesplatz **im 60-Minuten-Takt**
-* **S5**: Strausberg Nord \<\> Ostbahnhof **im 40-Minuten-Takt**, *von ca. 01:00 bis ca. 04:00 Uhr im 60-Minuten-Takt*
-* **S9**: Flughafen BER \<\> Friedrichstraße **im 20-Minuten-Takt**, *von ca. 01:00 bis ca. 04:00 Uhr im 30-Minuten-Takt*
+Unser oberstes Ziel ist es, allen Fahrgästen so schnell wie möglich das volle Zugangebot wieder verfügbar zu machen.
 
-**Die Linien S26, S41, S42, S45, S47, S7, S75, S8 und S85 verkehren nicht.**
+**Aktuell** **kommt es auf allen S-Bahnlinien noch zu Ausfällen und folgenden Einschränkungen:**
 
----
-
-**Der planmäßige Ersatzverkehr mit Bussen (SEV) für die Linien S1 und S3 fährt auch während des Streiks:**
-
-* **Bus S1A und S1X**: Birkenwerder \<\> Oranienburg
-* **Bus S3**: Rahnsdorf \<\> Friedrichshagen \<\> Karlshorst
-  *(unter Berücksichtigung der planmäßigen Bauarbeiten auf der Linie S3 ab 07.03.2024 ca. 21:45 Uhr bis 11.03.2024 ca. 01:30 Uhr)*
+* **Linie S2:** verkehrt nur im 20-Minuten-Takt
+* **Linie S26:** verkehrt nicht
+* **Linien S41/ S42:** verkehren nur im 10-Minuten-Takt
+* **Linie S45:** verkehrt nicht
+* **Linie S47:** verkehrt nur Schöneweide \<\> Spindlersfeld
+* **Linie S75:** verkehrt nur im 20-Minuten-Takt
+* **Linie S85:** verkehrt nicht
 
 ---
 
-**Zusätzlich wird ein Ersatzverkehr mit Bussen für die Linien S2 und S25 im südlichen Abschnitt angeboten.**
+**Die Busse des Ersatzverkehrs (aufgrund geplanter Bauarbeiten):**
 
-* **Bus S2**: Blankenfelde \<\> Südkreuz
-* **Bus S25**: Teltow Stadt \<\> Lichterfelde Ost
+* für die Linie S1 zwischen Birkenwerder und Oranienburg (Bus S1A, Bus S1X)
+* für die Linie S3 zwischen Rahnsdorf \<\> Karlshorst (Bus S3)
 
-**Die Busse fahren auf beiden Linien in folgendem Takt:**
+verkehren planmäßig.
 
-* von ca. 04:00 bis 22:00 Uhr **im 10-Minuten-Takt**
-* von ca. 22:00 bis 01:00 Uhr **im 20-Minuten-Takt**
-* von ca. 01:00 bis 06:00 Uhr **im 30-Minuten-Takt**
+**Die Busse des zusätzlichen Ersatzverkehrs (aufgrund des Streiks) zwischen Blankenfelde und Südkreuz (Bus S2) sowie zwischen Teltow Stadt und Lichterfelde Ost (Bus S25) fahren bis ca. 15 Uhr.**
 
 **Haltestellen des Ersatzverkehrs für die Linie S2:**
 
@@ -66,19 +58,9 @@ Wegen eines Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es�
 * S-Bhf. Osdorfer Str.: Osdorfer Str. (wie Bus 112, 186, N88)
 * S-Bhf. Lichterfelde Ost: Lankwitzer Str. (wie Bus M11, X11, 184, 284)
 
----
+Wir bitten um Ihr Verständnis.
 
-**Bitte informieren Sie sich kurz vor Fahrtantritt in den elektronischen Auskunftsmedien, ob Ihre Verbindung angeboten wird.**
-
-**Nutzen Sie bitte alternative Verkehrsmittel: die BVG ist vom Streik nicht betroffen.**
-
-**Die Züge des Fern- und Regionalverkehrs der Deutschen Bahn sind ebenfalls vom Streik betroffen.**
-
----
-
-Oberstes Ziel ist es, nach Streikende allen Fahrgästen so schnell wie möglich wieder das volle Zugangebot verfügbar zu machen. Dennoch rechnen Sie bitte auch nach Ende des Streiks mit Einschränkungen im S-Bahnverkehr, da unser Personal zu den abgestellten Zügen gebracht werden muss und die Züge anschließend noch für den Einsatz vorbereitet werden müssen.
-
- sonstige Einschränkungen  sonstige Einschränkungen
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
