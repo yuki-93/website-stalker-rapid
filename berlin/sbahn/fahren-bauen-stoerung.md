@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) beendet. ###
 
- Letztes Update: 15:16 / 08.03.2024
+ Letztes Update: 16:04 / 08.03.2024
 
 Information
 
@@ -24,7 +24,6 @@ Unser oberstes Ziel ist es, allen Fahrgästen so schnell wie möglich das volle 
 * **Linie S26:** verkehrt nicht
 * **Linie S45:** verkehrt nicht
 * **Linie S75:** verkehrt nur im 20-Minuten-Takt
-* **Linie S85:** verkehrt nicht
 
 Wir bitten um Ihr Verständnis.
 
