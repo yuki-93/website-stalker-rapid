@@ -2,32 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S26](https://sbahn.berlin/fahren/s26/)[S45](https://sbahn.berlin/fahren/s45/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) beendet. ###
-
- Letztes Update: 18:35 / 08.03.2024
-
-Information
-
-**Der Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ist beendet.**
-
-**Es kommt aber weiterhin zu Verspätungen und Ausfällen, da unser Personal erst zu den abgestellten Züge gebracht werden muss und die Züge anschließend noch für den Einsatz vorbereitet werden müssen.**
-
-Unser oberstes Ziel ist es, allen Fahrgästen so schnell wie möglich das volle Zugangebot wieder verfügbar zu machen.
-
-**Aktuell** **kommt es noch zu folgenden Einschränkungen:**
-
-* **Linie S26:** verkehrt nicht
-* **Linie S45:** verkehrt nicht
-* **Linie S75:** verkehrt nur im 20-Minuten-Takt
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
