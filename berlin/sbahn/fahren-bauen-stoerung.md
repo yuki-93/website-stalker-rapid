@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) beendet. ###
 
- Letztes Update: 13:00 / 08.03.2024
+ Letztes Update: 15:16 / 08.03.2024
 
 Information
 
@@ -22,41 +22,9 @@ Unser oberstes Ziel ist es, allen Fahrgästen so schnell wie möglich das volle 
 
 * **Linie S2:** verkehrt nur im 20-Minuten-Takt
 * **Linie S26:** verkehrt nicht
-* **Linien S41/ S42:** verkehren nur im 10-Minuten-Takt
 * **Linie S45:** verkehrt nicht
-* **Linie S47:** verkehrt nur Schöneweide \<\> Spindlersfeld
 * **Linie S75:** verkehrt nur im 20-Minuten-Takt
 * **Linie S85:** verkehrt nicht
-
----
-
-**Die Busse des Ersatzverkehrs (aufgrund geplanter Bauarbeiten):**
-
-* für die Linie S1 zwischen Birkenwerder und Oranienburg (Bus S1A, Bus S1X)
-* für die Linie S3 zwischen Rahnsdorf \<\> Karlshorst (Bus S3)
-
-verkehren planmäßig.
-
-**Die Busse des zusätzlichen Ersatzverkehrs (aufgrund des Streiks) zwischen Blankenfelde und Südkreuz (Bus S2) sowie zwischen Teltow Stadt und Lichterfelde Ost (Bus S25) fahren bis ca. 15 Uhr.**
-
-**Haltestellen des Ersatzverkehrs für die Linie S2:**
-
-* S-Bhf. Blankenfelde: Moselstraße (SEV Haltestelle)
-* S-Bhf. Mahlow: Heimstättenstr. (wie Bus 600, 794, 797)
-* S-Bhf. Lichtenrade: Bahnhofstr. (wie Bus M76, 172, 175, 275, 743)
-* S-Bhf. Schichauweg: Schichauweg (wie Bus X83)
-* S-Bhf. Buckower Chaussee: Buckower Chaussee (wie Bus M11, 277, 710, 711)
-* S-Bhf. Marienfelde: Bahnhofstr. (wie Bus 283)
-* S-Bhf. Attilastr: Steglitzer Damm (wie Bus 282)
-* S-Bhf. Priesterweg: Prellerweg (wie Bus M76, X76, 170, 246)
-* S-Bhf. Südkreuz: Hildegard-Knef-Platz (wie Bus M46, 106, 204)
-
-**Haltestellen des Ersatzverkehrs für die Linie S25:**
-
-* S-Bhf. Teltow Stadt: Gonfrevillestr. (wie Bus X10, 620, 625, N13)
-* S-Bhf. Lichterfelde Süd: Fürstenstr. (wie Bus M85)
-* S-Bhf. Osdorfer Str.: Osdorfer Str. (wie Bus 112, 186, N88)
-* S-Bhf. Lichterfelde Ost: Lankwitzer Str. (wie Bus M11, X11, 184, 284)
 
 Wir bitten um Ihr Verständnis.
 
