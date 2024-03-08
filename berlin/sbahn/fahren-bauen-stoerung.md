@@ -4,11 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S26](https://sbahn.berlin/fahren/s26/)[S45](https://sbahn.berlin/fahren/s45/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) beendet. ###
 
- Letztes Update: 16:04 / 08.03.2024
+ Letztes Update: 18:35 / 08.03.2024
 
 Information
 
@@ -18,9 +18,8 @@ Information
 
 Unser oberstes Ziel ist es, allen Fahrgästen so schnell wie möglich das volle Zugangebot wieder verfügbar zu machen.
 
-**Aktuell** **kommt es auf allen S-Bahnlinien noch zu Ausfällen und folgenden Einschränkungen:**
+**Aktuell** **kommt es noch zu folgenden Einschränkungen:**
 
-* **Linie S2:** verkehrt nur im 20-Minuten-Takt
 * **Linie S26:** verkehrt nicht
 * **Linie S45:** verkehrt nicht
 * **Linie S75:** verkehrt nur im 20-Minuten-Takt
