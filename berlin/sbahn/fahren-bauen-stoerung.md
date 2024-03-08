@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
 
- Letztes Update: 12:20 / 07.03.2024
+ Letztes Update: 05:56 / 08.03.2024
 
 Information
 
@@ -19,7 +19,7 @@ Wegen eines Streiks der Gewerkschaft Deutscher Lokomotivführer (GDL) kommt es�
 * **S1**: Birkenwerder \<\> Nordbahnhof **im 60-Minuten-Takt**
 * **S2**: Bernau \<\> Anhalter Bahnhof **im 60-Minuten-Takt**
 * **S25:** Hennigsdorf \<\> Nordbahnhof **im 60-Minuten-Takt**
-* **S3**: Erkner \<\> Ostbahnhof **im 60-Minuten-Takt**, *bitte beachten Sie die planmäßigen Bauarbeiten ab 07.03.2024 ca. 21:45 bis 11.03.2024 ca. 01:30 Uhr*
+* **S3**: Erkner \<\> Rahnsdorf sowie Wuhlheide \<\> Ostbahnhof **im 60-Minuten-Takt**, *bitte beachten Sie die planmäßigen Bauarbeiten ab 07.03.2024 ca. 21:45 bis 11.03.2024 ca. 01:30 Uhr*
 * **S46**: Königs Wusterhausen \<\> Bundesplatz **im 60-Minuten-Takt**
 * **S5**: Strausberg Nord \<\> Ostbahnhof **im 40-Minuten-Takt**, *von ca. 01:00 bis ca. 04:00 Uhr im 60-Minuten-Takt*
 * **S9**: Flughafen BER \<\> Friedrichstraße **im 20-Minuten-Takt**, *von ca. 01:00 bis ca. 04:00 Uhr im 30-Minuten-Takt*
