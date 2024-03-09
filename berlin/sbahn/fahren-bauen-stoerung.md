@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Karlshorst beendet ###
+### Polizeieinsatz in Flughafen BER ###
 
- Letztes Update: 15:43 / 09.03.2024
+ Letztes Update: 16:32 / 09.03.2024
 
 Information
 
-Nach einem Polizeieinsatz in Karlshorst kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes im Zug in Flughafen BER kommt es auf den Linien S45 und S9 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung verspätet
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
