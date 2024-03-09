@@ -34,25 +34,25 @@ Auf alle ausgegebenen 70€ gibt es 5€ Rabatt.
 
 8. - 10. März 2024
 
-02
+01
 
 :
 
 Tagen
 
-01
+23
 
 :
 
 Std.
 
-40
+45
 
 :
 
 Min.
 
-51
+25
 
 Sek.
 
