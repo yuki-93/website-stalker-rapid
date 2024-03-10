@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### ärztliche Versorgung eines Fahrgastes in Humboldthain ###
+### ärztliche Versorgung eines Fahrgastes in Humboldthain beendet ###
 
- Letztes Update: 11:17 / 10.03.2024
+ Letztes Update: 11:26 / 10.03.2024
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Humboldthain kommt es auf den Linien S1, S2 und S25 zu Verspätungen und einzelnen Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Humboldthain kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
