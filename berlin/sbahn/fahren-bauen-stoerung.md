@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsatz im Bereich Kaulsdorf beendet ###
-
- Letztes Update: 18:44 / 10.03.2024
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Kaulsdorf kommt es auf der Linie S5 noch zu Ausfällen und Verspätungen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
