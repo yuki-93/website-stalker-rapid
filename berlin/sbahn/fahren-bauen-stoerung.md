@@ -1432,6 +1432,27 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28777)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31016)
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Schichauweg \<\> Priesterweg ###
+
+03.04. (Mi), ca. 4 Uhr durchgehend bis 08.04. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28935&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22112&tx_sbbconstructions_list%5Bperiod%5D=17806&type=5679&cHash=9989cda73b34fa8c9113a5a9dda9c82e)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S2: Schichauweg \<\> Priesterweg
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/dresdner-bahn/#con-28935)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Springpfuhl \<\> Wartenberg ###
