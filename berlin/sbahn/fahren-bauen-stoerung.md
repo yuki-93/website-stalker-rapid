@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz wegen Gegenstände auf der Strecke in Bereich Zoologischer Garten ###
+### Polizeieinsatz wegen Gegenstände auf der Strecke in Bereich Zoologischer Garten beendet ###
 
- Letztes Update: 03:54 / 11.03.2024
+ Letztes Update: 04:43 / 11.03.2024
 
 Information
 
-Wegen eines Polizeieinsatzes auf der Strecke ist der Zugverkehr der Linie S3, S5, S7 und S9 zwischen Tiergarten und Charlottenburg unterbrochen.
+Nach einem Polizeieinsatz auf der Strecke kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
