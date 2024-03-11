@@ -34,28 +34,6 @@ Auf alle ausgegebenen 70€ gibt es 5€ Rabatt.
 
 8. - 10. März 2024
 
-00
-
-:
-
-Tagen
-
-01
-
-:
-
-Std.
-
-42
-
-:
-
-Min.
-
-12
-
-Sek.
-
 [Shop NowmasterBanner2](https://www.anker.com/eu-de/angebote?ref=masterBanner2)
 
 NEU
