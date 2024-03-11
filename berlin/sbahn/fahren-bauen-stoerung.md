@@ -2,6 +2,40 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz wegen Gegenstände auf der Strecke in Bereich Zoologischer Garten ###
+
+ Letztes Update: 03:54 / 11.03.2024
+
+Information
+
+Wegen eines Polizeieinsatzes auf der Strecke ist der Zugverkehr der Linie S3, S5, S7 und S9 zwischen Tiergarten und Charlottenburg unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  keine Verbindung
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal zwischen Baumschulenweg und Schöneweide ###
+
+ Letztes Update: 03:30 / 11.03.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal zwischen Baumschulenweg und Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Ausfällen und Verspätungen.
+
+**\- Linie S47** verkehrt Schöneweide\<\>Spindlersfeld
+
+**\- Linie S85** verkehrt nicht.
+
+Wir bitten um Entschulödiging.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
