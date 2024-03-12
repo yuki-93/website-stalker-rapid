@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
 
- Letztes Update: 11:39 / 12.03.2024
+ Letztes Update: 14:15 / 12.03.2024
 
 Information
 
 Während des Streiks der Gewerkschaft Deutscher Lokführer (GDL) ist bis **Streikende am Mittwoch, den 13.03.2024 02:00 Uhr** mit massiven Beeinträchtigungen des S-Bahn-, Regional- und Fernverkehrs der DB zu rechnen. Deshalb bitten wir Sie, auf **alternative Verkehrsmittel** auszuweichen. Die BVG ist vom Streik nicht betroffen.
 
-**Die Linien [S26](https://sbahn.berlin/fahren/s26/), [S41](https://sbahn.berlin/fahren/s41/), [S42](https://sbahn.berlin/fahren/s42/), [S45](https://sbahn.berlin/fahren/s45/), [S47](https://sbahn.berlin/fahren/s47/), [S7](https://sbahn.berlin/fahren/s7/), [S75](https://sbahn.berlin/fahren/s75/), [S8](https://sbahn.berlin/fahren/s8/) und [S85](https://sbahn.berlin/fahren/s85/) verkehren nicht.**
+**Die Linien [S26](https://sbahn.berlin/fahren/s26/), [S41](https://sbahn.berlin/fahren/s41/), [S42](https://sbahn.berlin/fahren/s42/), [S45](https://sbahn.berlin/fahren/s45/),** **[S47](https://sbahn.berlin/fahren/s47/),** **[S7](https://sbahn.berlin/fahren/s7/), [S75](https://sbahn.berlin/fahren/s75/), [S8](https://sbahn.berlin/fahren/s8/) und [S85](https://sbahn.berlin/fahren/s85/) verkehren nicht.**
 
 #### Es besteht während des Streiks ein **Streikfahrplan** auf den folgenden Linien:
  ####
@@ -34,7 +34,7 @@ Während des Streiks der Gewerkschaft Deutscher Lokführer (GDL) ist bis **Str
    (60-Min-Takt)
 * [S46](https://sbahn.berlin/fahren/s46/) Königs Wusterhausen – Bundesplatz
    (60-Min-Takt)
-* [S5](https://sbahn.berlin/fahren/s5/) Strausberg Nord – Ostbahnhof
+* [S5](https://sbahn.berlin/fahren/s5/) Nöldnerplatz – Ostbahnhof
    (40-Min-Takt)
 * [S9](https://sbahn.berlin/fahren/s9/) Friedrichstraße – Schöneweide – Flughafen BER
    (20-Min-Takt)
