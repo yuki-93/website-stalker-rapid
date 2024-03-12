@@ -473,7 +473,7 @@ Information
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Birkenwerder \<\> Oranienburg ###
+### Bombenentschärfung: Birkenwerder \<\> Oranienburg ###
 
 13.03. (Mi), ca. 8 Uhr bis ca. 15 Uhr
 
@@ -483,12 +483,10 @@ Information
 
 Information
 
-* **Mögliche Entschärfung einer Weltkriegsbombe in Oranienburg, OT Lehnitz.**
+* **Entschärfung einer Weltkriegsbombe in Oranienburg, OT Lehnitz ab 8 Uhr.**
 * Kein Halt der verkehrenden Ersatzverkehrslinien am S-Bf Lehnitz
   * Bus S1X: Birkenwerder \<\> Oranienburg (Linie fährt Mo-Fr 5 bis 21 Uhr, Sa 7 bis 21 Uhr und So 9 bis 21 Uhr)
   * Bus S1A: Birkenwerder \<\> Oranienburg
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-29039)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31016)
 
