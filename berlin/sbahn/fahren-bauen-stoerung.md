@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
 
- Letztes Update: 15:00 / 12.03.2024
+ Letztes Update: 16:45 / 12.03.2024
 
 Information
 
@@ -29,12 +29,12 @@ Während des Streiks der Gewerkschaft Deutscher Lokführer (GDL) ist bis **Str
 * [S2](https://sbahn.berlin/fahren/s2/) Bernau – Anhalter Bahnhof
    (60-Min-Takt, ab 22 Uhr: Bernau – **Greifswalder Straße\***)
 * [S25](https://sbahn.berlin/fahren/s25/) Hennigsdorf – Nordbahnhof
-   (60-Min-Takt, ab 22 Uhr: Hennigsdorf – **Wollankstraße\***)
+   (60-Min-Takt)
 * [S3](https://sbahn.berlin/fahren/s3/) Erkner – Ostbahnhof
    (60-Min-Takt)
 * [S46](https://sbahn.berlin/fahren/s46/) Königs Wusterhausen – Bundesplatz
    (60-Min-Takt)
-* [S5](https://sbahn.berlin/fahren/s5/) Strausberg – Ostbahnhof
+* [S5](https://sbahn.berlin/fahren/s5/) Strausberg Nord – Ostbahnhof
    (40-Min-Takt)
 * [S9](https://sbahn.berlin/fahren/s9/) Friedrichstraße – Schöneweide – Flughafen BER
    (20-Min-Takt)
