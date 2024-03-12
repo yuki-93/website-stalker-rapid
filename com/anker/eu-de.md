@@ -21,8 +21,6 @@ Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
-Neuerscheinungen
-
 Energiegeladen in den Frühling!
 
 2 mit 20% | 3 mit  25%
@@ -116,23 +114,29 @@ Anker-Innovationen nach Kategorie filtern
 Entdecke Anker Innovations
 ----------
 
+* ### Frühlingssale ###
+
+  2 kaufen, 20% sparen. 3 kaufen, 25% sparen. Auf das komplette Ladezubehör!
+
+  [Jetzt kaufenFrühlingssale](https://www.anker.com/eu-de/fruehlings-sale?ref=productBanner8_1)
+
 * ### Anker MagGo ###
 
   Click it, Charge it - Doppelter Speed.
 
-  [Jetzt kaufenAnker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=productBanner8_1)
+  [Jetzt kaufenAnker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=productBanner8_2)
 
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner8_2)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner8_3)
 
 * ### Anker SOLIX C800 Plus Tragbare Powerstation ###
 
   März erhältlich. Pünktlich zum Frühjahr.
 
-  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner8_3)
+  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner8_4)
 
 Was macht Anker so besonders?
 ----------

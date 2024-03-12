@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
 
- Letztes Update: 11:02 / 12.03.2024
+ Letztes Update: 11:39 / 12.03.2024
 
 Information
 
@@ -61,7 +61,7 @@ Während des Streiks der Gewerkschaft Deutscher Lokführer (GDL) ist bis **Str
 * S-Bhf. Mahlow: Heimstättenstr. (wie Bus 600, 794, 797)
 * S-Bhf. Lichtenrade: Bahnhofstr. (wie Bus M76, 172, 175, 275, 743)
 * S-Bhf. Schichauweg: Schichauweg (wie Bus X83)
-* S-Bhf. Buckower Chaussee: Gutspark Marienfelde (ca. 150 Meter Fußweg vom S-Bahnhof)
+* S-Bhf. Buckower Chaussee: Gutspark Marienfelde (wie Bus M11, X83, 277)
 * S-Bhf. Marienfelde: Bahnhofstr. (wie Bus 283)
 * S-Bhf. Attilastr: Steglitzer Damm (wie Bus 282)
 * S-Bhf. Priesterweg: Prellerweg (wie Bus M76, X76, 170, 246)
