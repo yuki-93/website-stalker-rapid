@@ -9,6 +9,10 @@ Anker MagGo, Click it, Charge it - Doppelter Speed.
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
 
+Frühlingssale: 2 kaufen, 20% sparen. 3 kaufen, 25% sparen. Auf das komplette Ladezubehör!
+
+[Jetzt kaufen\>\>](https://www.anker.com/eu-de/fruehlings-sale)
+
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
 ProdukteNach KategorieNeuerscheinungenAngebote[Anker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
@@ -16,6 +20,17 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Anker MagGo](https://www.anker.co
 Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
+
+Energiegeladen in den Frühling!
+
+2 mit 20% | 3 mit  25%
+auf smartes Ladezubehör
+
+12. März - 5. April 2024
+
+[Jetzt shoppen masterBanner1](https://www.anker.com/eu-de/fruehlings-sale?ref=masterBanner1)
+
+[Apple-Zubehör entdecken \>\>](https://www.anker.com/eu-de/collections/apple-accessories)
 
 Neuerscheinungen
 
@@ -26,7 +41,7 @@ Click it, Charge it - Doppelter Speed.
 Die kabellose 15W-Ladeserie für
 blitzschnelle magnetische Power
 
-[Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner1)
+[Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner2)
 
 Limitiertes Angebot
 
@@ -37,7 +52,7 @@ Energiegeladen durch den Frühling.
 
 12. - 31. März 2024
 
-[Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/anker-solix/fruehlingssale-bms?ref=masterBanner2)
+[Jetzt kaufenmasterBanner3](https://www.anker.com/eu-de/anker-solix/fruehlingssale-bms?ref=masterBanner3)
 
 Entdecke innovative Ladelösungen
 ----------
@@ -105,19 +120,19 @@ Entdecke Anker Innovations
 
   Click it, Charge it - Doppelter Speed.
 
-  [Jetzt kaufenAnker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=productBanner7_1)
+  [Jetzt kaufenAnker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=productBanner8_1)
 
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_2)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner8_2)
 
 * ### Anker SOLIX C800 Plus Tragbare Powerstation ###
 
   März erhältlich. Pünktlich zum Frühjahr.
 
-  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner7_3)
+  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner8_3)
 
 Was macht Anker so besonders?
 ----------
