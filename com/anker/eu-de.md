@@ -15,11 +15,13 @@ Frühlingssale: 2 kaufen, 20% sparen. 3 kaufen, 25% sparen. Auf das komplette La
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Anker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
+ProdukteNach KategorieNeuerscheinungenAngebote[Anker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)[Frühlingssale](https://www.anker.com/eu-de/fruehlings-sale)
 
 Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
+
+Neuerscheinungen
 
 Energiegeladen in den Frühling!
 
@@ -29,8 +31,6 @@ auf smartes Ladezubehör
 12. März - 5. April 2024
 
 [Jetzt shoppen masterBanner1](https://www.anker.com/eu-de/fruehlings-sale?ref=masterBanner1)
-
-[Apple-Zubehör entdecken \>\>](https://www.anker.com/eu-de/collections/apple-accessories)
 
 Neuerscheinungen
 
