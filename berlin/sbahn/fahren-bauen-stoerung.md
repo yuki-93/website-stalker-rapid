@@ -2,6 +2,82 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
+
+ Letztes Update: 02:00 / 12.03.2024
+
+Information
+
+Während des Streiks der Gewerkschaft Deutscher Lokführer (GDL) ist bis **Streikende am Mittwoch, den 13.03.2024 02:00 Uhr** mit massiven Beeinträchtigungen des S-Bahn-, Regional- und Fernverkehrs der DB zu rechnen. Deshalb bitten wir Sie, auf **alternative Verkehrsmittel** auszuweichen. Die BVG ist vom Streik nicht betroffen.
+
+**Die Linien [S26](https://sbahn.berlin/fahren/s26/), [S41](https://sbahn.berlin/fahren/s41/), [S42](https://sbahn.berlin/fahren/s42/), [S45](https://sbahn.berlin/fahren/s45/), [S47](https://sbahn.berlin/fahren/s47/), [S7](https://sbahn.berlin/fahren/s7/), [S75](https://sbahn.berlin/fahren/s75/), [S8](https://sbahn.berlin/fahren/s8/) und [S85](https://sbahn.berlin/fahren/s85/) verkehren nicht.**
+
+#### Es besteht während des Streiks ein **Streikfahrplan** auf den folgenden Linien:
+ ####
+
+#### **Grafiken zum Download:** ####
+
+* **[Liniengrafik des Streikfahrplans](https://sbahn.berlin/fileadmin/user_upload/Bauarbeiten/Grafiken/2024/grafik_streikfahrplan.jpg)**
+* **[Abfahrtzeiten pro Linie](https://sbahn.berlin/fileadmin/user_upload/Bauarbeiten/Grafiken/2024/abfahrtszeiten_Streikfahrplan.jpg)**
+
+* [S1](https://sbahn.berlin/fahren/s1/) Birkenwerder – Nordbahnhof
+   (60-Min-Takt, ab 22 Uhr: Birkenwerder – **Gesundbrunnen\***)
+* [S2](https://sbahn.berlin/fahren/s2/) Bernau – Anhalter Bahnhof
+   (60-Min-Takt, ab 22 Uhr: Bernau – **Greifswalder Straße\***)
+* [S25](https://sbahn.berlin/fahren/s25/) Hennigsdorf – Nordbahnhof
+   (60-Min-Takt, ab 22 Uhr: Hennigsdorf – **Wollankstraße\***)
+* [S3](https://sbahn.berlin/fahren/s3/) Erkner – Ostbahnhof
+   (60-Min-Takt)
+* [S46](https://sbahn.berlin/fahren/s46/) Königs Wusterhausen – Bundesplatz
+   (60-Min-Takt)
+* [S5](https://sbahn.berlin/fahren/s5/) Strausberg Nord – Ostbahnhof
+   (40-Min-Takt)
+* [S9](https://sbahn.berlin/fahren/s9/) Friedrichstraße – Schöneweide – Flughafen BER
+   (20-Min-Takt)
+
+\* Wegen Bauarbeiten geänderte Streckenführung
+
+#### Der **planmäßige Bus-Ersatzverkehr** fährt auch während des Streiks: ####
+
+* **Bus S1X**: Birkenwerder – Oranienburg
+   (durchgehend bis 28.03.2024)
+* **Bus S1A**: Birkenwerder – Oranienburg
+   (durchgehend bis 28.03.2024)
+
+#### **Zusätzlich bieten wir einen Bus-Ersatzverkehr** auf folgenden Strecken an: ####
+
+* **Bus S25:** Teltow Stadt – Lichterfelde Ost
+   (10-Minuten-Takt)
+* **Bus S2:** Südkreuz – Blankenfelde
+   (10-Minuten-Takt)
+
+**Haltestellen des Ersatzverkehrs für die Linie S2:**
+
+* S-Bhf. Blankenfelde: Moselstraße (SEV Haltestelle)
+* S-Bhf. Mahlow: Heimstättenstr. (wie Bus 600, 794, 797)
+* S-Bhf. Lichtenrade: Bahnhofstr. (wie Bus M76, 172, 175, 275, 743)
+* S-Bhf. Schichauweg: Schichauweg (wie Bus X83)
+* S-Bhf. Buckower Chaussee: Buckower Chaussee (wie Bus M11, 277, 710, 711)
+* S-Bhf. Marienfelde: Bahnhofstr. (wie Bus 283)
+* S-Bhf. Attilastr: Steglitzer Damm (wie Bus 282)
+* S-Bhf. Priesterweg: Prellerweg (wie Bus M76, X76, 170, 246)
+* S-Bhf. Südkreuz: Hildegard-Knef-Platz (wie Bus M46, 106, 204)
+
+**Haltestellen des Ersatzverkehrs für die Linie S25:**
+
+* S-Bhf. Teltow Stadt: Gonfrevillestr. (wie Bus X10, 620, 625, N13)
+* S-Bhf. Lichterfelde Süd: Fürstenstr. (wie Bus M85)
+* S-Bhf. Osdorfer Str.: Osdorfer Str. (wie Bus 112, 186, N88)
+* S-Bhf. Lichterfelde Ost: Lankwitzer Str. (wie Bus M11, X11, 184, 284)
+
+Oberstes Ziel ist es, nach Streikende allen Fahrgästen so schnell wie möglich wieder das volle Zugangebot verfügbar zu machen. Dennoch rechnen Sie bitte auch nach Ende des Streiks mit Einschränkungen im S-Bahnverkehr, da unser Personal zu den abgestellten Zügen gebracht werden muss und die Züge anschließend noch für den Einsatz vorbereitet werden müssen.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -117,26 +193,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-6/#con-28977)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### (Heerstraße –) Pichelsberg – Spandau ###
-
-Nacht 11./12.03. (Mo/Di) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29001&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22156&tx_sbbconstructions_list%5Bperiod%5D=17758&type=5679&cHash=eec9c773f59f93557ee235cc05df8c01)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-und-weichenarbeiten/#con-29001)
 
 ### Fahrplanänderungen ###
 
