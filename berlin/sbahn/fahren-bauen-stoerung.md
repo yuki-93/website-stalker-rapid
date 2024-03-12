@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
 
- Letztes Update: 14:15 / 12.03.2024
+ Letztes Update: 15:00 / 12.03.2024
 
 Information
 
@@ -34,7 +34,7 @@ Während des Streiks der Gewerkschaft Deutscher Lokführer (GDL) ist bis **Str
    (60-Min-Takt)
 * [S46](https://sbahn.berlin/fahren/s46/) Königs Wusterhausen – Bundesplatz
    (60-Min-Takt)
-* [S5](https://sbahn.berlin/fahren/s5/) Nöldnerplatz – Ostbahnhof
+* [S5](https://sbahn.berlin/fahren/s5/) Strausberg – Ostbahnhof
    (40-Min-Takt)
 * [S9](https://sbahn.berlin/fahren/s9/) Friedrichstraße – Schöneweide – Flughafen BER
    (20-Min-Takt)
