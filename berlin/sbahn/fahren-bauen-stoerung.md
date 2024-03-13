@@ -4,49 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Treptower Park ###
 
- Letztes Update: 21:14 / 13.03.2024
+ Letztes Update: 22:08 / 13.03.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Treptower Park kann es auf den Linien S8, S85 und S9 zu Verspätungen kommen.
+Wegen einer Reparatur an einem Signal in Treptower Park kann es auf den Linien S8 und S9 zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### Polizeieinsatz in Neukölln beendet ###
-
- Letztes Update: 21:13 / 13.03.2024
-
-Information
-
-Nach einem Polizeieinsatz in Neukölln verkehren die Linien S41 und S42 nur im 10-Minuten-Takt.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
-[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Reparatur am Signal in Schönholz ###
 
- Letztes Update: 21:12 / 13.03.2024
+ Letztes Update: 21:47 / 13.03.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Schönholz kann es auf den Linien S1 und S25 zu Verspätungen kommen.
 
-* Die Linie S85 verkehrt zwischen Grünau \<\> Nordbahnhof. Fahrgäste nutzen bitten zwischen Gesundbrunnen und Waidmannslust die Linie S1.
-
 Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
