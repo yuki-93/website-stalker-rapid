@@ -4,35 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Priesterweg ###
-
- Letztes Update: 06:52 / 13.03.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Priesterweg kommt es auf den Linie S25 und S26 zu Verspätungen und Ausfällen.
-
-\* Die Linie S26 verkehrt nur zwischen Teltow Stadt \<\> Lichterfelde Ost sowie Potsdamer Platz \<\> Blankenburg.
-
- Fahrgäste nutzen bitte zwischen Lichterfelde Ost und Potsdamer Platz die Linie S25.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur am Signal in Schönholz ###
 
- Letztes Update: 06:36 / 13.03.2024
+ Letztes Update: 08:14 / 13.03.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und Ausfällen.
 
-\* Die Linie S85 verkehrt zwischen Grünau \<\> Nordbahnhof.
+\* Die Linie S85 verkehrt zwischen Grünau \<\> Nordbahnhof. Fahrgäste nutzen bitten ab Gesundbrunnen die Linie S1.
 
 Wir bitten um Entschuldigung
 
