@@ -92,25 +92,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28775)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31016)
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Bombenentschärfung: Birkenwerder \<\> Oranienburg ###
-
-13.03. (Mi), ca. 8 Uhr bis ca. 15 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29039&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21824&tx_sbbconstructions_list%5Bperiod%5D=17792&type=5679&cHash=c31834d64d764cc7ae8e1a6c3fb566ee)
-
- Ersatzverkehr
-
-Information
-
-* **Entschärfung einer Weltkriegsbombe in Oranienburg, OT Lehnitz ab 8 Uhr.**
-* Kein Halt der verkehrenden Ersatzverkehrslinien am S-Bf Lehnitz
-  * Bus S1X: Birkenwerder \<\> Oranienburg (Linie fährt Mo-Fr 5 bis 21 Uhr, Sa 7 bis 21 Uhr und So 9 bis 21 Uhr)
-  * Bus S1A: Birkenwerder \<\> Oranienburg
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-29039)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31016)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
