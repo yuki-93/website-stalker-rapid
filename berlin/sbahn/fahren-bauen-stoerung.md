@@ -4,29 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Polizeieinsatz in Schöneweide beendet ###
+### Polizeieinsatz in Neukölln beendet ###
 
- Letztes Update: 18:09 / 13.03.2024
+ Letztes Update: 19:13 / 13.03.2024
 
 Information
 
-Nach einem Polizeieinsatz in Schöneweide kommt es auf den Linien S45, S46, S47, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Neukölln kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
+
+* die Linien S41 und S42 verkehren nur im 10-Minuten-Takt
 
 Wir bitten um Verständnis.
 
  Takt geändert
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur am Zug in Hauptbahnhof behoben ###
+### technische Untersuchung am Zug in Anhalter Bahnhof behoben ###
 
- Letztes Update: 17:14 / 13.03.2024
+ Letztes Update: 18:33 / 13.03.2024
 
 Information
 
-Nach einer Reparatur am Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfallen.
+Nach einer technischen Untersuchung am Zug in Anhalter Bahnhof kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
