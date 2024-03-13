@@ -152,6 +152,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-spandau-4/#con-29016)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### (Ostbahnhof –) Charlottenburg – Spandau ###
+
+Nacht 14./15.03. (Do/Fr) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29017&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22168&tx_sbbconstructions_list%5Bperiod%5D=17770&type=5679&cHash=8a29fdc564ac307e6bf4f854a3834a72)
+
+ Zugverkehr verändert
+
+Information
+
+* Taktänderung:
+  * Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S7 und S9
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Bahnsteigänderung in Ostbahnhof, Charlottenburg, Westkreuz und Grunewald
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-westkreuz-10/#con-29017)
+
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -452,28 +475,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-7/#con-28978)
 
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### (Olympiastadion –) Pichelsberg – Spandau ###
-
-Nacht 13./14.03. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29016&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22167&tx_sbbconstructions_list%5Bperiod%5D=17769&type=5679&cHash=0390bd312a827ee50cd68d0971aafc20)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung
-  * Pichelsberg \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-spandau-4/#con-29016)
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
@@ -496,6 +497,29 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-westkreuz-10/#con-29017)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### (Lichtenrade) Marienfelde \<\> Priesterweg ###
+
+15.03. (Fr), ca. 21:45 Uhr bis 18.03. (Mo), ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28487&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21651&tx_sbbconstructions_list%5Bperiod%5D=17601&type=5679&cHash=a2384ce8d2267f7c3f819c56ade32f96)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S2: Marienfelde \<\> Priesterweg
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhanben-dresner-bahn-1/#con-28487)
 
 ### Fahrplanänderungen ###
 
@@ -772,53 +796,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28775)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31016)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Potsdamer Platz \<\> Schönholz ###
-
-Nächte 13./14.03. (Mi/Do) und 14./15.03. (Do/Fr) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28978&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22141&tx_sbbconstructions_list%5Bperiod%5D=17742&type=5679&cHash=8dc4d1e4037ae899d933d60e952d1786)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung:
-  * Gesundbrunnen \<\> Bornholmer Straße S-Bahnverkehr nur im 20-Minutentakt
-
-* Bahnsteigänderung:
-  * Nordbahnhof, Gesundbrunnen, Bornholmer Straße
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-7/#con-28978)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### (Ostbahnhof –) Charlottenburg – Spandau ###
-
-Nacht 14./15.03. (Do/Fr) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29017&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22168&tx_sbbconstructions_list%5Bperiod%5D=17770&type=5679&cHash=8a29fdc564ac307e6bf4f854a3834a72)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung:
-  * Charlottenburg \<\> Westkreuz S-Bahnverkehr nur im ungefähren 5-/15-Minutentakt mit S7 und S9
-  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Bahnsteigänderung in Ostbahnhof, Charlottenburg, Westkreuz und Grunewald
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-westkreuz-10/#con-29017)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -1501,23 +1478,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Waidmannslust – Frohnau ###
-
-16.02. (Fr) bis 28.03. (Do) jeweils Mo-Fr 5 bis 20 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28780&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21970&tx_sbbconstructions_list%5Bperiod%5D=17598&type=5679&cHash=7321b96152336c1c8785694a9f128322)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/baumassnahmen/#con-28780)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
