@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Signal in Schönholz ###
 
- Letztes Update: 08:14 / 13.03.2024
+ Letztes Update: 08:20 / 13.03.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und Ausfällen.
 
-\* Die Linie S85 verkehrt zwischen Grünau \<\> Nordbahnhof. Fahrgäste nutzen bitten ab Gesundbrunnen die Linie S1.
+\* Die Linie S85 verkehrt zwischen Grünau \<\> Nordbahnhof. Fahrgäste nutzen bitten ab Gesundbrunnen die Linie S1 nach Waidmannslust.
 
 Wir bitten um Entschuldigung
 
