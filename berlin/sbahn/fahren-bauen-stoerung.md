@@ -4,79 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S3](https://sbahn.berlin/fahren/s3/)[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Streik der Gewerkschaft Deutscher Lokomotivführer (GDL) ###
+### Entschärfung einer Fliegerbombe in Oranienburg (Ortsteil Lehnitz) ###
 
- Letztes Update: 21:39 / 12.03.2024
+ Letztes Update: 22:10 / 12.03.2024
 
 Information
 
-Während des Streiks der Gewerkschaft Deutscher Lokführer (GDL) ist bis **Streikende am Mittwoch, den 13.03.2024 02:00 Uhr** mit massiven Beeinträchtigungen des S-Bahn-, Regional- und Fernverkehrs der DB zu rechnen. Deshalb bitten wir Sie, auf **alternative Verkehrsmittel** auszuweichen. Die BVG ist vom Streik nicht betroffen.
+Wegen der Entschärfung einer Fliegerbombe in Oranienburg, Ortsteil Lehnitz, können die Busse des Ersatzverkehrs S1A und S1X der Linie S1 den S-Bahnhof Lehnitz **ab ca. 08:00 Uhr bis zur Aufhebung des Sperrkreises** nicht anfahren.
 
-**Die Linien [S26](https://sbahn.berlin/fahren/s26/), [S41](https://sbahn.berlin/fahren/s41/), [S42](https://sbahn.berlin/fahren/s42/), [S45](https://sbahn.berlin/fahren/s45/),** **[S47](https://sbahn.berlin/fahren/s47/),** **[S7](https://sbahn.berlin/fahren/s7/), [S75](https://sbahn.berlin/fahren/s75/), [S8](https://sbahn.berlin/fahren/s8/) und [S85](https://sbahn.berlin/fahren/s85/) verkehren nicht.**
+Aufgrund der Bombenentschärfung kommt es auch zu Einschränkungen im Regionalverkehr.
 
-#### Es besteht während des Streiks ein **Streikfahrplan** auf den folgenden Linien:
- ####
+Wir bitten um Ihr Verständnis.
 
-#### **Grafiken zum Download:** ####
-
-* **[Liniengrafik des Streikfahrplans](https://sbahn.berlin/fileadmin/user_upload/Bauarbeiten/Grafiken/2024/grafik_streikfahrplan.jpg)**
-* **[Abfahrtzeiten pro Linie](https://sbahn.berlin/fileadmin/user_upload/Bauarbeiten/Grafiken/2024/abfahrtszeiten_Streikfahrplan.jpg)**
-
-* [S1](https://sbahn.berlin/fahren/s1/) Birkenwerder – Nordbahnhof
-   (60-Min-Takt, ab 22 Uhr: Birkenwerder – **Gesundbrunnen\***)
-* [S2](https://sbahn.berlin/fahren/s2/) Bernau – Anhalter Bahnhof
-   (60-Min-Takt, ab 22 Uhr: Bernau – **Greifswalder Straße\***)
-* [S25](https://sbahn.berlin/fahren/s25/) Hennigsdorf – Nordbahnhof
-   (60-Min-Takt)
-* [S3](https://sbahn.berlin/fahren/s3/) Erkner – Ostbahnhof
-   (60-Min-Takt)
-* [S46](https://sbahn.berlin/fahren/s46/) Königs Wusterhausen – Bundesplatz
-   (60-Min-Takt)
-* [S5](https://sbahn.berlin/fahren/s5/) Strausberg Nord – Ostbahnhof
-   (40-Min-Takt)
-* [S9](https://sbahn.berlin/fahren/s9/) Friedrichstraße – Schöneweide – Flughafen BER
-   (20-Min-Takt)
-
-\* Wegen Bauarbeiten geänderte Streckenführung
-
-#### Der **planmäßige Bus-Ersatzverkehr** fährt auch während des Streiks: ####
-
-* **Bus S1X**: Birkenwerder – Oranienburg
-   (durchgehend bis 28.03.2024)
-* **Bus S1A**: Birkenwerder – Oranienburg
-   (durchgehend bis 28.03.2024)
-
-#### **Zusätzlich bieten wir einen Bus-Ersatzverkehr** auf folgenden Strecken an: ####
-
-* **Bus S25:** Teltow Stadt – Lichterfelde Ost
-   (10-Minuten-Takt)
-* **Bus S2:** Südkreuz – Blankenfelde
-   (10-Minuten-Takt)
-
-**Haltestellen des Ersatzverkehrs für die Linie S2:**
-
-* S-Bhf. Blankenfelde: Moselstraße (SEV Haltestelle)
-* S-Bhf. Mahlow: Heimstättenstr. (wie Bus 600, 794, 797)
-* S-Bhf. Lichtenrade: Goltzstraße/ Lichtenrader Damm
-* S-Bhf. Schichauweg: Schichauweg (wie Bus X83)
-* S-Bhf. Buckower Chaussee: Gutspark Marienfelde (wie Bus M11, X83, 277)
-* S-Bhf. Marienfelde: Bahnhofstr. (wie Bus 283)
-* S-Bhf. Attilastr: Steglitzer Damm (wie Bus 282)
-* S-Bhf. Priesterweg: Prellerweg (wie Bus M76, X76, 170, 246)
-* S-Bhf. Südkreuz: Hildegard-Knef-Platz (wie Bus M46, 106, 204)
-
-**Haltestellen des Ersatzverkehrs für die Linie S25:**
-
-* S-Bhf. Teltow Stadt: Gonfrevillestr. (wie Bus X10, 620, 625, N13)
-* S-Bhf. Lichterfelde Süd: Fürstenstr. (wie Bus M85)
-* S-Bhf. Osdorfer Str.: Osdorfer Str. (wie Bus 112, 186, N88)
-* S-Bhf. Lichterfelde Ost: Lankwitzer Str. (wie Bus M11, X11, 184, 284)
-
-Oberstes Ziel ist es, nach Streikende allen Fahrgästen so schnell wie möglich wieder das volle Zugangebot verfügbar zu machen. Dennoch rechnen Sie bitte auch nach Ende des Streiks mit Einschränkungen im S-Bahnverkehr, da unser Personal zu den abgestellten Zügen gebracht werden muss und die Züge anschließend noch für den Einsatz vorbereitet werden müssen.
-
- sonstige Einschränkungen  sonstige Einschränkungen
+ Ersatzverkehr  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -134,25 +76,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28775)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31016)
 
-[S47](https://sbahn.berlin/fahren/s47/)
-
- Nur Nachts
-
-### Schöneweide ###
-
-Nacht 12./13.03. (Di/Mi) 22:15 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29000&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22155&tx_sbbconstructions_list%5Bperiod%5D=17757&type=5679&cHash=27cdd78cdf26d2b62922d87cd31f432b)
-
- sonstige Einschränkungen
-
-Information
-
-* Bahnsteigänderung in Schöneweide
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-schoeneweide-4/#con-29000)
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Bombenentschärfung: Birkenwerder \<\> Oranienburg ###
@@ -171,29 +94,6 @@ Information
   * Bus S1A: Birkenwerder \<\> Oranienburg
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-29039)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31016)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Potsdamer Platz \<\> Schönholz ###
-
-Nächte 11./12.03. (Mo/Di) und 12./13.03. (Di/Mi) jeweils 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28977&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22140&tx_sbbconstructions_list%5Bperiod%5D=17741&type=5679&cHash=c2a8efc181eb4d647f49301bc368f0e9)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung:
-  * Nordbahnhof \<\> Bornholmer Straße nur im 20-Minutentakt
-
-* Bahnsteigänderung:
-   Nordbahnhof, Gesundbrunnen und Bornholmer Straße
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-6/#con-28977)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
