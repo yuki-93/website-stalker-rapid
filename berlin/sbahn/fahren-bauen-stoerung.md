@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur am Zug in Hauptbahnhof behoben ###
+
+ Letztes Update: 17:14 / 13.03.2024
+
+Information
+
+Nach einer Reparatur am Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfallen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur am Signal in Schönholz ###
@@ -19,22 +33,6 @@ Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S2
 Wir bitten um Entschuldigung
 
  sonstige Einschränkungen  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Entschärfung einer Fliegerbombe in Oranienburg (Ortsteil Lehnitz) ###
-
- Letztes Update: 22:10 / 12.03.2024
-
-Information
-
-Wegen der Entschärfung einer Fliegerbombe in Oranienburg, Ortsteil Lehnitz, können die Busse des Ersatzverkehrs S1A und S1X der Linie S1 den S-Bahnhof Lehnitz **ab ca. 08:00 Uhr bis zur Aufhebung des Sperrkreises** nicht anfahren.
-
-Aufgrund der Bombenentschärfung kommt es auch zu Einschränkungen im Regionalverkehr.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
