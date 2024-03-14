@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Treptower Park ###
-
- Letztes Update: 22:08 / 13.03.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Treptower Park kann es auf den Linien S8 und S9 zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Reparatur am Signal in Schönholz ###
-
- Letztes Update: 21:47 / 13.03.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönholz kann es auf den Linien S1 und S25 zu Verspätungen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -129,28 +99,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-7/#con-28978)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### (Olympiastadion –) Pichelsberg – Spandau ###
-
-Nacht 13./14.03. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29016&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22167&tx_sbbconstructions_list%5Bperiod%5D=17769&type=5679&cHash=0390bd312a827ee50cd68d0971aafc20)
-
- Zugverkehr verändert
-
-Information
-
-* Taktänderung
-  * Pichelsberg \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-spandau-4/#con-29016)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
