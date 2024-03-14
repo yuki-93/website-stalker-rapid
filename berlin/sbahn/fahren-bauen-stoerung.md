@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### technischer Defekt an einem Bahnübergang in Eichwalde behoben ###
+### Reparatur an einem Signal in Gesundbrunnen behoben ###
 
- Letztes Update: 10:45 / 14.03.2024
+ Letztes Update: 13:25 / 14.03.2024
 
 Information
 
-Nach einem technischen Defekt am Bahnübergang in Einchwalde kommt es auf der Linie S46 noch zu Verspätungen.
+Nach der Reparatur an einem Signal in Gesundbrunnen kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Entschuldigung
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
@@ -1531,6 +1531,28 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/dresdner-bahn/#con-28935)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Mahlsdorf \<\> Ostkreuz \<\> Ostbahnhof ###
+
+05.04. (Fr), ca. 4 Uhr durchgehend bis 13.04. (Sa), ca. 1 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29112&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22270&tx_sbbconstructions_list%5Bperiod%5D=17811&type=5679&cHash=4f16f740246b4a3a24ecb21116882108)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * am 05.04. (Fr), vom 08.04. (Mo) bis 11.04. (Do): Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 5-/5-/10-Minutentakt;
+  * am 12.04. (Fr): Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 10-Minutentakt
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-bereich-ostbahnhof-1/#con-29112)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
@@ -1552,6 +1574,45 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-an-der-bruecke-poelnitzweg-in-buch-2/#con-28942)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+ Nur Nachts
+
+### Friedrichshagen \<\> Ostbahnhof ###
+
+Nächte 10./11.04. (Mi/Do) und 11./12.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29114&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22272&tx_sbbconstructions_list%5Bperiod%5D=17812&type=5679&cHash=b596b7b1637224d64dda6b76ace35839)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Friedrichshagen \<\> Ostkreuz S-Bahnverkehr nur im 20-Minutentakt
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-03d3cc6113/#con-29114)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Warschauer Straße ###
+
+Nächte 10./11.04. (Mi/Do) und 11./12.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29115&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22272&tx_sbbconstructions_list%5Bperiod%5D=17812&type=5679&cHash=05b07282eeceeb007549391bf7f67c14)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-03d3cc6113/#con-29115)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
