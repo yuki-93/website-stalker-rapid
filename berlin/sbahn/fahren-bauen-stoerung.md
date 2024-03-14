@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur am Signal in Schönholz ###
+
+ Letztes Update: 21:34 / 14.03.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25, und S85 zu Verspätungen und Ausfällen.
+
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Treptower Park ###
@@ -19,36 +35,6 @@ Wegen einer Reparatur an einem Signal in Treptower Park kommt es auf den Linien
 Wir bitten um Entschuldigung.
 
  Takt geändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Reparatur an einem Zug in Landsberger Allee behoben ###
-
- Letztes Update: 20:24 / 14.03.2024
-
-Information
-
-Nach einer Reparatur an einem Zug in Landsberger Allee kommt es auf den Linien S41, S42 und S8 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Signal in Schönholz ###
-
- Letztes Update: 10:34 / 14.03.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25, und S85 zu Verspätungen und Ausfällen.
-
-\* Die Linie S85 verkehrt zwischen Grünau \<\> Nordbahnhof. Fahrgäste nutzen bitte zwischen Gesundbrunnen und Waidmannslust die Linie S1.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
