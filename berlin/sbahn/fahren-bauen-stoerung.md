@@ -4,17 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### technischer Defekt an einem Bahnübergang in Eichwalde behoben ###
+
+ Letztes Update: 10:45 / 14.03.2024
+
+Information
+
+Nach einem technischen Defekt am Bahnübergang in Einchwalde kommt es auf der Linie S46 noch zu Verspätungen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur am Signal in Schönholz ###
 
- Letztes Update: 09:17 / 14.03.2024
+ Letztes Update: 10:34 / 14.03.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25, und S85 zu Verspätungen und Ausfällen.
-
-\* Der 10-Minuten-Takt auf der Linie S1 kann nur zwischen Wannsee \<\> Gesundbrunnen angeboten werden.
 
 \* Die Linie S85 verkehrt zwischen Grünau \<\> Nordbahnhof. Fahrgäste nutzen bitte zwischen Gesundbrunnen und Waidmannslust die Linie S1.
 
@@ -1202,6 +1214,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28994)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Karlshorst \<\> Ostkreuz \<\> Ostbahnhof ###
+
+28.03. (Do), ca. 4 Uhr durchgehend bis 05.04. (Fr), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29110&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22268&tx_sbbconstructions_list%5Bperiod%5D=17810&type=5679&cHash=82c72454b58fa2bf2c3adfa45ba80940)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Karlshorst \<\> Ostkreuz S-Bahnverkehr nur im 10-Minutentakt
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-bereich-ostbahnhof/#con-29110)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
 
