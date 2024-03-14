@@ -4,15 +4,43 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Reparatur an einem Zug in Landsberger Allee ###
+
+ Letztes Update: 20:08 / 14.03.2024
+
+Information
+
+Wegen einer Reparatur an einem Zug in Landsberger Allee kommt es auf den Linien S41, S42 und S8 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### technischer Defekt an einem Bahnübergang in Zeuthen behoben ###
+
+ Letztes Update: 20:00 / 14.03.2024
+
+Information
+
+Nach einem technischen Defekt an einem Bahnübergang in Zeuthen kommt es auf der Linie S46 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ Takt geändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einem Signal in Treptower Park ###
 
- Letztes Update: 18:53 / 14.03.2024
+ Letztes Update: 19:52 / 14.03.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an einem Signal in Treptower Park kommt es auf den Linien S8, S85 und S9 zu Verspätungen und Ausfällen.
 
 * die Linie S85 verkehrt nicht
 
