@@ -1005,7 +1005,7 @@ Information
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29019&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22170&tx_sbbconstructions_list%5Bperiod%5D=17772&type=5679&cHash=852539da28da965c4e68e7b87fac393f)
 
- Zugverkehr verändert
+ Takt geändert
 
 Information
 
