@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur am Signal in Schönholz ###
+
+ Letztes Update: 07:39 / 15.03.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und Ausfällen.
+
+\* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### unbefugte Personen auf der Strecke Bereich Storkower Straße ###
@@ -19,22 +35,6 @@ Nach einer unbefugten Person auf der Strecke im Bereich Storkower Straße kommt 
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Signal in Schönholz ###
-
- Letztes Update: 07:10 / 15.03.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und Ausfällen.
-
-\* Die Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
