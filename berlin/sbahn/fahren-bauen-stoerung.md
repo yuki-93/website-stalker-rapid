@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Schönholz ###
+
+ Letztes Update: 01:41 / 15.03.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linie **S85** verkehrt zwischen Grünau und Nordbahnhof, bitte nutzen Sie:
+  * in **Fahrtrichtung Waidmannslust** zwischen Gesundbrunnen (Bahnsteigwechsel erforderlich) und Waidmannslust die Linie S1,
+  * in **Fahrtrichtung Grünau** zwischen Waidmannslust und Bornholmer Str. die Linie S1 ***sowie*** zwischen Bornholmer Str. und Grünau die Linie S8.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -127,34 +147,6 @@ Information
 
 * Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:26 Uhr in Warschauer Straße.
 * Der Zug fällt von Charlottenburg bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Alexanderplatz \> Warschauer Straße ###
-
-12.03. (Di) bis 15.03. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29025&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22176&tx_sbbconstructions_list%5Bperiod%5D=17779&type=5679&cHash=95e86266b324c027375bb531562b4cb4)
-
-19.03. (Di) bis 22.03. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29025&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22176&tx_sbbconstructions_list%5Bperiod%5D=17780&type=5679&cHash=cf1e00c1f0cde77af2f1ef5ee42387a2)
-
-09.04. (Di) bis 12.04. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29025&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22176&tx_sbbconstructions_list%5Bperiod%5D=17802&type=5679&cHash=9fb0992461d805f5bc290d4911319ed7)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29025&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22176&type=5679&cHash=c6d03cd73d3aa6168ab5390b8dc3d3b4)
-
- fährt nicht
-
-Information
-
-* Der Zug Alexanderplatz ab 3:05 Uhr nach Flughafen BER (an 3:45 Uhr) beginnt erst um 3:11 Uhr in Warschauer Straße.
-* Der Zug fällt von Alexanderplatz bis Warschauer Straße aus.
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -997,10 +989,6 @@ Information
 
 ### Alexanderplatz \> Warschauer Straße ###
 
-12.03. (Di) bis 15.03. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29025&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22176&tx_sbbconstructions_list%5Bperiod%5D=17779&type=5679&cHash=95e86266b324c027375bb531562b4cb4)
-
 19.03. (Di) bis 22.03. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29025&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22176&tx_sbbconstructions_list%5Bperiod%5D=17780&type=5679&cHash=cf1e00c1f0cde77af2f1ef5ee42387a2)
@@ -1462,10 +1450,6 @@ Information
  Nur Nachts
 
 ### Alexanderplatz \> Warschauer Straße ###
-
-12.03. (Di) bis 15.03. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29025&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22176&tx_sbbconstructions_list%5Bperiod%5D=17779&type=5679&cHash=95e86266b324c027375bb531562b4cb4)
 
 19.03. (Di) bis 22.03. (Fr) jeweils 3:05 Uhr bis 3:11 Uhr
 
