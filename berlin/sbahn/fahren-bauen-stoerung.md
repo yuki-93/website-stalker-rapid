@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz in Herrmannstraße beendet ###
+### Polizeieinsatz in Südkreuz beendet ###
 
- Letztes Update: 20:13 / 15.03.2024
+ Letztes Update: 20:39 / 15.03.2024
 
 Information
 
-Nach einem Polizeieinsatz in Herrmannstraße kommt es auf den Linien S42, S45, S46 und S47 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S41,S42, S45, S46, S47 und S85 noch zu Verspätungen einzelnen Ausfällen.
 
 Wir bitten um Verständnis.
 
