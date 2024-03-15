@@ -2,40 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Südkreuz beendet ###
-
- Letztes Update: 20:39 / 15.03.2024
-
-Information
-
-Nach einem Polizeieinsatz in Südkreuz kommt es auf den Linien S41,S42, S45, S46, S47 und S85 noch zu Verspätungen einzelnen Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Schönholz ###
-
- Letztes Update: 11:20 / 15.03.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen, Ausfällen und nachfolgenden Einschränkungen:
-
-* Die Linie **S85** verkehrt zwischen Grünau und Nordbahnhof, bitte nutzen Sie:
-  * in **Fahrtrichtung Waidmannslust** zwischen Gesundbrunnen (Bahnsteigwechsel erforderlich) und Waidmannslust die Linie S1,
-  * in **Fahrtrichtung Grünau** zwischen Waidmannslust und Bornholmer Str. die Linie S1 ***sowie*** zwischen Bornholmer Str. und Grünau die Linie S8.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
