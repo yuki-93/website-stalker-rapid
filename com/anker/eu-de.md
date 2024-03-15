@@ -13,7 +13,7 @@ Frühlingssale: 2 kaufen, 20% sparen. 3 kaufen, 25% sparen. Auf das komplette La
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/fruehlings-sale)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Balkonkraftwerk Produkteinführung](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
 ProdukteNach KategorieNeuerscheinungenAngebote[Anker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)[Frühlingssale](https://www.anker.com/eu-de/fruehlings-sale)
 
