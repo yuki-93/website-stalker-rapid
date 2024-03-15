@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### unbefugte Personen auf der Strecke Bereich Storkower Straße ###
 
- Letztes Update: 06:21 / 15.03.2024
+ Letztes Update: 07:11 / 15.03.2024
 
 Information
 
-Wegen unbefugter Personen auf der Strecke im Bereich Storkower Straße ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Treptower Park \<\> Greifswalder Straße unterbrochen.
+Nach einer unbefugten Person auf der Strecke im Bereich Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+
+\* Die Linie S85 verkehrt nicht.
 
 Wir bitten um Verständnis.
 
@@ -20,21 +22,19 @@ Wir bitten um Verständnis.
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Schönholz ###
+### Reparatur am Signal in Schönholz ###
 
- Letztes Update: 01:41 / 15.03.2024
+ Letztes Update: 07:10 / 15.03.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und Ausfällen.
 
-* Die Linie **S85** verkehrt zwischen Grünau und Nordbahnhof, bitte nutzen Sie:
-  * in **Fahrtrichtung Waidmannslust** zwischen Gesundbrunnen (Bahnsteigwechsel erforderlich) und Waidmannslust die Linie S1,
-  * in **Fahrtrichtung Grünau** zwischen Waidmannslust und Bornholmer Str. die Linie S1 ***sowie*** zwischen Bornholmer Str. und Grünau die Linie S8.
+\* Die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
