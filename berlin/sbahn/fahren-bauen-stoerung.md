@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### unbefugte Personen auf der Strecke Bereich Storkower Straße ###
+
+ Letztes Update: 06:21 / 15.03.2024
+
+Information
+
+Wegen unbefugter Personen auf der Strecke im Bereich Storkower Straße ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Treptower Park \<\> Greifswalder Straße unterbrochen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Schönholz ###
