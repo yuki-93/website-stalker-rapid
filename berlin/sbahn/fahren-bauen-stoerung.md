@@ -22,20 +22,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### unbefugte Personen auf der Strecke Bereich Storkower Straße ###
-
- Letztes Update: 11:18 / 15.03.2024
-
-Information
-
-Nach einer unbefugten Person auf der Strecke im Bereich Storkower Straße kommt es auf der Linie S85 noch zu Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
