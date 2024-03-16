@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Tiere auf der Strecke zwischen Lichterfelde Süd und Teltow Stadt beseitigt ###
-
- Letztes Update: 21:54 / 16.03.2024
-
-Information
-
-Nach Tieren auf der Strecke zwischen Lichterfelde Süd und Teltow Stadt kommt es auf der Linie S25 zu Verspätungen und eventuellen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
