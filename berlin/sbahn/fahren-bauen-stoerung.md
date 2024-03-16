@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Polizeieinsatz in Bernau-Friedenstal ###
+
+ Letztes Update: 18:00 / 16.03.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Bernau-Friedenstal ist der Zugverkehr der Linie S2 zwischen Zepernick und Bernau unterbrochen.
+
+Bitte nutzen Sie zwischen Zepernick und Bernau die Buslinien 868 und 900.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Polizeieinsatz wegen unbefugter Personen auf der Strecke Bereich Bornholmer Straße beendet ###
