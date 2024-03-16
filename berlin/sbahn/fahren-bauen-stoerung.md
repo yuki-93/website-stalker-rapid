@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Tiere auf der Strecke zwischen Lichterfelde Süd und Teltow Stadt ###
+
+ Letztes Update: 19:13 / 16.03.2024
+
+Information
+
+Wegen Tieren auf der Strecke ist der Zugverkehr der Linien S25 und S26 zwischen Lichterfelde Süd und Teltow Stadt unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Polizeieinsatz in Bernau-Friedenstal ###
@@ -19,22 +33,6 @@ Bitte nutzen Sie zwischen Zepernick und Bernau die Buslinien 868 und 900.
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz wegen unbefugter Personen auf der Strecke Bereich Bornholmer Straße beendet ###
-
- Letztes Update: 17:16 / 16.03.2024
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Bornholmer Straße kommt es auf den Linien S1, S2, S25, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die Linie S85 verkehrt nicht.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
