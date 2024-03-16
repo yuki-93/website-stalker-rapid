@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Tiere auf der Strecke zwischen Lichterfelde Süd und Teltow Stadt ###
+### Tiere auf der Strecke zwischen Lichterfelde Süd und Teltow Stadt beseitigt ###
 
- Letztes Update: 20:32 / 16.03.2024
+ Letztes Update: 21:54 / 16.03.2024
 
 Information
 
-Wegen Tieren auf der Strecke ist der Zugverkehr der Linien S25 und S26 zwischen Lichterfelde Süd und Teltow Stadt unterbrochen.
-
-Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+Nach Tieren auf der Strecke zwischen Lichterfelde Süd und Teltow Stadt kommt es auf der Linie S25 zu Verspätungen und eventuellen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
