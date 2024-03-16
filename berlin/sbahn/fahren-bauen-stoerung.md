@@ -4,29 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Polizeieinsatz in Bernau-Friedenstal beendet ###
-
- Letztes Update: 19:51 / 16.03.2024
-
-Information
-
-Nach einem Polizeieinsatz in Bernau-Friedenstal kommt es auf der Linie S2 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Tiere auf der Strecke zwischen Lichterfelde Süd und Teltow Stadt ###
 
- Letztes Update: 19:13 / 16.03.2024
+ Letztes Update: 20:32 / 16.03.2024
 
 Information
 
 Wegen Tieren auf der Strecke ist der Zugverkehr der Linien S25 und S26 zwischen Lichterfelde Süd und Teltow Stadt unterbrochen.
+
+Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
 
 Wir bitten um Ihr Verständnis.
 
