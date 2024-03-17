@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Gegenstände auf der Strecke in Bornholmer Straße beseitigt ###
-
- Letztes Update: 04:05 / 17.03.2024
-
-Information
-
-Nach Gegenständen auf der Strecke in Bornholmer Straße kommt es auf den Linien S2 und S8 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz in Potsdamer Platz beendet ###
-
- Letztes Update: 03:52 / 17.03.2024
-
-Information
-
-Nach einem Polizeieinsatz in Potsdamer Platz kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
