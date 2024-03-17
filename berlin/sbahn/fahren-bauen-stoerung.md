@@ -6,23 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Gegenstände auf der Strecke in Bornholmer Straße ###
+### Gegenstände auf der Strecke in Bornholmer Straße beseitigt ###
 
- Letztes Update: 03:24 / 17.03.2024
+ Letztes Update: 04:05 / 17.03.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke in Bornholmer Straße ist der Zugverkehr der Linien S2 und S8 zwischen Schönhauser Allee bzw. Gesundbrunnen und Blankenburg unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S2**: Priesterweg \<\> Potsdamer Platz ***sowie*** Blankenburg \<\> Bernau
-* **S8:** Grünau \<\> Schönhauser Allee, *bitte nutzen Sie zwischen Schönhauser Allee und Gesundbrunnen die Linien S41/ S42 sowie zwischen Gesundbrunnen und Pankow die Linie S2.*
-
-**Zur weiträumigen Umfahrung nutzen Sie bitte auch:**
-
-* zwischen Schönhauser Allee \<\> Pankow die U-Bahnlinie U2
-* zwischen S-Bhf. Bornholmer Str. \<\> Schönhauser Allee/ Bornholmer Str. die Tramlinie M13 ***sowie*** zwischen Schönhauser Allee/ Bornholmer Str. \<\> S+U-Bhf. Schönhauser Allee bzw. S+U-Bhf. Pankow die Tramlinie M1
+Nach Gegenständen auf der Strecke in Bornholmer Straße kommt es auf den Linien S2 und S8 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
@@ -30,17 +20,17 @@ Wir bitten um Ihr Verständnis.
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz in Potsdamer Platz ###
+### Polizeieinsatz in Potsdamer Platz beendet ###
 
- Letztes Update: 02:53 / 17.03.2024
+ Letztes Update: 03:52 / 17.03.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Potsdamer Platz ist der Zugverkehr der Linien S1, S2 und S25 zwischen Potsdamer Platz und Oranienburger Straße unterbrochen.
+Nach einem Polizeieinsatz in Potsdamer Platz kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
