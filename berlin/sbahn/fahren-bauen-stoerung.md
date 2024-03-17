@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### hohes Fahrgastaufkommen in Charlottenburg ###
-
- Letztes Update: 18:50 / 17.03.2024
-
-Information
-
-Wegen hohem Fahrgastaufkommen in Charlottenburg kommt es auf den Linien S3, S5 und S7 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### kurzfristiger Personalausfall Linie S2 zwischen Lichtenrade und Marienfelde ###
