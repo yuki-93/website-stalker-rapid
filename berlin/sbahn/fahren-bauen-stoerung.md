@@ -8,22 +8,39 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Gegenstände auf der Strecke in Bornholmer Straße ###
 
- Letztes Update: 02:19 / 17.03.2024
+ Letztes Update: 03:24 / 17.03.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke in Bornholmer Straße kommt es auf den Linien S2 und S8 zu Verspätungen und einzelnen Ausfällen.
+Wegen Gegenständen auf der Strecke in Bornholmer Straße ist der Zugverkehr der Linien S2 und S8 zwischen Schönhauser Allee bzw. Gesundbrunnen und Blankenburg unterbrochen.
 
-* Die Linie **S8** verkehrt nur zwischen Grünau und Schönhauser Allee, *bitte nutzen Sie zwischen Schönhauser Allee und Gesundbrunnen die Linien S41/ S42 sowie zwischen Gesundbrunnen und Pankow die Linie S2.*
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S2**: Priesterweg \<\> Potsdamer Platz ***sowie*** Blankenburg \<\> Bernau
+* **S8:** Grünau \<\> Schönhauser Allee, *bitte nutzen Sie zwischen Schönhauser Allee und Gesundbrunnen die Linien S41/ S42 sowie zwischen Gesundbrunnen und Pankow die Linie S2.*
 
 **Zur weiträumigen Umfahrung nutzen Sie bitte auch:**
 
-* zwischen Schönhauser Allee und Pankow die Linie U2,
-* zwischen S-Bhf. Bornholmer Str. und Schönhauser Allee/ Bornholmer Str. die Tramlinie M13 ***sowie*** zwischen Schönhauser Allee/ Bornholmer Str. und S+U-Bhf. Schönhauser Allee bzw. S+U-Bhf. Pankow die Tramlinie M1
+* zwischen Schönhauser Allee \<\> Pankow die U-Bahnlinie U2
+* zwischen S-Bhf. Bornholmer Str. \<\> Schönhauser Allee/ Bornholmer Str. die Tramlinie M13 ***sowie*** zwischen Schönhauser Allee/ Bornholmer Str. \<\> S+U-Bhf. Schönhauser Allee bzw. S+U-Bhf. Pankow die Tramlinie M1
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### Polizeieinsatz in Potsdamer Platz ###
+
+ Letztes Update: 02:53 / 17.03.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Potsdamer Platz ist der Zugverkehr der Linien S1, S2 und S25 zwischen Potsdamer Platz und Oranienburger Straße unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
