@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### kurzfristiger Personalausfall Linie S2 zwischen Lichtenrade und Marienfelde ###
-
- Letztes Update: 18:24 / 17.03.2024
-
-Information
-
-Wegen eines kurzfristigen Personalausfalles verkehrt die Linie S2 im südlichen Abschnitt zwischen Lichtenrade und Marienfelde nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
