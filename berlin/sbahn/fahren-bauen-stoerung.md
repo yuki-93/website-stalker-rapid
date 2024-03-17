@@ -2,6 +2,29 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Gegenstände auf der Strecke in Bornholmer Straße ###
+
+ Letztes Update: 02:19 / 17.03.2024
+
+Information
+
+Wegen Gegenständen auf der Strecke in Bornholmer Straße kommt es auf den Linien S2 und S8 zu Verspätungen und einzelnen Ausfällen.
+
+* Die Linie **S8** verkehrt nur zwischen Grünau und Schönhauser Allee, *bitte nutzen Sie zwischen Schönhauser Allee und Gesundbrunnen die Linien S41/ S42 sowie zwischen Gesundbrunnen und Pankow die Linie S2.*
+
+**Zur weiträumigen Umfahrung nutzen Sie bitte auch:**
+
+* zwischen Schönhauser Allee und Pankow die Linie U2,
+* zwischen S-Bhf. Bornholmer Str. und Schönhauser Allee/ Bornholmer Str. die Tramlinie M13 ***sowie*** zwischen Schönhauser Allee/ Bornholmer Str. und S+U-Bhf. Schönhauser Allee bzw. S+U-Bhf. Pankow die Tramlinie M1
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
