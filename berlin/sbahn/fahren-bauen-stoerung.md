@@ -2,42 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz im Bereich Storkower Straße ###
-
- Letztes Update: 20:57 / 18.03.2024
-
-Information
-
-Wegen eines Polizeieinsatzes (unbefugte Personen an der Strecke) ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Frankfurter Allee und Greifswalder Straße unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Schönholz ###
-
- Letztes Update: 18:15 / 18.03.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie **S85** verkehrt zwischen Grünau und Nordbahnhof, bitte nutzen Sie
-  * in **Fahrtrichtung Waidmannslust:** zwischen Gesundbrunnen (Bahnsteigwechsel erforderlich) und Waidmannslust die Linie S1,
-  * in **Fahrtrichtung Grünau:** zwischen Waidmannslust und Bornholmer Str. die Linie S1 ***sowie*** zwischen Bornholmer Str. und Grünau die Linie S8.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
