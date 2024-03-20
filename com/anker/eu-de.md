@@ -120,11 +120,11 @@ Entdecke Anker Innovations
 
   [Jetzt kaufenFrühlingssale](https://www.anker.com/eu-de/fruehlings-sale?ref=productBanner8_1)
 
-* ### Anker MagGo ###
+* ### AnkerWork S600 ###
 
-  Click it, Charge it - Doppelter Speed.
+  Ein Gerät für alle Anforderungen im Alltag
 
-  [Jetzt kaufenAnker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=productBanner8_2)
+  [Jetzt kaufenAnkerWork S600](http://de.ankerwork.com/pages/a3319-s600-all-in-one-speakerphone?utm_source=web&utm_medium=banner&utm_content=Others_&utm_campaign=de_Anker_banner_3319_sign%20up&utm_term=ZZXjcY?ref=productBanner8_2)
 
 * ### Anker GaNPrime  ###
 
