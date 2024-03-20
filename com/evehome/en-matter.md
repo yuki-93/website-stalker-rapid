@@ -66,8 +66,6 @@ Plus shipping. Duties and taxes not included in shipping.
 
  Your choice
 
- Out of stock
-
  Buy from our partners
 
  Only available at the Eve Store
@@ -305,8 +303,6 @@ Plus shipping. Duties and taxes not included in shipping.
  Plus shipping. Duties and taxes not included in shipping.
 
  Your choice
-
- Out of stock
 
  Buy from our partners
 
