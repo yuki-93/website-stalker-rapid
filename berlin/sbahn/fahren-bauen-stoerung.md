@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten im Bereich Stresow von ca. 21:50 Uhr bis 02:00 Uhr ###
 
- Letztes Update: 03:51 / 20.03.2024
+ Letztes Update: 20:43 / 20.03.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Stresow kann in der **heutigen Nacht** (20./21.02.2024 (Mi/Do)) in der Zeit von ca. 21:50 Uhr bis ca. 02:00 Uhr zwischen Olympiastadion und Spandau nur ein 20-Minuten-Takt mit der Linie S9 angeboten werden.
+Wegen kurzfristiger Bauarbeiten im Bereich Stresow kann in der **heutigen Nacht** (20./21.03.2024 (Mi/Do)) in der Zeit von ca. 21:50 Uhr bis ca. 02:00 Uhr zwischen Olympiastadion und Spandau nur ein 20-Minuten-Takt mit der Linie S9 angeboten werden.
 
 letzte durchfahrende Züge der Linie S3:
 
