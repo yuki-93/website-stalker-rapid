@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einer Weiche in Schönholz ###
+
+ Letztes Update: 12:31 / 21.03.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und Ausfällen.
+
+Auf der Linie S1 kann zwischen Gesundbrunnen \<\> Frohnau derzeit nur ein 20-Minuten-Takt angeboten werden.
+
+Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1026,6 +1046,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einbau-von-ersatzschienen-in-baumschulenweg/#con-29151)
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Wuhletal/Ahrensfelde \<\> Lichtenberg ###
+
+Nächte 02./03.04. (Di/Mi) bis 04./05.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29163&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22328&tx_sbbconstructions_list%5Bperiod%5D=17830&type=5679&cHash=ad58961ad65b494c6241d208242c6204)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schraublochsanierung/#con-29163)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Schichauweg \<\> Priesterweg ###
@@ -1227,6 +1267,27 @@ Information
 * Fahrplanänderung:
   * Die S46 fährt von Köllnische Heide bis Zeuthen 2 Minuten früher.
   * In Baumschulenweg besteht kein Übergang von der S9 (aus Richtung Spandau) zur S46 in Richtung Zeuthen (Königs Wusterhausen).
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Warschauer Straße \> Ostkreuz ###
+
+Nacht 09./10.04. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29164&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22329&tx_sbbconstructions_list%5Bperiod%5D=17831&type=5679&cHash=03f0d7c9b4199ab7666ed741e6cbe763)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * S75 fährt ...
+     Wartenberg \<\> Warschauer Straße,
+     dabei von Warschauer Straße bis Ostkreuz 3 Minuten früher.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
