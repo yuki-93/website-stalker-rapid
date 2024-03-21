@@ -122,7 +122,7 @@ Entdecke Anker Innovations
 
 * ### AnkerWork S600 ###
 
-  Verbindet all deine Tech-Anforderungen
+  Qi2: Verbindet all deine Tech-Anforderungen
 
   [Jetzt kaufenAnkerWork S600](http://de.ankerwork.com/pages/a3319-s600-all-in-one-speakerphone?utm_source=web&utm_medium=banner&utm_content=Others_&utm_campaign=de_Anker_banner_3319_sign%20up&utm_term=ZZXjcY?ref=productBanner8_2)
 

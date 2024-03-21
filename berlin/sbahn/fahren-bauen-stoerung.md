@@ -2,27 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Bauarbeiten im Bereich Stresow von ca. 21:50 Uhr bis 02:00 Uhr ###
-
- Letztes Update: 20:43 / 20.03.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten im Bereich Stresow kann in der **heutigen Nacht** (20./21.03.2024 (Mi/Do)) in der Zeit von ca. 21:50 Uhr bis ca. 02:00 Uhr zwischen Olympiastadion und Spandau nur ein 20-Minuten-Takt mit der Linie S9 angeboten werden.
-
-letzte durchfahrende Züge der Linie S3:
-
-* Erkner ab 20:24 Uhr \> Spandau an 21:37 Uhr
-* Spandau ab 21:48 Uhr \> Erkner an 23:01 Uhr
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -96,92 +75,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wartenberg \<\> Springpfuhl ###
-
-Nacht 20./21.03. (Mi/Do) 21:45 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28928&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22108&tx_sbbconstructions_list%5Bperiod%5D=17702&type=5679&cHash=50967bcede078da695aadced0282973b)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Springpfuhl \<\> Wartenberg
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-eisenbahnbruecke-marzahn-landsberger-allee-1/#con-28928)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Wartenberg \<\> Springpfuhl ###
-
-Nacht 20./21.03. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28927&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22108&tx_sbbconstructions_list%5Bperiod%5D=17743&type=5679&cHash=aa8438e70af3ef017ac82fcd856c5694)
-
- Zugverkehr verändert
-
-Information
-
-* kein S-Bahnverkehr: Wartenberg \<\> Springpfuhl
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/ersatzneubau-eisenbahnbruecke-marzahn-landsberger-allee-1/#con-28927)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Grünau \<\> Adlershof ###
-
-20.03. (Mi) 22 Uhr bis 21.03. (Do) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28931&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22110&tx_sbbconstructions_list%5Bperiod%5D=17703&type=5679&cHash=3c46770b44c644e7e6cb3910f4e376c1)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S46 Grünau \<\> Adlershof
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-schoeneweide-3/#con-28931)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Grünau/Altglienicke – Baumschulenweg ###
-
-Nacht 20./21.03. (Mi/Do) 22 Uhr bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28980&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22110&tx_sbbconstructions_list%5Bperiod%5D=17745&type=5679&cHash=b43e08b446e03ca3b9d5022a13fcd3e9)
-
- Zugverkehr verändert
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S46 Adlershof \<\> Grünau
-
-* S-Bahn-Pendelverkehr
-  * Altglienicke \<\> Schöneweide mit Umsteigen in Adlershof, jeweils im 20-Minutentakt
-
-* Bahnsteigänderung in Schöneweide, Baumschulenweg
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-schoeneweide-3/#con-28980)
 
 ### Fahrplanänderungen ###
 
