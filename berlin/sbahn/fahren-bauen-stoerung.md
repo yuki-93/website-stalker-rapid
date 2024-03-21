@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Ärztliche Versorgung eines Fahrgastes in Prenzlauer Allee beendet ###
-
- Letztes Update: 18:49 / 21.03.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Prenzlauer Alle kann es auf den Linie S42, S8 und S85 noch zu Verspätungen und Ausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Polizeieinsatz zwischen Priesterweg und Südkreuz beendet ###
