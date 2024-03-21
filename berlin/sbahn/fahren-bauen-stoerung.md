@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz zwischen Priesterweg und Südkreuz beendet ###
-
- Letztes Update: 17:02 / 21.03.2024
-
-Information
-
-Der Polizeieinsatz zwischen Priesterweg und Südkreuz ist beendet und es kann auf den Linien S2 und S25 noch zu Verspätungen und eventuellen Ausfällen kommen.
-
-Die Linie S26 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
