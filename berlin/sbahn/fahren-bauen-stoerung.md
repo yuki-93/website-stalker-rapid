@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal in Griebnitzsee ###
-
- Letztes Update: 06:24 / 21.03.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Griebnitzsee kann der 10-Minuten-Takt auf der Linie S7 derzeit nur zwischen Ahrensfelde \<\> Wannsee angeboten werden.
-
-*Die Züge ab Ahrensfelde 11, 31 und 51 verkehren nach Potsdam Hbf.*
-
-*Die Züge ab Potsdam 11, 31 und 51 verkehren nach Ahrensfelde.*
-
-Wir bitten um Entschuldigung!
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
