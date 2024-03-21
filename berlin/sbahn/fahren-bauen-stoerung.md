@@ -4,17 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einer Weiche in Schönholz beendet ###
+### Reparatur am Zug in Bellevue ###
 
- Letztes Update: 13:47 / 21.03.2024
+ Letztes Update: 15:59 / 21.03.2024
 
 Information
 
-Nach einer Reperatur an einer Weiche in Schönholz kann es auf den Linien S1 und S25 noch zu Verspätungen und Ausfällen kommen.
-
-Die Linie S85 wird schrittweise eingesetzt.
+Wegen einer Reparatur am Zug in Bellevue kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und eventuellen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
