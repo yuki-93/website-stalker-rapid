@@ -134,9 +134,9 @@ Entdecke Anker Innovations
 
 * ### Anker SOLIX C800 Plus Tragbare Powerstation ###
 
-  März erhältlich. Pünktlich zum Frühjahr.
+  Power für strahlende Momente unterwegs
 
-  [Für Updates anmeldenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/anker-solix/a1754-exklusiv-fur-ces-pps?ref=productBanner8_4)
+  [Jetzt kaufenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/products/a1754?ref=productBanner8_4)
 
 Was macht Anker so besonders?
 ----------
