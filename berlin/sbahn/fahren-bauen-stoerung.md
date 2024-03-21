@@ -4,19 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur am Zug beendet ###
+### Reparatur an einem Signal in Griebnitzsee ###
 
- Letztes Update: 06:12 / 21.03.2024
+ Letztes Update: 06:24 / 21.03.2024
 
 Information
 
-Nach der Reparatur an einem Zug in Hermannstraße kommt es auf den Linien S41, S45, S46 und S47 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Signal in Griebnitzsee kann der 10-Minuten-Takt auf der Linie S7 derzeit nur zwischen Ahrensfelde \<\> Wannsee angeboten werden.
+
+*Die Züge ab Ahrensfelde 11, 31 und 51 verkehren nach Potsdam Hbf.*
+
+*Die Züge ab Potsdam 11, 31 und 51 verkehren nach Ahrensfelde.*
 
 Wir bitten um Entschuldigung!
 
- sonstige Einschränkungen  Verbindung verspätet
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
