@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### ärztliche Versorgung eines Fahrgastes in Ostkreuz beendet ###
-
- Letztes Update: 18:59 / 23.03.2024
-
-Information
-
-Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Ostkreuz kann es auf den Linien S41, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Wittenau beendet ###
-
- Letztes Update: 18:58 / 23.03.2024
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Wittenau kann es auf der Linie S1 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
