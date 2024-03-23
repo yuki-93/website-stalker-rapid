@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### ärztliche Versorgung eines Fahrgastes in Köpenick ###
+### ärztliche Versorgung eines Fahrgastes in Köpenick beendet ###
 
- Letztes Update: 12:13 / 23.03.2024
+ Letztes Update: 12:52 / 23.03.2024
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Köpenick ist der Zugverkehr der Linie S3 zwischen Friedrichshagen und Wuhlheide unterbrochen.
-
-Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Köpenick kommt es auf der Linie S3 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
