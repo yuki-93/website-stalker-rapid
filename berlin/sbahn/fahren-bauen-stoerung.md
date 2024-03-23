@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk im Bereich Neukölln ###
 
- Letztes Update: 06:20 / 23.03.2024
+ Letztes Update: 07:18 / 23.03.2024
 
 Information
 
 Wegen eines defekten Stellwerks im Bereich Neukölln kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Ausfällen.
 
-Wir bitten um Entschulding.
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
