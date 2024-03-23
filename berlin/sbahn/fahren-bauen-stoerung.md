@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk im Bereich Neukölln ###
 
- Letztes Update: 07:18 / 23.03.2024
+ Letztes Update: 08:09 / 23.03.2024
 
 Information
 
 Wegen eines defekten Stellwerks im Bereich Neukölln kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Ausfällen.
+
+Der 10-Minuten-Takt der Linie S46 zwischen Grünau und Hermannstraße kann nicht angeboten werden.
 
 Wir bitten um Entschuldigung.
 
