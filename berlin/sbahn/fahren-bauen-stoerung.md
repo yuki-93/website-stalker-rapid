@@ -58,6 +58,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28775)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+Nur Wochenende
+
+### (Strausberg Nord) Hoppegarten \<\> Mahlsdorf ###
+
+23.03. (Sa), ca. 5 Uhr bis 25.03. (Mo), ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17768&type=5679&cHash=30dbc7b5249ccf0c194d0220259ba1b5)
+
+ Zugverkehr verändert
+
+Information
+
+* Kein Zugverkehr Hoppegarten \<\> Mahlsdorf
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28933)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -136,31 +155,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28881)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-Nur Wochenende
-
-### (Strausberg Nord) Hoppegarten \<\> Mahlsdorf ###
-
-22.03. (Fr), ca. 22 Uhr bis 23.03. (Sa), ca. 1 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17704&type=5679&cHash=c5c7f965d4ea837a6d1cc3013e9797fb)
-
-23.03. (Sa), ca. 5 Uhr bis 25.03. (Mo), ca. 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17768&type=5679&cHash=30dbc7b5249ccf0c194d0220259ba1b5)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&type=5679&cHash=f47bb37a30b52989947f294be3abaf35)
-
- Zugverkehr verändert
-
-Information
-
-* Kein Zugverkehr Hoppegarten \<\> Mahlsdorf
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28933)
 
 [S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -267,6 +261,25 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28775)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+Nur Wochenende
+
+### (Strausberg Nord) Hoppegarten \<\> Mahlsdorf ###
+
+23.03. (Sa), ca. 5 Uhr bis 25.03. (Mo), ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17768&type=5679&cHash=30dbc7b5249ccf0c194d0220259ba1b5)
+
+ Zugverkehr verändert
+
+Information
+
+* Kein Zugverkehr Hoppegarten \<\> Mahlsdorf
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28933)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -345,31 +358,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28881)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-Nur Wochenende
-
-### (Strausberg Nord) Hoppegarten \<\> Mahlsdorf ###
-
-22.03. (Fr), ca. 22 Uhr bis 23.03. (Sa), ca. 1 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17704&type=5679&cHash=c5c7f965d4ea837a6d1cc3013e9797fb)
-
-23.03. (Sa), ca. 5 Uhr bis 25.03. (Mo), ca. 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17768&type=5679&cHash=30dbc7b5249ccf0c194d0220259ba1b5)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&type=5679&cHash=f47bb37a30b52989947f294be3abaf35)
-
- Zugverkehr verändert
-
-Information
-
-* Kein Zugverkehr Hoppegarten \<\> Mahlsdorf
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28933)
 
 [S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -533,31 +521,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28881)
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-Nur Wochenende
-
-### (Strausberg Nord) Hoppegarten \<\> Mahlsdorf ###
-
-22.03. (Fr), ca. 22 Uhr bis 23.03. (Sa), ca. 1 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17704&type=5679&cHash=c5c7f965d4ea837a6d1cc3013e9797fb)
-
-23.03. (Sa), ca. 5 Uhr bis 25.03. (Mo), ca. 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17768&type=5679&cHash=30dbc7b5249ccf0c194d0220259ba1b5)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&type=5679&cHash=f47bb37a30b52989947f294be3abaf35)
-
- Zugverkehr verändert
-
-Information
-
-* Kein Zugverkehr Hoppegarten \<\> Mahlsdorf
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28933)
-
 [S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 Nur Wochenende
@@ -580,6 +543,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s9-sued/#con-28993)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+Nur Wochenende
+
+### (Strausberg Nord) Hoppegarten \<\> Mahlsdorf ###
+
+23.03. (Sa), ca. 5 Uhr bis 25.03. (Mo), ca. 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17768&type=5679&cHash=30dbc7b5249ccf0c194d0220259ba1b5)
+
+ Zugverkehr verändert
+
+Information
+
+* Kein Zugverkehr Hoppegarten \<\> Mahlsdorf
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28933)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
