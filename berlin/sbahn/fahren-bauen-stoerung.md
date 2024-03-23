@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S46](https://sbahn.berlin/fahren/s46/)
 
 ### defektes Stellwerk im Bereich Neukölln ###
 
- Letztes Update: 08:09 / 23.03.2024
+ Letztes Update: 08:36 / 23.03.2024
 
 Information
 
-Wegen eines defekten Stellwerks im Bereich Neukölln kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Ausfällen.
-
-Der 10-Minuten-Takt der Linie S46 zwischen Grünau und Hermannstraße kann nicht angeboten werden.
+Wegen eines defekten Stellwerks im Bereich Neukölln kann der 10-Minuten-Takt der Linie S46 zwischen Grünau und Hermannstraße nicht angeboten werden.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ Takt geändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
