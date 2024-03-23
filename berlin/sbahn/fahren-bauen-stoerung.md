@@ -179,28 +179,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s9-sued/#con-28993)
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Fredersdorf \<\> Kaulsdorf ###
-
-23.03. (Sa) 1 Uhr bis 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28995&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17756&type=5679&cHash=2a6447f01b8448cebedf3a69246b3bff)
-
- Zugverkehr verändert
-
-Information
-
-* Ersatzverkehr
-  * Fredersdorf - Kaulsdorf
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28995)
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
