@@ -124,7 +124,7 @@ Entdecke Anker Innovations
 
   Qi2: Verbindet all deine Tech-Anforderungen
 
-  [Jetzt kaufenAnkerWork S600](http://de.ankerwork.com/pages/a3319-s600-all-in-one-speakerphone?utm_source=web&utm_medium=banner&utm_content=Others_&utm_campaign=de_Anker_banner_3319_sign%20up&utm_term=ZZXjcY?ref=productBanner8_2)
+  [Jetzt kaufenAnkerWork S600](https://www.kickstarter.com/projects/smartaudio/ankerwork-s600-all-in-one-speakerphone-0?ref=9jvezn&utm_source=web_banner&utm_medium=banner&utm_campaign=de_anker_a3319_web_banner_Anker_Innovations_Unveiled_launch&utm_content=launch_ankerwork_web&utm_term=ZZKS1IBJeC_?ref=productBanner8_2)
 
 * ### Anker GaNPrime  ###
 
