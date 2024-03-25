@@ -4,19 +4,18 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einer Weiche in Treptower Park ###
+### Reparatur an einer Weiche in Treptower Park beendet ###
 
- Letztes Update: 18:17 / 25.03.2024
+ Letztes Update: 19:44 / 25.03.2024
 
 Information
 
-Weger der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S42, S8, S85 und S9 zu Verspätungen und folgenden Einschränkungen:
+Nach der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S42 und S85 noch zu folgenden Einschränkungen:
 
 * **Linie S42** verkehrt nur im 10-Minuten-Takt
 * **Linie S85** verkehrt nicht
-* **Linie S9** verkehrt Flughafen BER \<\> Treptower Park sowie Ostbahnhof \<\> Spandau
 
 Wir bitten um Entschuldigung.
 
