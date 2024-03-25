@@ -58,25 +58,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28775)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-Nur Wochenende
-
-### (Strausberg Nord) Hoppegarten \<\> Mahlsdorf ###
-
-23.03. (Sa), ca. 5 Uhr bis 25.03. (Mo), ca. 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28933&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17768&type=5679&cHash=30dbc7b5249ccf0c194d0220259ba1b5)
-
- Zugverkehr verändert
-
-Information
-
-* Kein Zugverkehr Hoppegarten \<\> Mahlsdorf
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28933)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -113,71 +94,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof/#con-29019)
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-Nur Wochenende
-
-### Treptower Park \<\> Baumschulenweg ###
-
-22.03. (Fr) 21:45 Uhr bis 25.03. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28824&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22006&tx_sbbconstructions_list%5Bperiod%5D=17641&type=5679&cHash=4f97838ef2700a350bf32e914a9302f2)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S9 Treptower Park \<\> Baumschulenweg
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s9-sued/#con-28824)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Hoppegarten \<\> Kaulsdorf ###
-
-vom 22.03. (Fr), ca. 22 Uhr bis 25.03. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28881&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17684&type=5679&cHash=db752442ef9290a3a8434e0c42ffa4a0)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S5: Hoppegarten \<\> Kaulsdorf
-  * Achtung: In der Nacht 22./23.03. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr wird dieser Ersatzverkehr zwischen Fredersdorf und Kaulsdorf erweitert.
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28881)
-
-[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-Nur Wochenende
-
-### Grünau/Spindlersfeld – Schöneweide – Westend/Ostkreuz – Spandau und gesamter Ring ###
-
-22.03. (Fr) 22 Uhr bis 25.03. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28993&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22006&tx_sbbconstructions_list%5Bperiod%5D=17752&type=5679&cHash=119c8ed1b7276f72d04a7f7d424abb36)
-
- Zugverkehr verändert
-
-Information
-
-* **kein S-Bahnverkehr:**
-  * **Baumschulenweg \<\> Plänterwald \<\> Treptower Park**, bitte Umfahrung über Neukölln (mit Umstieg und Bahnsteigseitenwechsel) nutzen
-  * **Treptower Park \<\> Warschauer Straße** (S9-Kurve), bitte Umfahrung über Ostkreuz mit Umstieg und Bahnsteigwechsel nutzen
-
-* **Ersatzverkehr mit Bussen:** Baumschulenweg \<\> Plänterwald \<\> Treptower Park (vorzugsweise nur zur lokalen Anbindung des S-Bf. Plänterwald)
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-elektronische-stellwerk-s9-sued/#con-28993)
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
