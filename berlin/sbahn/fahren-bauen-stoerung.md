@@ -8,17 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Treptower Park ###
 
- Letztes Update: 08:55 / 25.03.2024
+ Letztes Update: 09:37 / 25.03.2024
 
 Information
 
 Wegen der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S42, S85 und S9 zu Verspätungen und Ausfällen.
 
-Die Linie S42 kann derzeit nur im 10-Minuten-Takt angeboten werden.
-
 Die Linie S85 verkehrt nicht.
 
 Die Linie S9 verkehrt zwischen Flughafen BER \<\> Treptower Park, sowie Ostbahnhof \<\> Spandau.
+
+*Umfahrungsmöglichkeit für die Linie S85:*
+
+*Linie S8 zwischen Grünau / Schöneweide \<\> Bornholmer Straße / Linie S1 zwischen Bornholmer Straße \<\> Waidmannslust*
+
+*Umfahrungsmöglichkeiten für die Linie S9:*
+
+*S45 zwischen Flughafen BER \<\> Adlershof / Linien S41, S42 und S8 zwischen Adlershof \<\> Ostkreuz / Linien S3, S5 und S7 zwischen Ostkreuz \<\> Ostbahnhof*
 
 Wir bitten um Entschuldigung.
 
