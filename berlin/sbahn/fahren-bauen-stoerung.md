@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einer Weiche in Treptower Park beendet ###
-
- Letztes Update: 19:44 / 25.03.2024
-
-Information
-
-Nach der Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S42 und S85 noch zu folgenden Einschränkungen:
-
-* **Linie S42** verkehrt nur im 10-Minuten-Takt
-* **Linie S85** verkehrt nicht
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
