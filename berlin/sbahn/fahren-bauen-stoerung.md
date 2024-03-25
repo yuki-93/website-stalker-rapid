@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einer Weiche in Treptower Park beendet ###
-
- Letztes Update: 10:56 / 25.03.2024
-
-Information
-
-Nach der Reparatur an einer Weiche in Treptower Park kommt es auf der Linie S85 noch zu einzelnen Ausfällen.
-
-*Umfahrungsmöglichkeit für die Linie S85:*
-
-*Linie S8 zwischen Grünau / Schöneweide \<\> Bornholmer Straße / Linie S1 zwischen Bornholmer Straße \<\> Waidmannslust*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
