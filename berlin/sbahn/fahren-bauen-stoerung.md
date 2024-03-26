@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall Fahrdienstleiter Stellwerk Blankenburg ###
 
- Letztes Update: 06:03 / 26.03.2024
+ Letztes Update: 07:05 / 26.03.2024
 
 Information
 
@@ -19,6 +19,12 @@ Wegen eines kurzfristigen Personalausfalles des Fahrdienstleiters vom Stellwerk
 * **S2**: Blankenfelde \<\> Pankow **sowie** Karow \<\> Bernau, *der 10-Minuten-Takt besteht nur zwischen Lichtenrade und Potsdamer Platz*
 * **S26**: Teltow Stadt \<\> Pankow
 * **S8**: Wildau/ Grünau \<\> Nordbahnhof
+
+**Bitte nutzen Sie zur weiträumigen Umfahrung:**
+
+* zwischen Bernau und Gesundbrunnen die Regionalbahnlinien RE3 und RB24
+* zwischen Schönhauser Allee \<\> Waidmannslust \<\> Birkenwerder die Linien S1 und S85
+* zwischen Pankow \<\> Pankow-Heinersdorf \<\> Blankenburg \<\> Karow die Verkehrsmittel der BVG
 
 Wir bitten um Entschuldigung.
 
