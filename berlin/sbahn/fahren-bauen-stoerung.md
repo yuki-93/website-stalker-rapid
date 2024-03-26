@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
 
 ### ärztliche Versorgung eines Fahrgastes im Zug in Ostbahnhof und Bellevue beendet ###
 
- Letztes Update: 17:07 / 26.03.2024
+ Letztes Update: 17:50 / 26.03.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Ostbahnhof und in Bellevue kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen, vereinzelten Ausfällen und folgenden Einschränkungen:
+Nach der ärztlichen Versorgung eines Fahrgastes in einem Zug in Ostbahnhof und in Bellevue kommt es auf den Linien S3 und S5 noch zu folgenden Einschränkungen:
 
-* Die zusätzlichen Züge in der Hauptverkehrszeit auf der Linie S3 zwischen Karlshorst und Ostbahnhof fahren nicht
+* Die zusätzlichen Züge in der Hauptverkehrszeit auf der Linie S3 zwischen Karlshorst und Ostbahnhof fahren nicht.
 * Die zusätzlichen Züge in der Hauptverkehrszeit auf der Linie S5 zwischen Mahlsdorf und Warschauer Straße fahren nicht.
 
 Wir bitten um Ihr Verständnis.
