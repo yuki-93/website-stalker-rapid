@@ -6,53 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### kurzfristiger Personalausfall Fahrdienstleiter Stellwerk Blankenburg ###
+### kurzfristiger Personalausfall Fahrdienstleiter Stellwerk Blankenburg beendet ###
 
- Letztes Update: 08:00 / 26.03.2024
+ Letztes Update: 09:53 / 26.03.2024
 
 Information
 
-Wegen eines kurzfristigen Personalausfalles des Fahrdienstleiters vom Stellwerk Blankenburg ist der Zugverkehr der Linie S2 zwischen Pankow und Karow *sowie* der Linien S26 und S8 zwischen Pankow bzw. Blankenburg und Birkenwerder unterbrochen.
-
-**Die betroffenen Linien fahren wie folgt:**
-
-* **S2**: Blankenfelde \<\> Pankow **sowie** Karow \<\> Bernau, *der 10-Minuten-Takt besteht nur zwischen Lichtenrade und Potsdamer Platz*
-* **S26**: Teltow Stadt \<\> Pankow
-* **S8**: Wildau/ Grünau \<\> Nordbahnhof **sowie** Schönfließ \<\> Birkenwerder***im 40-Minuten-Takt***
-
----
-
-**Ein Ersatzverkehr mit Bussen ist für die Linien S2 und S8 eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs für die* **Linie S2**:
-
-* S-Bhf. Pankow: Berliner Str. (wie Bus 155, 250, Tram M1, 50)
-* S-Bhf. Pankow-Heinersdorf: Damerowstr. (wie Bus N50)
-* S-Bhf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
-* S-Bhf. Karow: Hubertusdamm (wie Bus 350)
-
-*Haltestellen des Ersatzverkehrs mit Bussen für die***Linie S8**:
-
-* S-Bhf. Pankow: Berliner Str. (wie Bus 155, 250, Tram M1, 50)
-* S-Bhf. Pankow-Heinersdorf: Damerowstr. (wie Bus N50)
-* S-Bhf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
-* S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
-* S-Bhf. Schönfließ: Ersatzhalt Schildow Kirche (wie Bus 806, 809, 810)
-* S-Bhf. Bergfelde: Paulstr. (wie Bus 809)
-* S-Bhf. Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
-* S-Bhf. Birkenwerder: Clara Zetkin Str. (wie Bus 822)
-
----
-
-**Bitte nutzen Sie zur weiträumigen Umfahrung:**
-
-* zwischen Bernau und Gesundbrunnen die Regionalbahnlinie RE3
-* zwischen Schönhauser Allee \<\> Waidmannslust die Linie S85 *sowie* zwischen Waidmannslust \<\> Birkenwerder die Linie S1
-* zwischen Pankow \<\> Pankow-Heinersdorf \<\> Blankenburg \<\> Karow die Verkehrsmittel der BVG
+Nach einem kurzfristigen Personalausfall des Fahrdienstleiters vom Stellwerk Blankenburg kommt es auf den Linien S2, S26 und S8 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -1178,6 +1142,62 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28778)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz/Yorckstraße (Großgörschenstraße) \<\> Potsdamer Platz ###
+
+Nacht 24./25.04. (Mi/Do) , ca. 23 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29191&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22357&tx_sbbconstructions_list%5Bperiod%5D=17840&type=5679&cHash=99502c3d3dc46c576bc21a4b11408114)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * Yorckstraße (Großgörschenstraße) \<\> Anhalter Bahnhof \<\> Potsdamer Platz im 20-Minutentakt;
+     Yorckstraße (Großgörschenstraße) ab zu den Minuten 10, 30, 50;
+     Potsdamer Platz ab zu den Minuten 00, 20, 40
+
+* Taktänderung:
+  * Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-in-anhalter-bahnhof/#con-29191)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Südkreuz/Yorckstraße (Großgörschenstraße) \<\> Potsdamer Platz ###
+
+Nacht 25./26.04. (Do/Fr), ca. 23 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29192&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22358&tx_sbbconstructions_list%5Bperiod%5D=17841&type=5679&cHash=38808bb5d425ed5e71d8b5038ce0636c)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * Yorckstraße (Großgörschenstraße) \<\> Anhalter Bahnhof \<\> Potsdamer Platz im 20-Minutentakt;
+     Yorckstraße (Großgörschenstraße) ab zu den Minuten 10, 30, 50;
+     Potsdamer Platz ab zu den Minuten 00, 20, 40
+
+* Taktänderung:
+  * Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-in-anhalter-bahnhof-1/#con-29192)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
