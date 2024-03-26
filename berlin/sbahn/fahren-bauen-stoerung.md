@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall Fahrdienstleiter Stellwerk Blankenburg ###
 
- Letztes Update: 07:05 / 26.03.2024
+ Letztes Update: 08:00 / 26.03.2024
 
 Information
 
@@ -18,12 +18,36 @@ Wegen eines kurzfristigen Personalausfalles des Fahrdienstleiters vom Stellwerk
 
 * **S2**: Blankenfelde \<\> Pankow **sowie** Karow \<\> Bernau, *der 10-Minuten-Takt besteht nur zwischen Lichtenrade und Potsdamer Platz*
 * **S26**: Teltow Stadt \<\> Pankow
-* **S8**: Wildau/ Grünau \<\> Nordbahnhof
+* **S8**: Wildau/ Grünau \<\> Nordbahnhof **sowie** Schönfließ \<\> Birkenwerder***im 40-Minuten-Takt***
+
+---
+
+**Ein Ersatzverkehr mit Bussen ist für die Linien S2 und S8 eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs für die* **Linie S2**:
+
+* S-Bhf. Pankow: Berliner Str. (wie Bus 155, 250, Tram M1, 50)
+* S-Bhf. Pankow-Heinersdorf: Damerowstr. (wie Bus N50)
+* S-Bhf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
+* S-Bhf. Karow: Hubertusdamm (wie Bus 350)
+
+*Haltestellen des Ersatzverkehrs mit Bussen für die***Linie S8**:
+
+* S-Bhf. Pankow: Berliner Str. (wie Bus 155, 250, Tram M1, 50)
+* S-Bhf. Pankow-Heinersdorf: Damerowstr. (wie Bus N50)
+* S-Bhf. Blankenburg: Bahnhofstr. (wie Bus 150, 154)
+* S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
+* S-Bhf. Schönfließ: Ersatzhalt Schildow Kirche (wie Bus 806, 809, 810)
+* S-Bhf. Bergfelde: Paulstr. (wie Bus 809)
+* S-Bhf. Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
+* S-Bhf. Birkenwerder: Clara Zetkin Str. (wie Bus 822)
+
+---
 
 **Bitte nutzen Sie zur weiträumigen Umfahrung:**
 
-* zwischen Bernau und Gesundbrunnen die Regionalbahnlinien RE3 und RB24
-* zwischen Schönhauser Allee \<\> Waidmannslust \<\> Birkenwerder die Linien S1 und S85
+* zwischen Bernau und Gesundbrunnen die Regionalbahnlinie RE3
+* zwischen Schönhauser Allee \<\> Waidmannslust die Linie S85 *sowie* zwischen Waidmannslust \<\> Birkenwerder die Linie S1
 * zwischen Pankow \<\> Pankow-Heinersdorf \<\> Blankenburg \<\> Karow die Verkehrsmittel der BVG
 
 Wir bitten um Entschuldigung.
