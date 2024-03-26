@@ -2,6 +2,28 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### kurzfristiger Personalausfall Fahrdienstleiter Stellwerk Blankenburg ###
+
+ Letztes Update: 06:03 / 26.03.2024
+
+Information
+
+Wegen eines kurzfristigen Personalausfalles des Fahrdienstleiters vom Stellwerk Blankenburg ist der Zugverkehr der Linie S2 zwischen Pankow und Karow *sowie* der Linien S26 und S8 zwischen Pankow bzw. Blankenburg und Birkenwerder unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S2**: Blankenfelde \<\> Pankow **sowie** Karow \<\> Bernau, *der 10-Minuten-Takt besteht nur zwischen Lichtenrade und Potsdamer Platz*
+* **S26**: Teltow Stadt \<\> Pankow
+* **S8**: Wildau/ Grünau \<\> Nordbahnhof
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
