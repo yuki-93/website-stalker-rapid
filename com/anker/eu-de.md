@@ -78,7 +78,7 @@ Power in jeder Situation
 
 Schnelle Power. Doppelter Speed.
 
-Lade dein iPhone kabellose
+Lade dein iPhone kabellos
 2× so schnell
 
 [Mehr erfahren](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
@@ -114,17 +114,17 @@ Anker-Innovationen nach Kategorie filtern
 Entdecke Anker Innovations
 ----------
 
-* ### Frühlingssale ###
-
-  2 kaufen, 20% sparen. 3 kaufen, 25% sparen. Auf das komplette Ladezubehör!
-
-  [Jetzt kaufenFrühlingssale](https://www.anker.com/eu-de/fruehlings-sale?ref=productBanner8_1)
-
 * ### AnkerWork S600 ###
 
   Qi2: Verbindet all deine Tech-Anforderungen
 
-  [Jetzt kaufenAnkerWork S600](https://www.kickstarter.com/projects/smartaudio/ankerwork-s600-all-in-one-speakerphone-0?ref=9jvezn&utm_source=web_banner&utm_medium=banner&utm_campaign=de_anker_a3319_web_banner_Anker_Innovations_Unveiled_launch&utm_content=launch_ankerwork_web&utm_term=ZZKS1IBJeC_?ref=productBanner8_2)
+  [Jetzt kaufenAnkerWork S600](https://www.kickstarter.com/projects/smartaudio/ankerwork-s600-all-in-one-speakerphone-0?ref=9jvezn&utm_source=web_banner&utm_medium=banner&utm_campaign=de_anker_a3319_web_banner_Anker_Innovations_Unveiled_launch&utm_content=launch_ankerwork_web&utm_term=ZZKS1IBJeC_?ref=productBanner8_1)
+
+* ### Anker MagGo ###
+
+  Click it, Charge it - Doppelter Speed.
+
+  [Jetzt kaufenAnker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=productBanner8_2)
 
 * ### Anker GaNPrime  ###
 
