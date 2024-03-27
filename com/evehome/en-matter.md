@@ -141,7 +141,7 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -192,7 +192,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -201,7 +201,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -248,7 +248,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -435,7 +435,7 @@ Not available in your country
 * Create automations to control other connected devices in your home whenever doors or windows are opened or closed *(available* *on selected platforms)*
 * Receive activity notifications to stay informed *(available* *on selected platforms)*
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -486,7 +486,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Motion](/en/eve-motion)
+[Eve Motion](/index%2ephp/en/eve-motion)
 
  Wireless Motion Sensor
 
@@ -495,7 +495,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -542,7 +542,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
