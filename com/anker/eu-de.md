@@ -339,11 +339,13 @@ Produkte
 
 [Neuerscheinungen](https://www.anker.com/eu-de/collections/new-releases?ref=footer)
 
-[Ladegeräte](https://www.anker.com/eu-de/collections/wandladegerate?ref=footer)
-
 [Powerbanks](https://www.anker.com/eu-de/collections/powerbanks?ref=footer)
 
+[Ladegeräte](https://www.anker.com/eu-de/collections/wandladegerate?ref=footer)
+
 [Kabel](https://www.anker.com/eu-de/collections/kabel?ref=footer)
+
+[Ladepads](https://www.anker.com/eu-de/collections/kabelloses-zubehor?ref=footer)
 
 [Adapter & Hubs](https://www.anker.com/eu-de/collections/adapter-hubs?ref=footer)
 
