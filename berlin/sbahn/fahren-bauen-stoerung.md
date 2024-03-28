@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Zug Waidmannslust beendet ###
 
- Letztes Update: 07:54 / 28.03.2024
+ Letztes Update: 09:04 / 28.03.2024
 
 Information
 
-Nach einer Reparatur am Zug in Waidmannslust kann es auf der Linie S1 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-* Die Linie S85 verkehrt nicht.
+Nach einer Reparatur am Zug in Waidmannslust kann es auf den Linien S1 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
