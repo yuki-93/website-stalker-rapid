@@ -8,13 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke Anhalter Bahnhof ###
 
- Letztes Update: 12:25 / 28.03.2024
+ Letztes Update: 14:25 / 28.03.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke in Anhalter Bahnhof kommt es auf den Linien S1, S2 und S25 zu Verspätungen und Zugausfällen sowie nachfolgenden Einschränkungen:
+Wegen einer Reparatur an der Strecke in Anhalter Bahnhof kommt es auf den Linien S1, S2 und S25 zu Verspätungen und Zugausfällen sowie nachfolgender Einschränkung:
 
-* Die Linie S2 verkehrt nur im 20-Minuten-Takt.
 * Die Linie S26 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
