@@ -76,25 +76,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Ostkreuz – Ostbahnhof ###
-
-22.03. (Fr) 4 Uhr bis 28.03. (Do) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29019&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22170&tx_sbbconstructions_list%5Bperiod%5D=17772&type=5679&cHash=852539da28da965c4e68e7b87fac393f)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Mahlsdorf \<\> Friedrichsfelde Ost
-* Fahrplanänderung
-* Bahnsteigänderung in Warschauer Straße
-* Bitte nutzen Sie vor Fahrtantritt die[Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof/#con-29019)
-
 [S5](https://sbahn.berlin/fahren/s5/)
 
 ### Hoppegarten \<\> Mahlsdorf ###
@@ -135,36 +116,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28934)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Frankfurter Allee \<\> Bornholmer Straße ###
-
-Nacht 27./28.03. (Mi/Do), ca. 22.45 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29146&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22305&tx_sbbconstructions_list%5Bperiod%5D=17821&type=5679&cHash=938ce1158f9dfe06abfd3029467d61f5)
-
- Takt geändert
-
-Information
-
-* kein S-Bahnverkehr:
-  * Schönhauser Allee \<\> Bornholmer Straße, bitte Umfahrung über Gesundbrunnen (mit Umstieg und Bahnsteigwechsel)
-  * oder zwischen Schönhauser Allee \<\> Pankow bitte die U2 nutzen
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41/S42 steigen bitte in beiden Fahrtrichtungen in Greifswalder Straße um, die Weiterfahrt erfolgt nach 7 Minuten vom selben Gleis.
-
-* Taktänderung:
-  * Frankfurter Allee \<\> Schönhauser Allee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42 (mit Umsteigen in Greifswalder Straße)
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b8ea4f71c1/#con-29146)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
 
