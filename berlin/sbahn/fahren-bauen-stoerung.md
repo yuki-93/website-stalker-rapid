@@ -4,23 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Jungfernheide ###
+### Ärztliche Versorgung eines Fahrgastes in Anhalter Bahnhof ###
 
- Letztes Update: 16:08 / 28.03.2024
+ Letztes Update: 17:22 / 28.03.2024
 
 Information
 
-Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) im Bereich Jungfernheide sind die Linien S41 und S42 zwischen Halensee \<\> Wedding unterbrochen.
-
-Die Linie S46 verkehrt Königs Wusterhausen \<\> Westend.
-
-Bitte nutzen Sie zur Umfahrung auch die Verkehrsmittel der BVG.
+Wegen der ärztlichen Versorgung eines Fahrgastes in Anhalter Bahnhof kommt es auf den Linien S1, S2 und S25 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- sonstige Einschränkungen  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Jungfernheide beendet ###
+
+ Letztes Update: 16:47 / 28.03.2024
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Jungfernheide kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
