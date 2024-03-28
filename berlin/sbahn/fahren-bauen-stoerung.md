@@ -8,27 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke Anhalter Bahnhof ###
 
- Letztes Update: 11:45 / 28.03.2024
+ Letztes Update: 12:25 / 28.03.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke in Anhalter Bahnhof kann es auf den Linien S1, S2 und S25 zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einer Reparatur an der Strecke in Anhalter Bahnhof kommt es auf den Linien S1, S2 und S25 zu Verspätungen und Zugausfällen sowie nachfolgenden Einschränkungen:
 
+* Die Linie S2 verkehrt nur im 20-Minuten-Takt.
 * Die Linie S26 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Reparatur am Zug in Wuhlheide beendet ###
-
- Letztes Update: 11:19 / 28.03.2024
-
-Information
-
-Nach einer Reparatur am Zug in Wuhlheide kann es auf der Linie S3 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
@@ -122,6 +109,10 @@ Information
 
 * Ersatzverkehr mit Bussen
   * Bus S5: Hoppegarten \<\> Mahlsdorf
+    * **Achtung:**
+       am Sonntag, 31.03. in der Zeit von ca. 12.30 Uhr bis ca. 19.30 Uhr fahren zusätzliche Busse zwischen Mahlsdorf und Hoppegarten (10-Minutentakt),
+       die in dem bestehenden Busabfahrtsplan nicht enthalten sind.
+
   * Achtung: In den Nächten
     * 25./26.03. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr,
     * 29./30.03. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr und
@@ -277,6 +268,10 @@ Information
 
 * Ersatzverkehr mit Bussen
   * Bus S5: Hoppegarten \<\> Mahlsdorf
+    * **Achtung:**
+       am Sonntag, 31.03. in der Zeit von ca. 12.30 Uhr bis ca. 19.30 Uhr fahren zusätzliche Busse zwischen Mahlsdorf und Hoppegarten (10-Minutentakt),
+       die in dem bestehenden Busabfahrtsplan nicht enthalten sind.
+
   * Achtung: In den Nächten
     * 25./26.03. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr,
     * 29./30.03. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr und
@@ -432,6 +427,10 @@ Information
 
 * Ersatzverkehr mit Bussen
   * Bus S5: Hoppegarten \<\> Mahlsdorf
+    * **Achtung:**
+       am Sonntag, 31.03. in der Zeit von ca. 12.30 Uhr bis ca. 19.30 Uhr fahren zusätzliche Busse zwischen Mahlsdorf und Hoppegarten (10-Minutentakt),
+       die in dem bestehenden Busabfahrtsplan nicht enthalten sind.
+
   * Achtung: In den Nächten
     * 25./26.03. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr,
     * 29./30.03. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr und
@@ -1422,6 +1421,32 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28779)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Ahrensfelde \<\> Potsdam Hbf ###
+
+Nacht 16./17.04. (Di/Mi) , ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29217&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22382&tx_sbbconstructions_list%5Bperiod%5D=17854&type=5679&cHash=bc7a868e2146c87b4876ca0bd04c2a75)
+
+Nacht 22./23.04. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29217&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22382&tx_sbbconstructions_list%5Bperiod%5D=17855&type=5679&cHash=7c39581ddcc8553a14db2702202064f3)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29217&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22382&type=5679&cHash=9361de57afedfa3c07fe24aa133acb1d)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-3b5d8bd1fb/#con-29217)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
