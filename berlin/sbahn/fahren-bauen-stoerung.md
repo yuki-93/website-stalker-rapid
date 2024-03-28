@@ -4,20 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur am Zug in Wuhlheide ###
+### Reparatur an der Strecke Anhalter Bahnhof ###
 
- Letztes Update: 11:06 / 28.03.2024
+ Letztes Update: 11:45 / 28.03.2024
 
 Information
 
-Wegen einer Reparatur am Zug in Wuhlheide ist der Zugverkehr der Linie S3 zwischen Karlshorst und Friedrichshagen unterbrochen.
-*Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.*
+Wegen einer Reparatur an der Strecke in Anhalter Bahnhof kann es auf den Linien S1, S2 und S25 zu Verspätungen und eventuellen Zugausfällen kommen.
+
+* Die Linie S26 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur am Zug in Wuhlheide beendet ###
+
+ Letztes Update: 11:19 / 28.03.2024
+
+Information
+
+Nach einer Reparatur am Zug in Wuhlheide kann es auf der Linie S3 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -1155,6 +1170,60 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a6e6b63e2e/#con-29202)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Greifswalder Straße / Bornholmer Straße ###
+
+Nacht 17./18.04. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29215&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22380&tx_sbbconstructions_list%5Bperiod%5D=17852&type=5679&cHash=e4699edb56e6c8f70048f4dc2887a4b8)
+
+ Pendelverkehr
+
+Information
+
+* kein S-Bahnverkehr:
+  * zwischen Schönhauser Allee \<\> Bornholmer Straße, bitte Umfahrung über Gesundbrunnen (mit Umstieg und Bahnsteigwechsel) oder zwischen Schönhauser Allee \<\> Pankow bitte U2 nutzen
+
+* S-Bahn-Pendelverkehr:
+  * Frankfurter Allee \<\> Greifswalder Straße im 20-Minutentakt
+
+* Taktänderung:
+  * Ostkreuz \<\> Frankfurter Allee und Greifswalder Straße \<\> Schönhauser Allee S-Bahnverkehr jeweils nur im 10-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bahnsteigändeerung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-und-maschinelles-weichenschleifen/#con-29215)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Ostkreuz \<\> Greifswalder Straße ###
+
+Nacht 18./19.04. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22381&tx_sbbconstructions_list%5Bperiod%5D=17853&type=5679&cHash=c0f8870193c83a2772b508323cd5f142)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * Frankfurter Allee \<\> Greifswalder Straße im 20-Minutentakt
+
+* Taktänderung:
+  * Ostkreuz \<\> Frankfurter Allee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-41/#con-29216)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
