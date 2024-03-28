@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur am Zug Waidmannslust ###
+
+ Letztes Update: 07:21 / 28.03.2024
+
+Information
+
+Wegen einer Reparatur am Zug in Waidmannslust kommt es auf der Linie S1 zu Verspätungen und Zugausfällen.
+
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
@@ -1158,6 +1176,32 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-2/#con-28959)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Westend ###
+
+Nacht 22./23.04. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29205&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22370&tx_sbbconstructions_list%5Bperiod%5D=17849&type=5679&cHash=f3978c29b45c3bd95025c9949de5296c)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Südkreuz um, die Weiterfahrt erfolgt nach 6 Minuten (S41) bzw. nach 8 Minuten (S42) vom selben Gleis
+
+* Taktänderung:
+  * Tempelhof \<\> Bundesplatz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42 (mit Umsteigen in Südkreuz)
+
+* Fahrplanänderung
+* Gleisänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-38/#con-29205)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
