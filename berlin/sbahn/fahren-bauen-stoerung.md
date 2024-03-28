@@ -6,19 +6,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur am Zug Waidmannslust ###
+### Reparatur am Zug Waidmannslust beendet ###
 
- Letztes Update: 07:21 / 28.03.2024
+ Letztes Update: 07:54 / 28.03.2024
 
 Information
 
-Wegen einer Reparatur am Zug in Waidmannslust kommt es auf der Linie S1 zu Verspätungen und Zugausfällen.
+Nach einer Reparatur am Zug in Waidmannslust kann es auf der Linie S1 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 * Die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Einschränkungen beim Ersatzverkehr Oranienburg - Birkenwerder ###
+
+ Letztes Update: 07:26 / 28.03.2024
+
+Information
+
+Beim Ersatzverkehr mit Bussen der Linie S1A und S1X zwischen Oranienburg und Birkenwerder kommt es aktuell zu Verspätungen und Fahrtausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
