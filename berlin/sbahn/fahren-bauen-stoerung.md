@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+### unbefugte Personen auf der Strecke im Bereich Nordbahnhof ###
+
+ Letztes Update: 18:16 / 29.03.2024
+
+Information
+
+Wegen unbefugter Personen auf der Strecke im Bereich Nordbahnhof ist der Zugverkehr der Linien S1, S2 und S25 zwischen Potsdamer Platz und Nordbahnhof unterbrochen.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S1**: Wannsee \<\> Potsdamer Platz **sowie** Nordbahnhof \<\> Frohnau, *der **10-Minuten-Takt** besteht zwischen Wannsee \<\> Potsdamer Platz sowie Gesundbrunnen \<\> Frohnau*
+* **S2**: Blankenfelde \<\> Potsdamer Platz **sowie** Nordbahnhof \<\> Bernau, *der **10-Minuten-Takt** besteht zwischen Lichtenrade \<\> Potsdamer Platz sowie Blankenburg \<\> Buch*
+* **S25**: Teltow Stadt \<\> Südkreuz **sowie** Nordbahnhof \<\> Hennigsdorf
+* **S26**: Teltow Stadt \<\> Südkreuz
+
+**Bitte nutzen Sie zur weiträumigen Umfahrung:**
+
+* zwischen Südkreuz bzw. Schöneberg und Gesundbrunnen die Linien S41 und S42
+* zwischen Friedrichstraße und Wedding die U-Bahnlinie U6 **sowie** zwischen Wedding und Gesundbrunnen die Linien S41 und S42
+* zwischen Gesundbrunnen und Hermannstraße die U-Bahnlinie U8
+* zwischen Friedrichstraße und Tempelhof die U-Bahnlinie U6
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
