@@ -4,18 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Nordbahnhof beendet ###
 
- Letztes Update: 20:08 / 29.03.2024
+ Letztes Update: 21:18 / 29.03.2024
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Nordbahnhof kommt es auf den Linien S1, S2, S25, S26, S8 und S85 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Nordbahnhof kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen folgenden Einschränkungen:
 
 * Die Linien S1 und S2 verkehren nur im 20-Minuten-Takt.
-* Die Linien S26 und S85 verkehren nicht.
 
 Wir bitten um Ihr Verständnis.
 
