@@ -4,22 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### unbefugte Personen auf der Strecke im Bereich Nordbahnhof ###
 
- Letztes Update: 18:16 / 29.03.2024
+ Letztes Update: 19:16 / 29.03.2024
 
 Information
 
-Wegen unbefugter Personen auf der Strecke im Bereich Nordbahnhof ist der Zugverkehr der Linien S1, S2 und S25 zwischen Potsdamer Platz und Nordbahnhof unterbrochen.
+Wegen unbefugter Personen auf der Strecke im Bereich Nordbahnhof ist der Zugverkehr der Linien S1, S2, S25 und S26 zwischen Südkreuz bzw. Potsdamer Platz und Nordbahnhof unterbrochen.
 
 **Die betroffenen Linien fahren wie folgt:**
 
-* **S1**: Wannsee \<\> Potsdamer Platz **sowie** Nordbahnhof \<\> Frohnau, *der **10-Minuten-Takt** besteht zwischen Wannsee \<\> Potsdamer Platz sowie Gesundbrunnen \<\> Frohnau*
-* **S2**: Blankenfelde \<\> Potsdamer Platz **sowie** Nordbahnhof \<\> Bernau, *der **10-Minuten-Takt** besteht zwischen Lichtenrade \<\> Potsdamer Platz sowie Blankenburg \<\> Buch*
-* **S25**: Teltow Stadt \<\> Südkreuz **sowie** Nordbahnhof \<\> Hennigsdorf
-* **S26**: Teltow Stadt \<\> Südkreuz
+* **S1**: Wannsee \<\> Anhalter Bahnhof **sowie** Gesundbrunnen \<\> Frohnau, *der **10-Minuten-Takt** besteht zwischen Wannsee \<\> Anhalter Bahnhof*
+* **S2**: Blankenfelde \<\> Potsdamer Platz **sowie** Nordbahnhof \<\> Bernau
+* **S25**: Teltow Stadt \<\> Potsdamer Platz **sowie** Nordbahnhof \<\> Hennigsdorf
+* **S26**: fährt nicht
+* **S85**: fährt nicht
 
 **Bitte nutzen Sie zur weiträumigen Umfahrung:**
 
@@ -27,6 +28,9 @@ Wegen unbefugter Personen auf der Strecke im Bereich Nordbahnhof ist der Zugver
 * zwischen Friedrichstraße und Wedding die U-Bahnlinie U6 **sowie** zwischen Wedding und Gesundbrunnen die Linien S41 und S42
 * zwischen Gesundbrunnen und Hermannstraße die U-Bahnlinie U8
 * zwischen Friedrichstraße und Tempelhof die U-Bahnlinie U6
+* zwischen Potsdamer Platz und Alexanderplatz die U-Bahnlinie U2 **sowie** zwischen Alexanderplatz und Gesundbrunnen die U-Bahnlinie U8
+* zwischen Brandenburger Tor und Alexanderplatz die U-Bahnlinie U5 **sowie** zwischen Alexanderplatz und Gesundbrunnen die U-Bahnlinie U8
+* zwischen Brandenburger Tor und Unter den Linden die U-Bahnlinie U5 **sowie** zwischen Unter den Linden und Tempelhof die U-Bahnlinie U6
 
 Wir bitten um Ihr Verständnis.
 
