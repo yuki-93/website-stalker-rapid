@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Südkreuz ###
 
- Letztes Update: 14:57 / 30.03.2024
+ Letztes Update: 15:35 / 30.03.2024
 
 Information
 
 Wegen der Reparatur an einem Signal in Südkreuz kommt es auf den Linie S2, S25 und S26 zu Verspätungen und Ausfällen.
 
-\* Die Linie S26 verkehrt nicht. Fahrgäste benutzen bitte zwischen Potsdamer Platz und Teltow Stadt die Linie S25.
+\* *Die Linie S26 verkehrt nicht. Fahrgäste benutzen bitte zwischen Potsdamer Platz und Teltow Stadt die Linie S25.*
 
 Wir bitten um Entschuldigung.
 
@@ -24,13 +24,11 @@ Wir bitten um Entschuldigung.
 
 ### Polizeieinsatz Hauptbahnhof beendet ###
 
- Letztes Update: 14:38 / 30.03.2024
+ Letztes Update: 15:33 / 30.03.2024
 
 Information
 
 Nach einem Polizeieinsatz in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
-
-\* Die Linie S75 verkehrt nur zwischen Wartenberg und Lichtenberg.
 
 Wir bitten um Verständnis.
 
