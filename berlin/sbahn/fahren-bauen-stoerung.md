@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Südkreuz ###
-
- Letztes Update: 15:35 / 30.03.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Südkreuz kommt es auf den Linie S2, S25 und S26 zu Verspätungen und Ausfällen.
-
-\* *Die Linie S26 verkehrt nicht. Fahrgäste benutzen bitte zwischen Potsdamer Platz und Teltow Stadt die Linie S25.*
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz Hauptbahnhof beendet ###
-
- Letztes Update: 15:33 / 30.03.2024
-
-Information
-
-Nach einem Polizeieinsatz in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
