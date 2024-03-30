@@ -4,31 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz Friedrichstraße \<\> Tiergarten ###
+### Reparatur an einem Signal in Südkreuz ###
 
- Letztes Update: 13:56 / 30.03.2024
+ Letztes Update: 14:57 / 30.03.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Hauptbahnhof ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Friedrichstraße \<\> Tiergarten unterbrochen.
+Wegen der Reparatur an einem Signal in Südkreuz kommt es auf den Linie S2, S25 und S26 zu Verspätungen und Ausfällen.
 
-\* Linie S3 verkehrt zwischen Ertkner und Friedrichstraße sowie Tiergarten und Spandau
+\* Die Linie S26 verkehrt nicht. Fahrgäste benutzen bitte zwischen Potsdamer Platz und Teltow Stadt die Linie S25.
 
-\* Linie S5 verkehrt zwischen Mahlsdorf und Warschauer Straße
+Wir bitten um Entschuldigung.
 
-\* Linie S7 verkehrt zwischen Ahrensfelde und Ostbahnhof sowie Charlottenburg und Potsdam Hauptbahnhof
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
-\* Linie S75 verkehrt zwischen Wartenberg und Lichtenberg
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-\* Linie S9 verkehrt zwischen Flughafen BER und Friedrichstraße sowie Zoologischer Garten und Spandau
+### Polizeieinsatz Hauptbahnhof beendet ###
 
-Zur Umfahrung bitten die Verkehrsmittel der BVG benutzen.
+ Letztes Update: 14:38 / 30.03.2024
+
+Information
+
+Nach einem Polizeieinsatz in Hauptbahnhof kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und Ausfällen.
+
+\* Die Linie S75 verkehrt nur zwischen Wartenberg und Lichtenberg.
 
 Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
