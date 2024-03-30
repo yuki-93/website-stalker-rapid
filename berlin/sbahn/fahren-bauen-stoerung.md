@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz im Bereich Gehrenseestraße beendet ###
-
- Letztes Update: 08:50 / 30.03.2024
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Gehrenseestraße kommt es auf der Linie S75 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
