@@ -254,6 +254,34 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28777)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Grünau \<\> Treptower Park ###
+
+Nacht 01./02.04. (Mo/Di), ca. 23 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29151&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22315&tx_sbbconstructions_list%5Bperiod%5D=17826&type=5679&cHash=6e7cf9c4e33e8c8834ba0885892b7ccd)
+
+ Pendelverkehr
+
+Information
+
+* S-Bahn-Pendelverkehr:
+  * Schöneweide \<\> Baumschulenweg im 10-Minutentakt;
+  * Baumschulenweg \<\> Plänterwald im 10-Minutentakt;
+  * Plänterwald \<\> Treptower Park im 10-Minutentakt
+
+* Taktänderung:
+  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einbau-von-ersatzschienen-in-baumschulenweg/#con-29151)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
@@ -721,6 +749,79 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Mahlsdorf \<\> Ostkreuz \<\> Ostbahnhof ###
+
+15.04. (Mo), ca. 4 Uhr durchgehend bis 08.05. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29195&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22360&tx_sbbconstructions_list%5Bperiod%5D=17843&type=5679&cHash=58510d4c236bbc80bb7bac19a75efa0e)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * vom 15.04. (Mo) bis 18.04. (Do) sowie vom 22.04. (Mo) bis 07.05. (Di) – **außer am 01.05. (Mi):**
+     Montag bis Freitag: Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 5-/5-/10-Minutentakt;
+  * am 19.04. (Fr) Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 10-Minutentakt
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-1/#con-29195)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Charlottenburg \<\> Spandau / Potsdam Hbf ###
+
+Nächte 15./16.04. (Mo/Di) und 18./19.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29201&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22366&tx_sbbconstructions_list%5Bperiod%5D=17844&type=5679&cHash=3dcbb256580bc2c36ba15d9b01f893fb)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Charlottenburg \<\> Westkreuz S-Bahnverkehr im ungefähren 5-/15-Minutentakt mit S7 und S9
+  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-f7042ce100/#con-29201)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Südkreuz \<\> Westend ###
+
+Nächte 15./16.04. (Mo/Di) und 16./17.04. (Di/Mi), jeweils ca. 22.15 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29204&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22369&tx_sbbconstructions_list%5Bperiod%5D=17848&type=5679&cHash=a8e1e32cae7ee21949309fede6e75d41)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Bundesplatz um, die Weiterfahrt erfolgt nach 6 bis 7 oder 16 bis 17 Minuten (S41) bzw. nach 7 bis 8 Minuten (S42) vom selben Gleis
+
+* Taktänderung:
+  * Südkreuz \<\> Bundesplatz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im 20-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-11/#con-29204)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
  Nur Nachts
@@ -941,29 +1042,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-28958)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Mahlsdorf \<\> Ostkreuz \<\> Ostbahnhof ###
-
-15.04. (Mo), ca. 4 Uhr durchgehend bis 08.05. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29195&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22360&tx_sbbconstructions_list%5Bperiod%5D=17843&type=5679&cHash=58510d4c236bbc80bb7bac19a75efa0e)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * vom 15.04. (Mo) bis 18.04. (Do) sowie vom 22.04. (Mo) bis 07.05. (Di) – **außer am 01.05. (Mi):**
-     Montag bis Freitag: Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 5-/5-/10-Minutentakt;
-  * am 19.04. (Fr) Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 10-Minutentakt
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-1/#con-29195)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
