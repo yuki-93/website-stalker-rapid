@@ -2,6 +2,28 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Polizeieinsatz in Schönfließ ###
+
+ Letztes Update: 21:09 / 30.03.2024
+
+Information
+
+Wegen eines Polizeieinsatzes ist der Zugverkehr der S8 zwischen Pankow und Schönfließ unterbrochen.
+
+Bitte nutznen Sie folgende Umfahrungsmöglichkeiten:
+
+* zwischen Pankow und Blankenburg die Linie S2
+* zwischen Bornholmer Straße und Frohnau die Linie S1
+* zwischen Frohnau und Schönfließ den planmäßigen Ersatzverkehr mit Bussen (Bus S1A, Bus S8) mit Umstieg in Hohen Neuendorf
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
