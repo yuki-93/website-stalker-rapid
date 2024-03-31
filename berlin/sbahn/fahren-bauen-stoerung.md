@@ -4,33 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### ärztliche Versorgung eines Fahrgastes in einem Zug in Attilastraße ###
+### Reparatur an der Strecke in Petershagen Nord ###
 
- Letztes Update: 19:10 / 31.03.2024
+ Letztes Update: 20:07 / 31.03.2024
 
 Information
 
-Wegen der ärztlichen versorgung eines Fahrgastes in einem Zug in Attilastraße ist der Zugverkehr der Linie S2 zwsichen Priesterweg und Marienfelde unterbrochen.
+Wegen der Reparatur an der Strecke im Bereich Petershagen Nord ist der Zugverkehr der Linie S5 zwischen Fredersdorf und Strausberg unterbrochen.
 
-Wir bitten um Ihr Verständnis.
+Bitte nutzen Sie zur Umfahrung zwischen Lichtenberg/ Mahlsdorf und Strausberg die Züge der RB 26.
+
+Wir bitten um Entschuldigung.
 
  fährt nicht
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz in Lichtenberg beendet ###
-
- Letztes Update: 19:06 / 31.03.2024
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Person auf der Strecke) in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
