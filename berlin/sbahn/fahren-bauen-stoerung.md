@@ -8,13 +8,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Petershagen Nord ###
 
- Letztes Update: 20:07 / 31.03.2024
+ Letztes Update: 20:33 / 31.03.2024
 
 Information
 
-Wegen der Reparatur an der Strecke im Bereich Petershagen Nord ist der Zugverkehr der Linie S5 zwischen Fredersdorf und Strausberg unterbrochen.
+Wegen der Reparatur an der Strecke im Bereich Petershagen Nord ist der Zugverkehr der **Linie S5** zwischen Fredersdorf und Strausberg unterbrochen.
 
-Bitte nutzen Sie zur Umfahrung zwischen Lichtenberg/ Mahlsdorf und Strausberg die Züge der RB 26.
+**Ein Ersatzverkehr mit Bussen ist zwischen Fredersdorf und Strausberg eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* S Fredersdorf: Brückenstraße (südliche Bahnhofsseite, wie Bus 951)
+* S Petershagen Nord: Lessingstraße (wie Bus 933, 948, 949)
+* S Strausberg: Businsel (örtliche Bushaltestelle)
+
+Bitte nutzen Sie zur Umfahrung zwischen Lichtenberg/ Mahlsdorf und Strausberg auch die Züge der RB 26.
 
 Wir bitten um Entschuldigung.
 
