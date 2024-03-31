@@ -2,6 +2,36 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### ärztliche Versorgung eines Fahrgastes in einem Zug in Attilastraße ###
+
+ Letztes Update: 19:10 / 31.03.2024
+
+Information
+
+Wegen der ärztlichen versorgung eines Fahrgastes in einem Zug in Attilastraße ist der Zugverkehr der Linie S2 zwsichen Priesterweg und Marienfelde unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Lichtenberg beendet ###
+
+ Letztes Update: 19:06 / 31.03.2024
+
+Information
+
+Nach einem Polizeieinsatz (unbefugte Person auf der Strecke) in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
