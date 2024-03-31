@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Reparatur an der Strecke in Petershagen Nord ###
-
- Letztes Update: 23:27 / 31.03.2024
-
-Information
-
-Wegen der Reparatur an der Strecke im Bereich Petershagen Nord kommt es auf der **Linie S5** zwischen Hoppegarten und Strausberg Nord zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
