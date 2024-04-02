@@ -22,51 +22,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Hoppegarten \<\> Mahlsdorf ###
-
-25.03. (Mo), ca. 4 Uhr durchgehend bis 02.04. (Di), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28883&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17685&type=5679&cHash=a0794d32c9a965f2e9aa89e6cba5690b)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Bus S5: Hoppegarten \<\> Mahlsdorf
-    * **Achtung:**
-       am Sonntag, 31.03. in der Zeit von ca. 12.30 Uhr bis ca. 19.30 Uhr fahren zusätzliche Busse zwischen Mahlsdorf und Hoppegarten (10-Minutentakt),
-       die in dem bestehenden Busabfahrtsplan nicht enthalten sind.
-
-  * Achtung: In den Nächten
-    * 25./26.03. (Mo/Di), ca. 0 Uhr - ca. 1.30 Uhr,
-    * 29./30.03. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr und
-    * 01./02.04. (Mo/Di), ca. 0 - ca. 1.30 Uhr
-       wird der Ersatzverkehr zwischen Fredersdorf \<\> Mahlsdorf erweitert.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28883)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### (Strausberg Nord) - Hoppegarten \<\> Mahlsdorf ###
-
-25.03. (Mo), ca. 4 Uhr durchgehend bis 02.04. (Di), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28934&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17705&type=5679&cHash=cc7d51f5207fadd86f6f951876b5a2a2)
-
- Zugverkehr verändert
-
-Information
-
-* Kein Zugverkehr Hoppegarten \<\> Mahlsdorf
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28934)
-
 [S3](https://sbahn.berlin/fahren/s3/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Karlshorst \<\> Ostkreuz \<\> Ostbahnhof ###
@@ -125,56 +80,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28777)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Grünau \<\> Treptower Park ###
-
-Nacht 01./02.04. (Mo/Di), ca. 23 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29151&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22315&tx_sbbconstructions_list%5Bperiod%5D=17826&type=5679&cHash=6e7cf9c4e33e8c8834ba0885892b7ccd)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Schöneweide \<\> Baumschulenweg im 10-Minutentakt;
-  * Baumschulenweg \<\> Plänterwald im 10-Minutentakt;
-  * Plänterwald \<\> Treptower Park im 10-Minutentakt
-
-* Taktänderung:
-  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/einbau-von-ersatzschienen-in-baumschulenweg/#con-29151)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts
-
-### Fredersdorf \<\> Mahlsdorf ###
-
-02.04. (Di) 0 bis 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28994&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22066&tx_sbbconstructions_list%5Bperiod%5D=17755&type=5679&cHash=36d3cbb5cba87a8dd663e8497e6dd422)
-
- Zugverkehr verändert
-
-Information
-
-* Ersatzverkehr mit Bussen
-  * Fredersdorf - Mahlsdorf
-
-* Bahnsteigänderung in Mahlsdorf
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/rueckbau-durchlass-in-kilometer-139/#con-28994)
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
