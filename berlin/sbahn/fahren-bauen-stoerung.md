@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
+
+### ärztliche Versorgung eines Fahrgastes im Zug in Bundesplatz ###
+
+ Letztes Update: 16:17 / 02.04.2024
+
+Information
+
+Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Bundesplatz kommt es auf den Linien S41, S42 und S46 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
