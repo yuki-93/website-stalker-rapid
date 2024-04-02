@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### unbefugte Person auf der Strecke im Bereich Brandenburger Tor ###
+### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Brandenburger Tor beendet ###
 
- Letztes Update: 20:20 / 02.04.2024
+ Letztes Update: 21:10 / 02.04.2024
 
 Information
 
-Wegen einer unbefugten Person auf der Strecke im Bereich Brandenburger Tor kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Brandenburger Tor kommt es auf den Linien S1, S2, S25, S26, S8 und S85 noch zu Verspätungen und Ausfällen.
 
-Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
