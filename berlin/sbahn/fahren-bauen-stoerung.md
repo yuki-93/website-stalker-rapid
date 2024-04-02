@@ -2,36 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Brandenburger Tor beendet ###
-
- Letztes Update: 17:06 / 02.04.2024
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Brandenburger Tor kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)
-
-### ärztliche Versorgung eines Fahrgastes im Zug in Bundesplatz beendet ###
-
- Letztes Update: 16:37 / 02.04.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Bundesplatz kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
