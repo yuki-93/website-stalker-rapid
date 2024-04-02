@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Brandenburger Tor beendet ###
-
- Letztes Update: 22:47 / 02.04.2024
-
-Information
-
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) im Bereich Brandenburger Tor kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -116,6 +100,27 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schraublochsanierung/#con-29163)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Schichauweg \<\> Priesterweg ###
+
+03.04. (Mi), ca. 4 Uhr durchgehend bis 08.04. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28935&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22112&tx_sbbconstructions_list%5Bperiod%5D=17806&type=5679&cHash=9989cda73b34fa8c9113a5a9dda9c82e)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S2: Schichauweg \<\> Priesterweg
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/dresdner-bahn/#con-28935)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
@@ -265,6 +270,35 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/dresdner-bahn/#con-28935)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+ Nur Nachts
+
+### Beusselstraße \<\> Gesundbrunnen ###
+
+Nacht 04./05.04. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29144&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22303&tx_sbbconstructions_list%5Bperiod%5D=17818&type=5679&cHash=bccdc8f3cf22a68df89f6ce0acaa7cb5)
+
+Nacht 08./09.04. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29144&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22303&tx_sbbconstructions_list%5Bperiod%5D=17819&type=5679&cHash=4aeeca9e9cede51c85862c70a455d156)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29144&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22303&type=5679&cHash=0927ffe39f9d8931130447cf860fbe8c)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S41/S42 steigen bitte in beiden Fahrtrichtungen in Beusselstraße um, die Weiterfahrt erfolgt nach 5 oder 15 Minuten (S41) bzw. nach 7 Minuten (S42) von der gegenüberliegenden Bahnsteigseite
+
+* Taktänderung: Beusselstraße \<\> Gesundbrunnen S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-d679f83238/#con-29144)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
@@ -786,30 +820,30 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-und-maschinelles-weichenschleifen/#con-29215)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
 
-### Westend \<\> Beusselstraße ###
+### Ostkreuz \<\> Greifswalder Straße ###
 
-Nächte 02./03.04. (Di/Mi) und 03./04.04. (Mi/Do), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+Nacht 18./19.04. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29116&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22273&tx_sbbconstructions_list%5Bperiod%5D=17813&type=5679&cHash=4348c03a56bc02e7f60f80f71814b24d)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22381&tx_sbbconstructions_list%5Bperiod%5D=17853&type=5679&cHash=c0f8870193c83a2772b508323cd5f142)
 
- Takt geändert
+ Pendelverkehr
 
 Information
 
-* Taktänderung: Westend \<\> Beusselstraße S-Bahnverkehr nur im 20-Minutentakt
-* Zugverkehr verändert:
-  * Fahrgäste der S41/S42 steigen bitte in beiden Fahrtrichtungen in Beusselstraße um, die Weiterfahrt erfolgt ...
-    * nach 6 Minuten (S41) von der gegenüberliegenden Bahnsteigseite bzw.
-    * nach 3 Minuten (S42) von der gegenüberliegenden Bahnsteigseite oder nach 13 Minuten (S42) vom selben Gleis.
+* S-Bahn-Pendelverkehr:
+  * Frankfurter Allee \<\> Greifswalder Straße im 20-Minutentakt
+
+* Taktänderung:
+  * Ostkreuz \<\> Frankfurter Allee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
 
 * Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-7/#con-29116)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-41/#con-29216)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
@@ -1111,30 +1145,6 @@ Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sin
 
 ### Baumaßnahmen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Springpfuhl \<\> Wartenberg ###
-
-11.04. (Fr), ca. 21:45 Uhr bis 15.04. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28958&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=17725&type=5679&cHash=731065d5a5076255634621ad62aaa0ce)
-
-18.04. (Fr), ca. 21:45 Uhr bis 22.04. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28958&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=17726&type=5679&cHash=baa2f603e32da9984bbd898c44e4638d)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28958&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&type=5679&cHash=51773fabd794c24c07e41e95016791f2)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen
-* Bus S75 Springpfuhl \<\> Wartenberg
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-28958)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
@@ -1158,31 +1168,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-f7042ce100/#con-29201)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Ostkreuz \<\> Greifswalder Straße ###
-
-Nacht 18./19.04. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29216&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22381&tx_sbbconstructions_list%5Bperiod%5D=17853&type=5679&cHash=c0f8870193c83a2772b508323cd5f142)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Frankfurter Allee \<\> Greifswalder Straße im 20-Minutentakt
-
-* Taktänderung:
-  * Ostkreuz \<\> Frankfurter Allee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-41/#con-29216)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
