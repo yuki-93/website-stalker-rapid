@@ -111,29 +111,23 @@ Anker-Innovationen nach Kategorie filtern
 Entdecke Anker Innovations
 ----------
 
-* ### AnkerWork S600 ###
-
-  Qi2: Verbindet all deine Tech-Anforderungen
-
-  [Jetzt kaufenAnkerWork S600](https://www.kickstarter.com/projects/smartaudio/ankerwork-s600-all-in-one-speakerphone-0?ref=9jvezn&utm_source=web_banner&utm_medium=banner&utm_campaign=de_anker_a3319_web_banner_Anker_Innovations_Unveiled_launch&utm_content=launch_ankerwork_web&utm_term=ZZKS1IBJeC_?ref=productBanner8_1)
-
 * ### Anker MagGo ###
 
   Click it, Charge it - Doppelter Speed.
 
-  [Jetzt kaufenAnker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=productBanner8_2)
+  [Jetzt kaufenAnker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=productBanner8_1)
 
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner8_3)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner8_2)
 
 * ### Anker SOLIX C800 Plus Tragbare Powerstation ###
 
   Power für strahlende Momente unterwegs
 
-  [Jetzt kaufenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/products/a1754?ref=productBanner8_4)
+  [Jetzt kaufenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/products/a1754?ref=productBanner8_3)
 
 Was macht Anker so besonders?
 ----------
