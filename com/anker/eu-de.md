@@ -32,23 +32,21 @@ auf smartes Ladezubehör
 
 Tagen
 
-15
+14
 
 :
 
 Std.
 
-39
+37
 
 :
 
 Min.
 
-29
+55
 
 Sek.
-
-12. März - 7. April 2024
 
 [Jetzt shoppen masterBanner1](https://www.anker.com/eu-de/fruehlings-sale?ref=masterBanner1)
 
