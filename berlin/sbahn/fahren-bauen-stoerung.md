@@ -1351,6 +1351,36 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-in-anhalter-bahnhof-1/#con-29192)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+Nur Wochenende
+
+### Charlottenburg \<\> Grunewald/Olympiastadion ###
+
+26.04. (Fr), ca. 23 Uhr durchgehend bis 29.04. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28961&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22129&tx_sbbconstructions_list%5Bperiod%5D=17847&type=5679&cHash=1abffd14a9b3deb073699e0a7e24a0b0)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S7: Charlottenburg \<\> Grunewald
+  * Bus S9: Charlottenburg \<\> Olympiastadion
+
+* veränderte Linienführung:
+  * der Abschnitt Wannsee \<\> Potsdam Hbf wird durch die S1 (anstatt der S7) bedient
+
+* Taktänderung:
+  * Grunewald \<\> Wannsee S-Bahnverkehr nur im 20-Minutentakt mit S7
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9281d1b0b2/#con-28961)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### (Schönfließ) - Schönholz \<\> Oranienburg und Blankenburg \<\> Bernau ###
