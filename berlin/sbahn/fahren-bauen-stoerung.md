@@ -4,6 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Wuhletal/Ahrensfelde \<\> Lichtenberg ###
+
+Nächte 02./03.04. (Di/Mi) bis 04./05.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29163&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22328&tx_sbbconstructions_list%5Bperiod%5D=17830&type=5679&cHash=ad58961ad65b494c6241d208242c6204)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schraublochsanierung/#con-29163)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -80,26 +100,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28777)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Wuhletal/Ahrensfelde \<\> Lichtenberg ###
-
-Nächte 02./03.04. (Di/Mi) bis 04./05.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29163&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22328&tx_sbbconstructions_list%5Bperiod%5D=17830&type=5679&cHash=ad58961ad65b494c6241d208242c6204)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schraublochsanierung/#con-29163)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -153,6 +153,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Wuhletal/Ahrensfelde \<\> Lichtenberg ###
+
+Nächte 02./03.04. (Di/Mi) bis 04./05.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29163&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22328&tx_sbbconstructions_list%5Bperiod%5D=17830&type=5679&cHash=ad58961ad65b494c6241d208242c6204)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schraublochsanierung/#con-29163)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -229,26 +249,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28777)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Wuhletal/Ahrensfelde \<\> Lichtenberg ###
-
-Nächte 02./03.04. (Di/Mi) bis 04./05.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29163&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22328&tx_sbbconstructions_list%5Bperiod%5D=17830&type=5679&cHash=ad58961ad65b494c6241d208242c6204)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schraublochsanierung/#con-29163)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -331,6 +331,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Wuhletal/Ahrensfelde \<\> Lichtenberg ###
+
+Nächte 02./03.04. (Di/Mi) bis 04./05.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29163&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22328&tx_sbbconstructions_list%5Bperiod%5D=17830&type=5679&cHash=ad58961ad65b494c6241d208242c6204)
+
+ Takt geändert
+
+Information
+
+* Taktänderung: Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schraublochsanierung/#con-29163)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -407,26 +427,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28777)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Wuhletal/Ahrensfelde \<\> Lichtenberg ###
-
-Nächte 02./03.04. (Di/Mi) bis 04./05.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29163&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22328&tx_sbbconstructions_list%5Bperiod%5D=17830&type=5679&cHash=ad58961ad65b494c6241d208242c6204)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Ahrensfelde \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schraublochsanierung/#con-29163)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
