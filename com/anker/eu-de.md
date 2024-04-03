@@ -26,6 +26,28 @@ Energiegeladen in den Frühling!
 2 mit 20% | 3 mit  25%
 auf smartes Ladezubehör
 
+04
+
+:
+
+Tagen
+
+16
+
+:
+
+Std.
+
+36
+
+:
+
+Min.
+
+59
+
+Sek.
+
 12. März - 7. April 2024
 
 [Jetzt shoppen masterBanner1](https://www.anker.com/eu-de/fruehlings-sale?ref=masterBanner1)
