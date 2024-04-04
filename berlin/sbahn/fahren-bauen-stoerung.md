@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Schönhauser Allee beendet ###
-
- Letztes Update: 12:11 / 04.04.2024
-
-Information
-
-nach einem Polizeieinsatz (unbefugte Person im Gleis) kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
 ### Entschärfung einer Fliegerbombe im Bereich Heidelberger Platz ###
 
- Letztes Update: 09:33 / 04.04.2024
+ Letztes Update: 12:47 / 04.04.2024
 
 Information
 
@@ -31,8 +17,6 @@ Information
 **Bitte beachten Sie:**
 
 Mit Einrichtung des Sperrkreises (nach Abschluss der Evakuierung) wird der Zugverkehr der Linien S41, S42 und S46 zwischen Bundesplatz und Halensee unterbrochen.
-
-Der Zeitpunkt des Evakuierungsabschlusses wird ca. eine Stunde vorher bekannt gegeben.
 
 Die betroffenen Linien S41, S42 und S46 fahren dann wie folgt:
 
