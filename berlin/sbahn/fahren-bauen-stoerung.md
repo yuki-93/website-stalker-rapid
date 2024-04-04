@@ -4,6 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Entschärfung einer Fliegerbombe im Bereich Heidelberger Platz beendet ###
+
+ Letztes Update: 14:54 / 04.04.2024
+
+Information
+
+Nach der Entschärfung einer Fliegerbombe im Bereich Heidelberger Platz kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+*Die Linie S46 verkehrt noch zwischen Königs Wusterhausen und Tempelhof.*
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur am Zug in Friedrichsfelde Ost beendet ###
@@ -17,26 +32,6 @@ Nach einer Reparatur am Zug in Friedrichsfelde Ost kann es auf den Linien S5, S
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Entschärfung einer Fliegerbombe im Bereich Heidelberger Platz ###
-
- Letztes Update: 13:20 / 04.04.2024
-
-Information
-
-Wegen der Entschärfung einer Fliegerbombe im Bereich Heidelberger Platz ist der Zugverkehr der Linien S41, S42 und S46 zwischen Bundesplatz und Halensee unterbrochen.
-
-*Die Linien S41, S42 und S46 verkehren wie folgt:*
-
-* S41: Halensee \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Bundesplatz (im 10-Minuten-Takt)
-* S42: Bundesplatz \> Südkreuz \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Halensee (im 10-Minuten-Takt)
-* S46: Königs Wusterhausen \<\> Tempelhof
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
