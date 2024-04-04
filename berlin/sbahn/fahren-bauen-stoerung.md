@@ -1500,6 +1500,34 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bf-gehrenseestrasse-bahnsteig-dach-und-zugangstreppe-sowie-einbau-aufzug/#con-29253)
 
+[S45](https://sbahn.berlin/fahren/s45/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Flughafen BER/Grünau/Spindlersfeld \<\> Baumschulenweg (Treptower Park/Spandau) ###
+
+17.05. (Fr), ca. 22 Uhr durchgehend bis 24.05. (Fr), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29254&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22417&tx_sbbconstructions_list%5Bperiod%5D=17875&type=5679&cHash=5f440d40eff2013113dfa21ee417345b)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr: Altglienicke/Grünau/Spindlersfeld \<\> Schöneweide \<\> Baumschulenweg
+* kein S-Bahnverkehr: Treptower Park \<\> Warschauer Straße (S9-Kurve), bitte Umfahrung über Ostkreuz (mit Umstieg und Bahnsteigwechsel) nutzen
+* Ersatzverkehr mit Bussen:
+  * Bus S46: Grünau \<\> Baumschulenweg
+  * Bus S47: Spindlersfeld \<\> Baumschulenweg
+  * Bus S9X: Flughafen BER \<\> Baumschulenweg (EXPRESS-Bus)
+  * Bus S9A: Grünbergallee \<\> Baumschulenweg
+
+* Pendelverkehr:
+  * Baumschulenweg \<\> Treptower Park (mit Umsteigen in Plänterwald) jeweils im 10-Minutentakt
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued/#con-29254)
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
  Nur Nachts
