@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S8](https://sbahn.berlin/fahren/s8/)
 
-### unbefugte Person auf der Strecke im Bereich Ostkreuz ###
+### Ersatzverkehr mit Bussen Mühlenbeck-Mönchmühle \<\> Birkenwerder eingestellt ###
 
- Letztes Update: 20:18 / 04.04.2024
+ Letztes Update: 21:17 / 04.04.2024
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugten Person auf der Strecke im Bereich Ostkreuz kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Zugausfällen.
+Der Ersatzverkehr mit Bussen auf der Linie S8 zwischen Mühlenbeck-Mönchmühle \<\> Birkenwerder verkehrt zur Zeit nicht.
 
-Wir bitten um Ihr Verständnis.
+Grund ist ein defekter Bus mit Ölverlust auf der gesamten Strecke.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  keine Verbindung
 
 ### Baumaßnahmen ###
 
