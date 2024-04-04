@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Ersatzverkehr mit Bussen Mühlenbeck-Mönchmühle \<\> Birkenwerder eingestellt ###
-
- Letztes Update: 21:17 / 04.04.2024
-
-Information
-
-Der Ersatzverkehr mit Bussen auf der Linie S8 zwischen Mühlenbeck-Mönchmühle \<\> Birkenwerder verkehrt zur Zeit nicht.
-
-Grund ist ein defekter Bus mit Ölverlust auf der gesamten Strecke.
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
