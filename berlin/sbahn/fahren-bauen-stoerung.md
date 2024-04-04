@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Entschärfung einer Fliegerbombe im Bereich Heidelberger Platz ###
+
+ Letztes Update: 05:47 / 04.04.2024
+
+Information
+
+**Wegen der Entschärfung einer Fliegerbombe im Bereich Heidelberger Platz entfällt für die Linien S41, S42 und S46 ab ca. 09:30 Uhr der Halt in Heidelberger Platz.**
+
+Mit Einrichtung des Sperrkreises (nach Evakuierungsabschluss) wird der Zugverkehr der Linien S41, S42 und S46 zwischen Bundesplatz und Halensee unterbrochen.
+ Der Zeitpunkt des Evakuierungsabschlusses wird eine Stunde vorher bekannt gegeben.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
