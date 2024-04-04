@@ -4,16 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Entschärfung einer Fliegerbombe im Bereich Heidelberger Platz beendet ###
 
- Letztes Update: 14:54 / 04.04.2024
+ Letztes Update: 15:40 / 04.04.2024
 
 Information
 
 Nach der Entschärfung einer Fliegerbombe im Bereich Heidelberger Platz kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-*Die Linie S46 verkehrt noch zwischen Königs Wusterhausen und Tempelhof.*
 
 Wir bitten um Ihr Verständnis.
 
