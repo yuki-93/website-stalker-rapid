@@ -8,14 +8,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Entschärfung einer Fliegerbombe im Bereich Heidelberger Platz ###
 
- Letztes Update: 05:47 / 04.04.2024
+ Letztes Update: 09:33 / 04.04.2024
 
 Information
 
-**Wegen der Entschärfung einer Fliegerbombe im Bereich Heidelberger Platz entfällt für die Linien S41, S42 und S46 ab ca. 09:30 Uhr der Halt in Heidelberger Platz.**
+**Wegen der Entschärfung einer Fliegerbombe im Bereich Heidelberger Platz entfällt für die Linien S41, S42 und S46 der Halt am S+U-Bahnhof Heidelberger Platz.**
 
-Mit Einrichtung des Sperrkreises (nach Evakuierungsabschluss) wird der Zugverkehr der Linien S41, S42 und S46 zwischen Bundesplatz und Halensee unterbrochen.
- Der Zeitpunkt des Evakuierungsabschlusses wird eine Stunde vorher bekannt gegeben.
+**Bitte beachten Sie:**
+
+Mit Einrichtung des Sperrkreises (nach Abschluss der Evakuierung) wird der Zugverkehr der Linien S41, S42 und S46 zwischen Bundesplatz und Halensee unterbrochen.
+
+Der Zeitpunkt des Evakuierungsabschlusses wird ca. eine Stunde vorher bekannt gegeben.
+
+Die betroffenen Linien S41, S42 und S46 fahren dann wie folgt:
+
+* S41: Halensee \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Südkreuz \> Bundesplatz (im 10-Minuten Takt)
+* S42: Bundesplatz \> Südkreuz \> Ostkreuz \> Gesundbrunnen\> Westkreuz \> Halensee (im 10-Minuten-Takt)
+* S46: Königs Wusterhausen \<\> Tempelhof
 
 Wir bitten um Ihr Verständnis.
 
