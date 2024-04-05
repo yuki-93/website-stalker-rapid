@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Änderung Haltestelle SEV S8 Bergfelde ###
+
+ Letztes Update: 15:53 / 05.04.2024
+
+Information
+
+Wegen Straßenschäden halten die Busse des Ersatzverkehrs der Linie S8 zwischen Mühlenbeck-Mönchmühle und Birkenwerder aktuell **nicht Bergfelde, Fichtestr.** sondern **abweichend Hohen Neuendorfer Straße/ Ahornallee**.
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
