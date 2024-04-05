@@ -4,6 +4,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### kurzfristiger Personalausfall im Stellwerk Schöneweide ###
+
+ Letztes Update: 19:23 / 05.04.2024
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls im Stellwerk Schöneweide ist der Zugverkehr der Linien S45, S46, S47, S8 und S9 zwischen Treptower Park/ Baumschulenweg \<\> Altglienicke/ Grünau/ Spindlersfeld am 06.04.2024 in der Zeit von ca. 02:00 Uhr bis ca. 06:00 Uhr unterbrochen.
+
+Die betroffenen Linien verkehren wie folgt:
+
+* S45: Südkreuz \<\> Baumschulenweg
+* S46: Westend/ Südkreuz \<\> Baumschulenweg sowie Grünau \<\> Königs Wusterhausen
+* S47: verkehrt nicht
+* S8: Schönfließ \<\> Treptower Park
+* S9: Spandau \<\> Treptower Park sowie Altglienicke \<\> Flughafen BER
+
+*Ein Ersatzverkehr mit Bussen wird eingerichtet.*
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  Verbindung unterbrochen
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Änderung Haltestelle SEV S8 Bergfelde ###
