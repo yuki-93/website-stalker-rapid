@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall im Stellwerk Schöneweide ###
 
- Letztes Update: 22:00 / 05.04.2024
+ Letztes Update: 23:42 / 05.04.2024
 
 Information
 
@@ -24,7 +24,43 @@ Die betroffenen Linien verkehren wie folgt:
 
 *Ein Ersatzverkehr mit Bussen wird eingerichtet.*
 
-Wir bitten um Entschuldigung.
+*Haltestellen des Ersatzverkehrs:*
+
+***Linie S46***
+
+*\- Baumschulenweg - Köpenicker Landstr./ Baumschulenstr. (Haltestelle Bus 165, N60, N65)*
+
+\- Schöneweide - Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)
+
+\- Adlershof - Adlergestell in Höhe Dörpfeldstr. / Platz der Befreiung (keine Haltestelle)
+
+***Linie S47***
+
+*\- Schöneweide -* Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)Oberspreestr. (Haltestelle "Bärenlauchstraße", Bus 165)
+
+\- Oberspree - Oberspreestr. (Haltestelle "Bärenlauchstraße", Bus 165)
+
+\- Spindlersfeld - Oberspreestr. (Haltestelle Bus 165, N64, N65)
+
+***Linie S9***
+
+*\- Treptower Park - Puschkinallee (Haltestelle Bus 165, 166, 265, N60, N65)*
+
+*\- Plänterwald - Köpenicker Landstr. (Haltestelle Bus 165, 167, N60, N65)*
+
+*\- Baumschulenweg - Köpenicker Landstr./ Baumschulenstr. (Haltestelle Bus 165, N60, N65)*
+
+*\- Schöneweide - Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)*
+
+*\- Adlershof - Adlergestell in Höhe Dörpfeldstr. / Platz der Befreiung (keine Haltestelle)*
+
+*\- Altglienicke - Ewaldstr. / Germanenstr. (Haltestelle Bus 160)*
+
+*\- Grünbergallee - Grünbergallee (Haltestelle Rebenweg, Bus 160)*
+
+*\- Schönefeld - Bahnhofsvorplatz*
+
+*Wir bitten um Entschuldigung.*
 
  Ersatzverkehr  Verbindung unterbrochen
 
