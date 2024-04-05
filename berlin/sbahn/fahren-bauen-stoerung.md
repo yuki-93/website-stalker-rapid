@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall im Stellwerk Schöneweide ###
 
- Letztes Update: 19:23 / 05.04.2024
+ Letztes Update: 22:00 / 05.04.2024
 
 Information
 
@@ -19,7 +19,7 @@ Die betroffenen Linien verkehren wie folgt:
 * S45: Südkreuz \<\> Baumschulenweg
 * S46: Westend/ Südkreuz \<\> Baumschulenweg sowie Grünau \<\> Königs Wusterhausen
 * S47: verkehrt nicht
-* S8: Schönfließ \<\> Treptower Park
+* S8: Schönfließ \<\> Tempelhof (über Ostkreuz, Treptower Park)
 * S9: Spandau \<\> Treptower Park sowie Altglienicke \<\> Flughafen BER
 
 *Ein Ersatzverkehr mit Bussen wird eingerichtet.*
