@@ -4,89 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz Yorckstraße/Großgörschenstraße \<\> Potsdamer Platz ###
-
- Letztes Update: 04:11 / 06.04.2024
-
-Information
-
-Nach einem Polizeieinsatz zwischen Yorckstraße/Großgörschenstraße \<\> Potsdamer Platz kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### kurzfristiger Personalausfall im Stellwerk Schöneweide ###
+### kurzfristiger Personalausfall Stellwerk Schöneweide beendet ###
 
- Letztes Update: 03:15 / 06.04.2024
+ Letztes Update: 05:41 / 06.04.2024
 
 Information
 
-Wegen eines kurzfristigen Personalausfalls im Stellwerk Schöneweide ist der Zugverkehr der Linien S45, S46, S47, S8 und S9 zwischen Treptower Park/ Baumschulenweg \<\> Altglienicke/ Grünau/ Spindlersfeld bis ca. 06:00 Uhr unterbrochen.
+Nach einem kurzfristigen Personalausfall im Stellwerk Schöneweide kommt es auf den Linien S45, S46, S47, S8 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
-Die betroffenen Linien verkehren wie folgt:
+Wir bitten um Entschuldigung.
 
-* S45: Südkreuz \<\> Baumschulenweg
-* S46: Westend/ Südkreuz \<\> Baumschulenweg sowie Grünau \<\> Königs Wusterhausen
-* S47: verkehrt nicht
-* S8: Schönfließ \<\> Tempelhof (über Ostkreuz, Treptower Park)
-* S9: Spandau \<\> Treptower Park sowie Altglienicke \<\> Flughafen BER
-
-*Ein Ersatzverkehr mit Bussen ist eingerichtet.*
-
-*Haltestellen des Ersatzverkehrs:*
-
-***Linie S46***
-
-*\- Baumschulenweg - Köpenicker Landstr./ Baumschulenstr. (Haltestelle Bus 165, N60, N65)*
-
-\- Schöneweide - Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)
-
-\- Adlershof - Adlergestell in Höhe Dörpfeldstr. / Platz der Befreiung (keine Haltestelle)
-
-***Linie S47***
-
-*\- Schöneweide -* Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)Oberspreestr. (Haltestelle "Bärenlauchstraße", Bus 165)
-
-\- Oberspree - Oberspreestr. (Haltestelle "Bärenlauchstraße", Bus 165)
-
-\- Spindlersfeld - Oberspreestr. (Haltestelle Bus 165, N64, N65)
-
-***Linie S9***
-
-*\- Treptower Park - Puschkinallee (Haltestelle Bus 165, 166, 265, N60, N65)*
-
-*\- Plänterwald - Köpenicker Landstr. (Haltestelle Bus 165, 167, N60, N65)*
-
-*\- Baumschulenweg - Köpenicker Landstr./ Baumschulenstr. (Haltestelle Bus 165, N60, N65)*
-
-*\- Schöneweide - Michael-Brückner-Str. (Haltestelle Bus 165, N60, N65)*
-
-*\- Adlershof - Adlergestell in Höhe Dörpfeldstr. / Platz der Befreiung (keine Haltestelle)*
-
-*\- Altglienicke - Ewaldstr. / Germanenstr. (Haltestelle Bus 160)*
-
-*\- Grünbergallee - Grünbergallee (Haltestelle Rebenweg, Bus 160)*
-
-*\- Schönefeld - Bahnhofsvorplatz*
-
-*Wir bitten um Entschuldigung.*
-
- Ersatzverkehr  Verbindung unterbrochen
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Änderung Haltestelle SEV S8 Bergfelde ###
 
- Letztes Update: 15:53 / 05.04.2024
+ Letztes Update: 05:31 / 06.04.2024
 
 Information
 
-Wegen Straßenschäden halten die Busse des Ersatzverkehrs der Linie S8 zwischen Mühlenbeck-Mönchmühle und Birkenwerder aktuell **nicht Bergfelde, Fichtestr.** sondern **abweichend Hohen Neuendorfer Straße/ Ahornallee**.
+Wegen Straßenschäden am S-Bhf. Bergfelde halten die Busse des Ersatzverkehrs der Linie S8 zwischen Mühlenbeck-Mönchmühle und Birkenwerder aktuell **nicht** in **Bergfelde, Fichtestr.** sondern **abweichend** in der **Hohen Neuendorfer Straße/ Ahornallee**.
 
 Wir bitten um Ihr Verständnis.
 
