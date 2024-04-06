@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Änderung Standort Haltestelle in Bergfelde beim Ersatzverkehr mit Bussen ###
 
- Letztes Update: 07:51 / 06.04.2024
+ Letztes Update: 11:20 / 06.04.2024
 
 Information
 
-Wegen Straßenschäden in Bergfelde hält der Ersatzverkehr mit Bussen nicht in Bergfelde, Fichtestr. sondern **abweichend** in der **Hohen Neuendorfer Straße/ Ahornallee**.
+Wegen Straßenschäden **in Bergfelde hält der Ersatzverkehr mit Bussen** für die Linie S8 nicht in der Fichtestr. sondern **abweichend in der Hohen Neuendorfer Straße/ Ahornallee**.
 
 Wir bitten um Ihr Verständnis.
 
