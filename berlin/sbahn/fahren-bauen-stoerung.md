@@ -8,17 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz Yorckstraße/Großgörschenstraße \<\> Potsdamer Platz ###
 
- Letztes Update: 04:02 / 06.04.2024
+ Letztes Update: 04:11 / 06.04.2024
 
 Information
 
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linien S1, S2 und S25 zwischen Yorckstraße/Großgörschenstraße \<\> Potsdamer Platz unterbrochen.
+Nach einem Polizeieinsatz zwischen Yorckstraße/Großgörschenstraße \<\> Potsdamer Platz kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
 
-* Linie S1 verkehrt Wannsee \<\> Großgörschenstraße sowie Potsdamer Platz \<\> Frohnau.
-* Linie S2 verkehrt Priesterweg \<\> Yorckstraße sowie Nordbahnhof \<\> Buch.
-* Linie S25 verkehrt Teltow Stadt \<\> Südkreuz sowie Oranienburger Straße \<\> Hennigsdorf. Wir bitten um Verständnis.
+Wir bitten um Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
