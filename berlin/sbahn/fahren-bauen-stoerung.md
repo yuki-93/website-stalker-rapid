@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz in Hermsdorf beendet ###
+
+ Letztes Update: 22:35 / 06.04.2024
+
+Information
+
+Nach einem Polizeieinsatz in Hermsdorf und der ärztlichen Versorgung eines Fahrgastes im Zug in Anhalter Bahnhof kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### kurzfristiger Personalausfall im Stellwerk Schöneweide ab ca. 18:00 Uhr ###
@@ -19,20 +33,6 @@ Wegen eines kurzfristigen Personalausfalles im Stellwerk Schöneweide kommt es 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Polizeieinsatz in Hermsdorf ###
-
- Letztes Update: 21:52 / 06.04.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in Hermsdorf ist der Zugverkehr der Linie S1 zwischen Waidmannslust und Frohnau unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
