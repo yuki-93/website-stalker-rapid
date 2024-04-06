@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall im Stellwerk Schöneweide ab ca. 18:00 Uhr ###
 
- Letztes Update: 14:30 / 06.04.2024
+ Letztes Update: 14:48 / 06.04.2024
 
 Information
 
-Wegen eines kurzfristigen Personalausfalles im Stellwerk Schöneweide kommt es **ab ca. 18:00 Uhr** zu folgenden Einschränkungen im Zugverkehr auf den Linien S45 und S85:
+Wegen eines kurzfristigen Personalausfalles im Stellwerk Schöneweide kommt es **ab ca. 18:00 Uhr** zu folgenden Einschränkungen im Zugverkehr der Linien S45 und S85:
 
 * Die Linie **S45** verkehrt nur zwischen Südkreuz und Baumschulenweg, *bitte nutzen Sie zwischen Baumschulenweg und Flughafen BER die Linie S9.*
 * Die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Pankow und Schöneweide die Linie S8.*
