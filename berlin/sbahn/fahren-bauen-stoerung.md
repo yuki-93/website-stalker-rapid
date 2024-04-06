@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristiger Personalausfall Stellwerk Schöneweide beendet ###
-
- Letztes Update: 05:41 / 06.04.2024
-
-Information
-
-Nach einem kurzfristigen Personalausfall im Stellwerk Schöneweide kommt es auf den Linien S45, S46, S47, S8 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
-### Änderung Haltestelle SEV S8 Bergfelde ###
+### Änderung SEV-Haltestelle Bergfelde ###
 
- Letztes Update: 05:31 / 06.04.2024
+ Letztes Update: 06:50 / 06.04.2024
 
 Information
 
-Wegen Straßenschäden am S-Bhf. Bergfelde halten die Busse des Ersatzverkehrs der Linie S8 zwischen Mühlenbeck-Mönchmühle und Birkenwerder aktuell **nicht** in **Bergfelde, Fichtestr.** sondern **abweichend** in der **Hohen Neuendorfer Straße/ Ahornallee**.
+Wegen Straßenschäden am S-Bhf. Bergfelde hält der Ersatzverkehr mit Bussen nicht in **Bergfelde, Fichtestr.** sondern **abweichend** in der **Hohen Neuendorfer Straße/ Ahornallee**.
 
 Wir bitten um Ihr Verständnis.
 
