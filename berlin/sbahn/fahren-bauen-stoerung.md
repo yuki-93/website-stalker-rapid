@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall im Stellwerk Schöneweide ###
 
- Letztes Update: 23:42 / 05.04.2024
+ Letztes Update: 03:15 / 06.04.2024
 
 Information
 
-Wegen eines kurzfristigen Personalausfalls im Stellwerk Schöneweide ist der Zugverkehr der Linien S45, S46, S47, S8 und S9 zwischen Treptower Park/ Baumschulenweg \<\> Altglienicke/ Grünau/ Spindlersfeld am 06.04.2024 in der Zeit von ca. 02:00 Uhr bis ca. 06:00 Uhr unterbrochen.
+Wegen eines kurzfristigen Personalausfalls im Stellwerk Schöneweide ist der Zugverkehr der Linien S45, S46, S47, S8 und S9 zwischen Treptower Park/ Baumschulenweg \<\> Altglienicke/ Grünau/ Spindlersfeld bis ca. 06:00 Uhr unterbrochen.
 
 Die betroffenen Linien verkehren wie folgt:
 
@@ -22,7 +22,7 @@ Die betroffenen Linien verkehren wie folgt:
 * S8: Schönfließ \<\> Tempelhof (über Ostkreuz, Treptower Park)
 * S9: Spandau \<\> Treptower Park sowie Altglienicke \<\> Flughafen BER
 
-*Ein Ersatzverkehr mit Bussen wird eingerichtet.*
+*Ein Ersatzverkehr mit Bussen ist eingerichtet.*
 
 *Haltestellen des Ersatzverkehrs:*
 
