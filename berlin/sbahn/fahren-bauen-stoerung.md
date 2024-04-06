@@ -4,22 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S85](https://sbahn.berlin/fahren/s85/)
+[S45](https://sbahn.berlin/fahren/s45/)
 
 ### kurzfristiger Personalausfall im Stellwerk Schöneweide ab ca. 18:00 Uhr ###
 
- Letztes Update: 18:07 / 06.04.2024
+ Letztes Update: 22:09 / 06.04.2024
 
 Information
 
 Wegen eines kurzfristigen Personalausfalles im Stellwerk Schöneweide kommt es zu folgenden Einschränkungen im Zugverkehr der Linien S45 und S85:
 
 * Die Linie **S45** verkehrt nur zwischen Südkreuz und Baumschulenweg, *bitte nutzen Sie zwischen Baumschulenweg und Flughafen BER die Linie S9.*
-* Die Linie **S85** verkehrt nicht, *bitte nutzen Sie zwischen Pankow und Schöneweide die Linie S8.*
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz in Hermsdorf ###
+
+ Letztes Update: 21:52 / 06.04.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Hermsdorf ist der Zugverkehr der Linie S1 zwischen Waidmannslust und Frohnau unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
