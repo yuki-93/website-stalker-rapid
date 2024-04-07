@@ -4,18 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S85](https://sbahn.berlin/fahren/s85/)
+[S9](https://sbahn.berlin/fahren/s9/)
 
-### kurzfristiger Personalausfall im Stellwerk Schöneweide ###
+### Reparatur an einer Weiche in Treptower Park ###
 
- Letztes Update: 18:08 / 07.04.2024
+ Letztes Update: 22:13 / 07.04.2024
 
 Information
 
-Wegen eines kurzfristigen Personalausfalles im Stellwerk Schöneweide kommt es zu folgenden Einschränkungen im Zugverkehr der Linien S45 und S85:
+Wegen der Reparatur an einer Weiche in Treptower Park kommt es zu Einschränkungen im Zugverkehr der Linie S9:
+
+* Die Linie S9 verkehrt zwischen Spandau \<\> Ostbahnhof sowie Treptower Park \<\> Flughafen BER, bitte nutzen Sie zwischen Ostbahnhof und Ostkreuz die Linien S3, S5 und S7 sowie zwischen Ostkreuz und Treptower Park die Linien S41, S42 und S8.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### kurzfristiger Personalausfall im Stellwerk Schöneweide ###
+
+ Letztes Update: 21:54 / 07.04.2024
+
+Information
+
+Wegen eines kurzfristigen Personalausfalles im Stellwerk Schöneweide kommt es zu folgenden Einschränkungen im Zugverkehr der Linie S45:
 
 * Die Linie **S45** verkehrt nur zwischen Südkreuz und Baumschulenweg, *bitte nutzen Sie zwischen Baumschulenweg und Flughafen BER die Linie S9.*
-* Die Linie **S85** verkehrt nicht*, bitte nutzen Sie zwischen Pankow und Schöneweide die Linie S8.*
 
 Wir bitten um Entschuldigung.
 
