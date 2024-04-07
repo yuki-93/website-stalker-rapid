@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### technischer Defekt an einem Bahnübergang in Hoppegarten ###
-
- Letztes Update: 18:43 / 07.04.2024
-
-Information
-
-Wegen eines technischen Defekt an einem Bahnübergang in Hoppegarten kommt es auf der Linie S5 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### kurzfristiger Personalausfall im Stellwerk Schöneweide ###
