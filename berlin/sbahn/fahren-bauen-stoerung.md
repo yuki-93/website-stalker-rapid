@@ -4,35 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz in Hermsdorf beendet ###
+### Gegenstände auf der Strecke Gesundbrunnen \<\> Humboldthain entfernt ###
 
- Letztes Update: 22:35 / 06.04.2024
+ Letztes Update: 03:24 / 07.04.2024
 
 Information
 
-Nach einem Polizeieinsatz in Hermsdorf und der ärztlichen Versorgung eines Fahrgastes im Zug in Anhalter Bahnhof kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
+Nach Gegenstände auf der Strecke zwischen Gesundbrunnen \<\> Humboldthain kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
 
-Wir bitten um Verständnis.
+Wir bittennum Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### kurzfristiger Personalausfall im Stellwerk Schöneweide ab ca. 18:00 Uhr ###
-
- Letztes Update: 22:09 / 06.04.2024
-
-Information
-
-Wegen eines kurzfristigen Personalausfalles im Stellwerk Schöneweide kommt es zu folgenden Einschränkungen im Zugverkehr der Linien S45 und S85:
-
-* Die Linie **S45** verkehrt nur zwischen Südkreuz und Baumschulenweg, *bitte nutzen Sie zwischen Baumschulenweg und Flughafen BER die Linie S9.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 [S8](https://sbahn.berlin/fahren/s8/)
 

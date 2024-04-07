@@ -26,25 +26,25 @@ Energiegeladen in den Frühling!
 2 mit 20% | 3 mit  25%
 auf smartes Ladezubehör
 
-01
+00
 
 :
 
 Tagen
 
-01
+23
 
 :
 
 Std.
 
-41
+29
 
 :
 
 Min.
 
-36
+25
 
 Sek.
 
