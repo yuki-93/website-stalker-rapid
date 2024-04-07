@@ -15,7 +15,7 @@ Frühlingssale: 2 kaufen, 20% sparen. 3 kaufen, 25% sparen. Auf das komplette La
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Balkonkraftwerk Produkteinführung](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Anker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)[Frühlingssale](https://www.anker.com/eu-de/fruehlings-sale)
+ProdukteNach KategorieNeuerscheinungenAngebote[Anker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=naviMenu)[Frühlingssale](https://www.anker.com/eu-de/fruehlings-sale?ref=naviMenu)
 
 Hilfe
 
@@ -32,19 +32,19 @@ auf smartes Ladezubehör
 
 Tagen
 
-22
+21
 
 :
 
 Std.
 
-33
+40
 
 :
 
 Min.
 
-23
+48
 
 Sek.
 
@@ -316,7 +316,7 @@ Anker Solix
 9:00 Uhr bis 17:00 Uhr
 Montag bis Freitag
 
-[support@anker.com](mailto:support@anker.com)
+[support@anker.com](https://www.anker.com/eu-demailto:support@anker.com)
 
 Bei Anker bestellen
 
