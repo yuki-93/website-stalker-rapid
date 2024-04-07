@@ -32,19 +32,19 @@ auf smartes Ladezubehör
 
 Tagen
 
-21
+20
 
 :
 
 Std.
 
-40
+37
 
 :
 
 Min.
 
-48
+26
 
 Sek.
 
@@ -316,7 +316,7 @@ Anker Solix
 9:00 Uhr bis 17:00 Uhr
 Montag bis Freitag
 
-[support@anker.com](https://www.anker.com/eu-demailto:support@anker.com)
+[support@anker.com](mailto:support@anker.com)
 
 Bei Anker bestellen
 
