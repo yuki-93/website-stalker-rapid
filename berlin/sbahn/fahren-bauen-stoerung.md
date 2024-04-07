@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### kurzfristiger Personalausfall im Stellwerk Schöneweide ab ca. 18:00 Uhr ###
+### kurzfristiger Personalausfall im Stellwerk Schöneweide ###
 
- Letztes Update: 12:34 / 07.04.2024
+ Letztes Update: 18:08 / 07.04.2024
 
 Information
 
-Wegen eines kurzfristigen Personalausfalles im Stellwerk Schöneweide kommt es **heute ab ca. 18:00 Uhr** zu folgenden Einschränkungen im Zugverkehr der Linien S45 und S85:
+Wegen eines kurzfristigen Personalausfalles im Stellwerk Schöneweide kommt es zu folgenden Einschränkungen im Zugverkehr der Linien S45 und S85:
 
 * Die Linie **S45** verkehrt nur zwischen Südkreuz und Baumschulenweg, *bitte nutzen Sie zwischen Baumschulenweg und Flughafen BER die Linie S9.*
 * Die Linie **S85** verkehrt nicht*, bitte nutzen Sie zwischen Pankow und Schöneweide die Linie S8.*
@@ -20,6 +20,20 @@ Wegen eines kurzfristigen Personalausfalles im Stellwerk Schöneweide kommt es 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einer Weiche in Erkner ###
+
+ Letztes Update: 18:07 / 07.04.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Erkner kann der 10-Minuten-Takt auf der Linie S3 nur zwischen Ostbahnhof \<\> Friedrichshagen angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
 
 [S8](https://sbahn.berlin/fahren/s8/)
 

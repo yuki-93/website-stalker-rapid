@@ -32,19 +32,19 @@ auf smartes Ladezubehör
 
 Tagen
 
-09
+08
 
 :
 
 Std.
 
-40
+38
 
 :
 
 Min.
 
-44
+28
 
 Sek.
 
