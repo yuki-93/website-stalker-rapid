@@ -4,43 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einer Weiche in Treptower Park ###
-
- Letztes Update: 22:13 / 07.04.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Treptower Park kommt es zu Einschränkungen im Zugverkehr der Linie S9:
-
-* Die Linie S9 verkehrt zwischen Spandau \<\> Ostbahnhof sowie Treptower Park \<\> Flughafen BER, bitte nutzen Sie zwischen Ostbahnhof und Ostkreuz die Linien S3, S5 und S7 sowie zwischen Ostkreuz und Treptower Park die Linien S41, S42 und S8.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unterbrochen
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### kurzfristiger Personalausfall im Stellwerk Schöneweide ###
-
- Letztes Update: 21:54 / 07.04.2024
-
-Information
-
-Wegen eines kurzfristigen Personalausfalles im Stellwerk Schöneweide kommt es zu folgenden Einschränkungen im Zugverkehr der Linie S45:
-
-* Die Linie **S45** verkehrt nur zwischen Südkreuz und Baumschulenweg, *bitte nutzen Sie zwischen Baumschulenweg und Flughafen BER die Linie S9.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Änderung Standort Haltestelle in Bergfelde beim Ersatzverkehr mit Bussen ###
 
- Letztes Update: 11:20 / 06.04.2024
+ Letztes Update: 01:02 / 08.04.2024
 
 Information
 
@@ -49,6 +17,22 @@ Wegen Straßenschäden **in Bergfelde hält der Ersatzverkehr mit Bussen** für 
 Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr  sonstige Einschränkungen
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einer Weiche in Treptower Park ###
+
+ Letztes Update: 00:58 / 08.04.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Treptower Park kommt es zu Einschränkungen im Zugverkehr auf der Linie S9:
+
+* Die Linie S9 verkehrt zwischen Spandau \<\> Ostbahnhof sowie Treptower Park \<\> Flughafen BER, bitte nutzen Sie zwischen Ostbahnhof und Ostkreuz die Linien S3, S5 und S7 sowie zwischen Ostkreuz und Treptower Park die Linien S41, S42 und S8.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
