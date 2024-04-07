@@ -6,15 +6,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### Gegenstände auf der Strecke Gesundbrunnen \<\> Humboldthain entfernt ###
+### Gegenstände auf der Strecke in Humboldthain ###
 
- Letztes Update: 03:24 / 07.04.2024
+ Letztes Update: 04:14 / 07.04.2024
 
 Information
 
-Nach Gegenstände auf der Strecke zwischen Gesundbrunnen \<\> Humboldthain kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
+Wegen Gegenstände auf der Strecke in Humboldthain ist der Zugverkehr der Linien S1, S2 und S25 zwischen Bornholmer Straße \<\> Nordbahnhof unterbrochen.
 
-Wir bittennum Verständnis.
+* Linie S1 verkehrt Wannsee \<\> Nordbahnhof sowie Wollankstraße \<\> Frohnau
+* Linie S2 verkehrt Priesterweg \<\> Nordbahnhof sowie Bornholmer Straße \<\> Buch
+* Linie S25 verkehrt Teltow Stadt \<\> Nordbahnhof sowie Schönholz \<\> Hennigsdorf
+
+Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
