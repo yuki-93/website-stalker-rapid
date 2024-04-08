@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Änderung Standort Haltestelle in Bergfelde beim Ersatzverkehr mit Bussen ###
+
+ Letztes Update: 21:07 / 08.04.2024
+
+Information
+
+Wegen Straßenschäden **in Bergfelde hält der Ersatzverkehr mit Bussen** für die Linie S8 nicht in der Fichtestr. sondern **abweichend in der Hohen Neuendorfer Straße/ Ahornallee**.
+
+Wir bitten um Ihr Verständnis.
+
+ Ersatzverkehr  sonstige Einschränkungen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur am Stellwerk in Baumschulenweg beendet ###
@@ -21,48 +35,6 @@ Nach der Reparatur am Stellwerk in Baumschulenweg kommt es auf den Linien S41 u
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Signal in Hackescher Markt ###
-
- Letztes Update: 18:52 / 08.04.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linie S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur am Zug in Friedenau beendet ###
-
- Letztes Update: 18:30 / 08.04.2024
-
-Information
-
-Nach der Reparatur am Zug in Friedenau kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Änderung Standort Haltestelle in Bergfelde beim Ersatzverkehr mit Bussen ###
-
- Letztes Update: 03:35 / 08.04.2024
-
-Information
-
-Wegen Straßenschäden **in Bergfelde hält der Ersatzverkehr mit Bussen** für die Linie S8 nicht in der Fichtestr. sondern **abweichend in der Hohen Neuendorfer Straße/ Ahornallee**.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
