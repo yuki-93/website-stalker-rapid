@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### ärztliche Versorgung eines Fahrgastes in Sonnenallee beendet ###
+
+ Letztes Update: 14:58 / 08.04.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Sonnenallee kommt es auf der Linie S41, S8 und S85 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Änderung Standort Haltestelle in Bergfelde beim Ersatzverkehr mit Bussen ###
