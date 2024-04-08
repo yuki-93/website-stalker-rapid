@@ -26,28 +26,6 @@ Energiegeladen in den Frühling!
 2 mit 20% | 3 mit  25%
 auf smartes Ladezubehör
 
-00
-
-:
-
-Tagen
-
-01
-
-:
-
-Std.
-
-40
-
-:
-
-Min.
-
-25
-
-Sek.
-
 [Jetzt shoppen masterBanner1](https://www.anker.com/eu-de/fruehlings-sale?ref=masterBanner1)
 
 Neuerscheinungen
