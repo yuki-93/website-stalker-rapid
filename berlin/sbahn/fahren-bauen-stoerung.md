@@ -4,29 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)
 
-### Defektes Stellwerk in Baumschulenweg ###
+### Reparatur am Zug in Friedenau ###
 
- Letztes Update: 17:16 / 08.04.2024
+ Letztes Update: 18:03 / 08.04.2024
 
 Information
 
-Wegen eines defekten Stellwerk in Baumschulenweg sind die Linien S45, S46, S47, S8, S85 und S9 derzeit zwischen Treptower Park / Neukölln \<\> Schöneweide unterbrochen. Es kommt zu Verspätungen und Ausfällen sowie zu nachfolgenden Einschränkungen:
+Wegen der Reparatur am Zug in Friedenau kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
 
-\- Linie S45 verkehrt zwischen Schöneweide \<\> Flughafen BER
+Wir bitten um Entschuldigung.
 
-\- Linie S46 verkehrt zwischen Schöneweide \<\> Königs Wusterhausen
+ Zugverkehr verändert  Verbindung verspätet
 
-\- Linie S47 verkehrt zwischen Schöneweide \<\> Spindlersfeld
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-\- Linie S8 verkehrt zwischen Birkenwerder \<\> Ostkreuz.
+### Reparatur am Stellwerk in Baumschulenweg beendet ###
 
-\- Die Linie 85 verkehrt nicht.
+ Letztes Update: 17:20 / 08.04.2024
 
-\- Linie S9 verkehrt zwischen Spandau \<\> Treptower Park und Schöneweide \<\> Flughafen BER.
+Information
 
-Bitte nutzen Sie zur Umfahrung auch die Züge des FEX zwischen Ostkreuz \<\> Schöneweide. Die Züge halten außerplanmäig in Schöneweide.
+Nach der Reparatur am Stellwerk in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8 und S9 noch zu Verspätungen und Ausfällen sowie zu nachfolgenden Einschränkungen:
+
+\- die Linie S47 verkehrt zwischen Schöneweide \<\> Spindlersfeld,
+
+\- die Linie 85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
