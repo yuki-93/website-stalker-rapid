@@ -18,24 +18,6 @@ Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr  sonstige Einschränkungen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Stellwerk in Baumschulenweg beendet ###
-
- Letztes Update: 19:19 / 08.04.2024
-
-Information
-
-Nach der Reparatur am Stellwerk in Baumschulenweg kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen sowie zu nachfolgenden Einschränkungen:
-
-\- die Linie S47 verkehrt zwischen Schöneweide \<\> Spindlersfeld,
-
-\- die Linie 85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
