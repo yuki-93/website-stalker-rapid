@@ -4,15 +4,41 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Sonnenallee beendet ###
+### Defektes Stellwerk in Baumschulenweg ###
 
- Letztes Update: 14:58 / 08.04.2024
+ Letztes Update: 16:19 / 08.04.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Sonnenallee kommt es auf der Linie S41, S8 und S85 noch zu Verspätungen und Ausfällen.
+Wegen eines defekten Stellwerk in Baumschulenweg sind die Linien S45, S46, S47, S8, S85 und S9 unterbrochen, es kommt zu Verspätungen und Ausfällen sowie zu nachfolgenden Einschränkungen:
+
+\- Linie S45 verkehrt zwischen Schöneweide \<\> Flughafen BER
+
+\- Linie S46 verkehrt zwischen Schöneweide \<\> Königs Wusterhausen
+
+\- Linie S47 verkehrt zwischen Schöneweide \<\> Spindlersfeld
+
+\- Linie S8 verkehrt zwischen Birkenwerder \<\> Ostkreuz.
+
+\- Die Linie 85 verkehrt nicht.
+
+\- Linie S9 verkehrt zwischen Spandau \<\> Treptower Park und Schöneweide \<\> Flughafen BER.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)
+
+### ärztliche Versorgung eines Fahrgastes in Sonnenallee beendet ###
+
+ Letztes Update: 15:30 / 08.04.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes in Sonnenallee kommt es auf der Linie S41 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
