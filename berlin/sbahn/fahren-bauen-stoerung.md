@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Defektes Stellwerk in Baumschulenweg ###
 
- Letztes Update: 16:19 / 08.04.2024
+ Letztes Update: 17:16 / 08.04.2024
 
 Information
 
-Wegen eines defekten Stellwerk in Baumschulenweg sind die Linien S45, S46, S47, S8, S85 und S9 unterbrochen, es kommt zu Verspätungen und Ausfällen sowie zu nachfolgenden Einschränkungen:
+Wegen eines defekten Stellwerk in Baumschulenweg sind die Linien S45, S46, S47, S8, S85 und S9 derzeit zwischen Treptower Park / Neukölln \<\> Schöneweide unterbrochen. Es kommt zu Verspätungen und Ausfällen sowie zu nachfolgenden Einschränkungen:
 
 \- Linie S45 verkehrt zwischen Schöneweide \<\> Flughafen BER
 
@@ -26,21 +26,25 @@ Wegen eines defekten Stellwerk in Baumschulenweg sind die Linien S45, S46, S47, 
 
 \- Linie S9 verkehrt zwischen Spandau \<\> Treptower Park und Schöneweide \<\> Flughafen BER.
 
-Wir bitten um Verständnis.
+Bitte nutzen Sie zur Umfahrung auch die Züge des FEX zwischen Ostkreuz \<\> Schöneweide. Die Züge halten außerplanmäig in Schöneweide.
 
- Zugverkehr verändert  sonstige Einschränkungen
+Wir bitten um Entschuldigung.
 
-[S41](https://sbahn.berlin/fahren/s41/)
+ Zugverkehr verändert  Verbindung unregelmäßig
 
-### ärztliche Versorgung eines Fahrgastes in Sonnenallee beendet ###
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
- Letztes Update: 15:30 / 08.04.2024
+### Reparatur am Signal in Hackescher Markt ###
+
+ Letztes Update: 16:53 / 08.04.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes in Sonnenallee kommt es auf der Linie S41 noch zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linie S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Verständnis.
+Die Linie S3 verkehrt zwischen Ostbahnhof \<\> Charlottenburg derzeit im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung verspätet
 
