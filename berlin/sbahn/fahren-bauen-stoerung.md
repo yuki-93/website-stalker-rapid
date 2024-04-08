@@ -4,6 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Ausfall der Verstärkerzüge auf der Linie S5 ###
+
+ Letztes Update: 05:25 / 08.04.2024
+
+Information
+
+Wegen verspäteter Bereitstellung fallen die Verstärkerzüge auf der Linie S5 zwischen Mahlsdorf und Warschauer Straße aus.
+
+Dies betrifft folgende Fahrten:
+
+* S Mahlsdorf ab (zu den Minuten): 16, 36, 56 nach Warschauer Straße
+* S+U Warschauer Straße ab (zu den Minuten): 09, 29, 49 nach Mahlsdorf
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Änderung Standort Haltestelle in Bergfelde beim Ersatzverkehr mit Bussen ###
