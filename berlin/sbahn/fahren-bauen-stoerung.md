@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur am Zug in Friedenau ###
-
- Letztes Update: 18:03 / 08.04.2024
-
-Information
-
-Wegen der Reparatur am Zug in Friedenau kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S47](https://sbahn.berlin/fahren/s47/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur am Stellwerk in Baumschulenweg beendet ###
 
- Letztes Update: 17:20 / 08.04.2024
+ Letztes Update: 19:19 / 08.04.2024
 
 Information
 
-Nach der Reparatur am Stellwerk in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8 und S9 noch zu Verspätungen und Ausfällen sowie zu nachfolgenden Einschränkungen:
+Nach der Reparatur am Stellwerk in Baumschulenweg kommt es auf den Linien S41 und S42 noch zu Verspätungen und Ausfällen sowie zu nachfolgenden Einschränkungen:
 
 \- die Linie S47 verkehrt zwischen Schöneweide \<\> Spindlersfeld,
 
@@ -34,23 +20,35 @@ Nach der Reparatur am Stellwerk in Baumschulenweg kommt es auf den Linien S45, 
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung verspätet
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur am Signal in Hackescher Markt ###
 
- Letztes Update: 16:53 / 08.04.2024
+ Letztes Update: 18:52 / 08.04.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linie S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
-
-Die Linie S3 verkehrt zwischen Ostbahnhof \<\> Charlottenburg derzeit im 20-Minuten-Takt.
+Nach der Reparatur an einem Signal in Hackescher Markt kommt es auf den Linie S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung verspätet
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur am Zug in Friedenau beendet ###
+
+ Letztes Update: 18:30 / 08.04.2024
+
+Information
+
+Nach der Reparatur am Zug in Friedenau kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S8](https://sbahn.berlin/fahren/s8/)
 
