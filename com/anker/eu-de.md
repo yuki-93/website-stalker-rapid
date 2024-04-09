@@ -17,6 +17,17 @@ Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
+Grün shoppen
+und Carbon Points sammeln!
+
+Sammle pünktlich zum Tag der Erde Carbon Points,
+indem du Geschenke kaufst, die der Umwelt etwas
+zurückgeben.
+
+8. - 22. April 2024
+
+[Jetzt mitmachenmasterBanner1](https://www.anker.com/eu-de/tag-der-erde-sale?ref=masterBanner1)
+
 Neuerscheinungen
 
 Anker MagGo
@@ -26,13 +37,13 @@ Click it, Charge it - Doppelter Speed.
 Die kabellose 15W-Ladeserie für
 blitzschnelle magnetische Power
 
-[Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner1)
+[Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner2)
 
 Das erste 2000W-Balkonkraftwerkmit Speicher der Welt
 
 Solarpower maximierenheißt Tag und Nacht sparen
 
-[Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/products/solarbank-dual-system-b17c0?ref=masterBanner2)
+[Jetzt kaufenmasterBanner3](https://www.anker.com/eu-de/products/solarbank-dual-system-b17c0?ref=masterBanner3)
 
 Mehr erfahren
 
@@ -102,19 +113,19 @@ Entdecke Anker Innovations
 
   Click it, Charge it - Doppelter Speed.
 
-  [Jetzt kaufenAnker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=productBanner7_1)
+  [Jetzt kaufenAnker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=productBanner8_1)
 
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner7_2)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner8_2)
 
 * ### Anker SOLIX C800 Plus Tragbare Powerstation ###
 
   Power für strahlende Momente unterwegs
 
-  [Jetzt kaufenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/products/a1754?ref=productBanner7_3)
+  [Jetzt kaufenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/products/a1754?ref=productBanner8_3)
 
 Was macht Anker so besonders?
 ----------
