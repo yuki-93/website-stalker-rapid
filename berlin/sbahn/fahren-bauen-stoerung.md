@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S47](https://sbahn.berlin/fahren/s47/)
+
+### Reparatur am Stellwerk in Grünau ###
+
+ Letztes Update: 14:13 / 09.04.2024
+
+Information
+
+Wegen der Reparatur am Stellwerk in Grünau verkehrt die Linie S47 derzeit zwischen Schöneweide \<\> Spindlersfeld.
+
+Bitte nutzen Sie zwischen Hermannstraße \<\> Schöneweide die Linien S45 und S46.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Änderung Standort Haltestelle in Bergfelde beim Ersatzverkehr mit Bussen ###
