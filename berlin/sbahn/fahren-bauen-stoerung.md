@@ -4,27 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz im Bereich Pankow beendet ###
-
- Letztes Update: 20:07 / 09.04.2024
-
-Information
-
-Nach einem Polizeieinsatz im Bereich Pankow kommt es auf den Linien S2, S26 und S8 noch zu Verspätungen.
-
-Die Linie S85 verkehrt nicht.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Änderung Standort Haltestelle in Bergfelde beim Ersatzverkehr mit Bussen ###
 
- Letztes Update: 21:07 / 08.04.2024
+ Letztes Update: 21:05 / 09.04.2024
 
 Information
 
@@ -33,6 +17,22 @@ Wegen Straßenschäden **in Bergfelde hält der Ersatzverkehr mit Bussen** für 
 Wir bitten um Ihr Verständnis.
 
  Ersatzverkehr  sonstige Einschränkungen
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz im Bereich Pankow beendet ###
+
+ Letztes Update: 21:05 / 09.04.2024
+
+Information
+
+Nach einem Polizeieinsatz im Bereich Pankow kann es auf den Linien S2, S25, S26 und S8 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
