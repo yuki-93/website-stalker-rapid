@@ -11,7 +11,7 @@ Anker MagGo, Click it, Charge it - Doppelter Speed.
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Balkonkraftwerk Produkteinführung](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Anker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Anker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=naviMenu)[Tag Der Erde | Sale](https://www.anker.com/eu-de/tag-der-erde-sale?ref=naviMenu)
 
 Hilfe
 
