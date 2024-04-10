@@ -2,57 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Reparatur an einem Signal in Priesterweg beendet ###
-
- Letztes Update: 20:00 / 10.04.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Priesterweg kommt es auf den Linien S2 und S26 noch zu folgenden Einschränkungen:
-
-* **Linie S2:** verkehrt nur im 20-Minuten-Takt
-* **Linie S26:** verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### umgestürzter Baum auf der Strecke im Bereich Tempelhof beseitigt ###
-
- Letztes Update: 19:37 / 10.04.2024
-
-Information
-
-Nach der Beseitigung eines umgestürzten Baumes auf der Strecke im Bereich Tempelhof kommt es auf den Linien S41 und S42 noch zu folgenden Einschränkungen:
-
-* die **Linien S41/42** fahren nur im 10-Minuten-Takt
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal zwischen Wannsee und Griebnitzsee ###
-
- Letztes Update: 18:48 / 10.04.2024
-
-Information
-
-Wegen der Reparatur an einem Signal zwischen Wannsee und Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und folgenden Einschränkungen:
-
-* die Linie S7 verkehrt zwischen Grunewald und Potsdam Hbf. nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
