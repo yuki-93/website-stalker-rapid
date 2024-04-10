@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Änderung Standort Haltestelle in Bergfelde beim Ersatzverkehr mit Bussen ###
-
- Letztes Update: 21:05 / 09.04.2024
-
-Information
-
-Wegen Straßenschäden **in Bergfelde hält der Ersatzverkehr mit Bussen** für die Linie S8 nicht in der Fichtestr. sondern **abweichend in der Hohen Neuendorfer Straße/ Ahornallee**.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
