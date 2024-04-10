@@ -4,6 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz in Grünau ###
+
+ Letztes Update: 14:49 / 10.04.2024
+
+Information
+
+Wegen eines Polizeieinsatzes in Grünau ist der Zugverkehr der Linien S46, S8 und S85 im Bereich Grünau eingestellt worden.
+
+Die betroffenen Linien fahren wie folgt:
+
+* **Linie S46:** Westend \<\> Schöneweide und Zeuthen \<\> Königs Wusterhausen
+* **Linie S8:** Schönfließ \<\> Schöneweide
+* **Linie S85:** verkehrt nicht
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
 ### umgestürzter Baum auf der Strecke im Bereich Tempelhof ###
