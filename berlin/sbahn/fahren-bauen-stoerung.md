@@ -4,15 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Polizeieinsatz in Lichtenberg beendet ###
+### Reparatur an einem Signal in Priesterweg ###
 
- Letztes Update: 16:22 / 10.04.2024
+ Letztes Update: 18:21 / 10.04.2024
 
 Information
 
-Nach einem Polizeieinsatz in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und vereinzelten Ausfällen.
+Wegen der Reparatur an einem Signal in Priesterweg kommt es auf den Linien S2, S25 und S26 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* **Linie S2:** verkehrt nur im 20-Minuten-Takt
+* **Linie S26:** verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Lichtenberg beendet, Reparatur an einer Weiche in Charlottenburg ###
+
+ Letztes Update: 17:46 / 10.04.2024
+
+Information
+
+Nach einem Polizeieinsatz in Lichtenberg und wegen der Reparatur an einer Weiche in Charlottenburg kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
