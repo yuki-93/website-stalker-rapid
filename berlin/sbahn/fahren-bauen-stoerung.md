@@ -4,65 +4,49 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz in Grünau ###
+### Polizeieinsatz in Lichtenberg ###
 
- Letztes Update: 14:49 / 10.04.2024
+ Letztes Update: 16:13 / 10.04.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Grünau ist der Zugverkehr der Linien S46, S8 und S85 im Bereich Grünau eingestellt worden.
-
-Die betroffenen Linien fahren wie folgt:
-
-* **Linie S46:** Westend \<\> Schöneweide und Zeuthen \<\> Königs Wusterhausen
-* **Linie S8:** Schönfließ \<\> Schöneweide
-* **Linie S85:** verkehrt nicht
+Wegen eines Polizeieinsatzes in Lichtenberg fahren die Züge der Linien S5, S7 und S75 ohne Halt durch.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ sonstige Einschränkungen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
-### umgestürzter Baum auf der Strecke im Bereich Tempelhof ###
+### umgestürzter Baum auf der Strecke im Bereich Tempelhof beseitigt ###
 
- Letztes Update: 13:23 / 10.04.2024
+ Letztes Update: 15:57 / 10.04.2024
 
 Information
 
-Wegen eines umgestürzten Baumes auf der Strecke im Bereich Tempelhof kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach der Beseitigung eines umgestürzten Baumes auf der Strecke im Bereich Tempelhof kommt es auf den Linien S41 und S42 noch zu Verspätungen und nachfolgenden Einschränkungen:
 
-* **Linien S41/42**: der Zugverkehr ist zwischen Tempelhof \<\> Südkreuz \<\> Schöneberg unterbrochen, Zugverkehr nur im 10--Minuten-Takt
-* **Linie S46:** verkehrt planmäßig.
-* **Linie S45:** verkehrt nur zwischen Flughafen BER \<\> Schöneweide, bitte benutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.
-* **Linie S47:** verkehrt planmäßig
-
-Bitte nutzen Sie zur weiträumigen Umfahrung:
-
-* zwischen Westkreuz und Ostkreuz die S-Bahnlinien S3, S5, S7 und S9
-* die U-Bahnlinien U6, U7, U8 und U9
+* **Linien S41/42**: Zugverkehr nur im 10--Minuten-Takt
 
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen
 
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+[S85](https://sbahn.berlin/fahren/s85/)
 
-### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Spandau ###
+### Polizeieinsatz in Grünau beendet ###
 
- Letztes Update: 12:51 / 10.04.2024
+ Letztes Update: 15:47 / 10.04.2024
 
 Information
 
-Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Spandau kommt es auf den Linien S3 und S 9 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+Nach einem Polizeieinsatz in Grünau verkehrt nicht die **Linie S85 nicht**.
 
-* Die Linie S9 verkehrt Flughafen BER \<\> Olympiastadion, bitte nutzen Sie zwischen Olympiastadion und Spandau die Linie S3.
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  sonstige Einschränkungen
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
