@@ -4,6 +4,30 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### umgestürzter Baum auf der Strecke im Bereich Tempelhof ###
+
+ Letztes Update: 13:23 / 10.04.2024
+
+Information
+
+Wegen eines umgestürzten Baumes auf der Strecke im Bereich Tempelhof kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* **Linien S41/42**: der Zugverkehr ist zwischen Tempelhof \<\> Südkreuz \<\> Schöneberg unterbrochen, Zugverkehr nur im 10--Minuten-Takt
+* **Linie S46:** verkehrt planmäßig.
+* **Linie S45:** verkehrt nur zwischen Flughafen BER \<\> Schöneweide, bitte benutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.
+* **Linie S47:** verkehrt planmäßig
+
+Bitte nutzen Sie zur weiträumigen Umfahrung:
+
+* zwischen Westkreuz und Ostkreuz die S-Bahnlinien S3, S5, S7 und S9
+* die U-Bahnlinien U6, U7, U8 und U9
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Spandau ###
@@ -19,25 +43,6 @@ Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Spa
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  sonstige Einschränkungen
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### umgestürzter Baum auf der Strecke im Bereich Tempelhof ###
-
- Letztes Update: 12:50 / 10.04.2024
-
-Information
-
-Wegen eines umgestürzten Baumes auf der Strecke im Bereich Tempelhof kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* **Linien S41/42**: der Zugverkehr ist zwischen Tempelhof \<\> Südkreuz \<\> Schöneberg unterbrochen, Zugverkehr nur im 10--Minuten-Takt
-* **Linie S46:** verkehrt planmäßig.
-* **Linie S45:** verkehrt nur zwischen Flughafen BER \<\> Schöneweide, bitte benutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.
-* **Linie S47:** verkehrt planmäßig.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
