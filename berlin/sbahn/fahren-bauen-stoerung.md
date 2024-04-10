@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Polizeieinsatz in Lichtenberg ###
+### Polizeieinsatz in Lichtenberg beendet ###
 
- Letztes Update: 16:13 / 10.04.2024
+ Letztes Update: 16:22 / 10.04.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Lichtenberg fahren die Züge der Linien S5, S7 und S75 ohne Halt durch.
+Nach einem Polizeieinsatz in Lichtenberg kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
