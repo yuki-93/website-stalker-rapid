@@ -2,6 +2,42 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### umgestürzter Baum auf der Strecke im Bereich Tempelhof ###
+
+ Letztes Update: 12:14 / 10.04.2024
+
+Information
+
+Wegen eines umgestürzten Baumes auf der Strecke im Bereich Tempelhof ist der Zugverkehr der Linien S41 und S42 zwischen Tempelhof \<\> Schöneberg unterbrochen.
+
+* Die Linie S46 verkehrt planmäßig.
+* Die Linie S45 verkehrt nur zwischen Flughafen BER \<\> Schöneweide, bitte benutzen Sie zwischen Schöneweide und Südkreuz die Linie S46.
+* Die Linie S47 verkehrt planmäßig.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### vorübergehend verminderte Geschwindigkeit auf der Strecke im Bereich Spandau ###
+
+ Letztes Update: 11:53 / 10.04.2024
+
+Information
+
+Wegen vorübergehend verminderter Geschwindigkeit auf der Strecke im Bereich Spandau kommt es auf den Linien S3 und S 9 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+
+* Die Linie S9 verkehrt Flughafen BER \<\> Olympiastadion, bitte nutzen Sie zwischen Olympiastadion und Spandau die Linie S3.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
