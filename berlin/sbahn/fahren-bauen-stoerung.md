@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal zwischen Wannsee und Griebnitzsee ###
+
+ Letztes Update: 18:48 / 10.04.2024
+
+Information
+
+Wegen der Reparatur an einem Signal zwischen Wannsee und Griebnitzsee kommt es auf der Linie S7 zu Verspätungen und folgenden Einschränkungen:
+
+* die Linie S7 verkehrt zwischen Grunewald und Potsdam Hbf. nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### Reparatur an einem Signal in Priesterweg ###
@@ -21,20 +37,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Lichtenberg beendet, Reparatur an einer Weiche in Charlottenburg ###
-
- Letztes Update: 17:46 / 10.04.2024
-
-Information
-
-Nach einem Polizeieinsatz in Lichtenberg und wegen der Reparatur an einer Weiche in Charlottenburg kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### umgestürzter Baum auf der Strecke im Bereich Tempelhof beseitigt ###
@@ -48,20 +50,6 @@ Nach der Beseitigung eines umgestürzten Baumes auf der Strecke im Bereich Tempe
 * **Linien S41/42**: Zugverkehr nur im 10--Minuten-Takt
 
 Wir bitten um Verständnis.
-
- sonstige Einschränkungen
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Grünau beendet ###
-
- Letztes Update: 15:47 / 10.04.2024
-
-Information
-
-Nach einem Polizeieinsatz in Grünau verkehrt nicht die **Linie S85 nicht**.
-
-Wir bitten um Ihr Verständnis.
 
  sonstige Einschränkungen
 
