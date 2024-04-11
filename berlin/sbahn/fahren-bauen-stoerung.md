@@ -2,6 +2,56 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### kurzfristiger Personalausfall in einem Stellwerk in Schöneweide ###
+
+ Letztes Update: 19:52 / 11.04.2024
+
+Information
+
+Wegen eines kurzfristigen Personalausfalls in einem Stellwerk in Schöneweide muss der Zugverkehr der Linien S45, S46, S47, S8 und S9 **im Zeitraum 12.04.2024, ca. 00:00 Uhr bis 12.04.2024, ca. 04:30 Uhr** unterbrochen werden.
+
+**Die betroffenen Linien fahren wie folgt:**
+
+* **S45:** verkehrt nicht
+* **S46:** Westend \<\> Baumschulenweg und Grünau \<\> Königs Wusterhausen
+* **S47:** verkehrt nicht
+* **S8:** Schönfließ/ Blankenburg \<\> Treptower Park
+* **S9:** Spandau \<\> Treptower Park und Altglienicke \<\> Flughafen BER
+
+---
+
+**Ein Ersatzverkehr mit Bussen wird wie folgt eingerichtet:**
+
+* **Bus S8, S45, S46, S9:** zwischen Treptower Park \<\> Altglienicke, über Plänterwald, Baumschulenweg, Schöneweide, Johannisthal, Adlershof, Grünau
+   (Einsatzzeit: 11.04.2024, ca. 23:45 Uhr bis 12.04.2024, ca. 02:00 Uhr und 12.04.2024, ca. 03:00 Uhr bis 12.04.2024, ca. 05:00 Uhr)
+* **Bus S47:** zwischen Schöneweide \<\> Spindlersfeld, über Oberspree
+   (Einsatzzeit: 11.04.2024, ca. 23:45 Uhr bis 12.04.2024, ca. 01:30 Uhr und 12.04.2024, ca. 04:00 Uhr bis 12.04.2024, ca. 05:00 Uhr)
+
+**Haltestellen des Ersatzverkehrs zwischen Treptower Park und Altglienicke (Bus S8, S45, S46, S8, S9)**
+
+* S Treptower Park: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
+* S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
+* S Baumschulenweg: Baumschulenstr. (wie Bus 170, 265, S70)
+* S Schöneweide: Michael-Brückner-Str. (wie Bus 165, N60)
+* S Johannisthal (Ersatzhalt): Michael-Brückner-Str. (BVG-Haltestelle "Grimaustr., wie Bus N60)
+* S Adlershof : Adlergestell (jeweils am Fahrbahnrand)
+* S Grünau: Richterstr. (wie Bus 163, 263, 363)
+* S Altglienicke: Ewaldstr. (wie Bus 160)
+
+**Haltestellen des Ersatzverkehrs Schöneweide \<\> Spindlersfeld (Bus S47)**
+
+* S Schöneweide: Michael-Brückner-Str. (wie Bus 165, N60)
+* S Oberspree: Oberspreestraße (BVG-Haltestelle "Bärenlauchstraße", wie Bus 165)
+* S Spindlersfeld: Oberspreestr. (wie Bus 165, N64, N65)
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
