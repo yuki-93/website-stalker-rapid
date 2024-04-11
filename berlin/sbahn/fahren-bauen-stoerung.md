@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### ärztliche Versorgung eines Fahrgastes im Zug in Bornholmer Straße beendet ###
-
- Letztes Update: 07:09 / 11.04.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Bornholmer Straße kommt es auf den Linien S1, S2, S25, S26 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### Reparatur an Signalen in Friedrichshagen ###
+### Reparatur an Signalen in Friedrichshagen beendet ###
 
- Letztes Update: 06:56 / 11.04.2024
+ Letztes Update: 08:18 / 11.04.2024
 
 Information
 
-Wegen der Reparatur an Signalen in Friedrichshagen kann der 10-Minuten-Takt auf der Linie S3 nur zwischen Charlottenburg \<\> Friedrichshagen angeboten werden.
+Nach der Reparatur an Signalen in Friedrichshagen kommt es auf der Linie S3 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
