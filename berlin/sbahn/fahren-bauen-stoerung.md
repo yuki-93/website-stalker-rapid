@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall in einem Stellwerk in Schöneweide ###
 
- Letztes Update: 20:42 / 11.04.2024
+ Letztes Update: 21:15 / 11.04.2024
 
 Information
 
@@ -38,7 +38,7 @@ Wegen eines kurzfristigen Personalausfalls in einem Stellwerk in Schöneweide mu
 * S Baumschulenweg: Baumschulenstr. (wie Bus 170, 265, S70)
 * S Schöneweide: Michael-Brückner-Str. (wie Bus 165, N60)
 * S Johannisthal (Ersatzhalt): Michael-Brückner-Str. (BVG-Haltestelle "Grimaustr., wie Bus N60)
-* S Adlershof : Adlergestell (jeweils am Fahrbahnrand)
+* S Adlershof: Adlergestell (jeweils am Fahrbahnrand)
 * S Grünau: Richterstr. (wie Bus 163, 263, 363)
 * S Altglienicke: Ewaldstr. (wie Bus 160)
 
