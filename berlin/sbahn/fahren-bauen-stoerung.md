@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristiger Personalausfall in einem Stellwerk in Schöneweide ###
 
- Letztes Update: 21:15 / 11.04.2024
+ Letztes Update: 23:05 / 11.04.2024
 
 Information
 
@@ -19,7 +19,7 @@ Wegen eines kurzfristigen Personalausfalls in einem Stellwerk in Schöneweide mu
 * **S45:** verkehrt nicht
 * **S46:** Westend \<\> Baumschulenweg und Grünau \<\> Königs Wusterhausen
 * **S47:** verkehrt nicht
-* **S8:** Schönfließ/ Blankenburg \<\> Treptower Park
+* **S8:** Schönfließ/ Blankenburg \<\> Hermannstraße
 * **S9:** Spandau \<\> Treptower Park und Altglienicke \<\> Flughafen BER
 
 ---
