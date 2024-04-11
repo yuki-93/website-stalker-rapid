@@ -11,22 +11,19 @@ Anker MagGo, Click it, Charge it - Doppelter Speed.
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Balkonkraftwerk Produkteinführung](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Anker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=naviMenu)[Tag Der Erde | Sale](https://www.anker.com/eu-de/tag-der-erde-sale?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Tag Der Erde | Sale](https://www.anker.com/eu-de/tag-der-erde-sale?ref=naviMenu)
 
 Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
-Grün shoppen
-und Carbon Points sammeln!
+Am Tag der Erde mit Anker sparen
 
-Sammle pünktlich zum Tag der Erde Carbon Points,
-indem du Geschenke kaufst, die der Umwelt etwas
-zurückgeben.
+Bis zu 40% Rabatt und Gratisgeschenke
 
 8. - 22. April 2024
 
-[Jetzt mitmachenmasterBanner1](https://www.anker.com/eu-de/tag-der-erde-sale?ref=masterBanner1)
+[Jetzt shoppenmasterBanner1](https://www.anker.com/eu-de/tag-der-erde-sale?ref=masterBanner1)
 
 Neuerscheinungen
 
