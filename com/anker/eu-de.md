@@ -9,6 +9,10 @@ Anker MagGo, Click it, Charge it - Doppelter Speed.
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
 
+Am Tag der Erde mit Anker sparen. Bis zu 40% Rabatt und Gratisgeschenke
+
+[Jetzt kaufen\>\>](https://www.anker.com/eu-de/tag-der-erde-sale)
+
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Balkonkraftwerk Produkteinführung](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
 ProdukteNach KategorieNeuerscheinungenAngebote[Tag Der Erde | Sale](https://www.anker.com/eu-de/tag-der-erde-sale?ref=naviMenu)
