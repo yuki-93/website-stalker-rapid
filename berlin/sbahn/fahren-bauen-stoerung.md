@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an der Strecke zwischen Ahrensfelde \<\> Marzahn ###
+
+ Letztes Update: 21:01 / 12.04.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke zwischen Ahrensfelde \<\> Marzahn kann zwischen Ahrensfelde \<\> Friedrichsfelde Ost derzeit nur ein 20-Minuten-Takt angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
