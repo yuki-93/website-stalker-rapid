@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Feuerwehreinsatz an der Strecke ###
+
+ Letztes Update: 14:44 / 12.04.2024
+
+Information
+
+Wegen eines Feuerwehreinsatzes an der Strecke ist der Zugverkehr der Linien S1 und S85 zwischen Waidmannslust und Frohnau unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
