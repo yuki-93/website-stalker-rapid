@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an der Strecke zwischen Ahrensfelde \<\> Marzahn ###
+### hohes Fahrgastaufkommen bei einer Großveranstaltung im Olympiastadion ###
 
- Letztes Update: 21:01 / 12.04.2024
+ Letztes Update: 22:07 / 12.04.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke zwischen Ahrensfelde \<\> Marzahn kann zwischen Ahrensfelde \<\> Friedrichsfelde Ost derzeit nur ein 20-Minuten-Takt angeboten werden.
+Wegen erhöhtem Fahrgastaufkommen bei einer Großveranstaltung im Olympiastadion kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und eventuellen Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an der Strecke im Bereich Mehrower Allee ###
+
+ Letztes Update: 21:53 / 12.04.2024
+
+Information
+
+Wegen einer Reparatur an der Strecke im Bereich Mehrower Allee kann zwischen Ahrensfelde \<\> Marzahn derzeit nur ein 20-Minuten-Takt angeboten werden.
 
 Wir bitten um Entschuldigung.
 
