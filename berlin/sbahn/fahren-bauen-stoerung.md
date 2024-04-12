@@ -2,38 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)
-
-### Reparatur an einer Weiche in Südkreuz ###
-
- Letztes Update: 17:27 / 12.04.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER und Tempelhof.
-
-*Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46*.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einer Weiche in Charlottenburg, Bauarbeiten in Ostbahnhof ###
-
- Letztes Update: 17:16 / 12.04.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Charlottenburg und wegen der Bauarbeiten in Ostbahnhof (Sperrung von Gleis 8) kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
