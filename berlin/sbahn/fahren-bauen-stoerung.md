@@ -74,7 +74,7 @@ Information
 
 Information
 
-* ahrplanänderung
+* Fahrplanänderung
 * Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -217,7 +217,7 @@ Information
 
 Information
 
-* ahrplanänderung
+* Fahrplanänderung
 * Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
