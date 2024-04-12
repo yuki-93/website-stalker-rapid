@@ -4,47 +4,42 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### kurzfristiger Personalausfall in einem Stellwerk in Schöneweide ###
+### kurzfristiger Personalausfall in einem Stellwerk in Schöneweide behoben ###
 
- Letztes Update: 03:00 / 12.04.2024
+ Letztes Update: 04:09 / 12.04.2024
 
 Information
 
-Wegen eines kurzfristigen Personalausfalls in einem Stellwerk in Schöneweide muss der Zugverkehr der Linien S45, S46, S47, S8 und S9 **im Zeitraum 12.04.2024, ca. 00:00 Uhr bis 12.04.2024, ca. 04:30 Uhr** unterbrochen werden.
+Nach einem kurzfristigen Personalausfall in einem Stellwerk in Schöneweide kommt es auf den Linien S45, S46, S8 und S9 bis ca. 04:30 Uhr noch zu einzelnen Ausfällen.
 
-**Die betroffenen Linien fahren wie folgt:**
+Ein Ersatzverkehr mit Bussen ist wie folgt eingerichtet:
 
-* **S45:** verkehrt nicht
-* **S46:** Westend \<\> Baumschulenweg und Grünau \<\> Königs Wusterhausen
-* **S47:** verkehrt nicht
-* **S8:** Schönfließ/ Blankenburg \<\> Hermannstraße
-* **S9:** Spandau \<\> Treptower Park und Altglienicke \<\> Flughafen BER
+Bus S45, S46, S8 und S9: zwischen Treptower Park \<\> Altglienicke, über Plänterwald, Baumschulenweg, Schöneweide, Johannisthal, Adlershof, Grünau
+ (Einsatzzeit bis ca. 04:30 Uhr)
 
----
+Haltestellen des Ersatzverkehrs mit Bussen zwischen Treptower Park und Altglienicke (Bus S8, S45, S46, S8, S9)
 
-**Ein Ersatzverkehr mit Bussen wird wie folgt eingerichtet:**
+S Treptower Park: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
 
-* **Bus S8, S45, S46, S9:** zwischen Treptower Park \<\> Altglienicke, über Plänterwald, Baumschulenweg, Schöneweide, Johannisthal, Adlershof, Grünau
-  *(Einsatzzeit: 11.04.2024, ca. 23:45 Uhr bis 12.04.2024, ca. 02:00 Uhr und 12.04.2024, ca. 03:00 Uhr bis 12.04.2024, ca. 05:00 Uhr)*
-* **für die Linie S47 kann leider kein Ersatzverkehr mit Bussen eingerichtet werden, da keine Busse zur Verfügung stehen,
-   bitte nutzen Sie ersatzweise die Buslinie 165**
+S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
 
-**Haltestellen des Ersatzverkehrs mit Bussen zwischen Treptower Park und Altglienicke (Bus S8, S45, S46, S8, S9)**
+S Baumschulenweg: Baumschulenstr. (wie Bus 170, 265, S70)
 
-* S Treptower Park: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
-* S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
-* S Baumschulenweg: Baumschulenstr. (wie Bus 170, 265, S70)
-* S Schöneweide: Michael-Brückner-Str. (wie Bus 165, N60)
-* S Johannisthal (Ersatzhalt): Michael-Brückner-Str. (BVG-Haltestelle "Grimaustr., wie Bus N60)
-* S Adlershof: Adlergestell (Richtung Grünau / Altglienicke: Adlergestell vor der Rudower Chaussee und in Richtung Treptower Park: Adlergestell hinter der Dörpfeldstraße)
-* S Grünau: Richterstr. (wie Bus 163, 263, 363)
-* S Altglienicke: Ewaldstr. (wie Bus 160)
+S Schöneweide: Michael-Brückner-Str. (wie Bus 165, N60)
+
+S Johannisthal (Ersatzhalt): Michael-Brückner-Str. (BVG-Haltestelle "Grimaustr., wie Bus N60)
+
+S Adlershof: Adlergestell (Richtung Grünau / Altglienicke: Adlergestell vor der Rudower Chaussee und in Richtung Treptower Park: Adlergestell hinter der Dörpfeldstraße)
+
+S Grünau: Richterstr. (wie Bus 163, 263, 363)
+
+S Altglienicke: Ewaldstr. (wie Bus 160)
 
 Wir bitten um Entschuldigung.
 
- fährt nicht
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -184,80 +179,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-28958)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Warschauer Straße ###
-
-09.04. (Di) bis 12.04. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=17803&type=5679&cHash=42fbfc5e404de4ea524e59dfab881209)
-
-23.04. (Di) bis 26.04. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=17861&type=5679&cHash=ee3c3d62b228490f7cc0d94798b6a8a1)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&type=5679&cHash=8ff068d8b1d55331a31d545e796bc2ef)
-
- fährt nicht
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:26 Uhr in Warschauer Straße.
-* Der Zug fällt von Charlottenburg bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Warschauer Straße ###
-
-09.04. (Di) bis 12.04. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&tx_sbbconstructions_list%5Bperiod%5D=17804&type=5679&cHash=45fe12738e29c6e2158d8eb5e4f30490)
-
-23.04. (Di) bis 26.04. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&tx_sbbconstructions_list%5Bperiod%5D=17862&type=5679&cHash=388347a15fb47d45ede1b8944c9c7f5f)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&type=5679&cHash=d1d6560c19a2380f446a28c372f2ee52)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:39 Uhr in Warschauer Straße.
-* Der Zug fällt von Westkreuz bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Ostbahnhof ###
-
-09.04. (Di) bis 12.04. (Fr) jeweils 3:32 Uhr bis 3:57 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29026&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22177&tx_sbbconstructions_list%5Bperiod%5D=17805&type=5679&cHash=67fcbb137de23eb94ced5d53c36a5cec)
-
-23.04. (Di) bis 26.04. (Fr) jeweils 3:32 Uhr bis 3:57 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29026&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22177&tx_sbbconstructions_list%5Bperiod%5D=17863&type=5679&cHash=a6a19fa73de90507ab033ba6f36ada83)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29026&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22177&type=5679&cHash=445ad02f1803c93d0f5d5b8e454826e8)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER (an 4:36 Uhr) beginnt erst um 3:57 Uhr in Ostbahnhof und fällt von Westkreuz bis Ostbahnhof aus.
-* Der Zug fällt von Westkreuz bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
 
 Hinweis
 
@@ -1087,15 +1008,9 @@ Information
 
 ### Charlottenburg \> Warschauer Straße ###
 
-09.04. (Di) bis 12.04. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=17803&type=5679&cHash=42fbfc5e404de4ea524e59dfab881209)
-
 23.04. (Di) bis 26.04. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=17861&type=5679&cHash=ee3c3d62b228490f7cc0d94798b6a8a1)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&type=5679&cHash=8ff068d8b1d55331a31d545e796bc2ef)
 
  fährt nicht
 
@@ -1129,15 +1044,9 @@ Information
 
 ### Westkreuz \> Warschauer Straße ###
 
-09.04. (Di) bis 12.04. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&tx_sbbconstructions_list%5Bperiod%5D=17804&type=5679&cHash=45fe12738e29c6e2158d8eb5e4f30490)
-
 23.04. (Di) bis 26.04. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&tx_sbbconstructions_list%5Bperiod%5D=17862&type=5679&cHash=388347a15fb47d45ede1b8944c9c7f5f)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&type=5679&cHash=d1d6560c19a2380f446a28c372f2ee52)
 
  fährt nicht
 
@@ -1153,15 +1062,9 @@ Information
 
 ### Westkreuz \> Ostbahnhof ###
 
-09.04. (Di) bis 12.04. (Fr) jeweils 3:32 Uhr bis 3:57 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29026&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22177&tx_sbbconstructions_list%5Bperiod%5D=17805&type=5679&cHash=67fcbb137de23eb94ced5d53c36a5cec)
-
 23.04. (Di) bis 26.04. (Fr) jeweils 3:32 Uhr bis 3:57 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29026&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22177&tx_sbbconstructions_list%5Bperiod%5D=17863&type=5679&cHash=a6a19fa73de90507ab033ba6f36ada83)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29026&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22177&type=5679&cHash=445ad02f1803c93d0f5d5b8e454826e8)
 
  fährt nicht
 
