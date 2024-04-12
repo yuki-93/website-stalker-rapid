@@ -62,59 +62,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28776)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
 
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Ostkreuz \<\> Ostbahnhof ###
-
-05.04. (Fr), ca. 4 Uhr durchgehend bis 13.04. (Sa), ca. 1 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29112&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22270&tx_sbbconstructions_list%5Bperiod%5D=17811&type=5679&cHash=4f16f740246b4a3a24ecb21116882108)
-
- Takt geändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-bereich-ostbahnhof-1/#con-29112)
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Hoppegarten \<\> Warschauer Straße ###
-
-05.04. (Fr), ca. 4 Uhr durchgehend bis 13.04. (Sa), ca. 1 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29316&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22270&tx_sbbconstructions_list%5Bperiod%5D=17811&type=5679&cHash=16e1e15a26455cc2cdb57a4867480a82)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Hoppegarten \<\> Warschauer Straße
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-bereich-ostbahnhof-1/#con-29316)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Ostkreuz \<\> Warschauer Straße ###
-
-05.04. (Fr), ca. 4 Uhr durchgehend bis 13.04. (Sa), ca. 1 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29317&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22270&tx_sbbconstructions_list%5Bperiod%5D=17811&type=5679&cHash=b71ba150f917ca9801d75ea30d3c5daa)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-im-bereich-ostbahnhof-1/#con-29317)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Springpfuhl \<\> Wartenberg ###
