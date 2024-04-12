@@ -13,7 +13,7 @@ Am Tag der Erde mit Anker sparen. Bis zu 40% Rabatt und Gratisgeschenke
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/tag-der-erde-sale)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Balkonkraftwerk Produkteinführung](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Spare am Tag der Erde bis zu 1000€](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=naviBar)
 
 ProdukteNach KategorieNeuerscheinungenAngebote[Tag Der Erde | Sale](https://www.anker.com/eu-de/tag-der-erde-sale?ref=naviMenu)
 
@@ -21,78 +21,13 @@ Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
-Unentschlossen?
-
-Unsere Empfehlungen
-----------
-
-Alle Kategorien entdecken
-
-Das Zubehör für cleveres Laden
-----------
-
-[Balkonkraftwerk](https://www.anker.com/eu-de/ankerpower/balkonkraftwerk-produkteinfuehrung?ref=homePageBanner)[Ladestationen](https://www.anker.com/eu-de/ankerpower?ref=homePageBanner)[Ladegeräte](https://www.anker.com/eu-de/collections/wandladegerate?ref=homePageBanner)[Powerbanks](https://www.anker.com/eu-de/collections/powerbanks?ref=homePageBanner)[Ladekabel](https://www.anker.com/eu-de/collections/kabel?ref=homePageBanner)[Ladepads](https://www.anker.com/eu-de/collections/kabelloses-zubehor?ref=homePageBanner)[Hubs & Docks](https://www.anker.com/eu-de/collections/adapter-hubs?ref=homePageBanner)
-
-Du suchst mehr?
-
-Entdecke unsere Ladeserien!
-----------
-
-Serie 7
-
-Serie 7
-
-Technologie der Zukunft
-
-Technologie der Zukunft
-
-Leistung und Funktionalität auf dem neuesten Stand.
-
-Leistung und Funktionalität auf dem neuesten Stand.
-
-[Mehr erfahrenSerie 7](https://www.anker.com/eu-de/series7?ref=homePageBanner)
-
-[Mehr erfahrenSerie 7](https://www.anker.com/eu-de/series7?ref=homePageBanner)
-
-Serie 6
-
-Serie 6
-
- Einzigartige Erfahrungen
-
- Einzigartige Erfahrungen
-
-Smartes Tech-Zubehör mit fortschrittlicher Funktionalität.
-
-Smartes Tech-Zubehör mit fortschrittlicher Funktionalität.
-
-[Mehr erfahrenSerie 6](https://www.anker.com/eu-de/series6?ref=homePageBanner)
-
-[Mehr erfahrenSerie 6](https://www.anker.com/eu-de/series6?ref=homePageBanner)
-
-Serie 5
-
-Serie 5
-
-Der Genuss von Qualität
-
-Der Genuss von Qualität
-
-Smartes Tech-Zubehör mit Premium-Design und mächtiger Leistung.
-
-Smartes Tech-Zubehör mit Premium-Design und mächtiger Leistung.
-
-[Mehr erfahrenSerie 5](https://www.anker.com/eu-de/series5?ref=homePageBanner)
-
-[Mehr erfahrenSerie 5](https://www.anker.com/eu-de/series5?ref=homePageBanner)
-
 Am Tag der Erde mit Anker sparen
 
 Bis zu 40% Rabatt und Gratisgeschenke
 
 8. - 22. April 2024
 
-[Jetzt shoppenmasterBanner4](https://www.anker.com/eu-de/tag-der-erde-sale?ref=masterBanner4)
+[Jetzt shoppenmasterBanner1](https://www.anker.com/eu-de/tag-der-erde-sale?ref=masterBanner1)
 
 Neuerscheinungen
 
@@ -103,16 +38,15 @@ Click it, Charge it - Doppelter Speed.
 Die kabellose 15W-Ladeserie für
 blitzschnelle magnetische Power
 
-[Jetzt kaufenmasterBanner5](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner5)
+[Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner2)
 
-Ein kleiner Schritt für
- einen großen Unterschied
+Das erste 2000W-Balkonkraftwerkmit Speicher der Welt
 
-Spare am Tag der Erde bis zu 1000€
+Solarpower maximierenheißt Tag und Nacht sparen
 
-12. - 24. April 2024
+[Jetzt kaufenmasterBanner3](https://www.anker.com/eu-de/products/solarbank-dual-system-b17c0?ref=masterBanner3)
 
-[Jetzt kaufenmasterBanner6](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner6)
+Mehr erfahren
 
 Entdecke innovative Ladelösungen
 ----------
@@ -180,19 +114,19 @@ Entdecke Anker Innovations
 
   Click it, Charge it - Doppelter Speed.
 
-  [Jetzt kaufenAnker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=productBanner11_1)
+  [Jetzt kaufenAnker MagGo](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=productBanner8_1)
 
 * ### Anker GaNPrime  ###
 
   Unsere beste Multi-Geräte-Ladeserie
 
-  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner11_2)
+  [Mehr erfahren Anker GaNPrime](https://www.anker.com/eu-de/anker-prime?ref=productBanner8_2)
 
 * ### Anker SOLIX C800 Plus Tragbare Powerstation ###
 
   Power für strahlende Momente unterwegs
 
-  [Jetzt kaufenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/products/a1754?ref=productBanner11_3)
+  [Jetzt kaufenAnker SOLIX C800 Plus Tragbare Powerstation](https://www.anker.com/eu-de/products/a1754?ref=productBanner8_3)
 
 Was macht Anker so besonders?
 ----------

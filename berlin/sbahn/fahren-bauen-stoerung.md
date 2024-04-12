@@ -2,45 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristiger Personalausfall in einem Stellwerk in Schöneweide behoben ###
-
- Letztes Update: 04:09 / 12.04.2024
-
-Information
-
-Nach einem kurzfristigen Personalausfall in einem Stellwerk in Schöneweide kommt es auf den Linien S45, S46, S8 und S9 bis ca. 04:30 Uhr noch zu einzelnen Ausfällen.
-
-Ein Ersatzverkehr mit Bussen ist wie folgt eingerichtet:
-
-Bus S45, S46, S8 und S9: zwischen Treptower Park \<\> Altglienicke, über Plänterwald, Baumschulenweg, Schöneweide, Johannisthal, Adlershof, Grünau
- (Einsatzzeit bis ca. 04:30 Uhr)
-
-Haltestellen des Ersatzverkehrs mit Bussen zwischen Treptower Park und Altglienicke (Bus S8, S45, S46, S8, S9)
-
-S Treptower Park: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
-
-S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
-
-S Baumschulenweg: Baumschulenstr. (wie Bus 170, 265, S70)
-
-S Schöneweide: Michael-Brückner-Str. (wie Bus 165, N60)
-
-S Johannisthal (Ersatzhalt): Michael-Brückner-Str. (BVG-Haltestelle "Grimaustr., wie Bus N60)
-
-S Adlershof: Adlergestell (Richtung Grünau / Altglienicke: Adlergestell vor der Rudower Chaussee und in Richtung Treptower Park: Adlergestell hinter der Dörpfeldstraße)
-
-S Grünau: Richterstr. (wie Bus 163, 263, 363)
-
-S Altglienicke: Ewaldstr. (wie Bus 160)
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
