@@ -4,19 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Grünauer Kreuz beendet ###
+### Polizeieinsätze in Frankfurter Allee und Plänterwald beendet ###
 
- Letztes Update: 18:56 / 13.04.2024
+ Letztes Update: 19:59 / 13.04.2024
 
 Information
 
-Nach der Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linie S45, S46, S8 und S9 noch zu Verspätungen.
+Nach Polizeieinsätzen in Frankfurter Allee und Plänterwald kommt es auf den Linien S41, S42, S8, S85 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung verspätet
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Zoologiecher Garten beendet ###
+
+ Letztes Update: 19:52 / 13.04.2024
+
+Information
+
+Nach einem Polizeieinsatz in Zoologiecher Garten kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis!
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
