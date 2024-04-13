@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Grünauer Kreuz ###
+
+ Letztes Update: 18:04 / 13.04.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Grünauer Kreuz kommt es auf den Linie S46 und S9 zu Verspätungen. Des Weiteren kommt es zu folgenden Einschränkungen:
+
+\- die Linie S45 verkehrt zwischen Südkreuz \<\> Schöneweide,
+
+\- die Linie S8 verkehrt zwischen Schönfließ \<\> Treptower Park
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an der Strecke im Bereich Mehrower Allee ###
