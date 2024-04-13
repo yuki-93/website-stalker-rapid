@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Zug Charlottenburg beendet ###
-
- Letztes Update: 06:47 / 13.04.2024
-
-Information
-
-Nach einer Reparatur am Zug Charlottenburg kann es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an der Strecke im Bereich Mehrower Allee ###
