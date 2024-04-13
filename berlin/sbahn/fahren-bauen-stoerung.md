@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Mehrower Allee ###
 
- Letztes Update: 06:31 / 13.04.2024
+ Letztes Update: 10:55 / 13.04.2024
 
 Information
 
