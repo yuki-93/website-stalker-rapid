@@ -88,25 +88,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-28958)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
-[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Waßmannsdorf ###
-
-Nacht 12./13.04. (Fr/Sa), ca. 1.05 Uhr - ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28721&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21911&tx_sbbconstructions_list%5Bperiod%5D=17833&type=5679&cHash=f77fb930e9a1bf3a1322a3ca10e283ff)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung:
-  * In Waßmannsdorf fährt die S45 und die S9 nach Flughafen BER von Gleis 2, Bahnsteig stadteinwärts.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
