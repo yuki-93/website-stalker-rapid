@@ -4,15 +4,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur an einem Signal in Adlershof ###
+### Reparatur an der Strecke im Bereich Mehrower Allee ###
 
- Letztes Update: 07:24 / 14.04.2024
+ Letztes Update: 10:55 / 13.04.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Adlershof kommt es auf den Linien S45, S46, S8 und S9 zu Verspätungen und Zugausfällen.
+Wegen einer Reparatur an der Strecke im Bereich Mehrower Allee kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Potsdam Hbf und Marzahn angeboten werden.
+*Zwischen Marzahn und Ahrensfelde besteht ein 20-Minuten-Takt.*
 
 Wir bitten um Entschuldigung.
 
