@@ -4,25 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Wannsee ###
-
- Letztes Update: 12:05 / 14.04.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Wannsee kommt es auf der Linie S1 zu Verspätungen und Zugausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an der Strecke im Bereich Mehrower Allee ###
 
- Letztes Update: 10:55 / 13.04.2024
+ Letztes Update: 13:51 / 14.04.2024
 
 Information
 
