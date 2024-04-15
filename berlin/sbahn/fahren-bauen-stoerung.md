@@ -8,12 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Mehrower Allee ###
 
- Letztes Update: 03:18 / 15.04.2024
+ Letztes Update: 06:06 / 15.04.2024
 
 Information
 
 Wegen einer Reparatur an der Strecke im Bereich Mehrower Allee kann der 10-Minuten-Takt auf der Linie S7 nur zwischen Potsdam Hbf und Marzahn angeboten werden.
-*Zwischen Marzahn und Ahrensfelde besteht ein 20-Minuten-Takt.*
+*Zwischen Marzahn und Ahrensfelde besteht ein 20-Minuten-Takt. Abfahrt in Ahrensfelde zu den Minuten 11, 31 und 51.*
 
 Wir bitten um Entschuldigung.
 
