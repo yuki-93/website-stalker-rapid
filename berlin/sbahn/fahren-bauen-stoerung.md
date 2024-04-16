@@ -8,27 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Friedrichsfelde Ost ###
 
- Letztes Update: 16:06 / 16.04.2024
+ Letztes Update: 18:13 / 16.04.2024
 
 Information
 
 Wegen einer Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Zugausfällen.
 
+* Die Linie S75 verkehrt im 20-Minuten-Takt.
+
 Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### unbefugte Personen auf der Strecke in Sonnenallee ###
-
- Letztes Update: 16:03 / 16.04.2024
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Sonnenallee kommt es auf den Linien S41 und S42 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
