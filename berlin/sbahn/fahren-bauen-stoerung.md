@@ -167,47 +167,6 @@ Information
 
  Nur Nachts
 
-### Schöneweide \> Grünau ###
-
-15.04. (Mo) und 16.04. (Di) jeweils 1:33 Uhr bis 1:42 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27547&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20668&tx_sbbconstructions_list%5Bperiod%5D=17866&type=5679&cHash=18f442e8ba24eb9ac609d44ee8060481)
-
- fährt nicht
-
-Information
-
-* Der Zug Spandau ab 0:38 Uhr nach Grünau (an 1:42 Uhr) endet bereits um 1:33 Uhr in Schöneweide.
-* Der Zug fällt von Schöneweide bis Grünau aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Altglienicke \> Schöneweide ###
-
-15.04. (Mo) und 16.04. (Di) jeweils 1:43 Uhr bis 1:53 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20913&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15588&tx_sbbconstructions_list%5Bperiod%5D=17864&type=5679&cHash=2d18b8345a60106616428dc115e8d9e3)
-
- fährt nicht  keine Verbindung
-
-Information
-
-* Der Zug Flughafen BER ab 1:29 Uhr nach Ostbahnhof (an 2:08 Uhr) endet abweichend in Altglienicke (an 1:43 Uhr)
-   und beginnt neu um 1:53 Uhr in Schöneweide und fährt nach Ostbahnhof (an 2:08 Uhr).
-  * Der Zug fällt zwischen Altglienicke und Schöneweide aus.
-
-* In Altglienicke besteht keine Übergangsmöglichkeit zum BVG-Nachtverkehr.
-* Bitte benutzen Sie zwischen:
-  * Flughafen BER \<\> Schönefeld \<\> S Adlershof \<\> S Schöneweide \<\> S Plänterwald \<\> S Treptower Park \<\> U Schlesisches Tor \<\> S+U Jannowitzbrücke \<\> S+U Alexanderplatz/Memhardstraße
-     die BVG-Nachtbuslinie N60 sowie zwischen S Grünau \<\> S Adlershof auch die Nachtbuslinie N68.
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
 ### Grünau \> Adlershof ###
 
 15.04. (Mo) und 16.04. (Di) jeweils 3:42 Uhr bis 3:49 Uhr
