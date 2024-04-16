@@ -4,45 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Baum im Gleis Westkreuz \<\> Grunewald ###
+### Baum im Gleis Grunewald und Polizeieinsatz Hauptbahnhof beendet ###
 
- Letztes Update: 10:46 / 16.04.2024
-
-Information
-
-Wegen eines umgestürzten Baumes ist der Zugverkehr der Linie S7 zwischen Westkreuz und Grunewald unterbrochen.
-
-Bitte nutzen Sie zur Umfahrung zwischen Friedrichstraße und Wannsee die Linie S1 sowie zwischen Messe Süd und Grunewald die Buslinie 349..
-
-Wir bitten um Entschuldigung
-
- fährt nicht
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Signal zwischen Treptower Park und Baumschulenweg beendet ###
-
- Letztes Update: 09:58 / 16.04.2024
+ Letztes Update: 12:00 / 16.04.2024
 
 Information
 
-Nach einer Reparatur am Signal zwischen Treptower Park und Baumschulenweg kommt es auf der Linie S85 noch zu einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz Hauptbahnhof beendet ###
-
- Letztes Update: 09:18 / 16.04.2024
-
-Information
-
-Nach einem Polizeieinsatz in Berlin-Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Nach einem umgestürzten Baum im Raum Grunewald und einem Polizeieinsatz in Hauptbahnhof ist der Zugverkehr der Linien S3, S5, S7 und S9 unregelmäßig.
 
 Wir bitten um Entschuldigung
 
@@ -1295,6 +1265,7 @@ Information
   * Bus S47: Spindlersfeld \<\> Baumschulenweg
   * Bus S9X: Flughafen BER \<\> Baumschulenweg (EXPRESS-Bus)
   * Bus S9A: Grünbergallee \<\> Baumschulenweg
+     Im Abschnitt Grünbergallee \<\> Altglienicke fahren der Ersatzverkehr Bus S9A sowie die S45 und S9 nahezu parallel.
 
 * Pendelverkehr:
   * Baumschulenweg \<\> Treptower Park (mit Umsteigen in Plänterwald) jeweils im 10-Minutentakt
