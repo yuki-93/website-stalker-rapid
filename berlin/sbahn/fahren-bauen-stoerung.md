@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baum im Gleis Westkreuz \<\> Grunewald ###
 
- Letztes Update: 10:23 / 16.04.2024
+ Letztes Update: 10:46 / 16.04.2024
 
 Information
 
 Wegen eines umgestürzten Baumes ist der Zugverkehr der Linie S7 zwischen Westkreuz und Grunewald unterbrochen.
 
-Bitte nutzen Sie vorerst zur Umfahrung zwischen Friedrichstraße und Wannsee die Linie S1 sowie zwischen Messe Süd und Grunewald die Buslinie 349..
+Bitte nutzen Sie zur Umfahrung zwischen Friedrichstraße und Wannsee die Linie S1 sowie zwischen Messe Süd und Grunewald die Buslinie 349..
 
 Wir bitten um Entschuldigung
 
@@ -1201,6 +1201,10 @@ Information
 * Ersatzverkehr mit Bussen:
   * Bus S41/S42: Halensee \<\> Beusselstraße
 
+* **Achtung:**
+   Am 05.05. (So), ca. 6.30 Uhr bis ca. 17 Uhr kann der Bus S41/S42 wegen einer Laufveranstaltung nur zwischen Westend \<\> Jungfernheide (Olbersstraße) \<\> Beusselstraße fahren, bitte weichen Sie zwischen Charlottenburg \<\> Jungfernheide auf die U7 aus.
+* Fahrplanänderung
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-westend/#con-29248)
@@ -1220,6 +1224,12 @@ Information
 * Pendelverkehr:
   * Halensee \<\> Westend im 20-Minutentakt
 
+* Taktänderung:
+  * Westend \<\> Schönhauser Allee S-Bahnverkehr nur im ungefähren 5-/5-/10-Minutentakt
+  * Treptower Park \<\> Neukölln S-Bahnverkehr nur im ungefähren 5-/5-/10-Minutentakt
+  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im ungefähren 5-/5-/10-Minutentakt
+
+* Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-westend/#con-29249)
