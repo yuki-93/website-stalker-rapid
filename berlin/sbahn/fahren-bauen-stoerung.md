@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Friedrichsfelde Ost ###
 
- Letztes Update: 18:13 / 16.04.2024
+ Letztes Update: 19:08 / 16.04.2024
 
 Information
 
