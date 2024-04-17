@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Plänterwald beendet ###
+
+ Letztes Update: 19:08 / 17.04.2024
+
+Information
+
+Nach einem Polizeieinsatz in Plänterwald (unbefugte Personen auf der Strecke) kommt es auf den Linien S8, S9 und S85 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### kurzfristige Bauarbeiten Karlshorst ###
