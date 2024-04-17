@@ -204,167 +204,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-und-maschinelles-weichenschleifen/#con-29215)
 
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
-### Baumaßnahmen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \<\> Spandau / Potsdam Hbf ###
-
-Nächte 15./16.04. (Mo/Di) und 18./19.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29201&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22366&tx_sbbconstructions_list%5Bperiod%5D=17844&type=5679&cHash=3dcbb256580bc2c36ba15d9b01f893fb)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Charlottenburg \<\> Westkreuz S-Bahnverkehr im ungefähren 5-/15-Minutentakt mit S7 und S9
-  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-f7042ce100/#con-29201)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gehrenseestraße ###
-
-19.06. (Mo) ca. 4 Uhr bis auf Weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
-
- Zugverkehr verändert
-
-Information
-
-* kein Halt in Gehrenseestraße
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S8](https://sbahn.berlin/fahren/s8/)
-
-### Blankenburg \> Schönfließ ###
-
-28.03. (Do) 22 Uhr bis 09.05. (Do) 0:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29277&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21824&tx_sbbconstructions_list%5Bperiod%5D=17876&type=5679&cHash=a86f7a2bbea6609a0ae35864ae9b055d)
-
- Takt geändert
-
-Information
-
-* Fahrplanänderung:
-* Im Abendverkehr ab ca. 21 Uhr (während des 60-Minutentaktes) fährt die S8 von Blankenburg bis Schönfließ 20 Minuten früher.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-29277)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Frohnau/Mühlenbeck-Mönchmühle – Birkenwerder – Oranienburg ###
-
-28.03. (Do) 22 Uhr bis 09.05. (Do) 1 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28776&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21824&tx_sbbconstructions_list%5Bperiod%5D=17592&type=5679&cHash=62c684ede693f27903d6f4876ba688af)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr: Frohnau \<\> Birkenwerder \<\> Oranienburg und Schönfließ \<\> Birkenwerder
-* Ersatzverkehr mit Bussen:
-  * Bus S1A Frohnau \<\> Oranienburg
-  * Bus S1X Frohnau \<\> Oranienburg
-  * Bus S8 Mühlenbeck-Mönchmühle \<\> Birkenwerder
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28776)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Mahlsdorf \<\> Ostkreuz \<\> Ostbahnhof ###
-
-15.04. (Mo), ca. 4 Uhr durchgehend bis 08.05. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29195&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22360&tx_sbbconstructions_list%5Bperiod%5D=17843&type=5679&cHash=58510d4c236bbc80bb7bac19a75efa0e)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * vom 15.04. (Mo) bis 18.04. (Do) sowie vom 22.04. (Mo) bis 07.05. (Di) – **außer am 01.05. (Mi):**
-     Montag bis Freitag: Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 5-/5-/10-Minutentakt;
-  * am 19.04. (Fr) Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 10-Minutentakt
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-1/#con-29195)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \<\> Spandau / Potsdam Hbf ###
-
-Nacht 17./18.04. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29202&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22367&tx_sbbconstructions_list%5Bperiod%5D=17845&type=5679&cHash=cf2ae7c818cc66c308dc7b85483a01f1)
-
- Takt geändert
-
-Information
-
-* Taktänderung: Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-a6e6b63e2e/#con-29202)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
- Nur Nachts
-
-### Ostkreuz \<\> Greifswalder Straße / Bornholmer Straße ###
-
-Nacht 17./18.04. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29215&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22380&tx_sbbconstructions_list%5Bperiod%5D=17852&type=5679&cHash=e4699edb56e6c8f70048f4dc2887a4b8)
-
- Pendelverkehr
-
-Information
-
-* kein S-Bahnverkehr:
-  * zwischen Schönhauser Allee \<\> Bornholmer Straße, bitte Umfahrung über Gesundbrunnen (mit Umstieg und Bahnsteigwechsel) oder zwischen Schönhauser Allee \<\> Pankow bitte U2 nutzen
-
-* S-Bahn-Pendelverkehr:
-  * Frankfurter Allee \<\> Greifswalder Straße im 20-Minutentakt
-
-* Taktänderung:
-  * Ostkreuz \<\> Frankfurter Allee und Greifswalder Straße \<\> Schönhauser Allee S-Bahnverkehr jeweils nur im 10-Minutentakt mit S41/S42
-
-* Fahrplanänderung
-* Bahnsteigändeerung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-und-maschinelles-weichenschleifen/#con-29215)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Springpfuhl \<\> Wartenberg ###
@@ -565,6 +404,133 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-41/#con-29216)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Rahnsdorf \<\> Karlshorst (Ostbahnhof) ###
+
+19.04. (Fr), ca. 21:45 Uhr bis 22.04. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28959&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22127&tx_sbbconstructions_list%5Bperiod%5D=17727&type=5679&cHash=ed85f44ec1234dbeeae490465732f56a)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S3: Karlshorst \<\> Rahnsdorf
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-2/#con-28959)
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Gehrenseestraße ###
+
+19.06. (Mo) ca. 4 Uhr bis auf Weiteres
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Halt in Gehrenseestraße
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Blankenburg \> Schönfließ ###
+
+28.03. (Do) 22 Uhr bis 09.05. (Do) 0:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29277&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21824&tx_sbbconstructions_list%5Bperiod%5D=17876&type=5679&cHash=a86f7a2bbea6609a0ae35864ae9b055d)
+
+ Takt geändert
+
+Information
+
+* Fahrplanänderung:
+* Im Abendverkehr ab ca. 21 Uhr (während des 60-Minutentaktes) fährt die S8 von Blankenburg bis Schönfließ 20 Minuten früher.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-29277)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Frohnau/Mühlenbeck-Mönchmühle – Birkenwerder – Oranienburg ###
+
+28.03. (Do) 22 Uhr bis 09.05. (Do) 1 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28776&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21824&tx_sbbconstructions_list%5Bperiod%5D=17592&type=5679&cHash=62c684ede693f27903d6f4876ba688af)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr: Frohnau \<\> Birkenwerder \<\> Oranienburg und Schönfließ \<\> Birkenwerder
+* Ersatzverkehr mit Bussen:
+  * Bus S1A Frohnau \<\> Oranienburg
+  * Bus S1X Frohnau \<\> Oranienburg
+  * Bus S8 Mühlenbeck-Mönchmühle \<\> Birkenwerder
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28776)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Mahlsdorf \<\> Ostkreuz \<\> Ostbahnhof ###
+
+15.04. (Mo), ca. 4 Uhr durchgehend bis 08.05. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29195&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22360&tx_sbbconstructions_list%5Bperiod%5D=17843&type=5679&cHash=58510d4c236bbc80bb7bac19a75efa0e)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * vom 15.04. (Mo) bis 18.04. (Do) sowie vom 22.04. (Mo) bis 07.05. (Di) – **außer am 01.05. (Mi):**
+     Montag bis Freitag: Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 5-/5-/10-Minutentakt;
+  * am 19.04. (Fr) Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 10-Minutentakt
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-1/#con-29195)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Springpfuhl \<\> Wartenberg ###
+
+18.04. (Do), ca. 22 Uhr durchgehend bis 22.04. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28958&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=17726&type=5679&cHash=baa2f603e32da9984bbd898c44e4638d)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S75: Springpfuhl \<\> Wartenberg
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-28958)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
@@ -823,6 +789,35 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28779)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Halensee \<\> Beusselstraße ###
+
+03.05. (Fr), ca. 22 Uhr durchgehend bis 06.05. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29248&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22410&tx_sbbconstructions_list%5Bperiod%5D=17869&type=5679&cHash=ba67780468c9c0e48fe5f2d89c852478)
+
+09.05. (Do), ca. 22 Uhr durchgehend bis 13.05. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29248&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22410&tx_sbbconstructions_list%5Bperiod%5D=17870&type=5679&cHash=41fb3dfe10b144768732f04c5ac7924c)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29248&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22410&type=5679&cHash=b6d649269c805d5713ff10ce4e622f49)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S41/S42: Halensee \<\> Beusselstraße
+
+* **Achtung:**
+   Am 05.05. (So), ca. 6.30 Uhr bis ca. 17 Uhr kann der Bus S41/S42 wegen einer Laufveranstaltung nur zwischen Westend \<\> Jungfernheide (Olbersstraße) \<\> Beusselstraße fahren, bitte weichen Sie zwischen Charlottenburg \<\> Jungfernheide auf die U7 aus.
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-westend/#con-29248)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
