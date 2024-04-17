@@ -2,6 +2,47 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### kurzfristige Bauarbeiten Karlshorst ###
+
+ Letztes Update: 11:46 / 17.04.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der Linie S3 **ab Heute ca. 22:00 Uhr bis 18.04.2024 ca. 04:00 Uhr** zwischen Karlshorst und Rummelsburg unterbrochen.
+
+**Linie S3 verkehrt wie folgt:**
+
+* Westkreuz \<\> Rummelsburg sowie Karlshorst \<\> Erkner.
+
+---
+
+**letzte durchfahrende Züge der Linie S3:**
+
+* Erkner ab 21:24 Uhr \> Westkreuz an 22:22 Uhr
+* Spandau ab 21:08 Uhr \> Erkner an 22:21 Uhr
+
+---
+
+**Ein Ersatzverkehr mit Bussen wird zwischen Rummelsburg \<\> Karlshorst (über S Betriebsbahnhof Rummelsburg) eingerichtet:**
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S Bhf. Karlshorst : Treskowallee (wie Tram M17, 27, 37)
+* S Bhf. Betriebsbahnhof Rummelsburg : Sewanstr. (Haltestelle "Michiganseestr.", wie Bus 194)
+* S Bhf.Rummelsburg: Nöldnerstr. (wie Bus 194, 240, N94)
+
+---
+
+**Diese Bauarbeiten sind aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten.**
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
