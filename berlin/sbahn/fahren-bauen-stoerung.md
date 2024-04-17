@@ -6,19 +6,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
-### kurzfristige Bauarbeiten Karlshorst ###
+### kurzfristige Bauarbeiten in Karlshorst ###
 
- Letztes Update: 19:59 / 17.04.2024
+ Letztes Update: 21:07 / 17.04.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der Linie S3 **ab heute, ca. 22:00 Uhr bis 18.04.2024 ca. 04:00 Uhr sowie morgen, 18.04.2024 von ca. 22:00 Uhr bis 19.04.2024 ca. 04:00 Uhr** zwischen Karlshorst und Rummelsburg unterbrochen.
+Wegen kurzfristiger Bauarbeiten muss der Zugverkehr der Linie S3 **in den Nächten 17./18.04. (Mi/Do) und 18./19.04.2024 (Do/Fr), jeweils von ca. 22 Uhr bis 4 Uhr** zwischen Karlshorst und Rummelsburg unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet werden.
 
-**Linie S3 verkehrt wie folgt:**
+#### Zugverkehr: ####
 
-* Westkreuz \<\> Rummelsburg sowie Karlshorst \<\> Erkner.
+* **Linie S3 verkehrt** Spandau/ Westkreuz \<\> Rummelsburg sowie Karlshorst \<\> Erkner, dabei zwischen Karlshorst und Friedrichshagen bis ca. 23 Uhr im 10-Minuten-Takt.
 
-*Abweichend verkehren die Züge in Richtung Rummelsburg in Ostkreuz nur über Gleis 5 (Bahnsteig stadteinwärts)*
+#### Gleisänderung: ####
+
+* die Züge der S3 nach Rummelsburg verkehren in Ostkreuz abweichend von Gleis 5 (Bahnsteig stadteinwärts)
 
 ---
 
@@ -29,13 +31,13 @@ Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der Linie S3 **ab heute, ca
 
 ---
 
-**Ein Ersatzverkehr mit Bussen wird zwischen Rummelsburg \<\> Karlshorst (über S Betriebsbahnhof Rummelsburg) eingerichtet:**
+**Ein Ersatzverkehr mit Bussen wird zwischen Rummelsburg \<\> Karlshorst (über S Betriebsbahnhof Rummelsburg) eingerichtet.**
 
 **Haltestellen des Ersatzverkehrs:**
 
-* S Bhf. Karlshorst : Treskowallee (wie Tram M17, 27, 37)
-* S Bhf. Betriebsbahnhof Rummelsburg : Sewanstr. (Haltestelle "Michiganseestr.", wie Bus 194)
-* S Bhf.Rummelsburg: Nöldnerstr. (wie Bus 194, 240, N94)
+* S-Bhf. Karlshorst : Treskowallee (wie Tram M17, 27, 37)
+* S-Bhf. Betriebsbahnhof Rummelsburg : Sewanstr. (Haltestelle "Michiganseestr.", wie Bus 194)
+* S-Bhf.Rummelsburg: Nöldnerstr. (wie Bus 194, 240, N94)
 
 ---
 
