@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Karlshorst ###
 
- Letztes Update: 21:07 / 17.04.2024
+ Letztes Update: 21:13 / 17.04.2024
 
 Information
 
