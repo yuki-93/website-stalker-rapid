@@ -4,29 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Plänterwald beendet ###
-
- Letztes Update: 19:08 / 17.04.2024
-
-Information
-
-Nach einem Polizeieinsatz in Plänterwald (unbefugte Personen auf der Strecke) kommt es auf den Linien S8, S9 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)
 
 ### kurzfristige Bauarbeiten Karlshorst ###
 
- Letztes Update: 15:03 / 17.04.2024
+ Letztes Update: 19:59 / 17.04.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der Linie S3 **ab Heute ca. 22:00 Uhr bis 18.04.2024 ca. 04:00 Uhr** zwischen Karlshorst und Rummelsburg unterbrochen.
+Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der Linie S3 **ab heute, ca. 22:00 Uhr bis 18.04.2024 ca. 04:00 Uhr sowie morgen, 18.04.2024 von ca. 22:00 Uhr bis 19.04.2024 ca. 04:00 Uhr** zwischen Karlshorst und Rummelsburg unterbrochen.
 
 **Linie S3 verkehrt wie folgt:**
 
