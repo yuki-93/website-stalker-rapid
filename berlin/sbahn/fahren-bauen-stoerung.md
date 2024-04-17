@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten Karlshorst ###
 
- Letztes Update: 12:43 / 17.04.2024
+ Letztes Update: 15:03 / 17.04.2024
 
 Information
 
@@ -17,6 +17,8 @@ Wegen kurzfristiger Bauarbeiten wird der Zugverkehr der Linie S3 **ab Heute ca.
 **Linie S3 verkehrt wie folgt:**
 
 * Westkreuz \<\> Rummelsburg sowie Karlshorst \<\> Erkner.
+
+*Abweichend verkehren die Züge in Richtung Rummelsburg in Ostkreuz nur über Gleis 5 (Bahnsteig stadteinwärts)*
 
 ---
 
