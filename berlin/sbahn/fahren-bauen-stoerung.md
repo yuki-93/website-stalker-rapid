@@ -1168,8 +1168,10 @@ Information
 
 Information
 
-* kein S-Bahnverkehr: Altglienicke/Grünau/Spindlersfeld \<\> Schöneweide \<\> Baumschulenweg
-* kein S-Bahnverkehr: Treptower Park \<\> Warschauer Straße (S9-Kurve), bitte Umfahrung über Ostkreuz (mit Umstieg und Bahnsteigwechsel) nutzen
+* kein S-Bahnverkehr:
+  * Altglienicke/Grünau/Spindlersfeld \<\> Schöneweide \<\> Baumschulenweg
+  * Treptower Park \<\> Warschauer Straße (S9-Kurve), bitte Umfahrung über Ostkreuz (mit Umstieg und Bahnsteigwechsel) nutzen
+
 * Ersatzverkehr mit Bussen:
   * Bus S46: Grünau \<\> Baumschulenweg
   * Bus S47: Spindlersfeld \<\> Baumschulenweg
@@ -1180,6 +1182,7 @@ Information
 * Pendelverkehr:
   * Baumschulenweg \<\> Treptower Park (mit Umsteigen in Plänterwald) jeweils im 10-Minutentakt
 
+* Fahrplanänderung
 * Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
