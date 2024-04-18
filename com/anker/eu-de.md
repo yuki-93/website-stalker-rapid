@@ -25,7 +25,7 @@ Am Tag der Erde mit Anker sparen
 
 Bis zu 40% Rabatt und Gratisgeschenke
 
-8. - 22. April 2024
+8. - 28. April 2024
 
 [Jetzt shoppenmasterBanner1](https://www.anker.com/eu-de/tag-der-erde-sale?ref=masterBanner1)
 
