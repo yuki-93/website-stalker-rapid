@@ -6,32 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an einem Signal in Friedrichsfelde Ost ###
+### Reparatur an einem Signal in Friedrichsfelde Ost - beendet ###
 
- Letztes Update: 04:51 / 19.04.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Zugausfällen.
-
-* Der 10-Minuten-Takt der Linie S7 kann nur zwischen Potsdam Hbf und Ostbahnhof angeboten werden.
-* Die Linie S75 verkehrt nicht. *Bitte nutzen Sie zwischen Warschauer Straße und Springpfuhl die Linie S7.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Grünauer Kreuz ###
-
- Letztes Update: 04:08 / 19.04.2024
+ Letztes Update: 05:24 / 19.04.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Grünauer Kreuz kann es auf den Linien S45, S46, S8 und S9 zu Verspätungen kommen.
-
-* Die Linie S85 verkehrt zwischen Schöneweide und Frohnau.
+Nach einer Reparatur an einem Signal in Friedrichsfelde Ost kann es auf den Linien S5, S7 und S75 noch zu Zugausfällen kommen
 
 Wir bitten um Entschuldigung.
 
