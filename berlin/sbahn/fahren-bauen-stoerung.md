@@ -8,13 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Friedrichsfelde Ost ###
 
- Letztes Update: 04:26 / 19.04.2024
+ Letztes Update: 04:51 / 19.04.2024
 
 Information
 
 Wegen einer Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Zugausfällen.
 
-* Die Linie S75 verkehrt nur im 20-Minuten-Takt.
+* Der 10-Minuten-Takt der Linie S7 kann nur zwischen Potsdam Hbf und Ostbahnhof angeboten werden.
+* Die Linie S75 verkehrt nicht. *Bitte nutzen Sie zwischen Warschauer Straße und Springpfuhl die Linie S7.*
 
 Wir bitten um Entschuldigung.
 
