@@ -2,77 +2,7 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### kurzfristige Bauarbeiten in Karlshorst ###
-
- Letztes Update: 23:53 / 18.04.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten ist der Zugverkehr der Linie S3 bis ca. 04:00 Uhr zwischen Karlshorst und Rummelsburg unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
-
-#### Zugverkehr: ####
-
-* **Linie S3 verkehrt** Charlottenburg *(\*)* \<\> Rummelsburg sowie Karlshorst \<\> Erkner, dabei zwischen Karlshorst und Friedrichshagen bis ca. 23 Uhr im 10-Minuten-Takt.
-  *(\*) wegen planmäßiger Bauarbeiten im Bereich Westkreuz*
-
-#### Gleisänderung: ####
-
-* die Züge der S3 nach Rummelsburg verkehren in Ostkreuz abweichend von Gleis 5 (Bahnsteig stadteinwärts)
-
----
-
-**letzte durchfahrende Züge der Linie S3:**
-
-* Erkner ab 21:24 Uhr \> Westkreuz an 22:22 Uhr
-* Spandau ab 21:08 Uhr \> Erkner an 22:21 Uhr
-
----
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Rummelsburg und Karlshorst (über S Betriebsbahnhof Rummelsburg) eingerichtet.**
-
-**Haltestellen des Ersatzverkehrs:**
-
-* S-Bhf. Karlshorst : Treskowallee (wie Tram M17, 27, 37)
-* S-Bhf. Betriebsbahnhof Rummelsburg : Sewanstr. (Haltestelle "Michiganseestr.", wie Bus 194)
-* S-Bhf.Rummelsburg: Nöldnerstr. (wie Bus 194, 240, N94)
-
----
-
-**Diese Bauarbeiten sind aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten.**
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \<\> Spandau / Potsdam Hbf ###
-
-Nächte 15./16.04. (Mo/Di) und 18./19.04. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29201&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22366&tx_sbbconstructions_list%5Bperiod%5D=17844&type=5679&cHash=3dcbb256580bc2c36ba15d9b01f893fb)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Charlottenburg \<\> Westkreuz S-Bahnverkehr im ungefähren 5-/15-Minutentakt mit S7 und S9
-  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-f7042ce100/#con-29201)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
