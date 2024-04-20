@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### ärztl. Versorgung eines Fahrgastes im Zug in Johannisthal beendet ###
+### unbefugte Personen auf der Strecke in Yorckstraße beendet ###
 
- Letztes Update: 17:17 / 20.04.2024
+ Letztes Update: 18:15 / 20.04.2024
 
 Information
 
-Nach einer ärztl. Versorgung eines Fahrgastes im Zug in Johannisthal kommt es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz wegen unbefugten Personen auf der Strecke in Yorckstraße kann es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
