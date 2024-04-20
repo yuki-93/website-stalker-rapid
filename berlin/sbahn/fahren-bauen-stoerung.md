@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztl. Versorgung eines Fahrgastes im Zug in Johannisthal beendet ###
+
+ Letztes Update: 17:17 / 20.04.2024
+
+Information
+
+Nach einer ärztl. Versorgung eines Fahrgastes im Zug in Johannisthal kommt es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen und Zugausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
