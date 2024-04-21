@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### defektes Stellwerk im Bereich Lichtenberg ###
+
+ Letztes Update: 14:29 / 21.04.2024
+
+Information
+
+Wegen eines defekten Stellwerks im Bereich Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen:
+
+* Die Linie S5 verkehrt nur im 20-Minuten-Takt.
+* Die Linie S75 verkehrt nicht.
+  *Bitte nutzen Sie zwischen Warschauer Straße und Springpfuhl die Linie S7.*
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Vorabinformation: kurzfristige Bauarbeiten zwischen Baumschulenweg und Schöneweide in der Nacht 23./24.04.2024 (Di/Mi) ###
