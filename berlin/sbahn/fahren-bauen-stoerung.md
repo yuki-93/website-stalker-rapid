@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur am Stellwerk im Bereich Lichtenberg beendet ###
-
- Letztes Update: 18:55 / 21.04.2024
-
-Information
-
-Nach einer Reparatur am Stellwerk im Bereich Lichtenberg kann es auf den Linien S5, S7 und S75 noch zu Verspätungen und evtl. Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Vorabinformation: kurzfristige Bauarbeiten zwischen Baumschulenweg und Schöneweide in der Nacht 23./24.04.2024 (Di/Mi) ###
