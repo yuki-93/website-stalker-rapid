@@ -2,6 +2,69 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Vorabinformation: kurzfristige Bauarbeiten zwischen Baumschulenweg und Schöneweide in der Nacht 23./24.04.2024 (Di/Mi) ###
+
+ Letztes Update: 10:05 / 21.04.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten zwischen Baumschulenweg und Schöneweide muss der Zugverkehr der Linien S45, S46, S8 und S9 **in der Nacht 23./24.04.2024 (Di/Mi) von ca. 23:00 Uhr bis 03:00 Uhr** verändert durchgeführt werden.
+
+Die betroffenen Linien fahren wie folgt:
+
+* **S45:** fährt nicht
+* **S46:** fährt Hermannstraße \<\> Baumschulenweg und Schöneweide, Gleis 5 (Bahnsteig stadteinwärts) \<\> Königs Wusterhausen
+* **S8:** fährt Schönfließ/ Blankenburg \<\> Ostkreuz und Schöneweide, Gleis 5 (Bahnsteig stadteinwärts) \<\> Grünau
+* **S9:** fährt: Spandau \<\> Treptower Park und Schöneweide, Gleis 5 (Bahnsteig stadteinwärts) \<\> Flughafen BER
+
+---
+
+**Zwischen Treptower Park \<\> Baumschulenweg \<\> Schöneweide besteht Ersatzverkehr mit Bussen.**
+
+**Haltestellen des Ersatzverkehrs:**
+
+* S Treptower Park: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
+* S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
+* S Baumschulenweg: Baumschulenstraße (wie Bus 170, 265, N70)
+* S Schöneweide: Michael-Brückner-Straße (wie Bus 165, N60)
+
+---
+
+Bitte beachten Sie zusätzlich den veränderten Zugverkehr der Linien S41, S42, S45 und S46 aufgrund von Baumaßnahmen im Bereich Tempelhof. ([siehe Bauinformtion](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-39/#con-29209)).
+
+**Diese zusätzlichen Baumaßnahmen sind aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft vorhanden.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Vorabinformation: kurzfristige Bauarbeiten in Greifswalder Straße in der Nacht 22./23.04.2024 (Mo/Di) ###
+
+ Letztes Update: 09:58 / 21.04.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Greifswalder Straße muss der Zugverkehr der Linien S41, S42 und S8 **in der Nacht 22./23.04.2024 (Mo/Di) von ca. 23:30 Uhr bis 01:30 Uhr** verändert durchgeführt werden.
+
+Die betroffenen Linien fahren wie folgt:
+
+* **S41/S42:** zwischen Frankfurter Allee und Gesundbrunnen kann nur ein 20-Minuten-Takt angeboten werden
+* **S8:** fährt Grünau \<\> Treptower Park und Schönhauser Allee \<\> Blankenburg/ Schönfließ
+
+Bitte beachten Sie zusätzlich den veränderten Zugverkehr der Linien S41, S42, S45 und S46 aufgrund von Baumaßnahmen im Bereich Tempelhof \<\> Bundesplatz. ([siehe Bauinformtion](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-38/#con-29205)).
+
+**Diese zusätzlichen Baumaßnahmen sind aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft vorhanden.**
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
