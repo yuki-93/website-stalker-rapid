@@ -6,17 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### defektes Stellwerk im Bereich Lichtenberg ###
+### Reparatur am Stellwerk im Bereich Lichtenberg beendet ###
 
- Letztes Update: 14:29 / 21.04.2024
+ Letztes Update: 18:55 / 21.04.2024
 
 Information
 
-Wegen eines defekten Stellwerks im Bereich Lichtenberg kommt es auf den Linien S5, S7 und S75 zu Verspätungen und folgenden Einschränkungen:
-
-* Die Linie S5 verkehrt nur im 20-Minuten-Takt.
-* Die Linie S75 verkehrt nicht.
-  *Bitte nutzen Sie zwischen Warschauer Straße und Springpfuhl die Linie S7.*
+Nach einer Reparatur am Stellwerk im Bereich Lichtenberg kann es auf den Linien S5, S7 und S75 noch zu Verspätungen und evtl. Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
