@@ -4,21 +4,49 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur an einem Signal in Friedrichsfelde Ost ###
+### ärztliche Versorgung eines Fahrgastes in einem Zug in Wedding beendet, Reparatur an einem Signal in Innsbrucker Platz beendet ###
 
- Letztes Update: 12:52 / 22.04.2024
+ Letztes Update: 14:26 / 22.04.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen folgenden Einschränkungen:
+Nach der ärztlichen Versorgungen eines Fahrgastes in einem Zug in Wedding und der Reparatur an einem Signal in Innsbrucker Platz kommt es auf den Linien S41, S42 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung
+
+ Zugverkehr verändert
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Reparatur an einem Signal in Friedrichsfelde Ost beendet ###
+
+ Letztes Update: 14:20 / 22.04.2024
+
+Information
+
+Nach der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen folgenden Einschränkungen:
 
 * **Linie S75** fährt zwischen Warschauer Straße \<\> Wartenberg nur im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
+
+[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Reparatur an einem Signal in Innsbrucker Platz ###
+
+ Letztes Update: 13:28 / 22.04.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Innsbrucker Platz kommt es auf den Linien S42 und S46 zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -891,6 +919,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1/#con-28955)
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Grunewald \<\> Potsdam Hbf ###
+
+Nacht 29./30.04. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29378&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22542&tx_sbbconstructions_list%5Bperiod%5D=17921&type=5679&cHash=746a002848439cd899f284a1e5377298)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-74ec353e3a/#con-29378)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)
 
  Nur Nachts
@@ -1466,6 +1514,53 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-ostkreuz-estw-s9-sued-1/#con-29373)
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+ Nur Nachts
+
+### Hoppegarten \<\> Mahlsdorf ###
+
+Nächte 14./15.05. (Di/Mi) und 15./16.05. (Mi/Do), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29377&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22541&tx_sbbconstructions_list%5Bperiod%5D=17920&type=5679&cHash=f2fcefb5d10aa02147ca14a1b0ef9d60)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S5 steigen bitte in beiden Fahrtrichtungen in Hoppegarten um, die Weiterfahrt erfolgt nach jeweils 16 Minuten vom selben Gleis.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/stopfgang-nach-rueckbau-der-bruecke-im-kilometer-139/#con-29377)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Altglienicke/Grünau \<\> Schöneweide (Baumschulenweg) ###
+
+Nächte 15./16.05. (Mi/Do) und 16./17.05. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29374&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22538&tx_sbbconstructions_list%5Bperiod%5D=17919&type=5679&cHash=021b06b9add432221972a198a1d89483)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S46: Grünau \<\> Schöneweide
+  * Bus S9: Grünbergallee \<\> Schöneweide
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-ostkreuz-estw-s9-sued-weichenarbeiten-in-gruenau/#con-29374)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
