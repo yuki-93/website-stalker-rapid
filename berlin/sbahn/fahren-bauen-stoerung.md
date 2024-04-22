@@ -34,20 +34,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung verspätet
 
-[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Reparatur an einem Signal in Innsbrucker Platz ###
-
- Letztes Update: 13:28 / 22.04.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Innsbrucker Platz kommt es auf den Linien S42 und S46 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Vorabinformation: kurzfristige Bauarbeiten zwischen Baumschulenweg und Schöneweide in der Nacht 23./24.04.2024 (Di/Mi) ###
