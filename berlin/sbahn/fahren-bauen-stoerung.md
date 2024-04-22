@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Vorabinformation: kurzfristige Bauarbeiten zwischen Baumschulenweg und Schöneweide in der Nacht 23./24.04.2024 (Di/Mi) ###
 
- Letztes Update: 10:05 / 21.04.2024
+ Letztes Update: 08:46 / 22.04.2024
 
 Information
 
@@ -34,7 +34,7 @@ Die betroffenen Linien fahren wie folgt:
 
 ---
 
-Bitte beachten Sie zusätzlich den veränderten Zugverkehr der Linien S41, S42, S45 und S46 aufgrund von Baumaßnahmen im Bereich Tempelhof. ([siehe Bauinformtion](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-39/#con-29209)).
+Bitte beachten Sie zusätzlich den veränderten Zugverkehr der Linien S41, S42, S45 und S46 aufgrund von Baumaßnahmen im Bereich Tempelhof. ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-39/#con-29209)).
 
 **Diese zusätzlichen Baumaßnahmen sind aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft vorhanden.**
 
@@ -46,7 +46,7 @@ Wir bitten um Entschuldigung.
 
 ### Vorabinformation: kurzfristige Bauarbeiten in Greifswalder Straße in der Nacht 22./23.04.2024 (Mo/Di) ###
 
- Letztes Update: 09:58 / 21.04.2024
+ Letztes Update: 08:45 / 22.04.2024
 
 Information
 
@@ -57,7 +57,7 @@ Die betroffenen Linien fahren wie folgt:
 * **S41/S42:** zwischen Frankfurter Allee und Gesundbrunnen kann nur ein 20-Minuten-Takt angeboten werden
 * **S8:** fährt Grünau \<\> Treptower Park und Schönhauser Allee \<\> Blankenburg/ Schönfließ
 
-Bitte beachten Sie zusätzlich den veränderten Zugverkehr der Linien S41, S42, S45 und S46 aufgrund von Baumaßnahmen im Bereich Tempelhof \<\> Bundesplatz. ([siehe Bauinformtion](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-38/#con-29205)).
+Bitte beachten Sie zusätzlich den veränderten Zugverkehr der Linien S41, S42, S45 und S46 aufgrund von Baumaßnahmen im Bereich Tempelhof \<\> Bundesplatz. ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-38/#con-29205)).
 
 **Diese zusätzlichen Baumaßnahmen sind aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft vorhanden.**
 
