@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### ärztliche Versorgung eines Fahrgastes in einem Zug in Wedding beendet, Reparatur an einem Signal in Innsbrucker Platz beendet ###
 
- Letztes Update: 16:18 / 22.04.2024
+ Letztes Update: 18:46 / 22.04.2024
 
 Information
 
-Nach der ärztlichen Versorgungen eines Fahrgastes in einem Zug in Wedding und der Reparatur an einem Signal in Innsbrucker Platz kommt es auf der Linie S41 zu folgenden Einschränkungen:
+Nach der ärztlichen Versorgungen eines Fahrgastes in einem Zug in Wedding und der Reparatur an einem Signal in Innsbrucker Platz kommt es auf den Linie S41 und S42 noch zu Verspätungen und folgenden Einschränkungen:
 
 * S41: fährt nur im 10-Minuten-Takt
 
@@ -20,15 +20,15 @@ Wir bitten um Entschuldigung
 
  Zugverkehr verändert
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S75](https://sbahn.berlin/fahren/s75/)
 
 ### Reparatur an einem Signal in Friedrichsfelde Ost beendet ###
 
- Letztes Update: 14:20 / 22.04.2024
+ Letztes Update: 18:44 / 22.04.2024
 
 Information
 
-Nach der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen folgenden Einschränkungen:
+Nach der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linie S75 noch zu folgenden Einschränkungen:
 
 * **Linie S75** fährt zwischen Warschauer Straße \<\> Wartenberg nur im 20-Minuten-Takt.
 
