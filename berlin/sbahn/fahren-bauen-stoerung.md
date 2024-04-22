@@ -4,38 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### ärztliche Versorgung eines Fahrgastes in einem Zug in Wedding beendet, Reparatur an einem Signal in Innsbrucker Platz beendet ###
-
- Letztes Update: 18:46 / 22.04.2024
-
-Information
-
-Nach der ärztlichen Versorgungen eines Fahrgastes in einem Zug in Wedding und der Reparatur an einem Signal in Innsbrucker Platz kommt es auf den Linie S41 und S42 noch zu Verspätungen und folgenden Einschränkungen:
-
-* S41: fährt nur im 10-Minuten-Takt
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an einem Signal in Friedrichsfelde Ost beendet ###
-
- Letztes Update: 18:44 / 22.04.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linie S75 noch zu folgenden Einschränkungen:
-
-* **Linie S75** fährt zwischen Warschauer Straße \<\> Wartenberg nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung verspätet
-
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Vorabinformation: kurzfristige Bauarbeiten zwischen Baumschulenweg und Schöneweide in der Nacht 23./24.04.2024 (Di/Mi) ###
