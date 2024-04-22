@@ -51,19 +51,19 @@ Spare am Tag der Erde
 
 Tagen
 
-15
+14
 
 :
 
 Std.
 
-41
+35
 
 :
 
 Min.
 
-34
+27
 
 Sek.
 
@@ -307,7 +307,7 @@ Ich stimme den[Nutzungsbedingungen](https://de.anker.com/policies/terms-of-servi
 
 Kontakt
 
-[](https://www.anker.com/undefined)
+[](https://www.anker.com/eu-de)
 
 [\+49 (0) 69 9579 7960](tel:+49 (0) 69 9579 7960)
 9:00 Uhr bis 17:00 Uhr
@@ -418,7 +418,7 @@ Support
 
 Deutschland / Deutsch
 
-[](https://www.anker.com/undefined?ref=footer)
+[](https://www.anker.com/eu-de?ref=footer)
 
 [](https://www.anker.com/eu-de?ref=footer)[](https://de.soundcore.com/?ref=footer)[](https://de.eufy.com/?ref=footer)[](https://de.seenebula.com/?ref=footer)[](https://de.ankerwork.com/?ref=footer)[](https://www.ankermake.com/eu-de?ref=footer)
 
