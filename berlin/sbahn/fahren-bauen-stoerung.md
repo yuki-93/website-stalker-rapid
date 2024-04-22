@@ -8,14 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Friedrichsfelde Ost ###
 
- Letztes Update: 11:06 / 22.04.2024
+ Letztes Update: 12:52 / 22.04.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S75 zu Verspätungen folgenden Einschränkungen:
 
-* Linie S5 verkehrt im 20-Minuten-Takt.
-* Linie S75 verkehrt Springpfuhl \<\> Wartenberg im 20-Minuten-Takt.
+* **Linie S75** fährt zwischen Warschauer Straße \<\> Wartenberg nur im 20-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
@@ -1437,6 +1436,36 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-ostkreuz-estw-s9-sued/#con-29362)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### (Altglienicke/Grünau) Schöneweide \<\> Treptower Park/Spandau ###
+
+Nacht 14./15.05. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29373&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22537&tx_sbbconstructions_list%5Bperiod%5D=17918&type=5679&cHash=604e8c5959df84086571f91e2a4a9409)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S9: Schöneweide \<\> Baumschulenweg
+
+* S-Bahn-Pendelverkehr:
+  * Baumschulenweg \<\> Treptower Park im 20-Minutentakt
+
+* Taktänderung:
+  * Altglienicke \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S9
+  * Grünau \<\> Adlershof S-Bahnverkehr nur im 20-Minutentakt mit S46
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungskorridor-baumschulenweg-ostkreuz-estw-s9-sued-1/#con-29373)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
