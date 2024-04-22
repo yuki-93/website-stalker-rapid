@@ -4,15 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+[S41](https://sbahn.berlin/fahren/s41/)
 
 ### ärztliche Versorgung eines Fahrgastes in einem Zug in Wedding beendet, Reparatur an einem Signal in Innsbrucker Platz beendet ###
 
- Letztes Update: 14:26 / 22.04.2024
+ Letztes Update: 16:18 / 22.04.2024
 
 Information
 
-Nach der ärztlichen Versorgungen eines Fahrgastes in einem Zug in Wedding und der Reparatur an einem Signal in Innsbrucker Platz kommt es auf den Linien S41, S42 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
+Nach der ärztlichen Versorgungen eines Fahrgastes in einem Zug in Wedding und der Reparatur an einem Signal in Innsbrucker Platz kommt es auf der Linie S41 zu folgenden Einschränkungen:
+
+* S41: fährt nur im 10-Minuten-Takt
 
 Wir bitten um Entschuldigung
 
