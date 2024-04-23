@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### ärztliche Versorgung eines Fahrgastes im Zug in Ostkreuz ###
+
+ Letztes Update: 15:20 / 23.04.2024
+
+Information
+
+Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Ostkreuz kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+
+* die zusätzlichen Züge der S3 in der Hauptverkehrszeit zwischen Ostbahnhof und Karlshorst fahren nicht
+* die zusätzlichen Züge der S5 in der Hauptverkehrszeit zwischen Warschauer Straße und Mahlsdorf fahren nicht
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an der Strecke im Bereich Beusselstraße und Jungfernheide ###
