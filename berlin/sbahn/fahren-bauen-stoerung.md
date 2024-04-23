@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)
 
 ### ärztliche Versorgung eines Fahrgastes im Zug in Ostkreuz beendet ###
 
- Letztes Update: 15:31 / 23.04.2024
+ Letztes Update: 17:06 / 23.04.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Ostkreuz kommt es auf den Linien S3, S5, S7 und S75 noch zu Verspätungen, Ausfällen und folgenden Einschränkungen:
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Ostkreuz kommt es auf den Linien S3 und S5 noch zu folgenden Einschränkungen:
 
 * die zusätzlichen Züge der S3 in der Hauptverkehrszeit zwischen Ostbahnhof und Karlshorst fahren nicht
 * die zusätzlichen Züge der S5 in der Hauptverkehrszeit zwischen Warschauer Straße und Mahlsdorf fahren nicht
