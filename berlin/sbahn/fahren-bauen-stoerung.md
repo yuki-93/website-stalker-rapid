@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S75](https://sbahn.berlin/fahren/s75/)
 
-### ärztliche Versorgung eines Fahrgastes im Zug in Ostkreuz beendet ###
+### Gegenstände auf der Strecke im Bereich Gehrenseestraße ###
 
- Letztes Update: 17:46 / 23.04.2024
+ Letztes Update: 18:59 / 23.04.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Ostkreuz kommt es auf der Linie S5 noch zu folgenden Einschränkungen:
+Wegen Gegenständen auf der Strecke fährt die Linie S75 zwischen Warschauer Straße und Wartenberg nur im 20-Minuten-Takt.
 
-* die zusätzlichen Züge der S5 in der Hauptverkehrszeit zwischen Warschauer Straße und Mahlsdorf fahren nicht
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
+ Takt geändert
 
 [S42](https://sbahn.berlin/fahren/s42/)
 
