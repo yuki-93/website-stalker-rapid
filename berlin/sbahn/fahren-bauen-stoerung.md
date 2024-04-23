@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an der Strecke im Bereich Beusselstraße und Jungfernheide ###
+
+ Letztes Update: 09:28 / 23.04.2024
+
+Information
+
+Wegen der Reparatur an der Strecke im Bereich Beusselstraße und Jungfernheide kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
+
+* Linie S42 verkehrt im 10-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert  Verbindung verspätet
+
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Vorabinformation: kurzfristige Bauarbeiten zwischen Baumschulenweg und Schöneweide in der Nacht 23./24.04.2024 (Di/Mi) ###
@@ -1113,6 +1129,9 @@ Information
 
 * Pendelverkehr:
   * Halensee \<\> Westend im 20-Minutentakt
+     Halensee ab zu den Minuten 06, 26, 46
+     Westend ab zu den Minuten 14, 34, 54
+     (im Nachtverkehr 08./09.05. (Mi/Do) befahren die S41/S42 den gesamten Ring, es besteht dann kein separater S-Bahn-Pendelverkehr)
 
 * Taktänderung:
   * Westend \<\> Schönhauser Allee S-Bahnverkehr nur im ungefähren 5-/5-/10-Minutentakt
