@@ -8,27 +8,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Beusselstraße und Jungfernheide ###
 
- Letztes Update: 09:28 / 23.04.2024
+ Letztes Update: 14:13 / 23.04.2024
 
 Information
 
-Wegen der Reparatur an der Strecke im Bereich Beusselstraße und Jungfernheide kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an der Strecke im Bereich Beusselstraße \> Jungfernheide kann es auf der Linie S42 zu Verspätungen kommen.
 
-* Linie S42 verkehrt im 10-Minuten-Takt.
+Zusätzlich kommt es zu folgenden Einschränkungen:
+
+* **Linie S42** fährt nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
- Takt geändert  Verbindung verspätet
+ Takt geändert
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Vorabinformation: kurzfristige Bauarbeiten zwischen Baumschulenweg und Schöneweide in der Nacht 23./24.04.2024 (Di/Mi) ###
+### kurzfristige Bauarbeiten zwischen Baumschulenweg und Schöneweide in der Nacht 23./24.04.2024 (Di/Mi) ###
 
- Letztes Update: 08:46 / 22.04.2024
+ Letztes Update: 13:20 / 23.04.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten zwischen Baumschulenweg und Schöneweide muss der Zugverkehr der Linien S45, S46, S8 und S9 **in der Nacht 23./24.04.2024 (Di/Mi) von ca. 23:00 Uhr bis 03:00 Uhr** verändert durchgeführt werden.
+Wegen kurzfristiger Bauarbeiten zwischen Baumschulenweg und Schöneweide muss der Zugverkehr der Linien S45, S46, S8 und S9 **in der heutigen Nacht 23./24.04.2024 (Di/Mi) von ca. 23:00 Uhr bis 03:00 Uhr** verändert durchgeführt werden.
 
 Die betroffenen Linien fahren wie folgt:
 
