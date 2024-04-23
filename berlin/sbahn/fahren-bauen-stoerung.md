@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal Grünauer Kreuz ###
 
- Letztes Update: 05:09 / 23.04.2024
+ Letztes Update: 06:38 / 23.04.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal im Bereich Grünauer Kreuz kommt es auf den Linien S 45, S46, S8, S85 und S9 zu Ausfällen und Verspätungen.
+Wegen einer Reparatur an einem Signal im Bereich Grünauer Kreuz kann es auf den Linien S 45, S46, S8, S85 und S9 zu Verspätungen kommen.
 
 * **Linie S 85** verkehrt Frohnau \<\> Schöneweide
 
