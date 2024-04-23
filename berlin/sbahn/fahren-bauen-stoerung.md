@@ -42,29 +42,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Vorabinformation: kurzfristige Bauarbeiten in Greifswalder Straße in der Nacht 22./23.04.2024 (Mo/Di) ###
-
- Letztes Update: 08:45 / 22.04.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Greifswalder Straße muss der Zugverkehr der Linien S41, S42 und S8 **in der Nacht 22./23.04.2024 (Mo/Di) von ca. 23:30 Uhr bis 01:30 Uhr** verändert durchgeführt werden.
-
-Die betroffenen Linien fahren wie folgt:
-
-* **S41/S42:** zwischen Frankfurter Allee und Gesundbrunnen kann nur ein 20-Minuten-Takt angeboten werden
-* **S8:** fährt Grünau \<\> Treptower Park und Schönhauser Allee \<\> Blankenburg/ Schönfließ
-
-Bitte beachten Sie zusätzlich den veränderten Zugverkehr der Linien S41, S42, S45 und S46 aufgrund von Baumaßnahmen im Bereich Tempelhof \<\> Bundesplatz. ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-38/#con-29205)).
-
-**Diese zusätzlichen Baumaßnahmen sind aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft vorhanden.**
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -175,32 +152,6 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28778)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
-
- Nur Nachts
-
-### Südkreuz \<\> Westend ###
-
-Nacht 22./23.04. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29205&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22370&tx_sbbconstructions_list%5Bperiod%5D=17849&type=5679&cHash=f3978c29b45c3bd95025c9949de5296c)
-
- Takt geändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S41 und S42 steigen bitte in beiden Fahrtrichtungen in Südkreuz um, die Weiterfahrt erfolgt nach 6 Minuten (S41) bzw. nach 8 Minuten (S42) vom selben Gleis
-
-* Taktänderung:
-  * Tempelhof \<\> Bundesplatz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42 (mit Umsteigen in Südkreuz)
-
-* Fahrplanänderung
-* Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-38/#con-29205)
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
  Nur Nachts
@@ -228,26 +179,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-39/#con-29209)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Potsdam Hbf ###
-
-Nacht 22./23.04. (Mo/Di), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29217&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22382&tx_sbbconstructions_list%5Bperiod%5D=17855&type=5679&cHash=7c39581ddcc8553a14db2702202064f3)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-3b5d8bd1fb/#con-29217)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
