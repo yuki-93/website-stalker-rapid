@@ -4,19 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Polizeieinsatz zwischen Tempelhof und Südkreuz ###
+
+ Letztes Update: 20:22 / 23.04.2024
+
+Information
+
+Wegen eines Polizeieinsatzes (unbefugte Personen auf der Strecke) kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gegenstände auf der Strecke im Bereich Gehrenseestraße ###
 
- Letztes Update: 18:59 / 23.04.2024
+ Letztes Update: 19:46 / 23.04.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke fährt die Linie S75 zwischen Warschauer Straße und Wartenberg nur im 20-Minuten-Takt.
+Wegen Gegenständen auf der Strecke ist der Zugverkehr der Linie S75 zwischen Springpfuhl und Wartenberg unterbrochen.
 
 Wir bitten um Ihr Verständnis.
 
- Takt geändert
+ fährt nicht
 
 [S42](https://sbahn.berlin/fahren/s42/)
 
