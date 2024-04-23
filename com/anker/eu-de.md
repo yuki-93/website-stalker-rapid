@@ -51,19 +51,19 @@ Spare am Tag der Erde
 
 Tagen
 
-16
+15
 
 :
 
 Std.
 
-32
+41
 
 :
 
 Min.
 
-25
+36
 
 Sek.
 
