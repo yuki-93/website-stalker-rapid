@@ -45,25 +45,25 @@ Ein kleiner Schritt für
 
 Spare am Tag der Erde
 
-01
+00
 
 :
 
 Tagen
 
-00
+23
 
 :
 
 Std.
 
-39
+40
 
 :
 
 Min.
 
-08
+57
 
 Sek.
 
