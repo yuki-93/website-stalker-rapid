@@ -18,22 +18,6 @@ Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal Grünauer Kreuz ###
-
- Letztes Update: 05:28 / 24.04.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal im Bereich Grünauer Kreuz kann es auf den Linien S 45, S46, S8, S85 und S9 zu Verspätungen kommen.
-
-* **Linie S 85:** verkehrt Frohnau \<\> Schöneweide
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
