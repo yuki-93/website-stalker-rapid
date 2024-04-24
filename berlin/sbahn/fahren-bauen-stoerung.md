@@ -987,10 +987,10 @@ Nacht 01./02.05. (Mi/Do), ca. 21:40 bis 1:30
 
 Information
 
-* Ersatzverkehr mit Bussen
-  * Bus S1 Schönholz \<\> Oranienburg
-  * Bus S2 Blankenburg \<\> Bernau
-  * Bus S8 Mühlenbeck Mönchmühle \<\> Birkenwerder
+* Ersatzverkehr mit Bussen:
+  * Bus S1: Schönholz \<\> Oranienburg
+  * Bus S2: Blankenburg \<\> Bernau
+  * Bus S8: Mühlenbeck Mönchmühle \<\> Birkenwerder
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
