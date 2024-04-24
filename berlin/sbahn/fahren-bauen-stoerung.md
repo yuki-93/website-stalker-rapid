@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Schönholz ###
 
- Letztes Update: 18:19 / 24.04.2024
+ Letztes Update: 18:39 / 24.04.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1, S25 und S85 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Schönholz kommt es auf den Linien S1 und S25 zu Verspätungen sowie zu nachfolgenden Abweichungen:
+
+\- die Linie S85 verkehrt nicht.
 
 Wir bitten um Entschuldigung.
 
