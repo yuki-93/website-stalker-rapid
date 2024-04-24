@@ -2,46 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Bauarbeiten zwischen Baumschulenweg und Schöneweide in der Nacht 23./24.04.2024 (Di/Mi) ###
-
- Letztes Update: 13:20 / 23.04.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten zwischen Baumschulenweg und Schöneweide muss der Zugverkehr der Linien S45, S46, S8 und S9 **in der heutigen Nacht 23./24.04.2024 (Di/Mi) von ca. 23:00 Uhr bis 03:00 Uhr** verändert durchgeführt werden.
-
-Die betroffenen Linien fahren wie folgt:
-
-* **S45:** fährt nicht
-* **S46:** fährt Hermannstraße \<\> Baumschulenweg und Schöneweide, Gleis 5 (Bahnsteig stadteinwärts) \<\> Königs Wusterhausen
-* **S8:** fährt Schönfließ/ Blankenburg \<\> Ostkreuz und Schöneweide, Gleis 5 (Bahnsteig stadteinwärts) \<\> Grünau
-* **S9:** fährt: Spandau \<\> Treptower Park und Schöneweide, Gleis 5 (Bahnsteig stadteinwärts) \<\> Flughafen BER
-
----
-
-**Zwischen Treptower Park \<\> Baumschulenweg \<\> Schöneweide besteht Ersatzverkehr mit Bussen.**
-
-**Haltestellen des Ersatzverkehrs:**
-
-* S Treptower Park: Puschkinallee (wie Bus 165, 166, 265, N60, N65)
-* S Plänterwald: Köpenicker Landstraße (wie Bus 165, 166, N60, N65)
-* S Baumschulenweg: Baumschulenstraße (wie Bus 170, 265, N70)
-* S Schöneweide: Michael-Brückner-Straße (wie Bus 165, N60)
-
----
-
-Bitte beachten Sie zusätzlich den veränderten Zugverkehr der Linien S41, S42, S45 und S46 aufgrund von Baumaßnahmen im Bereich Tempelhof. ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-39/#con-29209)).
-
-**Diese zusätzlichen Baumaßnahmen sind aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft vorhanden.**
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -232,26 +192,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28778)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
- Nur Nachts
-
-### Ahrensfelde \<\> Potsdam Hbf ###
-
-Nacht 23./24.04. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29218&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22383&tx_sbbconstructions_list%5Bperiod%5D=17856&type=5679&cHash=44120d12a34c873d7c1a9d032c571706)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-e039d1dc99/#con-29218)
 
 ### Fahrplanänderungen ###
 
