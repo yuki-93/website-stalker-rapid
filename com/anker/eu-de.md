@@ -51,19 +51,19 @@ Spare am Tag der Erde
 
 Tagen
 
-19
+18
 
 :
 
 Std.
 
-38
+37
 
 :
 
 Min.
 
-59
+03
 
 Sek.
 
@@ -84,13 +84,13 @@ Anker Nano
 
 Schnellste Ladepower für dein USB-C iPhone
 
-[Mehr erfahren](https://www.anker.com/eu-de/corporate-purchase?ref=homePageBanner)
+[Mehr erfahren](https://www.anker.com/eu-de/usb-c-charging)
 
 Anker Prime
 
 Multi-Geräte Schnellladelösungen
 
-[Mehr erfahren](https://www.anker.com/eu-de/collections/reisen?ref=homePageBanner)
+[Mehr erfahren](https://www.anker.com/eu-de/anker-prime)
 
 Entdecke Ladelösungen von Anker
 ----------
