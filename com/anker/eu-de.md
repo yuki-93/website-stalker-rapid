@@ -45,28 +45,6 @@ Ein kleiner Schritt für
 
 Spare am Tag der Erde
 
-00
-
-:
-
-Tagen
-
-00
-
-:
-
-Std.
-
-37
-
-:
-
-Min.
-
-22
-
-Sek.
-
 12. - 24. April 2024
 
 [Jetzt kaufenmasterBanner3](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner3)
