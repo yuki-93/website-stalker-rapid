@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur am Stellwerk Schöneberg beendet ###
 
- Letztes Update: 15:33 / 24.04.2024
+ Letztes Update: 16:52 / 24.04.2024
 
 Information
 
-Nach der Reparatur am Stellwerk Schöneberg kommt es auf den Linien S1, S2, S25 und S26 noch zu Verspätungen, einzelnen Ausfällen und nachfolgenden Einschränkungen:
-
-\- die Linien S1 verkehrt zwischen Zehlendorf \<\> Potsdamer Platz derzeit nur im 10-Minuten-Takt
+Nach der Reparatur am Stellwerk Schöneberg kommt es derzeit auf den Linien S1, S2, S25 und S26 noch zu Verspätungen.
 
 Wir bitten um Entschuldigung.
 
