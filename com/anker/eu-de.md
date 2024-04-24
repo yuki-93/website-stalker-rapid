@@ -51,19 +51,19 @@ Spare am Tag der Erde
 
 Tagen
 
-20
+19
 
 :
 
 Std.
 
-33
+38
 
 :
 
 Min.
 
-30
+59
 
 Sek.
 
@@ -71,48 +71,53 @@ Sek.
 
 [Jetzt kaufenmasterBanner3](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner3)
 
-Power in jeder Situation
+Bestelle Ladeinnovationen von Anker
 ----------
 
-Schnelle Power. Doppelter Speed.
+Anker MagGo
 
-Lade dein iPhone kabellos
-2× so schnell
+Schnelle, magnetische 15W-Ladepower
 
 [Mehr erfahren](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
 
-Spaß ohne Ende. Power ohne Mühe.
+Anker Nano
 
-Tanke Energie für deine Reisen mit reisefreundlichem Ladezubehör
-
-[Mehr erfahren](https://www.anker.com/eu-de/collections/reisen?ref=homePageBanner)
-
-Unternehmens-programm
-
-Jetzt in großen Mengen bestellen und smartes Tech von Anker mit mächtigen Rabatten sichern.
+Schnellste Ladepower für dein USB-C iPhone
 
 [Mehr erfahren](https://www.anker.com/eu-de/corporate-purchase?ref=homePageBanner)
 
-Entdecke innovative Ladelösungen
+Anker Prime
+
+Multi-Geräte Schnellladelösungen
+
+[Mehr erfahren](https://www.anker.com/eu-de/collections/reisen?ref=homePageBanner)
+
+Entdecke Ladelösungen von Anker
 ----------
 
-* Ultraschnelle Ladepower für all deine Apple-Geräte
+* Extreme Schnellladeleistung für Apple-Gadgets
 
-  Schnelligkeit in Kombination mit Sicherheit.
+  Perfekt für Tech-Fans, die schnelles, zuverlässiges und umweltfreundliches Laden schätzen.
 
-  [Mehr erfahren](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=homePageBanner)
+  [Mehr erfahren](https://www.anker.com/eu-de/collections/apple-accessories?ref=homePageBanner)
 
-Erlebe volle Power mit magnetischem Aufladen
+* Lade alle Geräte mit dem Multitasker
 
-Die Anziehungskraft zum stressfreien Laden
+  Unsere leistungsstarken Lösungen vereinfachen das gleichzeitige Laden all deiner Geräte.
 
-[Mehr erfahren](https://www.anker.com/eu-de/collections/magnetic?ref=homePageBanner)
+  [Mehr erfahren](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homePageBanner)
 
-Vielseitige Power mit Multi-Geräte-Ladeleistung
+Ladepower zum Mitnehmen
 
-Die Ladelösung für all deine Geräte gleichzeitig
+Praktische und stilvolle Ladelösungen, die deinem mobilen Lebensstil gerecht werden.
 
-[Mehr erfahren](https://www.anker.com/eu-de/collections/fuer-mehrere-geraete?ref=homePageBanner)
+[Mehr erfahren](https://www.anker.com/eu-de/collections/reisen?ref=homePageBanner)
+
+Effiziente Ladelösungen ohne Kabelsalat
+
+Verleihe deinem Arbeitsplatz mit stilvollen Ladegeräten Ordnung und Effizienz.
+
+[Mehr erfahren](https://www.anker.com/eu-de/collections/buero?ref=homePageBanner)
 
 Die Anker-Essentials
 ----------
