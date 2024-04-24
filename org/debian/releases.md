@@ -83,8 +83,8 @@ It was initially released as version 12.0 on June 10th, 2023 and its latest upda
   >  oldoldstable
 
    release, under [LTS support](https://wiki.debian.org/LTS)
-* [Debian 9 ( > stretch )](https://www.debian.org/releases/stretch/) — archived release, under [extended LTS support](https://wiki.debian.org/LTS/Extended)
-* [Debian 8 ( > jessie )](https://www.debian.org/releases/jessie/) — archived release, under [extended LTS support](https://wiki.debian.org/LTS/Extended)
+* [Debian 9 ( > stretch )](https://www.debian.org/releases/stretch/) — archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)
+* [Debian 8 ( > jessie )](https://www.debian.org/releases/jessie/) — archived release, under third-party paid [extended LTS support](https://wiki.debian.org/LTS/Extended)
 * [Debian 7 ( > wheezy )](https://www.debian.org/releases/wheezy/) — obsolete stable release
 * [Debian 6.0 ( > squeeze )](https://www.debian.org/releases/squeeze/) — obsolete stable release
 * [Debian GNU/Linux 5.0 ( > lenny )](https://www.debian.org/releases/lenny/) — obsolete stable release
