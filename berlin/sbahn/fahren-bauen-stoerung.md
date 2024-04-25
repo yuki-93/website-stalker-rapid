@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Personen im Gleisbereich zwischen Schönhauser Allee und Greifswalder Straße ###
+
+ Letztes Update: 14:51 / 25.04.2024
+
+Information
+
+Wegen Personen im Gleisbereich zwischen Schönhauser Allee und Greifswalder Straße sind die Linien S41, S42, S8 und S85 derzeit in diesem Bereich unterbrochen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unterbrochen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur am Signal Hauptbahnhof ###
