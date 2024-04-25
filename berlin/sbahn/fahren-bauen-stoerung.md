@@ -2,6 +2,34 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal Grünauer Kreuz ###
+
+ Letztes Update: 04:38 / 25.04.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal im Bereich Grünauer Kreuz kann es auf den Linien S 45, S46, S8, S85 und S9 zu Verspätungen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Signalstörung Hauptbahnhof ###
+
+ Letztes Update: 04:36 / 25.04.2024
+
+Information
+
+Wegen einer Signalstörung in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
