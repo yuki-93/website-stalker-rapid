@@ -4,33 +4,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Personen im Gleisbereich zwischen Schönhauser Allee und Greifswalder Straße ###
+### kurzfristiger Stromausfall zwischen Anhalter Bahnhof \<\> Oranienburger Straße behoben ###
 
- Letztes Update: 14:51 / 25.04.2024
-
-Information
-
-Wegen Personen im Gleisbereich zwischen Schönhauser Allee und Greifswalder Straße sind die Linien S41, S42, S8 und S85 derzeit in diesem Bereich unterbrochen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur am Signal Hauptbahnhof ###
-
- Letztes Update: 05:25 / 25.04.2024
+ Letztes Update: 15:47 / 25.04.2024
 
 Information
 
-Wegen einer Reparatur am Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen.
+Nach einem kurzfristigen Stromausfall zwischen Anhalter Bahnhof \<\> Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen, Ausfällen und nachfolgenden Abweichungen:
+
+\- die Linie S1 verkehrt derzeit zwischen Zehlendorf \<\> Potsdamer Platz nur im 10-Minuten-Takt,
+
+\- die Linie S26 verkehrt Teltow Stadt \<\> Südkreuz und Nordbahnhof \<\> Blankenburg.
 
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Personen haben den Gleisbereich verlassen ###
+
+ Letztes Update: 15:24 / 25.04.2024
+
+Information
+
+Nach Personen im Gleisbereich zwischen Schönhauser Allee und Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
