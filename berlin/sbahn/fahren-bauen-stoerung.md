@@ -4,6 +4,24 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### kurzfristiger Stromausfall zwischen Anhalter Bahnhof \<\> Oranienburger Straße behoben ###
+
+ Letztes Update: 18:07 / 25.04.2024
+
+Information
+
+Nach einem kurzfristigen Stromausfall im Bereich Potsdamer Platz kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen, Ausfällen und nachfolgenden Abweichungen:
+
+\- die Linie S1 verkehrt derzeit zwischen Zehlendorf \<\> Potsdamer Platz nur im 10-Minuten-Takt,
+
+\- die Linie S26 verkehrt Teltow Stadt \<\> Südkreuz und Nordbahnhof \<\> Blankenburg.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Personen haben den Gleisbereich verlassen ###
@@ -17,24 +35,6 @@ Nach Personen im Gleisbereich zwischen Schönhauser Allee und Greifswalder Stra�
 Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung verspätet
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### kurzfristiger Stromausfall zwischen Anhalter Bahnhof \<\> Oranienburger Straße behoben ###
-
- Letztes Update: 15:47 / 25.04.2024
-
-Information
-
-Nach einem kurzfristigen Stromausfall zwischen Anhalter Bahnhof \<\> Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen, Ausfällen und nachfolgenden Abweichungen:
-
-\- die Linie S1 verkehrt derzeit zwischen Zehlendorf \<\> Potsdamer Platz nur im 10-Minuten-Takt,
-
-\- die Linie S26 verkehrt Teltow Stadt \<\> Südkreuz und Nordbahnhof \<\> Blankenburg.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
