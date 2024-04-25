@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Reparatur am Zug in Oranienburger Straße ###
+### technische Untersuchung am Zug in Blankenburg ###
 
- Letztes Update: 06:04 / 25.04.2024
+ Letztes Update: 06:54 / 25.04.2024
 
 Information
 
-Nach einer Reparatur am Zug in Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
+Wegen einer technischen Untersuchung am Zug in Blankenburg kommt es auf den Linien S2 und S8 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
