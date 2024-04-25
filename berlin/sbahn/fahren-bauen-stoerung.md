@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Personen haben den Gleisbereich verlassen ###
+
+ Letztes Update: 16:27 / 25.04.2024
+
+Information
+
+Nach Personen im Gleisbereich zwischen Schönhauser Allee und Greifswalder Straße kommt es auf den Linien S41, S42 und S85 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
 ### kurzfristiger Stromausfall zwischen Anhalter Bahnhof \<\> Oranienburger Straße behoben ###
@@ -21,20 +35,6 @@ Nach einem kurzfristigen Stromausfall zwischen Anhalter Bahnhof \<\> Oranienbur
 Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Personen haben den Gleisbereich verlassen ###
-
- Letztes Update: 15:24 / 25.04.2024
-
-Information
-
-Nach Personen im Gleisbereich zwischen Schönhauser Allee und Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
