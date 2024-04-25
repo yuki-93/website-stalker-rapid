@@ -40,14 +40,13 @@ blitzschnelle magnetische Power
 
 [Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner2)
 
-Ein kleiner Schritt für
- einen großen Unterschied
+Das erste 2000W-Balkonkraftwerkmit Speicher der Welt
 
-Spare am Tag der Erde
+Solarpower maximierenheißt Tag und Nacht sparen
 
-12. - 24. April 2024
+[Jetzt kaufenmasterBanner3](https://www.anker.com/eu-de/products/solarbank-dual-system-b17c0?ref=masterBanner3)
 
-[Jetzt kaufenmasterBanner3](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-angebote-bms?ref=masterBanner3)
+Mehr erfahren
 
 Bestelle Ladeinnovationen von Anker
 ----------
