@@ -4,34 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Baumaßnahmen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
- Nur Nachts
-
-### Baumschulenweg \<\> Bundesplatz ###
-
-Nächte 23./24.04. (Di/Mi) und 24./25.04. (Mi/Do), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29209&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22374&tx_sbbconstructions_list%5Bperiod%5D=17850&type=5679&cHash=a60c90292887872aeabb401ed8b1ddde)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Hermannstraße \<\> Schöneberg im 20-Minutentakt
-     Im Abschnitt Südkreuz \<\> Schöneberg fahren der Pendelzug und die S41/S42 parallel.
-
-* Taktänderung:
-  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S46
-  * Schöneberg \<\> Bundesplatz S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* Fahrplanänderung
-* Bahnsteig- und Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-39/#con-29209)
-
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Gehrenseestraße ###
@@ -112,59 +84,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/sanierung-gleishallen-ostbahnhof-1/#con-29195)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof \<\> Westkreuz \<\> Spandau ###
-
-Nacht 24./25.04. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29203&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22368&tx_sbbconstructions_list%5Bperiod%5D=17846&type=5679&cHash=5cf7fd41f7b7ae2ae1c8bbfa866fb53a)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr im ungefähren 7-/13-Minutentakt mit S3 und S9
-  * Zoologischer Garten \<\> Charlottenburg S-Bahnverkehr nur im 20-Minutentakt mit S9
-  * Westkreuz \<\> Spandau S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-fcfea97b70/#con-29203)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Südkreuz/Yorckstraße (Großgörschenstraße) \<\> Potsdamer Platz ###
-
-Nacht 24./25.04. (Mi/Do) , ca. 23 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29191&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22357&tx_sbbconstructions_list%5Bperiod%5D=17840&type=5679&cHash=99502c3d3dc46c576bc21a4b11408114)
-
- Pendelverkehr
-
-Information
-
-* S-Bahn-Pendelverkehr:
-  * Yorckstraße (Großgörschenstraße) \<\> Anhalter Bahnhof \<\> Potsdamer Platz im 20-Minutentakt;
-     Yorckstraße (Großgörschenstraße) ab zu den Minuten 10, 30, 50;
-     Potsdamer Platz ab zu den Minuten 00, 20, 40
-
-* Taktänderung:
-  * Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-in-anhalter-bahnhof/#con-29191)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
