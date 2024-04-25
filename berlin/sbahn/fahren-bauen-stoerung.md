@@ -4,31 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur an einem Signal Grünauer Kreuz ###
+### Reparatur am Zug in Oranienburger Straße ###
 
- Letztes Update: 04:38 / 25.04.2024
+ Letztes Update: 06:04 / 25.04.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal im Bereich Grünauer Kreuz kann es auf den Linien S 45, S46, S8, S85 und S9 zu Verspätungen kommen.
+Nach einer Reparatur am Zug in Oranienburger Straße kommt es auf den Linien S1, S2, S25 und S26 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Signalstörung Hauptbahnhof ###
+### Reparatur am Signal Hauptbahnhof ###
 
- Letztes Update: 04:36 / 25.04.2024
+ Letztes Update: 05:25 / 25.04.2024
 
 Information
 
-Wegen einer Signalstörung in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen.
+Wegen einer Reparatur am Signal in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen.
 
- sonstige Einschränkungen  Verbindung verspätet
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
