@@ -4,57 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Vorabinformation: kurzfristige Bauarbeiten in Charlottenburg in der Nacht 28./29.04.2024 (So/Mo), von ca. 20 Uhr bis ca. 02:30 Uhr ###
+### witterungsbedingte Beeinträchtigung im Bereich Waidmannslust \<\> Frohnau ###
 
- Letztes Update: 04:07 / 26.04.2024
+ Letztes Update: 14:15 / 26.04.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Charlottenburg muss der Zugverkehr der Linien S3, S5, S7 und S9 **in der Nacht 28./29.04.2024 (So/Mo) von ca. 20:00 Uhr bis 02:00 Uhr** zwischen Charlottenburg und Zoologischer Garten unterbrochen werden.
+Wegen einer witterungsbedingten Beeinträchtigung im Bereich Waidmannslust \<\> Frohnau kann es auf der LInie S1 zu Verspätungen kommen.
 
-**Zwischen Charlottenburg und Zoologischer Garten wird in diesem Zeitraum ein Ersatzverkehr mit Bussen eingerichtet.**
+Die Linie S85 verkehrt Grünau \<\> Nordbahnhof.
 
----
+Fahrgäste nutzen zur Umfahrung bitte zwischen Schönhauser Allee \<\> Bornholmer Straße die Linie S8 und zwischen Bornholmer Straße \<\> Frohnau die Linie S1.
 
-Haltestellen des Ersatzverkehrs
+Wir bitten um Verständnis.
 
-* **S Charlottenburg:** Stuttgarter Platz, BVG-Haltestelle "U Wilmersdorfer Str./ S Charlottenburg" (wie Bus X49, 309, 310)
-   (Übergang vom/ zum planmäßigen Ersatzverkehr mit Bussen für die Linien S3, S7, S9 von/ nach Grunewald/ Olympistadion)
-* **S Savignyplatz:** Kantstraße (wie Bus M49, X34)
-* **S+U Zoologischer Garten:** Hardenbergstraße/ unter der Brücke (wie Bus N2, N9)
-
----
-
-Zugverkehr
-
-* S3 fährt ...
-  * Erkner \<\> Zoologischer Garten und Olympiastadion \<\> Spandau
-  * 10-Minuten-Takt: Erkner \<\> Ostbahnhof
-
-* S5 fährt ...
-  * Strausberg Nord \<\> Wuhletal und Wartenberg \<\> Friedrichstraße
-  * 10-Minuten-Takt: Mahlsdorf \<\> Wuhletal und Wartenberg \<\> Ostbahnhof
-
-* S7 fährt ...
-  * Ahrensfelde \<\> Tiergarten
-  * 10-Minuten-Takt: Ahrensfelde \<\> Warschauer Straße
-
-* S9 fährt ...
-  * Flughafen BER \<\> Zoologischer Garten und Olympiastadion \<\> Spandau
-
----
-
-**Bitte beachten Sie:**
-
-* diese Bauarbeiten sind aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft vorhanden.
-* die geplanten Bauarbeiten zwischen Charlottenburg und Grunewald/ Olympiastadion ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9281d1b0b2/#con-28961)).
-* die geplanten Bauarbeiten zwischen Wuhletal und Friedrichsfelde Ost ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1/#con-28955))
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -409,7 +375,7 @@ Nur Wochenende
 
 ### Wuhletal \<\> Friedrichsfelde Ost ###
 
-28.04. (So), ca. 12 Uhr duuchgehend bis 29.04. (Mo), ca. 1.30 Uhr
+28.04. (So), ca. 12 Uhr duchgehend bis 29.04. (Mo), ca. 1.30 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28955&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22125&tx_sbbconstructions_list%5Bperiod%5D=17874&type=5679&cHash=62d9133e0b473cafb0c5ea7887bcc124)
 
@@ -425,6 +391,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1/#con-28955)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Zoologischer Garten \<\> Charlottenburg ###
+
+Nacht 28./29.04.2024 (So/Mo), ca. 20 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29397&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22568&tx_sbbconstructions_list%5Bperiod%5D=17933&type=5679&cHash=90d6fd8dca17418420985f9f6784709f)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen: Zoologischer Garten \<\> Charlottenburg
+* Diese Bauarbeiten sind aufgrund der Kurzfristigkeit **nicht** in der Fahrplanauskunft vorhanden.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-in-charlottenburg/#con-29397)
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
