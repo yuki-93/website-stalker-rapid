@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### technische Untersuchung am Zug in Potsdamer Platz beendet ###
+
+ Letztes Update: 18:15 / 26.04.2024
+
+Information
+
+Nach einer technischen Untersuchung am Zug in Potsdamer Platz kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und nachfolgenden Einschränkungen:
+
+\- die Linie S26 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
