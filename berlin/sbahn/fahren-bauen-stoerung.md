@@ -4,35 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz in Mehrower Allee beendet ###
+### mehrere Polizeieinsätze bei der Abreise vom Fußballspiel ###
 
- Letztes Update: 20:50 / 26.04.2024
+ Letztes Update: 21:54 / 26.04.2024
 
 Information
 
-Nach einem Polizeieinsatz in Mehrower Allee kommt es auf der Linie S7 noch zu Verspätungen und Ausfällen.
+Nach mehreren Polizeieinsätzen nach dem Fußballspiel im Olympiastadion kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
-Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### technische Untersuchung am Zug in Potsdamer Platz beendet ###
-
- Letztes Update: 20:48 / 26.04.2024
-
-Information
-
-Nach einer technischen Untersuchung am Zug in Potsdamer Platz kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und nachfolgenden Einschränkungen:
-
-\- die Linie S26 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
