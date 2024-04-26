@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### witterungsbedingte Beeinträchtigung im Bereich Waidmannslust \<\> Frohnau ###
-
- Letztes Update: 14:15 / 26.04.2024
-
-Information
-
-Wegen einer witterungsbedingten Beeinträchtigung im Bereich Waidmannslust \<\> Frohnau kann es auf der LInie S1 zu Verspätungen kommen.
-
-Die Linie S85 verkehrt Grünau \<\> Nordbahnhof.
-
-Fahrgäste nutzen zur Umfahrung bitte zwischen Schönhauser Allee \<\> Bornholmer Straße die Linie S8 und zwischen Bornholmer Straße \<\> Frohnau die Linie S1.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
