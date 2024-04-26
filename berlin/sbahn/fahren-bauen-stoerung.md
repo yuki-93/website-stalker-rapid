@@ -2,6 +2,60 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Vorabinformation: kurzfristige Bauarbeiten in Charlottenburg in der Nacht 28./29.04.2024 (So/Mo), von ca. 20 Uhr bis ca. 02:30 Uhr ###
+
+ Letztes Update: 04:07 / 26.04.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Charlottenburg muss der Zugverkehr der Linien S3, S5, S7 und S9 **in der Nacht 28./29.04.2024 (So/Mo) von ca. 20:00 Uhr bis 02:00 Uhr** zwischen Charlottenburg und Zoologischer Garten unterbrochen werden.
+
+**Zwischen Charlottenburg und Zoologischer Garten wird in diesem Zeitraum ein Ersatzverkehr mit Bussen eingerichtet.**
+
+---
+
+Haltestellen des Ersatzverkehrs
+
+* **S Charlottenburg:** Stuttgarter Platz, BVG-Haltestelle "U Wilmersdorfer Str./ S Charlottenburg" (wie Bus X49, 309, 310)
+   (Übergang vom/ zum planmäßigen Ersatzverkehr mit Bussen für die Linien S3, S7, S9 von/ nach Grunewald/ Olympistadion)
+* **S Savignyplatz:** Kantstraße (wie Bus M49, X34)
+* **S+U Zoologischer Garten:** Hardenbergstraße/ unter der Brücke (wie Bus N2, N9)
+
+---
+
+Zugverkehr
+
+* S3 fährt ...
+  * Erkner \<\> Zoologischer Garten und Olympiastadion \<\> Spandau
+  * 10-Minuten-Takt: Erkner \<\> Ostbahnhof
+
+* S5 fährt ...
+  * Strausberg Nord \<\> Wuhletal und Wartenberg \<\> Friedrichstraße
+  * 10-Minuten-Takt: Mahlsdorf \<\> Wuhletal und Wartenberg \<\> Ostbahnhof
+
+* S7 fährt ...
+  * Ahrensfelde \<\> Tiergarten
+  * 10-Minuten-Takt: Ahrensfelde \<\> Warschauer Straße
+
+* S9 fährt ...
+  * Flughafen BER \<\> Zoologischer Garten und Olympiastadion \<\> Spandau
+
+---
+
+**Bitte beachten Sie:**
+
+* diese Bauarbeiten sind aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft vorhanden.
+* die geplanten Bauarbeiten zwischen Charlottenburg und Grunewald/ Olympiastadion ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9281d1b0b2/#con-28961)).
+* die geplanten Bauarbeiten zwischen Wuhletal und Friedrichsfelde Ost ([siehe Bauinformation](https://sbahn.berlin/fahren/bauen-stoerung/detail/neubau-eisenbahnbruecke-blumberger-damm-1/#con-28955))
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -114,92 +168,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-9281d1b0b2/#con-28961)
-
-### Fahrplanänderungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Charlottenburg \> Warschauer Straße ###
-
-23.04. (Di) bis 26.04. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=17861&type=5679&cHash=ee3c3d62b228490f7cc0d94798b6a8a1)
-
-14.05. (Di) bis 17.05. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=17905&type=5679&cHash=eb1e723ff2b05bf2b107678a1014afae)
-
-28.05. (Di) bis 31.05. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=17930&type=5679&cHash=8ba66d0e47423d5f58de59398bdcf1fd)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&type=5679&cHash=8ff068d8b1d55331a31d545e796bc2ef)
-
- fährt nicht
-
-Information
-
-* Der Zug Charlottenburg ab 3:02 Uhr nach Flughafen BER (an 4:00 Uhr) beginnt erst um 3:26 Uhr in Warschauer Straße.
-* Der Zug fällt von Charlottenburg bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Warschauer Straße ###
-
-23.04. (Di) bis 26.04. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&tx_sbbconstructions_list%5Bperiod%5D=17862&type=5679&cHash=388347a15fb47d45ede1b8944c9c7f5f)
-
-14.05. (Di) bis 17.05. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&tx_sbbconstructions_list%5Bperiod%5D=17906&type=5679&cHash=63549368c30466e6e48f1232a31507c6)
-
-28.05. (Di) bis 31.05. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&tx_sbbconstructions_list%5Bperiod%5D=17931&type=5679&cHash=e971d60196618a54c0f6eeca40563000)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&type=5679&cHash=d1d6560c19a2380f446a28c372f2ee52)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:12 Uhr nach Flughafen BER (an 4:16 Uhr) beginnt erst um 3:39 Uhr in Warschauer Straße.
-* Der Zug fällt von Westkreuz bis Warschauer Straße aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \> Ostbahnhof ###
-
-23.04. (Di) bis 26.04. (Fr) jeweils 3:32 Uhr bis 3:57 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29026&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22177&tx_sbbconstructions_list%5Bperiod%5D=17863&type=5679&cHash=a6a19fa73de90507ab033ba6f36ada83)
-
-14.05. (Di) bis 17.05. (Fr) jeweils 3:32 Uhr bis 3:57 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29026&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22177&tx_sbbconstructions_list%5Bperiod%5D=17907&type=5679&cHash=d3e7347b39a2b811248c3b4080743e27)
-
-28.05. (Di) bis 31.05. (Fr) jeweils 3:32 Uhr bis 3:57 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29026&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22177&tx_sbbconstructions_list%5Bperiod%5D=17932&type=5679&cHash=df1341988da824896413903d82e77abb)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29026&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22177&type=5679&cHash=445ad02f1803c93d0f5d5b8e454826e8)
-
- fährt nicht
-
-Information
-
-* Der Zug Westkreuz ab 3:32 Uhr nach Flughafen BER (an 4:36 Uhr) beginnt erst um 3:57 Uhr in Ostbahnhof und fällt von Westkreuz bis Ostbahnhof aus.
-* Der Zug fällt von Westkreuz bis Ostbahnhof aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/)
 
 Hinweis
 
@@ -1087,10 +1055,6 @@ Information
 
 ### Charlottenburg \> Warschauer Straße ###
 
-23.04. (Di) bis 26.04. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=17861&type=5679&cHash=ee3c3d62b228490f7cc0d94798b6a8a1)
-
 14.05. (Di) bis 17.05. (Fr) jeweils 3:02 Uhr bis 3:26 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27329&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20439&tx_sbbconstructions_list%5Bperiod%5D=17905&type=5679&cHash=eb1e723ff2b05bf2b107678a1014afae)
@@ -1139,10 +1103,6 @@ Information
 
 ### Westkreuz \> Warschauer Straße ###
 
-23.04. (Di) bis 26.04. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&tx_sbbconstructions_list%5Bperiod%5D=17862&type=5679&cHash=388347a15fb47d45ede1b8944c9c7f5f)
-
 14.05. (Di) bis 17.05. (Fr) jeweils 3:12 Uhr bis 3:39 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27321&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20429&tx_sbbconstructions_list%5Bperiod%5D=17906&type=5679&cHash=63549368c30466e6e48f1232a31507c6)
@@ -1166,10 +1126,6 @@ Information
  Nur Nachts
 
 ### Westkreuz \> Ostbahnhof ###
-
-23.04. (Di) bis 26.04. (Fr) jeweils 3:32 Uhr bis 3:57 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29026&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22177&tx_sbbconstructions_list%5Bperiod%5D=17863&type=5679&cHash=a6a19fa73de90507ab033ba6f36ada83)
 
 14.05. (Di) bis 17.05. (Fr) jeweils 3:32 Uhr bis 3:57 Uhr
 
