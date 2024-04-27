@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Waidmannslust ###
-
- Letztes Update: 16:01 / 27.04.2024
-
-Information
-
-Wegen der Reparatur eines Signals in Waidmannslust kommt es auf der Linie S1 zu Verspätungen.
-
-Der 10-Minutentakt auf dieser Linie wird nur zwischen Potsdam Hauptbahnhof und Gesundbrunnen angeboten.
-
-Wir bitten um Entschuldigung
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
