@@ -19,19 +19,19 @@ Am Tag der Erde mit Anker sparen. Bis zu 40% Rabatt und Gratisgeschenke
 
 Tagen
 
-08
+07
 
 :
 
 Std.
 
-40
+43
 
 :
 
 Min.
 
-33
+11
 
 Sek.
 
@@ -53,19 +53,19 @@ Bis zu 40% Rabatt und Gratisgeschenke
 
 Tagen
 
-08
+07
 
 :
 
 Std.
 
-40
+43
 
 :
 
 Min.
 
-33
+11
 
 Sek.
 
