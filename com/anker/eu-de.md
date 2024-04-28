@@ -13,22 +13,6 @@ Am Tag der Erde mit Anker sparen. Bis zu 40% Rabatt und Gratisgeschenke
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/tag-der-erde-sale)
 
-00
-
-:
-
-Std.
-
-42
-
-:
-
-Min.
-
-56
-
-Sek.
-
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
 ProdukteNach KategorieNeuerscheinungenAngebote[Tag Der Erde | Sale](https://www.anker.com/eu-de/tag-der-erde-sale?ref=naviMenu)
@@ -40,22 +24,6 @@ Hilfe
 Am Tag der Erde mit Anker sparen
 
 Bis zu 40% Rabatt und Gratisgeschenke
-
-00
-
-:
-
-Std.
-
-42
-
-:
-
-Min.
-
-56
-
-Sek.
 
 [Jetzt shoppenmasterBanner1](https://www.anker.com/eu-de/tag-der-erde-sale?ref=masterBanner1)
 
