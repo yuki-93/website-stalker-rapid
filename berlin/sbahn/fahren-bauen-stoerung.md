@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur an einem Signal ###
+### Reparatur an einem Signal in Buckower Chaussee ###
 
- Letztes Update: 11:53 / 28.04.2024
+ Letztes Update: 13:35 / 28.04.2024
 
 Information
 
