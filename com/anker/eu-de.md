@@ -13,19 +13,19 @@ Am Tag der Erde mit Anker sparen. Bis zu 40% Rabatt und Gratisgeschenke
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/tag-der-erde-sale)
 
-19
+18
 
 :
 
 Std.
 
-30
+39
 
 :
 
 Min.
 
-02
+34
 
 Sek.
 
@@ -47,19 +47,19 @@ Bis zu 40% Rabatt und Gratisgeschenke
 
 Tagen
 
-19
+18
 
 :
 
 Std.
 
-30
+39
 
 :
 
 Min.
 
-02
+34
 
 Sek.
 
