@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Vorabinformation: kurzfristige Bauarbeiten in Charlottenburg in der Nacht 28./29.04.2024 (So/Mo), von ca. 20 Uhr bis ca. 02:30 Uhr ###
+### kurzfristige Bauarbeiten in Charlottenburg in der Nacht 28./29.04.2024 (So/Mo), von ca. 20 Uhr bis ca. 02:30 Uhr ###
 
- Letztes Update: 18:16 / 27.04.2024
+ Letztes Update: 02:40 / 28.04.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Charlottenburg besteht **in der Nacht 28./29.04.2024 (So/Mo) von ca. 20:00 Uhr bis 02:00 Uhr** **zwischen Charlottenburg und Zoologischer Garten Ersatzverkehr mit Bussen.**
+Wegen kurzfristiger Bauarbeiten in Charlottenburg besteht **in der heutigen Nacht, 28./29.04.2024 (So/Mo) von ca. 20:00 Uhr bis 02:00 Uhr** **zwischen Charlottenburg und Zoologischer Garten Ersatzverkehr mit Bussen.**
 
 **Bitte beachten Sie dazu die** ([Bauinformation zu den kurzfristigen Bauarbeiten](https://sbahn.berlin/fahren/bauen-stoerung/detail/kurzfristige-bauarbeiten-in-charlottenburg/#con-29397)).
 
