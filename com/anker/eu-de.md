@@ -9,23 +9,13 @@ Anker MagGo, Click it, Charge it - Doppelter Speed.
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
 
-Am Tag der Erde mit Anker sparen. Bis zu 40% Rabatt und Gratisgeschenke
-
-[Jetzt kaufen\>\>](https://www.anker.com/eu-de/tag-der-erde-sale)
-
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Tag Der Erde | Sale](https://www.anker.com/eu-de/tag-der-erde-sale?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote
 
 Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
-
-Am Tag der Erde mit Anker sparen
-
-Bis zu 40% Rabatt und Gratisgeschenke
-
-[Jetzt shoppenmasterBanner1](https://www.anker.com/eu-de/tag-der-erde-sale?ref=masterBanner1)
 
 Neuerscheinungen
 
@@ -36,7 +26,15 @@ Click it, Charge it - Doppelter Speed.
 Die kabellose 15W-Ladeserie für
 blitzschnelle magnetische Power
 
-[Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner2)
+[Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner1)
+
+Anker Nano
+
+ C-ing is Believing
+
+Höchste Ladegeschwindigkeiten für dein USB-C iPhone
+
+[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner2)
 
 Das erste 2000W-Balkonkraftwerkmit Speicher der Welt
 
@@ -317,7 +315,7 @@ Produkte
 
 [Kabel](https://www.anker.com/eu-de/collections/kabel?ref=footer)
 
-[Ladepads](https://www.anker.com/eu-de/collections/kabelloses-zubehor?ref=footer)
+[Kabellose Ladegeräte](https://www.anker.com/eu-de/collections/kabelloses-zubehor?ref=footer)
 
 [Adapter & Hubs](https://www.anker.com/eu-de/collections/adapter-hubs?ref=footer)
 
