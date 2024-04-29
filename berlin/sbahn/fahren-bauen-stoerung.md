@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke im Bereich Mehrower Allee ###
 
- Letztes Update: 03:03 / 29.04.2024
+ Letztes Update: 06:06 / 29.04.2024
 
 Information
 
-Wegen der Reparatur an der Strecke im Bereich Mehrower Allee kann auf der Linie S7 zwischen Friedrichsfelde Ost und Ahrensfelde nur ein 20-Minuten-Takt angeobten werden.
+Wegen der Reparatur an der Strecke im Bereich Mehrower Allee kann auf der Linie S7 zwischen Friedrichsfelde Ost und Ahrensfelde nur ein 20-Minuten-Takt angeboten werden.
 
 Zwischen Ahrensfelde und Friedrichsfelde Ost fahren folgende Züge der S7:
 
