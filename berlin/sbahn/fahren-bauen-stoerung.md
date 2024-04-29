@@ -2,29 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an der Strecke im Bereich Mehrower Allee ###
-
- Letztes Update: 06:06 / 29.04.2024
-
-Information
-
-Wegen der Reparatur an der Strecke im Bereich Mehrower Allee kann auf der Linie S7 zwischen Friedrichsfelde Ost und Ahrensfelde nur ein 20-Minuten-Takt angeboten werden.
-
-Zwischen Ahrensfelde und Friedrichsfelde Ost fahren folgende Züge der S7:
-
-* Ahrensfelde ab (zu den Minuten): 11, 31, 51 nach Potsdam Hbf.
-* Friedrichsfelde Ost ab (zu den Minuten): 01, 21, 41 nach Ahrensfelde
-
-Bitte nutzen Sie zwischen Friedrichsfelde Ost und Springpfuhl auch die Züge der Linie S75.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
