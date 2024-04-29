@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Adlershof ###
+### ärztliche Versorgung eines Fahrgastes in Adlershof beendet ###
 
- Letztes Update: 14:25 / 29.04.2024
+ Letztes Update: 14:37 / 29.04.2024
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Adlershof kommt es auf den Linien S45, S46, S8, S85 und S9 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
