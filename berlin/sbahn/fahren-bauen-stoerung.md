@@ -4,11 +4,25 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### technische Untersuchung am Zug im Bereich Ostkreuz beendet ###
+
+ Letztes Update: 13:12 / 30.04.2024
+
+Information
+
+Nach einer technischen Untersuchung am Zug im Bereich Ostkreuz kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen uns Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur am Signal in Lichterfelde West ###
 
- Letztes Update: 12:15 / 30.04.2024
+ Letztes Update: 12:29 / 30.04.2024
 
 Information
 
