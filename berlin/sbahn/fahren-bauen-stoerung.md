@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur am Signal in Lichterfelde West ###
+
+ Letztes Update: 12:15 / 30.04.2024
+
+Information
+
+Wegen der Reparatur am Signal in Lichterfelde West kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+
+* Linie S1: Der 10-Minuten-Takt kann nur zwischen Frohnau und Schöneberg angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten in Spandau heute Abend ab ca. 22:00 Uhr ###
