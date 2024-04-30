@@ -8,21 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Spandau ###
 
- Letztes Update: 21:13 / 30.04.2024
+ Letztes Update: 22:00 / 30.04.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Spandau wird der Zugverkehr der Linien S3 und S9 **ab ca. 22:00 Uhr bis morgen früh ca. 04:00 Uhr** zwischen Stresow und Spandau unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen kurzfristiger Bauarbeiten in Spandau ist der Zugverkehr der Linien S3 und S9 zwischen Stresow und Spandau **bis morgen früh ca. 04:00 Uhr** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
-**Die betroffenen Linien verkehren dann wie folgt:**
+**Die betroffenen Linien verkehren wie folgt:**
 
 * **Linie S3**: Erkner \<\> Olympiastadion, *bitte nutzen Sie zwischen Olympiastadion und Stresow die Linie S9*
 * **Linie S9**: Flughafen BER \<\> Stresow
-
-**letzte durchfahrende Züge:**
-
-* **Linie S3**: Erkner ab 20:24 Uhr \> Spandau an 21:37 Uhr **und** Spandau ab 21:48 Uhr \> Erkner an 23:01 Uhr
-* **Linie S9**: Flughafen BER ab 20:29 Uhr \> Spandau an 21:47 Uhr **und** Spandau ab 21:58 Uhr \> Flughafen BER an 23:16 Uhr
 
 ---
 
@@ -46,6 +41,22 @@ Zur weiträumigen Umfahrung **zwischen Spandau und Charlottenburg** nutzen Sie b
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  Verbindung unterbrochen
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Tiere auf der Strecke in Neuenhagen ###
+
+ Letztes Update: 21:48 / 30.04.2024
+
+Information
+
+Wegen Tieren auf der Strecke in Neuenhagen ist der Zugverkehr der Linie S5 zwischen Hoppegarten und Fredersdorf unterbrochen.
+
+Die Linie S5 fährt: Westkreuz \<\> Hoppegarten ***und*** Fredersdorf \<\> Strausberg Nord.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
