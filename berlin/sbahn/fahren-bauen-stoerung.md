@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Feuerwehreinsatz auf der Strecke in Frankfurter Allee beendet ###
+
+ Letztes Update: 17:15 / 30.04.2024
+
+Information
+
+Nach einem Feuerwehreinsatz auf der Strecke in Frankfurter Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Polizeieinsatz Karow \<\> Zepernick ###
@@ -33,23 +47,6 @@ Der Fern- und Regionalverkehr ist ebenfalls betroffen
 Wir bitten um Verständnis.
 
  fährt nicht  Verbindung unterbrochen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### technische Untersuchung am Zug im Bereich Ostkreuz beendet ###
-
- Letztes Update: 13:34 / 30.04.2024
-
-Information
-
-Nach einer technischen Untersuchung am Zug im Bereich Ostkreuz kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen uns Ausfällen.
-
-* Die zusätzlichen Züge auf der Linie S3 in der Hauptverkehrszeit zwischen Karlshorst und Ostbahnhof verkehren nicht.
-* Die zusätzlichen Züge auf der Linie S5 in der Hauptverkehrszeit zwischen Mahlsdorf und Warschauer Straße verkehren nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
