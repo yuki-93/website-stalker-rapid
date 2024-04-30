@@ -8,11 +8,14 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### technische Untersuchung am Zug im Bereich Ostkreuz beendet ###
 
- Letztes Update: 13:12 / 30.04.2024
+ Letztes Update: 13:34 / 30.04.2024
 
 Information
 
 Nach einer technischen Untersuchung am Zug im Bereich Ostkreuz kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen uns Ausfällen.
+
+* Die zusätzlichen Züge auf der Linie S3 in der Hauptverkehrszeit zwischen Karlshorst und Ostbahnhof verkehren nicht.
+* Die zusätzlichen Züge auf der Linie S5 in der Hauptverkehrszeit zwischen Mahlsdorf und Warschauer Straße verkehren nicht.
 
 Wir bitten um Entschuldigung.
 
@@ -22,13 +25,14 @@ Wir bitten um Entschuldigung.
 
 ### Reparatur am Signal in Lichterfelde West ###
 
- Letztes Update: 12:29 / 30.04.2024
+ Letztes Update: 13:30 / 30.04.2024
 
 Information
 
 Wegen der Reparatur am Signal in Lichterfelde West kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
 
 * Linie S1: Der 10-Minuten-Takt kann nur zwischen Frohnau und Schöneberg angeboten werden.
+* Die zusätzlichen Züge in der Hauptverkehrszeit zwischen Potsdamer Platz und Zehlendorf verkehren nicht.
 
 Wir bitten um Entschuldigung.
 
