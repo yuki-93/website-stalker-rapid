@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### kurzfristige Bauarbeiten in Spandau heute Abend ab ca. 22:00 Uhr ###
+### kurzfristige Bauarbeiten in Spandau ###
 
- Letztes Update: 20:06 / 30.04.2024
+ Letztes Update: 21:13 / 30.04.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Spandau wird der Zugverkehr der Linien S3 und S9 **heute Abend ab ca. 22:00 Uhr bis morgen früh ca. 04:00 Uhr** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen kurzfristiger Bauarbeiten in Spandau wird der Zugverkehr der Linien S3 und S9 **ab ca. 22:00 Uhr bis morgen früh ca. 04:00 Uhr** zwischen Stresow und Spandau unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
 **Die betroffenen Linien verkehren dann wie folgt:**
 
-* **Linie S3**: Erkner \<\> Olympiastadion, *der 10-Minuten-Takt verkehrt planmäßig zwischen Friedrichshagen \<\> Ostbahnhof*
+* **Linie S3**: Erkner \<\> Olympiastadion, *bitte nutzen Sie zwischen Olympiastadion und Stresow die Linie S9*
 * **Linie S9**: Flughafen BER \<\> Stresow
 
 **letzte durchfahrende Züge:**
@@ -26,7 +26,7 @@ Wegen kurzfristiger Bauarbeiten in Spandau wird der Zugverkehr der Linien S3 und
 
 ---
 
-**Ein Ersatzverkehr mit Bussen wird ab ca. 21:45 Uhr zwischen Stresow und Spandau eingerichtet.**
+**Ein Ersatzverkehr mit Bussen wird zwischen Stresow und Spandau eingerichtet.**
 
 *Haltestellen des Ersatzverkehrs:*
 
