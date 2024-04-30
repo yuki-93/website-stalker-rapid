@@ -4,72 +4,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
-
-### ärztliche Versorgung eines Fahrgastes in Hermannstraße beendet ###
-
- Letztes Update: 18:01 / 30.04.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Polizeieinsatz Karow \<\> Zepernick ###
-
- Letztes Update: 17:41 / 30.04.2024
-
-Information
-
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S2 zwischen Karow \<\> Zepernick unterbrochen.
-
-* Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Lichtenrade und Karow angeboten werden.
-
-Ein Ersatzverkehr mit Bussen ist zwischen Karow \<\> Zepernick eingerichtet.
-
-Haltestellen des Ersatzverkehrs:
-
-\* Karow - Hubertusdamm (wie Bus 350)
-
-\* Buch - Wiltbergstr. (wie Bus 150, 158, 259, 353, N58)
-
-\* Röntgental - Bucher Str. (Haltestelle "Schweizer Str.", wie Bus 893, 899)
-
-\* Zepernick - Am Amtshaus (wie Bus 867, 868, 891, 893)
-
-Der Fern- und Regionalverkehr ist ebenfalls betroffen
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur am Signal in Lichterfelde West ###
-
- Letztes Update: 13:30 / 30.04.2024
-
-Information
-
-Wegen der Reparatur am Signal in Lichterfelde West kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
-
-* Linie S1: Der 10-Minuten-Takt kann nur zwischen Frohnau und Schöneberg angeboten werden.
-* Die zusätzlichen Züge in der Hauptverkehrszeit zwischen Potsdamer Platz und Zehlendorf verkehren nicht.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten in Spandau heute Abend ab ca. 22:00 Uhr ###
 
- Letztes Update: 02:13 / 30.04.2024
+ Letztes Update: 20:06 / 30.04.2024
 
 Information
 
