@@ -6,15 +6,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
-### Polizeieinsatz Buch \<\> Zepernick ###
+### Polizeieinsatz Karow \<\> Zepernick ###
 
- Letztes Update: 15:18 / 30.04.2024
+ Letztes Update: 15:54 / 30.04.2024
 
 Information
 
-Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S2 zwischen Buch \<\> Zepernick unterbrochen.
+Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S2 zwischen Karow \<\> Zepernick unterbrochen.
 
-* Der 10-Minuten-Takt kann nur zwischen Lichtenrade \<\> Karow angeboten werden.
+* Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
+
+Ein Ersatzverkehr mit Bussen ist zwischen Karow \<\> Zepernick eingerichtet.
+
+Haltestellen des Ersatzverkehrs:
+
+\* Karow - Hubertusdamm (wie Bus 350)
+
+\* Buch - Wiltbergstr. (wie Bus 150, 158, 259, 353, N58)
+
+\* Röntgental - Bucher Str. (Haltestelle "Schweizer Str.", wie Bus 893, 899)
+
+\* Zepernick - Am Amtshaus (wie Bus 867, 868, 891, 893)
 
 Der Fern- und Regionalverkehr ist ebenfalls betroffen
 
