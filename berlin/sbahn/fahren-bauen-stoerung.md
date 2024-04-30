@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
 
-### Feuerwehreinsatz auf der Strecke in Frankfurter Allee beendet ###
+### ärztliche Versorgung eines Fahrgastes in Hermannstraße beendet ###
 
- Letztes Update: 17:15 / 30.04.2024
+ Letztes Update: 18:01 / 30.04.2024
 
 Information
 
-Nach einem Feuerwehreinsatz auf der Strecke in Frankfurter Allee kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
+Nach der ärztlichen Versorgung eines Fahrgastes in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
@@ -22,13 +22,13 @@ Wir bitten um Verständnis.
 
 ### Polizeieinsatz Karow \<\> Zepernick ###
 
- Letztes Update: 15:54 / 30.04.2024
+ Letztes Update: 17:41 / 30.04.2024
 
 Information
 
 Wegen eines Polizeieinsatzes ist der Zugverkehr der Linie S2 zwischen Karow \<\> Zepernick unterbrochen.
 
-* Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Lichtenrade und Nordbahnhof angeboten werden.
+* Der 10-Minuten-Takt auf der Linie S2 kann nur zwischen Lichtenrade und Karow angeboten werden.
 
 Ein Ersatzverkehr mit Bussen ist zwischen Karow \<\> Zepernick eingerichtet.
 
