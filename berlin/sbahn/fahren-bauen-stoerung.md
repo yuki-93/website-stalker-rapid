@@ -2,6 +2,65 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+### Polizeieinsatz in Nöldnerplatz beendet ###
+
+ Letztes Update: 04:19 / 30.04.2024
+
+Information
+
+Nach einem Polizeieinsatz in Nöldnerplatz kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### kurzfristige Bauarbeiten in Spandau heute Abend ab ca. 22:00 Uhr ###
+
+ Letztes Update: 02:13 / 30.04.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Spandau wird der Zugverkehr der Linien S3 und S9 **heute Abend ab ca. 22:00 Uhr bis morgen früh ca. 04:00 Uhr** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+
+**Die betroffenen Linien verkehren dann wie folgt:**
+
+* **Linie S3**: Erkner \<\> Olympiastadion, *der 10-Minuten-Takt verkehrt planmäßig zwischen Friedrichshagen \<\> Ostbahnhof*
+* **Linie S9**: Flughafen BER \<\> Stresow
+
+**letzte durchfahrende Züge:**
+
+* **Linie S3**: Erkner ab 20:24 Uhr \> Spandau an 21:37 Uhr **und** Spandau ab 21:48 Uhr \> Erkner an 23:01 Uhr
+* **Linie S9**: Flughafen BER ab 20:29 Uhr \> Spandau an 21:47 Uhr **und** Spandau ab 21:58 Uhr \> Flughafen BER an 23:16 Uhr
+
+---
+
+**Ein Ersatzverkehr mit Bussen wird ab ca. 21:45 Uhr zwischen Stresow und Spandau eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S-Bhf. Stresow: Freiheit (wie Buslinie 130)
+* S-Bhf. Spandau: Seegefelder Str. (wie Buslinien X33, X36 und 130)
+
+**Alternativ kann bis ca. 00:30 Uhr die BVG-Buslinie 130 zwischen Stresow und Spandau genutzt werden.**
+
+---
+
+Zur weiträumigen Umfahrung **zwischen Spandau und Charlottenburg** nutzen Sie bitte die Regionalbahnlinien RE2 und RE6 sowie die U-Bahnlinie U7.
+
+---
+
+**Beachten Sie bitte**: wegen der Kurzfristigkeit sind die Bauarbeiten **nicht** in der Fahrplanauskunft enthalten.
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
