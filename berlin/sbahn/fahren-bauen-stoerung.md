@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### kurzfristige Bauarbeiten in Spandau ###
 
- Letztes Update: 23:56 / 30.04.2024
+ Letztes Update: 00:48 / 01.05.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten in Spandau ist der Zugverkehr der Linie S9 zwischen Stresow und Spandau **bis morgen früh ca. 04:00 Uhr** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+Wegen kurzfristiger Bauarbeiten in Spandau ist der Zugverkehr der Linie S9 zwischen Stresow und Spandau **bis ca. 04:00 Uhr** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
 **Die betroffenen Linie verkehrt wie folgt:**
 
@@ -27,11 +27,9 @@ Wegen kurzfristiger Bauarbeiten in Spandau ist der Zugverkehr der Linie S9 zwisc
 * S-Bhf. Stresow: Freiheit (wie Buslinie 130)
 * S-Bhf. Spandau: Seegefelder Str. (wie Buslinien X33, X36 und 130)
 
-**Alternativ kann bis ca. 00:30 Uhr die BVG-Buslinie 130 zwischen Stresow und Spandau genutzt werden.**
-
 ---
 
-Zur weiträumigen Umfahrung **zwischen Spandau und Charlottenburg** nutzen Sie bitte die Regionalbahnlinien RE2 und RE6 sowie die U-Bahnlinie U7.
+Zur weiträumigen Umfahrung **zwischen Spandau und Charlottenburg** nutzen Sie bitte die U-Bahnlinie U7.
 
 ---
 
