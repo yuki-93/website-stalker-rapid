@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### ärztliche Versorgung eines Fahrgastes in Pankow beendet ###
+
+ Letztes Update: 22:53 / 30.04.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Pankow kommt es auf den Linien S2 und S8 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### kurzfristige Bauarbeiten in Spandau ###
@@ -41,22 +55,6 @@ Zur weiträumigen Umfahrung **zwischen Spandau und Charlottenburg** nutzen Sie b
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  Verbindung unterbrochen
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Tiere auf der Strecke in Neuenhagen ###
-
- Letztes Update: 21:48 / 30.04.2024
-
-Information
-
-Wegen Tieren auf der Strecke in Neuenhagen ist der Zugverkehr der Linie S5 zwischen Hoppegarten und Fredersdorf unterbrochen.
-
-Die Linie S5 fährt: Westkreuz \<\> Hoppegarten ***und*** Fredersdorf \<\> Strausberg Nord.
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
