@@ -2,43 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
-### kurzfristige Bauarbeiten in Spandau ###
-
- Letztes Update: 00:48 / 01.05.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten in Spandau ist der Zugverkehr der Linie S9 zwischen Stresow und Spandau **bis ca. 04:00 Uhr** unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
-
-**Die betroffenen Linie verkehrt wie folgt:**
-
-* **Linie S9**: Flughafen BER \<\> Stresow
-
----
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Stresow und Spandau eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S-Bhf. Stresow: Freiheit (wie Buslinie 130)
-* S-Bhf. Spandau: Seegefelder Str. (wie Buslinien X33, X36 und 130)
-
----
-
-Zur weiträumigen Umfahrung **zwischen Spandau und Charlottenburg** nutzen Sie bitte die U-Bahnlinie U7.
-
----
-
-**Beachten Sie bitte**: wegen der Kurzfristigkeit sind die Bauarbeiten **nicht** in der Fahrplanauskunft enthalten.
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
