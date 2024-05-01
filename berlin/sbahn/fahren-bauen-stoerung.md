@@ -6,15 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
-### Notarzteinsatz auf der Strecke in Karl-Bonhoeffer-Nervenklinik ###
+### Notarzteinsatz auf der Strecke in Karl-Bonhoeffer-Nervenklinik beendet ###
 
- Letztes Update: 08:23 / 01.05.2024
+ Letztes Update: 08:48 / 01.05.2024
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Karl-Bonhoeffer-Nervenklinik ist der Zugverkehr der Linie S25 zwischen Schönholz und Tegel unterbrochen.
-
-*Bitte nutzen Sie zur Umfahrung zwischen Schönholz und Tegel die Verkehrmittel der BVG*.
+Nach einem Notarzteinsatz auf der Strecke in Karl-Bonhoeffer-Nervenklinik kommt es auf der Linie S25 noch zu einzelnen Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
