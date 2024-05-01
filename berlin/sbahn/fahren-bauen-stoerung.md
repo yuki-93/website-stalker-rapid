@@ -2,25 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Reparatur an einem Signal in Hackescher Markt beendet ###
-
- Letztes Update: 17:46 / 01.05.2024
-
-Information
-
-Nach einer Reparatur an einem Signal in Hackescher Markt kommt es auf der Linie S75 noch zu nachfolgenden Einschränkungen:
-
- Die Linie S75 verkehrt zwischen Wartenberg und Lichtenberg.
-*Bitte nutzen Sie zwischen Lichtenberg und Warschauer Straße die Linien S5 und S7.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
