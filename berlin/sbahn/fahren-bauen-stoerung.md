@@ -2,6 +2,25 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Hackescher Markt ###
+
+ Letztes Update: 16:16 / 01.05.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen.
+
+*Die Linie S75 verkehrt zwischen Wartenberg und Lichtenberg.
+ Bitte nutzen Sie zwischen Lichtenberg und Warschauer Straße die Linien S5 und S7.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
