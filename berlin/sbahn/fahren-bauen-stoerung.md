@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Notarzteinsatz auf der Strecke in Karl-Bonhoeffer-Nervenklinik beendet ###
-
- Letztes Update: 08:48 / 01.05.2024
-
-Information
-
-Nach einem Notarzteinsatz auf der Strecke in Karl-Bonhoeffer-Nervenklinik kommt es auf der Linie S25 noch zu einzelnen Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- fährt nicht
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
