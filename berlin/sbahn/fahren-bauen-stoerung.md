@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Polizeieinsatz im Bereich Hoppegarten ###
+### Polizeieinsatz im Bereich Hoppegarten beendet ###
 
- Letztes Update: 06:09 / 02.05.2024
+ Letztes Update: 06:37 / 02.05.2024
 
 Information
 
-Wegen unbefugten Personen auf der Strecke im Bereich Hoppegarten ist der Zugverkehr der Linie S5 zwischen Fredersdorf und Hoppegarten unterbrochen.
+Nach unbefugten Personen auf der Strecke im Bereich Hoppegarten kommt es auf der Linie S5 noch zu einzelnen Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
