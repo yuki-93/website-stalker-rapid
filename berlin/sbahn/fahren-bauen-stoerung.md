@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Notarzteinsatz in Wuhlheide beendet ###
+
+ Letztes Update: 12:43 / 02.05.2024
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Wuhlheide kommt es auf der Linie S3 noch zu einzelnen Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
@@ -1047,6 +1063,49 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1/#con-29442)
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+Nur Wochenende
+
+### Mahlsdorf \<\> Lichtenberg ###
+
+24.05. (Fr), ca. 22 Uhr durchgehend bis 27.05. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29449&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17955&type=5679&cHash=df8388c7e2d1dc0b0075a5d3f278dfdd)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S5: Mahlsdorf \<\> Friedrichsfelde Ost
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-12/#con-29449)
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+Nur Wochenende
+
+### Ahrensfelde \<\> Ostkreuz ###
+
+24.05. (Fr), ca. 22 Uhr durchgehend bis 27.05. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29451&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17955&type=5679&cHash=83cd1fb3f0bf4a4d1e8c28688c5168b8)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S7 fährt ...
+    * von Friedrichsfelde Ost bis Ahrensfelde 3 bis 4 Minuten später,
+    * im Nachtverkehr Fr/Sa und Sa/So von Marzahn bis Ostkreuz 6 bis 7 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
@@ -1230,6 +1289,28 @@ Information
   * Samstag und Sonntag, von 12 bis 20 Uhr fahren die den 5-/5-/10-Minutentakt bildenden Züge der S42 um 10 Minuten versetzt.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Wartenberg \<\> Springpfuhl ###
+
+24.05. (Fr), ca. 22 Uhr durchgehend bis 27.05. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17955&type=5679&cHash=cb4482be3954dd8010c61fbd22fdb15d)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-12/#con-29450)
 
 ### Fahrplanänderungen ###
 
