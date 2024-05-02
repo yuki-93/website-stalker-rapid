@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Polizeieinsatz im Bereich Hoppegarten ###
+
+ Letztes Update: 06:09 / 02.05.2024
+
+Information
+
+Wegen unbefugten Personen auf der Strecke im Bereich Hoppegarten ist der Zugverkehr der Linie S5 zwischen Fredersdorf und Hoppegarten unterbrochen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert
+
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal in Wilhelmsruh ###
