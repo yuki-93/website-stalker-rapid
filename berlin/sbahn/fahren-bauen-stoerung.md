@@ -2,6 +2,27 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einem Signal in Wilhelmsruh ###
+
+ Letztes Update: 03:31 / 02.05.2024
+
+Information
+
+Wegen der Reparatur an einem Signal in Wilhelmsruh verkehrt die Linie S85 zwischen Grünau und **Nordbahnhof**.
+
+**Bitte nutzen Sie:**
+
+* zwischen Schönhauser Allee und Bornholmer Straße die Linie S8 *sowie*
+* zwischen Bornholmer Straße und Frohnau die Linie S1.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
