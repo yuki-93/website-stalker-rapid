@@ -977,6 +977,51 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8a2cfce32a/#con-29359)
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\> Karow ###
+
+24.05. (Fr) 22 Uhr bis 27.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29441&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22612&tx_sbbconstructions_list%5Bperiod%5D=17949&type=5679&cHash=1cac8acf2974ff9b6946e4552a31579f)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S2: Bornholmer Straße \<\> Karow
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1/#con-29441)
+
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### (Treptower Park) Bornholmer Straße \<\> Hohen Neuendorf ###
+
+24.05. (Fr) 22 Uhr bis 27.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29442&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22612&tx_sbbconstructions_list%5Bperiod%5D=17949&type=5679&cHash=d15e4fac3fbc1d2d57ff6727ca0edfd4)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S8: Bornholmer Straße \<\> Hohen Neuendorf
+    * Im Abschnitt Schönfließ \<\> Bergfelde \<\> Hohen Neuendorf fahren der Bus S8 und die S8 nahezu parallel.
+    * In Schönfließ und in Bergfelde hält der Bus S8 nicht an den S-Bahnhöfen, bitte steigen Sie zwischen dem Bus S8 und der S8 (Schönfließ \<\> Birkenwerder) in beiden Fahrtrichtungen in Hohen Neuendorf um.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1/#con-29442)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
  Nur Nachts
@@ -1029,6 +1074,29 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-zbs-s4-nord-kabeltiefbau-balisenmontage-1/#con-29438)
 
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Friedrichshagen \<\> Ostkreuz ###
+
+31.05. (Fr), ca. 22 Uhr durchgehend bis 03.06. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29444&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22613&tx_sbbconstructions_list%5Bperiod%5D=17950&type=5679&cHash=1a3a00e63e2a281e7238492a7047549b)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3A: Friedrichshagen \<\> Ostkreuz
+  * Bus S3B: Wuhlheide \<\> Tram-/Nachtbushaltestelle „Freizeit- und Erholungszentrum“ (Umstieg zum Bus S3A)
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-gleisarbeiten/#con-29444)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -1048,6 +1116,25 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### Ring S42 ###
+
+24.05. (Fr) 22 Uhr bis 27.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29443&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22612&tx_sbbconstructions_list%5Bperiod%5D=17949&type=5679&cHash=f42218a61e6ffc9fdb9286d248deed2d)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Samstag und Sonntag, von 12 bis 20 Uhr fahren die den 5-/5-/10-Minutentakt bildenden Züge der S42 um 10 Minuten versetzt.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 ### Fahrplanänderungen ###
 
