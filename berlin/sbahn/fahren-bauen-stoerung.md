@@ -2,41 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Polizeieinsatz im Bereich Hoppegarten beendet ###
-
- Letztes Update: 06:37 / 02.05.2024
-
-Information
-
-Nach unbefugten Personen auf der Strecke im Bereich Hoppegarten kommt es auf der Linie S5 noch zu einzelnen Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Wilhelmsruh ###
-
- Letztes Update: 03:31 / 02.05.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Wilhelmsruh verkehrt die Linie S85 zwischen Grünau und **Nordbahnhof**.
-
-**Bitte nutzen Sie:**
-
-* zwischen Schönhauser Allee und Bornholmer Straße die Linie S8 *sowie*
-* zwischen Bornholmer Straße und Frohnau die Linie S1.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
@@ -1011,6 +976,58 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8a2cfce32a/#con-29359)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Nordbahnhof \<\> Bornholmer Straße ###
+
+Nächte 27./28.05. (Mo/Di) und 28./29.05. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29437&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22609&tx_sbbconstructions_list%5Bperiod%5D=17945&type=5679&cHash=478c49798a8ee0f30d9a7bc3b5df9bef)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Gesundbrunnen um, die Weiterfahrt erfolgt in Fahrtrichtung Oranienburg nach 18 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei) bzw. in Fahrtrichtung Wannsee nach 17 Minuten vom selben Gleis.
+
+* Taktänderung:
+  * Gesundbrunnen \<\> Bornholmer Straße S-Bahnverkehr nur im 20-Minutentakt mit S1
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-zbs-s4-nord-kabeltiefbau-balisenmontage/#con-29437)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Nordbahnhof \<\> Bornholmer Straße ###
+
+Nächte 29./30.05. (Mi/Do) und 30./31.05. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29438&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22610&tx_sbbconstructions_list%5Bperiod%5D=17946&type=5679&cHash=41702a2d670c601ac6b0c4dfc393ee9b)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Gesundbrunnen um, die Weiterfahrt in Fahrtrichtung Oranienburg erfolgt nach 18 Minuten vom selben Gleis bzw. in Fahrtrichtung Wannsee nach 17 Minuten vom anderen Bahnstieg.Der Bahnhof ist barrierefrei.
+
+* Taktänderung:
+  * Gesundbrunnen \<\> Bornholmer Straße S-Bahnverkehr nur im 20-Minutentakt mit S1
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-zbs-s4-nord-kabeltiefbau-balisenmontage-1/#con-29438)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
