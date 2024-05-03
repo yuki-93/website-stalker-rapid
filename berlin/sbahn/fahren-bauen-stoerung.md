@@ -985,6 +985,30 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-b528eec134/#con-29448)
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Mahlsdorf/Ahrensfelde/Wartenberg \<\> Warschauer Straße ###
+
+Nacht 22./23.05. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29468&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22633&tx_sbbconstructions_list%5Bperiod%5D=17966&type=5679&cHash=4a27261114f1e7070492ccd34c8b28cf)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Mahlsdorf/Ahrensfelde \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt mit S5 bzw. S7
+  * Friedrichsfelde Ost \<\> Nöldnerplatz S-Bahnverkehr nur im ungefähren 7-/13-Minutentakt (stadteinwärts) bzw. 2-/18-Minutentakt (stadtauswärts) mit S5 und S7
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifen-in-lichtenberg/#con-29468)
+
 [S2](https://sbahn.berlin/fahren/s2/)
 
 Nur Wochenende
