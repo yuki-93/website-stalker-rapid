@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### technische Untersuchung am Zug in Frohnau ###
-
- Letztes Update: 10:02 / 03.05.2024
-
-Information
-
-Wegen einer technischen Untersuchung am Zug in Frohnau kommt es auf den Linien S1 und S85 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
@@ -1279,6 +1263,51 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-6c5c946677/#con-29447)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+Nur Wochenende
+
+### (Lichtenrade) Marienfelde \<\> Priesterweg ###
+
+31.05. (Fr), ca. 22 Uhr durchgehend bis 03.06. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29439&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22611&tx_sbbconstructions_list%5Bperiod%5D=17948&type=5679&cHash=c937529e77bb79559f2479122863a1b0)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S2: Marienfelde \<\> Priesterweg
+     Da der S-Bahnhof Marienfelde nicht barrierefrei ist, wird für mobilitätseingeschränkte Fahrgäste ohne Alternative ein Fahrdienst organisiert. Fahrwünsche melden Sie bitte unter Tel. 030 860 96660 an.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bruecke-attilastrasse-und-brueckenbalkenerneuerung/#con-29439)
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Lichterfelde Ost \<\> Südende (Südkreuz) ###
+
+31.05. (Fr), ca. 22 Uhr bis 10.06. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29440&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22611&tx_sbbconstructions_list%5Bperiod%5D=17947&type=5679&cHash=616ca267466db97e58c1186f1caac861)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S25: Lichterfelde Ost \<\> Südende
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bruecke-attilastrasse-und-brueckenbalkenerneuerung/#con-29440)
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
