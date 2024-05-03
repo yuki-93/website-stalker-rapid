@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### ärztliche Versorgung eines Fahrgastes in Bundesplatz ###
+### Polizeieinsatz in Landsberger Allee beendet ###
 
- Letztes Update: 11:30 / 03.05.2024
+ Letztes Update: 13:00 / 03.05.2024
 
 Information
 
-Wegen einer ärztlichen Versorgung eines Fahrgastes in Bundesplatz kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz in Landsberger Allee kann es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
- Takt geändert
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
