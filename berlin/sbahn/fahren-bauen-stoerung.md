@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz in Hauptbahnhof beendet, ärztliche Versorgung eines Fahrgastes in Ostkreuz ###
-
- Letztes Update: 23:41 / 03.05.2024
-
-Information
-
-Nach einem Polizeieinsatz in Hauptbahnhof und nach einer ärztlichen Versorgung eines Fahrgastes in Ostkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungrn und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
