@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz in Landsberger Allee beendet ###
+### Reparatur an einem Zug in Frankfurter Allee beendet ###
 
- Letztes Update: 13:00 / 03.05.2024
+ Letztes Update: 15:16 / 03.05.2024
 
 Information
 
-Nach einem Polizeieinsatz in Landsberger Allee kann es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einer Reparatur an einem Zug in Frankfurter Allee kann es auf den Linien S42, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
