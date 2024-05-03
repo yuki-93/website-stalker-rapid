@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Hauptbahnhof beendet, ärztliche Versorgung eines Fahrgastes in Ostkreuz ###
 
- Letztes Update: 23:12 / 03.05.2024
+ Letztes Update: 23:41 / 03.05.2024
 
 Information
 
-Nach einem Polizeieinsatz in Hauptbahnhof und einer ärztlichen Versorgung eines Fahrgastes in Ostkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungrn und Ausfällen.
+Nach einem Polizeieinsatz in Hauptbahnhof und nach einer ärztlichen Versorgung eines Fahrgastes in Ostkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungrn und Ausfällen.
 
 Wir bitten um Verständnis.
 
