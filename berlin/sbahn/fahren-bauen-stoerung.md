@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Tiere auf der Strecke in Fredersdorf beseitigt ###
+### hohes Fahrgastaufkommen zwischen Ostkreuz und Landsberger Allee ###
 
- Letztes Update: 12:37 / 04.05.2024
+ Letztes Update: 14:28 / 04.05.2024
 
 Information
 
-Nach Tieren auf der Strecke in Fredersdorf kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen hohem Fahrgastaufkommen zwischen Ostkreuz und Landsberger Allee kommt es auf den Linien S42, S8 und S85 zu Verspätungen und eventuellen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung verspätet
 
 ### Baumaßnahmen ###
 
