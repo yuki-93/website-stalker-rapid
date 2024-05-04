@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Tiere auf der Strecke in Kaulsdorf beseitigt ###
+### Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Greifswalder Straße beendet ###
 
- Letztes Update: 08:34 / 04.05.2024
+ Letztes Update: 11:12 / 04.05.2024
 
 Information
 
-Nach Tieren auf der Strecke in Kaulsdorf kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
