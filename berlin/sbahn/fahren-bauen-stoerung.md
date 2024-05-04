@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einer Weiche in Schöneweide ###
-
- Letztes Update: 17:51 / 04.05.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Schöneweide verkehrt die Linie S85 nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
