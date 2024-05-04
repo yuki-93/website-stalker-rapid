@@ -6,31 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-### Tiere auf der Strecke in Fredersdorf ###
+### Tiere auf der Strecke in Fredersdorf beseitigt ###
 
- Letztes Update: 12:12 / 04.05.2024
+ Letztes Update: 12:37 / 04.05.2024
 
 Information
 
-Wegen Tieren auf der Strecke in Fredersdorf kommt es auf der Linie S5 zu Verspätungen und einzelnen Ausfällen.
+Nach Tieren auf der Strecke in Fredersdorf kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Greifswalder Straße beendet ###
-
- Letztes Update: 12:09 / 04.05.2024
-
-Information
-
-Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Greifswalder Straße verkehr die Linie S85 nicht, *bitte nutzen Sie zwischen Pankow und Grünau die Linie S8*.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
