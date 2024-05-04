@@ -230,6 +230,82 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-westend/#con-29248)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Halensee \<\> Westend ###
+
+06.05. (Mo), ca. 4 Uhr durchgehend bis 09.05. (Do), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29249&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22410&tx_sbbconstructions_list%5Bperiod%5D=17871&type=5679&cHash=fe88aa77db7b450e56389d96a81555f7)
+
+ Pendelverkehr
+
+Information
+
+* Pendelverkehr:
+  * Halensee \<\> Westend im 20-Minutentakt
+     Halensee ab zu den Minuten 06, 26, 46
+     Westend ab zu den Minuten 14, 34, 54
+     (im Nachtverkehr 08./09.05. (Mi/Do) befahren die S41/S42 den gesamten Ring, es besteht dann kein separater S-Bahn-Pendelverkehr)
+
+* Taktänderung:
+  * Westend \<\> Schönhauser Allee S-Bahnverkehr nur im ungefähren 5-/5-/10-Minutentakt
+  * Treptower Park \<\> Neukölln S-Bahnverkehr nur im ungefähren 5-/5-/10-Minutentakt
+  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im ungefähren 5-/5-/10-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-westend/#con-29249)
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+ Nur Nachts
+
+### Oranienburg \<\> Waidmannslust ###
+
+Nacht 06./07.05. (Mo/Di), ca. 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28778&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21824&tx_sbbconstructions_list%5Bperiod%5D=17596&type=5679&cHash=4f0d79c4133f7c588e4c3a94995f27af)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen
+  * Bus S1A Oranienburg \<\> Waidmannslust
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#con-28778)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleiserneuerung-birkenwerder-lehnitz-und-1-inbetriebnahmephase-estw-s1-nord/#c31385)
+
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### (Gesundbrunnen) Pankow \<\> Karow/Birkenwerder ###
+
+Nächte 06./07.05. (Mo/Di) und 07./08. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29353&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22517&tx_sbbconstructions_list%5Bperiod%5D=17910&type=5679&cHash=9acd3385fa6740363073dd3028142e6f)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S2: Pankow \<\> Karow
+  * Bus S8: Pankow \<\> Birkenwerder
+
+* Taktänderung:
+  * Bornholmer Straße \<\> Pankow S-Bahnverkehr nur im 20-Minutentakt mit S2
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s8-nord-und-gleisarbeiten/#con-29353)
+
 Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
