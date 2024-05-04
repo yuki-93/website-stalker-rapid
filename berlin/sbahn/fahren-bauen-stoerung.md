@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
-
-### Polizeieinsatz Südkreuz \<\> Yorckstraße beendet ###
-
- Letztes Update: 20:15 / 04.05.2024
-
-Information
-
-Nach einem Polizeieinsatz zwischen Südkreuz \<\> Yorckstraße kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einer Weiche in Schöneweide ###
