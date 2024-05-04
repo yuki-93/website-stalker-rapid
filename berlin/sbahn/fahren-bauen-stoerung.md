@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Tiere auf der Strecke in Kaulsdorf ###
+
+ Letztes Update: 08:23 / 04.05.2024
+
+Information
+
+Wegen Tieren auf der Strecke in Kaulsdorf ist der Zugverkehr der Linie S5 zwischen Wuhletal und Kausldorf unterbrochen.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
