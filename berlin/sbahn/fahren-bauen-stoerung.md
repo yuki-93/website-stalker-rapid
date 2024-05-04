@@ -4,19 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Tiere auf der Strecke in Kaulsdorf ###
+### ärztliche Versorgung eines Fahrgastes in Storkower Straße beendet ###
 
- Letztes Update: 08:23 / 04.05.2024
+ Letztes Update: 08:53 / 04.05.2024
 
 Information
 
-Wegen Tieren auf der Strecke in Kaulsdorf ist der Zugverkehr der Linie S5 zwischen Wuhletal und Kausldorf unterbrochen.
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Tiere auf der Strecke in Kaulsdorf beseitigt ###
+
+ Letztes Update: 08:34 / 04.05.2024
+
+Information
+
+Nach Tieren auf der Strecke in Kaulsdorf kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
