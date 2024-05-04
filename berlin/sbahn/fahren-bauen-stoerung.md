@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### hohes Fahrgastaufkommen zwischen Ostkreuz und Landsberger Allee ###
-
- Letztes Update: 14:28 / 04.05.2024
-
-Information
-
-Wegen hohem Fahrgastaufkommen zwischen Ostkreuz und Landsberger Allee kommt es auf den Linien S42, S8 und S85 zu Verspätungen und eventuellen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung verspätet
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
