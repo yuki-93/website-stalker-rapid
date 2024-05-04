@@ -4,15 +4,29 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Greifswalder Straße beendet ###
+### Tiere auf der Strecke in Fredersdorf ###
 
- Letztes Update: 11:12 / 04.05.2024
+ Letztes Update: 12:12 / 04.05.2024
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen Tieren auf der Strecke in Fredersdorf kommt es auf der Linie S5 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Greifswalder Straße beendet ###
+
+ Letztes Update: 12:09 / 04.05.2024
+
+Information
+
+Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke im Bereich Greifswalder Straße verkehr die Linie S85 nicht, *bitte nutzen Sie zwischen Pankow und Grünau die Linie S8*.
 
 Wir bitten um Ihr Verständnis.
 
