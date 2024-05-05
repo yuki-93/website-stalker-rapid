@@ -8,13 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### defektes Stellwerk in Erkner ###
 
- Letztes Update: 13:07 / 05.05.2024
+ Letztes Update: 14:08 / 05.05.2024
 
 Information
 
 Wegen eines defekten Stellwerkes in Erkner kommt es auf der Linie S3 zu Verspätungen und Ausfällen.
 
-Der 10-Minuten-Takt zwischen Erkner und Ostbahnhof verkehrt nicht.
+Der **10-Minuten-Takt** zwischen Erkner und Ostbahnhof **verkehrt nicht**.
+
+Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Erkner \<\> Ostkreuz \<\> Ostbahnhof die Regionalbahnlinie RE1.
 
 Wir bitten um Entschuldigung.
 
