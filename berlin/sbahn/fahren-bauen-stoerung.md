@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### technischer Defekt an einem Bahnübergang in Wuhletal ###
+
+ Letztes Update: 22:03 / 05.05.2024
+
+Information
+
+Wegen einer Bahnübergangsstörung in Wuhletal kann der 10-Minuten-Takt auf der Linie S5 nur zwischen Warschauer Straße und Friedrichsfelde Ost angeboten werden.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S8](https://sbahn.berlin/fahren/s8/)
 
 ### Reparatur am Signal im Bereich Blankenburg ###
@@ -15,20 +29,6 @@ Information
 Wegen der Reparatur an einem Signal im Bereich Blankenburg kommt es auf der Linie S8 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz in Storkower Straße beendet ###
-
- Letztes Update: 20:02 / 05.05.2024
-
-Information
-
-Nach einem Polizeieinsatz in Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
 
  sonstige Einschränkungen  Verbindung unregelmäßig
 
