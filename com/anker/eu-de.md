@@ -36,13 +36,15 @@ Höchste Ladegeschwindigkeiten für dein USB-C iPhone
 
 [Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner2)
 
-Das erste 2000W-Balkonkraftwerkmit Speicher der Welt
+Anker SOLIX Solarbank 2
+E1600 Pro System
 
-Solarpower maximierenheißt Tag und Nacht sparen
+Das weltweit erste 2400W All-in-One
+ Balkonkraftwerk mit Speicher
 
-[Jetzt kaufenmasterBanner3](https://www.anker.com/eu-de/products/solarbank-dual-system-b17c0?ref=masterBanner3)
+Erhältlich ab 22. Mai 2024
 
-Mehr erfahren
+[Jetzt 22% Rabatt reservierenmasterBanner3](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-solarbank2-a17c1-bms?ref=masterBanner3)
 
 Bestelle Ladeinnovationen von Anker
 ----------
