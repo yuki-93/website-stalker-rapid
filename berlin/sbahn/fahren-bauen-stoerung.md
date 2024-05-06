@@ -4,17 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S5](https://sbahn.berlin/fahren/s5/)
 
-### ärztliche Versorgung eines Fahrgastes in Ostkreuz beendet ###
+### technischer Defekt an einem Bahnübergang in Wuhletal behoben ###
 
- Letztes Update: 16:50 / 06.05.2024
+ Letztes Update: 18:11 / 06.05.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Ostkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem technischen Defekt an einem Bahnübergang in Wuhletal kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+Die zusätzlichen Züge zwischen Mahlsdorf und Warschauer Straße fahren nicht.
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
