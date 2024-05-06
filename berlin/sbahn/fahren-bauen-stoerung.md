@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Adlershof beendet ###
-
- Letztes Update: 20:13 / 06.05.2024
-
-Information
-
-Nach einer Reparatur an einem Signal in Adlershof kommt es auf der Linie S9 noch zu einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
