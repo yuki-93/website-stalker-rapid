@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S9](https://sbahn.berlin/fahren/s9/)
 
-### technischer Defekt an einem Bahnübergang in Wuhletal behoben ###
+### Reparatur an einem Signal in Adlershof beendet ###
 
- Letztes Update: 19:13 / 06.05.2024
+ Letztes Update: 20:13 / 06.05.2024
 
 Information
 
-Nach einem technischen Defekt an einem Bahnübergang in Wuhletal kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einer Reparatur an einem Signal in Adlershof kommt es auf der Linie S9 noch zu einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
