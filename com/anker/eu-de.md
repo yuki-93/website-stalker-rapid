@@ -15,7 +15,7 @@ ProdukteNach KategorieNeuerscheinungenAngebote
 
 Hilfe
 
-[](https://passport.anker.com/?app=ankerde)
+[]()
 
 Neuerscheinungen
 

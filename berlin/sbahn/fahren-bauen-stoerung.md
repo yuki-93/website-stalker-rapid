@@ -1142,9 +1142,15 @@ Nur Wochenende
 
 ### Mahlsdorf \<\> Lichtenberg ###
 
-24.05. (Fr), ca. 22 Uhr durchgehend bis 27.05. (Mo), ca. 1.30 Uhr
+Nacht 24./25.05. (Fr/Sa), ca. 22 Uhr - ca. 6 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29449&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17955&type=5679&cHash=df8388c7e2d1dc0b0075a5d3f278dfdd)
+
+Nacht 26./27.05. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29449&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17980&type=5679&cHash=0e55aa1d9512f81676d7519df76fbac5)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29449&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&type=5679&cHash=7b3a49cfe9e353e4cd24e1db24c7637e)
 
  Ersatzverkehr
 
@@ -1164,9 +1170,15 @@ Nur Wochenende
 
 ### Ahrensfelde \<\> Ostkreuz ###
 
-24.05. (Fr), ca. 22 Uhr durchgehend bis 27.05. (Mo), ca. 1.30 Uhr
+Nacht 24./25.05. (Fr/Sa), ca. 22 Uhr - ca. 6 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29451&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17955&type=5679&cHash=83cd1fb3f0bf4a4d1e8c28688c5168b8)
+
+Nacht 26./27.05. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29451&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17980&type=5679&cHash=6b948950f1ee298e8964ee70bbc2d13d)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29451&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&type=5679&cHash=160ed40443549bcf10465db7a4de5b33)
 
  Zugverkehr verändert
 
@@ -1435,9 +1447,15 @@ Nur Wochenende
 
 ### Wartenberg \<\> Springpfuhl ###
 
-24.05. (Fr), ca. 22 Uhr durchgehend bis 27.05. (Mo), ca. 1.30 Uhr
+Nacht 24./25.05. (Fr/Sa), ca. 22 Uhr - ca. 6 Uhr
 
 [](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17955&type=5679&cHash=cb4482be3954dd8010c61fbd22fdb15d)
+
+Nacht 26./27.05. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17980&type=5679&cHash=ca5fc218e702b4986aa0f8c5285bd6ab)
+
+[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&type=5679&cHash=4888ea9564ffb4b11d487f0ab9566f21)
 
  Takt geändert
 
