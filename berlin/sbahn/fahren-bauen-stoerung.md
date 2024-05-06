@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### technischer Defekt an einem Bahnübergang in Wuhletal behoben ###
 
- Letztes Update: 18:11 / 06.05.2024
+ Letztes Update: 19:13 / 06.05.2024
 
 Information
 
 Nach einem technischen Defekt an einem Bahnübergang in Wuhletal kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die zusätzlichen Züge zwischen Mahlsdorf und Warschauer Straße fahren nicht.
 
 Wir bitten um Entschuldigung.
 
