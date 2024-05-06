@@ -28,13 +28,12 @@ blitzschnelle magnetische Power
 
 [Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner1)
 
-Anker Nano
+Anker Prime
 
- C-ing is Believing
+Power für alle Geräte.
+Schneller. Gleichzeitig. Überall.
 
-Höchste Ladegeschwindigkeiten für dein USB-C iPhone
-
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/usb-c-charging?ref=masterBanner2)
+[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-prime?ref=masterBanner2)
 
 Anker SOLIX Solarbank 2
 E1600 Pro System
