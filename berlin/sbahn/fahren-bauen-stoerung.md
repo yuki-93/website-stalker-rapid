@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Flughafen BER ###
+
+ Letztes Update: 10:24 / 06.05.2024
+
+Information
+
+Sehr geehrte Fahrgäste,
+
+wegen eines Polizeieinsatzes in Flughafen BER verkehrt die S45 aktuell zwischen Südkreuz und Schönefeld.
+
+Reisende zum Flughafen BER nutzen bitte ab Schönefeld die S9.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
