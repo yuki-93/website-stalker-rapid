@@ -6,19 +6,39 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einer Weiche in Zehlendorf ###
+### Reparatur an der Strecke in Zehlendorf und zwischen Schlachtensee und Mexikoplatz ###
 
- Letztes Update: 12:09 / 07.05.2024
+ Letztes Update: 14:17 / 07.05.2024
 
 Information
 
-Wegen Reparatur an einer Weiche in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+Wegen einer Reparatur an der Strecke in Zehlendorf und zwischen Schlachtensee und Mexikoplatz kommt es auf der Linie S1 zu Verspätungen und nachfolgenden Einschränkungen:
 
-*Der 10-Minuten-Takt der Linie S1 kann nur zwischen Botanischer Garten und Frohnau angeboten werden.*
+* Der 10-Minuten-Takt kann nur zwischen Botanischer Garten und Frohnau angeboten werden.
+* Die zusätzlichen Züge zwischen Potsdamer Platz und Zehlendorf fahren nicht.
+
+**Abfahrtzeiten:**
+
+* in Wannsee Richtung Frohnau jeweils zu den Minuten 14, 34 und 54
+* in Botanischer Garten Richtung Wannsee jeweils zu den Minuten 16, 36 und 56
 
 Wir bitten um Entschuldigung.
 
- Takt geändert
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### ärztliche Versorgung eines Fahrgastes in Tempelhof beendet ###
+
+ Letztes Update: 14:09 / 07.05.2024
+
+Information
+
+Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Tempelhof kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
