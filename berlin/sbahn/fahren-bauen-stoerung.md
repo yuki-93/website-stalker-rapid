@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Zehlendorf und zwischen Schlachtensee und Mexikoplatz ###
 
- Letztes Update: 14:53 / 07.05.2024
+ Letztes Update: 15:25 / 07.05.2024
 
 Information
 
 Wegen einer Reparatur an der Strecke in Zehlendorf und zwischen Schlachtensee und Mexikoplatz kommt es auf der Linie S1 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Der 10-Minuten-Takt kann nur zwischen Botanischer Garten und Zehlendorf angeboten werden.
+* Der 10-Minuten-Takt kann nur zwischen Frohnau und Zehlendorf angeboten werden.
 * Die zusätzlichen Züge zwischen Potsdamer Platz und Zehlendorf fahren nicht.
 
 **Abfahrtzeiten:**
@@ -23,20 +23,6 @@ Wegen einer Reparatur an der Strecke in Zehlendorf und zwischen Schlachtensee un
 * in Wannsee Richtung Frohnau jeweils zur Minuten 14, 34 und 54
 
 Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Charlottenburg ###
-
- Letztes Update: 14:38 / 07.05.2024
-
-Information
-
-Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
