@@ -8,33 +8,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Zehlendorf und zwischen Schlachtensee und Mexikoplatz ###
 
- Letztes Update: 14:17 / 07.05.2024
+ Letztes Update: 14:53 / 07.05.2024
 
 Information
 
 Wegen einer Reparatur an der Strecke in Zehlendorf und zwischen Schlachtensee und Mexikoplatz kommt es auf der Linie S1 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Der 10-Minuten-Takt kann nur zwischen Botanischer Garten und Frohnau angeboten werden.
+* Der 10-Minuten-Takt kann nur zwischen Botanischer Garten und Zehlendorf angeboten werden.
 * Die zusätzlichen Züge zwischen Potsdamer Platz und Zehlendorf fahren nicht.
 
 **Abfahrtzeiten:**
 
-* in Wannsee Richtung Frohnau jeweils zu den Minuten 14, 34 und 54
-* in Botanischer Garten Richtung Wannsee jeweils zu den Minuten 16, 36 und 56
+* in Zehlendorf Richtung Wannsee jeweils zur Minute 02, 22 und 42
+* in Wannsee Richtung Frohnau jeweils zur Minuten 14, 34 und 54
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### ärztliche Versorgung eines Fahrgastes in Tempelhof beendet ###
+### ärztliche Versorgung eines Fahrgastes in Charlottenburg ###
 
- Letztes Update: 14:09 / 07.05.2024
+ Letztes Update: 14:38 / 07.05.2024
 
 Information
 
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Tempelhof kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen der ärztlichen Versorgung eines Fahrgastes im Zug in Charlottenburg kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
