@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einer Weiche in Zehlendorf ###
+
+ Letztes Update: 12:09 / 07.05.2024
+
+Information
+
+Wegen Reparatur an einer Weiche in Zehlendorf kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+
+*Der 10-Minuten-Takt der Linie S1 kann nur zwischen Botanischer Garten und Frohnau angeboten werden.*
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S8](https://sbahn.berlin/fahren/s8/)
@@ -1114,7 +1132,7 @@ Information
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
-Nur Wochenende
+ Nur Nachts Nur Wochenende
 
 ### Mahlsdorf \<\> Lichtenberg ###
 
@@ -1135,37 +1153,9 @@ Information
 * Ersatzverkehr mit Bussen:
   * Bus S5: Mahlsdorf \<\> Friedrichsfelde Ost
 
-* Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-12/#con-29449)
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-Nur Wochenende
-
-### Ahrensfelde \<\> Ostkreuz ###
-
-Nacht 24./25.05. (Fr/Sa), ca. 22 Uhr - ca. 6 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29451&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17955&type=5679&cHash=83cd1fb3f0bf4a4d1e8c28688c5168b8)
-
-Nacht 26./27.05. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29451&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17980&type=5679&cHash=6b948950f1ee298e8964ee70bbc2d13d)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29451&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&type=5679&cHash=160ed40443549bcf10465db7a4de5b33)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S7 fährt ...
-    * von Friedrichsfelde Ost bis Ahrensfelde 3 bis 4 Minuten später,
-    * im Nachtverkehr Fr/Sa und Sa/So von Marzahn bis Ostkreuz 6 bis 7 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
@@ -1399,9 +1389,9 @@ Information
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
-Nur Wochenende
+ Nur Nachts Nur Wochenende
 
-### Wartenberg \<\> Springpfuhl ###
+### Warschauer Straße \> Wartenberg ###
 
 Nacht 24./25.05. (Fr/Sa), ca. 22 Uhr - ca. 6 Uhr
 
@@ -1413,17 +1403,14 @@ Nacht 26./27.05. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
 
 [Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&type=5679&cHash=4888ea9564ffb4b11d487f0ab9566f21)
 
- Takt geändert
+ Zugverkehr verändert
 
 Information
 
-* Taktänderung:
-  * Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+* Fahrplanänderung:
+  * Die S75 fährt von Warschauer Straße bis Wartenberg 4 bis 8 Minuten später.
 
-* Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-12/#con-29450)
 
 ### Fahrplanänderungen ###
 
