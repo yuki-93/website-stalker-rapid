@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Polizeieinsatz in Hauptbahnhof beendet ###
+
+ Letztes Update: 18:07 / 07.05.2024
+
+Information
+
+Nach einem Polizeieinsatz im Zug in Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur an der Strecke in Zehlendorf und zwischen Schlachtensee und Mexikoplatz ###
