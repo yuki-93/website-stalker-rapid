@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an der Strecke in Zehlendorf und zwischen Schlachtensee und Mexikoplatz ###
-
- Letztes Update: 21:57 / 07.05.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke in Zehlendorf sowie zwischen Schlachtensee und Mexikoplatz kann der 10-Minuten-Takt auf der Linie S1 nur zwischen Frohnau und Schöneberg angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
