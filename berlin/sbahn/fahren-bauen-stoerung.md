@@ -6,6 +6,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
+### kurzfristige Bauarbeiten im Bereich Mexikoplatz in der Nacht 08./09.05.2024 (Mi/Do), von ca. 22 Uhr bis ca. 04:00 Uhr ###
+
+ Letztes Update: 18:22 / 08.05.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten im Bereich Mexikoplatz wird der Zugverkehr der Linie S1 heute Abend ab 22:00 Uhr bis 04:00 Uhr zwischen Schlachtensee und Zehlendorf unterbrochen.
+
+**letzte durchfahrende Züge:**
+
+* **von Wannsee nach Frohnau**: Wannsee ab 21:34 Uhr \> Frohnau an 22:38 Uhr
+* **von Frohnau nach Wannsee**: Frohnau ab 20:48 Uhr \> Wannsee an 21:51 Uhr
+
+**Ein Ersatzverkehr mit Bussen wird ab 22:00 Uhr zwischen Schlachtensee und Zehlendorf eingerichtet.**
+
+Haltestellen des Ersatzverkehrs:
+
+* Zehlendorf: Kirchstraße (Haltestelle "Rathaus Zehlendorf", Bus 118)
+* Mexikoplatz: Lindenthaler Allee (Haltestelle Bus 118, 622, N3)
+* Schlachtensee: Breisgauer Str. / Matterhornstr.
+
+Wir bitten um Entschuldigung.
+
+ Ersatzverkehr  Verbindung unterbrochen
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
 ### Reparatur an der Strecke in Zehlendorf und zwischen Schlachtensee und Mexikoplatz ###
 
  Letztes Update: 15:41 / 08.05.2024
