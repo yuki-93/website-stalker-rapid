@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Polizeieinsatz im Bereich Hohenschönhausen ###
-
- Letztes Update: 19:56 / 08.05.2024
-
-Information
-
-Wegen eines Polizeieinsatzes im Bereich Hohenschönhausen ist der Zugverkehr der Linie S75 zwischen Hohenschönhausen und Springpfuhl unterbrochen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur am Zug in Greifswalder Straße behoben ###
