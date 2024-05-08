@@ -4,64 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Zug in Greifswalder Straße behoben ###
-
- Letztes Update: 19:41 / 08.05.2024
-
-Information
-
-Nach einer Reparatur am Zug in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### kurzfristige Bauarbeiten im Bereich Mexikoplatz in der Nacht 08./09.05.2024 (Mi/Do), von ca. 22 Uhr bis ca. 04:00 Uhr ###
 
- Letztes Update: 18:22 / 08.05.2024
+ Letztes Update: 22:00 / 08.05.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten im Bereich Mexikoplatz wird der Zugverkehr der Linie S1 heute Abend ab 22:00 Uhr bis 04:00 Uhr zwischen Schlachtensee und Zehlendorf unterbrochen.
+Wegen kurzfristiger Bauarbeiten im Bereich Mexikoplatz ist der Zugverkehr der Linie S1 bis ca. 04:00 Uhr zwischen Schlachtensee und Zehlendorf unterbrochen.
 
-**letzte durchfahrende Züge:**
+**Ein Ersatzverkehr mit Bussen ist zwischen Schlachtensee und Zehlendorf eingerichtet.**
 
-* **von Wannsee nach Frohnau**: Wannsee ab 21:34 Uhr \> Frohnau an 22:38 Uhr
-* **von Frohnau nach Wannsee**: Frohnau ab 20:48 Uhr \> Wannsee an 21:51 Uhr
+*Haltestellen des Ersatzverkehrs:*
 
-**Ein Ersatzverkehr mit Bussen wird ab 22:00 Uhr zwischen Schlachtensee und Zehlendorf eingerichtet.**
-
-Haltestellen des Ersatzverkehrs:
-
-* Zehlendorf: Kirchstraße (Haltestelle "Rathaus Zehlendorf", Bus 118)
-* Mexikoplatz: Lindenthaler Allee (Haltestelle Bus 118, 622, N3)
-* Schlachtensee: Breisgauer Str. / Matterhornstr.
+* S Zehlendorf: Kirchstraße (Haltestelle "Rathaus Zehlendorf", Bus 118)
+* S Mexikoplatz: Lindenthaler Allee (Haltestelle Bus 118, 622, N3)
+* S Schlachtensee: Breisgauer Str. / Matterhornstr.
 
 Wir bitten um Entschuldigung.
 
  Ersatzverkehr  Verbindung unterbrochen
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an der Strecke in Zehlendorf und zwischen Schlachtensee und Mexikoplatz ###
-
- Letztes Update: 15:41 / 08.05.2024
-
-Information
-
-Wegen einer Reparatur an der Strecke in Zehlendorf sowie zwischen Schlachtensee und Mexikoplatz kann der 10-Minuten-Takt nur zwischen Zehlendorf und Frohnau angeboten werden.
-
-Es kann auf der Linie S1 zu zusätzlichen Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
