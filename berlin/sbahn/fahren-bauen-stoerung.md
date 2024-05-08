@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur am Zug in Greifswalder Straße ###
+
+ Letztes Update: 19:15 / 08.05.2024
+
+Information
+
+Wegen einer Reparatur am Zug in Greifswalder Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### kurzfristige Bauarbeiten im Bereich Mexikoplatz in der Nacht 08./09.05.2024 (Mi/Do), von ca. 22 Uhr bis ca. 04:00 Uhr ###
