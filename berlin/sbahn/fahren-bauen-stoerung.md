@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Zehlendorf und zwischen Schlachtensee und Mexikoplatz ###
 
- Letztes Update: 14:41 / 08.05.2024
+ Letztes Update: 15:41 / 08.05.2024
 
 Information
 
-Wegen einer Reparatur an der Strecke in Zehlendorf sowie zwischen Schlachtensee und Mexikoplatz kann zwischen Zehlendorf und Potsdamer Platz nur ein 10- Minutentakt angeboten werden.
+Wegen einer Reparatur an der Strecke in Zehlendorf sowie zwischen Schlachtensee und Mexikoplatz kann der 10-Minuten-Takt nur zwischen Zehlendorf und Frohnau angeboten werden.
 
-Es auf der Linie S1 zu zusätzlichen Verspätungen und eventuellen Zugausfällen kommen.
+Es kann auf der Linie S1 zu zusätzlichen Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
