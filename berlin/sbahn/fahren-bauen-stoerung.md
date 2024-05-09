@@ -47,34 +47,6 @@ Information
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Halensee \<\> Westend ###
-
-06.05. (Mo), ca. 4 Uhr durchgehend bis 09.05. (Do), ca. 22 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29249&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22410&tx_sbbconstructions_list%5Bperiod%5D=17871&type=5679&cHash=fe88aa77db7b450e56389d96a81555f7)
-
- Pendelverkehr
-
-Information
-
-* Pendelverkehr:
-  * Halensee \<\> Westend im 20-Minutentakt
-     Halensee ab zu den Minuten 06, 26, 46
-     Westend ab zu den Minuten 14, 34, 54
-     (im Nachtverkehr 08./09.05. (Mi/Do) befahren die S41/S42 den gesamten Ring, es besteht dann kein separater S-Bahn-Pendelverkehr)
-
-* Taktänderung:
-  * Westend \<\> Schönhauser Allee S-Bahnverkehr nur im ungefähren 5-/5-/10-Minutentakt
-  * Treptower Park \<\> Neukölln S-Bahnverkehr nur im ungefähren 5-/5-/10-Minutentakt
-  * Bundesplatz \<\> Halensee S-Bahnverkehr nur im ungefähren 5-/5-/10-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-westend/#con-29249)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
 ### Halensee \<\> Beusselstraße ###
 
 09.05. (Do), ca. 22 Uhr durchgehend bis 13.05. (Mo), ca. 1.30 Uhr
