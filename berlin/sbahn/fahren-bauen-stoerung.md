@@ -6,9 +6,9 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### kurzfristige Bauarbeiten im Bereich Mexikoplatz in der Nacht 08./09.05.2024 (Mi/Do), von ca. 22 Uhr bis ca. 04:00 Uhr ###
+### kurzfristige Bauarbeiten im Bereich Mexikoplatz ###
 
- Letztes Update: 00:51 / 09.05.2024
+ Letztes Update: 01:26 / 09.05.2024
 
 Information
 
