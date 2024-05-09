@@ -5,17 +5,39 @@ Anker | Live Charged.
 
 []()
 
-Anker MagGo, Click it, Charge it - Doppelter Speed.
+Exklusiv zum Muttertag | 2 kaufen = 15% Rabatt, 3 kaufen = 20% Rabatt
 
-[Jetzt kaufen\>\>](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
+[Jetzt kaufen\>\>](https://www.anker.com/eu-de/angebote)
+
+12
+
+:
+
+Std.
+
+39
+
+:
+
+Min.
+
+20
+
+Sek.
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-ProdukteNach KategorieNeuerscheinungenAngebote
+ProdukteNach KategorieNeuerscheinungenAngebote[Muttertagssale](https://www.anker.com/undefined?ref=naviMenu)
 
 Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
+
+Exklusive Deals zum Muttertag
+
+2 kaufen = 15% Rabatt, 3 kaufen = 20% Rabatt | Auf das komplette Ladezubehör
+
+[Shop NowmasterBanner1](https://www.anker.com/eu-de/angebote?ref=masterBanner1)
 
 Neuerscheinungen
 
@@ -26,14 +48,7 @@ Click it, Charge it - Doppelter Speed.
 Die kabellose 15W-Ladeserie für
 blitzschnelle magnetische Power
 
-[Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner1)
-
-Anker Prime
-
-Power für alle Geräte.
-Schneller. Gleichzeitig. Überall.
-
-[Mehr erfahrenmasterBanner2](https://www.anker.com/eu-de/anker-prime?ref=masterBanner2)
+[Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner2)
 
 Anker SOLIX Solarbank 2
 E1600 Pro System
