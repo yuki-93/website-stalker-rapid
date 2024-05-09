@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Verkehrsunfall im öffentlichen Straßenland in Friedrichshagen ###
-
- Letztes Update: 23:36 / 09.05.2024
-
-Information
-
-Wegen eines Verkehrsunfalls im öffentlichen Straßenland im Bereich Mühlweg in Friedrichshagen kommt es beim Ersatzverkehr mit Bussen zwischen Friedrichshagen und Karlshorst zu Verspätungen und einzelnen Ausfällen.
-
-Bitte nutzen Sie alternativ zwischen Friedrichshagen und Bahnhofstr./ Seelenbinderstr. die Tramlinie 61.
-
-Wir bitten um Ihr Verständnis.
-
- Ersatzverkehr  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
