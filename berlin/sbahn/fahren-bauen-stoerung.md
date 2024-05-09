@@ -2,30 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### kurzfristige Bauarbeiten im Bereich Mexikoplatz ###
-
- Letztes Update: 01:26 / 09.05.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten im Bereich Mexikoplatz ist der Zugverkehr der Linie S1 bis ca. 08:00 Uhr zwischen Schlachtensee und Zehlendorf unterbrochen.
-
-**Ein Ersatzverkehr mit Bussen ist zwischen Schlachtensee und Zehlendorf eingerichtet.**
-
-*Haltestellen des Ersatzverkehrs:*
-
-* S Zehlendorf: Kirchstraße (Haltestelle "Rathaus Zehlendorf", Bus 118)
-* S Mexikoplatz: Lindenthaler Allee (Haltestelle Bus 118, 622, N3)
-* S Schlachtensee: Am Schlachtensee
-
-Wir bitten um Entschuldigung.
-
- Ersatzverkehr  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
