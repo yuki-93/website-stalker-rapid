@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### technischer Defekt an einem Bahnübergang in Borgsdorf ###
+
+ Letztes Update: 16:32 / 09.05.2024
+
+Information
+
+Wegen einem technischen Defekt an einem Bahnübergang in Borgsdorf kommt es auf der Linie S1 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
