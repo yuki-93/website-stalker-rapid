@@ -19,19 +19,19 @@ Exklusiv zum Muttertag | 2 kaufen = 15% Rabatt, 3 kaufen = 20% Rabatt
 
 Tagen
 
-16
+15
 
 :
 
 Std.
 
-39
+34
 
 :
 
 Min.
 
-50
+25
 
 Sek.
 
@@ -45,7 +45,8 @@ Hilfe
 
 Exklusive Deals zum Muttertag
 
-2 kaufen = 15% Rabatt, 3 kaufen = 20% Rabatt | Auf das komplette Ladezubehör
+2 kaufen = 15% Rabatt, 3 kaufen = 20% Rabatt
+Auf das komplette Ladezubehör
 
 02
 
@@ -53,19 +54,19 @@ Exklusive Deals zum Muttertag
 
 Tagen
 
-16
+15
 
 :
 
 Std.
 
-39
+34
 
 :
 
 Min.
 
-50
+25
 
 Sek.
 
