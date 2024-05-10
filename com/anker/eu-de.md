@@ -19,19 +19,19 @@ Exklusiv zum Muttertag | 2 kaufen = 15% Rabatt, 3 kaufen = 20% Rabatt
 
 Tagen
 
-10
+09
 
 :
 
 Std.
 
-42
+23
 
 :
 
 Min.
 
-55
+58
 
 Sek.
 
@@ -54,19 +54,19 @@ Auf das komplette Ladezubehör
 
 Tagen
 
-10
+09
 
 :
 
 Std.
 
-42
+23
 
 :
 
 Min.
 
-55
+58
 
 Sek.
 
