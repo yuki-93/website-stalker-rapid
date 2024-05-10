@@ -2,92 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
-### Tiere auf der Strecke im Bereich Neuenhagen beseitigt ###
-
- Letztes Update: 23:09 / 10.05.2024
-
-Information
-
-Nach Tieren auf der Strecke im Bereich Neuenhagen kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-### Baumaßnahmen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Friedrichshagen \<\> Karlshorst ###
-
-08.05. (Mi), ca. 16 Uhr durchgehend bis 13.05. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29250&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22413&tx_sbbconstructions_list%5Bperiod%5D=17872&type=5679&cHash=b7b6b0f02828701870e84693e840751e)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S3: Friedrichshagen \<\> Karlshorst
-
-* Taktänderung:
-  * Karlshorst \<\> Ostkreuz S-Bahnverkehr nur im 10-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/308/#con-29250)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gehrenseestraße ###
-
-19.06. (Mo) ca. 4 Uhr bis auf Weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
-
- Zugverkehr verändert
-
-Information
-
-* kein Halt in Gehrenseestraße
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Halensee \<\> Beusselstraße ###
-
-09.05. (Do), ca. 22 Uhr durchgehend bis 13.05. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29248&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22410&tx_sbbconstructions_list%5Bperiod%5D=17870&type=5679&cHash=41fb3dfe10b144768732f04c5ac7924c)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S41/S42: Halensee \<\> Beusselstraße
-
-* **Achtung:**
-   Am 05.05. (So), ca. 6.30 Uhr bis ca. 17 Uhr kann der Bus S41/S42 wegen einer Laufveranstaltung nur zwischen Westend \<\> Jungfernheide (Olbersstraße) \<\> Beusselstraße fahren, bitte weichen Sie zwischen Charlottenburg \<\> Jungfernheide auf die U7 aus.
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-westend/#con-29248)
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
-
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
@@ -170,6 +84,95 @@ Information
 
 * Bahnsteigänderung:
   * In Waßmannsdorf fährt die S45 und die S9 nach Flughafen BER von Gleis 2, Bahnsteig stadteinwärts.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Friedrichshagen \<\> Karlshorst ###
+
+08.05. (Mi), ca. 16 Uhr durchgehend bis 13.05. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29250&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22413&tx_sbbconstructions_list%5Bperiod%5D=17872&type=5679&cHash=b7b6b0f02828701870e84693e840751e)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3: Friedrichshagen \<\> Karlshorst
+
+* Taktänderung:
+  * Karlshorst \<\> Ostkreuz S-Bahnverkehr nur im 10-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/308/#con-29250)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Gehrenseestraße ###
+
+19.06. (Mo) ca. 4 Uhr bis auf Weiteres
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Halt in Gehrenseestraße
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### Halensee \<\> Beusselstraße ###
+
+09.05. (Do), ca. 22 Uhr durchgehend bis 13.05. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29248&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22410&tx_sbbconstructions_list%5Bperiod%5D=17870&type=5679&cHash=41fb3dfe10b144768732f04c5ac7924c)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S41/S42: Halensee \<\> Beusselstraße
+
+* **Achtung:**
+   Am 05.05. (So), ca. 6.30 Uhr bis ca. 17 Uhr kann der Bus S41/S42 wegen einer Laufveranstaltung nur zwischen Westend \<\> Jungfernheide (Olbersstraße) \<\> Beusselstraße fahren, bitte weichen Sie zwischen Charlottenburg \<\> Jungfernheide auf die U7 aus.
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-westend/#con-29248)
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Waßmannsdorf ###
+
+Nacht 11./12.05. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21911&tx_sbbconstructions_list%5Bperiod%5D=17923&type=5679&cHash=e8b3265af8bbd6e792100844e35166a8)
+
+ Zugverkehr verändert
+
+Information
+
+* Bahnsteigänderung:
+  * In Waßmannsdorf fährt die S9 nach Spandau von Gleis 1, Bahnsteig stadtauswärts.
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
@@ -704,25 +707,6 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Waßmannsdorf ###
-
-Nacht 11./12.05. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=28722&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=21911&tx_sbbconstructions_list%5Bperiod%5D=17923&type=5679&cHash=e8b3265af8bbd6e792100844e35166a8)
-
- Zugverkehr verändert
-
-Information
-
-* Bahnsteigänderung:
-  * In Waßmannsdorf fährt die S9 nach Spandau von Gleis 1, Bahnsteig stadtauswärts.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
 ### Fahrplanänderungen ###
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -898,33 +882,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S5](https://sbahn.berlin/fahren/s5/)
-
- Nur Nachts Nur Wochenende
-
-### Mahlsdorf \<\> Lichtenberg ###
-
-Nacht 24./25.05. (Fr/Sa), ca. 22 Uhr - ca. 6 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29449&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17955&type=5679&cHash=df8388c7e2d1dc0b0075a5d3f278dfdd)
-
-Nacht 26./27.05. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29449&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17980&type=5679&cHash=0e55aa1d9512f81676d7519df76fbac5)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29449&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&type=5679&cHash=7b3a49cfe9e353e4cd24e1db24c7637e)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S5: Mahlsdorf \<\> Friedrichsfelde Ost
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-12/#con-29449)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
@@ -1136,31 +1093,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-gleisarbeiten/#con-29444)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts Nur Wochenende
-
-### Warschauer Straße \> Wartenberg ###
-
-Nacht 24./25.05. (Fr/Sa), ca. 22 Uhr - ca. 6 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17955&type=5679&cHash=cb4482be3954dd8010c61fbd22fdb15d)
-
-Nacht 26./27.05. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17980&type=5679&cHash=ca5fc218e702b4986aa0f8c5285bd6ab)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&type=5679&cHash=4888ea9564ffb4b11d487f0ab9566f21)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S75 fährt von Warschauer Straße bis Wartenberg 4 bis 8 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 ### Fahrplanänderungen ###
 
