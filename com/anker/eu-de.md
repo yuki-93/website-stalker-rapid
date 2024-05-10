@@ -19,19 +19,19 @@ Exklusiv zum Muttertag | 2 kaufen = 15% Rabatt, 3 kaufen = 20% Rabatt
 
 Tagen
 
-19
+18
 
 :
 
 Std.
 
-28
+38
 
 :
 
 Min.
 
-03
+44
 
 Sek.
 
@@ -53,19 +53,19 @@ Exklusive Deals zum Muttertag
 
 Tagen
 
-19
+18
 
 :
 
 Std.
 
-28
+38
 
 :
 
 Min.
 
-03
+44
 
 Sek.
 
