@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Tiere auf der Strecke im Bereich Neuenhagen beseitigt ###
+
+ Letztes Update: 23:09 / 10.05.2024
+
+Information
+
+Nach Tieren auf der Strecke im Bereich Neuenhagen kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
