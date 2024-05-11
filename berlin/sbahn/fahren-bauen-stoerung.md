@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### ärztliche Versorgung eines Fahrgastes in Pankow beendet ###
+### Reparatur am Zug in Gesundbrunnen beendet ###
 
- Letztes Update: 11:44 / 11.05.2024
+ Letztes Update: 12:26 / 11.05.2024
 
 Information
 
-Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Pankow kann es auf den Linien S2, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einer Reparatur am Zug in Gesundbrunnen kann es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
