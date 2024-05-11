@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Gegenstände auf der Strecke im Bereich Wuhletal beseitigt ###
+
+ Letztes Update: 20:52 / 11.05.2024
+
+Information
+
+Nach Gegenständen auf der Strecke im Bereich Wuhletal kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S3](https://sbahn.berlin/fahren/s3/)
