@@ -4,19 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Gegenstände auf der Strecke im Bereich Wuhletal beseitigt ###
+### Reparatur am Zug zwischen Alexanderplatz und Hackescher Markt ###
 
- Letztes Update: 20:52 / 11.05.2024
+ Letztes Update: 22:05 / 11.05.2024
 
 Information
 
-Nach Gegenständen auf der Strecke im Bereich Wuhletal kommt es auf der Linie S5 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen einer Reparatur am Zug zwischen Alexanderplatz und Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-Wir bitten um Ihr Verständnis.
+* Die Linie **S5** fährt: Strausberg Nord bzw. Mahlsdorf \<\> Warschauer Straße
+* Die Linie **S75** fährt: Wartenberg \<\> Lichtenberg
 
- Zugverkehr verändert  Verbindung unregelmäßig
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
