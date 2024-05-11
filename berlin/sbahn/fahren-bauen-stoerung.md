@@ -6,16 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur am Zug zwischen Alexanderplatz und Hackescher Markt ###
+### Reparatur am Zug zwischen Alexanderplatz und Hackescher Markt beendet ###
 
- Letztes Update: 22:05 / 11.05.2024
+ Letztes Update: 22:58 / 11.05.2024
 
 Information
 
-Wegen einer Reparatur am Zug zwischen Alexanderplatz und Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie **S5** fährt: Strausberg Nord bzw. Mahlsdorf \<\> Warschauer Straße
-* Die Linie **S75** fährt: Wartenberg \<\> Lichtenberg
+Nach einer Reparatur am Zug zwischen Alexanderplatz und Hackescher Markt kommt es auf den Linien S3, S5, S7, S75 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
