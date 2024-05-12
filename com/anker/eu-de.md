@@ -13,19 +13,19 @@ Exklusiv zum Muttertag | 2 kaufen = 15% Rabatt, 3 kaufen = 20% Rabatt
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/angebote)
 
-14
+13
 
 :
 
 Std.
 
-44
+38
 
 :
 
 Min.
 
-47
+01
 
 Sek.
 
@@ -48,19 +48,19 @@ Auf das komplette Ladezubehör
 
 Tagen
 
-14
+13
 
 :
 
 Std.
 
-44
+38
 
 :
 
 Min.
 
-47
+01
 
 Sek.
 
