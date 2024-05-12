@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S8](https://sbahn.berlin/fahren/s8/)
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einem Signal in Hohen Neuendorf ###
+### Polizeieinsatz Johannisthal beendet ###
 
- Letztes Update: 11:34 / 12.05.2024
+ Letztes Update: 13:01 / 12.05.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Hohen Neuendorf kommt es auf den Linien S1 und S8 zu Verspätungen und Zugausfällen.
+Nach einem Polizeieinsatz in Johannisthal kann es auf den Linien S45, S46, S8 und S9 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
