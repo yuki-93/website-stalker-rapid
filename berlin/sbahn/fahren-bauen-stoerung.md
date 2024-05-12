@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz Botanischer Garten beendet ###
+### Polizeieinsatz zwischen Charlottenburg und Westkreuz beendet ###
 
- Letztes Update: 14:39 / 12.05.2024
+ Letztes Update: 17:10 / 12.05.2024
 
 Information
 
-Nach einem Polizeieinsatz in Botanischer Garten kann es auf der Linie S1 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Nach einem Polizeieinsatz zwischen Charlottenburg und Westkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
