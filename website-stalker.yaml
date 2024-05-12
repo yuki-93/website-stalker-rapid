@@ -114,7 +114,7 @@ sites:
       - css_select: article .content
       - css_remove: img
       - html_markdownify
-      
+
   - url: https://sbahn.berlin/fahren/bauen-stoerung/
     ignore_error: true
     editors:
@@ -124,7 +124,7 @@ sites:
       - css_remove: .c-button.c-button--link
       - html_url_canonicalize
       - html_markdownify
-      
+
   - url: https://www.bvg.de/de/verbindungen/stoerungsmeldungen?type=TRAFFIC
     ignore_error: true
     editors:
@@ -133,8 +133,9 @@ sites:
 
   - url: https://www.anker.com/eu-de
     editors:
-      - css_remove: media, img, script
+      - css_remove: media, img, script, noscript, style
       - html_url_canonicalize
       - html_markdownify
-      
-      
+      - regex_replace:
+          pattern: '\n\d+[\n\s:]*(?:Tag|Std|Min|Sek)\S*\n'
+          replace: ""
