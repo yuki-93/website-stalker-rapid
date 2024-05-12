@@ -1,19 +1,4 @@
-# This is an example config
-# The filename should be `website-stalker.yaml`
-# and it should be in the working directory where you run website-stalker.
-#
-# For example run `website-stalker example-config > website-stalker.yaml`.
-# And then do a run via `website-stalker run`.
 ---
-notification_template: |
-  {{#sites}}
-  - {{.}}
-  {{/sites}}
-
-  {{#commit}}
-  https://github.com/yuki-93/website-stalker/commit/{{.}}
-  {{/commit}}
-
 sites:
   # Basic example
   - url: https://edjopato.de/
