@@ -4,17 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### Beschädigung einer Brücke in Schönfließ ###
+
+ Letztes Update: 20:55 / 13.05.2024
+
+Information
+
+Wegen der Beschädigung einer Brücke in Schönfließ ist der Zugverkehr der Linie S8 zwischen Blankenburg und Schönfließ unterbrochen.
+*Bitte nutzen Sie zur Umfahrung zwischen Bornholmer Straße und Birkenwerder die Linie S1.*
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur am Stellwerk Neukölln ###
 
- Letztes Update: 19:54 / 13.05.2024
+ Letztes Update: 20:31 / 13.05.2024
 
 Information
 
 Wegen einer Reparatur am Stellwerk in Neukölln kommt es auf den Linien S41, S42, S45, S46, S47, S8 und S85 zu Verspätungen und Zugausfällen.
 
 * Die Linien S41 und S42 verkehren im 10-Minuten-Takt.
+* Die Linie S45 verkehrt zwischen Flughafen BER und Schöneweide.
+* Die Linie S46 verkehrt zwischen Königs Wusterhausen und Schöneweide.
 * Die Linie S47 verkehrt zwischen Spindlersfeld und Schöneweide.
 * Die Linie S85 verkehrt nicht.
 
