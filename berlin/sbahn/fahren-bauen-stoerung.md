@@ -6,21 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Beschädigung einer Brücke in Wittenau ###
+### Beschädigung einer Brücke in Wittenau unbestätigt ###
 
- Letztes Update: 15:58 / 13.05.2024
+ Letztes Update: 16:29 / 13.05.2024
 
 Information
 
-Wegen der Beschädigung einer Brücke in Wittenau ist der Zugverkehr der Linien S1 und S85 zwischen Schönholz und Waidmannslust unterbrochen.
-
-* Die Linie S85 verkehrt zwischen Grünau und Nordbahnhof.
-
-*Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.*
+Nach der Beschädigung einer Brücke in Wittenau kann es auf den Linien S1 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
@@ -666,7 +662,7 @@ Information
 * Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued/#con-29254)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued/#con-29254)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauarbeiten-fuer-das-estw-s9-sued/#c32136)
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
