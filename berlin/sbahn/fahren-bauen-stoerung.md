@@ -4,19 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz im Bereich Gesundbrunnen beendet ###
+### Beschädigung einer Brücke in Wittenau ###
 
- Letztes Update: 14:49 / 13.05.2024
+ Letztes Update: 15:58 / 13.05.2024
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Gesundbrunnen kann es auf den Linien S41 und S42 noch zu vereinzelten Zugausfällen kommen.
+Wegen der Beschädigung einer Brücke in Wittenau ist der Zugverkehr der Linien S1 und S85 zwischen Schönholz und Waidmannslust unterbrochen.
+
+* Die Linie S85 verkehrt zwischen Grünau und Nordbahnhof.
+
+*Bitte nutzen Sie zur weiträumigen Umfahrung die Verkehrsmittel der BVG.*
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unterbrochen
 
 ### Baumaßnahmen ###
 
