@@ -8,15 +8,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Feuerwehreinsatz an der Strecke in Alexanderplatz beendet ###
 
- Letztes Update: 05:16 / 13.05.2024
+ Letztes Update: 05:52 / 13.05.2024
 
 Information
 
 Nach einem Feuerwehreinsatz an der Strecke in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
-Die Linie S5 verkehrt Strausberg Nord \<\> Warschauer Straße, *der 10-Minuten-Takt besteht zwischen Hoppegarten \<\> Warschauer Straße*
+**Die betroffenen Linien fahren wie folgt**:
 
-Die Linie S75 verkehrt Wartenberg \<\> Lichtenberg
+* S3: Erkner \<\> Spandau im 20-Minuten-Takt
+* S5: Strausberg Nord \<\> Westkreuz im 20-Minuten-Takt
+* S7: Ahrensfelde \<\> Potsdam Hbf
+* S75: Wartenberg \<\> Warschauer Straße im 20-Minuten-Takt
+* S9: Flughafen BER \<\> Spandau
 
 Wir bitten um Ihr Verständnis.
 
