@@ -2,30 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Feuerwehreinsatz an der Strecke in Alexanderplatz beendet ###
-
- Letztes Update: 05:52 / 13.05.2024
-
-Information
-
-Nach einem Feuerwehreinsatz an der Strecke in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-**Die betroffenen Linien fahren wie folgt**:
-
-* S3: Erkner \<\> Spandau im 20-Minuten-Takt
-* S5: Strausberg Nord \<\> Westkreuz im 20-Minuten-Takt
-* S7: Ahrensfelde \<\> Potsdam Hbf
-* S75: Wartenberg \<\> Warschauer Straße im 20-Minuten-Takt
-* S9: Flughafen BER \<\> Spandau
-
-Wir bitten um Ihr Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
