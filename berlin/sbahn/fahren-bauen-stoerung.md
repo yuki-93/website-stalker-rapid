@@ -2,30 +2,23 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Baumaßnahmen ###
+### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Friedrichshagen \<\> Karlshorst ###
+### Feuerwehreinsatz an der Strecke in Alexanderplatz ###
 
-08.05. (Mi), ca. 16 Uhr durchgehend bis 13.05. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29250&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22413&tx_sbbconstructions_list%5Bperiod%5D=17872&type=5679&cHash=b7b6b0f02828701870e84693e840751e)
-
- Ersatzverkehr
+ Letztes Update: 03:20 / 13.05.2024
 
 Information
 
-* Ersatzverkehr mit Bussen:
-  * Bus S3: Friedrichshagen \<\> Karlshorst
+Wegen eines Feuerwehreinsatz an der Strecke in Alexanderplatz ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Ostbahnhof und Friedrichstraße unterbrochen.
 
-* Taktänderung:
-  * Karlshorst \<\> Ostkreuz S-Bahnverkehr nur im 10-Minutentakt
+Wir bitten um Ihr Verständnis.
 
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+ fährt nicht  Verbindung unterbrochen
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/308/#con-29250)
+### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -44,29 +37,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Halensee \<\> Beusselstraße ###
-
-09.05. (Do), ca. 22 Uhr durchgehend bis 13.05. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29248&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22410&tx_sbbconstructions_list%5Bperiod%5D=17870&type=5679&cHash=41fb3dfe10b144768732f04c5ac7924c)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S41/S42: Halensee \<\> Beusselstraße
-
-* **Achtung:**
-   Am 05.05. (So), ca. 6.30 Uhr bis ca. 17 Uhr kann der Bus S41/S42 wegen einer Laufveranstaltung nur zwischen Westend \<\> Jungfernheide (Olbersstraße) \<\> Beusselstraße fahren, bitte weichen Sie zwischen Charlottenburg \<\> Jungfernheide auf die U7 aus.
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenerneuerung-in-westend/#con-29248)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
