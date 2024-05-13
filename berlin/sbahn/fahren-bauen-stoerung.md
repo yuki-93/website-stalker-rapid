@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Bereich Gesundbrunnen beendet ###
 
- Letztes Update: 13:13 / 13.05.2024
+ Letztes Update: 14:49 / 13.05.2024
 
 Information
 
-Nach einem Polizeieinsatz im Bereich Gesundbrunnen verkehren die Linien S41 und S42 noch im 10-Minuten-Takt.
+Nach einem Polizeieinsatz im Bereich Gesundbrunnen kann es auf den Linien S41 und S42 noch zu vereinzelten Zugausfällen kommen.
 
 Wir bitten um Ihr Verständnis.
 
