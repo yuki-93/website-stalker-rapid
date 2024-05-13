@@ -4,17 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Beschädigung einer Brücke in Wittenau unbestätigt ###
+### Reparatur am Stellwerk Neukölln ###
 
- Letztes Update: 16:29 / 13.05.2024
+ Letztes Update: 19:54 / 13.05.2024
 
 Information
 
-Nach der Beschädigung einer Brücke in Wittenau kann es auf den Linien S1 und S85 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen einer Reparatur am Stellwerk in Neukölln kommt es auf den Linien S41, S42, S45, S46, S47, S8 und S85 zu Verspätungen und Zugausfällen.
 
-Wir bitten um Ihr Verständnis.
+* Die Linien S41 und S42 verkehren im 10-Minuten-Takt.
+* Die Linie S47 verkehrt zwischen Spindlersfeld und Schöneweide.
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
@@ -643,6 +647,10 @@ Information
  Ersatzverkehr
 
 Information
+
+* Alternativmöglichkeiten:
+  * Fahrgäste zum Flughafen BER nutzen bitte auch FEX, RE8 oder RB23 sowie RB24 oder RB32 bis Schönefeld und von dort die S45 oder S9.
+  * Fahrgäste im Abschnitt Schönefeld \<\> Schöneweide \<\> Ostkreuz nutzen bitte auch RB24 oder RB32.
 
 * kein S-Bahnverkehr:
   * Altglienicke/Grünau/Spindlersfeld \<\> Schöneweide \<\> Baumschulenweg
