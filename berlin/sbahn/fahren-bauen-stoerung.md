@@ -6,23 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Feuerwehreinsatz an der Strecke in Alexanderplatz ###
+### Feuerwehreinsatz an der Strecke in Alexanderplatz beendet ###
 
- Letztes Update: 04:15 / 13.05.2024
+ Letztes Update: 05:16 / 13.05.2024
 
 Information
 
-Wegen eines Feuerwehreinsatzes an der Strecke in Alexanderplatz ist der Zugverkehr der Linien S3, S5, S7 und S9 zwischen Ostbahnhof und Friedrichstraße unterbrochen.
+Nach einem Feuerwehreinsatz an der Strecke in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
 
-**Die betroffenen Linien fahren wie folgt:**
+Die Linie S5 verkehrt Strausberg Nord \<\> Warschauer Straße, *der 10-Minuten-Takt besteht zwischen Hoppegarten \<\> Warschauer Straße*
 
-* **S3**: Erkner \<\> Warschauer Straße **sowie** Zoologischer Garten \<\> Spandau, *jeweils im 20-Minuten-Takt*,
-* **S5**: Strausberg Nord \<\> Warschauer Straße, *der 10-Minuten-Takt besteht zwischen Hoppegarten \<\> Warschauer Straße*
-* **S7**: Ahrensfelde \<\> Ostbahnhof **sowie** Friedrichstraße \<\> Potsdam Hbf
-* **S75**: Wartenberg \<\> Lichtenberg
-* **S9**: Flughafen BER \<\> Ostbahnhof **sowie** Zoologischer Garten \<\> Spandau, *jeweils im 20-Minuten-Takt*
-
-**Beachten Sie bitte**: die Züge des Regionalverkehrs sind ebenfalls betroffen.
+Die Linie S75 verkehrt Wartenberg \<\> Lichtenberg
 
 Wir bitten um Ihr Verständnis.
 
