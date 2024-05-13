@@ -4,19 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Reparatur am Stellwerk Neukölln ###
+### Reparatur am Stellwerk Neukölln beendet ###
 
- Letztes Update: 22:01 / 13.05.2024
+ Letztes Update: 22:36 / 13.05.2024
 
 Information
 
-Wegen einer Reparatur am Stellwerk in Neukölln kommt es auf den Linien S41, S42, S45, S46, S47, S8 und S85 zu Verspätungen und Zugausfällen.
-
-* Die Linien S41 und S42 verkehren im 10-Minuten-Takt.
-* Die Linie S45 verkehrt zwischen Flughafen BER und Schöneweide.
-* Die Linie S46 verkehrt zwischen Königs Wusterhausen und Schöneweide.
+Nach der Reparatur an einem Stellwerk in Neukölln kommt es auf den Linien S41, S42, S45 und S46 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
