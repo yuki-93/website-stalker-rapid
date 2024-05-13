@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz im Bereich Gesundbrunnen ###
+
+ Letztes Update: 10:54 / 13.05.2024
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Gesundbrunnen ist der Zugverkehr der Linie S41 und S42 zwischen Gesundbrunnen und Wedding unterbrochen.
+
+*Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Wedding und Gesundbrunnen die U-Bahnlinien U 6, U8 und U9.*
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
