@@ -2,6 +2,51 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S8](https://sbahn.berlin/fahren/s8/)
+
+### kurzfristige Bauarbeiten in Mühlenbeck-Mönchmühle ###
+
+ Letztes Update: 22:39 / 14.05.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Mühlenbeck-Mönchmühle wird der Zugverkehr der Linie S8 **ab ca. 22:30 Uhr** zwischen Mühlenbeck-Mönchmühle und Schönfließ unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
+
+Die **Linie S8** fährt: Treptower Park \<\> Pankow **sowie** Schönfließ \<\> Birkenwerder
+
+**Ein Ersatzverkehr mit Bussen wird zwischen Mühlenbeck-Mönchmühle und Hohen Neuendorf eingerichtet.**
+
+*Haltestellen des Ersatzverkehrs:*
+
+* S-Bhf. Mühlenbeck-Mönchmühle: Kastanienallee (wie Bus 806)
+* S-Bhf. Schönfließ: Ersatzhalt Schildow Kirche (wie Bus 806, 809, 810)
+* S-Bhf. Bergfelde: Paulstr. (wie Bus 809)
+* S-Bhf. Hohen Neuendorf: Schönfließer Str. (wie Bus 809, 822)
+
+**In Mühlenbeck-Mönchmühle besteht Anschluß an den planmäßigen Ersatzverkehr mit Bussen von bzw. nach Pankow.**
+
+**Abfahrtzeiten in Mühlenbeck-Mönchmühle nach Hohen Neuendorf**: 23:45 Uhr und 00:45 Uhr.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unterbrochen
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Adlershof ###
+
+ Letztes Update: 21:32 / 14.05.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Adlershof kann es auf den Linien S45, S46 und S9 zu Verspätungen kommen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
