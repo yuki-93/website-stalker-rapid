@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an einem Signal in Gesundbrunnen ###
-
- Letztes Update: 08:05 / 14.05.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Gesundbrunnen kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
-
-Die Linie S42 verkehrt nur im 10-Minuten-Takt.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
