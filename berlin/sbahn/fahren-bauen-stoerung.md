@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Hermannstraße beendet ###
 
- Letztes Update: 06:18 / 14.05.2024
+ Letztes Update: 07:02 / 14.05.2024
 
 Information
 
 Nach einem Notarzteinsatz auf der Strecke in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
 
-Die Line S45 verkehrt nicht
+Die Linien S41 und S42 verkehren im 10-Minuten-Takt
 
-Die Linie S47 verkehrt Schöneweide \<\> Spindlersfeld
+Die Line S45 verkehrt nicht
 
 Wir bitten um Ihr Verständnis.
 
