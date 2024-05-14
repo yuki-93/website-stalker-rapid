@@ -8,19 +8,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke in Hermannstraße beendet ###
 
- Letztes Update: 07:02 / 14.05.2024
+ Letztes Update: 08:10 / 14.05.2024
 
 Information
 
-Nach einem Notarzteinsatz auf der Strecke in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 zu Verspätungen und Ausfällen.
-
-Die Linien S41 und S42 verkehren im 10-Minuten-Takt
-
-Die Line S45 verkehrt nicht
+Nach einem Notarzteinsatz auf der Strecke in Hermannstraße kommt es auf den Linien S41, S42, S45, S46 und S47 noch zu einzelnen Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
  fährt nicht  Verbindung unterbrochen
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+### Reparatur an einem Signal in Gesundbrunnen ###
+
+ Letztes Update: 08:05 / 14.05.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Gesundbrunnen kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
+
+Die Linie S42 verkehrt nur im 10-Minuten-Takt.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
 
 ### Baumaßnahmen ###
 
