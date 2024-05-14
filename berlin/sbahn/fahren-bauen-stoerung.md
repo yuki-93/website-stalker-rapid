@@ -2,6 +2,32 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)
+
+### Notarzteinsatz auf der Strecke in Hermannstraße ###
+
+ Letztes Update: 05:08 / 14.05.2024
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke in Hermannstraße ist der Zugverkehr der Linien S41, S42, S45, S46 und S47 zwischen Tempelhof \<\> Treptower Park/ Schöneweide unterbrochen.
+
+Die betroffenen Linien fahren wie folgt:
+
+* S41: Tempelhof \> Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz \> Treptower Park
+* S42: Treptower Park \> Ostkreuz \> Gesundbrunnen \> Westkreuz \> Südkreuz \> Tempelhof
+* S45: fährt nicht
+* S46: Westend \<\> Südkreuz und Schöneweide \<\> Königs Wusterhausen
+* S47: Schöneweide \<\> Spindlersfeld
+
+Bitte nutzen Sie zur Umfahrung andere Verkehrsmittel.
+
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
