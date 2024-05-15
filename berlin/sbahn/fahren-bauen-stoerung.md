@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### ärztliche Versorgung eines Fahrgastes in Brandenburger Tor ist beendet ###
+
+ Letztes Update: 20:11 / 15.05.2024
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes in einem Zug in Brandenburger Tor kommt es auf den Linien S1, S2,S 25 und S 26 zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur am Bahnübergang Borgsdorf ###
@@ -17,20 +31,6 @@ Wegen der Reparatur am Bahnübergang in Borgsdorf kommt es auf der Linie S1 zu 
 Wir bitten um ihr Verständnis
 
  sonstige Einschränkungen  Verbindung verspätet
-
-[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal Grünauer Kreuz ###
-
- Letztes Update: 08:23 / 15.05.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal im Bereich Grünauer Kreuz verkehrt die Linie S85 zwischen Frohnau \<\> Schöneweide.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
