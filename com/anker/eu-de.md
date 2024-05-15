@@ -9,13 +9,13 @@ Anker MagGo, Click it, Charge it - Doppelter Speed.
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
 
-Exklusive Rabatte auf unser bestes Ladezubehör
+Mobile Magie für Abenteuer. Schnapp dir Ladesets und Überraschungsartikel mit bis zu 40% Rabatt!
 
-[Jetzt sparen \>\>](https://www.anker.com/eu-de/angebote)
+[Jetzt bestellen \>\>](https://www.anker.com/eu-de/reiseset-angebote)
 
 [](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
-ProdukteNach KategorieNeuerscheinungenAngebote[Aktuelle Angebote](https://www.anker.com/eu-de/angebote?ref=naviMenu)
+ProdukteNach KategorieNeuerscheinungenAngebote[Ladezubeoer-unterwegs-angebote](https://www.anker.com/eu-de/reiseset-angebote?ref=naviMenu)
 
 Hilfe
 
