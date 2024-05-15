@@ -6,22 +6,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einem Zug im Bereich Schöneberg ist beendet ###
-
- Letztes Update: 16:08 / 15.05.2024
-
-Information
-
-Nach einer Reparatur an einem Zug im Bereich Schöneberg kommt es auf der Linie S 1 noch zu Verspätungen und vereinzelten Ausfällen.
-
-Zwischen Zehlendorf und Potsdamer Platz wird zur Zeit nur ein 10-Minuten-Takt angeboten.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
 ### Reparatur am Bahnübergang Borgsdorf ###
 
  Letztes Update: 11:41 / 15.05.2024
