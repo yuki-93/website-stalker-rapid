@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur am Bahnübergang Borgsdorf ###
+
+ Letztes Update: 11:41 / 15.05.2024
+
+Information
+
+Wegen der Reparatur am Bahnübergang in Borgsdorf kommt es auf der Linie S1 zu Verspätungen.
+
+Wir bitten um ihr Verständnis
+
+ sonstige Einschränkungen  Verbindung verspätet
+
 [S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur an einem Signal Grünauer Kreuz ###
