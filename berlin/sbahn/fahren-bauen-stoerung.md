@@ -6,6 +6,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
+### Reparatur an einem Zug im Bereich Schöneberg ###
+
+ Letztes Update: 15:04 / 15.05.2024
+
+Information
+
+Wegen einer Reparatur an einem Zug im Bereich Schöneberg kommt es auf der Linie S 1 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
 ### Reparatur am Bahnübergang Borgsdorf ###
 
  Letztes Update: 11:41 / 15.05.2024
