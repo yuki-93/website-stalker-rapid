@@ -4,31 +4,31 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
-### ärztliche Versorgung eines Fahrgastes in Brandenburger Tor ist beendet ###
+### Polizeieinsatz im Bereich Brandenburger Tor beendet ###
 
- Letztes Update: 20:11 / 15.05.2024
+ Letztes Update: 21:42 / 15.05.2024
 
 Information
 
-Nach einer ärztlichen Versorgung eines Fahrgastes in einem Zug in Brandenburger Tor kommt es auf den Linien S1, S2,S 25 und S 26 zu Verspätungen und vereinzelten Ausfällen.
+Nach einem Polizeieinsatz im Bereich Brandenburger Tor kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Verständnis.
+Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur am Bahnübergang Borgsdorf ###
+### technischer Defekt an einem Bahnübergang in Borgsdorf ###
 
- Letztes Update: 11:41 / 15.05.2024
+ Letztes Update: 21:18 / 15.05.2024
 
 Information
 
-Wegen der Reparatur am Bahnübergang in Borgsdorf kommt es auf der Linie S1 zu Verspätungen.
+Wegen einem technischen Defekt an einem Bahnübergang in Borgsdorf kommt es auf der Linie S1 zu Verspätungen.
 
-Wir bitten um ihr Verständnis
+Wir bitten um Entschuldigung.
 
  sonstige Einschränkungen  Verbindung verspätet
 
