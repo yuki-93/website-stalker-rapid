@@ -21,6 +21,14 @@ Hilfe
 
 [](https://passport.anker.com/?app=ankerde)
 
+On-the-Go Angebote
+
+Exklusive Sets und Überraschungsartikel mit bis zu 40% Rabatt!
+
+15. Mai - 6. Juni
+
+[Jetzt bestellenmasterBanner1](https://www.anker.com/eu-de/reiseset-angebote?ref=masterBanner1)
+
 Neuerscheinungen
 
 Anker MagGo
@@ -30,13 +38,7 @@ Click it, Charge it - Doppelter Speed.
 Die kabellose 15W-Ladeserie für
 blitzschnelle magnetische Power
 
-[Jetzt kaufenmasterBanner1](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner1)
-
-Wir lieben Deals. Du auch?
-
-Jetzt zugreifen und sparen.
-
-[Zum AngebotmasterBanner2](https://www.anker.com/eu-de/angebote?ref=masterBanner2)
+[Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner2)
 
 Anker SOLIX Solarbank 2
 E1600 Pro System
