@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### ärtzliche Versorgung eines Fahrgastes in Friedrichsfelde Ost ###
-
- Letztes Update: 13:09 / 15.05.2024
-
-Information
-
-Wegen der ärztlichen Versorgung eines Fahrgastes in einem Zug in Friedrichsfelde Ost kommt es auf den Linien S5, S7 und S 75 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Verständnis
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S1](https://sbahn.berlin/fahren/s1/)
 
 ### Reparatur am Bahnübergang Borgsdorf ###
