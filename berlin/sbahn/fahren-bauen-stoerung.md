@@ -18,20 +18,6 @@ Wir bitten um Entschuldigung
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-### ärztliche Versorgung einesn Fahrgastes in Ostkreuz ist beendet ###
-
- Letztes Update: 14:50 / 16.05.2024
-
-Information
-
-nach einer ärztlichen Versorgung eines Fahrgastes in einem Zug in Ostkreuz kommt es auf den Linien S3, S5, S7 und S75 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Vorabinformation: kurzfristige Bauarbeiten zwischen Marzahn und Ahrensfelde am 17.05.2024 ###
