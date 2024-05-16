@@ -18,20 +18,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### ärztliche Versorgung eines Fahrgastes in Alexanderplatz beendet ###
-
- Letztes Update: 21:00 / 16.05.2024
-
-Information
-
-Nach einer ärztlichen Versorgung eines Fahrgastes in einem Zug in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S9](https://sbahn.berlin/fahren/s9/)
