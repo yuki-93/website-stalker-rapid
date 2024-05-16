@@ -4,33 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Reparatur an einem Signal in Mahlow ###
-
- Letztes Update: 15:19 / 16.05.2024
-
-Information
-
-Wegen der Reparatur an einem Signal in Mahlow kommt es auf der Linie S2 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### Vorabinformation: kurzfristige Bauarbeiten zwischen Marzahn und Ahrensfelde am 17.05.2024 ###
 
- Letztes Update: 11:06 / 16.05.2024
+ Letztes Update: 21:01 / 16.05.2024
 
 Information
 
-Wegen kurzfristiger Bauarbeiten zwischen Marzahn und Ahrensfelde kann in der Zeit von **ca. 08:00 Uhr bis 14:00 Uhr** der 10-Minuten-Takt der Linie S7 nur zwischen Potsdam Hbf. \<\> Marzahn angeboten werden.
+Wegen kurzfristiger Bauarbeiten zwischen Marzahn und Ahrensfelde kann am **17.05.2024 in der Zeit von ca. 08:00 Uhr bis 14:00 Uhr** der 10-Minuten-Takt der Linie S7 nur zwischen Potsdam Hbf. und Marzahn angeboten werden.
 
-Wir bitten um Verständnis
+Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  sonstige Einschränkungen
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Alexanderplatz beendet ###
+
+ Letztes Update: 21:00 / 16.05.2024
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes in einem Zug in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
