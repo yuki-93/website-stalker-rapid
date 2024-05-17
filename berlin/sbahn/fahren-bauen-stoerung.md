@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Reparatur an einem Signal im Bereich Mahlow ###
+
+ Letztes Update: 06:00 / 17.05.2024
+
+Information
+
+Wegen der Reparatur an einem Signal im Bereich Mahlow kann es auf der Linie S2 zu Verspätungen kommen.
+
+Wir bitten um Entschguldigung
+
+ sonstige Einschränkungen  sonstige Einschränkungen
+
 [S7](https://sbahn.berlin/fahren/s7/)
 
 ### kurzfristige Bauarbeiten zwischen Marzahn und Ahrensfelde am 17.05.2024 ###
