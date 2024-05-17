@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz zwischen Alt-Reinickendorf und Tegel ###
-
- Letztes Update: 19:53 / 17.05.2024
-
-Information
-
-Wegen eines Polizeieinsatzes zwischen Alt-Reinickendorf und Tegel kommt es auf der Linie S25 zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- fährt nicht  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
