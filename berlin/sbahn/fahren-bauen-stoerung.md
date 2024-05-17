@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### ärztliche Versorgung eines Fahrgastes - beendet ###
-
- Letztes Update: 09:04 / 17.05.2024
-
-Information
-
-Nach der ärztliche Versorgung eines Fahrgastes im Zug kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Entschuldigung
-
- sonstige Einschränkungen  sonstige Einschränkungen
-
 [S2](https://sbahn.berlin/fahren/s2/)
 
 ### Reparatur an einem Signal im Bereich Mahlow ###
