@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Feuerwehreinsatz auf der Strecke Lichterfelde Süd beendet ###
+
+ Letztes Update: 22:03 / 17.05.2024
+
+Information
+
+Nach einem Feuerwehreinsatz auf der Strecke im Bereich Lichterfelde Süd (Böschungsbrand) kann es auf der Linie S25 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
