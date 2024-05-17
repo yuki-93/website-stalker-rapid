@@ -941,8 +941,6 @@ Information
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
 
-Nur Wochenende
-
 ### Bornholmer Straße \<\> Oranienburg/Alt-Reinickendorf ###
 
 21.06. (Fr), ca. 22 Uhr durchgehend bis 24.06. (Mo), ca. 1.30 Uhr
