@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### kurzfristige Bauarbeiten zwischen Marzahn und Ahrensfelde am 17.05.2024 ###
-
- Letztes Update: 05:00 / 17.05.2024
-
-Information
-
-Wegen kurzfristiger Bauarbeiten zwischen Marzahn und Ahrensfelde kann **von ca. 08:00 Uhr bis 14:00 Uhr** der 10-Minuten-Takt der Linie S7 nur zwischen Potsdam Hbf. und Marzahn angeboten werden.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
