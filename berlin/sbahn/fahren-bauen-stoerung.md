@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)
-
-### Personen auf der Strecke im Bereich Wuhlheide ###
-
- Letztes Update: 19:09 / 19.05.2024
-
-Information
-
-Nach einem Polizeieinsatz (Personen auf der Strecke im Bereich Wuhlheide) kommt es auf der Linie S3 noch zu Verspätungen und Zugausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
