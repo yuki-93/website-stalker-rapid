@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### ärztliche Versorgung eines Fahrgastes in Friedrichstraße beendet ###
+### Gegenstände auf der Strecke in Bundesplatz ###
 
- Letztes Update: 16:25 / 20.05.2024
+ Letztes Update: 19:02 / 20.05.2024
 
 Information
 
-Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Friedrichstraße kommt es auf den Linien S1, S2, S25 und S26 noch zu einzelnen Verspätungen und Ausfällen.
+Wegen Gegenstände auf der Strecke in Bundesplatz kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
