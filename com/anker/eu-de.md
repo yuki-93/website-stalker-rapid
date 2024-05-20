@@ -19,7 +19,7 @@ ProdukteNach KategorieNeuerscheinungenAngebote[Ladezubeoer-unterwegs-angebote](h
 
 Hilfe
 
-[](https://passport.anker.com/?app=ankerde)
+[]()
 
 On-the-Go Angebote
 
