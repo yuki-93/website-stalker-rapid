@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
 
-### Gegenstände auf der Strecke in Bundesplatz ###
+### Gegenstände auf der Strecke in Bundesplatz beseitigt ###
 
- Letztes Update: 19:02 / 20.05.2024
+ Letztes Update: 19:57 / 20.05.2024
 
 Information
 
-Wegen Gegenstände auf der Strecke in Bundesplatz kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Ausfällen.
+Nach Gegenstände auf der Strecke in Bundesplatz kommt es auf den Linien S41, S42, S45 und S46 zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
