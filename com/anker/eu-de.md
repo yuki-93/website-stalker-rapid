@@ -13,7 +13,7 @@ Mobile Magie für Abenteuer. Schnapp dir Ladesets und Überraschungsartikel mit 
 
 [Jetzt bestellen \>\>](https://www.anker.com/eu-de/reiseset-angebote)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Super Solarangebote](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| 800 Watt Balkonkraftwerk sichern](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
 ProdukteNach KategorieNeuerscheinungenAngebote[Ladezubeoer-unterwegs-angebote](https://www.anker.com/eu-de/reiseset-angebote?ref=naviMenu)
 
