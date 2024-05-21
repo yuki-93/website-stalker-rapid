@@ -8,13 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke zwischen Neukölln und Sonnenallee ###
 
- Letztes Update: 18:46 / 21.05.2024
+ Letztes Update: 21:57 / 21.05.2024
 
 Information
 
-Wegen der Reparatur an der Strecke zwischen Neukölln und Sonnenallee kommt es auf der Linie S42 zu Verspätungen und nachfolgenden Einschränkungen:
-
-* Die Linie **S42** verkehrt nur im 10-Minuten-Takt.
+Wegen der Reparatur an der Strecke zwischen Neukölln und Sonnenallee kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
 
 ---
 
