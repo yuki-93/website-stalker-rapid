@@ -4,22 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal in Babelsberg ###
-
- Letztes Update: 18:50 / 21.05.2024
-
-Information
-
-Wegen Reparatur an einem Signal in Babelsberg kommt es auf der Linie S7 zu Verspätungen und Ausfällen.
-
-Die Linie S7 verkehrt zwischen Grunewald und Potsdam nur im 20-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an der Strecke zwischen Neukölln und Sonnenallee ###
