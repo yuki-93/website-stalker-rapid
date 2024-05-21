@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke zwischen Neukölln und Sonnenallee ###
 
- Letztes Update: 21:57 / 21.05.2024
+ Letztes Update: 00:24 / 22.05.2024
 
 Information
 
@@ -21,7 +21,8 @@ Zur vollständigen Reparatur an der Strecke muss der Zugverkehr der Linien S41, 
 #### Zugverkehr: ####
 
 * S41/ S42: Zugverkehr zwischen Ostkreuz \<\> Treptower Park \<\> Neukölln \<\> Hermannstraße nur im 20-Minuten-Takt
-* S45: die Züge zwischen Südkreuz \<\> Baumschulenweg **fahren nicht**
+* S45: die Züge zwischen Südkreuz \<\> Baumschulenweg **fahren nicht,** Fahrgäste nach Baumschulenweg fahren bis Treptower Park und nutzen den Pendelverkehr
+* S46 die Züge zwischen Westend \<\> Baumschulenweg **fahren nicht**, Fahrgäste nach Baumschulenweg fahren bis Treptower Park und nutzen den Pendelverkehr
 
 #### Gleisänderungen: ####
 
@@ -29,10 +30,6 @@ Zur vollständigen Reparatur an der Strecke muss der Zugverkehr der Linien S41, 
   * in Neukölln abweichend von Gleis 1
   * in Treptower Park abweichend von Gleis 1
   * in Ostkreuz abweichend von Gleis 11
-
-* die Züge der S46 nach Baumschulenweg fahren:
-  * in Neukölln abweichend von Gleis 1
-  * in Köllnische Heide abweichend von Gleis 1
 
 Diese Baumaßnahme ist aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten.
 
