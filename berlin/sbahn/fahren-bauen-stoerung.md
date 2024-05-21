@@ -4,11 +4,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal in Babelsberg ###
+
+ Letztes Update: 18:50 / 21.05.2024
+
+Information
+
+Wegen Reparatur an einem Signal in Babelsberg kommt es auf der Linie S7 zu Verspätungen und Ausfällen.
+
+Die Linie S7 verkehrt zwischen Grunewald und Potsdam nur im 20-Minuten-Takt.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an der Strecke zwischen Neukölln und Sonnenallee ###
 
- Letztes Update: 16:43 / 21.05.2024
+ Letztes Update: 18:46 / 21.05.2024
 
 Information
 
@@ -22,21 +38,19 @@ Zur vollständigen Reparatur an der Strecke muss der Zugverkehr der Linien S41, 
 
 #### Zugverkehr: ####
 
-* S41: Ostkreuz, Gleis 11 \> Neukölln \> Hermannstraße \> Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz, Gleis 12, dabei zwischen Ostkreuz \> Neukölln \> Hermannstraße nur im 20-Minuten-Takt
-* S42: Ostkreuz, Gleis 12 \> Gesundbrunnen \> Westkreuz \> Südkreuz \> Hermannstraße \> Neukölln \> Ostkreuz, Gleis 11, dabei zwischen Hermannstraße \> Neukölln \> Ostkreuz nur im 20-Minuten-Takt
+* S41/ S42: Zugverkehr zwischen Ostkreuz \<\> Treptower Park \<\> Neukölln \<\> Hermannstraße nur im 20-Minuten-Takt
 * S45: die Züge zwischen Südkreuz \<\> Baumschulenweg **fahren nicht**
 
 #### Gleisänderungen: ####
 
-* die Züge der Linie S42 fahren:
+* die durchfahrenden Züge der Linie S42 fahren:
   * in Neukölln abweichend von Gleis 1
   * in Treptower Park abweichend von Gleis 1
+  * in Ostkreuz abweichend von Gleis 11
 
 * die Züge der S46 nach Baumschulenweg fahren:
   * in Neukölln abweichend von Gleis 1
   * in Köllnische Heide abweichend von Gleis 1
-
-**Bitte beachten Sie**, dass zur Weiterfahrt in Ostkreuz jeweils ein Umstieg (Wechsel der Bahnsteigseite) erforderlich ist.
 
 Diese Baumaßnahme ist aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten.
 
