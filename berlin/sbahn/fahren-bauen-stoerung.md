@@ -8,14 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an der Strecke in Neukölln ###
 
- Letztes Update: 12:02 / 21.05.2024
+ Letztes Update: 13:17 / 21.05.2024
 
 Information
 
 Wegen der Reparatur an der Strecke in Neukölln kommt es auf den Linien S42, S45 und S46 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linie **S42** verkehrt nur im 10-Minuten-Takt.
-* Die Linie **S45** zwischen Baumschulenweg und Südkreuz verkehrt nicht, *bitte nutzen Sie zwischen Baumschulenweg und Südkreuz die Linie S46*.
 
 Wir bitten um Entschuldigung.
 
