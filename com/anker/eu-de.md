@@ -111,8 +111,8 @@ Anker-Innovationen nach Kategorie filtern
 * [Kabellos](https://www.anker.com/eu-de/collections/kabelloses-zubehor?ref=homePageBanner)
 * [Kabel](https://www.anker.com/eu-de/collections/kabel?ref=homePageBanner)
 * [Hubs & Docks](https://www.anker.com/eu-de/collections/adapter-hubs?ref=homePageBanner)
-* [Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-800-watt-erlaubt?ref=homePageBanner)
-* [Ladestationen](https://www.anker.com/eu-de/ankerpower?ref=homePageBanner)
+* [Balkonkraftwerk](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-produkteinfuehrung?ref=homePageBanner)
+* [Ladestationen](https://www.anker.com/eu-de/collections/portable-power-stations?ref=homePageBanner)
 
 Weltweit die
 

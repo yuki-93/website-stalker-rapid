@@ -4,17 +4,55 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einem Signal in Jannowitzbrücke ###
+
+ Letztes Update: 16:17 / 21.05.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ Takt geändert
+
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an der Strecke zwischen Neukölln und Sonnenallee ###
 
- Letztes Update: 14:18 / 21.05.2024
+ Letztes Update: 15:46 / 21.05.2024
 
 Information
 
 Wegen der Reparatur an der Strecke zwischen Neukölln und Sonnenallee kommt es auf der Linie S42 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linie **S42** verkehrt nur im 10-Minuten-Takt.
+
+---
+
+Zur vollständigen Reparatur an der Strecke muss der Zugverkehr der Linien S41, S42 und S45 **in der heutigen Nacht (21./22.05.2024) von ca. 23:00 Uhr bis ca. 02:00 Uhr** veräbdert durchgeführt werden.
+
+#### Zugverkehr: ####
+
+* S41: Ostkreuz, Gleis 11 \> Neukölln \> Hermannstraße \> Südkreuz \> Westkreuz \> Gesundbrunnen \> Ostkreuz, Gleis 12, dabei zwischen Ostkreuz \> Neukölln \> Hermannstraße nur im 20-Minuten-Takt
+* S42: Ostkreuz, Gleis 12 \> Gesundbrunnen \> Westkreuz \> Südkreuz \> Hermannstraße \> Neukölln \> Ostkreuz, Gleis 11, dabei zwischen Hermannstraße \> Neukölln \> Ostkreuz nur im 20-Minuten-Takt
+* S45: die Züge zwischen Südkreuz \<\> Baumschulenweg **fahren nicht**
+
+#### Gleisänderungen: ####
+
+* die Züge der Linie S42 fahren:
+  * in Neukölln abweichend von Gleis 1
+  * in Treptower Park abweichend von Gleis 1
+
+* die Züge der S46 nach Baumschulenweg fahren:
+  * in Neukölln abweichend von Gleis 1
+  * in Köllnische Heide abweichend von Gleis 1
+
+**Bitte beachten Sie**, dass zur Weiterfahrt in Ostkreuz jeweils ein Umstieg (Wechsel der Bahnsteigseite) erforderlich ist.
+
+Diese Baumaßnahme ist aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten.
 
 Wir bitten um Entschuldigung.
 
