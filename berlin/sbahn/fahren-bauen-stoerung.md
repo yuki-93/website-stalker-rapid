@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S42](https://sbahn.berlin/fahren/s42/)[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+[S42](https://sbahn.berlin/fahren/s42/)
 
-### Reparatur an der Strecke in Neukölln ###
+### Reparatur an der Strecke zwischen Neukölln und Sonnenallee ###
 
- Letztes Update: 13:17 / 21.05.2024
+ Letztes Update: 14:18 / 21.05.2024
 
 Information
 
-Wegen der Reparatur an der Strecke in Neukölln kommt es auf den Linien S42, S45 und S46 zu Verspätungen und nachfolgenden Einschränkungen:
+Wegen der Reparatur an der Strecke zwischen Neukölln und Sonnenallee kommt es auf der Linie S42 zu Verspätungen und nachfolgenden Einschränkungen:
 
 * Die Linie **S42** verkehrt nur im 10-Minuten-Takt.
 
@@ -802,6 +802,32 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungscontainer-gleise-und-weichen-westliche-stadtbahn/#con-29562)
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### Greifswalder Straße \<\> Gesundbrunnen / Birkenwerder ###
+
+Nacht 05./06.06. (Mi/Do) 22 Uhr bis 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29565&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22742&tx_sbbconstructions_list%5Bperiod%5D=17998&type=5679&cHash=0a1c5d097768102792146a96d9fc17bf)
+
+ Pendelverkehr
+
+Information
+
+* Taktänderung:
+  * Landsberger Allee \<\> Greifswalder Straße S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+
+* S-Bahn-Pendelverkehr:
+  * Greifswalder Straße \<\> Gesundbrunnen im 20-Minutentakt
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifarbeiten-in-schoenhauser-allee/#con-29565)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -1041,6 +1067,58 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+ Nur Nachts
+
+### (Grünau) Greifswalder Straße \<\> Gesundbrunnen (Birkenwerder) ###
+
+Nacht 06./07.06. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29566&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22743&tx_sbbconstructions_list%5Bperiod%5D=17999&type=5679&cHash=63d9552695107dbec7276e27d3b500bf)
+
+ Pendelverkehr
+
+Information
+
+* Taktänderung:
+  * Frankfurter Allee \<\> Greifswalder Straße S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+
+* S-Bahn-Pendelverkehr:
+  * Greifswalder Straße \<\> Gesundbrunnen (im 20-Minutentakt)
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifarbeiten-in-schoenhauser-allee-1/#con-29566)
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+Nur Wochenende
+
+### Treptower Park / Landsberger Allee \<\> Beusselstraße / Bornholmer Straße ###
+
+07.06. (Fr), ca. 22 Uhr durchgehend bis 10.06. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29568&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22745&tx_sbbconstructions_list%5Bperiod%5D=18001&type=5679&cHash=f8e7c8cb7ea082bab00955e2b976e83e)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S41/S42: Beusselstraße \<\> Greifswalder Straße
+
+* Taktänderung:
+  * Greifswalder Straße \<\> Landsberger Allee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/stromschienenarbeiten-fuer-die-city-s-bahn-zbs-s4-nord/#con-29568)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
