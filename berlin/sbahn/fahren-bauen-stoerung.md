@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einem Signal in Jannowitzbrücke behoebn ###
-
- Letztes Update: 16:47 / 21.05.2024
-
-Information
-
-Nach einer Reparatur an einem Signal in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 noch zu einzelnen Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert
-
 [S42](https://sbahn.berlin/fahren/s42/)
 
 ### Reparatur an der Strecke zwischen Neukölln und Sonnenallee ###
