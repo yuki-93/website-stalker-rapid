@@ -4,21 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Feuerwehreinsatz auf der Strecke Schönholz ###
+### Feuerwehreinsatz auf der Strecke Schönholz beendet ###
 
- Letztes Update: 14:36 / 22.05.2024
+ Letztes Update: 14:57 / 22.05.2024
 
 Information
 
-Wegen eines Feuerwehreinsatzes auf der Strecke Schönholz ist der Zugverkehr der Linien S1, S25 und S85 zwischen Schönholz und Waidmannslust unterbrochen.
-
-* Linie S1 verkehrt Wannsee \<\> Schönholz sowie Waidmannslust \<\> Oranienburg.
-* Linie S25 verkehrt Teltow Stadt \<\> Gesundbrunnen sowie Tegel \<\> Hennigsdorf.
-* Linie S85 verkehrt Treptower Park \<\> Pankow
-
-Der 10- Minuten-Takt auf der Linie S1 wird nur zwischen Wannsee und Nordbahnhof angeboten.
+Nach einem Feuerwehreinsatz auf der Strecke in Schönholz kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis
 
