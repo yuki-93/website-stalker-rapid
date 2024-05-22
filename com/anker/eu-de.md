@@ -13,7 +13,7 @@ Mobile Magie für Abenteuer. Schnapp dir Ladesets und Überraschungsartikel mit 
 
 [Jetzt bestellen \>\>](https://www.anker.com/eu-de/reiseset-angebote)
 
-[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Balkonkraftwerk 800 Watt Komplettset sichern](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
+[](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[| Anker SOLIX Solarbank 2 E1600 Pro](https://www.anker.com/eu-de/anker-solix?ref=naviBar)[Jetzt bestellen \>\>](https://www.anker.com/eu-de/anker-solix?ref=naviBar)
 
 ProdukteNach KategorieNeuerscheinungenAngebote[Ladezubehör für unterwegs](https://www.anker.com/eu-de/reiseset-angebote?ref=naviMenu)
 
