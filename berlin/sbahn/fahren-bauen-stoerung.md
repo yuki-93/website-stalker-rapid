@@ -18,20 +18,6 @@ Wir bitten um Verständnis
 
  fährt nicht  Verbindung unterbrochen
 
-[S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einer Weiche in Wannsee ###
-
- Letztes Update: 11:18 / 22.05.2024
-
-Information
-
-Wegen einer Reparatur an einer Weiche in Wannsee kann es auf den Linien S1 und S7 zu Verspätungen und eventuellen Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
