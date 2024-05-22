@@ -40,6 +40,16 @@ blitzschnelle magnetische Power
 
 [Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner2)
 
+Anker SOLIX Solarbank 2 Pro System
+
+Ultra-sparsam. Ohne Verluste.
+
+Das weltweit erste 2400W All-in-One Balkonkraftwerk mit Speicher
+
+[Jetzt kaufenmasterBanner3](https://www.anker.com/eu-de/products/a17c13z1?ref=masterBanner3)
+
+Mehr erfahren
+
 Bestelle Ladeinnovationen von Anker
 ----------
 
