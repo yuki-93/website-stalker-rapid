@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Feuerwehreinsatz auf der Strecke Schönholz beendet ###
-
- Letztes Update: 14:57 / 22.05.2024
-
-Information
-
-Nach einem Feuerwehreinsatz auf der Strecke in Schönholz kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
