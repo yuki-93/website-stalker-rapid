@@ -2,41 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur an der Strecke zwischen Neukölln und Sonnenallee ###
-
- Letztes Update: 00:24 / 22.05.2024
-
-Information
-
-Wegen der Reparatur an der Strecke zwischen Neukölln und Sonnenallee kommt es auf der Linie S42 zu Verspätungen und Ausfällen.
-
----
-
-Zur vollständigen Reparatur an der Strecke muss der Zugverkehr der Linien S41, S42 und S45 **in der heutigen Nacht (21./22.05.2024) von ca. 23:00 Uhr bis ca. 02:00 Uhr** verändert durchgeführt werden.
-
-#### Zugverkehr: ####
-
-* S41/ S42: Zugverkehr zwischen Ostkreuz \<\> Treptower Park \<\> Neukölln \<\> Hermannstraße nur im 20-Minuten-Takt
-* S45: die Züge zwischen Südkreuz \<\> Baumschulenweg **fahren nicht,** Fahrgäste nach Baumschulenweg fahren bis Treptower Park und nutzen den Pendelverkehr
-* S46 die Züge zwischen Westend \<\> Baumschulenweg **fahren nicht**, Fahrgäste nach Baumschulenweg fahren bis Treptower Park und nutzen den Pendelverkehr
-
-#### Gleisänderungen: ####
-
-* die durchfahrenden Züge der Linie S42 fahren:
-  * in Neukölln abweichend von Gleis 1
-  * in Treptower Park abweichend von Gleis 1
-  * in Ostkreuz abweichend von Gleis 11
-
-Diese Baumaßnahme ist aufgrund der Kurzfristigkeit nicht in der Fahrplanauskunft enthalten.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -56,26 +21,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Wartenberg – Springpfuhl ###
-
-16.05. (Do), ca. 22 Uhr durchgehend bis 22.05. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29253&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22416&tx_sbbconstructions_list%5Bperiod%5D=17873&type=5679&cHash=94df74756807cb07bad3dec3e6d0fd79)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S75: Wartenberg \<\> Springpfuhl
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bf-gehrenseestrasse-bahnsteig-dach-und-zugangstreppe-sowie-einbau-aufzug/#con-29253)
 
 [S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
@@ -135,29 +80,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/arbeiten-fuer-das-estw-s8-nord/#con-29355)
-
-[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Teltow Stadt \<\> Osdorfer Straße ###
-
-Nacht 21./22.05. (Di/Mi), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29359&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22523&tx_sbbconstructions_list%5Bperiod%5D=17913&type=5679&cHash=fb8040ae8a03ed98b6f4fe277121e00f)
-
- Zugverkehr verändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S25 steigen bitte in beiden Fahrtrichtungen in Lichterfelde Süd um.
-     Die Weiterfahrt erfolgt nach 2 Minuten von der gegenüberliegenden Bahnsteigseite.
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-8a2cfce32a/#con-29359)
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 

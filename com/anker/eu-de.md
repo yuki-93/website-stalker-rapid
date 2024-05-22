@@ -40,16 +40,6 @@ blitzschnelle magnetische Power
 
 [Jetzt kaufenmasterBanner2](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet?ref=masterBanner2)
 
-Anker SOLIX Solarbank 2
-E1600 Pro System
-
-Das weltweit erste 2400W All-in-One
- Balkonkraftwerk mit Speicher
-
-Erhältlich ab 22. Mai 2024
-
-[Jetzt 22% Rabatt reservierenmasterBanner3](https://www.anker.com/eu-de/anker-solix/balkonkraftwerk-mit-speicher-solarbank2-a17c1-bms?ref=masterBanner3)
-
 Bestelle Ladeinnovationen von Anker
 ----------
 
