@@ -2,6 +2,29 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Notarzteinsatz auf der Strecke im Hauptbahnhof (Fernbahn) ###
+
+ Letztes Update: 19:06 / 22.05.2024
+
+Information
+
+Wegen eines Notarzteinsatzes auf der Strecke im Hauptbahnhof (Fernbahn) ist der Zugverkehr der Linien S3, S5 und S7 zwischen Friedrichstraße und Tiergarten Garten unterbrochen.
+
+* Linie S3 verkehrt Erkner \<\> Friedrichstraße sowie Tiergarten \<\> Spandau
+* Linie S5 verkehrt Strausberg Nord/ Hoppegarten \<\> Warschauer Straße
+* Linie S7 verkehrt Ahrensfelde \<\> Ostbahnhof sowie Charlottenburg \<\> Potsdam HBF
+* Linie S75 verkehrt Wartenberg \<\> Lichtenberg
+
+Zur Umfahrung nutzen Sie bitte die Verkehrsmittel der BVG.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
