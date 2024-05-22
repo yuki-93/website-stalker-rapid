@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Wannsee ###
 
- Letztes Update: 07:58 / 22.05.2024
+ Letztes Update: 11:18 / 22.05.2024
 
 Information
 
-Wegen einer Reparatur an einer Weiche in Wannsee kommt es auf den Linien S1 und S7 zu Verspätungen und Zugausfällen.
+Wegen einer Reparatur an einer Weiche in Wannsee kann es auf den Linien S1 und S7 zu Verspätungen und eventuellen Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
