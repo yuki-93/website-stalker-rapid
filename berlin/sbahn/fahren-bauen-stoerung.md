@@ -4,6 +4,26 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Feuerwehreinsatz auf der Strecke Schönholz ###
+
+ Letztes Update: 14:36 / 22.05.2024
+
+Information
+
+Wegen eines Feuerwehreinsatzes auf der Strecke Schönholz ist der Zugverkehr der Linien S1, S25 und S85 zwischen Schönholz und Waidmannslust unterbrochen.
+
+* Linie S1 verkehrt Wannsee \<\> Schönholz sowie Waidmannslust \<\> Oranienburg.
+* Linie S25 verkehrt Teltow Stadt \<\> Gesundbrunnen sowie Tegel \<\> Hennigsdorf.
+* Linie S85 verkehrt Treptower Park \<\> Pankow
+
+Der 10- Minuten-Takt auf der Linie S1 wird nur zwischen Wannsee und Nordbahnhof angeboten.
+
+Wir bitten um Verständnis
+
+ fährt nicht  Verbindung unterbrochen
+
 [S1](https://sbahn.berlin/fahren/s1/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einer Weiche in Wannsee ###
@@ -809,6 +829,30 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifarbeiten-in-schoenhauser-allee/#con-29565)
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### (Ahrensfelde) Springpfuhl \<\> Friedrichsfelde Ost/Ostkreuz (Wannsee) ###
+
+Nacht 05./06.06. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29585&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22761&tx_sbbconstructions_list%5Bperiod%5D=18015&type=5679&cHash=61cfcb65ac8588447fac0c3b54728187)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Ahrensfelde \<\> Springpfuhl \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 20-Minutentakt mit S7
+  * Friedrichsfelde Ost \<\> Ostkreuz S-Bahnverkehr nur im ungefähren 3-/17-Minutentakt mit S5 und S7
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-lichtenberg-9/#con-29585)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
@@ -1127,6 +1171,40 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide/Neukölln \<\> Treptower Park \<\> Warschauer Straße/Schönhauser Allee ###
+
+Nacht 10./11.06. (Mo/Di), ca. 20 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29582&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22758&tx_sbbconstructions_list%5Bperiod%5D=18013&type=5679&cHash=44ff6ef80fd15f51a200bf84855808e3)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr:
+  * Plänterwald/Neukölln \<\> Treptower Park \<\> Warschauer Straße/Schönhauser Allee
+
+* Ersatzverkehr mit Bussen:
+  * Bus S41/S42: Neukölln \<\> Ostkreuz \<\> Schönhauser Allee
+
+* S-Bahn-Pendelverkehr:
+  * Baumschulenweg \<\> Plänterwald im 10-Minutentakt
+
+* Taktänderung:
+  * Schönhauser Allee \<\> Bornholmer Straße S-Bahnverkehr nur im 20-Minutentakt mit S8
+  * Schönholz \<\> Waidmannslust S-Bahnverkehr nur im 10-Minutentakt mit S1
+  * Südkreuz \<\> Westkreuz \<\> Schönhauser Allee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/softwarewechsel-im-estw/#con-29582)
+
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
@@ -1148,6 +1226,32 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/beseitigung-schwellenhohllage/#con-29561)
+
+[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Schöneweide \<\> Südkreuz ###
+
+Nacht 11./12.06. (Di/Mi), ca. 22.15 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29584&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22760&tx_sbbconstructions_list%5Bperiod%5D=18014&type=5679&cHash=5bb1d51266db89b243616e8bb1fbba1d)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S46 steigen bitte in beiden Fahrtrichtungen in Baumschulenweg um, die Weiterfahrt erfolgt nach 18 Minuten vom selben Gleis (in Fahrtrichtung Westend) bzw. nach 17 Minuten (in Fahrtrichtung Königs Wusterhausen) vom anderen Bahnsteig (der Bahnhof ist barrierefrei).
+
+* Taktänderung:
+  * Baumschulenweg \<\> Neukölln S-Bahnverkehr nur im 20-Minutentakt mit S46
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/wechsel-von-iso-stoessen-in-baumschulenweg/#con-29584)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
