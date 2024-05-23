@@ -2,24 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S7](https://sbahn.berlin/fahren/s7/)
-
-### Reparatur an einem Signal in Wannsee ###
-
- Letztes Update: 06:35 / 23.05.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Wannsee kommt es auf der Linie S7 zu Verspätungen und nachfolgenden Einschränkungen:
-
-*Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Grunewald angeboten werden.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
