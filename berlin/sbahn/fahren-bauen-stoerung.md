@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S7](https://sbahn.berlin/fahren/s7/)
+
+### Reparatur an einem Signal in Wannsee ###
+
+ Letztes Update: 06:35 / 23.05.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Wannsee kommt es auf der Linie S7 zu Verspätungen und nachfolgenden Einschränkungen:
+
+*Der 10-Minuten-Takt kann nur zwischen Ahrensfelde und Grunewald angeboten werden.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
@@ -827,6 +845,26 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenschleifarbeiten-in-schoenhauser-allee-1/#con-29566)
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
+
+ Nur Nachts
+
+### Charlottenburg \<\> Grunewald ###
+
+Nacht 06./07.06. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29587&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22763&tx_sbbconstructions_list%5Bperiod%5D=18016&type=5679&cHash=1c3226c98ad1acd7944e12d50c4eafa8)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-grunewald-3/#con-29587)
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 Nur Wochenende
@@ -1223,6 +1261,30 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellensanierung-schraublochsanierung/#con-29560)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts
+
+### Mahlsdorf/Ahrensfelde/Wartenberg \<\> Westkreuz ###
+
+Nächte 12./13.06. (Mi/Do) und 13./14.06. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29588&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22764&tx_sbbconstructions_list%5Bperiod%5D=18017&type=5679&cHash=6a6e0a9b95977272910aed755fd5c43c)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr im 20-Minutentakt mit S5
+  * Springpfuhl \<\> Friedrichsfelde Ost S-Bahnverkehr im 10-Minutentakt mit S7
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-am-biesdorfer-kreuz/#con-29588)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
 
