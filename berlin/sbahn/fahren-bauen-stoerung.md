@@ -8,11 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Westkreuz ###
 
- Letztes Update: 12:15 / 23.05.2024
+ Letztes Update: 14:01 / 23.05.2024
 
 Information
 
-Wegen einer Reparatur an einer Weiche in Westkreuz kann es auf den Linien S3, S5 und S7 zu Verspätungen und eventuellen Zugausfällen kommen.
+Wegen der Reparatur an einer Weiche in Westkreuz kommt es auf den Linien S3, S5 und S7 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linie **S5** verkehrt nur zwischen Strausberg Nord bzw. Hoppegarten \<\> Charlottenburg, *bitte nutzen Sie zwischen Charlottenburg und Westkreuz die Linie S3.*
 
 Wir bitten um Entschuldigung.
 
