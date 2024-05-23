@@ -4,37 +4,35 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
-
-### Polizeieinsatz in Jungfernheide beendet ###
-
- Letztes Update: 16:11 / 23.05.2024
-
-Information
-
-Nach einem Polizeieinsatz im Zug in Jungfernheide kommt es auf den Linien S41, S42 und S46 noch zu Verspätungen und einzelnen Ausfällen.
-
-Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)
 
 ### Reparatur an einer Weiche in Westkreuz ###
 
- Letztes Update: 14:01 / 23.05.2024
+ Letztes Update: 17:13 / 23.05.2024
 
 Information
 
 Wegen der Reparatur an einer Weiche in Westkreuz kommt es auf den Linien S3, S5 und S7 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Die Linie **S5** verkehrt nur zwischen Strausberg Nord bzw. Hoppegarten \<\> Charlottenburg, *bitte nutzen Sie zwischen Charlottenburg und Westkreuz die Linie S3.*
+* Die Linie **S5** verkehrt nur zwischen Strausberg Nord bzw. Hoppegarten \<\> Charlottenburg, *bitte nutzen Sie zwischen Charlottenburg und Westkreuz die Linien S3 und S7.*
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### Polizeieinsatz in Jungfernheide beendet ###
+
+ Letztes Update: 17:12 / 23.05.2024
+
+Information
+
+Nach einem Polizeieinsatz im Zug in Jungfernheide kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
