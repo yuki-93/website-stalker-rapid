@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Gegenstände auf der Strecke in Wittenau ###
+
+ Letztes Update: 20:23 / 24.05.2024
+
+Information
+
+Wegen Gegenständen auf der Strecke in Wittenau kommt es auf den Linien S1 und S85 zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitte um Ihr Verständnis.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
