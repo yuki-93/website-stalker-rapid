@@ -8,32 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Westkreuz ###
 
- Letztes Update: 14:41 / 24.05.2024
+ Letztes Update: 15:40 / 24.05.2024
 
 Information
 
 Wegen der Reparatur an einer Weiche in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
 
-* Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Hoppegarten und Charlottenburg.
-  *Bitte nutzen Sie zwischen Charlottenburg und Westkreuz die Linien S3, S7 und S9.*
+* Der 10-Minuten-Takt der Linie S5 verkehrt nur zwischen Hoppegarten und Charlottenburg.
 
 Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
-
-### ärztliche Versorgung eines Fahrgastes in Westhafen beendet ###
-
- Letztes Update: 14:19 / 24.05.2024
-
-Information
-
-Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Westhafen kommt es auf den Linien S41 und S42 noch zu Verspätungen und einzelnen Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
