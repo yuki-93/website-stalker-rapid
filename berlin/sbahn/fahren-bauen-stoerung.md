@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S47](https://sbahn.berlin/fahren/s47/)
-
-### Polizeieinsatz in Köllnische Heide beendet ###
-
- Letztes Update: 17:05 / 24.05.2024
-
-Information
-
-Nach einem Polizeieinsatz in Köllnische Heide verkehrt die Linie S47 nur zwischen Spinlersfeld \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
