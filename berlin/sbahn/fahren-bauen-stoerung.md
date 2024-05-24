@@ -21,20 +21,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einer Weiche in Treptower Park beendet ###
-
- Letztes Update: 10:49 / 24.05.2024
-
-Information
-
-Nach einer Reparatur an einer Weiche in Treptower Park kann es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Zugausfällen kommen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -1342,6 +1328,77 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/baumfaellarbeiten-schwellenauswechslungen-1/#con-29546)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### (Karlshorst/Mahlsdorf) Alexanderplatz \<\> Zoologischer Garten (Spandau) ###
+
+17.07. (Mi), ca. 4 Uhr durchgehend bis 29.07. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29602&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22778&tx_sbbconstructions_list%5Bperiod%5D=18029&type=5679&cHash=e10d75e0a796c55dce3016303eff3472)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr:
+  * Alexanderplatz \<\> Tiergarten
+
+* Ersatzverkehr mit Bussen:
+  * Alexanderplatz \<\> Zoologischer Garten
+
+* Taktänderung:
+  * Tiergarten \<\> Zoologischer Garten S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
+  * am 17.07. (Mi) Karlshorst \<\> Ostkreuz S-Bahnverkehr nur im 10-Minutentakt
+  * am 17.07. (Mi) Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr nur im 10-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-fuek-weichenerneuerung-in-friedrichstrasse-brueckenarbeiten-alt-moabit/#con-29602)
+
+[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Königs Wusterhausen \<\> Grünau ###
+
+22.07. (Mo), ca. 4 Uhr durchgehend bis 09.08. (Fr), ca. 22 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29600&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22776&tx_sbbconstructions_list%5Bperiod%5D=18028&type=5679&cHash=cb3184bf9b81f991c2668f564c32de8a)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S46: Königs Wusterhausen \<\> Zeuthen
+
+* Taktänderung:
+  * Zeuthen \<\> Grünau S-Bahnverkehr nur im 20-Minutentakt mit S46
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/oberbauerneuerung-brueckenarbeiten/#con-29600)
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Blankenfelde \<\> Lichtenrade (Schichauweg) ###
+
+29.07. (Mo), ca. 4 Uhr durchgehend bis 07.08. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29603&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22779&tx_sbbconstructions_list%5Bperiod%5D=18031&type=5679&cHash=d6addb8025271b9fac6f0d37fc1f0ae3)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S2: Blankenfelde \<\> Lichtenrade
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-brueckenarbeiten-pruef-und-abnahmehandlungen/#con-29603)
 
 ### Fahrplanänderungen ###
 
