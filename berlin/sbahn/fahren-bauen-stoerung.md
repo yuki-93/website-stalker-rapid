@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur am Zug in Jannowitzbrücke ###
+### Reparatur an einem Signal zwischen Bellevue und Hauptbahnhof ###
 
- Letztes Update: 22:58 / 24.05.2024
+ Letztes Update: 00:02 / 25.05.2024
 
 Information
 
-Wegen der Reparatur an einem Zug in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und vereinzelten Ausfällen.
+Wegen der Reparatur an einem Signal zwischen Bellevue und Hauptbahnhof kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
@@ -1054,32 +1054,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Gesundbrunnen \<\> Nordbahnhof ###
-
-Nacht 07./08.06. (Fr/Sa), ca. 1 Uhr - ca. 5 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29578&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22745&tx_sbbconstructions_list%5Bperiod%5D=18009&type=5679&cHash=d581bbf4b3a6937ef1bc2a8d082e0526)
-
-Nacht 08./09.06. (Sa/So), ca. 1 Uhr - ca. 7 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29578&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22745&tx_sbbconstructions_list%5Bperiod%5D=18010&type=5679&cHash=77955a8da6f8dc1e77863c0f1e418289)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29578&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22745&type=5679&cHash=3386380f6728d3e4188cb203acfdd526)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S2 nach Blankenfelde fährt von Gesundbrunnen bis Nordbahnhof 5 Minuten früher.
-  * Fahrgäste der S25 (aus Hennigsdorf) steigen zur S2 (nach Blankenfelde) bitte erst in Nordbahnhof (anstatt in Gesundbrunnen) um.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
 
