@@ -4,19 +4,32 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Reparatur an einer Weiche in Treptower Park ###
+### Reparatur an einer Weiche in Westkreuz ###
 
- Letztes Update: 09:46 / 24.05.2024
+ Letztes Update: 11:11 / 24.05.2024
 
 Information
 
-Wegen einer Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S42 und S8 zu Verspätungen und Zugausfällen sowie folgenden Einschränkungen:
+Wegen der Reparatur an einer Weiche in Westkreuz kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen kommen.
 
-* Die Linien S41 und S42 verkehren im 10-Minuten-Takt.
-* Die Linie S8 verkehrt zwischen Birkenwerder und Greifswalder Straße sowie zwischen Treptower Park und Grünau.
-* Die Linie S85 verkehrt nicht.
+* Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Hoppegarten und Charlottenburg.
+  *Bitte nutzen Sie zwischen Charlottenburg und Westkreuz die Linien S3, S7 und S9.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einer Weiche in Treptower Park beendet ###
+
+ Letztes Update: 10:49 / 24.05.2024
+
+Information
+
+Nach einer Reparatur an einer Weiche in Treptower Park kann es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Zugausfällen kommen.
 
 Wir bitten um Entschuldigung.
 
