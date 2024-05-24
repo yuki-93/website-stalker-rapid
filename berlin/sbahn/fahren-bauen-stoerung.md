@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einer Weiche in Westkreuz ###
+
+ Letztes Update: 14:41 / 24.05.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+
+* Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Hoppegarten und Charlottenburg.
+  *Bitte nutzen Sie zwischen Charlottenburg und Westkreuz die Linien S3, S7 und S9.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### ärztliche Versorgung eines Fahrgastes in Westhafen beendet ###
@@ -17,23 +34,6 @@ Nach der ärztlichen Versorgung eines Fahrgastes im Zug in Westhafen kommt es a
 Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  sonstige Einschränkungen
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einer Weiche in Westkreuz ###
-
- Letztes Update: 11:11 / 24.05.2024
-
-Information
-
-Wegen der Reparatur an einer Weiche in Westkreuz kann es auf den Linien S3, S5, S7 und S9 zu Verspätungen kommen.
-
-* Die Linie S5 verkehrt nur zwischen Strausberg Nord/ Hoppegarten und Charlottenburg.
-  *Bitte nutzen Sie zwischen Charlottenburg und Westkreuz die Linien S3, S7 und S9.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
