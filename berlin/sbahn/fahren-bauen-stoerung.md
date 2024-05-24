@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S47](https://sbahn.berlin/fahren/s47/)
 
-### Reparatur an einer Weiche in Westkreuz ###
+### Polizeieinsatz in Köllnische Heide beendet ###
 
- Letztes Update: 15:40 / 24.05.2024
+ Letztes Update: 17:05 / 24.05.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und nachfolgenden Einschränkungen:
+Nach einem Polizeieinsatz in Köllnische Heide verkehrt die Linie S47 nur zwischen Spinlersfeld \<\> Schöneweide, *bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.*
 
-* Der 10-Minuten-Takt der Linie S5 verkehrt nur zwischen Hoppegarten und Charlottenburg.
+Wir bitten um Ihr Verständnis.
 
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
