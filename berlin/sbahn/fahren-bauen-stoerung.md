@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+
+### ärztliche Versorgung eines Fahrgastes im Zug in Gesundbrunnen beendet ###
+
+ Letztes Update: 07:28 / 24.05.2024
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes im Zug in Gesundbrunnen kann es auf den Linien S41 und S42 noch zu Verspätungen und eventuellen Zugausfällen kommen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
@@ -1099,6 +1115,32 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/softwarewechsel-im-estw/#con-29582)
 
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Spandau ###
+
+Nacht 10./11.06. (Mo/Di), ca. 23 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22741&tx_sbbconstructions_list%5Bperiod%5D=17997&type=5679&cHash=602ffb23321d1676221073a43374d969)
+
+ Pendelverkehr
+
+Information
+
+* Taktänderung:
+  * Westkreuz \<\> Pichelsberg S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* S-Bahn-Pendelverkehr:
+  * Pichelsberg \<\> Spandau im 20-Minutentakt
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-olympiastadion-10/#con-29564)
+
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
  Nur Nachts
@@ -1213,7 +1255,7 @@ Information
   * Bus S25: Bornholmer Straße \<\>Tegel
 
 * S-Bahn-Pendelverkehr:
-  * Wittenau \<\> Waidmannslust (im 10-Minutentakt, im Nachtverkehr Fr/Sa+Sa/So im 30-Minutentakt)
+  * Wittenau \<\> Waidmannslust im 10-Minutentakt, im Nachtverkehr Fr/Sa+Sa/So im 30-Minutentakt
 
 * Zugverkehr verändert:
   * Umleitung der S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf über Pankow, Blankenburg und Schönfließ
@@ -1283,3 +1325,24 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/baumfaellarbeiten-schwellenauswechslungen-1/#con-29546)
+
+### Fahrplanänderungen ###
+
+[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Gleisänderung in Charlottenburg ###
+
+21.06. (Fr) 3:02 Uhr bis 3:34 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=20175&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=15288&tx_sbbconstructions_list%5Bperiod%5D=18030&type=5679&cHash=6807429bd2451cb771959061bad99ec9)
+
+ Zugverkehr verändert
+
+Information
+
+* Der Zug Charlottenburg ab, 3.02 Uhr nach Flughafen BER, an 4 Uhr verkehrt in Charlottenburg von Gleis 7.
+* Der Zug Westkreuz ab 3.12 Uhr, Charlottenburg ab 3.14 Uhr nach Flughafen BER, an 4.16 Uhr verkehrt in Charlottenburg von Gleis7.
+* Der Zug Westkreuz ab, 3.32 Uhr, Charlottenburg ab 3.34 Uhr nach Flughafen BER, an 4.36 Uhr verkehrt in Charlottenburg von Gleis 7.
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
