@@ -9,7 +9,7 @@ Anker MagGo, Click it, Charge it - Doppelter Speed.
 
 [Jetzt kaufen\>\>](https://www.anker.com/eu-de/maggo-magsafe-kompatibles-kabelloses-ladegeraet)
 
-Mobile Magie für Abenteuer. Schnapp dir Ladesets und Überraschungsartikel mit bis zu 40% Rabatt!
+Smart reisen mit ausgewählten Sets und Überraschungsartikeln! 2 Sets für -20%, 3 für -25%
 
 [Jetzt bestellen \>\>](https://www.anker.com/eu-de/reiseset-angebote)
 
@@ -21,11 +21,12 @@ Hilfe
 
 []()
 
-On-the-Go Angebote
+Günstige Power für den Globetrotter
 
-Exklusive Sets und Überraschungsartikel mit bis zu 40% Rabatt!
+Smart reisen mit ausgewählten Sets und Überraschungsartikeln!
+2 Sets für 20% Rabatt, 3 für 25% Rabatt
 
-15. Mai - 6. Juni
+24. Mai - 6. Juni
 
 [Jetzt bestellenmasterBanner1](https://www.anker.com/eu-de/reiseset-angebote?ref=masterBanner1)
 

@@ -2,6 +2,26 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Reparatur an einer Weiche in Treptower Park ###
+
+ Letztes Update: 09:46 / 24.05.2024
+
+Information
+
+Wegen einer Reparatur an einer Weiche in Treptower Park kommt es auf den Linien S41, S42 und S8 zu Verspätungen und Zugausfällen sowie folgenden Einschränkungen:
+
+* Die Linien S41 und S42 verkehren im 10-Minuten-Takt.
+* Die Linie S8 verkehrt zwischen Birkenwerder und Greifswalder Straße sowie zwischen Treptower Park und Grünau.
+* Die Linie S85 verkehrt nicht.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
