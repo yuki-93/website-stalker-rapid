@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S85](https://sbahn.berlin/fahren/s85/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Gegenstände auf der Strecke in Wittenau ###
+### Reparatur am Zug in Jannowitzbrücke ###
 
- Letztes Update: 20:23 / 24.05.2024
+ Letztes Update: 22:58 / 24.05.2024
 
 Information
 
-Wegen Gegenständen auf der Strecke in Wittenau kommt es auf den Linien S1 und S85 zu Verspätungen und einzelnen Ausfällen.
+Wegen der Reparatur an einem Zug in Jannowitzbrücke kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und vereinzelten Ausfällen.
 
-Wir bitte um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
