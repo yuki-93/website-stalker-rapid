@@ -4,33 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz im Bereich Friedrichsfelde Ost beendet ###
+### Polizeieinsatz in Prenzlauer Allee ###
 
- Letztes Update: 20:11 / 25.05.2024
+ Letztes Update: 23:04 / 25.05.2024
 
 Information
 
-Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
+Wegen eines Polizeieinsatzes in Prenzlauer Allee ist der Zugverkehr der Linien S41, S42 und S8 zwischen Greifswalder Straße und Schönhauser Allee unterbrochen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert
-
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Reparatur an einer Weiche in Westkreuz beendet ###
-
- Letztes Update: 19:26 / 25.05.2024
-
-Information
-
-Nach der Reparatur an einer Weiche in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschulding.
-
- Zugverkehr verändert
+ fährt nicht
 
 ### Baumaßnahmen ###
 
