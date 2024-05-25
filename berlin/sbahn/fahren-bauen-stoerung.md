@@ -6,19 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
-### Polizeieinsatz in Prenzlauer Allee ###
+### Polizeieinsatz in Prenzlauer Allee beendet ###
 
- Letztes Update: 23:48 / 25.05.2024
+ Letztes Update: 01:17 / 26.05.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Prenzlauer Allee ist der Zugverkehr der Linien S41, S42 und S8 zwischen Greifswalder Straße und Schönhauser Allee unterbrochen.
-
-Die Linie S8 fährt nur zwischen Grünau und Treptower Park.
+Nach einem Polizeieinsatz in Prenzlauer Allee entfällt für die Linien S41, S42 und S8 der Halt in Prenzlauer Allee.
 
 Wir bitten um Ihr Verständnis.
 
- fährt nicht
+ sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
