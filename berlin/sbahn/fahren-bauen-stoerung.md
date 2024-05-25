@@ -8,123 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz in Prenzlauer Allee ###
 
- Letztes Update: 23:04 / 25.05.2024
+ Letztes Update: 23:48 / 25.05.2024
 
 Information
 
 Wegen eines Polizeieinsatzes in Prenzlauer Allee ist der Zugverkehr der Linien S41, S42 und S8 zwischen Greifswalder Straße und Schönhauser Allee unterbrochen.
 
+Die Linie S8 fährt nur zwischen Grünau und Treptower Park.
+
 Wir bitten um Ihr Verständnis.
 
  fährt nicht
-
-### Baumaßnahmen ###
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Gehrenseestraße ###
-
-19.06. (Mo) ca. 4 Uhr bis auf Weiteres
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
-
- Zugverkehr verändert
-
-Information
-
-* kein Halt in Gehrenseestraße
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-Nur Wochenende
-
-### Bornholmer Straße \<\> Karow ###
-
-24.05. (Fr) 22 Uhr bis 27.05. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29441&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22612&tx_sbbconstructions_list%5Bperiod%5D=17949&type=5679&cHash=1cac8acf2974ff9b6946e4552a31579f)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S2: Bornholmer Straße \<\> Karow
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1/#con-29441)
-
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-Nur Wochenende
-
-### (Treptower Park) Bornholmer Straße \<\> Hohen Neuendorf ###
-
-24.05. (Fr) 22 Uhr bis 27.05. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29442&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22612&tx_sbbconstructions_list%5Bperiod%5D=17949&type=5679&cHash=d15e4fac3fbc1d2d57ff6727ca0edfd4)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S8: Bornholmer Straße \<\> Hohen Neuendorf
-    * Im Abschnitt Schönfließ \<\> Bergfelde \<\> Hohen Neuendorf fahren der Bus S8 und die S8 nahezu parallel.
-    * In Schönfließ und in Bergfelde hält der Bus S8 nicht an den S-Bahnhöfen, bitte steigen Sie zwischen dem Bus S8 und der S8 (Schönfließ \<\> Birkenwerder) in beiden Fahrtrichtungen in Hohen Neuendorf um.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-estw-s8-nord-1/#con-29442)
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
-### Wartenberg \<\> Warschauer Straße ###
-
-22.05. (Mi), ca. 4 Uhr durchgehend bis 17.07. (Mi), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29386&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22555&tx_sbbconstructions_list%5Bperiod%5D=17925&type=5679&cHash=293f8dc488d8c59e375c539a13274973)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### Ring S42 ###
-
-24.05. (Fr) 22 Uhr bis 27.05. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29443&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22612&tx_sbbconstructions_list%5Bperiod%5D=17949&type=5679&cHash=f42218a61e6ffc9fdb9286d248deed2d)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Samstag und Sonntag, von 12 bis 20 Uhr fahren die den 5-/5-/10-Minutentakt bildenden Züge der S42 um 10 Minuten versetzt.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-Hinweis
-
-Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
 
@@ -359,6 +253,140 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleis-und-weichenarbeiten-12/#con-29449)
+
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
+
+ Nur Nachts
+
+### Nordbahnhof \<\> Bornholmer Straße ###
+
+Nächte 27./28.05. (Mo/Di) und 28./29.05. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29437&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22609&tx_sbbconstructions_list%5Bperiod%5D=17945&type=5679&cHash=478c49798a8ee0f30d9a7bc3b5df9bef)
+
+ Takt geändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Gesundbrunnen um, die Weiterfahrt erfolgt in Fahrtrichtung Oranienburg nach 18 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei) bzw. in Fahrtrichtung Wannsee nach 17 Minuten vom selben Gleis.
+
+* Taktänderung:
+  * Gesundbrunnen \<\> Bornholmer Straße S-Bahnverkehr nur im 20-Minutentakt mit S1
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-zbs-s4-nord-kabeltiefbau-balisenmontage/#con-29437)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Westkreuz ###
+
+Nächte 27./28.05. (Mo/Di) und 28./29.05. (Di/Mi), jeweils ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29445&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22614&tx_sbbconstructions_list%5Bperiod%5D=17951&type=5679&cHash=dcc64587904106964bf9c50ca7541646)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7 Friedrichstraße \<\> Zoologischer Garten
+
+* Taktänderung:
+  * Zoologischer Garten \<\> Charlottenburg S-Bahnverkehr nur im 10-Minutentakt mit S7 und S9
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/instandhaltungscontainer-weichen-und-gleise-westliche-stadtbahn/#con-29445)
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Wartenberg \<\> Warschauer Straße ###
+
+22.05. (Mi), ca. 4 Uhr durchgehend bis 17.07. (Mi), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29386&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22555&tx_sbbconstructions_list%5Bperiod%5D=17925&type=5679&cHash=293f8dc488d8c59e375c539a13274973)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Wartenberg \<\> Springpfuhl S-Bahnverkehr nur im 20-Minutentakt
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
+
+[S42](https://sbahn.berlin/fahren/s42/)
+
+Nur Wochenende
+
+### Ring S42 ###
+
+24.05. (Fr) 22 Uhr bis 27.05. (Mo) 1:30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29443&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22612&tx_sbbconstructions_list%5Bperiod%5D=17949&type=5679&cHash=f42218a61e6ffc9fdb9286d248deed2d)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Samstag und Sonntag, von 12 bis 20 Uhr fahren die den 5-/5-/10-Minutentakt bildenden Züge der S42 um 10 Minuten versetzt.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+ Nur Nachts Nur Wochenende
+
+### Warschauer Straße \> Wartenberg ###
+
+Nacht 26./27.05. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17980&type=5679&cHash=ca5fc218e702b4986aa0f8c5285bd6ab)
+
+ Zugverkehr verändert
+
+Information
+
+* Fahrplanänderung:
+  * Die S75 fährt von Warschauer Straße bis Wartenberg 4 bis 8 Minuten später.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+Hinweis
+
+Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
+
+### Baumaßnahmen ###
+
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Gehrenseestraße ###
+
+19.06. (Mo) ca. 4 Uhr bis auf Weiteres
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=27269&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=20331&tx_sbbconstructions_list%5Bperiod%5D=16948&type=5679&cHash=82d16036e7fcab5ad5fb219ee85ad3a0)
+
+ Zugverkehr verändert
+
+Information
+
+* kein Halt in Gehrenseestraße
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
@@ -745,6 +773,66 @@ Information
 
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Schöneweide/Neukölln \<\> Treptower Park \<\> Warschauer Straße/Schönhauser Allee ###
+
+Nacht 10./11.06. (Mo/Di), ca. 20 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29582&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22758&tx_sbbconstructions_list%5Bperiod%5D=18013&type=5679&cHash=44ff6ef80fd15f51a200bf84855808e3)
+
+ Ersatzverkehr
+
+Information
+
+* kein S-Bahnverkehr:
+  * Plänterwald/Neukölln \<\> Treptower Park \<\> Warschauer Straße/Schönhauser Allee
+
+* Ersatzverkehr mit Bussen:
+  * Bus S41/S42: Neukölln \<\> Ostkreuz \<\> Schönhauser Allee
+
+* S-Bahn-Pendelverkehr:
+  * Baumschulenweg \<\> Plänterwald im 10-Minutentakt
+
+* Taktänderung:
+  * Schönhauser Allee \<\> Bornholmer Straße S-Bahnverkehr nur im 20-Minutentakt mit S8
+  * Schönholz \<\> Waidmannslust S-Bahnverkehr nur im 10-Minutentakt mit S1
+  * Südkreuz \<\> Westkreuz \<\> Schönhauser Allee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/softwarewechsel-im-estw/#con-29582)
+
+[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Westkreuz \<\> Spandau ###
+
+Nacht 10./11.06. (Mo/Di), ca. 23 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22741&tx_sbbconstructions_list%5Bperiod%5D=17997&type=5679&cHash=602ffb23321d1676221073a43374d969)
+
+ Pendelverkehr
+
+Information
+
+* Taktänderung:
+  * Westkreuz \<\> Pichelsberg S-Bahnverkehr nur im 20-Minutentakt mit S9
+
+* S-Bahn-Pendelverkehr:
+  * Pichelsberg \<\> Spandau im 20-Minutentakt
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-olympiastadion-10/#con-29564)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -764,44 +852,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse/#con-29386)
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-Nur Wochenende
-
-### Ring S42 ###
-
-24.05. (Fr) 22 Uhr bis 27.05. (Mo) 1:30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29443&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22612&tx_sbbconstructions_list%5Bperiod%5D=17949&type=5679&cHash=f42218a61e6ffc9fdb9286d248deed2d)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Samstag und Sonntag, von 12 bis 20 Uhr fahren die den 5-/5-/10-Minutentakt bildenden Züge der S42 um 10 Minuten versetzt.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts Nur Wochenende
-
-### Warschauer Straße \> Wartenberg ###
-
-Nacht 26./27.05. (So/Mo), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29450&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22618&tx_sbbconstructions_list%5Bperiod%5D=17980&type=5679&cHash=ca5fc218e702b4986aa0f8c5285bd6ab)
-
- Zugverkehr verändert
-
-Information
-
-* Fahrplanänderung:
-  * Die S75 fährt von Warschauer Straße bis Wartenberg 4 bis 8 Minuten später.
-
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 ### Fahrplanänderungen ###
 
@@ -978,66 +1028,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Schöneweide/Neukölln \<\> Treptower Park \<\> Warschauer Straße/Schönhauser Allee ###
-
-Nacht 10./11.06. (Mo/Di), ca. 20 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29582&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22758&tx_sbbconstructions_list%5Bperiod%5D=18013&type=5679&cHash=44ff6ef80fd15f51a200bf84855808e3)
-
- Ersatzverkehr
-
-Information
-
-* kein S-Bahnverkehr:
-  * Plänterwald/Neukölln \<\> Treptower Park \<\> Warschauer Straße/Schönhauser Allee
-
-* Ersatzverkehr mit Bussen:
-  * Bus S41/S42: Neukölln \<\> Ostkreuz \<\> Schönhauser Allee
-
-* S-Bahn-Pendelverkehr:
-  * Baumschulenweg \<\> Plänterwald im 10-Minutentakt
-
-* Taktänderung:
-  * Schönhauser Allee \<\> Bornholmer Straße S-Bahnverkehr nur im 20-Minutentakt mit S8
-  * Schönholz \<\> Waidmannslust S-Bahnverkehr nur im 10-Minutentakt mit S1
-  * Südkreuz \<\> Westkreuz \<\> Schönhauser Allee S-Bahnverkehr nur im 10-Minutentakt mit S41/S42
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/softwarewechsel-im-estw/#con-29582)
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Westkreuz \<\> Spandau ###
-
-Nacht 10./11.06. (Mo/Di), ca. 23 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29564&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22741&tx_sbbconstructions_list%5Bperiod%5D=17997&type=5679&cHash=602ffb23321d1676221073a43374d969)
-
- Pendelverkehr
-
-Information
-
-* Taktänderung:
-  * Westkreuz \<\> Pichelsberg S-Bahnverkehr nur im 20-Minutentakt mit S9
-
-* S-Bahn-Pendelverkehr:
-  * Pichelsberg \<\> Spandau im 20-Minutentakt
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-olympiastadion-10/#con-29564)
 
 [S2](https://sbahn.berlin/fahren/s2/)[S8](https://sbahn.berlin/fahren/s8/)
 
