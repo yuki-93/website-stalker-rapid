@@ -18,20 +18,6 @@ Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Treptower Park beendet ###
-
- Letztes Update: 19:46 / 25.05.2024
-
-Information
-
-Nach der Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
 ### Reparatur an einer Weiche in Westkreuz beendet ###
