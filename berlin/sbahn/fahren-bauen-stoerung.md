@@ -6,17 +6,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### ärztliche Versorgung eines Fahrgastes in Schönhauser Allee ###
+### Reparatur an einem Signal in Treptower Park ###
 
- Letztes Update: 17:03 / 25.05.2024
+ Letztes Update: 17:47 / 25.05.2024
 
 Information
 
-Wegen der ärztlichen Versorgung eines Fahrgastes in Schönhauser Allee kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
- sonstige Einschränkungen
+ Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
