@@ -2,26 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S3](https://sbahn.berlin/fahren/s3/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Notarzteinsatz am Gleis in Messe Süd ###
-
- Letztes Update: 07:27 / 25.05.2024
-
-Information
-
-Sehr geehrte Fahrgäste,
-
-wegen eines Notarzteinsatzes auf der Strecke ist der S-Bahnverkehr zwischen Westkreuz und Olympiastadion derzeitig unterbrochen.
-
-Fahrgäste nutzen zur Umfahrung bitte die BVG.
-
-Wir bitten um Verständnis.
-
- fährt nicht  Verbindung unterbrochen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
