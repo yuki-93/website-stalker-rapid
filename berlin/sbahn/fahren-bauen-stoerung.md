@@ -4,31 +4,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
 
-### Reparatur an einer Weiche in Westkreuz ###
+### Polizeieinsatz im Bereich Friedrichsfelde Ost beendet ###
 
- Letztes Update: 18:52 / 25.05.2024
+ Letztes Update: 20:11 / 25.05.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz (unbefugte Personen auf der Strecke) kommt es auf den Linien S5, S7 und S75 noch zu Verspätungen und Ausfällen.
 
-Wir bitten um Entschulding.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Treptower Park ###
+### Reparatur an einem Signal in Treptower Park beendet ###
 
- Letztes Update: 17:47 / 25.05.2024
+ Letztes Update: 19:46 / 25.05.2024
 
 Information
 
-Wegen der Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+Nach der Reparatur an einem Signal in Treptower Park kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### Reparatur an einer Weiche in Westkreuz beendet ###
+
+ Letztes Update: 19:26 / 25.05.2024
+
+Information
+
+Nach der Reparatur an einer Weiche in Westkreuz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschulding.
 
  Zugverkehr verändert
 
