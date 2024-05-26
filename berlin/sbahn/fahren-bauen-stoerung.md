@@ -4,46 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
-### Polizeieinsatz im Bereich Hackescher Markt ###
-
- Letztes Update: 19:10 / 26.05.2024
-
-Information
-
-Wegen eines Polizeieinsatzes in Hackescher Markt kommt es auf den Linien S3, S5, S7 und S9 zu Verspätungen und Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
 
 ### Polizeieinsatz zwischen Ostkreuz und Frankfurter Allee beendet ###
 
- Letztes Update: 18:47 / 26.05.2024
+ Letztes Update: 20:16 / 26.05.2024
 
 Information
 
-Nach einem Polizeieinsatz kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen, Ausfällen und folgenden Einschränkungen:
-
-* die Linien S41 und S42 fahren nur im 10-Minuten-Takt.
-* die Linie S85 fährt nicht
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
-### Polizeieinsatz in Bornholmer Straße beendet ###
-
- Letztes Update: 18:27 / 26.05.2024
-
-Information
-
-Nach einem Polizeieinsatz in Bornholmer Straße kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Ausfällen.
+Nach einem Polizeieinsatz kommt es auf den Linien S41 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
