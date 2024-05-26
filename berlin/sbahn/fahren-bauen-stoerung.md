@@ -18,20 +18,6 @@ Wir bitten um Entschuldigung.
 
  Zugverkehr verändert
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### Polizeieinsatz in Prenzlauer Allee beendet ###
-
- Letztes Update: 01:17 / 26.05.2024
-
-Information
-
-Nach einem Polizeieinsatz in Prenzlauer Allee entfällt für die Linien S41, S42 und S8 der Halt in Prenzlauer Allee.
-
-Wir bitten um Ihr Verständnis.
-
- sonstige Einschränkungen
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
