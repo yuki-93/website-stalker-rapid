@@ -4,19 +4,21 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Polizeieinsatz zwischen Ostkreuz und Frankfurter Allee beendet ###
+### Polizeieinsatz in Mehrower Allee ###
 
- Letztes Update: 20:16 / 26.05.2024
+ Letztes Update: 20:41 / 26.05.2024
 
 Information
 
-Nach einem Polizeieinsatz kommt es auf den Linien S41 und S42 noch zu Verspätungen und vereinzelten Ausfällen.
+Wegen eines Polizeieinsatzes in Mehrower Allee ist der Zugverkehr der Linie S7 zwischen Marzahn und Ahrensfelde unterbrochen.
 
-Wir bitten um Entschuldigung.
+Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
 
- Zugverkehr verändert
+Wir bitten um Ihr Verständnis.
+
+ fährt nicht
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
