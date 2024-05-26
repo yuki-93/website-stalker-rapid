@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S5](https://sbahn.berlin/fahren/s5/)
+
+### Reparatur an einer Weiche in Westkreuz ###
+
+ Letztes Update: 06:45 / 26.05.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Westkreuz verkehrt die Linie S5 nur zwischen Strausberg Nord / Mahlsdorf und Charlottenburg.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Polizeieinsatz in Prenzlauer Allee beendet ###
