@@ -4,21 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz in Mehrower Allee ###
+### technischer Defekt an einem Bahnübergang in Tegel ###
 
- Letztes Update: 20:41 / 26.05.2024
+ Letztes Update: 21:55 / 26.05.2024
 
 Information
 
-Wegen eines Polizeieinsatzes in Mehrower Allee ist der Zugverkehr der Linie S7 zwischen Marzahn und Ahrensfelde unterbrochen.
+Wegen eines technischen Defekts an einem Bahnübergang in Tegel kommt es auf der Linie S25 zu Verspätungen und Ausfällen.
 
-Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.
+Wir bitten um Entschuldigung.
 
-Wir bitten um Ihr Verständnis.
-
- fährt nicht
+ Zugverkehr verändert
 
 [S5](https://sbahn.berlin/fahren/s5/)
 
