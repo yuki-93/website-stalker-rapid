@@ -8,11 +8,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Westkreuz ###
 
- Letztes Update: 06:45 / 26.05.2024
+ Letztes Update: 17:19 / 26.05.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Westkreuz verkehrt die Linie S5 nur zwischen Strausberg Nord / Mahlsdorf und Charlottenburg.
+Wegen der Reparatur an einer Weiche in Westkreuz verkehrt die Linie S5 nur zwischen Strausberg Nord/ Mahlsdorf und Charlottenburg.
+
+*Bitte nutzen Sie zwischen Charlottenburg und Westkreuz die Linien S3, S7 und S9.*
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert
+
+[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+
+### Reparatur am Zug in Priesterweg beendet ###
+
+ Letztes Update: 17:12 / 26.05.2024
+
+Information
+
+Nach einer Reparatur am Zug in Priesterweg kommt es auf den Linien S2, S25 und S26 noch zu Verspätungen und vereinzelten Ausfällen.
 
 Wir bitten um Entschuldigung.
 
