@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Personen auf der Strecke im Bereich Storkower Straße ###
+### Personen auf der Strecke im Bereich Storkower Straße beendet ###
 
- Letztes Update: 19:07 / 27.05.2024
+ Letztes Update: 20:04 / 27.05.2024
 
 Information
 
-Wegen Personen auf der Strecke im Bereich Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 zu Ausfällen und Verspätungen.
+Nach einem Polizieinsatz auf der Strecke im Bereich Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Ausfällen und Verspätungen.
 
 Wir bitten um Verständnis.
 
