@@ -8,35 +8,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Polizeieinsatz im Bereich Bornholmer Straße beendet ###
 
- Letztes Update: 05:41 / 27.05.2024
+ Letztes Update: 07:21 / 27.05.2024
 
 Information
 
 Nach einem Polizeieinsatz im Bereich Bornholmer Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
 
-* die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 * Linie S85 verkehrt nicht.
 
 Wir bitten um Verständnis.
 
  fährt nicht  Verbindung unterbrochen
-
-[S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
-
-### technischer Defekt an einem Bahnübergang in Zeuthen ###
-
- Letztes Update: 04:27 / 27.05.2024
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Zeuthen kommt es auf der S46 zu Verspätungen.
-
-Die Linie S8 fährt nur zwischen Birkenwerder und Grünau.
-*Bitte nutzen Sie zwischen Grünau und Wildau die Linie S46.*
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert
 
 ### Baumaßnahmen ###
 
