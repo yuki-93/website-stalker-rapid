@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz im Bereich Bornholmer Straße ###
+
+ Letztes Update: 05:17 / 27.05.2024
+
+Information
+
+Wegen eines Polizeieinsatzes im Bereich Bornholmer Straße ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Schönhauser Allee \<\> Gesundbrunner/ Bornholmer Straße unterbrochen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  Verbindung unterbrochen
+
 [S46](https://sbahn.berlin/fahren/s46/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### technischer Defekt an einem Bahnübergang in Zeuthen ###
