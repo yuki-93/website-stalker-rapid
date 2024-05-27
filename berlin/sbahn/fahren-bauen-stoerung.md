@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S42](https://sbahn.berlin/fahren/s42/)[S46](https://sbahn.berlin/fahren/s46/)
+
+### ärtzliche Versorgung eines Fahrgastes beendet ###
+
+ Letztes Update: 16:16 / 27.05.2024
+
+Information
+
+Nach einer ärztlichen Versorgung eines Fahrgastes in einem Zug in Südkreuz kommt es auf der Linien S42 und S46 noch zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S2](https://sbahn.berlin/fahren/s2/)[S26](https://sbahn.berlin/fahren/s26/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### Notarzteinsatz auf der Strecke in Blankenburg beendet ###
+
+ Letztes Update: 15:47 / 27.05.2024
+
+Information
+
+Nach einem Notarzteinsatz auf der freien Strecke kommt es auf den Linien S 2, S 8 und S26 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
