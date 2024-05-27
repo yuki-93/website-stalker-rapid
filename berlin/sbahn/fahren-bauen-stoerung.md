@@ -4,33 +4,33 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Personen auf der Strecke im Bereich Storkower Straße beendet ###
-
- Letztes Update: 20:04 / 27.05.2024
-
-Information
-
-Nach einem Polizieinsatz auf der Strecke im Bereich Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Ausfällen und Verspätungen.
-
-Wir bitten um Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 16:43 / 27.05.2024
+ Letztes Update: 21:12 / 27.05.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Südkreuz kommt es auf der Linie S45 zu Verspätungen und Ausfällen.
+Wegen der Reparatur an einer Weiche in Südkreuz kommt es auf der Linie S45 zu Verspätungen und nachfolgenden Einschränkungen:
 
-**Linie S45** verkehrt Flughafen BER\<\>Tempelhof.
+Die **Linie S45** verkehrt: Flughafen BER \<\> **Tempelhof**, *bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46*.
 
 Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz wegen Personen auf der Strecke im Bereich Storkower Straße beendet ###
+
+ Letztes Update: 21:10 / 27.05.2024
+
+Information
+
+Nach einem Polizieinsatz wegen Personen auf der Strecke im Bereich Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
