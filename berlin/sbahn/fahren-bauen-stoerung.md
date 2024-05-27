@@ -1224,6 +1224,7 @@ Information
 
 * kein S-Bahnverkehr:
   * Alexanderplatz \<\> Tiergarten
+  * Zur weiträumigen Umfahrung nutzen Sie bitte zwischen Ostkreuz und Westkreuz auch die Ringbahnlinien S41/S42.
 
 * Ersatzverkehr mit Bussen:
   * Alexanderplatz \<\> Zoologischer Garten
