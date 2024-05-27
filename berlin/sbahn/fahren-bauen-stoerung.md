@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+
+### ärztliche Versorgung eines Fahrgastes in Plänterwald ###
+
+ Letztes Update: 17:55 / 27.05.2024
+
+Information
+
+Wegen einer ärztlichen Versorgung eines Fahrgastes in einem Zug in Plänterwald kommt es auf den Linien S8,S85 und S9 zu Verspätungen und vereinzelten Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung unregelmäßig
+
+[S2](https://sbahn.berlin/fahren/s2/)
+
+### Polizeieinsatz in Berlin Karow beendet ###
+
+ Letztes Update: 17:36 / 27.05.2024
+
+Information
+
+Nach einem Polizeieinsatz in Berlin Karow kommt es auf der Line S2 noch zu Ausfällen und Verspätungen.
+
+Wir bitten um Verständnis.
+
+ fährt nicht  keine Verbindung
+
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
 ### Reparatur am Zug in Greifswalder Straße beendet ###
