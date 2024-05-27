@@ -6,13 +6,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Polizeieinsatz im Bereich Bornholmer Straße ###
+### Polizeieinsatz im Bereich Bornholmer Straße beendet ###
 
- Letztes Update: 05:17 / 27.05.2024
+ Letztes Update: 05:41 / 27.05.2024
 
 Information
 
-Wegen eines Polizeieinsatzes im Bereich Bornholmer Straße ist der Zugverkehr der Linien S41, S42, S8 und S85 zwischen Schönhauser Allee \<\> Gesundbrunner/ Bornholmer Straße unterbrochen.
+Nach einem Polizeieinsatz im Bereich Bornholmer Straße kommt es auf den Linien S41, S42, S8 und S85 zu Verspätungen und Ausfällen.
+
+* die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
+* Linie S85 verkehrt nicht.
 
 Wir bitten um Verständnis.
 
