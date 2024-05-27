@@ -4,47 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### ärztliche Versorgung eines Fahrgastes in Plänterwald ###
+### Personen auf der Strecke im Bereich Storkower Straße ###
 
- Letztes Update: 17:55 / 27.05.2024
-
-Information
-
-Wegen einer ärztlichen Versorgung eines Fahrgastes in einem Zug in Plänterwald kommt es auf den Linien S8,S85 und S9 zu Verspätungen und vereinzelten Ausfällen.
-
-Wir bitten um Ihr Verständnis.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Polizeieinsatz in Berlin Karow beendet ###
-
- Letztes Update: 17:36 / 27.05.2024
+ Letztes Update: 19:07 / 27.05.2024
 
 Information
 
-Nach einem Polizeieinsatz in Berlin Karow kommt es auf der Line S2 noch zu Ausfällen und Verspätungen.
+Wegen Personen auf der Strecke im Bereich Storkower Straße kommt es auf den Linien S41, S42, S8 und S85 zu Ausfällen und Verspätungen.
 
 Wir bitten um Verständnis.
 
- fährt nicht  keine Verbindung
-
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Zug in Greifswalder Straße beendet ###
-
- Letztes Update: 16:56 / 27.05.2024
-
-Information
-
-Nach einer Reparatur an einem Zug in Greifswalder Straße kommt es auf den Linien S 41, S42, S8 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Entschuldigung.
-
- Takt geändert  Verbindung unregelmäßig
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
