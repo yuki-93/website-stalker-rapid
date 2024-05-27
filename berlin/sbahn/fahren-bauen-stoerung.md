@@ -2,6 +2,24 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S45](https://sbahn.berlin/fahren/s45/)
+
+### Reparatur an einer Weiche in Südkreuz ###
+
+ Letztes Update: 13:12 / 27.05.2024
+
+Information
+
+Wegen der Reparatur an einer Weiche in Südkreuz kommt es auf der Linie S45 zu Verspätungen und Ausfällen.
+
+**Linie S45** verkehrt Flughafen BER\<\>Tempelhof.
+
+Wir bitten um Entschuldigung.
+
+ fährt nicht  Verbindung unregelmäßig
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
