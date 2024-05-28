@@ -8,13 +8,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus in Hohenschönhausen ###
 
- Letztes Update: 21:58 / 28.05.2024
+ Letztes Update: 23:08 / 28.05.2024
 
 Information
 
 Wegen einer Beeinträchtigung durch Vandalismus in Hohenschönhausen (Kabelbrand) ist der Zugverkehr der Linie S75 zwischen Hohenschönhausen und Wartenberg unterbrochen und ein Ersatzverkehr mit Bussen eingerichtet.
 
-* Die Linie **S75** fährt: Warschauer Straße \<\> Hohenschönhausen.
+* Die Linie S75 fährt: Warschauer Straße \<\> Hohenschönhausen.
 
 **Ein Ersatzverkehr mit Bussen ist zwischen Hohenschönhausen und Wartenberg eingerichtet.**
 
