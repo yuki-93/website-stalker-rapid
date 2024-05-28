@@ -1425,6 +1425,48 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenbauarbeiten-knoten-marzahn-gleis-und-weichenarbeiten-bahnsteigarbeiten-in-gehrenseestrasse/#con-29572)
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Grünau ###
+
+Nacht 17./18.06. (Mo/Di), ca. 22.45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29638&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22815&tx_sbbconstructions_list%5Bperiod%5D=18037&type=5679&cHash=ac878378c8d919ec90e6dd17dda5b4cf)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S46 steigen bitte in beiden Fahrtrichtungen in Grünau um. Die Weiterfahrt in Fahrtrichtung Westend erfolgt nach 19 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei) und in Fahrtrichtung Königs Wusterhausen nach 1 Minute von der gegenüberliegenden Bahnsteigseite.
+
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[S46](https://sbahn.berlin/fahren/s46/)
+
+ Nur Nachts
+
+### Königs Wusterhausen \<\> Grünau ###
+
+Nacht 18./19.06. (Di/Mi), ca. 22.45 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29639&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22816&tx_sbbconstructions_list%5Bperiod%5D=18038&type=5679&cHash=8832c85d000e1e5b98004a038515edc7)
+
+ Zugverkehr verändert
+
+Information
+
+* Zugverkehr verändert:
+  * Fahrgäste der S46 steigen bitte in beiden Fahrtrichtungen in Grünau um. Die Weiterfahrt in Fahrtrichtung Westend erfolgt nach 15 Minuten von der gegenüberliegenden Bahnsteigseite und in Fahrtrichtung Königs Wusterhausen nach 5 Minuten vom anderen Bahnsteig (der Bahnhof ist barrierefrei).
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-gruenau-3/#con-29639)
+
 [S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
 
 ### Bornholmer Straße \<\> Oranienburg/Alt-Reinickendorf ###
@@ -1461,6 +1503,30 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/baumfaellarbeiten-schwellenauswechslungen-1/#con-29546)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Erkner \<\> Ostkreuz ###
+
+Nacht 22./23.06. (Sa/So), ca. 1 Uhr - ca. 9 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29637&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22813&tx_sbbconstructions_list%5Bperiod%5D=18036&type=5679&cHash=3cb1559a9bc6521810d469e19a41013c)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3A: Erkner \<\> Ostkreuz
+  * Bus S3B: Wuhlheide \<\> Tram-/Nachtbushaltestelle „Freizeit- und Erholungszentrum (FEZ)“
+  * Bus S3C: Rahnsdorf \<\> Bushaltestelle „Rahnsdorf/Waldschänke“
+    * Diese Buslinie fährt nur am 23.06. (So) in der Zeit von ca. 5.30 Uhr bis ca. 9 Uhr und nur zur Anbindung der Tram 87 (Woltersdorf, Schleuse \<\> S Rahnsdorf) an den Bus S3A an der Bushaltestelle „Rahnsdorf/Waldschänke“.
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-softwarewechsel-weichenarbeiten-in-erkner/#con-29637)
 
 [S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
