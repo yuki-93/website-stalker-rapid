@@ -4,6 +4,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S75](https://sbahn.berlin/fahren/s75/)
+
+### Beeinträchtigung durch Vandalismus in Hohenschönhausen ###
+
+ Letztes Update: 17:39 / 28.05.2024
+
+Information
+
+Durch Beeinträchtigung nach Vandalismus in Hohenschönhausen kommt es auf der Linie S75 zu Verspätungen und Ausfällen.
+
+Hohenschönhausen\<\>Wartenberg kein Zugverkehr
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  keine Verbindung
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
