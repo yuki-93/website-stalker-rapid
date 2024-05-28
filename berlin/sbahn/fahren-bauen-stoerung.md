@@ -8,15 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Beeinträchtigung durch Vandalismus in Hohenschönhausen ###
 
- Letztes Update: 17:39 / 28.05.2024
+ Letztes Update: 21:09 / 28.05.2024
 
 Information
 
-Durch Beeinträchtigung nach Vandalismus in Hohenschönhausen kommt es auf der Linie S75 zu Verspätungen und Ausfällen.
+Wegen einer Beeinträchtigung durch Vandalismus in Hohenschönhausen (Kabelbrand) ist der Zugverkehr der Linie S75 zwischen Hohenschönhausen und Wartenberg unterbrochen.
 
-Hohenschönhausen\<\>Wartenberg kein Zugverkehr
+Bitte nutzen Sie zur weiträumigen Umfahrung zwischen Hohenschönhausen und Wartenberg die Buslinie 256.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  keine Verbindung
 
