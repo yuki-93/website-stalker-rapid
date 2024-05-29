@@ -316,17 +316,17 @@ Produkte
 
 [Adapter & Hubs](https://www.anker.com/eu-de/collections/adapter-hubs?ref=footer)
 
-[Nachhaltigkeit](https://www.anker.com/eu-de/anker-fuer-nachhaltigkeit-zukunft?ref=footer)
-
 Über Uns
 
 [Bestellung verfolgen](https://de.anker.com/apps/aftership?ref=footer)
 
-[Rechte an geistigem Eigentum](https://de.anker.com/policies/terms-of-service?ref=footer)
+[Rechte an geistigem Eigentum](https://www.anker.com/eu-de/policies/terms-of-service?ref=footer)
 
 [Ankers Ladeverantwortung](https://www.anker.com/eu-de/anker-fuer-nachhaltigkeit-zukunft?ref=footer)
 
 [MSA-Erklärung](https://dz02g1kgtiysz.cloudfront.net/MSA_Statement.pdf?ref=footer)
+
+[Nachhaltigkeit](https://www.anker.com/eu-de/anker-fuer-nachhaltigkeit-zukunft?ref=footer)
 
 Programme
 
