@@ -148,6 +148,28 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-wannsee-und-in-babelsberg-wechsel-brueckenleitschiene/#con-29453)
 
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+
+ Nur Nachts
+
+### Ostbahnhof \<\> Westkreuz ###
+
+Nacht 30./31.05. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29447&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22616&tx_sbbconstructions_list%5Bperiod%5D=17953&type=5679&cHash=6b45cd67fcdc2b86f653acf881ae7480)
+
+ Takt geändert
+
+Information
+
+* Taktänderung:
+  * Alexanderplatz \<\> Friedrichstraße S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-6c5c946677/#con-29447)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -388,70 +410,95 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-zbs-s4-nord-kabeltiefbau-balisenmontage-1/#con-29438)
 
-[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
  Nur Nachts
 
-### Lichtenberg \<\> Ostbahnhof \<\> Westkreuz ###
+### Ostbahnhof \<\> Westkreuz ###
 
-Nacht 29./30.05. (Mi/Do) 22 Uhr bis 1:30 Uhr
+Nacht 30./31.05. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29446&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22615&tx_sbbconstructions_list%5Bperiod%5D=17952&type=5679&cHash=9a340d8d697db8a61f725b260b5a9259)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29447&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22616&tx_sbbconstructions_list%5Bperiod%5D=17953&type=5679&cHash=6b45cd67fcdc2b86f653acf881ae7480)
 
  Takt geändert
 
 Information
 
 * Taktänderung:
-  * Ostbahnhof \<\> Friedrichstraße S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
+  * Alexanderplatz \<\> Friedrichstraße S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
 
-* Bahnsteigänderung
+* Fahrplanänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-32e5a5503a/#con-29446)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-6c5c946677/#con-29447)
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
- Nur Nachts
+Nur Wochenende
 
-### Wannsee \<\> Potsdam Hbf ###
+### (Lichtenrade) Marienfelde \<\> Priesterweg ###
 
-Nacht 29./30.05. (Mi/Do), ca. 22 Uhr - ca. 1.30 Uhr
+31.05. (Fr), ca. 22 Uhr durchgehend bis 03.06. (Mo), ca. 1.30 Uhr
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29453&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22620&tx_sbbconstructions_list%5Bperiod%5D=17956&type=5679&cHash=8dd6dbd0b4ae228b574b27d184077c7e)
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29439&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22611&tx_sbbconstructions_list%5Bperiod%5D=17948&type=5679&cHash=c937529e77bb79559f2479122863a1b0)
 
  Ersatzverkehr
 
 Information
 
 * Ersatzverkehr mit Bussen:
-  * Bus S7: Wannsee \<\> Potsdam Hbf
+  * Bus S2: Marienfelde \<\> Priesterweg
+     Da der S-Bahnhof Marienfelde nicht barrierefrei ist, wird für mobilitätseingeschränkte Fahrgäste ohne Alternative ein Fahrdienst organisiert. Fahrwünsche melden Sie bitte unter Tel. 030 860 96660 an.
 
-* Bitte nutzen Sie vor Fahrtantritt die Fahrplanauskunft.
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/weichenarbeiten-in-wannsee-und-in-babelsberg-wechsel-brueckenleitschiene/#con-29453)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bruecke-attilastrasse-und-brueckenbalkenerneuerung/#con-29439)
 
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
- Nur Nachts
+### Lichterfelde Ost \<\> Südende (Südkreuz) ###
 
-### Ostbahnhof \<\> Westkreuz ###
+31.05. (Fr), ca. 22 Uhr bis 10.06. (Mo), ca. 1.30 Uhr
 
-Nacht 30./31.05. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29440&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22611&tx_sbbconstructions_list%5Bperiod%5D=17947&type=5679&cHash=616ca267466db97e58c1186f1caac861)
 
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29447&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22616&tx_sbbconstructions_list%5Bperiod%5D=17953&type=5679&cHash=6b45cd67fcdc2b86f653acf881ae7480)
-
- Takt geändert
+ Ersatzverkehr
 
 Information
 
-* Taktänderung:
-  * Alexanderplatz \<\> Friedrichstraße S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
+* Ersatzverkehr mit Bussen:
+  * Bus S25: Lichterfelde Ost \<\> Südende
 
 * Fahrplanänderung
+* Bahnsteigänderung
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
 
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-6c5c946677/#con-29447)
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-dresdner-bahn-bruecke-attilastrasse-und-brueckenbalkenerneuerung/#con-29440)
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+Nur Wochenende
+
+### Friedrichshagen \<\> Ostkreuz ###
+
+31.05. (Fr), ca. 22 Uhr durchgehend bis 03.06. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29444&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22613&tx_sbbconstructions_list%5Bperiod%5D=17950&type=5679&cHash=1a3a00e63e2a281e7238492a7047549b)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S3A: Friedrichshagen \<\> Ostkreuz
+  * Bus S3B: Wuhlheide \<\> Tram-/Nachtbushaltestelle „Freizeit- und Erholungszentrum“ (Umstieg zum Bus S3A)
+
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/umbau-bahnhof-koepenick-gleisarbeiten/#con-29444)
 
 [S75](https://sbahn.berlin/fahren/s75/)
 
@@ -666,54 +713,6 @@ Information
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#con-27269)[Bauvideo](https://sbahn.berlin/fahren/bauen-stoerung/detail/erneuerung-s-bahnhof-gehrenseestrasse-einbau-aufzug/#c29115)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Nordbahnhof \<\> Bornholmer Straße ###
-
-Nächte 29./30.05. (Mi/Do) und 30./31.05. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29438&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22610&tx_sbbconstructions_list%5Bperiod%5D=17946&type=5679&cHash=41702a2d670c601ac6b0c4dfc393ee9b)
-
- Takt geändert
-
-Information
-
-* Zugverkehr verändert:
-  * Fahrgäste der S1 steigen bitte in beiden Fahrtrichtungen in Gesundbrunnen um, die Weiterfahrt in Fahrtrichtung Oranienburg erfolgt nach 18 Minuten vom selben Gleis bzw. in Fahrtrichtung Wannsee nach 17 Minuten vom anderen Bahnstieg.Der Bahnhof ist barrierefrei.
-
-* Taktänderung:
-  * Gesundbrunnen \<\> Bornholmer Straße S-Bahnverkehr nur im 20-Minutentakt mit S1
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/bauvorhaben-zbs-s4-nord-kabeltiefbau-balisenmontage-1/#con-29438)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Ostbahnhof \<\> Westkreuz ###
-
-Nacht 30./31.05. (Do/Fr), ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29447&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22616&tx_sbbconstructions_list%5Bperiod%5D=17953&type=5679&cHash=6b45cd67fcdc2b86f653acf881ae7480)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Alexanderplatz \<\> Friedrichstraße S-Bahnverkehr nur im 10-Minutentakt mit S3 und S9
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/gleisarbeiten-6c5c946677/#con-29447)
 
 [S2](https://sbahn.berlin/fahren/s2/)
 
@@ -1112,6 +1111,59 @@ Information
 
 [Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-am-biesdorfer-kreuz/#con-29588)
 
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
+
+Nur Wochenende
+
+### Bornholmer Straße \<\> Oranienburg/Hennigsdorf ###
+
+14.06. (Fr), ca. 22 Uhr durchgehend bis 17.06. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29545&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22717&tx_sbbconstructions_list%5Bperiod%5D=17990&type=5679&cHash=1408586343477fce3e5cfcff133d8ed8)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S1: Bornholmer Straße \<\> Wittenau
+  * Bus S25: Bornholmer Straße \<\>Tegel
+
+* S-Bahn-Pendelverkehr:
+  * Wittenau \<\> Waidmannslust im 10-Minutentakt, im Nachtverkehr Fr/Sa+Sa/So im 30-Minutentakt
+
+* Zugverkehr verändert:
+  * Umleitung der S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf über Pankow, Blankenburg und Schönfließ
+
+* Fahrplanänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/baumfaellarbeiten-schwellenauswechslungen/#con-29545)
+
+[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
+
+Nur Wochenende
+
+### Wartenberg/Marzahn \<\> Warschauer Straße ###
+
+14.06. (Fr), ca. 22 Uhr durchgehend bis 17.06. (Mo), ca. 1.30 Uhr
+
+[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29572&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22749&tx_sbbconstructions_list%5Bperiod%5D=18002&type=5679&cHash=ff2888dfd2c2d91aadcb44c6a949c175)
+
+ Ersatzverkehr
+
+Information
+
+* Ersatzverkehr mit Bussen:
+  * Bus S7: Marzahn \<\> Friedrichsfelde Ost
+  * Bus S75: Wartenberg \<\> Friedrichsfelde Ost
+
+* Fahrplanänderung
+* Bahnsteigänderung
+* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
+
+[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenbauarbeiten-knoten-marzahn-gleis-und-weichenarbeiten-bahnsteigarbeiten-in-gehrenseestrasse/#con-29572)
+
 [S75](https://sbahn.berlin/fahren/s75/)
 
 ### Wartenberg \<\> Warschauer Straße ###
@@ -1156,30 +1208,6 @@ Information
 
 * Der Zug Flughafen BER ab 0:49 Uhr nach Grunewald (an 1:55 Uhr) endet bereits um 1:32 Uhr in Alexanderplatz.
 * Der Zug fällt von Alexanderplatz bis Grunewald aus.
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[S9](https://sbahn.berlin/fahren/s9/)
-
- Nur Nachts
-
-### Warschauer Straße \> Friedrichstraße ###
-
-28.05. (Di) bis 31.05. (Fr) jeweils 1:45 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23484&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17255&tx_sbbconstructions_list%5Bperiod%5D=17927&type=5679&cHash=61a3358b4630d44f77aa10b7b8950bbd)
-
-04.06. (Di) bis 07.06. (Fr) jeweils 1:45 Uhr bis 1:56 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23484&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17255&tx_sbbconstructions_list%5Bperiod%5D=17984&type=5679&cHash=43d85ddbb9d5903fabc65e4cdb37b8fd)
-
-[Alle Termine im Kalender speichern](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=23484&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=17255&type=5679&cHash=9cd67480059bfb14c4ec6630811e4e9a)
-
- fährt nicht
-
-Information
-
-* Der Zug Flughafen BER ab 1:09 Uhr nach Friedrichstraße (an 1:56 Uhr) endet bereits um 1:45 Uhr in Warschauer Straße.
-* Der Zug fällt zwischen Warschauer Straße und Friedrichstraße aus
 * Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
 
 [S9](https://sbahn.berlin/fahren/s9/)
@@ -1307,106 +1335,6 @@ Hinweis
 Die wichtigsten Baumaßnahmen für die nächsten Monate. Diese Fahrplandaten sind noch nicht in der Fahrplanauskunft enthalten.
 
 ### Baumaßnahmen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
-
- Nur Nachts
-
-### Priesterweg \<\> Anhalter Bahnhof ###
-
-Nächte 12./13.06. (Mi/Do) und 13./14.06. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29560&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22737&tx_sbbconstructions_list%5Bperiod%5D=17994&type=5679&cHash=bca6a7cfb9fbd92c519ab34d61a3f256)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Südkreuz \<\> Anhalter Bahnhof S-Bahnverkehr nur im 20-Minutentakt mit S25
-
-* Fahrplanänderung
-* Gleisänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft.](https://sbahn.berlin/fahren/fahrplanauskunft/)
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellensanierung-schraublochsanierung/#con-29560)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
- Nur Nachts
-
-### Mahlsdorf/Ahrensfelde/Wartenberg \<\> Westkreuz ###
-
-Nächte 12./13.06. (Mi/Do) und 13./14.06. (Do/Fr), jeweils ca. 22 Uhr - ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29588&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22764&tx_sbbconstructions_list%5Bperiod%5D=18017&type=5679&cHash=6a6e0a9b95977272910aed755fd5c43c)
-
- Takt geändert
-
-Information
-
-* Taktänderung:
-  * Mahlsdorf \<\> Friedrichsfelde Ost S-Bahnverkehr im 20-Minutentakt mit S5
-  * Springpfuhl \<\> Friedrichsfelde Ost S-Bahnverkehr im 10-Minutentakt mit S7
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/schwellenauswechslungen-am-biesdorfer-kreuz/#con-29588)
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S8](https://sbahn.berlin/fahren/s8/)
-
-Nur Wochenende
-
-### Bornholmer Straße \<\> Oranienburg/Hennigsdorf ###
-
-14.06. (Fr), ca. 22 Uhr durchgehend bis 17.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29545&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22717&tx_sbbconstructions_list%5Bperiod%5D=17990&type=5679&cHash=1408586343477fce3e5cfcff133d8ed8)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S1: Bornholmer Straße \<\> Wittenau
-  * Bus S25: Bornholmer Straße \<\>Tegel
-
-* S-Bahn-Pendelverkehr:
-  * Wittenau \<\> Waidmannslust im 10-Minutentakt, im Nachtverkehr Fr/Sa+Sa/So im 30-Minutentakt
-
-* Zugverkehr verändert:
-  * Umleitung der S1 zwischen Bornholmer Straße \<\> Hohen Neuendorf über Pankow, Blankenburg und Schönfließ
-
-* Fahrplanänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/baumfaellarbeiten-schwellenauswechslungen/#con-29545)
-
-[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S75](https://sbahn.berlin/fahren/s75/)
-
-Nur Wochenende
-
-### Wartenberg/Marzahn \<\> Warschauer Straße ###
-
-14.06. (Fr), ca. 22 Uhr durchgehend bis 17.06. (Mo), ca. 1.30 Uhr
-
-[](https://sbahn.berlin/fahren/bauen-stoerung?tx_sbbconstructions_list%5Baction%5D=ics&tx_sbbconstructions_list%5Bconsequence%5D=29572&tx_sbbconstructions_list%5Bcontroller%5D=Consequence&tx_sbbconstructions_list%5BdetailPage%5D=355&tx_sbbconstructions_list%5BnewsItem%5D=22749&tx_sbbconstructions_list%5Bperiod%5D=18002&type=5679&cHash=ff2888dfd2c2d91aadcb44c6a949c175)
-
- Ersatzverkehr
-
-Information
-
-* Ersatzverkehr mit Bussen:
-  * Bus S7: Marzahn \<\> Friedrichsfelde Ost
-  * Bus S75: Wartenberg \<\> Friedrichsfelde Ost
-
-* Fahrplanänderung
-* Bahnsteigänderung
-* Bitte nutzen Sie vor Fahrtantritt die [Fahrplanauskunft](https://sbahn.berlin/fahren/fahrplanauskunft/).
-
-[Ausführliche Informationen](https://sbahn.berlin/fahren/bauen-stoerung/detail/brueckenbauarbeiten-knoten-marzahn-gleis-und-weichenarbeiten-bahnsteigarbeiten-in-gehrenseestrasse/#con-29572)
 
 [S46](https://sbahn.berlin/fahren/s46/)
 
