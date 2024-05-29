@@ -6,22 +6,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Notarzteinsatz auf der Strecke Oranienburger Straße ###
+### Notarzteinsatz auf der Strecke Oranienburger Straße beendet ###
 
- Letztes Update: 15:43 / 29.05.2024
+ Letztes Update: 18:43 / 29.05.2024
 
 Information
 
-Wegen eines Notarzteinsatzes auf der Strecke in Oranienburger Straße ist der **Zugverkehr** der Linien S1, S2 und S25 **zwischen****Potsdamer Platz und Nordbahnhof unterbrochen**.
+Nach einem Notarzteinsatz auf der Strecke in Oranienburger Straße kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Zugausfällen sowie folgenden Einschränkungen:
 
 * Die Linie S2 verkehrt nur im 20-Minuten-Takt.
 * Die Linie S26 verkehrt nicht.
 
-*Bitte nutzen Sie zur Umfahrung die Stadt- und Ringbahn sowie die Verkehrsmittel der BVG.*
-
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung unterbrochen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 [S45](https://sbahn.berlin/fahren/s45/)
 
