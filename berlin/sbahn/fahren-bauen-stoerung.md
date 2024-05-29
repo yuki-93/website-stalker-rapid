@@ -8,15 +8,16 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Notarzteinsatz auf der Strecke Oranienburger Straße ###
 
- Letztes Update: 14:31 / 29.05.2024
+ Letztes Update: 15:14 / 29.05.2024
 
 Information
 
 Wegen eines Notarzteinsatzes auf der Strecke in Oranienburger Straße ist der Zugverkehr der Linien S1, S2 und S25 zwischen Potsdamer Platz und Nordbahnhof unterbrochen.
 
+* Die Linie S2 verkehrt nur im 20-Minuten-Takt.
 * Die Linie S26 verkehrt nicht.
 
-*Bitte nutzen Sie zur Umfahrung die Verkehrsmittel der BVG.*
+*Bitte nutzen Sie zur Umfahrung die Stadt- und Ringbahn sowie die Verkehrsmittel der BVG.*
 
 Wir bitten um Ihr Verständnis.
 
