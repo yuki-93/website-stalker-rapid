@@ -344,7 +344,7 @@ Programme
 
 [Wo finde ich Anker](https://www.anker.com/eu-de/wheretobuy?ref=footer)
 
-[Affiliate Partnerprogramm](https://de.anker.com/pages/jetzt-affiliate-partner-werden?ref=footer)
+[Affiliate Partnerprogramm](https://www.anker.com/eu-de/jetzt-affiliate-partner-werden?ref=footer)
 
 [Unternehmensprogramm](https://www.anker.com/eu-de/corporate-purchase?ref=footer)
 
@@ -352,17 +352,17 @@ Support
 
 [Smarte Hilfe](https://support.anker.com/de/s/?ref=footer)
 
-[Kontakt](https://de.anker.com/pages/contact?ref=footer)
+[Kontakt](https://www.anker.com/eu-de/contact?ref=footer)
 
-[Produktprüfung](https://de.anker.com/pages/verify?ref=footer)
+[Produktprüfung](https://www.anker.com/eu-de/verify?ref=footer)
 
-[Rücksendungen & Erstattungen](https://de.anker.com/policies/refund-policy?ref=footer)
+[Rücksendungen & Erstattungen](https://www.anker.com/eu-de/policies/refund-policy?ref=footer)
 
-[Herstellergarantie](https://de.anker.com/pages/exchange?ref=footer)
+[Herstellergarantie](https://www.anker.com/eu-de/exchange?ref=footer)
 
-[Versandbedingungen](https://de.anker.com/policies/shipping-policy?ref=footer)
+[Versandbedingungen](https://www.anker.com/eu-de/policies/shipping-policy?ref=footer)
 
-[Datenschutz](https://de.anker.com/policies/privacy-policy?ref=footer)
+[Datenschutz](https://www.anker.com/eu-de/policies/privacy-policy?ref=footer)
 
 [Impressum](https://de.anker.com/pages/imprint?ref=footer)
 
