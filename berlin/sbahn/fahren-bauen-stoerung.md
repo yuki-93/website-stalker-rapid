@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur am Zug in Gesundbrunnen ###
+### Reparatur am Zug in Gesundbrunnen beendet ###
 
- Letztes Update: 20:00 / 29.05.2024
+ Letztes Update: 20:37 / 29.05.2024
 
 Information
 
-Wegen einer Reparatur an einem Zug in Gesundbrunnen kommt es auf den Linien S 41, S42, S8 und S85 zu Verspätungen und Zugausfällen.
+Nach einer Reparatur an einem Zug in Gesundbrunnen kommt es auf den Linien S 41, S42, S8 und S85 noch zu Verspätungen und Zugausfällen.
 
 * Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
 
