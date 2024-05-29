@@ -4,34 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur am Zug in Gesundbrunnen beendet ###
-
- Letztes Update: 20:37 / 29.05.2024
-
-Information
-
-Nach einer Reparatur an einem Zug in Gesundbrunnen kommt es auf den Linien S 41, S42, S8 und S85 noch zu Verspätungen und Zugausfällen.
-
-* Die Linien S41 und S42 verkehren nur im 10-Minuten-Takt.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S1](https://sbahn.berlin/fahren/s1/)[S2](https://sbahn.berlin/fahren/s2/)[S25](https://sbahn.berlin/fahren/s25/)
 
 ### Notarzteinsatz auf der Strecke Oranienburger Straße beendet ###
 
- Letztes Update: 18:43 / 29.05.2024
+ Letztes Update: 23:07 / 29.05.2024
 
 Information
 
-Nach einem Notarzteinsatz auf der Strecke in Oranienburger Straße kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und Zugausfällen sowie folgenden Einschränkungen:
-
-* Die Linie S2 verkehrt nur im 20-Minuten-Takt.
-* Die Linie S26 verkehrt nicht.
+Nach einem Notarzteinsatz auf der Strecke in Oranienburger Straße kommt es auf den Linien S1, S2 und S25 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
