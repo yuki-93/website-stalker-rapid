@@ -4,20 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### technischer Defekt an einem Bahnübergang in Tegel ###
-
- Letztes Update: 12:32 / 30.05.2024
-
-Information
-
-Wegen eines technischen Defekts an einem Bahnübergang in Tegel kommt es auf der Linie S25 zu Verspätungen.
-
-Wir bitten um Entschuldigung.
-
- sonstige Einschränkungen  Verbindung verspätet
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
