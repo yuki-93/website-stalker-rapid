@@ -8,13 +8,12 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Baumschulenweg ###
 
- Letztes Update: 17:55 / 30.05.2024
+ Letztes Update: 18:45 / 30.05.2024
 
 Information
 
 Wegen einer Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Zugausfällen sowie folgenden Einschränkungen:
 
-* Die Linie S45 verkehrt nur zwischen Flughafen BER und Schöneweide.
 * Die Linie S47 verkehrt nur zwischen Spindlersfeld und Schöneweide.
 * Die Linie S85 verkehrt nicht.
 
