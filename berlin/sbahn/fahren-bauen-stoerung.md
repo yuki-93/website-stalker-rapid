@@ -4,15 +4,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)[S46](https://sbahn.berlin/fahren/s46/)[S47](https://sbahn.berlin/fahren/s47/)[S8](https://sbahn.berlin/fahren/s8/)[S85](https://sbahn.berlin/fahren/s85/)[S9](https://sbahn.berlin/fahren/s9/)
+[S47](https://sbahn.berlin/fahren/s47/)[S85](https://sbahn.berlin/fahren/s85/)
 
-### Reparatur an einem Signal in Baumschulenweg ###
+### Reparatur an einem Signal in Baumschulenweg beendet ###
 
- Letztes Update: 18:45 / 30.05.2024
+ Letztes Update: 19:36 / 30.05.2024
 
 Information
 
-Wegen einer Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Zugausfällen sowie folgenden Einschränkungen:
+Nach einer Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S47 und S85 noch zu folgenden Einschränkungen:
 
 * Die Linie S47 verkehrt nur zwischen Spindlersfeld und Schöneweide.
 * Die Linie S85 verkehrt nicht.
