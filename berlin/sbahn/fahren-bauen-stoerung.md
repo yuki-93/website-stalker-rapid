@@ -4,23 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S47](https://sbahn.berlin/fahren/s47/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Reparatur an einem Signal in Baumschulenweg beendet ###
-
- Letztes Update: 19:36 / 30.05.2024
-
-Information
-
-Nach einer Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S47 und S85 noch zu folgenden Einschränkungen:
-
-* Die Linie S47 verkehrt nur zwischen Spindlersfeld und Schöneweide.
-* Die Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
