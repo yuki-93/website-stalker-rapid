@@ -8,30 +8,15 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Signal in Baumschulenweg ###
 
- Letztes Update: 16:48 / 30.05.2024
+ Letztes Update: 17:55 / 30.05.2024
 
 Information
 
 Wegen einer Reparatur an einem Signal in Baumschulenweg kommt es auf den Linien S45, S46, S47, S8, S85 und S9 zu Verspätungen und Zugausfällen sowie folgenden Einschränkungen:
 
+* Die Linie S45 verkehrt nur zwischen Flughafen BER und Schöneweide.
 * Die Linie S47 verkehrt nur zwischen Spindlersfeld und Schöneweide.
 * Die Linie S85 verkehrt nicht.
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  Verbindung unregelmäßig
-
-[S42](https://sbahn.berlin/fahren/s42/)
-
-### Reparatur am Zug in Hermannstraße und Südkreuz beendet ###
-
- Letztes Update: 16:45 / 30.05.2024
-
-Information
-
-Nach einer Reparatur am Zug in Hermannstraße und Südkreuz kommt es auf der Linie S42 noch zu Verspätungen und Zugausfällen.
-
-* Die Linie S42 verkehrt nur im 10-Minuten-Takt.
 
 Wir bitten um Entschuldigung.
 
