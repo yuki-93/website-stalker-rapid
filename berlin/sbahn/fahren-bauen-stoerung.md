@@ -4,6 +4,20 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Polizeieinsatz in Botanischer Garten beendet ###
+
+ Letztes Update: 07:58 / 31.05.2024
+
+Information
+
+Nach einem Polizeieinsatz in Botanischer Garten kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
