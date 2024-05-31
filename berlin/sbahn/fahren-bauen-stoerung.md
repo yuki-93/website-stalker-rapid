@@ -6,36 +6,22 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
-### Gegenstände auf der Strecke im Bereich Alt-Reinickendorf und Polizeieinsatz in Schulzendorf ###
+### Gegenstände auf der Strecke im Bereich Alt-Reinickendorf ###
 
- Letztes Update: 15:21 / 31.05.2024
+ Letztes Update: 15:53 / 31.05.2024
 
 Information
 
-Wegen Gegenstände auf der Strecke im Bereich Alt-Reinickendorf und eines Polizeieinsatzes in Schulzendorf ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen und Heiligensee unterbrochen.
+Wegen Gegenstände auf der Strecke im Bereich Alt-Reinickendorf ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen und Tegel unterbrochen.
 
 Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
 
 * zwischen Gesundbrunnen-Schönholz die Linie S1
 * zwischen Friedrichstraße \<\> U-Bhf. Alt Tegel die U6
-* zwischen U-Bhf. Alt-Tegel \<\> S-Bhf. Heiligensee die Buslinie 124
-* zwischen Gesundbrunnen \<\> U-Bhf. Karl-Bonhoeffer-Nervenklinik die U8
+* zwischen Gesundbrunnen \<\> U-Bhf. Karl-Bonhoeffer-Nervenklinik/ Alt-Reinickendorf die U8
+* zwischen Gesundbrunnen \<\> Eichborndamm die U8 und Buslinie 221
 
 Wir bitten um Verständnis.
-
- Takt geändert
-
-[S1](https://sbahn.berlin/fahren/s1/)
-
-### Reparatur an einem Signal in Zehlendorf ###
-
- Letztes Update: 14:27 / 31.05.2024
-
-Information
-
-Wegen einer Reparatur an einem Signal in Zehlendorf kann auf der Linie S1 zwischen Wannsee und Frohnau nur ein 10-Minuten-Takt angeboten werden.
-
-Wir bitten um Entschuldigung.
 
  Takt geändert
 
