@@ -4,6 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S46](https://sbahn.berlin/fahren/s46/)
+
+### Bauarbeiten am Bahnsteig Eichwalde, Gleis 3 (Richtung Königs Wusterhausen) ###
+
+ Letztes Update: 11:09 / 31.05.2024
+
+Information
+
+Wegen Bauarbeiten am Bahnsteig, Gleis 3 in Eichwalde entfällt für die Züge der Linie S46 (nach Königs Wusterhausen) **ab 13:00 Uhr** der Halt in Eichwalde.
+
+* Fahrgäste aus Richtung Schöneweide/ Grünau nach Eichwalde nutzen bitte die Linie S8 oder fahren mit der S46 bis Zeuthen und nutzen ab dort die Züge der Gegenrichtung
+* Fahrgäste von Eichwalde nach Königs Wusterhausen nutzen bitte die Linie S8 bis Wildau und ab Wildau die S46.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
