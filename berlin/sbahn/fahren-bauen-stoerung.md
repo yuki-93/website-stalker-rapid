@@ -4,34 +4,6 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
-
-### Gegenstände auf der Strecke im Bereich Alt-Reinickendorf beseitigt ###
-
- Letztes Update: 17:13 / 31.05.2024
-
-Information
-
- Gegenstände auf der Strecke im Bereich Alt-Reinickendorf wurden beseitigt und es kommt auf der Linie S25 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
-
-### Polizeieinsatz im Bereich Bornholmer Straße beendet ###
-
- Letztes Update: 17:01 / 31.05.2024
-
-Information
-
-Nach einen Polizeieinsatz im Bereich Bornholmer Straße kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und Ausfällen.
-
-Wir bitten um Verständnis.
-
- Takt geändert
-
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
