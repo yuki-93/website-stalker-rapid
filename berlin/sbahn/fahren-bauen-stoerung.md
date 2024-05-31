@@ -4,17 +4,45 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Polizeieinsatz im Bereich Bornholmer Straße ###
+### Gegenstände auf der Strecke im Bereich Alt-Reinickendorf ###
 
- Letztes Update: 13:12 / 31.05.2024
+ Letztes Update: 14:30 / 31.05.2024
 
 Information
 
-Wegen eines Polizeieinsatzes im Bereich Bornholmer Straße kommt es auf den Linien S1, S25 und S85 zu Verspätungen und Ausfällen.
+Wegen Gegenstände auf der Strecke im Bereich Alt-Reinickendorf ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen und Tegel unterbrochen.
+
+Wir bitten um Verständnis.
+
+ Takt geändert
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Signal in Zehlendorf ###
+
+ Letztes Update: 14:27 / 31.05.2024
+
+Information
+
+Wegen einer Reparatur an einem Signal in Zehlendorf kann auf der Linie S1 zwischen Wannsee und Frohnau nur ein 10-Minuten-Takt angeboten werden.
 
 Wir bitten um Entschuldigung.
+
+ Takt geändert
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz im Bereich Bornholmer Straße beendet ###
+
+ Letztes Update: 14:05 / 31.05.2024
+
+Information
+
+Nach einen Polizeieinsatz im Bereich Bornholmer Straße kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
 
  Takt geändert
 
