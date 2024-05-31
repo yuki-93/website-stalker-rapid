@@ -6,20 +6,27 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S25](https://sbahn.berlin/fahren/s25/)
 
-### Gegenstände auf der Strecke im Bereich Alt-Reinickendorf ###
+### Gegenstände auf der Strecke im Bereich Alt-Reinickendorf beseitigt ###
 
- Letztes Update: 15:53 / 31.05.2024
+ Letztes Update: 17:13 / 31.05.2024
 
 Information
 
-Wegen Gegenstände auf der Strecke im Bereich Alt-Reinickendorf ist der Zugverkehr der Linie S25 zwischen Gesundbrunnen und Tegel unterbrochen.
+ Gegenstände auf der Strecke im Bereich Alt-Reinickendorf wurden beseitigt und es kommt auf der Linie S25 noch zu Verspätungen und Ausfällen.
 
-Bitte nutzen Sie folgende Umfahrungsmöglichkeiten:
+Wir bitten um Verständnis.
 
-* zwischen Gesundbrunnen-Schönholz die Linie S1
-* zwischen Friedrichstraße \<\> U-Bhf. Alt Tegel die U6
-* zwischen Gesundbrunnen \<\> U-Bhf. Karl-Bonhoeffer-Nervenklinik/ Alt-Reinickendorf die U8
-* zwischen Gesundbrunnen \<\> Eichborndamm die U8 und Buslinie 221
+ Takt geändert
+
+[S1](https://sbahn.berlin/fahren/s1/)[S25](https://sbahn.berlin/fahren/s25/)[S85](https://sbahn.berlin/fahren/s85/)
+
+### Polizeieinsatz im Bereich Bornholmer Straße beendet ###
+
+ Letztes Update: 17:01 / 31.05.2024
+
+Information
+
+Nach einen Polizeieinsatz im Bereich Bornholmer Straße kommt es auf den Linien S1, S25 und S85 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
