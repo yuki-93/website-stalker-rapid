@@ -2,22 +2,6 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
-### Störungen ###
-
-[S2](https://sbahn.berlin/fahren/s2/)
-
-### Unterbrechung Ersatzverkehr Linie S2 zwischen Attilastraße \<\> Marienfelde ###
-
- Letztes Update: 17:53 / 01.06.2024
-
-Information
-
-Wegen eines Verkehrsunfalles ist der Ersatzverkehr mit Bussen auf der Linie S2 zwischen Attilastraße \<\> Marienfelde zur Zeit unterbrochen.
-
-Wir bitten um Verständnis.
-
- fährt nicht  keine Verbindung
-
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
