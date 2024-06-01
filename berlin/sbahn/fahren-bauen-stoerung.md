@@ -8,7 +8,7 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 11:45 / 01.06.2024
+ Letztes Update: 13:35 / 01.06.2024
 
 Information
 
@@ -16,7 +16,7 @@ Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S47 nur zwi
 
 Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.
 
-**Beachten Sie bitte**: die Züge nach Spindlersfeld fahren in Schöneweide von **Gleis 5** (Bahnsteig Richtung stadteinwärts), Abfahrt jeweils zur Minute 16, 36 und 56.
+**Beachten Sie bitte**: die Züge nach Spindlersfeld fahren in Schöneweide von **Gleis 5** (Bahnsteig Richtung stadteinwärts, Abfahrt jeweils zur Minute 16, 36 und 56).
 
 Wir bitten um Entschuldigung.
 
