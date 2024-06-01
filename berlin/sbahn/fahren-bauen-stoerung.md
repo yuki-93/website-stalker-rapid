@@ -4,23 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S47](https://sbahn.berlin/fahren/s47/)
+[S2](https://sbahn.berlin/fahren/s2/)
 
-### Reparatur an einer Weiche in Südkreuz ###
+### Unterbrechung Ersatzverkehr Linie S2 zwischen Attilastraße \<\> Marienfelde ###
 
- Letztes Update: 13:35 / 01.06.2024
+ Letztes Update: 17:53 / 01.06.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S47 nur zwischen Spindlersfeld und **Schöneweide**.
+Wegen eines Verkehrsunfalles ist der Ersatzverkehr mit Bussen auf der Linie S2 zwischen Attilastraße \<\> Marienfelde zur Zeit unterbrochen.
 
-Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.
+Wir bitten um Verständnis.
 
-**Beachten Sie bitte**: die Züge nach Spindlersfeld fahren in Schöneweide von **Gleis 5** (Bahnsteig Richtung stadteinwärts, Abfahrt jeweils zur Minute 16, 36 und 56).
-
-Wir bitten um Entschuldigung.
-
- Zugverkehr verändert  keine Verbindung
+ fährt nicht  keine Verbindung
 
 ### Baumaßnahmen ###
 
