@@ -4,21 +4,23 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S45](https://sbahn.berlin/fahren/s45/)
+[S47](https://sbahn.berlin/fahren/s47/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
 
- Letztes Update: 04:12 / 01.06.2024
+ Letztes Update: 11:45 / 01.06.2024
 
 Information
 
-Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S45 nur zwischen Flughafen BER \<\> **Tempelhof.**
+Wegen der Reparatur an einer Weiche in Südkreuz verkehrt die Linie S47 nur zwischen Spindlersfeld und **Schöneweide**.
 
-Bitte nutzen Sie zwischen Tempelhof und Südkreuz die Linien S41, S42 und S46.
+Bitte nutzen Sie zwischen Schöneweide und Hermannstraße die Linien S45 und S46.
+
+**Beachten Sie bitte**: die Züge nach Spindlersfeld fahren in Schöneweide von **Gleis 5** (Bahnsteig Richtung stadteinwärts), Abfahrt jeweils zur Minute 16, 36 und 56.
 
 Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  sonstige Einschränkungen
+ Zugverkehr verändert  keine Verbindung
 
 ### Baumaßnahmen ###
 
