@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)
+[S7](https://sbahn.berlin/fahren/s7/)
 
-### Polizeieinsatz in Lichterfelde Ost ###
+### Reparatur am Zug in Ahrensfelde ###
 
- Letztes Update: 11:07 / 02.06.2024
+ Letztes Update: 12:01 / 02.06.2024
 
 Information
 
-Wegen eines Polizeieinsatzes am S-Bahnhof Lichterfelde Ost (Fahrradsternfahrt) kommt es beim Ersatzverkehr mit Bussen für die Linie S25 zwischen Lichterfelde Ost und Südende zu Verspätungen und Ausfällen.
+Wegen einer Reparatur am Zug in Ahrensfelde kommt es auf der Linie S7 zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
- Ersatzverkehr  sonstige Einschränkungen
+ Zugverkehr verändert  Verbindung unregelmäßig
 
 ### Baumaßnahmen ###
 
