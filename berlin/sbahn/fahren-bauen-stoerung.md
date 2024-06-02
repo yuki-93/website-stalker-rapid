@@ -6,13 +6,13 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S7](https://sbahn.berlin/fahren/s7/)
 
-### Reparatur am Zug in Ahrensfelde ###
+### Reparatur am Zug in Ahrensfelde beendet ###
 
- Letztes Update: 12:01 / 02.06.2024
+ Letztes Update: 12:32 / 02.06.2024
 
 Information
 
-Wegen einer Reparatur am Zug in Ahrensfelde kommt es auf der Linie S7 zu Verspätungen und einzelnen Ausfällen.
+Nach einer Reparatur am Zug in Ahrensfelde kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
 
 Wir bitten um Entschuldigung.
 
