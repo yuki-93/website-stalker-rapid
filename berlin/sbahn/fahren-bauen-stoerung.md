@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S1](https://sbahn.berlin/fahren/s1/)
+[S25](https://sbahn.berlin/fahren/s25/)
 
-### Tiere auf der Strecke im Bereich Lehnitz geborgen ###
+### Polizeieinsatz in Lichterfelde Ost ###
 
- Letztes Update: 10:21 / 02.06.2024
+ Letztes Update: 11:07 / 02.06.2024
 
 Information
 
-Nach Tieren auf der Strecke im Bereich Lehnitz kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
+Wegen eines Polizeieinsatzes am S-Bahnhof Lichterfelde Ost (Fahrradsternfahrt) kommt es beim Ersatzverkehr mit Bussen für die Linie S25 zwischen Lichterfelde Ost und Südende zu Verspätungen und Ausfällen.
 
 Wir bitten um Ihr Verständnis.
 
- Zugverkehr verändert  Verbindung verspätet
+ Ersatzverkehr  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
