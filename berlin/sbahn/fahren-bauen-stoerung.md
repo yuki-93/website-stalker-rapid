@@ -4,19 +4,19 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
+[S3](https://sbahn.berlin/fahren/s3/)[S5](https://sbahn.berlin/fahren/s5/)[S7](https://sbahn.berlin/fahren/s7/)[S9](https://sbahn.berlin/fahren/s9/)
 
-### Polizeieinsatz wegen unbefugter Personen auf der Strecke zwischen Lichterfelde Süd und Teltow Stadt beendet ###
+### Reparatur an einem Signal in Alexanderplatz beendet ###
 
- Letztes Update: 14:17 / 02.06.2024
+ Letztes Update: 15:51 / 02.06.2024
 
 Information
 
-Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke kommt es auf den Linien S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einer Reparatur an einem Signal in Alexanderplatz kommt es auf den Linien S3, S5, S7 und S9 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Ihr Verständnis.
+Wir bitten um Entschuldigung.
 
- Zugverkehr verändert  Verbindung unregelmäßig
+ Zugverkehr verändert  sonstige Einschränkungen
 
 ### Baumaßnahmen ###
 
