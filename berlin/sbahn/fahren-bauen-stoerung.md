@@ -4,17 +4,17 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
-[S7](https://sbahn.berlin/fahren/s7/)
+[S25](https://sbahn.berlin/fahren/s25/)[S26](https://sbahn.berlin/fahren/s26/)
 
-### Reparatur am Zug in Ahrensfelde beendet ###
+### Polizeieinsatz wegen unbefugter Personen auf der Strecke zwischen Lichterfelde Süd und Teltow Stadt beendet ###
 
- Letztes Update: 12:32 / 02.06.2024
+ Letztes Update: 14:17 / 02.06.2024
 
 Information
 
-Nach einer Reparatur am Zug in Ahrensfelde kommt es auf der Linie S7 noch zu Verspätungen und einzelnen Ausfällen.
+Nach einem Polizeieinsatz wegen unbefugter Personen auf der Strecke kommt es auf den Linien S25 und S26 noch zu Verspätungen und einzelnen Ausfällen.
 
-Wir bitten um Entschuldigung.
+Wir bitten um Ihr Verständnis.
 
  Zugverkehr verändert  Verbindung unregelmäßig
 
