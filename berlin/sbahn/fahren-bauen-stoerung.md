@@ -2,6 +2,22 @@ Hinweis
 
 Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthalten.
 
+### Störungen ###
+
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Tiere auf der Strecke im Bereich Lehnitz geborgen ###
+
+ Letztes Update: 10:21 / 02.06.2024
+
+Information
+
+Nach Tieren auf der Strecke im Bereich Lehnitz kommt es auf der Linie S1 noch zu Verspätungen und einzelnen Ausfällen.
+
+Wir bitten um Ihr Verständnis.
+
+ Zugverkehr verändert  Verbindung verspätet
+
 ### Baumaßnahmen ###
 
 [S75](https://sbahn.berlin/fahren/s75/)
