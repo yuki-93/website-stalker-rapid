@@ -4,6 +4,34 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Störungen ###
 
+[S1](https://sbahn.berlin/fahren/s1/)
+
+### Reparatur an einem Zug in Zehlendorf beendet ###
+
+ Letztes Update: 16:14 / 03.06.2024
+
+Information
+
+Nach der Reparatur an einem Zug in Zehlendorf kommt es auf der Linie S1 derzeit noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Verständnis.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
+[S3](https://sbahn.berlin/fahren/s3/)
+
+### Reparatur an einem Stellwerk in Erkner beendet ###
+
+ Letztes Update: 15:50 / 03.06.2024
+
+Information
+
+Nach der Reparatur an einem Stellwerk in Erkner kommt es auf der Linie S3 derzeit noch zu Verspätungen und Ausfällen.
+
+Wir bitten um Entschuldigung.
+
+ sonstige Einschränkungen  Verbindung unregelmäßig
+
 [S45](https://sbahn.berlin/fahren/s45/)
 
 ### Reparatur an einer Weiche in Südkreuz ###
