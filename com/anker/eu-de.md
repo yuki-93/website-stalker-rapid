@@ -26,8 +26,6 @@ Günstige Power für den Globetrotter
 Smart reisen mit ausgewählten Sets und Überraschungsartikeln!
 2 Sets für 20% Rabatt, 3 für 25% Rabatt
 
-24. Mai - 6. Juni
-
 [Jetzt bestellenmasterBanner1](https://www.anker.com/eu-de/reiseset-angebote?ref=masterBanner1)
 
 Neuerscheinungen
