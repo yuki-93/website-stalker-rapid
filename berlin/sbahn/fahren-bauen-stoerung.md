@@ -6,17 +6,37 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 [S1](https://sbahn.berlin/fahren/s1/)
 
-### Reparatur an einem Zug in Zehlendorf beendet ###
+### Gegenstände auf der Strecke beseitigt ###
 
- Letztes Update: 16:57 / 03.06.2024
+ Letztes Update: 18:23 / 03.06.2024
 
 Information
 
-Nach der Reparatur an einem Zug in Zehlendorf kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
+Nach Personen und Gegenständen auf der Strecke kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
- sonstige Einschränkungen  Verbindung unregelmäßig
+ sonstige Einschränkungen  Verbindung verspätet
+
+[S41](https://sbahn.berlin/fahren/s41/)[S42](https://sbahn.berlin/fahren/s42/)[S8](https://sbahn.berlin/fahren/s8/)
+
+### ab 22 Uhr: kurzfristige Bauarbeiten in Landsberger Allee ###
+
+ Letztes Update: 17:50 / 03.06.2024
+
+Information
+
+Wegen kurzfristiger Bauarbeiten in Landsberger Allee kommt es auf den Linien S41, S42 und S8 in der heutigen Nacht (03./04.06.2024 (Mo/Di) in der Zeit von ca. 22:00 Uhr bis 03:40 Uhr zu nachfolgenden Einschränkungen:
+
+Linie S41 verkehrt im 20-Minuten-Takt, zwischen Gesundbrunnen \> Frankfurter Allee im 10-Minuten-Takt,
+
+Linie S42 verkehrt im 20-Minuten-Takt, zwischen Frankfurter Allee \> Gesundbrunnen im 10-Minuten-Takt,
+
+Linie S8 verkehrt Birkenwerder / Blankenburg \<\> Schönhauser Allee sowie Grünau \<\> Treptower Park.
+
+Wir bitten um Entschuldigung.
+
+ Zugverkehr verändert  sonstige Einschränkungen
 
 [S3](https://sbahn.berlin/fahren/s3/)
 
