@@ -8,11 +8,11 @@ Alle Baumaßnahmen (inkl. Busersatzverkehre) sind in der Fahrplanauskunft enthal
 
 ### Reparatur an einem Zug in Zehlendorf beendet ###
 
- Letztes Update: 16:14 / 03.06.2024
+ Letztes Update: 16:57 / 03.06.2024
 
 Information
 
-Nach der Reparatur an einem Zug in Zehlendorf kommt es auf der Linie S1 derzeit noch zu Verspätungen und Ausfällen.
+Nach der Reparatur an einem Zug in Zehlendorf kommt es auf der Linie S1 noch zu Verspätungen und Ausfällen.
 
 Wir bitten um Verständnis.
 
