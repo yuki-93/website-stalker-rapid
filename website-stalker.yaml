@@ -122,7 +122,7 @@ sites:
       - html_url_canonicalize
       - html_markdownify
       - regex_replace:
-          pattern: "\n\d+[\n\s:]*(?:Tag|Std|Min|Sek)\S*\n"
+          pattern: '\n\d+[\n\s:]*(?:Tag|Std|Min|Sek)\S*\n'
           replace: ""
           
   - url: https://www.berliner-feuerwehr.de/aktuelles/einsaetze
