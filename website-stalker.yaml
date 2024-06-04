@@ -1,8 +1,17 @@
 ---
-sites:  
+sites:
+  # Berlin
   - url: https://warnung.bund.de/api31/mowas/rss/110000000000.rss
     editors:
       - html_markdownify
+  # OHV
+  - url: https://warnung.bund.de/api31/mowas/rss/120650000000.rss
+    editors:
+      - html_markdownify
+  # Düren
+  - url: https://warnung.bund.de/api31/mowas/rss/053580000000.rss
+    editors:
+      - html_markdownify    
       
   - url: https://www.berliner-feuerwehr.de/aktuelles/einsaetze
     editors:
