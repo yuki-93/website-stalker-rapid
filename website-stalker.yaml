@@ -2,7 +2,6 @@
 sites:  
   - url: https://warnung.bund.de/meldungen
     editors:
-      - css_select: .list__content
       - html_markdownify
       
   - url: https://www.berliner-feuerwehr.de/aktuelles/einsaetze
