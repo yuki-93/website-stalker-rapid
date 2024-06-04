@@ -113,7 +113,7 @@ sites:
   - url: https://www.bvg.de/de/verbindungen/stoerungsmeldungen?type=TRAFFIC
     ignore_error: true
     editors:
-      - css_select: .DisruptionsOverview_DisruptionGroupSection__GTXXL
+      - css_select: '[class^="DisruptionsOverviewVersionTwo_DisruptionGroupSection"]' 
       - html_markdownify
 
   - url: https://www.anker.com/eu-de
