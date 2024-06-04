@@ -26,7 +26,7 @@ Matter devices truly shine when they talk via Thread. This groundbreaking networ
 
 ###  These Eve devices come with Matter compatibility. ###
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart plug
 
@@ -75,7 +75,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart plug
 
@@ -201,7 +201,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -248,7 +248,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -320,7 +320,7 @@ Any HomeKit accessories you own will continue to work as usual. You’ll be able
 
 ###  Good to know ###
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart plug
 
@@ -369,7 +369,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy](/en/eve-energy)
+[Eve Energy](/index%2Ephp/en/eve-energy)
 
  Smart plug
 
@@ -495,7 +495,7 @@ Not available in your country
 * Set the sensitivity of the motion detector individually by location.
 * [Visit product page](/en/eve-motion)
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
@@ -542,7 +542,7 @@ Not available in your country
 
  Choose your country
 
-[Eve Energy Outlet](/en/eve-energy-outlet)
+[Eve Energy Outlet](/index%2Ephp/en/eve-energy-outlet)
 
  Smart Outlet & Power Meter
 
