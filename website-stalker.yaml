@@ -1,6 +1,6 @@
 ---
 sites:  
-  - url: https://warnung.bund.de/meldungen
+  - url: https://warnung.bund.de/api31/mowas/rss/110000000000.rss
     editors:
       - html_markdownify
       
