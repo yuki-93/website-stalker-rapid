@@ -110,11 +110,6 @@ sites:
       - html_url_canonicalize
       - html_markdownify
 
-  - url: https://www.bvg.de/de/verbindungen/stoerungsmeldungen?type=TRAFFIC
-    ignore_error: true
-    editors:
-      - html_markdownify
-
   - url: https://www.anker.com/eu-de
     editors:
       - css_remove: media, img, script, noscript, style
