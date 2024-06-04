@@ -122,12 +122,12 @@ sites:
       - html_url_canonicalize
       - html_markdownify
       - regex_replace:
-          pattern: '\n\d+[\n\s:]*(?:Tag|Std|Min|Sek)\S*\n'
+          pattern: "\n\d+[\n\s:]*(?:Tag|Std|Min|Sek)\S*\n"
           replace: ""
           
   - url: https://www.berliner-feuerwehr.de/aktuelles/einsaetze
     editors:
-      - css_select: #layout-grid__area--maincontent
+      - css_select: "#layout-grid__area--maincontent"
       - css_remove: media, img, script, noscript, style
       - html_url_canonicalize
       - html_markdownify
