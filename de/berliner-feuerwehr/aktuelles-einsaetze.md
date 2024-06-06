@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandmeldung in Sicherheitslabor
+  ----------
+
+   06.06.2024 - 06:37
+
+   Erkundung mit 80 Kräften
+  [Mehr zu: Brandmeldung in Sicherheitslabor](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandmeldung-in-sicherheitslabor-4453/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Tiefgarage
   ----------
 
@@ -187,16 +197,6 @@
 
    Person aus brennender Wohnung gerettet.
   [Mehr zu: Brand in Charlottenburg](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-charlottenburg-9-4394/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Wohnung in Weißensee
-  ----------
-
-   28.02.2024 - 16:44
-
-   Umfangreiche Verrauchung der ganzen Etage
-  [Mehr zu: Brand in einer Wohnung in Weißensee](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-weissensee-4393/)
 
 * Seite zurück
 
