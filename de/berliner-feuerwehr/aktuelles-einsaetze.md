@@ -5,7 +5,7 @@
 
    25.06.2024 - 23:06
 
-   Anrufer meldeten schweren Unfall mit mehreren Verketzten
+   Anrufer meldeten schweren Unfall mit mehreren Verletzten
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-neukoelln-2-4474/)
 
 * Bild: Berliner Feuerwehr
