@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Marzahn
+  ----------
+
+   03.07.2024 - 14:14
+
+   Geplatzte Wasserleitung füllt mehrere Keller mit Wasser
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-marzahn-2-4493/)
+
+* Bild: Berliner Feuerwehr
+
   Massenanfall an Verletzten in Friedrichshain
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person konnte gerettet werden, eine weitere Person kam leider ums Leben
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-wohnung-in-spandau-1-4465/)
-
-* Bild: Berliner Feuerwehr
-
-  Wohnungsbrand in Mitte
-  ----------
-
-   18.06.2024 - 13:25
-
-   Mehrere Wohnungen durch einen Brand betroffen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-mitte-2-4464/)
 
 * Seite zurück
 
