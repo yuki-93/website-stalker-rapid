@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Tegel
+  ----------
+
+   06.07.2024 - 02:05
+
+   Es brannten mehrere Fahrzeuge - weitere Ausbreitung verhindert!
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tegel-2-4505/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Reinickendorf
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannten Baugerüst und eine Wohnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/band-in-charlottenburg-4478/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Falkenhagener Feld
-  ----------
-
-   27.06.2024 - 01:54
-
-   7 Autos und 2 Motorräder brannten
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-falkenhagener-feld-3-4477/)
 
 * Seite zurück
 
