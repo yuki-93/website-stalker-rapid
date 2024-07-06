@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Reinickendorf
+  ----------
+
+   06.07.2024 - 02:52
+
+   Es brannte ein Imbissanhänger in ganzer Ausdehnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-9-4506/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Tegel
   ----------
 
@@ -187,16 +197,6 @@
 
    40 Einsätze zu Verkehrsunfällen in 24 Stunden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfaelle-in-berlin-4476/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Charlottenburg
-  ----------
-
-   27.06.2024 - 03:42
-
-   Es brannten Baugerüst und eine Wohnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/band-in-charlottenburg-4478/)
 
 * Seite zurück
 
