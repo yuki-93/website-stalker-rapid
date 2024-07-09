@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Vegetationsbrand in Neu-Hohenschönhausen
+  ----------
+
+   09.07.2024 - 16:22
+
+   Brand eines Feldes
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vegetationsbrand-in-neu-hohenschoenhausen-4512/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall im Westend
   ----------
 
@@ -187,16 +197,6 @@
 
    Austritt eines Gefahrstoffes in einem Fabrikgebäude.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gefahrguteinsatz-in-britz-4486/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Neu-Hohenschönhausen
-  ----------
-
-   02.07.2024 - 09:31
-
-   Lang andauernde Entrauchung nach einem Kellerbrand in einem Mehrfamilienhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-7-4485/)
 
 * Seite zurück
 
