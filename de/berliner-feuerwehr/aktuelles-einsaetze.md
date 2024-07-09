@@ -20,6 +20,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Brand eines Sportboots
+  ----------
+
+   09.07.2024 - 15:10
+
+   Es brannte ein Boot bei Müggelheim
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-sportboots-4513/)
+
+* Bild: Berliner Feuerwehr
+
   Fahrzeugbrand in Moabit
   ----------
 
@@ -187,16 +197,6 @@
 
    Menschenrettung aus einer brennenden Wohnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mariendorf-5-4487/)
-
-* Bild: Berliner Feuerwehr
-
-  Gefahrguteinsatz in Britz
-  ----------
-
-   02.07.2024 - 12:00
-
-   Austritt eines Gefahrstoffes in einem Fabrikgebäude.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gefahrguteinsatz-in-britz-4486/)
 
 * Seite zurück
 
