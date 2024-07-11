@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Menschenrettung im Landwehrkanal
+  ----------
+
+   11.07.2024 - 12:02
+
+   Taucher der Berliner Feuerwehr müssen eine Person retten. Wiederbelebung bleibt erfolglos.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/menschenrettung-im-landwehrkanal-4516/)
+
+* Bild: Berliner Feuerwehr
+
   Massenanfall von Verletzten in Westend
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte ein Abrissbagger auf einer Baustelle
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-koepenick-6-4494/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Marzahn
-  ----------
-
-   03.07.2024 - 06:24
-
-   Geplatzte Wasserleitung füllt mehrere Keller mit Wasser
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-marzahn-2-4493/)
 
 * Seite zurück
 
