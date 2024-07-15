@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem Hochhaus in Neukölln
+  ----------
+
+   15.07.2024 - 14:42
+
+   Betroffen war der Balkon einer Wohnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-neukoelln-4525/)
+
+* Bild: Berliner Feuerwehr
+
   Gebäudebrand in Tempelhof
   ----------
 
@@ -187,16 +197,6 @@
 
    Maisonettewohnung brannte
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-8-4504/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Gesundbrunnen
-  ----------
-
-   05.07.2024 - 15:05
-
-   Alarmiert durch Rauchwarnmelder
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-gesundbrunnen-10-4503/)
 
 * Seite zurück
 
