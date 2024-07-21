@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Feuerwehreinsatz in Marienfelde
+  ----------
+
+   21.07.2024 - 21:38
+
+   Gemeldet wurde eine Explosion
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/feuerwehreinsatz-in-marienfelde-4541/)
+
+* Bild: Berliner Feuerwehr
+
   Strassenbahnunfall in Gesundbrunnen
   ----------
 
@@ -187,16 +197,6 @@
 
    Eine Person wurde aus der Brandwohnung gerettet.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-gesundbrunnen-4519/)
-
-* Bild: Berliner Feuerwehr
-
-  Erneute Rettung aus Gewässer
-  ----------
-
-   11.07.2024 - 14:25
-
-   Besatzung eines Löschfahrzeuges rettet Person aus Plötzensee.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/erneute-rettung-aus-gewaesser-4518/)
 
 * Seite zurück
 
