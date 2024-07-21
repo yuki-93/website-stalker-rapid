@@ -15,7 +15,7 @@
 
    21.07.2024 - 13:02
 
-   Ertrunkungsunfall im Sommerbad
+   Ertrinkungsunfall im Sommerbad
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-schmargendorf-4537/)
 
 * Bild: Berliner Feuerwehr
