@@ -5,7 +5,7 @@
 
    24.07.2024 - 01:13
 
-   Starke Verrauchung des Treppenraumes
+   Starke Verrauchung des Treppenraumes durch brennenden Kinderwagen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-wohngebaeude-in-hellersdorf-4548/)
 
 * Bild: Berliner Feuerwehr
