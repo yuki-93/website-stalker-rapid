@@ -198,11 +198,14 @@
    Betroffen war der Hausflur
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-hochhaus-in-lichtenberg-4528/)
 
-* 1
-* [2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
-* [3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
+* []()
+* [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
+* [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
+* [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [nächste](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
+* [8](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/8/)
+* 1 / 8
+* [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
 ----------
