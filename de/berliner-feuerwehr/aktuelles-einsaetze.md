@@ -5,7 +5,7 @@
 
    25.07.2024 - 15:52
 
-   Es brennt eine Küche im 2. Obergeschoss eines Mehrfamilienhauses
+   Es brannte eine Küche im 2. Obergeschoss eines Mehrfamilienhauses
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-8-4556/)
 
 * Bild: Berliner Feuerwehr
