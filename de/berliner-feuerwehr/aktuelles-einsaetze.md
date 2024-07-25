@@ -15,7 +15,7 @@
 
    25.07.2024 - 15:20
 
-   Bei Bauarbeiten wurde eine Gasleitung beschädigt. Absperrungen werden eingerichtet, Brandschutz ist sichergestellt.
+   Bei Bauarbeiten wurde eine Gasleitung beschädigt. Absperrungen wurden eingerichtet und Brandschutz sichergestellt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasaustritt-in-lichtenrade-4555/)
 
 * Bild: Berliner Feuerwehr
