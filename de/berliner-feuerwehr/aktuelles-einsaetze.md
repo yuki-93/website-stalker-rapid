@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Neu-Hohenschönhausen
+  ----------
+
+   25.07.2024 - 15:52
+
+   Es brennt eine Küche im 2. Obergeschoss eines Mehrfamilienhauses
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neu-hohenschoenhausen-8-4556/)
+
+* Bild: Berliner Feuerwehr
+
   Gasaustritt in Lichtenrade
   ----------
 
@@ -187,16 +197,6 @@
 
    Ertrinkungsunfall im Sommerbad
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-schmargendorf-4537/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Wedding
-  ----------
-
-   21.07.2024 - 12:33
-
-   Wohnungbrand gemeldet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-4-4536/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
