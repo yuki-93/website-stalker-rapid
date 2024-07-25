@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Gasaustritt in Lichtenrade
+  ----------
+
+   25.07.2024 - 15:20
+
+   Bei Bauarbeiten wurde eine Gasleitung beschädigt. Absperrungen werden eingerichtet, Brandschutz ist sichergestellt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasaustritt-in-lichtenrade-4555/)
+
+* Bild: Berliner Feuerwehr
+
   Einsatz mit Gefahrgut in Fennpfuhl
   ----------
 
@@ -187,16 +197,6 @@
 
    Wohnungbrand gemeldet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wedding-4-4536/)
-
-* Bild: Berliner Feuerwehr
-
-  Rettungsdiensteinsatz in Schöneberg
-  ----------
-
-   21.07.2024 - 00:28
-
-   10 Verletzte - Einsatzstichwort MANV
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-schoeneberg-4535/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
