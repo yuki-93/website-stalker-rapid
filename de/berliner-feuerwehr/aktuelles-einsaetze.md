@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Einsatz mit Gefahrgut in Fennpfuhl
+  ----------
+
+   25.07.2024 - 15:13
+
+   In einem Wohn- und Geschäftsgebäude wurde der Austritt von Gefahrstoffen gemeldet. Wir sind mit 50 Einsatzkräften, darunter auch Spezialtechnik…
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatz-mit-gefahrgut-in-fennpfuhl-4554/)
+
+* Bild: Berliner Feuerwehr
+
   Brandmeldung aus Hochhaus in Marienfelde
   ----------
 
@@ -188,23 +198,13 @@
    10 Verletzte - Einsatzstichwort MANV
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-schoeneberg-4535/)
 
-* Bild: Berliner Feuerwehr
-
-  Brand in Alt-Hohenschönhausen
-  ----------
-
-   20.07.2024 - 04:07
-
-   Brennendes Recycling-Material
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-alt-hohenschoenhausen-2-4534/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [8](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/8/)
-* 1 / 8
+* [9](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/9/)
+* 1 / 9
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
