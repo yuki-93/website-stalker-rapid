@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Schöneberg
+  ----------
+
+   29.07.2024 - 17:30
+
+   Vollbrand einer Wohnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-schoeneberg-1-4563/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall auf der BAB
   ----------
 
@@ -187,16 +197,6 @@
 
    Verkehrsunfall zwischen 2 PKW - 5 Verletzte
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-und-technische-hilfe-in-mitte-4543/)
-
-* Bild: Berliner Feuerwehr
-
-  Wasserrettungseinsatz in Köpenick
-  ----------
-
-   21.07.2024 - 21:46
-
-   3 Personen von einem Boot vermisst
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrettungseinsatz-in-koepenick-4542/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
