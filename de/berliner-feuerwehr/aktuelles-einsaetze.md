@@ -15,7 +15,7 @@
 
    29.07.2024 - 16:30
 
-   Mehrere Verletzte bei Verkehrsunfall in Westend
+   Drei Verletzte bei Verkehrsunfall in Westend
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-auf-der-bab-1-4562/)
 
 * Bild: Berliner Feuerwehr
