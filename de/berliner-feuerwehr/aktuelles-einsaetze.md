@@ -3,7 +3,7 @@
   Verkehrsunfall in Britz
   ----------
 
-   05.08.2024 - 12:22
+   05.08.2024 - 12:15
 
    Notrufmeldung Pkw gegen Bus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-britz-1-4570/)
