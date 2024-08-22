@@ -3,7 +3,7 @@
   Verkehrsunfall in Lichterfelde
   ----------
 
-   22.08.2024 - 16:31
+   22.08.2024 - 13:11
 
    Pkw fuhr in Bäckerei - 2 Verletzte
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-lichterfelde-1-4600/)
