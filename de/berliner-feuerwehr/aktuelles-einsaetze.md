@@ -3,9 +3,9 @@
   Brand in Reinickendorf
   ----------
 
-   17.09.2024 - 23:57
+   17.09.2024 - 21:35
 
-   Es brannten 2 Werkstatthallen und mehrere Fahrzeuge
+   Es brannten ein Hallenkomplex und mehrere Fahrzeuge
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-11-4642/)
 
 * Bild: Berliner Feuerwehr
