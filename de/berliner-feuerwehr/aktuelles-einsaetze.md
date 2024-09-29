@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Lichtenrade
+  ----------
+
+   29.09.2024 - 13:43
+
+   Kellerbrand in einem Hochhaus mit umfangreicher Verrauchung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenrade-4-4660/)
+
+* Bild: Berliner Feuerwehr
+
   Bootsbrand in Siemensstadt
   ----------
 
@@ -187,16 +197,6 @@
 
    Rauchentwicklung aus einem Notausstieg der U-Bahn am Fehrbelliner Platz
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rauchentwicklung-aus-u-bahn-tunnel-4635/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Lichterfelde und Wilhelmstadt
-  ----------
-
-   10.09.2024 - 21:11
-
-   zwei Personen gerettet
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-lichterfelde-und-wilhelmstadt-4633/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
