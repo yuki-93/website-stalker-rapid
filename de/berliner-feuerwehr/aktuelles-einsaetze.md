@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Einsatz beim 50. Berlin Marathon
+  ----------
+
+   29.09.2024 - 18:00
+
+   Ruhigerer Verlauf - aber 5 Teilnehmende mussten Reanimiert werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/einsatz-beim-50-berlin-marathon-4661/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Lichtenrade
   ----------
 
@@ -187,16 +197,6 @@
 
    Es brannte in einer Dachgeschosswohnung, eine Katze wurde gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-22-4636/)
-
-* Bild: Berliner Feuerwehr
-
-  Rauchentwicklung aus U-Bahn-Tunnel
-  ----------
-
-   12.09.2024 - 20:10
-
-   Rauchentwicklung aus einem Notausstieg der U-Bahn am Fehrbelliner Platz
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rauchentwicklung-aus-u-bahn-tunnel-4635/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
