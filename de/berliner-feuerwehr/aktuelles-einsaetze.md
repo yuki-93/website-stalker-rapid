@@ -1,5 +1,19 @@
 * Bild: Berliner Feuerwehr
 
+  Brand eines Produktionsgebäudes in Charlottenburg-Nord
+  ----------
+
+   03.10.2024 - 05:14
+
+  Vollbrand eines Produktionsgebäudes mit Fahrzeugen in der Riedemannstraße inn Charlottenburg-Nord.
+
+  Bisher 85 Einsätzkräfte vor Ort oder auf Anfahrt.
+
+  …
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-produktionsgebaeudes-in-charlottenburg-nord-4665/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einer Schule in Steglitz
   ----------
 
@@ -187,16 +201,6 @@
 
    Massenanfall von Verletzten auf Veranstaltungsboot
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-verletzte-in-mitte-4641/)
-
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Neukölln
-  ----------
-
-   14.09.2024 - 16:46
-
-   Fünf verletzte Personen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-neukoelln-4-4639/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
