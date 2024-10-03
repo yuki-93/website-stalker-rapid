@@ -5,11 +5,10 @@
 
    03.10.2024 - 05:14
 
-  Vollbrand eines Produktionsgebäudes mit Fahrzeugen in der Riedemannstraße inn Charlottenburg-Nord.
+  Vollbrand eines Produktionsgebäudes auf einer Fläche von ca. 1.400 m2 und mehreren Kraftfahrzeugen in der Riedemannstraße in Charlottenburg-Nord.
 
-  Bisher 85 Einsätzkräfte vor Ort oder auf Anfahrt.
+  Die…
 
-  …
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-produktionsgebaeudes-in-charlottenburg-nord-4665/)
 
 * Bild: Berliner Feuerwehr
