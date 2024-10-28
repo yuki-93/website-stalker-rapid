@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Mitte
+  ----------
+
+   28.10.2024 - 18:50
+
+   Rettung aus der Spree
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-6-4687/)
+
+* Bild: Berliner Feuerwehr
+
+  Brandbekämpfung in Lichtenberg
+  ----------
+
+   28.10.2024 - 11:46
+
+   Brand einer leerstehenden Baracke
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-lichtenberg-4686/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Marzahn
   ----------
 
@@ -177,26 +197,6 @@
 
    Ausbreitung vom Balkon in die Wohnung war nicht zu verhindern
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/default-12fb5b9d3016d37d6d3e29e6533489f0-1-4666/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand eines Produktionsgebäudes in Charlottenburg-Nord
-  ----------
-
-   03.10.2024 - 05:14
-
-   Riegelstellung über 3 Drehleitern verhindert ein Übergreifen der Flammen auf umliegende Gebäude
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-eines-produktionsgebaeudes-in-charlottenburg-nord-4665/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einer Schule in Steglitz
-  ----------
-
-   02.10.2024 - 05:05
-
-   Es brannte Mobilliar im Erdgeschoss eines Aufenthaltraumes.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-schule-in-steglitz-4664/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
