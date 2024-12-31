@@ -1,11 +1,11 @@
 * Bild: Berliner Feuerwehr
 
-  Wasserrohrbruch in Gesundbrunnen
+  Wasserrohrbruch im Wedding
   ----------
 
    31.12.2024 - 19:58
 
-   Wasserversorgung im Norden und in Berlin-Mitte gestört
+   Wasserversorgung in großen Teilen Berlins gestört
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserrohrbruch-in-gesundbrunnen-4748/)
 
 * Bild: Berliner Feuerwehr
