@@ -10,6 +10,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Explosion in Schöneberg
+  ----------
+
+   01.01.2025 - 01:59
+
+   Ausgedehnter Schaden an 7 Gebäuden - mehrere Personen verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/explosion-in-schoeneberg-4758/)
+
+* Bild: Berliner Feuerwehr
+
   Rettungsdiensteinsatz in Tegel
   ----------
 
@@ -189,23 +199,13 @@
    Gasausströmung auf der Straße
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-lichtenberg-4735/)
 
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Schöneberg
-  ----------
-
-   20.12.2024 - 00:29
-
-   4 Personen verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-schoeneberg-3-4734/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [14](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/14/)
-* 1 / 14
+* [15](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/15/)
+* 1 / 15
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
