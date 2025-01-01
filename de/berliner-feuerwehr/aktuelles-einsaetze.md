@@ -1,15 +1,5 @@
 * Bild: Berliner Feuerwehr
 
-  Rettungsdiensteinsatz in Tegel
-  ----------
-
-   01.01.2025 - 09:29
-
-   Mehrere Personen nach Explosion teils schwer verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-tegel-4756/)
-
-* Bild: Berliner Feuerwehr
-
   Brand in Reinickendorf
   ----------
 
@@ -17,6 +7,16 @@
 
    Kellerbrand mit starker Rauchentwicklung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-12-4754/)
+
+* Bild: Berliner Feuerwehr
+
+  Rettungsdiensteinsatz in Tegel
+  ----------
+
+   01.01.2025 - 00:33
+
+   Mehrere Personen nach Explosion teils schwer verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-tegel-4756/)
 
 * Bild: Berliner Feuerwehr
 
@@ -57,6 +57,16 @@
 
    Mehrere PKW in Tiefgarage ausgebrannt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tiefgaragenbrand-in-kreuzberg-4749/)
+
+* Bild: Berliner Feuerwehr
+
+  Brand in Moabit
+  ----------
+
+   31.12.2024 - 21:12
+
+   Kellerbrand - mehrere Personen musten gerettet werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-moabit-9-4757/)
 
 * Bild: Berliner Feuerwehr
 
@@ -188,16 +198,6 @@
 
    4 Personen verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-schoeneberg-3-4734/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Mitte
-  ----------
-
-   19.12.2024 - 13:49
-
-   Es brannte in einer Wohnung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-mitte-11-4733/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
