@@ -14,6 +14,7 @@ sites:
       - html_markdownify    
       
   - url: https://www.berliner-feuerwehr.de/aktuelles/einsaetze
+    ignoreErrors: true
     editors:
       - css_select: "#layout-grid__area--maincontent"
       - css_remove: media, img, script, noscript, style
