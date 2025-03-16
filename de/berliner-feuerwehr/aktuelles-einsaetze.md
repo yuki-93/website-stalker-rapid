@@ -5,7 +5,7 @@
 
    15.03.2025 - 20:17
 
-   Zwei Verletzte nach Bränden in der Samstagnacht
+   Zwei Verletzte nach mehreren Bränden in den Abendstunden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-15-4816/)
 
 * Bild: Berliner Feuerwehr
