@@ -5,7 +5,7 @@
 
    26.03.2025 - 04:08
 
-   Mehrere Personen gefährdet
+   Mehrere Personen über Drehleiter und mittels Brandfluchthaube gerettet
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-mehrfamilienhaus-in-neukoelln-4832/)
 
 * Bild: Berliner Feuerwehr
