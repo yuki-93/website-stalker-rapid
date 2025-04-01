@@ -10,6 +10,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Brand in Wilmersdorf
+  ----------
+
+   01.04.2025 - 11:07
+
+   Eine leblose Person in Brandwohnung
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wilmersdorf-5-4839/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Kreuzberg
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand in einer Unterkunft für Wohnungslose
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-2-4818/)
-
-* Bild: Berliner Feuerwehr
-
-  Brände in der Samstagnacht
-  ----------
-
-   15.03.2025 - 20:17
-
-   Zwei Verletzte nach mehreren Bränden in den Abendstunden
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-neukoelln-15-4816/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
