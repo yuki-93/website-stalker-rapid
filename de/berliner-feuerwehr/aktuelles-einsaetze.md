@@ -15,7 +15,7 @@
 
    12.04.2025 - 16:21
 
-   Zwei lebensgefährlich verletzte Menschen müssen reanimiert werden
+   Zwei Menschen müssen reanimiert werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/toedliche-stichverletzung-in-charlottenburg-4846/)
 
 * Bild: Berliner Feuerwehr
