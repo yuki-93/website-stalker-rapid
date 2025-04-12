@@ -10,12 +10,22 @@
 
 * Bild: Berliner Feuerwehr
 
+  Umweltschutzeinsatz im Bereich Nordgaben / Tegeler See in Tegel
+  ----------
+
+   12.04.2025 - 18:22
+
+   Zur Eindämmung der Gefahr wurde eine Ölsperre gesetzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/umweltschutz-im-nordgaben-in-tegel-4849/)
+
+* Bild: Berliner Feuerwehr
+
   Tödliche Stichverletzung in Charlottenburg
   ----------
 
    12.04.2025 - 16:21
 
-   Zwei Menschen müssen reanimiert werden
+   Zwei Personen müssen an zwei unterschiedlichen Orten reanimiert werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/toedliche-stichverletzung-in-charlottenburg-4846/)
 
 * Bild: Berliner Feuerwehr
@@ -187,16 +197,6 @@
 
    Ein Patient musste schwerstverletzt mit einem Hubschrauber in eine Spezialklinik geflogen werden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-falkenhagener-feld-4-4824/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Kreuzberg
-  ----------
-
-   22.03.2025 - 09:57
-
-   Kellerbrand gegenüber der Feuerwache Urban
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-25-4823/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
