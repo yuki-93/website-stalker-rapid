@@ -10,6 +10,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Tödliche Stichverletzung in Charlottenburg
+  ----------
+
+   12.04.2025 - 16:21
+
+   Zwei lebensgefährlich verletzte Menschen müssen reanimiert werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/toedliche-stichverletzung-in-charlottenburg-4846/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Falkenhagener Feld
   ----------
 
@@ -187,16 +197,6 @@
 
    Kellerbrand gegenüber der Feuerwache Urban
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-25-4823/)
-
-* Bild: Berliner Feuerwehr
-
-  Tote Person bei Brand in Hellersdorf
-  ----------
-
-   21.03.2025 - 16:48
-
-   Bei einem Wohnungsbrand wurde eine tote Person gefunden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/tote-person-bei-brand-in-hellersdorf-4822/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
