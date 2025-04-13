@@ -70,7 +70,7 @@
 
 * Bild: Berliner Feuerwehr
 
-  Umweltschutzeinsatz im Bereich Nordgaben / Tegeler See in Tegel
+  Umweltschutzeinsatz im Bereich Nordgraben / Tegeler See in Tegel
   ----------
 
    12.04.2025 - 18:22
