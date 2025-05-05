@@ -3,7 +3,7 @@
   Brand in Heiligensee
   ----------
 
-   05.05.2025 - 06:59
+   05.05.2025 - 06:58
 
    Wohnungsbrand - zwei Personen verstorben
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-heiligensee-3-4879/)
