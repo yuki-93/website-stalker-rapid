@@ -1,6 +1,6 @@
 * Bild: Berliner Feuerwehr
 
-  Lkw-Brand auf der Autobahn in Treptow
+  LKW-Brand auf der Autobahn in Treptow
   ----------
 
    05.06.2025 - 16:34
