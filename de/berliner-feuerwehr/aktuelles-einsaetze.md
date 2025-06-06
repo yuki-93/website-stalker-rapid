@@ -10,7 +10,7 @@
 
 * Bild: Berliner Feuerwehr
 
-  Brand in einem Zulieferbetrieb in Moabit
+  Brand in einem Zulieferbetrieb der Energiewirtschaft in Moabit
   ----------
 
    06.06.2025 - 11:12
