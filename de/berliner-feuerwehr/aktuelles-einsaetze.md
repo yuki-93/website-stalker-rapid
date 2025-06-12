@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Mitte
+  ----------
+
+   12.06.2025 - 20:30
+
+   Pkw kollidiert mit Polizeifahrzeug.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-2-4942/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Reinickendorf
   ----------
 
@@ -188,23 +198,13 @@
    Es brannte das Dach eines Einfamilienhauses
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-staaken-12-4918/)
 
-* Bild: Berliner Feuerwehr
-
-  Verkehrsunfall in Reinickendorf
-  ----------
-
-   29.05.2025 - 08:25
-
-   Fahrzeug gegen Lichtmast - Zwei Schwerverletzte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-reinickendorf-1-4920/)
-
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
 * [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 * [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [19](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/19/)
-* 1 / 19
+* [20](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/20/)
+* 1 / 20
 * [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
