@@ -5,7 +5,7 @@
 
    12.06.2025 - 19:45
 
-   Personenrettung und Brandbekämpfung eingeleitet
+   Zwei Kinder und ein Erwachsener retteten sich durch einen Sprung aus dem 2. Obergeschoss.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-15-4941/)
 
 * Bild: Berliner Feuerwehr
