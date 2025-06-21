@@ -3,7 +3,7 @@
   Brand in Lichtenberg
   ----------
 
-   21.06.2025 - 07:52
+   21.06.2025 - 07:02
 
    Starke Verrauchung erforderte viele Trupps unter Atemschutz
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-lichtenberg-4-4953/)
