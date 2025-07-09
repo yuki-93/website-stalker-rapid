@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Wittenau
+  ----------
+
+   08.07.2025 - 23:36
+
+   Wohnungsbrand - eine Person tödlich verletzt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-5-4981/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Einfamilienhaus in Lichtenrade
   ----------
 
@@ -7,16 +17,6 @@
 
    Einsatzkräfte bestätigen offenen Dachstuhlbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-einfamilienhaus-in-lichtenrade-4980/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Wittenau
-  ----------
-
-   08.07.2025 - 19:42
-
-   Wohnungsbrand - eine Person tödlich verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-5-4981/)
 
 * Bild: Berliner Feuerwehr
 
