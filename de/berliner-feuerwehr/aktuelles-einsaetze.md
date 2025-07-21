@@ -5,7 +5,7 @@
 
    21.07.2025 - 20:43
 
-   Brennende Einrichtungsgegenstände in einen Atelier
+   Brennende Einrichtungsgegenstände in einem Atelier
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-kreuzberg-28-4993/)
 
 * Bild: Berliner Feuerwehr
