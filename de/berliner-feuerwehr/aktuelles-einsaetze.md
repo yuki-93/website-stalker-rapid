@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einem leerstehenden Gebäude in Kreuzberg
+  ----------
+
+   02.08.2025 - 19:24
+
+   Anfänglicher Verdacht einer vermissten Person blieb unbestätigt
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-leerstehenden-gebaeude-5005/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall zwischen e-Scooter und Pkw in Prenzlauer Berg
   ----------
 
@@ -188,16 +198,6 @@
 
    Wohnungsbrand - eine Person tödlich verletzt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-wittenau-5-4981/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Einfamilienhaus in Lichtenrade
-  ----------
-
-   08.07.2025 - 19:42
-
-   Einsatzkräfte bestätigen offenen Dachstuhlbrand
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-einfamilienhaus-in-lichtenrade-4980/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
