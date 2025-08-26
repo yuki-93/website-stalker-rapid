@@ -17,7 +17,7 @@ sites:
     ignore_error: true
     editors:
       - css_select: "#layout-grid__area--maincontent"
-      - css_remove: media, img, script, noscript, style
+      - css_remove: media, img, script, noscript, style, form
       - html_url_canonicalize
       - html_markdownify
       
