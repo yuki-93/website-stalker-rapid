@@ -5,7 +5,7 @@
 
    28.08.2025 - 10:01
 
-   Akut einsturzgefärdetes Gebäude wurde geräumt
+   Akut einsturzgefährdetes Gebäude wurde geräumt
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-mitte-7-5033/)
 
 * Bild: Berliner Feuerwehr
