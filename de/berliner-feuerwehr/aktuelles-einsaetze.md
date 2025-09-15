@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Wilmersdorf
+  ----------
+
+   15.09.2025 - 17:26
+
+   Bei der Kollision eines Funkwagen mit einem Pkw wurden vier Personen teils schwer verletzt.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-wilmersdorf-2-5047/)
+
+* Bild: Berliner Feuerwehr
+
   Stromausfall in Treptow-Köpenick behoben
   ----------
 
@@ -188,16 +198,6 @@
 
    Drei Personen sind durch den Vollbrand einer Wohnung leicht verletzt worden.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/vollbrand-einer-wohnung-in-kreuzberg-5025/)
-
-* Bild: Berliner Feuerwehr
-
-  Rettungsdiensteinsatz nach Stromausfall
-  ----------
-
-   17.08.2025 - 08:44
-
-   Eine Kaskade von Ereignissen führte schließlich zu einem umfangreichen Rettungsdiensteinsatz.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-nach-stromausfall-5024/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
