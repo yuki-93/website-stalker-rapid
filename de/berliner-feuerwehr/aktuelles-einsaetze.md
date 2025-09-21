@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in einer Doppelhaushälfte in Lichterfelde
+  ----------
+
+   21.09.2025 - 11:45
+
+   Ein Mensch wurde verletzt und eine Katze kam ums Leben
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einer-doppelhaushaelfte-in-lichterfelde-5056/)
+
+* Bild: Berliner Feuerwehr
+
+  Verkehrsunfall mit zwei Pkw in Friedrichshain
+  ----------
+
+   21.09.2025 - 10:30
+
+   Einer der Pkw kippte auf die Seite und blieb auf dieser liegen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-mit-zwei-pkw-in-friedrichshain-5055/)
+
+* Bild: Berliner Feuerwehr
+
   Rettungsdiensteinsatz mit technischer Komponente in Marzahn
   ----------
 
@@ -177,26 +197,6 @@
 
    Auto kippt in Folge des Aufpralls auf Seite
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-mitte-3-5032/)
-
-* Bild: Berliner Feuerwehr
-
-  Sinkendes Boot in Schmöckwitz
-  ----------
-
-   25.08.2025 - 15:57
-
-   4 Personen retteten sich von einem sinkenden Boot
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/sinkendes-boot-in-schmoeckwitz-5031/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Gropiusstadt
-  ----------
-
-   23.08.2025 - 16:25
-
-   Eine Tote bei Wohnungsbrand entdeckt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-gropiusstadt-3-5030/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
