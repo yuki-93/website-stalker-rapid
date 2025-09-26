@@ -5,7 +5,7 @@
 
    26.09.2025 - 15:12
 
-   Feuer in einer Toilette konnte zügig gelöscht werden
+   Feuer in einer Toilette konnte zügig gelöscht werden - 1 Kind leicht verletzt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-gymnasium-5063/)
 
 * Bild: Berliner Feuerwehr
