@@ -5,7 +5,7 @@
 
    22.11.2025 - 10:50
 
-   Kabelbrand in mehreren Technikräumen
+   Verrauchung in mehreren Technikräumen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiergarten-6-5106/)
 
 * Bild: Berliner Feuerwehr
