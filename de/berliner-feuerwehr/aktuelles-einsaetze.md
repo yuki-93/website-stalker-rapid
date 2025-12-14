@@ -1,11 +1,21 @@
 * Bild: Berliner Feuerwehr
 
+  Brennender Balkon am Sonntagabend
+  ----------
+
+   14.12.2025 - 20:44
+
+   Balkonbrand kann zügig gelöscht und eine Ausbreitung auf die Wohnung verhindert werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brennender-balkon-am-sonntagabend-5134/)
+
+* Bild: Berliner Feuerwehr
+
   Verkehrsunfall in Mitte
   ----------
 
    14.12.2025 - 20:13
 
-   Ein überschlagener PKW bei einem Unfall am Sonntagabend.
+   3 leicht verletzte Personen und ein überschlagener PKW bei einem Unfall am Sonntagabend
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-mitte-4-5133/)
 
 * Bild: Berliner Feuerwehr
@@ -187,16 +197,6 @@
 
    Ein Hausboot im Vollbrand
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-friedrichshain-9-5107/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Tiergarten
-  ----------
-
-   22.11.2025 - 10:50
-
-   Verrauchung in mehreren Technikräumen
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiergarten-6-5106/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
