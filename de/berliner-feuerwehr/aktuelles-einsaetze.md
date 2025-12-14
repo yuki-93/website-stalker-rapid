@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Verkehrsunfall in Mitte
+  ----------
+
+   14.12.2025 - 20:13
+
+   Ein überschlagener PKW bei einem Unfall am Sonntagabend.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-mitte-4-5133/)
+
+* Bild: Berliner Feuerwehr
+
   Wohnungsbrand in Steglitz
   ----------
 
@@ -187,16 +197,6 @@
 
    Verrauchung in mehreren Technikräumen
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-tiergarten-6-5106/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Reinickendorf
-  ----------
-
-   21.11.2025 - 14:00
-
-   Brand einer Elektroverteilung erfordert Sonderlöschmittel
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-reinickendorf-2-5105/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
