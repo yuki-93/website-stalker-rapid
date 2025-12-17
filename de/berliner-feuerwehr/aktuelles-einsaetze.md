@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Schöneberg
+  ----------
+
+   17.12.2025 - 03:50
+
+   Brand unter einer Straßenbrücke
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-schoeneberg-12-5139/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Lichtenrade
   ----------
 
@@ -187,16 +197,6 @@
 
    Einfamilienhaus brennt in voller Ausdehnung
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-mahlsdorf-5118/)
-
-* Bild: Berliner Feuerwehr
-
-  Kellerbrand in Spandau
-  ----------
-
-   30.11.2025 - 22:48
-
-   Mehrere Verletzte in einem Hochhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kellerbrand-in-spandau-2-5117/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
