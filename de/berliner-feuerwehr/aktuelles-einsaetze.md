@@ -1,5 +1,25 @@
 * Bild: Berliner Feuerwehr
 
+  Brand in Reinickendorf
+  ----------
+
+   11.01.2026 - 16:08
+
+   Wohnungsbrand in der Residenzstraße
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-reinickendorf-16-5171/)
+
+* Bild: Berliner Feuerwehr
+
+  Verkehrunfall in Staaken
+  ----------
+
+   11.01.2026 - 15:27
+
+   PKW kollidiert mit RTW
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrunfall-in-staaken-5170/)
+
+* Bild: Berliner Feuerwehr
+
   Wasserschaden am ehemaligen Flughafen Tegel
   ----------
 
@@ -177,26 +197,6 @@
 
    Austritt von Kühlmittel in einem Supermarkt.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gefahrguteinsatz-in-schoeneberg-5150/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in Prenzlauer Berg
-  ----------
-
-   28.12.2025 - 19:47
-
-   Eine Person an der Einsatzstelle verstorben
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-prenzlauer-berg-11-5147/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Staaken
-  ----------
-
-   28.12.2025 - 04:46
-
-   Brand in einem Hochhaus
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-staaken-2-5146/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
