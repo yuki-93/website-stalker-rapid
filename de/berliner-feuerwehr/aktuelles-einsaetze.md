@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wasserschaden am ehemaligen Flughafen Tegel
+  ----------
+
+   11.01.2026 - 12:13
+
+   Keller des Terminal A am Flughafen Tegel unter Wasser
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wasserschaden-am-ehemaligen-flughafen-tegel-5169/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in Neukölln
   ----------
 
@@ -187,16 +197,6 @@
 
    Brand in einem Hochhaus
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-staaken-2-5146/)
-
-* Bild: Berliner Feuerwehr
-
-  Brandbekämpfung in Lichtenrade
-  ----------
-
-   27.12.2025 - 14:55
-
-   Brand der Dachkonstruktion eines Einfamilienhauses
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-lichtenrade-1-5145/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
