@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Brandbekämpfung in Wedding
+  ----------
+
+   14.04.2026 - 21:55
+
+   Mehrere Personen durch die Feuerwehr in Sicherheit gebracht
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-wedding-2-5289/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Britz
   ----------
 
@@ -188,24 +198,14 @@
    ein verletzter Fahrradfahrer musste mit dem RTH ausgeflogen werden
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/schwierige-patientenrettung-im-grunewald-5264/)
 
-* Bild: Berliner Feuerwehr
-
-  PKW stürzt aus Parkhaus
-  ----------
-
-   24.03.2026 - 09:59
-
-   eine Person wird lebensgefährlich verletzt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/pkw-stuerzt-aus-parkhaus-1-5263/)
-
 * []()
-* [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/?fbclid=PAVERFWARLjDlleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAae2j5PEgg-s7PBDq3VUMbCFUvYB7_osCUi2yR1B7gb1XyFxZS_UVEKnW5-paA_aem_Q4dHwcCqSYUARlkQ-LqEiw)
-* [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/?fbclid=PAVERFWARLjDlleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAae2j5PEgg-s7PBDq3VUMbCFUvYB7_osCUi2yR1B7gb1XyFxZS_UVEKnW5-paA_aem_Q4dHwcCqSYUARlkQ-LqEiw)
-* [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/?fbclid=PAVERFWARLjDlleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAae2j5PEgg-s7PBDq3VUMbCFUvYB7_osCUi2yR1B7gb1XyFxZS_UVEKnW5-paA_aem_Q4dHwcCqSYUARlkQ-LqEiw)
+* [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
+* [Seite 2](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
+* [Seite 3](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/3/)
 * …
-* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/?fbclid=PAVERFWARLjDlleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAae2j5PEgg-s7PBDq3VUMbCFUvYB7_osCUi2yR1B7gb1XyFxZS_UVEKnW5-paA_aem_Q4dHwcCqSYUARlkQ-LqEiw)
+* [17](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/17/)
 * 1 / 17
-* [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/?fbclid=PAVERFWARLjDlleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAae2j5PEgg-s7PBDq3VUMbCFUvYB7_osCUi2yR1B7gb1XyFxZS_UVEKnW5-paA_aem_Q4dHwcCqSYUARlkQ-LqEiw)
+* [](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/2/)
 
 Suche und Archiv
 ----------
