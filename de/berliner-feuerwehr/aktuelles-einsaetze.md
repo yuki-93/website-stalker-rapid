@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Wohnungsbrand in Weißensee
+  ----------
+
+   07.05.2026 - 18:42
+
+   Eine Person verstirbt beim Brand einer Wohnung.
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wohnungsbrand-in-weissensee-3-5326/)
+
+* Bild: Berliner Feuerwehr
+
   Schwerer Unfall auf einer Baustelle in Staaken
   ----------
 
@@ -187,16 +197,6 @@
 
    Der Brand von Einrichtungsgegenständen in einer Wohnung fordert eine verletzte Person
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brandbekaempfung-in-britz-2-5300/)
-
-* Bild: Berliner Feuerwehr
-
-  Gasaustritt in Neukölln
-  ----------
-
-   20.04.2026 - 12:20
-
-   Mitteldruckgasleitung bei Bauarbeiten beschädigt
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasaustritt-in-neukoelln-1-5299/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
