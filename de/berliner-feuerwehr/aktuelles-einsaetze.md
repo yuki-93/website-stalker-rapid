@@ -1,5 +1,35 @@
 * Bild: Berliner Feuerwehr
 
+  Ertrinkungsunfall im Hafen Tempelhof in Tempelhof
+  ----------
+
+   27.06.2026 - 13:52
+
+   Ein Mann ist leider trotz Rettung aus dem Wasser und eingeleiteter Reanimation durch Polizeikräfte gestorben
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ertrinkungsunfall-im-tempelhofer-hafen-in-tempelhof-5394/)
+
+* Bild: Berliner Feuerwehr
+
+  Ertrinkungsunfall im Jungfernheideteich in Charlottenburg-Nord
+  ----------
+
+   27.06.2026 - 13:03
+
+   Ein Mann ist leider trotz Rettung aus dem Wasser und eingeleiteter Reanimation durch Ersthelfende verstorben
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ertrinkungsunfall-im-jungfernheideteich-in-charlottenburg-nord-5393/)
+
+* Bild: Berliner Feuerwehr
+
+  Kreislaufstillstand auf einem U-Bahnhof in Schöneberg
+  ----------
+
+   27.06.2026 - 12:20
+
+   KATRETTER sind schnell vor Ort und haben mit der Reanimation begonnen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/kreislaufstillstand-auf-einem-u-bahnhof-in-schoeneberg-5392/)
+
+* Bild: Berliner Feuerwehr
+
   Brand mehrerer Gartenlauben in Moabit
   ----------
 
@@ -167,36 +197,6 @@
 
    16 Verletzte bei Gefahrenbremsung eines Nahverkehrsbusses.
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/rettungsdiensteinsatz-in-neukoelln-3-5359/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Neu-Hohenschönhausen
-  ----------
-
-   02.06.2026 - 09:29
-
-   Entgleisung einer Straßenbahn mit mehreren Verletzten
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-neu-hohenschoenhausen-1-5358/)
-
-* Bild: Berliner Feuerwehr
-
-  Mehrere Brände am Samstag
-  ----------
-
-   30.05.2026 - 11:38
-
-   Ein Wohnungsbrand in Friedrichshain und ein Kellerbrand in Gesundbrunnen fordern die Einsatzkräfte
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-braende-am-samstag-5357/)
-
-* Bild: Berliner Feuerwehr
-
-  Technische Hilfeleistung in Friedrichshain
-  ----------
-
-   29.05.2026 - 11:27
-
-   Zusammenstoß zwischen einem LKW und einer oberirdischen Wasserleitung
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-friedrichshain-4-5355/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
