@@ -1,5 +1,15 @@
 * Bild: Berliner Feuerwehr
 
+  Technische Hilfeleistung in Moabit
+  ----------
+
+   17.07.2026 - 12:59
+
+   Eingeklemmte Person befreit
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/technische-hilfeleistung-in-moabit-4-5446/)
+
+* Bild: Berliner Feuerwehr
+
   Brandbekämpfung in Hellersdorf
   ----------
 
@@ -188,16 +198,6 @@
 
    Zusammenstoß zwischen LKW und Fahrrad
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/verkehrsunfall-in-wittenau-2-5402/)
-
-* Bild: Berliner Feuerwehr
-
-  Gasaustritt in Tempelhof
-  ----------
-
-   01.07.2026 - 10:07
-
-   Leckage an einer Hausanschlussleitung macht Räumung mehrerer Hausaufgänge erforderlich
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasaustritt-in-tempelhof-5403/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
