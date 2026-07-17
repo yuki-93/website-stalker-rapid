@@ -10,6 +10,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Brand in einem ehemaligen Autohaus in Neukölln
+  ----------
+
+   14.07.2026 - 21:11
+
+   Das Feuer konnte schnell gelöscht werden
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-ehemaligen-autohaus-in-neukoelln-5430/)
+
+* Bild: Berliner Feuerwehr
+
   Brand in einem Bungalow in Müggelheim
   ----------
 
@@ -188,16 +198,6 @@
 
    Leckage an einer Hausanschlussleitung macht Räumung mehrerer Hausaufgänge erforderlich
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/gasaustritt-in-tempelhof-5403/)
-
-* Bild: Berliner Feuerwehr
-
-  Ertrinkungsunfall im Urbanhafen in Kreuzberg
-  ----------
-
-   29.06.2026 - 15:59
-
-   Eine untergegangene Person konnte durch Taucher der Feuerwehr nur noch tot aus dem Urbanhafen geborgen werden.
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/ertrinkungsunfall-im-urbanhafen-in-kreuzberg-5400/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
