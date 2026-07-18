@@ -10,6 +10,16 @@
 
 * Bild: Berliner Feuerwehr
 
+  Wetterbedingte Einsätze
+  ----------
+
+   17.07.2026 - 19:00
+
+   Zwei Brände nach Blitzeinschlägen
+  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/wetterbedingte-einsaetze-1-5448/)
+
+* Bild: Berliner Feuerwehr
+
   Technische Hilfeleistung in Moabit
   ----------
 
@@ -188,16 +198,6 @@
 
    Brand unterschiedlicher Fahrzeugtypen - weit sichtbare Rauchentwicklung in Gesundbrunnen, keine Verletzten
   [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/mehrere-kfz-braende-im-berliner-stadtgebiet-5405/)
-
-* Bild: Berliner Feuerwehr
-
-  Brand in einem Recyclingbetrieb
-  ----------
-
-   02.07.2026 - 08:41
-
-   Große Rauchentwicklung bei Brand von Sperrmüll in einem Recyclingbetrieb
-  [Mehr](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/brand-in-einem-recyclingbetrieb-5404/)
 
 * []()
 * [Seite 1](https://www.berliner-feuerwehr.de/aktuelles/einsaetze/1/)
